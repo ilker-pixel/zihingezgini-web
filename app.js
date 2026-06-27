@@ -48,6 +48,33 @@ document.addEventListener("DOMContentLoaded", () => {
     return `${readingTime} dk okuma`;
   }
 
+  // Dynamic SEO Meta Tag Updater
+  function updateMetaTags(title, description, image) {
+    document.title = title;
+    
+    const elements = {
+      description: document.querySelector('meta[name="description"]'),
+      ogTitle: document.getElementById("og-title"),
+      ogDesc: document.getElementById("og-description"),
+      ogImage: document.getElementById("og-image"),
+      twTitle: document.getElementById("twitter-title"),
+      twDesc: document.getElementById("twitter-description"),
+      twImage: document.getElementById("twitter-image")
+    };
+    
+    const finalDesc = description || "Hayatın ritminden kaçanlar, anı yaşamak isteyenler ve filozof monologları üzerine felsefi düşünceler.";
+    const finalImg = image || "https://zihingezgini.net/images/thinking_man_sketch.png";
+    const finalTitle = title;
+    
+    if (elements.description) elements.description.setAttribute("content", finalDesc.substring(0, 160));
+    if (elements.ogTitle) elements.ogTitle.setAttribute("content", finalTitle);
+    if (elements.ogDesc) elements.ogDesc.setAttribute("content", finalDesc.substring(0, 160));
+    if (elements.ogImage) elements.ogImage.setAttribute("content", finalImg);
+    if (elements.twTitle) elements.twTitle.setAttribute("content", finalTitle);
+    if (elements.twDesc) elements.twDesc.setAttribute("content", finalDesc.substring(0, 160));
+    if (elements.twImage) elements.twImage.setAttribute("content", finalImg);
+  }
+
   // Fetch all posts index
   async function loadPostsIndex() {
     try {
@@ -134,8 +161,13 @@ document.addEventListener("DOMContentLoaded", () => {
         if (normalize(firstHeading.textContent) === normalize(post.title)) {
           firstHeading.remove();
           cleanContent = tempDiv.innerHTML;
-        }
       }
+
+      // Update document title and SEO meta tags
+      const plainText = cleanContent.replace(/<[^>]*>/g, '');
+      const postDesc = plainText.substring(0, 150).trim() + "...";
+      const fullImgUrl = post.featuredImage ? `https://zihingezgini.net${post.featuredImage}` : "https://zihingezgini.net/images/thinking_man_sketch.png";
+      updateMetaTags(`Zihin Gezgini | ${post.title}`, postDesc, fullImgUrl);
 
       postDetail.innerHTML = `
         <div class="post-header-actions">
@@ -244,7 +276,11 @@ document.addEventListener("DOMContentLoaded", () => {
     if (hash === "#/" || hash === "") {
       views.home.classList.add("active");
       if (navLinks.home) navLinks.home.classList.add("active");
-      document.title = "Zihin Gezgini | Yazılar";
+      updateMetaTags(
+        "Zihin Gezgini | Yazılar",
+        "Hayatın ritminden kaçanlar, anı yaşamak isteyenler ve filozof monologları üzerine felsefi düşünceler.",
+        "https://zihingezgini.net/images/thinking_man_sketch.png"
+      );
       // Refresh list
       if (allPosts.length === 0) {
         loadPostsIndex();
@@ -254,7 +290,11 @@ document.addEventListener("DOMContentLoaded", () => {
     } else if (hash === "#/about") {
       views.about.classList.add("active");
       if (navLinks.about) navLinks.about.classList.add("active");
-      document.title = "Zihin Gezgini | Zihin Odası";
+      updateMetaTags(
+        "Zihin Gezgini | Zihin Odası",
+        "Zihin Odası Üzerine: Gürültüden kaçış, kişisel felsefi notlar ve yavaş yaşama denemeleri.",
+        "https://zihingezgini.net/images/thinking_man_sketch.png"
+      );
     } else if (hash.startsWith("#/post/")) {
       const slug = hash.replace("#/post/", "");
       views.post.classList.add("active");

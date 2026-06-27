@@ -587,6 +587,26 @@ body {
   margin: 0 auto;
 }
 
+.about-image-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.about-featured-img {
+  max-width: 180px;
+  height: auto;
+  border-radius: 50%;
+  border: 1px solid var(--color-border);
+  background-color: var(--color-card-bg);
+  padding: 8px;
+  transition: transform 0.3s ease;
+}
+
+.about-featured-img:hover {
+  transform: rotate(3deg) scale(1.05);
+}
+
 .about-header {
   margin-bottom: 30px;
   text-align: center;
