@@ -161,6 +161,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (normalize(firstHeading.textContent) === normalize(post.title)) {
           firstHeading.remove();
           cleanContent = tempDiv.innerHTML;
+        }
       }
 
       // Update document title and SEO meta tags
