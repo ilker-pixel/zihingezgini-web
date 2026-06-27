@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let currentCategory = "all";
   let searchQuery = "";
   let currentFontSize = 1.125; // default size in rem
+  let postsToShow = 9; // Number of posts to show initially
 
   // Date formatter (Turkish locale)
   function formatDate(dateStr) {
@@ -91,6 +92,8 @@ document.addEventListener("DOMContentLoaded", () => {
   // Render post list in grid
   function renderPostsGrid() {
     postsGrid.innerHTML = "";
+    const loadMoreContainer = document.getElementById("load-more-container");
+    if (loadMoreContainer) loadMoreContainer.innerHTML = "";
     
     const filteredPosts = allPosts.filter(post => {
       const matchesCategory = currentCategory === "all" || post.category === currentCategory;
@@ -105,7 +108,10 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
     
-    filteredPosts.forEach(post => {
+    // Slice posts to only show the requested number
+    const visiblePosts = filteredPosts.slice(0, postsToShow);
+    
+    visiblePosts.forEach(post => {
       const card = document.createElement("a");
       card.className = "post-card";
       card.href = `#/post/${post.slug}`;
@@ -124,6 +130,18 @@ document.addEventListener("DOMContentLoaded", () => {
       `;
       postsGrid.appendChild(card);
     });
+
+    // Add "Load More" button if there are more posts remaining
+    if (filteredPosts.length > postsToShow && loadMoreContainer) {
+      const loadMoreBtn = document.createElement("button");
+      loadMoreBtn.className = "load-more-btn";
+      loadMoreBtn.innerHTML = "Daha Fazla Yazı Göster";
+      loadMoreBtn.addEventListener("click", () => {
+        postsToShow += 9;
+        renderPostsGrid();
+      });
+      loadMoreContainer.appendChild(loadMoreBtn);
+    }
   }
 
   // Load single post detail
@@ -321,6 +339,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "Hayatın ritminden kaçanlar, anı yaşamak isteyenler ve filozof monologları üzerine felsefi düşünceler.",
         "https://zihingezgini.net/images/thinking_man_sketch.png"
       );
+      postsToShow = 9; // Reset pagination!
       // Refresh list
       if (allPosts.length === 0) {
         loadPostsIndex();
@@ -355,6 +374,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (searchInput) {
     searchInput.addEventListener("input", (e) => {
       searchQuery = e.target.value.toLowerCase().trim();
+      postsToShow = 9; // Reset pagination!
       renderPostsGrid();
     });
   }
@@ -364,6 +384,7 @@ document.addEventListener("DOMContentLoaded", () => {
       e.preventDefault(); // Stop page reload!
       if (searchInput) {
         searchQuery = searchInput.value.toLowerCase().trim();
+        postsToShow = 9; // Reset pagination!
         renderPostsGrid();
       }
     });
@@ -375,6 +396,7 @@ document.addEventListener("DOMContentLoaded", () => {
       filterBtns.forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
       currentCategory = btn.getAttribute("data-category");
+      postsToShow = 9; // Reset pagination!
       renderPostsGrid();
     });
   });
