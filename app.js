@@ -10,7 +10,8 @@ document.addEventListener("DOMContentLoaded", () => {
   
   const navLinks = {
     home: document.getElementById("nav-home"),
-    about: document.getElementById("nav-about")
+    about: document.getElementById("nav-about"),
+    random: document.getElementById("nav-random")
   };
   
   const postsGrid = document.getElementById("posts-grid");
@@ -19,6 +20,8 @@ document.addEventListener("DOMContentLoaded", () => {
   
   let allPosts = [];
   let currentCategory = "all";
+  let searchQuery = "";
+  let currentFontSize = 1.125; // default size in rem
 
   // Date formatter (Turkish locale)
   function formatDate(dateStr) {
@@ -33,6 +36,16 @@ document.addEventListener("DOMContentLoaded", () => {
     } catch (e) {
       return dateStr;
     }
+  }
+
+  // Calculate Reading Time (Turkish)
+  function calculateReadingTime(content) {
+    if (!content) return "1 dk okuma";
+    const wordsPerMinute = 200;
+    const cleanText = content.replace(/<[^>]*>/g, '');
+    const wordCount = cleanText.split(/\s+/).filter(w => w.length > 0).length;
+    const readingTime = Math.ceil(wordCount / wordsPerMinute);
+    return `${readingTime} dk okuma`;
   }
 
   // Fetch all posts index
@@ -52,12 +65,16 @@ document.addEventListener("DOMContentLoaded", () => {
   function renderPostsGrid() {
     postsGrid.innerHTML = "";
     
-    const filteredPosts = currentCategory === "all" 
-      ? allPosts 
-      : allPosts.filter(p => p.category === currentCategory);
+    const filteredPosts = allPosts.filter(post => {
+      const matchesCategory = currentCategory === "all" || post.category === currentCategory;
+      const matchesSearch = searchQuery === "" || 
+        post.title.toLowerCase().includes(searchQuery) ||
+        (post.category && post.category.toLowerCase().includes(searchQuery));
+      return matchesCategory && matchesSearch;
+    });
       
     if (filteredPosts.length === 0) {
-      postsGrid.innerHTML = `<div class="loading-placeholder">Bu kategoride henüz bir yazı bulunmuyor.</div>`;
+      postsGrid.innerHTML = `<div class="loading-placeholder">Aradığınız kriterlere uygun bir yazı bulunamadı.</div>`;
       return;
     }
     
@@ -95,8 +112,20 @@ document.addEventListener("DOMContentLoaded", () => {
         ? `<img src="${post.featuredImage}" class="post-featured-img" alt="${post.title}">`
         : "";
         
-      // Clear duplicate title from content if it matches the main title
+      // Extract YouTube link from content if present
       let cleanContent = post.content;
+      let youtubeUrl = null;
+      
+      const ytRegex = /<a[^>]*href="(https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[a-zA-Z0-9_-]+)"[^>]*>.*?<\/a>/i;
+      const ytMatch = cleanContent.match(ytRegex);
+      if (ytMatch) {
+        youtubeUrl = ytMatch[1];
+        // Clean the paragraph containing the YouTube video link
+        const pRegex = new RegExp(`<p[^>]*>.*?${ytMatch[0].replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')}.*?<\/p>`, 'gi');
+        cleanContent = cleanContent.replace(pRegex, '');
+      }
+
+      // Clear duplicate title from content if it matches the main title
       const tempDiv = document.createElement("div");
       tempDiv.innerHTML = cleanContent;
       const firstHeading = tempDiv.querySelector("h1, h2, h3");
@@ -109,13 +138,23 @@ document.addEventListener("DOMContentLoaded", () => {
       }
 
       postDetail.innerHTML = `
-        <button class="post-back-btn" onclick="window.location.hash = '#/'">
-          ← Geri Dön
-        </button>
+        <div class="post-header-actions">
+          <button class="post-back-btn" onclick="window.location.hash = '#/'">
+            ← Geri Dön
+          </button>
+          <div class="font-size-adjuster">
+            <button id="font-dec" title="Yazıyı Küçült">A-</button>
+            <button id="font-inc" title="Yazıyı Büyüt">A+</button>
+          </div>
+        </div>
         <header class="post-meta">
           <div class="post-detail-category">${post.category || 'Düşünce'}</div>
           <h1 class="post-detail-title">${post.title}</h1>
-          <div class="post-detail-date">${formatDate(post.date)}</div>
+          <div class="post-meta-sub">
+            <span class="post-detail-date">${formatDate(post.date)}</span>
+            <span class="post-read-time">• ${calculateReadingTime(post.content)}</span>
+            ${youtubeUrl ? `• <a href="${youtubeUrl}" target="_blank" class="post-listen-btn">🎧 Monologu Dinle ↗</a>` : ""}
+          </div>
         </header>
         ${imgHtml}
         <div class="post-body">
@@ -127,6 +166,10 @@ document.addEventListener("DOMContentLoaded", () => {
           <a href="https://zihingezgini.substack.com" target="_blank" class="subscribe-btn">Substack'te Abone Ol ↗</a>
         </div>
       `;
+
+      // Setup Font Size Adjuster Event Listeners
+      setupFontSizeAdjuster();
+
     } catch (error) {
       console.error("Error loading post detail:", error);
       postDetail.innerHTML = `
@@ -138,19 +181,69 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  // Setup font size controls
+  function setupFontSizeAdjuster() {
+    const fontDec = document.getElementById("font-dec");
+    const fontInc = document.getElementById("font-inc");
+    const postBody = document.querySelector(".post-body");
+    
+    if (fontDec && fontInc && postBody) {
+      // Set initial font size
+      postBody.style.fontSize = `${currentFontSize}rem`;
+      
+      fontDec.addEventListener("click", () => {
+        if (currentFontSize > 0.95) {
+          currentFontSize -= 0.1;
+          postBody.style.fontSize = `${currentFontSize}rem`;
+        }
+      });
+      
+      fontInc.addEventListener("click", () => {
+        if (currentFontSize < 1.45) {
+          currentFontSize += 0.1;
+          postBody.style.fontSize = `${currentFontSize}rem`;
+        }
+      });
+    }
+  }
+
   // Routing
   function handleRoute() {
     const hash = window.location.hash || "#/";
     
     // Reset active nav links
-    Object.values(navLinks).forEach(link => link.classList.remove("active"));
+    Object.values(navLinks).forEach(link => {
+      if (link) link.classList.remove("active");
+    });
     
     // Hide all views
-    Object.values(views).forEach(view => view.classList.remove("active"));
+    Object.values(views).forEach(view => {
+      if (view) view.classList.remove("active");
+    });
+    
+    if (hash === "#/random") {
+      if (allPosts.length > 0) {
+        const randomPost = allPosts[Math.floor(Math.random() * allPosts.length)];
+        window.location.hash = `#/post/${randomPost.slug}`;
+      } else {
+        // Fetch index first if empty
+        fetch(`/data/posts.json?t=${new Date().getTime()}`)
+          .then(res => res.json())
+          .then(data => {
+            allPosts = data;
+            const randomPost = allPosts[Math.floor(Math.random() * allPosts.length)];
+            window.location.hash = `#/post/${randomPost.slug}`;
+          })
+          .catch(() => {
+            window.location.hash = "#/";
+          });
+      }
+      return;
+    }
     
     if (hash === "#/" || hash === "") {
       views.home.classList.add("active");
-      navLinks.home.classList.add("active");
+      if (navLinks.home) navLinks.home.classList.add("active");
       document.title = "Zihin Gezgini | Yazılar";
       // Refresh list
       if (allPosts.length === 0) {
@@ -160,7 +253,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     } else if (hash === "#/about") {
       views.about.classList.add("active");
-      navLinks.about.classList.add("active");
+      if (navLinks.about) navLinks.about.classList.add("active");
       document.title = "Zihin Gezgini | Zihin Odası";
     } else if (hash.startsWith("#/post/")) {
       const slug = hash.replace("#/post/", "");
@@ -173,6 +266,15 @@ document.addEventListener("DOMContentLoaded", () => {
     
     // Scroll to top on page change
     window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  // Search Input Handler
+  const searchInput = document.getElementById("search-input");
+  if (searchInput) {
+    searchInput.addEventListener("input", (e) => {
+      searchQuery = e.target.value.toLowerCase().trim();
+      renderPostsGrid();
+    });
   }
 
   // Category Filtering Event Handlers
