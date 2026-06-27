@@ -187,6 +187,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <span class="post-detail-date">${formatDate(post.date)}</span>
             <span class="post-read-time">• ${calculateReadingTime(post.content)}</span>
             ${youtubeUrl ? `• <a href="${youtubeUrl}" target="_blank" class="post-listen-btn">🎧 Monologu Dinle ↗</a>` : ""}
+            • <button id="post-share-btn" class="post-share-btn" title="Yazıyı Paylaş">🔗 Paylaş</button>
           </div>
         </header>
         ${imgHtml}
@@ -202,6 +203,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
       // Setup Font Size Adjuster Event Listeners
       setupFontSizeAdjuster();
+      
+      // Setup Share Button Event Listener
+      setupShareButton(post);
 
     } catch (error) {
       console.error("Error loading post detail:", error);
@@ -235,6 +239,41 @@ document.addEventListener("DOMContentLoaded", () => {
         if (currentFontSize < 1.45) {
           currentFontSize += 0.1;
           postBody.style.fontSize = `${currentFontSize}rem`;
+        }
+      });
+    }
+  }
+
+  // Setup Share Button
+  function setupShareButton(post) {
+    const shareBtn = document.getElementById("post-share-btn");
+    if (shareBtn) {
+      shareBtn.addEventListener("click", async () => {
+        const shareData = {
+          title: `Zihin Gezgini | ${post.title}`,
+          text: `${post.title} - Zihin Gezgini Monoloğu`,
+          url: window.location.href
+        };
+        
+        if (navigator.share) {
+          try {
+            await navigator.share(shareData);
+          } catch (err) {
+            console.log("Error sharing:", err);
+          }
+        } else {
+          try {
+            await navigator.clipboard.writeText(window.location.href);
+            const originalText = shareBtn.innerHTML;
+            shareBtn.innerHTML = "✓ Kopyalandı!";
+            shareBtn.style.color = "var(--color-accent)";
+            setTimeout(() => {
+              shareBtn.innerHTML = originalText;
+              shareBtn.style.color = "";
+            }, 2000);
+          } catch (err) {
+            console.error("Failed to copy link:", err);
+          }
         }
       });
     }

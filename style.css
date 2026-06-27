@@ -431,6 +431,22 @@ body {
   color: var(--color-text-main) !important;
 }
 
+.post-share-btn {
+  background: none;
+  border: none;
+  color: var(--color-accent);
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 0;
+  transition: color 0.2s ease;
+}
+
+.post-share-btn:hover {
+  color: var(--color-text-main);
+}
+
 .post-featured-img {
   width: 100%;
   height: auto;
