@@ -268,12 +268,24 @@ document.addEventListener("DOMContentLoaded", () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
-  // Search Input Handler
+  // Search Form & Input Handlers
+  const searchForm = document.getElementById("search-form");
   const searchInput = document.getElementById("search-input");
+  
   if (searchInput) {
     searchInput.addEventListener("input", (e) => {
       searchQuery = e.target.value.toLowerCase().trim();
       renderPostsGrid();
+    });
+  }
+  
+  if (searchForm) {
+    searchForm.addEventListener("submit", (e) => {
+      e.preventDefault(); // Stop page reload!
+      if (searchInput) {
+        searchQuery = searchInput.value.toLowerCase().trim();
+        renderPostsGrid();
+      }
     });
   }
 

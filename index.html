@@ -14,7 +14,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   
-  <link rel="stylesheet" href="/style.css?v=7">
+  <link rel="stylesheet" href="/style.css?v=8">
 </head>
 <body class="dark-theme">
 
@@ -46,10 +46,10 @@
       
       <!-- Home View (Post List) -->
       <section id="view-home" class="content-view active">
-        <div class="search-container">
+        <form id="search-form" class="search-container">
           <input type="text" id="search-input" placeholder="Yazılarda ara..." autocomplete="off">
-          <span class="search-icon">🔍</span>
-        </div>
+          <button type="submit" class="search-submit-btn" title="Ara">🔍</button>
+        </form>
         
         <div class="posts-filter">
           <button class="filter-btn active" data-category="all">Tümü</button>
@@ -101,6 +101,6 @@
 
   </div>
 
-  <script src="/app.js?v=3"></script>
+  <script src="/app.js?v=4"></script>
 </body>
 </html>

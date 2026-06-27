@@ -214,14 +214,22 @@ body {
   border-bottom-color: var(--color-accent);
 }
 
-.search-icon {
+.search-submit-btn {
   position: absolute;
   right: 10px;
   top: 50%;
   transform: translateY(-50%);
+  background: none;
+  border: none;
   font-size: 0.85rem;
   color: var(--color-text-muted);
-  pointer-events: none;
+  cursor: pointer;
+  padding: 4px;
+  transition: color 0.2s ease;
+}
+
+.search-submit-btn:hover {
+  color: var(--color-accent);
 }
 
 /* Posts Filter */
