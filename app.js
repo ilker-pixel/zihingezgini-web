@@ -213,8 +213,8 @@ document.addEventListener("DOMContentLoaded", () => {
           ${cleanContent}
         </div>
         <div class="post-subscribe-section">
-          <h3>Zihin Gezgini E-Bülten</h3>
-          <p>Her hafta yeni filozof monologlarından ve felsefi karalamalardan haberdar olmak için bültene katılın.</p>
+          <h3>Zihin Gezgini Substack</h3>
+          <p>Her hafta e-posta kutunuza gelecek yeni filozof monologları ve felsefi karalamalar için bültene katılın.</p>
           <a href="https://zihingezgini.substack.com" target="_blank" class="subscribe-btn">Substack'te Abone Ol ↗</a>
         </div>
       `;
