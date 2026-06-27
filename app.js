@@ -188,8 +188,8 @@ document.addEventListener("DOMContentLoaded", () => {
   // Theme Toggle Logic
   const themeToggleBtn = document.getElementById("theme-toggle");
   
-  // Read saved theme or default to light
-  const savedTheme = localStorage.getItem("zg_theme") || "light";
+  // Read saved theme or default to dark
+  const savedTheme = localStorage.getItem("zg_theme") || "dark";
   if (savedTheme === "dark") {
     document.body.classList.add("dark-theme");
     if (themeToggleBtn) themeToggleBtn.textContent = "☀️";
