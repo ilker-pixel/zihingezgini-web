@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zihin Gezgini | Yönetim Paneli</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  
+  <style>
+    :root {
+      --color-bg: #f8fafc;
+      --color-sidebar: #0f172a;
+      --color-text-main: #1e293b;
+      --color-text-muted: #64748b;
+      --color-accent: #0f766e;
+      --color-accent-hover: #115e59;
+      --color-border: #e2e8f0;
+      --color-white: #ffffff;
+      --font-sans: 'Inter', system-ui, sans-serif;
+    }
+    
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    body {
+      background-color: var(--color-bg);
+      color: var(--color-text-main);
+      font-family: var(--font-sans);
+      min-height: 100vh;
+      display: flex;
+    }
+    
+    /* Config Modal */
+    .config-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(15, 23, 42, 0.6);
+      backdrop-filter: blur(4px);
+      z-index: 1000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .config-overlay.hidden {
+      display: none;
+    }
+    
+    .config-modal {
+      background: var(--color-white);
+      border-radius: 8px;
+      padding: 32px;
+      width: 100%;
+      max-width: 450px;
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    }
+    
+    .config-modal h2 {
+      font-size: 1.5rem;
+      margin-bottom: 12px;
+      color: var(--color-sidebar);
+    }
+    
+    .config-modal p {
+      font-size: 0.875rem;
+      color: var(--color-text-muted);
+      margin-bottom: 24px;
+      line-height: 1.4;
+    }
+    
+    .form-group {
+      margin-bottom: 16px;
+    }
+    
+    .form-group label {
+      display: block;
+      font-size: 0.85rem;
+      font-weight: 600;
+      margin-bottom: 6px;
+      color: var(--color-text-main);
+    }
+    
+    .form-group input, .form-group select, .form-group textarea {
+      width: 100%;
+      padding: 10px 12px;
+      border: 1px solid var(--color-border);
+      border-radius: 6px;
+      font-family: var(--font-sans);
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+    
+    .form-group input:focus, .form-group select:focus, .form-group textarea:focus {
+      border-color: var(--color-accent);
+    }
+    
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px 20px;
+      background-color: var(--color-accent);
+      color: var(--color-white);
+      border: none;
+      border-radius: 6px;
+      font-weight: 500;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+      width: 100%;
+    }
+    
+    .btn:hover {
+      background-color: var(--color-accent-hover);
+    }
+    
+    .btn-secondary {
+      background-color: var(--color-white);
+      border: 1px solid var(--color-border);
+      color: var(--color-text-main);
+      margin-top: 8px;
+    }
+    
+    .btn-secondary:hover {
+      background-color: var(--color-bg);
+    }
+    
+    /* Layout */
+    .admin-container {
+      display: flex;
+      width: 100%;
+      min-height: 100vh;
+    }
+    
+    /* Sidebar */
+    .admin-sidebar {
+      width: 260px;
+      background-color: var(--color-sidebar);
+      color: var(--color-white);
+      padding: 30px 20px;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .admin-logo {
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin-bottom: 40px;
+      color: var(--color-white);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    
+    .sidebar-menu {
+      list-style: none;
+    }
+    
+    .menu-item a {
+      color: #94a3b8;
+      text-decoration: none;
+      padding: 12px 16px;
+      display: block;
+      border-radius: 6px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+      margin-bottom: 8px;
+    }
+    
+    .menu-item.active a, .menu-item a:hover {
+      color: var(--color-white);
+      background-color: #1e293b;
+    }
+    
+    .sidebar-footer {
+      margin-top: auto;
+      font-size: 0.75rem;
+      color: #64748b;
+      border-top: 1px solid #1e293b;
+      padding-top: 20px;
+    }
+    
+    .sidebar-footer button {
+      background: none;
+      border: none;
+      color: #94a3b8;
+      cursor: pointer;
+      font-family: var(--font-sans);
+      margin-top: 8px;
+      text-decoration: underline;
+    }
+    
+    .sidebar-footer button:hover {
+      color: var(--color-white);
+    }
+    
+    /* Main Content */
+    .admin-content {
+      flex: 1;
+      padding: 40px;
+      overflow-y: auto;
+    }
+    
+    .content-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 30px;
+      border-bottom: 1px solid var(--color-border);
+      padding-bottom: 20px;
+    }
+    
+    .content-title {
+      font-size: 1.75rem;
+      font-weight: 700;
+    }
+    
+    .editor-grid {
+      display: grid;
+      grid-template-columns: 1.2fr 0.8fr;
+      gap: 30px;
+    }
+    
+    .editor-main {
+      background-color: var(--color-white);
+      padding: 24px;
+      border-radius: 8px;
+      border: 1px solid var(--color-border);
+    }
+    
+    .editor-sidebar {
+      background-color: var(--color-white);
+      padding: 24px;
+      border-radius: 8px;
+      border: 1px solid var(--color-border);
+      height: fit-content;
+    }
+    
+    /* Rich Text/Markdown Editor Area */
+    .editor-toolbar {
+      display: flex;
+      gap: 8px;
+      padding: 8px;
+      background-color: var(--color-bg);
+      border: 1px solid var(--color-border);
+      border-bottom: none;
+      border-top-left-radius: 6px;
+      border-top-right-radius: 6px;
+    }
+    
+    .toolbar-btn {
+      background: var(--color-white);
+      border: 1px solid var(--color-border);
+      padding: 6px 12px;
+      font-size: 0.85rem;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 500;
+      transition: background-color 0.2s ease;
+    }
+    
+    .toolbar-btn:hover {
+      background-color: var(--color-bg);
+    }
+    
+    .editor-textarea {
+      width: 100%;
+      height: 450px;
+      padding: 16px;
+      border: 1px solid var(--color-border);
+      border-bottom-left-radius: 6px;
+      border-bottom-right-radius: 6px;
+      font-family: 'Lora', Georgia, serif;
+      font-size: 1.1rem;
+      line-height: 1.6;
+      resize: vertical;
+      outline: none;
+    }
+    
+    /* Upload Section */
+    .image-preview-container {
+      width: 100%;
+      height: 160px;
+      border: 2px dashed var(--color-border);
+      border-radius: 6px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+      margin-top: 10px;
+      position: relative;
+      background-color: var(--color-bg);
+    }
+    
+    .image-preview {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    
+    .preview-placeholder {
+      font-size: 0.85rem;
+      color: var(--color-text-muted);
+      text-align: center;
+    }
+    
+    /* Toast Notification */
+    .toast {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: var(--color-sidebar);
+      color: var(--color-white);
+      padding: 12px 24px;
+      border-radius: 6px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+      font-size: 0.9rem;
+      z-index: 1100;
+      opacity: 0;
+      transform: translateY(10px);
+      transition: all 0.3s ease;
+    }
+    
+    .toast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Modal for GitHub API keys config -->
+  <div id="config-overlay" class="config-overlay hidden">
+    <div class="config-modal">
+      <h2>GitHub Entegrasyonu</h2>
+      <p>Yazılarınızın ve görsellerinizin doğrudan web sitesine yüklenebilmesi için GitHub bağlantı bilgilerinizi girmelisiniz. Bu bilgiler sadece tarayıcınızda (localStorage) saklanır.</p>
+      
+      <div class="form-group">
+        <label for="config-owner">GitHub Kullanıcı Adı</label>
+        <input type="text" id="config-owner" placeholder="Örn: ilkermanavoglu">
+      </div>
+      
+      <div class="form-group">
+        <label for="config-repo">GitHub Repository Adı</label>
+        <input type="text" id="config-repo" placeholder="Örn: zihingezgini-web">
+      </div>
+      
+      <div class="form-group">
+        <label for="config-token">GitHub Personal Access Token (PAT)</label>
+        <input type="password" id="config-token" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx">
+      </div>
+      
+      <button class="btn" id="config-save-btn">Ayarları Kaydet</button>
+    </div>
+  </div>
+
+  <!-- Admin Panel Container -->
+  <div class="admin-container">
+    
+    <!-- Sidebar -->
+    <aside class="admin-sidebar">
+      <a href="#/" class="admin-logo">
+        ✍️ Zihin Gezgini
+      </a>
+      <ul class="sidebar-menu">
+        <li class="menu-item active">
+          <a href="#/new">Yeni Yazı Ekle</a>
+        </li>
+      </ul>
+      <div class="sidebar-footer">
+        <p>Bağlantı: <span id="sync-status" style="font-weight: 600; color: #ef4444;">YOK</span></p>
+        <button id="config-trigger-btn">Bağlantı Ayarları</button>
+      </div>
+    </aside>
+    
+    <!-- Main Content -->
+    <main class="admin-content">
+      
+      <div class="content-header">
+        <h1 class="content-title">Yeni Yazı Yaz</h1>
+        <div>
+          <button class="btn" id="publish-btn" style="width: auto; padding: 10px 30px;">Yayına Al 🚀</button>
+        </div>
+      </div>
+      
+      <div class="editor-grid">
+        <!-- Editor Main Area -->
+        <div class="editor-main">
+          <div class="form-group">
+            <label for="post-title">Yazı Başlığı</label>
+            <input type="text" id="post-title" placeholder="Başlık girin..." style="font-size: 1.25rem; font-weight: 600; padding: 12px;">
+          </div>
+          
+          <div class="form-group" style="margin-bottom: 8px;">
+            <label>Yazı İçeriği (Markdown)</label>
+            <div class="editor-toolbar">
+              <button class="toolbar-btn" data-tag="b">Kalın</button>
+              <button class="toolbar-btn" data-tag="i">İtalik</button>
+              <button class="toolbar-btn" data-tag="quote">Alıntı</button>
+              <button class="toolbar-btn" data-tag="h2">Başlık 2</button>
+              <button class="toolbar-btn" data-tag="h3">Başlık 3</button>
+              <button class="toolbar-btn" id="editor-img-btn">Görsel Ekle</button>
+            </div>
+            <textarea id="post-content" class="editor-textarea" placeholder="Yazmaya başlayın..."></textarea>
+          </div>
+        </div>
+        
+        <!-- Editor Settings Sidebar -->
+        <div class="editor-sidebar">
+          <div class="form-group">
+            <label for="post-category">Kategori</label>
+            <select id="post-category">
+              <option value="Düşünce">Düşünce</option>
+              <option value="Felsefe">Felsefe</option>
+              <option value="Bilim">Bilim</option>
+              <option value="Psikoloji">Psikoloji</option>
+            </select>
+          </div>
+          
+          <div class="form-group">
+            <label for="post-date">Yayın Tarihi</label>
+            <input type="datetime-local" id="post-date">
+          </div>
+          
+          <div class="form-group">
+            <label>Kapak Görseli</label>
+            <input type="file" id="post-featured-image-file" accept="image/*" style="display: none;">
+            <button class="btn btn-secondary" id="select-img-btn">Görsel Seç</button>
+            <div class="image-preview-container" id="preview-container">
+              <div class="preview-placeholder">Henüz bir görsel seçilmedi</div>
+              <img id="featured-image-preview" class="image-preview" style="display: none;">
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </main>
+    
+  </div>
+
+  <!-- Inline File Dialog for Editor Image Insert -->
+  <input type="file" id="editor-inline-image-file" accept="image/*" style="display: none;">
+
+  <!-- Toast -->
+  <div id="toast" class="toast">Mesaj</div>
+
+  <script src="/admin/admin.js"></script>
+</body>
+</html>
