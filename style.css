@@ -1501,9 +1501,17 @@ ol.interactive-checklist li {
 }
 
 .book-title-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
   font-size: 1.05rem;
   color: var(--color-text-main);
-  margin-bottom: 6px;
+  margin-bottom: 0;
+}
+
+.book-item-row.is-expanded .book-title-row {
+  margin-bottom: 8px;
 }
 
 .book-author {
@@ -1525,9 +1533,24 @@ ol.interactive-checklist li {
 .book-title-link:hover {
   color: var(--color-text-main);
 }
+
 .book-info-col {
   flex-grow: 1;
   cursor: pointer;
+}
+
+.book-details-expanded {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s ease, margin-top 0.3s ease;
+  margin-top: 0;
+}
+
+.book-item-row.is-expanded .book-details-expanded {
+  max-height: 350px;
+  opacity: 1;
+  margin-top: 10px;
 }
 
 .book-desc {
@@ -1535,16 +1558,6 @@ ol.interactive-checklist li {
   color: var(--color-text-muted);
   line-height: 1.5;
   margin: 0;
-  max-height: 0;
-  overflow: hidden;
-  opacity: 0;
-  transition: max-height 0.3s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.2s ease, margin-top 0.3s ease;
-}
-
-.book-item-row.is-expanded .book-desc {
-  max-height: 250px;
-  opacity: 1;
-  margin-top: 8px;
 }
 
 /* Book Summary Button in Roadmap */

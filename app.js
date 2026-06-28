@@ -682,16 +682,18 @@ document.addEventListener("DOMContentLoaded", () => {
               <input type="checkbox" id="book-check-${b.no}" ${readBooks.includes(b.no) ? 'checked' : ''} data-no="${b.no}">
             </div>
             <div class="book-info-col">
-              <div class="book-meta-row">
+              <div class="book-title-row">
                 <span class="book-no">#${b.no}</span>
-                <span class="book-category-tag">${b.category}</span>
-                ${b.pubDate ? `<span class="book-pub-date">(${b.pubDate})</span>` : ''}
+                <strong class="book-author">${b.author}</strong> — ${titleHtml}
                 ${summaryBtnHtml}
               </div>
-              <div class="book-title-row">
-                <strong class="book-author">${b.author}</strong> — ${titleHtml}
+              <div class="book-details-expanded">
+                <div class="book-meta-row">
+                  <span class="book-category-tag">Kategori: ${b.category}</span>
+                  ${b.pubDate ? `<span class="book-pub-date">Yıl: ${b.pubDate}</span>` : ''}
+                </div>
+                <p class="book-desc">${b.description}</p>
               </div>
-              <p class="book-desc">${b.description}</p>
             </div>
           `;
           
