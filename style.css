@@ -1269,3 +1269,17 @@ ol.interactive-checklist li {
 .checklist-top-panel {
   margin-bottom: 40px;
 }
+
+/* Quote post reference link styling */
+.quote-post-link {
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  font-weight: 500;
+  transition: opacity 0.2s ease, color 0.2s ease;
+}
+
+.quote-post-link:hover {
+  opacity: 0.8;
+  color: var(--color-text-main);
+}
