@@ -68,25 +68,29 @@ Eğer yazı detay içeriğinde (`content`) bir YouTube video bağlantısı bulun
 
 ---
 
-## 💬 Adım 4: Zihin Kırıntısı (Alıntı) Eklemek
+## 💬 Adım 4: Otomatik Fihrist Güncelleme ve Alıntı Çıkarma (Build Aşaması)
 
-Eğer yazdığınız yeni yazılardan sitenin altındaki rastgele alıntı widget'ına yeni sözler eklemek isterseniz:
-1.  `/app.js` dosyasını açın.
-2.  `setupQuoteWidget()` fonksiyonunun içindeki `quotes` dizisini (array) bulun.
-3.  Dizinin içine şu formatta yeni satırlar ekleyin:
-    ```javascript
-    { text: "Yeni yazıdan süzülen derin aforizma.", author: "Zihin Gezgini" }
-    ```
+Yazınızı `/data/posts/yazı-adi.json` dosyasına ekledikten sonra manuel fihrist veya alıntı ekleme işlemleriyle uğraşmanıza gerek yoktur. Sizin için tüm süreci otomatikleştiren bir **derleyici (build) scripti** hazırladım.
+
+Terminalde şu komutu çalıştırmanız yeterlidir:
+```bash
+python3 tools/build.py
+```
+
+Bu script çalıştırıldığında sırasıyla şunları yapar:
+1.  Tüm detay yazı dosyalarını tarar ve ana fihristi (`data/posts.json`) en son tarihe göre otomatik olarak yeniden derler.
+2.  Yazı içeriklerinde YouTube videosu tespit ederse `hasAudio: true` bayrağını otomatik olarak ekler.
+3.  Havuzda henüz alıntısı bulunmayan yeni yazıları analiz eder, her yeni yazıdan **en güzel 5 alıntıyı** otomatik olarak ayıklayıp `/data/quotes.json` alıntı veri tabanına otomatik ekler.
 
 ---
 
 ## 🔄 Adım 5: Yayınlama ve Önbellek (Cache) Temizliği
 
-Yazı dosyalarını oluşturduktan ve güncelledikten sonra:
+Derleme işlemi tamamlandıktan sonra sitenizi yayına almak için:
 1.  Değişiklikleri GitHub'a push edin:
     ```bash
     git add .
     git commit -m "Yayınla: [Yazı Başlığı]"
     git push
     ```
-2.  Stil veya JS dosyalarında bir değişiklik yaptıysanız tarayıcıların bunu anında algılaması için `/index.html` içindeki sürüm numaralarını (örn: `app.js?v=24` değerini `v=25` yaparak) artırın.
+2.  Script veya CSS dosyalarında kod bazlı bir değişiklik yaptıysanız tarayıcıların bunu anında algılaması için `/index.html` içindeki sürüm numaralarını (örn: `app.js?v=24` değerini `v=25` yaparak) artırın.
