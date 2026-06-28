@@ -4,188 +4,215 @@
         "date": "2026-03-05T13:04:18",
         "slug": "karl-marx-koleligin-yeni-adi",
         "featuredImage": "/images/karl-marx.png",
-        "category": "Felsefe"
+        "category": "Felsefe",
+        "hasAudio": true
     },
     {
         "title": "Søren Kierkegaard - İnanç Sıçraması",
         "date": "2025-11-20T07:43:42",
         "slug": "soren-kierkegaard-inanc-sicramasi",
         "featuredImage": "/images/kierkegaard.png",
-        "category": "Felsefe"
+        "category": "Felsefe",
+        "hasAudio": true
     },
     {
         "title": "Arthur Schopenhauer - Mutluluk Yalanı",
         "date": "2025-11-06T08:15:04",
         "slug": "arthur-schopenhauer-mutluluk-yalani",
         "featuredImage": "/images/schopenhauer.png",
-        "category": "Felsefe"
+        "category": "Felsefe",
+        "hasAudio": true
     },
     {
         "title": "Filozoflar Serisi #2 | Thomas Hobbes | Leviathan’ın Doğuşu",
         "date": "2025-11-04T15:48:19",
         "slug": "471",
         "featuredImage": "/images/hobbes.png",
-        "category": "Felsefe"
+        "category": "Felsefe",
+        "hasAudio": true
     },
     {
         "title": "Filozoflar Serisi #1 | René Descartes: “Düşünüyorum, Öyleyse Varım”",
         "date": "2025-10-25T00:59:35",
         "slug": "453",
         "featuredImage": "/images/descartes.png",
-        "category": "Felsefe"
+        "category": "Felsefe",
+        "hasAudio": true
     },
     {
         "title": "Friedrich Hegel - Aklın Kurnazlığı ve Diyalektik",
         "date": "2025-10-23T09:16:10",
         "slug": "friedrich-hegel-aklin-kurnazligi-ve-diyalektik",
         "featuredImage": "/images/hegel.png",
-        "category": "Felsefe"
+        "category": "Felsefe",
+        "hasAudio": true
     },
     {
         "title": "John Locke - Tabula Rasa",
         "date": "2025-10-14T09:12:11",
         "slug": "john-locke-tabula-rasa",
         "featuredImage": "/images/locke.png",
-        "category": "Felsefe"
+        "category": "Felsefe",
+        "hasAudio": true
     },
     {
         "title": "David Hume - Neden-Sonuç Bir Masal mı?",
         "date": "2025-10-03T09:30:23",
         "slug": "david-hume-neden-sonuc-bir-masal-mi",
         "featuredImage": "/images/hume.png",
-        "category": "Felsefe"
+        "category": "Felsefe",
+        "hasAudio": true
     },
     {
         "title": "Wilhelm Leibniz - Newton'un Gölgesinde Kalan Deha",
         "date": "2025-09-26T10:02:44",
         "slug": "wilhelm-leibniz-newtonun-golgesinde-kalan-deha",
         "featuredImage": "/images/leibniz.png",
-        "category": "Felsefe"
+        "category": "Felsefe",
+        "hasAudio": true
     },
     {
         "title": "Modern Çağ’da zaman kaybı",
         "date": "2025-05-22T12:00:27",
         "slug": "443",
         "featuredImage": "/images/443_v2.png",
-        "category": "Düşünce"
+        "category": "Düşünce",
+        "hasAudio": false
     },
     {
         "title": "Stoacı Sessizlik, Zen Nefesi: Mindfulness ile Beyni Nasıl Resetleriz?",
         "date": "2025-05-13T08:00:00",
         "slug": "419",
         "featuredImage": null,
-        "category": "Psikoloji"
+        "category": "Psikoloji",
+        "hasAudio": false
     },
     {
         "title": "Modern Kölelik: Bildirim Sesine Tapınan Zihinler",
         "date": "2025-05-03T23:05:33",
         "slug": "modern-kolelik-bildirim-sesine-tapinan-zihinler",
         "featuredImage": null,
-        "category": "Düşünce"
+        "category": "Düşünce",
+        "hasAudio": false
     },
     {
         "title": "Yapay Zekâ Bilinç Kazanabilir mi? Gerçek mi, Kurgu mu?",
         "date": "2025-05-02T11:57:30",
         "slug": "yapay-zeka-bilinc-kazanabilir-mi-gercek-mi-kurgu-mu",
         "featuredImage": null,
-        "category": "Bilim"
+        "category": "Bilim",
+        "hasAudio": false
     },
     {
         "title": "Tutunamayanların 150 Yılı: Ütopyanın Gölgesinde Distopya",
         "date": "2025-03-06T11:48:09",
         "slug": "tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya",
         "featuredImage": "/images/tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya.webp",
-        "category": "Düşünce"
+        "category": "Düşünce",
+        "hasAudio": false
     },
     {
         "title": "Dağlar ve Sanat: İçsel Yolculuğum",
         "date": "2025-03-04T17:52:50",
         "slug": "daglar-ve-sanat-icsel-yolculugum",
         "featuredImage": "/images/daglar-ve-sanat-icsel-yolculugum.webp",
-        "category": "Düşünce"
+        "category": "Düşünce",
+        "hasAudio": false
     },
     {
         "title": "53 Başyapıtla Auteur Sinemasına Yolculuk",
         "date": "2025-02-22T23:19:43",
         "slug": "derinlik-ve-sabir-auteur-sinemasinin-anlami",
         "featuredImage": "/images/derinlik-ve-sabir-auteur-sinemasinin-anlami.webp",
-        "category": "Düşünce"
+        "category": "Düşünce",
+        "hasAudio": false
     },
     {
         "title": "Soluk Mavi Noktanın Kuantum Dansı",
         "date": "2025-02-21T22:10:30",
         "slug": "soluk-mavi-noktanin-kuantum-dansi",
         "featuredImage": "/images/soluk-mavi-noktanin-kuantum-dansi.webp",
-        "category": "Bilim"
+        "category": "Bilim",
+        "hasAudio": false
     },
     {
         "title": "Stadyumdaki Kelebek Etkisi: Bir Islık Kaosu Tetikler mi?",
         "date": "2025-02-20T21:30:40",
         "slug": "stadyumdaki-kelebek-etkisi-bir-islik-kaosu-tetikler-mi",
         "featuredImage": "/images/stadyumdaki-kelebek-etkisi-bir-islik-kaosu-tetikler-mi.webp",
-        "category": "Bilim"
+        "category": "Bilim",
+        "hasAudio": false
     },
     {
         "title": "Spinoza’nın Evreni mi, Camus’nün Kaosu mu?",
         "date": "2025-02-18T11:31:37",
         "slug": "spinozanin-evreni-mi-camusnun-kaosu-mu",
         "featuredImage": "/images/spinozanin-evreni-mi-camusnun-kaosu-mu.webp",
-        "category": "Felsefe"
+        "category": "Felsefe",
+        "hasAudio": false
     },
     {
         "title": "Do Majör Akorunun Kuantum Yansıması",
         "date": "2025-02-17T16:11:39",
         "slug": "do-major-akorunun-kuantum-yansimasi",
         "featuredImage": "/images/do-major-akorunun-kuantum-yansimasi.webp",
-        "category": "Bilim"
+        "category": "Bilim",
+        "hasAudio": false
     },
     {
         "title": "Güven Krizi: Ekonomi Bir İnanç Sistemine mi Dayanıyor?",
         "date": "2025-02-14T21:08:46",
         "slug": "guven-krizi-ekonomi-bir-inanc-sistemine-mi-dayaniyor",
         "featuredImage": "/images/guven-krizi-ekonomi-bir-inanc-sistemine-mi-dayaniyor.webp",
-        "category": "Düşünce"
+        "category": "Düşünce",
+        "hasAudio": false
     },
     {
         "title": "Bilim Yükseldi, Peki Felsefe Nerede?",
         "date": "2025-02-14T19:40:28",
         "slug": "bilim-yukseldi-peki-felsefe-nerede",
         "featuredImage": "/images/bilim-yukseldi-peki-felsefe-nerede.webp",
-        "category": "Felsefe"
+        "category": "Felsefe",
+        "hasAudio": false
     },
     {
         "title": "Potosi: Gümüş Dağının Kanlı Bedeli",
         "date": "2025-02-14T17:17:32",
         "slug": "potosi-gumus-daginin-kanli-bedeli",
         "featuredImage": "/images/potosi-gumus-daginin-kanli-bedeli.webp",
-        "category": "Düşünce"
+        "category": "Düşünce",
+        "hasAudio": false
     },
     {
         "title": "Limonun Tarihi: İskorbütü Nasıl Yok Etti?",
         "date": "2025-02-14T10:43:19",
         "slug": "limonun-tarihi-iskorbutu-nasil-yok-etti",
         "featuredImage": "/images/limonun-tarihi-iskorbutu-nasil-yok-etti.webp",
-        "category": "Bilim"
+        "category": "Bilim",
+        "hasAudio": false
     },
     {
         "title": "Düşüncelerim",
         "date": "2025-02-13T23:58:50",
         "slug": "yeni-eklenenler",
         "featuredImage": "/images/yeni-eklenenler.webp",
-        "category": "Düşünce"
+        "category": "Düşünce",
+        "hasAudio": false
     },
     {
         "title": "Fromm’un Düşünceleri Üzerine",
         "date": "2025-02-13T23:39:56",
         "slug": "frommun-dusunceleri-uzerine",
         "featuredImage": "/images/frommun-dusunceleri-uzerine.webp",
-        "category": "Psikoloji"
+        "category": "Psikoloji",
+        "hasAudio": false
     },
     {
         "title": "Boşluk Asla Boş Değildir",
         "date": "2025-02-13T23:01:54",
         "slug": "bosluk-asla-bos-degildir",
         "featuredImage": "/images/bosluk-asla-bos-degildir.webp",
-        "category": "Bilim"
+        "category": "Bilim",
+        "hasAudio": false
     }
 ]

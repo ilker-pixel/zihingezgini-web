@@ -96,7 +96,15 @@ document.addEventListener("DOMContentLoaded", () => {
     if (loadMoreContainer) loadMoreContainer.innerHTML = "";
     
     const filteredPosts = allPosts.filter(post => {
-      const matchesCategory = currentCategory === "all" || post.category === currentCategory;
+      let matchesCategory = false;
+      if (currentCategory === "all") {
+        matchesCategory = true;
+      } else if (currentCategory === "monologues") {
+        matchesCategory = !!post.hasAudio;
+      } else {
+        matchesCategory = post.category === currentCategory;
+      }
+      
       const matchesSearch = searchQuery === "" || 
         post.title.toLowerCase().includes(searchQuery) ||
         (post.category && post.category.toLowerCase().includes(searchQuery));
@@ -193,9 +201,12 @@ document.addEventListener("DOMContentLoaded", () => {
           <button class="post-back-btn" onclick="window.location.hash = '#/'">
             ← Geri Dön
           </button>
-          <div class="font-size-adjuster">
-            <button id="font-dec" title="Yazıyı Küçült">A-</button>
-            <button id="font-inc" title="Yazıyı Büyüt">A+</button>
+          <div class="post-actions-right">
+            <button id="toggle-focus-btn" class="post-focus-btn" title="Odaklanma Modu">👁 Odak Modu</button>
+            <div class="font-size-adjuster">
+              <button id="font-dec" title="Yazıyı Küçült">A-</button>
+              <button id="font-inc" title="Yazıyı Büyüt">A+</button>
+            </div>
           </div>
         </div>
         <header class="post-meta">
@@ -226,8 +237,14 @@ document.addEventListener("DOMContentLoaded", () => {
       // Setup Share Button Event Listener
       setupShareButton(post);
 
+      // Setup Focus Mode Event Listener
+      setupFocusMode();
+
       // Setup Audio Player Event Listener if YouTube url is present
       setupAudioPlayer(youtubeUrl);
+
+      // Setup Interactive Film List for Auteur Cinema post
+      setupInteractiveFilmList(post);
 
     } catch (error) {
       console.error("Error loading post detail:", error);
@@ -359,8 +376,100 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  // Setup Focus Mode
+  function setupFocusMode() {
+    const focusBtn = document.getElementById("toggle-focus-btn");
+    if (focusBtn) {
+      focusBtn.addEventListener("click", () => {
+        const isFocus = document.body.classList.toggle("focus-mode");
+        focusBtn.classList.toggle("active", isFocus);
+        focusBtn.innerHTML = isFocus ? "👁 Odaktan Çık" : "👁 Odak Modu";
+      });
+    }
+  }
+
+  // Setup Interactive Film List for Auteur Cinema post
+  function setupInteractiveFilmList(post) {
+    if (post.slug !== "derinlik-ve-sabir-auteur-sinemasinin-anlami") return;
+    
+    const postBody = document.querySelector(".post-body");
+    if (!postBody) return;
+    
+    const list = postBody.querySelector("ol");
+    if (!list) return;
+    
+    list.classList.add("interactive-checklist");
+    
+    let watchedList = [];
+    try {
+      watchedList = JSON.parse(localStorage.getItem("zg_watched_films") || "[]");
+    } catch(e) {
+      watchedList = [];
+    }
+    
+    const items = list.querySelectorAll("li");
+    const totalFilms = items.length;
+    
+    const progressContainer = document.createElement("div");
+    progressContainer.id = "film-progress-container";
+    progressContainer.className = "film-progress-container";
+    progressContainer.innerHTML = `
+      <div class="progress-info">
+        <span>🎬 Auteur Sineması Yolculuğunuz</span>
+        <strong id="progress-percent">0% (0/${totalFilms})</strong>
+      </div>
+      <div class="progress-bar-bg">
+        <div id="progress-bar-fill" class="progress-bar-fill" style="width: 0%"></div>
+      </div>
+    `;
+    
+    list.parentNode.insertBefore(progressContainer, list);
+    
+    function updateProgress() {
+      const checkedCount = list.querySelectorAll('input[type="checkbox"]:checked').length;
+      const percent = totalFilms > 0 ? Math.round((checkedCount / totalFilms) * 100) : 0;
+      
+      const percentText = document.getElementById("progress-percent");
+      const barFill = document.getElementById("progress-bar-fill");
+      
+      if (percentText) percentText.textContent = `${percent}% (${checkedCount}/${totalFilms})`;
+      if (barFill) barFill.style.width = `${percent}%`;
+    }
+    
+    items.forEach((item, idx) => {
+      const filmName = item.textContent.trim();
+      const isWatched = watchedList.includes(filmName);
+      
+      const checkboxId = `film-check-${idx}`;
+      item.innerHTML = `
+        <label for="${checkboxId}" class="checklist-label">
+          <input type="checkbox" id="${checkboxId}" data-index="${idx}" ${isWatched ? 'checked' : ''}>
+          <span class="checkbox-custom"></span>
+          <span class="film-text">${item.innerHTML}</span>
+        </label>
+      `;
+      
+      const checkbox = item.querySelector('input[type="checkbox"]');
+      checkbox.addEventListener("change", (e) => {
+        const itemText = filmName;
+        if (e.target.checked) {
+          if (!watchedList.includes(itemText)) watchedList.push(itemText);
+        } else {
+          watchedList = watchedList.filter(name => name !== itemText);
+        }
+        localStorage.setItem("zg_watched_films", JSON.stringify(watchedList));
+        updateProgress();
+      });
+    });
+    
+    updateProgress();
+  }
+
   // Routing
   function handleRoute() {
+    // Automatically turn off focus mode on page navigation
+    document.body.classList.remove("focus-mode");
+
     const hash = window.location.hash || "#/";
     
     // Reset active nav links
@@ -483,6 +592,51 @@ document.addEventListener("DOMContentLoaded", () => {
       themeToggleBtn.textContent = isDark ? "☀️" : "🌓";
     });
   }
+
+  // Zihin Kırıntıları Quote Shuffler
+  function setupQuoteWidget() {
+    const widget = document.getElementById("quote-widget");
+    const quoteText = widget ? widget.querySelector(".footer-quote-text") : null;
+    const quoteAuthor = widget ? widget.querySelector(".footer-quote-author") : null;
+    
+    if (!widget || !quoteText || !quoteAuthor) return;
+    
+    const quotes = [
+      { text: "Uygulamaya koymadıkça, bilgi değersizdir.", author: "Anton Çehov" },
+      { text: "İnsanoğlu Yirminci yüzyılda yaşıyor olsa da; çoğu insanın beyni Taş devrinde yaşıyor.", author: "Erich Fromm" },
+      { text: "Kuantum fiziği kafanızı karıştırmadıysa, onu tam olarak anlamamışsınız demektir.", author: "Niels Bohr" },
+      { text: "Gerçek keşif, yeni topraklar bulmak değil, yeni gözlerle bakmaktır.", author: "Marcel Proust" },
+      { text: "Düşünüyorum, öyleyse varım.", author: "René Descartes" },
+      { text: "Hayatın bir sanat olduğunu kabul eden bir insan beyni, bir süre sonra kalbinin yerini alır.", author: "Oscar Wilde" },
+      { text: "Hayat geriye doğru anlaşılır, ama ileriye doğru yaşanmalıdır.", author: "Søren Kierkegaard" },
+      { text: "Mutluluk, arzu edilmeyen şeyleri istememekten geçer.", author: "Arthur Schopenhauer" },
+      { text: "İnsan insanın kurdudur.", author: "Thomas Hobbes" },
+      { text: "Aklın kurnazlığı, diyalektik süreçte gizlidir.", author: "Friedrich Hegel" }
+    ];
+    
+    let currentIndex = Math.floor(Math.random() * quotes.length);
+    quoteText.textContent = `“${quotes[currentIndex].text}”`;
+    quoteAuthor.textContent = `— ${quotes[currentIndex].author}`;
+    
+    widget.addEventListener("click", () => {
+      widget.classList.add("fade-out");
+      
+      setTimeout(() => {
+        let newIndex = currentIndex;
+        while (newIndex === currentIndex) {
+          newIndex = Math.floor(Math.random() * quotes.length);
+        }
+        currentIndex = newIndex;
+        
+        quoteText.textContent = `“${quotes[currentIndex].text}”`;
+        quoteAuthor.textContent = `— ${quotes[currentIndex].author}`;
+        widget.classList.remove("fade-out");
+      }, 250);
+    });
+  }
+
+  // Initialize Quote Widget
+  setupQuoteWidget();
 
   // Listen to hash change
   window.addEventListener("hashchange", handleRoute);
