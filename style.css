@@ -1301,8 +1301,16 @@ ol.interactive-checklist li {
 .roadmap-subtitle {
   font-size: 1.1rem;
   color: var(--color-text-muted);
-  margin-bottom: 24px;
+  margin-bottom: 16px;
   line-height: 1.6;
+}
+
+.roadmap-note {
+  font-size: 0.9rem;
+  color: var(--color-accent);
+  margin-bottom: 24px;
+  line-height: 1.5;
+  font-style: italic;
 }
 
 /* Progress Bar and Stats Styling */
