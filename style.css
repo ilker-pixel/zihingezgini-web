@@ -91,13 +91,11 @@ body {
 .header-logo {
   width: 56px;
   height: 56px;
-  border-radius: 50%;
   border: none;
   background-color: transparent;
   padding: 0;
-  object-fit: cover;
+  object-fit: contain;
   transition: transform 0.3s ease;
-  mix-blend-mode: multiply;
 }
 
 .site-title {
@@ -119,7 +117,6 @@ body {
 
 body.dark-theme .header-logo {
   filter: invert(0.9) sepia(0.1) saturate(0.8) brightness(0.9) contrast(1.1);
-  mix-blend-mode: screen;
 }
 
 .site-tagline {
