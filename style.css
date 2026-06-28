@@ -92,11 +92,11 @@ body {
   width: 56px;
   height: 56px;
   border-radius: 50%;
-  border: 1px solid var(--color-border);
+  border: none;
   background-color: #fcfbfa; /* Match the sketch paper tone */
   padding: 0;
   object-fit: cover;
-  transition: transform 0.3s ease, border-color 0.2s ease;
+  transition: transform 0.3s ease;
 }
 
 .site-title {
@@ -114,7 +114,6 @@ body {
 
 .logo-link:hover .header-logo {
   transform: rotate(10deg) scale(1.05);
-  border-color: var(--color-accent);
 }
 
 body.dark-theme .header-logo {
