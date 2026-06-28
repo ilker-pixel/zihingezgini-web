@@ -407,7 +407,42 @@ document.addEventListener("DOMContentLoaded", () => {
       </div>
     `;
     
-    list.parentNode.insertBefore(progressContainer, list);
+    // Create the top panel
+    const checklistPanel = document.createElement("div");
+    checklistPanel.className = "checklist-top-panel";
+    
+    // Move list and progress into the panel
+    checklistPanel.appendChild(progressContainer);
+    
+    // Wrap list inside a scroll container for premium dashboard styling
+    const scrollContainer = document.createElement("div");
+    scrollContainer.className = "checklist-scroll-container";
+    
+    // Remove list from original place and append to scroll container
+    list.parentNode.removeChild(list);
+    scrollContainer.appendChild(list);
+    checklistPanel.appendChild(scrollContainer);
+    
+    // Insert panel at the very top of postBody
+    postBody.insertBefore(checklistPanel, postBody.firstChild);
+    
+    // Move the featured image below the panel
+    const featuredImg = document.querySelector(".post-featured-img");
+    if (featuredImg) {
+      featuredImg.parentNode.removeChild(featuredImg);
+      postBody.insertBefore(featuredImg, checklistPanel.nextSibling);
+      featuredImg.style.marginTop = "40px";
+    }
+    
+    // Remove the original section header and paragraphs that introduced the list at the bottom
+    const listHeading = postBody.querySelector("h2.wp-block-heading");
+    if (listHeading && (listHeading.textContent.includes("50") || listHeading.textContent.includes("Listesi"))) {
+      const nextP = listHeading.nextElementSibling;
+      if (nextP && nextP.tagName === "P") {
+        nextP.remove();
+      }
+      listHeading.remove();
+    }
     
     function updateProgress() {
       const checkedCount = list.querySelectorAll('input[type="checkbox"]:checked').length;
