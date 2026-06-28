@@ -41,7 +41,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   
-  <link rel="stylesheet" href="/style.css?v=32">
+  <link rel="stylesheet" href="/style.css?v=33">
 </head>
 <body class="dark-theme">
 
@@ -153,6 +153,45 @@
         </div>
       </section>
       
+      <!-- Book Summary View -->
+      <section id="view-book-summary" class="content-view">
+        <div class="summary-reader-container">
+          <div class="summary-reader-header">
+            <a href="#/roadmap" class="back-to-roadmap-btn">← Yol Haritasına Dön</a>
+            <div class="summary-meta-top">
+              <span class="summary-meta-book-no" id="reader-book-no">#1</span>
+              <h2 class="summary-book-title" id="reader-book-title">Zamanın Kısa Tarihi</h2>
+              <span class="summary-book-author" id="reader-book-author">Stephen Hawking</span>
+            </div>
+            <p class="summary-book-subtitle" id="reader-book-subtitle"></p>
+            
+            <div class="summary-featured-image-container">
+              <img src="/images/hawking_space_time_sketch.png" class="summary-featured-img" alt="Uzay ve Zaman Bükülmesi">
+            </div>
+            
+            <div class="summary-book-meta-box">
+                <div class="meta-box-item"><strong>Orijinal Adı:</strong> <span id="reader-meta-original"></span></div>
+                <div class="meta-box-item"><strong>Derleyen:</strong> <span id="reader-meta-compiler"></span></div>
+                <div class="meta-box-item"><strong>Tarih:</strong> <span id="reader-meta-date"></span></div>
+            </div>
+            <div class="divider"></div>
+          </div>
+          
+          <div class="summary-reader-content">
+            <div class="summary-intro-box" id="reader-intro-text">
+              <!-- Intro goes here -->
+            </div>
+            <div class="summary-chapters-list" id="reader-chapters-list">
+              <!-- Chapters loaded here -->
+            </div>
+          </div>
+          
+          <!-- Elegant Disclaimer Footer inside the reader -->
+          <footer class="summary-reader-footer">
+            <p class="disclaimer-text">⚠️ <strong>Telif ve Sorumluluk Reddi:</strong> Bu kitap özeti, eğitim, kişisel gelişim ve araştırma amaçlarıyla yapay zeka asistanı tarafından özetlenerek Türkçe diline kazandırılmıştır. Sitemizde hiçbir ticari amaç veya kazanç modeli bulunmamaktadır. Amacımız, okuyucuları bilgilendirmek ve eserin telif sahibi olan orijinal yayınlarından satın alınmasını teşvik etmektir.</p>
+          </footer>
+        </div>
+      </section>
     </main>
 
     <!-- Footer -->
@@ -179,6 +218,6 @@
 
   </div>
 
-  <script src="/app.js?v=26"></script>
+  <script src="/app.js?v=27"></script>
 </body>
 </html>

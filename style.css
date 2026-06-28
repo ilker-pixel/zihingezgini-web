@@ -1513,11 +1513,222 @@ ol.interactive-checklist li {
 
 .book-title-link:hover {
   color: var(--color-text-main);
-}
-
 .book-desc {
   font-size: 0.9rem;
   color: var(--color-text-muted);
   line-height: 1.5;
   margin: 0;
+}
+
+/* Book Summary Button in Roadmap */
+.book-summary-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: 12px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--color-accent);
+  background-color: transparent;
+  border: 1px solid var(--color-accent);
+  padding: 1px 8px;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.book-summary-btn:hover {
+  background-color: var(--color-accent);
+  color: var(--color-bg);
+  box-shadow: var(--shadow-sm);
+}
+
+/* Book Summary Reader View */
+.summary-reader-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 16px;
+}
+
+.back-to-roadmap-btn {
+  display: inline-block;
+  font-size: 0.95rem;
+  color: var(--color-accent);
+  text-decoration: none;
+  margin-bottom: 28px;
+  transition: transform 0.2s ease;
+}
+
+.back-to-roadmap-btn:hover {
+  transform: translateX(-4px);
+}
+
+.summary-meta-top {
+  margin-bottom: 12px;
+}
+
+.summary-meta-book-no {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  color: var(--color-accent);
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.summary-book-title {
+  font-family: var(--font-display);
+  font-size: 2.8rem;
+  color: var(--color-text-main);
+  margin: 0 0 6px 0;
+  line-height: 1.2;
+}
+
+.summary-book-author {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: var(--color-text-muted);
+  display: block;
+}
+
+.summary-book-subtitle {
+  font-size: 1.1rem;
+  color: var(--color-text-muted);
+  line-height: 1.6;
+  margin: 16px 0 24px 0;
+  font-style: italic;
+}
+
+.summary-featured-image-container {
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+  margin-bottom: 24px;
+  background-color: var(--color-card-bg);
+}
+
+.summary-featured-img {
+  width: 100%;
+  height: auto;
+  max-height: 450px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.summary-featured-image-container:hover .summary-featured-img {
+  transform: scale(1.02);
+}
+
+.summary-book-meta-box {
+  background-color: var(--color-card-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.meta-box-item {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.meta-box-item strong {
+  color: var(--color-text-main);
+}
+
+.summary-intro-box {
+  background-color: var(--color-card-bg);
+  border-left: 4px solid var(--color-accent);
+  padding: 20px 24px;
+  border-radius: 0 8px 8px 0;
+  margin-bottom: 40px;
+}
+
+.summary-intro-box h3 {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  margin-top: 0;
+  margin-bottom: 12px;
+  color: var(--color-text-main);
+}
+
+.summary-intro-box p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--color-text-muted);
+  margin: 0;
+}
+
+.reader-chapter-section {
+  margin-bottom: 48px;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 40px;
+}
+
+.reader-chapter-section:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.reader-chapter-title {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  color: var(--color-text-main);
+  margin-top: 0;
+  margin-bottom: 20px;
+  line-height: 1.3;
+}
+
+.reader-paragraph {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--color-text-main);
+  margin-top: 0;
+  margin-bottom: 18px;
+  text-align: justify;
+}
+
+.reader-paragraph strong {
+  color: var(--color-text-main);
+  font-weight: 600;
+}
+
+.reader-paragraph em {
+  font-style: italic;
+}
+
+.summary-reader-footer {
+  margin-top: 60px;
+  background-color: var(--color-card-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.disclaimer-text {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  line-height: 1.6;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .summary-book-title {
+    font-size: 2.2rem;
+  }
+  
+  .summary-book-meta-box {
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .reader-paragraph {
+    text-align: left;
+    font-size: 1rem;
+  }
 }

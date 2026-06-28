@@ -6,7 +6,8 @@ document.addEventListener("DOMContentLoaded", () => {
     home: document.getElementById("view-home"),
     post: document.getElementById("view-post"),
     about: document.getElementById("view-about"),
-    roadmap: document.getElementById("view-roadmap")
+    roadmap: document.getElementById("view-roadmap"),
+    bookSummary: document.getElementById("view-book-summary")
   };
   
   const navLinks = {
@@ -577,6 +578,10 @@ document.addEventListener("DOMContentLoaded", () => {
             ? `<a href="${b.link}" class="book-title-link">${b.title}</a>` 
             : `<span class="book-title-text">${b.title}</span>`;
             
+          const summaryBtnHtml = b.hasSummary
+            ? `<a href="#/book/${b.no}/summary" class="book-summary-btn">📖 Özet Oku</a>`
+            : '';
+            
           bookItem.innerHTML = `
             <div class="book-check-col">
               <input type="checkbox" id="book-check-${b.no}" ${readBooks.includes(b.no) ? 'checked' : ''} data-no="${b.no}">
@@ -586,6 +591,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <span class="book-no">#${b.no}</span>
                 <span class="book-category-tag">${b.category}</span>
                 ${b.pubDate ? `<span class="book-pub-date">(${b.pubDate})</span>` : ''}
+                ${summaryBtnHtml}
               </div>
               <div class="book-title-row">
                 <strong class="book-author">${b.author}</strong> — ${titleHtml}
@@ -635,6 +641,73 @@ document.addEventListener("DOMContentLoaded", () => {
     } catch (error) {
       console.error("Error setting up roadmap:", error);
       phasesContainer.innerHTML = `<div class="loading-placeholder">Yol haritası yüklenemedi.</div>`;
+    }
+  }
+
+  // Load Book Summary Dynamically
+  async function loadBookSummary(bookNo) {
+    const readerTitle = document.getElementById("reader-book-title");
+    const readerAuthor = document.getElementById("reader-book-author");
+    const readerNo = document.getElementById("reader-book-no");
+    const readerSubtitle = document.getElementById("reader-book-subtitle");
+    const readerOriginal = document.getElementById("reader-meta-original");
+    const readerCompiler = document.getElementById("reader-meta-compiler");
+    const readerDate = document.getElementById("reader-meta-date");
+    const readerIntro = document.getElementById("reader-intro-text");
+    const readerChapters = document.getElementById("reader-chapters-list");
+    
+    if (!readerTitle || !readerChapters) return;
+    
+    readerChapters.innerHTML = `<div class="loading-placeholder">Özet yükleniyor...</div>`;
+    
+    try {
+      const response = await fetch(`/data/summaries/${bookNo}.json?t=${new Date().getTime()}`);
+      if (!response.ok) throw new Error("Summary file not found");
+      const data = await response.json();
+      
+      readerTitle.textContent = data.title;
+      readerAuthor.textContent = data.author;
+      readerNo.textContent = `#${data.bookNo}`;
+      readerSubtitle.textContent = data.subtitle || "";
+      
+      if (readerOriginal) readerOriginal.textContent = data.meta.originalTitle || "";
+      if (readerCompiler) readerCompiler.textContent = data.meta.compiler || "";
+      if (readerDate) readerDate.textContent = data.meta.date || "";
+      
+      if (readerIntro) {
+        readerIntro.innerHTML = `<h3>Giriş: Kozmosun Büyüleyici Arayışı</h3><p>${data.intro}</p>`;
+      }
+      
+      readerChapters.innerHTML = "";
+      data.chapters.forEach(ch => {
+        const chDiv = document.createElement("div");
+        chDiv.className = "reader-chapter-section";
+        
+        let paragraphsHtml = "";
+        ch.paragraphs.forEach(p => {
+          let text = p.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+          text = text.replace(/\*(.*?)\*/g, '<em>$1</em>');
+          paragraphsHtml += `<p class="reader-paragraph">${text.replace(/\n/g, '<br>')}</p>`;
+        });
+        
+        chDiv.innerHTML = `
+          <h3 class="reader-chapter-title">${ch.title}</h3>
+          <div class="reader-chapter-body">
+            ${paragraphsHtml}
+          </div>
+        `;
+        readerChapters.appendChild(chDiv);
+      });
+      
+      updateMetaTags(
+        `Zihin Gezgini | ${data.title} Özeti`,
+        `${data.title} eserinin en anlaşılır felsefi ve bilimsel özeti.`,
+        "https://zihingezgini.net/images/hawking_space_time_sketch.png"
+      );
+      
+    } catch (error) {
+      console.error("Error loading book summary:", error);
+      readerChapters.innerHTML = `<div class="loading-placeholder">Özet yüklenemedi.</div>`;
     }
   }
 
@@ -705,6 +778,19 @@ document.addEventListener("DOMContentLoaded", () => {
         "https://zihingezgini.net/images/thinking_man_sketch.png"
       );
       setupRoadmap();
+    } else if (hash.startsWith("#/book/") && hash.endsWith("/summary")) {
+      const match = hash.match(/#\/book\/(\d+)\/summary/);
+      if (match) {
+        const bookNo = parseInt(match[1]);
+        if (views.bookSummary) {
+          views.bookSummary.classList.add("active");
+          loadBookSummary(bookNo);
+        } else {
+          window.location.hash = "#/";
+        }
+      } else {
+        window.location.hash = "#/";
+      }
     } else if (hash.startsWith("#/post/")) {
       const slug = hash.replace("#/post/", "");
       views.post.classList.add("active");
