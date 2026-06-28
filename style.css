@@ -82,7 +82,20 @@ body {
 .logo-link {
   text-decoration: none;
   color: var(--color-text-main);
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.header-logo {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid var(--color-border);
+  background-color: var(--color-card-bg);
+  padding: 4px;
+  transition: transform 0.3s ease, border-color 0.2s ease;
 }
 
 .site-title {
@@ -90,12 +103,17 @@ body {
   font-size: 2.8rem;
   font-weight: 500;
   letter-spacing: -1px;
-  margin-bottom: 8px;
+  margin-bottom: 0;
   transition: opacity 0.2s ease;
 }
 
 .logo-link:hover .site-title {
   opacity: 0.8;
+}
+
+.logo-link:hover .header-logo {
+  transform: rotate(10deg) scale(1.05);
+  border-color: var(--color-accent);
 }
 
 .site-tagline {
