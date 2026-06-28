@@ -527,28 +527,32 @@ document.addEventListener("DOMContentLoaded", () => {
           featuredSection.innerHTML = `
             <div class="featured-summaries-header">
               <h3 class="featured-summaries-title">📖 Hemen Okunabilecek Özet Kitapçıklar</h3>
-              <p class="featured-summaries-subtitle">Yapay zeka asistanı tarafından özetlenmiş, özel editoryal tasarım ve illüstrasyonlarla süslenmiş eserler.</p>
+              <p class="featured-summaries-subtitle">Özel çizimler ve yalın anlatımlarla özetlenmiş, okumaya hazır eserler.</p>
             </div>
-            <div class="featured-summaries-grid">
+            <div class="featured-summaries-list">
               ${featuredBooks.map(b => {
                 const cover = SUMMARY_COVERS[b.no] || "/images/hawking_space_time_sketch.png";
                 return `
-                  <div class="featured-summary-card">
-                    <div class="featured-card-image-box">
+                  <div class="featured-summary-row">
+                    <div class="featured-row-thumb-box">
                       <img src="${cover}" alt="${b.title}">
                     </div>
-                    <div class="featured-card-body">
-                      <span class="featured-card-category">${b.category}</span>
-                      <h4 class="featured-card-title">${b.title}</h4>
-                      <p class="featured-card-author">${b.author}</p>
-                      <p class="featured-card-desc">${b.description}</p>
-                      <a href="#/book/${b.no}/summary" class="featured-card-btn">Özeti Oku →</a>
+                    <div class="featured-row-info">
+                      <div class="featured-row-meta">
+                        <span class="featured-row-no">#${b.no}</span>
+                        <span class="featured-row-category-tag">${b.category}</span>
+                        <a href="#/book/${b.no}/summary" class="featured-row-read-btn">📖 Özet Oku</a>
+                      </div>
+                      <div class="featured-row-title-line">
+                        <strong class="featured-row-author">${b.author}</strong> — <span class="featured-row-title">${b.title}</span>
+                      </div>
+                      <p class="featured-row-desc">${b.description}</p>
                     </div>
                   </div>
                 `;
               }).join("")}
             </div>
-            <div class="divider" style="margin-top: 40px;"></div>
+            <div class="divider" style="margin-top: 30px;"></div>
           `;
         } else {
           featuredSection.innerHTML = "";
