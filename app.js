@@ -512,6 +512,49 @@ document.addEventListener("DOMContentLoaded", () => {
       if (!response.ok) throw new Error("Books file not found");
       const books = await response.json();
       
+      // Render featured summaries at the top
+      const featuredSection = document.getElementById("featured-summaries-section");
+      if (featuredSection) {
+        const featuredBooks = books.filter(b => b.hasSummary);
+        if (featuredBooks.length > 0) {
+          const SUMMARY_COVERS = {
+            1: "/images/hawking_space_time_sketch.png",
+            4: "/images/fabric_cover_sketch.png",
+            5: "/images/chaos_cover_sketch.png",
+            6: "/images/drunkards_walk_cover_sketch.png"
+          };
+          
+          featuredSection.innerHTML = `
+            <div class="featured-summaries-header">
+              <h3 class="featured-summaries-title">📖 Hemen Okunabilecek Özet Kitapçıklar</h3>
+              <p class="featured-summaries-subtitle">Yapay zeka asistanı tarafından özetlenmiş, özel editoryal tasarım ve illüstrasyonlarla süslenmiş eserler.</p>
+            </div>
+            <div class="featured-summaries-grid">
+              ${featuredBooks.map(b => {
+                const cover = SUMMARY_COVERS[b.no] || "/images/hawking_space_time_sketch.png";
+                return `
+                  <div class="featured-summary-card">
+                    <div class="featured-card-image-box">
+                      <img src="${cover}" alt="${b.title}">
+                    </div>
+                    <div class="featured-card-body">
+                      <span class="featured-card-category">${b.category}</span>
+                      <h4 class="featured-card-title">${b.title}</h4>
+                      <p class="featured-card-author">${b.author}</p>
+                      <p class="featured-card-desc">${b.description}</p>
+                      <a href="#/book/${b.no}/summary" class="featured-card-btn">Özeti Oku →</a>
+                    </div>
+                  </div>
+                `;
+              }).join("")}
+            </div>
+            <div class="divider" style="margin-top: 40px;"></div>
+          `;
+        } else {
+          featuredSection.innerHTML = "";
+        }
+      }
+      
       let readBooks = [];
       try {
         readBooks = JSON.parse(localStorage.getItem("zg_read_books") || "[]");
@@ -548,7 +591,7 @@ document.addEventListener("DOMContentLoaded", () => {
       for (let e = 1; e <= 10; e++) {
         const phaseBooks = evreBooks[e];
         const phaseDiv = document.createElement("div");
-        phaseDiv.className = "roadmap-phase-card";
+        phaseDiv.className = "roadmap-phase-card is-open";
         
         // Count read books in this phase
         const phaseReadCount = phaseBooks.filter(b => readBooks.includes(b.no)).length;
