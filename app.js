@@ -562,7 +562,7 @@ document.addEventListener("DOMContentLoaded", () => {
         readBooks = [];
       }
       
-      // Calculate progress and update stats
+      // Calculate progress and update stats & quick nav
       function updateRoadmapProgress() {
         const total = 300;
         const count = readBooks.length;
@@ -575,6 +575,56 @@ document.addEventListener("DOMContentLoaded", () => {
         if (percentText) percentText.textContent = `${percent}%`;
         if (countText) countText.textContent = count;
         if (fillBar) fillBar.style.width = `${percent}%`;
+        
+        // Update quick nav counts
+        const quickNavContainer = document.getElementById("roadmap-quick-nav");
+        if (quickNavContainer) {
+          const romanNumerals = {
+            1: "I", 2: "II", 3: "III", 4: "IV", 5: "V",
+            6: "VI", 7: "VII", 8: "VIII", 9: "IX", 10: "X"
+          };
+          
+          let navHtml = "";
+          for (let e = 1; e <= 10; e++) {
+            const phaseBooks = evreBooks[e] || [];
+            const phaseReadCount = phaseBooks.filter(b => readBooks.includes(b.no)).length;
+            const isCompleted = phaseReadCount === 30;
+            const hasStarted = phaseReadCount > 0;
+            
+            navHtml += `
+              <button class="quick-nav-pill ${isCompleted ? 'is-completed' : ''} ${hasStarted ? 'has-started' : ''}" data-evre="${e}" title="${EVRE_TITLES[e] || ''}">
+                <span class="quick-nav-num">${romanNumerals[e]}</span>
+                <span class="quick-nav-count">${phaseReadCount}/30</span>
+              </button>
+            `;
+          }
+          quickNavContainer.innerHTML = navHtml;
+          
+          // Add click listeners to quick nav buttons
+          quickNavContainer.querySelectorAll(".quick-nav-pill").forEach(btn => {
+            btn.addEventListener("click", () => {
+              const e = parseInt(btn.getAttribute("data-evre"));
+              const targetDiv = document.getElementById(`phase-card-${e}`);
+              if (targetDiv) {
+                // Ensure target is open
+                if (!targetDiv.classList.contains("is-open")) {
+                  targetDiv.classList.add("is-open");
+                  const icon = targetDiv.querySelector(".phase-toggle-icon");
+                  if (icon) icon.textContent = "▸";
+                }
+                
+                // Highlight phase card temporarily with a subtle pulse
+                targetDiv.classList.add("highlight-pulse");
+                setTimeout(() => {
+                  targetDiv.classList.remove("highlight-pulse");
+                }, 2000);
+                
+                // Scroll smoothly
+                targetDiv.scrollIntoView({ behavior: "smooth", block: "start" });
+              }
+            });
+          });
+        }
       }
       
       phasesContainer.innerHTML = "";
@@ -592,6 +642,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const phaseBooks = evreBooks[e];
         const phaseDiv = document.createElement("div");
         phaseDiv.className = "roadmap-phase-card is-open";
+        phaseDiv.id = `phase-card-${e}`;
         
         // Count read books in this phase
         const phaseReadCount = phaseBooks.filter(b => readBooks.includes(b.no)).length;

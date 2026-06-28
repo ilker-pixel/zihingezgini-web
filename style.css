@@ -2009,3 +2009,102 @@ ol.interactive-checklist li {
   transform: translateY(-1px);
 }
 
+/* Roadmap Title Row & Quick Nav */
+.roadmap-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.roadmap-title-group {
+  flex: 1;
+  min-width: 280px;
+}
+
+.roadmap-quick-nav {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.quick-nav-pill {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-main);
+  padding: 6px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 48px;
+  box-sizing: border-box;
+}
+
+.quick-nav-pill:hover {
+  border-color: var(--color-accent);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px var(--color-shadow);
+}
+
+.quick-nav-num {
+  font-family: var(--font-serif);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-text-main);
+  margin-bottom: 1px;
+}
+
+.quick-nav-count {
+  font-size: 0.65rem;
+  font-weight: 500;
+  color: var(--color-text-muted);
+}
+
+/* Completion/Activity States for Navigation Pills */
+.quick-nav-pill.has-started {
+  border-color: rgba(196, 176, 151, 0.4);
+}
+
+.quick-nav-pill.is-completed {
+  background-color: var(--color-accent-light);
+  border-color: var(--color-accent);
+}
+
+.quick-nav-pill.is-completed .quick-nav-num {
+  color: var(--color-accent);
+}
+
+.quick-nav-pill.is-completed .quick-nav-count {
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+/* Highlight Pulse Animation */
+.highlight-pulse {
+  animation: pulseHighlight 2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes pulseHighlight {
+  0% {
+    box-shadow: 0 0 0 0 rgba(196, 176, 151, 0.4);
+    border-color: var(--color-accent);
+  }
+  50% {
+    box-shadow: 0 0 0 10px rgba(196, 176, 151, 0);
+    border-color: var(--color-accent);
+    background-color: var(--color-accent-light);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(196, 176, 151, 0);
+  }
+}
+
+
