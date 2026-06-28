@@ -779,6 +779,7 @@ document.addEventListener("DOMContentLoaded", () => {
     
     if (!widget || !quoteText || !quoteAuthor) return;
     
+    function renderQuote(idx) {
       const q = quotes[idx];
       quoteText.textContent = `“${q.text}”`;
       quoteAuthor.innerHTML = `— ${q.author}, <a href="#/post/${q.slug}" class="quote-post-link">${q.title}</a>`;
