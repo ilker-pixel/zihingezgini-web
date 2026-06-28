@@ -1524,6 +1524,7 @@ ol.interactive-checklist li {
 
 .book-title-link:hover {
   color: var(--color-text-main);
+}
 .book-desc {
   font-size: 0.9rem;
   color: var(--color-text-muted);
