@@ -517,26 +517,15 @@ document.addEventListener("DOMContentLoaded", () => {
       if (featuredSection) {
         const featuredBooks = books.filter(b => b.hasSummary);
         if (featuredBooks.length > 0) {
-          const SUMMARY_COVERS = {
-            1: "/images/hawking_space_time_sketch.png",
-            4: "/images/fabric_cover_sketch.png",
-            5: "/images/chaos_cover_sketch.png",
-            6: "/images/drunkards_walk_cover_sketch.png"
-          };
-          
           featuredSection.innerHTML = `
             <div class="featured-summaries-header">
               <h3 class="featured-summaries-title">📖 Hemen Okunabilecek Özet Kitapçıklar</h3>
-              <p class="featured-summaries-subtitle">Özel çizimler ve yalın anlatımlarla özetlenmiş, okumaya hazır eserler.</p>
+              <p class="featured-summaries-subtitle">Yalın anlatımlarla özetlenmiş, okumaya hazır eserler.</p>
             </div>
             <div class="featured-summaries-list">
               ${featuredBooks.map(b => {
-                const cover = SUMMARY_COVERS[b.no] || "/images/hawking_space_time_sketch.png";
                 return `
                   <div class="featured-summary-row">
-                    <div class="featured-row-thumb-box">
-                      <img src="${cover}" alt="${b.title}">
-                    </div>
                     <div class="featured-row-info">
                       <div class="featured-row-meta">
                         <span class="featured-row-no">#${b.no}</span>
