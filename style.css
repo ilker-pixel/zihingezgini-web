@@ -522,6 +522,28 @@ body.dark-theme .header-logo {
   line-height: 1.85;
 }
 
+/* Reset WordPress/Substack inline colors to prevent dark mode readability issues */
+.post-body span[style*="color"],
+.post-body p[style*="color"],
+.post-body h1[style*="color"],
+.post-body h2[style*="color"],
+.post-body h3[style*="color"],
+.post-body h4[style*="color"],
+.post-body h5[style*="color"],
+.post-body h6[style*="color"],
+.post-body .has-dark-gray-color,
+.post-body .has-black-color {
+  color: inherit !important;
+}
+
+/* Ensure highlights (mark) are highly readable in both light and dark themes */
+.post-body mark {
+  background-color: rgba(196, 176, 151, 0.22) !important;
+  color: inherit !important;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
 /* Article Styling */
 .post-body p {
   margin-bottom: 24px;
