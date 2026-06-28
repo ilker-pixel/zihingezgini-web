@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "⚙️ Running Zihin Gezgini pre-commit build automation..."
+python3 tools/build.py
+git add data/posts.json data/quotes.json

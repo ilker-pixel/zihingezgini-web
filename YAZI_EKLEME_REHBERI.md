@@ -68,26 +68,27 @@ Eğer yazı detay içeriğinde (`content`) bir YouTube video bağlantısı bulun
 
 ---
 
-## 💬 Adım 4: Otomatik Fihrist Güncelleme ve Alıntı Çıkarma (Build Aşaması)
+## 💬 Adım 4: Tam Otomatik Derleme (Git Pre-commit Hook Altyapısı)
 
-Yazınızı `/data/posts/yazı-adi.json` dosyasına ekledikten sonra manuel fihrist veya alıntı ekleme işlemleriyle uğraşmanıza gerek yoktur. Sizin için tüm süreci otomatikleştiren bir **derleyici (build) scripti** hazırladım.
+Yazınızı `/data/posts/yazı-adi.json` dosyasına ekledikten sonra manuel fihrist veya alıntı ekleme işlemleriyle uğraşmanıza gerek yoktur. Sizin için tüm süreci otomatikleştiren bir **Git pre-commit kancası (hook)** kurdum.
 
-Terminalde şu komutu çalıştırmanız yeterlidir:
+Bu sayede:
+*   Siz (veya bir yapay zekâ) terminalde `git commit` komutunu çalıştırdığı an, Git arka planda otomatik olarak `python3 tools/build.py` scriptini koşturur.
+*   Yazılar taranır, fihrist güncellenir ve yeni yazılardan **en güzel 5 alıntı otomatik ayıklanıp** `/data/quotes.json` dosyasına işlenir.
+*   Tüm bu güncellenen dosyalar otomatik olarak commite dahil edilir. Siz ekstra hiçbir manuel komut çalıştırmazsınız!
+
+### 💻 Bilgisayarınız Değişirse Bu Otomasyonu Nasıl Geri Getirirsiniz?
+Git kancaları (`.git/hooks/` klasörü) GitHub'a yüklenmez. Eğer bilgisayarınız bozulur ve projeyi yeni bir bilgisayara kurarsanız, bu otomatik sistemi tek tıkla yeniden aktifleştirmek için terminalde şu komutu çalıştırmanız yeterlidir:
 ```bash
-python3 tools/build.py
+cp tools/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
 ```
-
-Bu script çalıştırıldığında sırasıyla şunları yapar:
-1.  Tüm detay yazı dosyalarını tarar ve ana fihristi (`data/posts.json`) en son tarihe göre otomatik olarak yeniden derler.
-2.  Yazı içeriklerinde YouTube videosu tespit ederse `hasAudio: true` bayrağını otomatik olarak ekler.
-3.  Havuzda henüz alıntısı bulunmayan yeni yazıları analiz eder, her yeni yazıdan **en güzel 5 alıntıyı** otomatik olarak ayıklayıp `/data/quotes.json` alıntı veri tabanına otomatik ekler.
 
 ---
 
 ## 🔄 Adım 5: Yayınlama ve Önbellek (Cache) Temizliği
 
-Derleme işlemi tamamlandıktan sonra sitenizi yayına almak için:
-1.  Değişiklikleri GitHub'a push edin:
+Yazı dosyasını ekledikten sonra sitenizi yayına almak için sadece standart Git komutlarını girmeniz yeterlidir:
+1.  Değişiklikleri GitHub'a gönderin (Otomasyon commit esnasında kendiliğinden çalışacaktır):
     ```bash
     git add .
     git commit -m "Yayınla: [Yazı Başlığı]"
