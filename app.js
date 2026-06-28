@@ -714,6 +714,29 @@ document.addEventListener("DOMContentLoaded", () => {
             phaseDiv.querySelector(".phase-badge").textContent = `${currentPhaseReadCount} / 30 Okundu`;
           });
           
+          // Click handler to toggle description accordion
+          const infoCol = bookItem.querySelector(".book-info-col");
+          if (infoCol) {
+            infoCol.addEventListener("click", (e) => {
+              // Ignore clicks on links or buttons (like summary link)
+              if (e.target.closest("a") || e.target.closest("button") || e.target.closest("input")) {
+                return;
+              }
+              
+              const isCurrentlyExpanded = bookItem.classList.contains("is-expanded");
+              
+              // Collapse all other book descriptions
+              document.querySelectorAll(".book-item-row.is-expanded").forEach(row => {
+                row.classList.remove("is-expanded");
+              });
+              
+              // Toggle current row
+              if (!isCurrentlyExpanded) {
+                bookItem.classList.add("is-expanded");
+              }
+            });
+          }
+          
           booksList.appendChild(bookItem);
         });
         
