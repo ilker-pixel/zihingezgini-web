@@ -690,13 +690,29 @@ document.addEventListener("DOMContentLoaded", () => {
           paragraphsHtml += `<p class="reader-paragraph">${text.replace(/\n/g, '<br>')}</p>`;
         });
         
-        const hasMedia = ch.image ? true : false;
-        const mediaHtml = hasMedia 
-          ? `<div class="reader-chapter-media">
-               <img src="${ch.image}" class="reader-chapter-img" alt="${ch.imageCaption || ''}">
-               ${ch.imageCaption ? `<span class="reader-chapter-caption">${ch.imageCaption}</span>` : ''}
-             </div>`
-          : '';
+        const hasMedia = (ch.image || ch.takeaway) ? true : false;
+        
+        let mediaHtml = '';
+        if (hasMedia) {
+          mediaHtml += `<div class="reader-chapter-media">`;
+          if (ch.image) {
+            mediaHtml += `
+              <div class="reader-chapter-img-box">
+                <img src="${ch.image}" class="reader-chapter-img" alt="${ch.imageCaption || ''}">
+                ${ch.imageCaption ? `<span class="reader-chapter-caption">${ch.imageCaption}</span>` : ''}
+              </div>
+            `;
+          }
+          if (ch.takeaway) {
+            mediaHtml += `
+              <div class="reader-takeaway-card">
+                <span class="takeaway-badge">Bölümün Özü</span>
+                <p class="takeaway-text">“${ch.takeaway}”</p>
+              </div>
+            `;
+          }
+          mediaHtml += `</div>`;
+        }
         
         chDiv.innerHTML = `
           <h3 class="reader-chapter-title">${ch.title}</h3>
