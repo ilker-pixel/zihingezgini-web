@@ -201,12 +201,9 @@ document.addEventListener("DOMContentLoaded", () => {
           <button class="post-back-btn" onclick="window.location.hash = '#/'">
             ← Geri Dön
           </button>
-          <div class="post-actions-right">
-            <button id="toggle-focus-btn" class="post-focus-btn" title="Odaklanma Modu">👁 Odak Modu</button>
-            <div class="font-size-adjuster">
-              <button id="font-dec" title="Yazıyı Küçült">A-</button>
-              <button id="font-inc" title="Yazıyı Büyüt">A+</button>
-            </div>
+          <div class="font-size-adjuster">
+            <button id="font-dec" title="Yazıyı Küçült">A-</button>
+            <button id="font-inc" title="Yazıyı Büyüt">A+</button>
           </div>
         </div>
         <header class="post-meta">
@@ -237,8 +234,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // Setup Share Button Event Listener
       setupShareButton(post);
 
-      // Setup Focus Mode Event Listener
-      setupFocusMode();
+
 
       // Setup Audio Player Event Listener if YouTube url is present
       setupAudioPlayer(youtubeUrl);
@@ -376,18 +372,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // Setup Focus Mode
-  function setupFocusMode() {
-    const focusBtn = document.getElementById("toggle-focus-btn");
-    if (focusBtn) {
-      focusBtn.addEventListener("click", () => {
-        const isFocus = document.body.classList.toggle("focus-mode");
-        focusBtn.classList.toggle("active", isFocus);
-        focusBtn.innerHTML = isFocus ? "👁 Odaktan Çık" : "👁 Odak Modu";
-      });
-    }
-  }
-
   // Setup Interactive Film List for Auteur Cinema post
   function setupInteractiveFilmList(post) {
     if (post.slug !== "derinlik-ve-sabir-auteur-sinemasinin-anlami") return;
@@ -467,8 +451,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Routing
   function handleRoute() {
-    // Automatically turn off focus mode on page navigation
-    document.body.classList.remove("focus-mode");
 
     const hash = window.location.hash || "#/";
     
@@ -602,16 +584,16 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!widget || !quoteText || !quoteAuthor) return;
     
     const quotes = [
-      { text: "Uygulamaya koymadıkça, bilgi değersizdir.", author: "Anton Çehov" },
-      { text: "İnsanoğlu Yirminci yüzyılda yaşıyor olsa da; çoğu insanın beyni Taş devrinde yaşıyor.", author: "Erich Fromm" },
-      { text: "Kuantum fiziği kafanızı karıştırmadıysa, onu tam olarak anlamamışsınız demektir.", author: "Niels Bohr" },
-      { text: "Gerçek keşif, yeni topraklar bulmak değil, yeni gözlerle bakmaktır.", author: "Marcel Proust" },
-      { text: "Düşünüyorum, öyleyse varım.", author: "René Descartes" },
-      { text: "Hayatın bir sanat olduğunu kabul eden bir insan beyni, bir süre sonra kalbinin yerini alır.", author: "Oscar Wilde" },
-      { text: "Hayat geriye doğru anlaşılır, ama ileriye doğru yaşanmalıdır.", author: "Søren Kierkegaard" },
-      { text: "Mutluluk, arzu edilmeyen şeyleri istememekten geçer.", author: "Arthur Schopenhauer" },
-      { text: "İnsan insanın kurdudur.", author: "Thomas Hobbes" },
-      { text: "Aklın kurnazlığı, diyalektik süreçte gizlidir.", author: "Friedrich Hegel" }
+      { text: "Bildiğimiz ama ciddiye almadığımız küçük şeyler, farkına varmadan hayatımızı kurtarabilir.", author: "Zihin Gezgini" },
+      { text: "Bazen en büyük farkı, en basit şeyler yaratır. Bilgiye sahip olmak önemli ama onu uygulamaya koymak hayati.", author: "Zihin Gezgini" },
+      { text: "Şüphe bir yıkım değil, sağlam bir başlangıcın temelidir.", author: "Zihin Gezgini" },
+      { text: "Herkesin bir gölge tarafı var. Korkularımız, bastırdığımız duygularımız, söylemeye cesaret edemediklerimiz…", author: "Zihin Gezgini" },
+      { text: "Özgür olmak güzel; kendi seçimlerimizi yapabiliyoruz. Ancak bu, bazen yalnız kalma ve yabancılaşma hissi de getiriyor.", author: "Zihin Gezgini" },
+      { text: "En sessiz anlarda bile, evrenin içi fokurdamaya devam ediyor.", author: "Zihin Gezgini" },
+      { text: "Boşluk bile aslında bomboş değil. Ve bu, evrenin temel dokusunu anlamamız açısından inanılmaz bir şey.", author: "Zihin Gezgini" },
+      { text: "Sevgi, sadece bir his değil; öğrenilmesi gereken bir sanat.", author: "Zihin Gezgini" },
+      { text: "Bir çiçeğe su vermezsen solar. Peki, sevgiyi beslemeyi unutursak ne olur?", author: "Zihin Gezgini" },
+      { text: "Sanata, özellikle 'zaman, sabır ve derinlik' gerektiren eserlere arada bir dönmek gerekiyor.", author: "Zihin Gezgini" }
     ];
     
     let currentIndex = Math.floor(Math.random() * quotes.length);

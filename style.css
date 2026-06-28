@@ -1074,55 +1074,6 @@ body.dark-theme .about-featured-img {
 
 /* --- New Features additions --- */
 
-/* Post actions right block */
-.post-actions-right {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-}
-
-/* Focus Mode Trigger Button */
-.post-focus-btn {
-  background: none;
-  border: 1px solid var(--color-border);
-  color: var(--color-text-muted);
-  font-family: var(--font-sans);
-  font-size: 0.8rem;
-  padding: 6px 12px;
-  border-radius: 6px;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-
-.post-focus-btn:hover {
-  color: var(--color-text-main);
-  border-color: var(--color-accent);
-  background-color: rgba(255, 107, 107, 0.05);
-}
-
-.post-focus-btn.active {
-  color: var(--color-bg) !important;
-  background-color: var(--color-accent) !important;
-  border-color: var(--color-accent) !important;
-}
-
-/* Focus Mode Global Overrides */
-body.focus-mode .site-header,
-body.focus-mode .site-nav,
-body.focus-mode .post-subscribe-section,
-body.focus-mode .site-footer,
-body.focus-mode .post-back-btn,
-body.focus-mode .post-detail-category,
-body.focus-mode .post-meta-sub {
-  display: none !important;
-}
-
-body.focus-mode .post-container {
-  max-width: 680px;
-  margin: 60px auto;
-  padding: 0 20px;
-}
-
 /* Auteur film diary progress bar */
 .film-progress-container {
   margin: 30px 0 20px;
