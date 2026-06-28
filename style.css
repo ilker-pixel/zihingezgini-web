@@ -79,6 +79,17 @@ body {
   text-align: center;
 }
 
+/* Base link styling reset to avoid browser-default blue */
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover, a:focus {
+  color: var(--color-text-main);
+}
+
 .logo-link {
   text-decoration: none;
   color: var(--color-text-main);
@@ -1566,6 +1577,7 @@ ol.interactive-checklist li {
 /* split hero layout */
 .summary-hero-split {
   display: flex;
+  flex-direction: row-reverse; /* image on left, details on right */
   gap: 40px;
   align-items: center;
   margin-bottom: 30px;
@@ -1686,9 +1698,9 @@ ol.interactive-checklist li {
 
 /* Chapter with inline media */
 .reader-chapter-section {
-  margin-bottom: 110px;
+  margin-bottom: 150px; /* Highly spacious spacing between chapters */
   border-bottom: 1px solid var(--color-border);
-  padding-bottom: 90px;
+  padding-bottom: 110px;
 }
 
 .reader-chapter-section:last-child {
@@ -1713,7 +1725,8 @@ ol.interactive-checklist li {
 
 .reader-chapter-wrapper.has-media {
   display: flex;
-  gap: 50px;
+  flex-direction: row-reverse; /* Put image/takeaway column on left, text on right */
+  gap: 60px;
   align-items: flex-start;
 }
 
@@ -1843,8 +1856,9 @@ ol.interactive-checklist li {
   
   .reader-chapter-media {
     flex: none;
-    max-width: 100%;
+    max-width: 280px;
     width: 100%;
+    margin: 0 auto;
     box-sizing: border-box;
   }
   
