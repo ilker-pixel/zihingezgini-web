@@ -1,0 +1,3002 @@
+[
+    {
+        "no": 1,
+        "author": "Stephen Hawking",
+        "title": "Zamanın Kısa Tarihi",
+        "category": "Fizik & Kozmoloji",
+        "description": "Büyük Patlama'dan kara deliklere kadar evrenin yapısını ve tarihini anlatan popüler bilim başyapıtı.",
+        "pubDate": "1988",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 2,
+        "author": "Carl Sagan",
+        "title": "Kozmos (Cosmos)",
+        "category": "Fizik & Kozmoloji",
+        "description": "Astronomiyi, bilimin tarihini ve evrendeki yerimizi anlatan şiirsel bir rasyonalizm klasiği.",
+        "pubDate": "1980",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 3,
+        "author": "Carlo Rovelli",
+        "title": "Fizik Üzerine Yedi Kısa Ders",
+        "category": "Fizik",
+        "description": "Kuantum mekaniği, görelilik ve evrenin yapısı üzerine son derece sade, edebi ve derin yedi ders.",
+        "pubDate": "2014",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 4,
+        "author": "Brian Greene",
+        "title": "Evrenin Dokusu",
+        "category": "Fizik & Kozmoloji",
+        "description": "Uzay, zaman, sicim teorisi ve gerçekliğin doğasını modern fizik penceresinden ele alan popüler bilim şaheseri.",
+        "pubDate": "2004",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 5,
+        "author": "James Gleick",
+        "title": "Kaos",
+        "category": "Fizik & Karmaşıklık",
+        "description": "Kelebek etkisi ve kaos teorisinin keşfini ve bilim dünyasındaki paradigma değişimini anlatan sürükleyici klasik.",
+        "pubDate": "1987",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 6,
+        "author": "Leonard Mlodinow",
+        "title": "Sarhoş Yürüyüşü",
+        "category": "Matematik & Şüphecilik",
+        "description": "Rastlantısallığın ve olasılık kuramının günlük hayatımızdaki, kararlarımızdaki ve bilimdeki rolünü açıklayan eser.",
+        "pubDate": "2008",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 7,
+        "author": "Charles Darwin",
+        "title": "Türlerin Kökeni",
+        "category": "Biyoloji & Evrim",
+        "description": "Evrim kuramının temelini atan, modern biyolojinin kurucu eseri.",
+        "pubDate": "1859",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 8,
+        "author": "Richard Dawkins",
+        "title": "Gen Bencildir",
+        "category": "Biyoloji & Evrim",
+        "description": "Gen-merkezli evrim görüşünü popülerleştiren bilişsel biyoloji klasiği.",
+        "pubDate": "1976",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 9,
+        "author": "Richard Dawkins",
+        "title": "Yeryüzündeki En Büyük Gösteri",
+        "category": "Biyoloji & Evrim",
+        "description": "Evrim teorisinin empirik kanıtlarını, fosil kayıtlarını ve laboratuvar verilerini sunan en net bilimsel kılavuz.",
+        "pubDate": "2009",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 10,
+        "author": "Nick Lane",
+        "title": "Yaşamın Yükselişi",
+        "category": "Biyoloji & Evrim",
+        "description": "Hayatın kökeni, DNA, fotosentez ve ölüm gibi biyolojinin 10 büyük icadını güncel biyokimya ile açıklayan başyapıt.",
+        "pubDate": "2009",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 11,
+        "author": "Jared Diamond",
+        "title": "Üçüncü Şempanze: İnsan Türünün Evrimi ve Geleceği",
+        "category": "Antropoloji & Evrim",
+        "description": "İnsanın evrimsel geçmişini ve şempanzelerle olan yakın bağlarını inceleyen eser.",
+        "pubDate": "1991",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 12,
+        "author": "Jared Diamond",
+        "title": "Tüfek, Mikrop ve Çelik",
+        "category": "Tarih & Antropoloji",
+        "description": "Medeniyetlerin gelişimini coğrafi ve çevresel faktörlerle açıklayan klasik.",
+        "pubDate": "1997",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 13,
+        "author": "David Christian",
+        "title": "Büyük Tarih",
+        "category": "Tarih & Kozmoloji",
+        "description": "Büyük Patlama'dan yapay zekaya kadar tüm varoluş tarihini tek bir bilimsel anlatıda birleştiren eşsiz bir sentez.",
+        "pubDate": "2004",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 14,
+        "author": "Joseph Henrich",
+        "title": "The WEIRDest People in the World",
+        "category": "Bilişsel Antropoloji",
+        "description": "Batılı ve Eğitimli toplumların beyninin kültürel evrimle nasıl farklılaştığını kanıtlayan yeni nesil eser.",
+        "pubDate": "2020",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 15,
+        "author": "Edward O. Wilson",
+        "title": "İnsan Varoluşunun Anlamı",
+        "category": "Biyoloji & Evrim",
+        "description": "Sosyobiyolojinin kurucusundan, insan doğasını ve sosyal evrimimizi fen bilimleri ile sosyal bilimlerin kesişiminde ele alan eser.",
+        "pubDate": "2014",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 16,
+        "author": "Ian Morris",
+        "title": "Dünyaya Neden Batı Hükmediyor (Şimdilik)",
+        "category": "Tarih & Sosyoloji",
+        "description": "Toplumsal gelişme indekslerine ve coğrafi koşullara dayanan modern, empirik tarih modeli. (G. Vico yerine)",
+        "pubDate": "2010",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 17,
+        "author": "Lucretius",
+        "title": "Evrenin Yapısı",
+        "category": "Klasik Felsefe",
+        "description": "Epikürcü atom teorisini ve ölüm korkusunun anlamsızlığını anlatan şiirsel felsefi eser.",
+        "pubDate": "MÖ 55",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 18,
+        "author": "Rachel Carson",
+        "title": "Sessiz Bahar",
+        "category": "Ekoloji & Çevre",
+        "description": "Pestisitlerin doğaya verdiği zararları anlatarak modern çevre hareketini başlatan tarihi eser.",
+        "pubDate": "1962",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 19,
+        "author": "Arne Naess",
+        "title": "Derin Ekoloji",
+        "category": "Ekoloji Felsefesi",
+        "description": "İnsan-merkezli çevre koruma yerine, doğadaki tüm canlıların eşit değerde olduğunu savunan derin ekoloji klasiği.",
+        "pubDate": "1973",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 20,
+        "author": "Timothy Morton",
+        "title": "Ekoloji Olmadan Doğa",
+        "category": "Ekoloji Felsefesi & Estetik",
+        "description": "Romantik 'Doğa' kavramının kendisinin ekolojik düşünceye engel olduğunu savunan radikal ekolojik teori.",
+        "pubDate": "2007",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 21,
+        "author": "Bruno Latour",
+        "title": "Doğayı Yeniden Bir Araya Getirmek",
+        "category": "Bilim Sosyolojisi",
+        "description": "Bilimsel gerçeklerin laboratuvarda insan ve insan-olmayan aktörlerin ağları tarafından nasıl inşa edildiğini gösteren eser.",
+        "pubDate": "2005",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 22,
+        "author": "Bronislaw Malinowski",
+        "title": "Batı Pasifik Argonautları",
+        "category": "Antropoloji",
+        "description": "Katılımcı gözlem yöntemini kuran, Kula halkası hediyeleşme sistemini inceleyen antropolojik klasik.",
+        "pubDate": "1922",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 23,
+        "author": "Marshall Sahlins",
+        "title": "Taş Devri Ekonomisi",
+        "category": "Antropoloji & Ekonomi",
+        "description": "Avcı-toplayıcı toplumların kıtlık içinde değil, bolluk içinde yaşadığını savunan antropolojik klasik.",
+        "pubDate": "1972",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 24,
+        "author": "Marcel Mauss",
+        "title": "Hediye",
+        "category": "Sosyoloji & Antropoloji",
+        "description": "İlkel toplumlarda hediyeleşmenin sosyal bağlar ve prestij kurmadaki rolünü inceleyen klasik.",
+        "pubDate": "1925",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 25,
+        "author": "Mary Douglas",
+        "title": "Saflık ve Tehlike",
+        "category": "Antropoloji & Sosyoloji",
+        "description": "Kirlilik, tabu ve temizlik kavramlarının sosyal düzenle olan ilişkisini inceleyen eser.",
+        "pubDate": "1966",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 26,
+        "author": "Victor Turner",
+        "title": "Ritüel Süreci",
+        "category": "Antropoloji",
+        "description": "Ritüellerin yapısı, liminallik ve topluluk bağı (communitas) kavramlarını açıklayan eser.",
+        "pubDate": "1969",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 27,
+        "author": "Clifford Geertz",
+        "title": "Kültürlerin Yorumlanması",
+        "category": "Antropoloji",
+        "description": "Kültürü bir metin gibi okuyan ve 'yoğun betimleme' yöntemini sunan sembolik antropoloji eseri.",
+        "pubDate": "1973",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 28,
+        "author": "Lila Abu-Lughod",
+        "title": "Peçeli Duygular",
+        "category": "Antropoloji",
+        "description": "Bedevi kadınlarının şiirleri üzerinden duygu yönetimini ve direniş biçimlerini inceleyen etnografik klasik.",
+        "pubDate": "1986",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 29,
+        "author": "Fredrik Barth",
+        "title": "Etnik Gruplar ve Sınırlar",
+        "category": "Antropoloji & Sosyoloji",
+        "description": "Etnik kimliğin biyolojik kökenlerden ziyade sosyal sınırların kurulması ve sürdürülmesiyle oluştuğunu savunan klasik.",
+        "pubDate": "1969",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 30,
+        "author": "Barbara Adam",
+        "title": "Zaman İzleri",
+        "category": "Sosyoloji & Zaman",
+        "description": "Zaman kavramının sosyal teori, endüstriyel düzen ve çevre üzerindeki etkisini inceleyen eser.  benliğinin içeriden nasıl çalıştığını modern sinirbilim ve bilişsel psikoloji ışığında inceler. No Kategori",
+        "pubDate": "1990",
+        "evre": 1,
+        "link": null
+    },
+    {
+        "no": 31,
+        "author": "Matthew Walker",
+        "title": "Niçin Uyuruz?",
+        "category": "Sinirbilim & Uyku",
+        "description": "Rüyaların ve uykunun sinirbilimsel ve bilişsel işlevlerini laboratuvar verileriyle açıklayan yeni nesil başyapıt.",
+        "pubDate": "2017",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 32,
+        "author": "Robert Sapolsky",
+        "title": "Behave (Davranış)",
+        "category": "Sinirbilim & Biyoloji",
+        "description": "İnsan davranışını nörobiyolojiden evrimsel sürece kadar inceleyen modern dönem sentezi.",
+        "pubDate": "2017",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 33,
+        "author": "Lisa Feldman Barrett",
+        "title": "Duygular Nasıl Oluşur?",
+        "category": "Bilişsel Sinirbilim",
+        "description": "Beynin duyguları geçmiş deneyimlerle anlık inşa ettiğini gösteren 'Öngörücü Beyin' devrimi.",
+        "pubDate": "2017",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 34,
+        "author": "Bessel van der Kolk",
+        "title": "Beden Kayıt Tutar",
+        "category": "Psikoloji & Nörobiyoloji",
+        "description": "Travmanın sinir sistemindeki ve bedendeki izlerini modern nörobiyolojik verilerle kanıtlayan eser.",
+        "pubDate": "2014",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 35,
+        "author": "Stanislas Dehaene",
+        "title": "Bilinç ve Beyin",
+        "category": "Sinirbilim & Bilinç",
+        "description": "Benliğin ve bilincin beyindeki fiziksel izini (nöral imzasını) somut verilerle ortaya koyan öncü çalışma.",
+        "pubDate": "2014",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 36,
+        "author": "Daniel Kahneman",
+        "title": "Hızlı ve Yavaş Düşünme",
+        "category": "Bilişsel Psikoloji",
+        "description": "Zihnin iki karar alma mekanizmasını (Sistem 1 ve Sistem 2) açıklayan bilişsel iktisat eseri.",
+        "pubDate": "2011",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 37,
+        "author": "Antonio Damasio",
+        "title": "Descartes'ın Yanılgısı",
+        "category": "Nöroloji & Zihin",
+        "description": "Akıl ile duygunun birbirini nasıl tamamladığını nörolojik vakalarla gösteren klasik.",
+        "pubDate": "1994",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 38,
+        "author": "Steven Pinker",
+        "title": "Dil İçgüdüsü",
+        "category": "Bilişsel Dilbilim",
+        "description": "Dilin insan beyninin evrimsel bir adaptasyonu olduğunu savunan öncü çalışma.",
+        "pubDate": "1994",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 39,
+        "author": "Steven Pinker",
+        "title": "Boş Sayfa (The Blank Slate)",
+        "category": "Bilişsel Bilim & Psikoloji",
+        "description": "İnsan doğasının boş bir levha olmadığını, biyolojik mirasımızın rollerini savunan temel bilişsel bilim savunması.",
+        "pubDate": "2002",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 40,
+        "author": "Michael S. Gazzaniga",
+        "title": "Zihin Bilinci (Who's in Charge?)",
+        "category": "Bilişsel Sinirbilim",
+        "description": "Sol beyindeki 'Yorumcu' mekanizmayı ve özgür irade inşasını açıklayan modern nörobilim kılavuzu.",
+        "pubDate": "2011",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 41,
+        "author": "V.S. Ramachandran",
+        "title": "Beyindeki Hayaletler",
+        "category": "Sinirbilim & Zihin",
+        "description": "Nörolojik vaka analizleri üzerinden beynin benliği ve beden algısını nasıl inşa ettiğini gösteren sinirbilim klasiği.",
+        "pubDate": "1998",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 42,
+        "author": "Joseph LeDoux",
+        "title": "Anxious",
+        "category": "Sinirbilim",
+        "description": "Korku ve kaygının beyindeki nöral yollarını ve duygusal beynin evrimsel gelişimini inceleyen güncel sinirbilim eseri.",
+        "pubDate": "2015",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 43,
+        "author": "Thomas Metzinger",
+        "title": "Tünel Benliği",
+        "category": "Bilinç Felsefesi",
+        "description": "Benlik algımızın beynin ürettiği sanal bir simülasyondan ibaret olduğunu savunan eser.",
+        "pubDate": "2009",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 44,
+        "author": "Daniel Dennett",
+        "title": "Bilincin Açıklaması",
+        "category": "Zihin Felsefesi",
+        "description": "Bilinci gizemli tözlerden arındırıp beynin paralel bilgi işleme süreçleriyle açıklayan materyalist eser.",
+        "pubDate": "1991",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 45,
+        "author": "David Chalmers",
+        "title": "Bilinçli Zihin",
+        "category": "Zihin Felsefesi",
+        "description": "Bilinç deneyiminin fiziksel süreçlerle açıklanamayacağını (zor problem) savunan mülkiyet düalizmi eseri.",
+        "pubDate": "1996",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 46,
+        "author": "Francisco Varela & Eleanor Rosch",
+        "title": "Bedenleşmiş Zihin",
+        "category": "Bilişsel Bilim",
+        "description": "Bilişin sadece beyinde değil, beden ve çevreyle etkileşim halinde gerçekleştiğini savunan enaktif yaklaşım.",
+        "pubDate": "1991",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 47,
+        "author": "Anil Seth",
+        "title": "Sen Olmak: Yeni Bilinç Bilimi (Being You)",
+        "category": "Sinirbilim & Bilinç",
+        "description": "Bilinci beynin dış dünyayı anlamlandırmak için ürettiği 'kontrollü bir halüsinasyon' olarak açıklayan modern sinirbilim eseri.",
+        "pubDate": "2021",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 48,
+        "author": "Douglas Hofstadter",
+        "title": "Gödel Escher Bach",
+        "category": "Bilişsel Bilim",
+        "description": "Matematik, sanat ve müzik arasındaki ortak döngüleri inceleyerek bilincin nasıl ortaya çıktığını ele alan başyapıt.",
+        "pubDate": "1979",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 49,
+        "author": "David Eagleman",
+        "title": "İncognito: Beynin Gizli Hayatı",
+        "category": "Sinirbilim",
+        "description": "Kararlarımızın arkasındaki devasa bilinçdışı mekanizmaları modern nörobilimsel deneylerle ortaya koyan popüler bilim klasiği.",
+        "pubDate": "2011",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 50,
+        "author": "Erving Goffman",
+        "title": "Günlük Yaşamda Benliğin Sunumu",
+        "category": "Sosyoloji",
+        "description": "Sosyal etkileşimi tiyatro sahnesi metaforuyla inceleyen sosyolojik klasik.",
+        "pubDate": "1956",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 51,
+        "author": "Georges Canguilhem",
+        "title": "Normal ve Patolojik",
+        "category": "Tıp Felsefesi & Bilim",
+        "description": "Tıpta normallik ve anormallik kavramlarının tarihsel ve felsefi kökenlerini inceleyen klasik.",
+        "pubDate": "1943",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 52,
+        "author": "Bryan Turner",
+        "title": "Beden ve Toplum",
+        "category": "Sosyoloji",
+        "description": "Bedenin sosyolojik bir inceleme nesnesi olarak ele alınmasını sağlayan öncü eser.",
+        "pubDate": "1984",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 53,
+        "author": "Alison Gopnik",
+        "title": "Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler?",
+        "category": "Bilişsel Gelişim",
+        "description": "Bebeklerin dünyayı Bayesian çıkarımlarla ve sosyal öğrenmeyle keşfeden küçük dâhiler olduğunu kanıtlayan eser.",
+        "pubDate": "2009",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 54,
+        "author": "Gergely Csibra & György Gergely",
+        "title": "Natural Pedagogy",
+        "category": "Bilişsel Gelişim",
+        "description": "Bebeklerin dünyayı öğrenirken kullandığı insan türüne özgü sosyal ve bilişsel aktarım mekanizmalarını inceleyen bilişsel gelişim eseri.",
+        "pubDate": "2009",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 55,
+        "author": "Derek Parfit",
+        "title": "Kişiler Üzerine",
+        "category": "Ahlak Felsefesi",
+        "description": "Kişisel kimliğin sürekliliğini ve gelecek nesillere karşı ahlaki sorumluluklarımızı inceleyen analitik klasik.",
+        "pubDate": "1984",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 56,
+        "author": "Maurice Halbwachs",
+        "title": "Kolektif Bellek",
+        "category": "Sosyoloji & Bellek",
+        "description": "Bireysel anıların toplumsal gruplar tarafından nasıl yapılandırıldığını (kolektif bellek) açıklayan kurucu klasik.",
+        "pubDate": "1950",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 57,
+        "author": "Maurice Merleau-Ponty",
+        "title": "Algının Fenomenolojisi",
+        "category": "Fenomenoloji",
+        "description": "Algının ve dünyayı deneyimlemenin bedensel varlığımız (beden-özne) aracılığıyla gerçekleştiğini savunan şaheser.",
+        "pubDate": "1945",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 58,
+        "author": "Thomas Nagel",
+        "title": "Bunun Hepsi Ne Anlama Geliyor",
+        "category": "Felsefeye Giriş",
+        "description": "Felsefenin temel sorularını (bilinç, ölüm, ahlak) son derece sade ve derin şekilde ele alan kitap.",
+        "pubDate": "1987",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 59,
+        "author": "Erich Fromm",
+        "title": "Özgürlükten Kaçış",
+        "category": "Psikoloji & Sosyoloji",
+        "description": "Modern insanın özgürlüğün getirdiği sorumluluktan kaçarak otoriterliğe sığınmasını inceleyen eser.",
+        "pubDate": "1941",
+        "evre": 2,
+        "link": "#/post/frommun-dusunceleri-uzerine"
+    },
+    {
+        "no": 60,
+        "author": "Erich Fromm",
+        "title": "Sevme Sanatı",
+        "category": "Psikoloji & Felsefe",
+        "description": "Sevmeyi bir yetenek ve emek gerektiren bir sanat olarak ele alan klasik.  gerekir. Klasik felsefe, Stoacılık, Doğu felsefesi, İslam felsefesi ve mitolojik anlatılar bu karakter inşasını sağlar. No Kategori",
+        "pubDate": "1956",
+        "evre": 2,
+        "link": null
+    },
+    {
+        "no": 61,
+        "author": "Marcus Aurelius",
+        "title": "Kendime Düşünceler",
+        "category": "Stoacı Felsefe",
+        "description": "Roma İmparatoru'nun kişisel disiplin, doğaya uyum ve geçicilik üzerine tuttuğu Stoacı günlük.",
+        "pubDate": "180",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 62,
+        "author": "Epiktetos",
+        "title": "El Kitabı",
+        "category": "Stoacı Felsefe",
+        "description": "Kontrol edebileceklerimiz ile edemeyeceklerimiz arasındaki ayrımı temel alan Stoacı rehber.",
+        "pubDate": "125",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 63,
+        "author": "Seneca",
+        "title": "Mutlu Yaşam Üzerine & Yaşamın Kısalığı Üzerine",
+        "category": "Stoacı Felsefe",
+        "description": "Zamanın değeri, ölüm bilinci ve zihinsel dinginlik üzerine yazılmış Stoacı mektupların zirvesi.",
+        "pubDate": "MÖ 49",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 64,
+        "author": "Cicero",
+        "title": "Dostluk ve Yaşlılık Üzerine",
+        "category": "Klasik Felsefe",
+        "description": "Antik Roma'nın en büyük hatibinden, yaşlanmanın ve insan ilişkilerinin ahlaki boyutunu ele alan pratik yaşam felsefesi.",
+        "pubDate": "MÖ 44",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 65,
+        "author": "Plutarkhos",
+        "title": "Ünlü Yunanlıların ve Romalıların Yaşamları",
+        "category": "Tarih & Biyografi",
+        "description": "Antik çağın liderlerinin karakterlerini karşılaştırmalı biyografilerle sunan klasik.",
+        "pubDate": "120",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 66,
+        "author": "Platon",
+        "title": "Devlet",
+        "category": "Klasik Felsefe",
+        "description": "Adalet, ideal devlet düzeni ve mağara alegorisini içeren felsefi başyapıt.",
+        "pubDate": "MÖ 375",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 67,
+        "author": "Aristoteles",
+        "title": "Politika",
+        "category": "Klasik Felsefe",
+        "description": "İnsanın siyasi bir hayvan olduğunu ve devlet biçimlerini inceleyen klasik yapıt.",
+        "pubDate": "MÖ 350",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 68,
+        "author": "Aristoteles",
+        "title": "Nikomakhos'a Etik",
+        "category": "Klasik Felsefe",
+        "description": "Erdem, mutluluk ve altın orta kavramlarını ele alan ahlak felsefesi eseri.",
+        "pubDate": "MÖ 350",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 69,
+        "author": "Platon",
+        "title": "Şölen & Phaidon",
+        "category": "Klasik Felsefe",
+        "description": "Aşkın doğası, ruhun ölümsüzlüğü ve baldıran zehriyle ölüm anını ele alan diyaloglar.",
+        "pubDate": "MÖ 380",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 70,
+        "author": "Laozi",
+        "title": "Tao Te Ching",
+        "category": "Doğu Felsefesi",
+        "description": "Yol (Tao) ve erdem (Te) üzerine yazılmış, çabasız eylem (wu wei) ilkesini sunan klasik.",
+        "pubDate": "MÖ 4. Yüzyıl",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 71,
+        "author": "Zhuangzi",
+        "title": "İç Bölümler",
+        "category": "Doğu Felsefesi",
+        "description": "Kelebek rüyası ve doğallık üzerine Stoacılığa benzeyen Taoist diyaloglar.",
+        "pubDate": "MÖ 4. Yüzyıl",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 72,
+        "author": "Sun Tzu",
+        "title": "Savaş Sanatı",
+        "category": "Doğu Felsefesi & Strateji",
+        "description": "Çatışma yönetimi ve stratejinin sadece askeri değil zihinsel ilkelerini sunan klasik.",
+        "pubDate": "MÖ 5. Yüzyıl",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 73,
+        "author": "Buda",
+        "title": "Dhammapada",
+        "category": "Doğu Felsefesi",
+        "description": "Budist öğretinin ve farkındalığın temel ahlak ve zihin ilkelerini sunan vecizeler.",
+        "pubDate": "MÖ 3. Yüzyıl",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 74,
+        "author": "Nagarjuna",
+        "title": "Orta Yol",
+        "category": "Doğu Felsefesi",
+        "description": "Boşluk (shunyata) ve kavramların bağımlı kökeni üzerine Budist felsefe zirvesi.",
+        "pubDate": "150",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 75,
+        "author": "Confucius",
+        "title": "Konuşmalar",
+        "category": "Doğu Felsefesi",
+        "description": "Aile, devlet ahlakı ve toplumsal uyum üzerine Konfüçyüsçü diyaloglar.",
+        "pubDate": "MÖ 475",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 76,
+        "author": "Vyasa",
+        "title": "Bhagavad Gita",
+        "category": "Doğu Felsefesi",
+        "description": "Arjuna ile Krishna arasında vazife, etik ve adanmışlık üzerine geçen kutsal destansı metin.",
+        "pubDate": "MÖ 2. Yüzyıl",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 77,
+        "author": "Al-Ghazali",
+        "title": "Felsefecilerin Tutarsızlığı",
+        "category": "İslam Felsefesi",
+        "description": "Farabi ve İbn Sina'nın Aristotelesçi görüşlerine yönelik yazılmış eleştirel yapıt.",
+        "pubDate": "1095",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 78,
+        "author": "Ibn Rushd (Averroes)",
+        "title": "Tutarsızlığın Tutarsızlığı",
+        "category": "İslam Felsefesi",
+        "description": "Gazali'nin felsefe eleştirisine rasyonel felsefeyi savunarak verilen felsefi yanıt.",
+        "pubDate": "1180",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 79,
+        "author": "Mircea Eliade",
+        "title": "Kutsal ve Dindışı",
+        "category": "Dinler Tarihi",
+        "description": "Kutsal zaman ve mekan deneyiminin seküler dünyadaki tezahürlerini inceleyen klasik.",
+        "pubDate": "1957",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 80,
+        "author": "Rudolf Otto",
+        "title": "Kutsal",
+        "category": "Din Felsefesi",
+        "description": "Dini deneyimin rasyonel olmayan 'numinous' boyutunu inceleyen klasik.",
+        "pubDate": "1917",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 81,
+        "author": "Joseph Campbell",
+        "title": "Kahramanın Bin Yüzü",
+        "category": "Mitoloji",
+        "description": "Dünya mitlerindeki kahramanın yolculuğu şemasını kuran karşılaştırmalı mitoloji klasiği.",
+        "pubDate": "1949",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 82,
+        "author": "Karen Armstrong",
+        "title": "Tanrı'nın Tarihi",
+        "category": "Dinler Tarihi",
+        "description": "Tek tanrılı dinlerde Tanrı inancının tarihsel gelişimini ve değişimini ele alan popüler klasik.",
+        "pubDate": "1993",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 83,
+        "author": "Roland Robertson",
+        "title": "Din Sosyolojisinin Temelleri",
+        "category": "Sosyoloji & Din",
+        "description": "Dinin küreselleşme süreciyle ve yerel kimliklerle olan ilişkisini ele alan sosyolojik çalışma.",
+        "pubDate": "1970",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 84,
+        "author": "Mircea Eliade",
+        "title": "Dini İnanç ve Çağdaş Uygarlık",
+        "category": "Dinler Tarihi",
+        "description": "Kutsalın çağdaş seküler dünyada kendini farklı formlarda nasıl gizlediğini inceleyen eser.",
+        "pubDate": "1978",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 85,
+        "author": "Arthur Schopenhauer",
+        "title": "İsteme ve Tasarım Olarak Dünya",
+        "category": "Klasik Felsefe",
+        "description": "Kantçı kendinde-şeyi 'İsteme' olarak tanımlayan, Doğu felsefesiyle birleşen pesimist başyapıt.",
+        "pubDate": "1818",
+        "evre": 3,
+        "link": "#/post/arthur-schopenhauer-mutluluk-yalanı"
+    },
+    {
+        "no": 86,
+        "author": "Soren Kierkegaard",
+        "title": "Ya/Ya da",
+        "category": "Varoluşçu Felsefe",
+        "description": "Estetik ve etik yaşam aşamaları arasındaki çatışmayı ele alan varoluşçuluğun ilk eseri.",
+        "pubDate": "1843",
+        "evre": 3,
+        "link": "#/post/soren-kierkegaard-inanc-sicramasi"
+    },
+    {
+        "no": 87,
+        "author": "Peter Singer",
+        "title": "Pratik Etik",
+        "category": "Uygulamalı Etik",
+        "description": "Hayvan hakları, kürtaj ve küresel yoksulluk gibi konuları faydacılık temelinde ele alan etik klasiği.",
+        "pubDate": "1979",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 88,
+        "author": "Viktor Frankl",
+        "title": "İnsanın Anlam Arayışı",
+        "category": "Varoluşçu Psikoloji",
+        "description": "Toplama kamplarındaki deneyimlerden yola çıkarak logoterapi ve anlam arayışını açıklayan başyapıt.",
+        "pubDate": "1946",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 89,
+        "author": "Jonathan Haidt",
+        "title": "Mutluluk Varsayımı: Kadim Bilgelikteki Modern Gerçekler",
+        "category": "Bilişsel Psikoloji",
+        "description": "Stoacılık ve Budizm gibi kadim öğretileri modern sinirbilim ve psikoloji süzgecinden geçiren eser.",
+        "pubDate": "2006",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 90,
+        "author": "Albert Camus",
+        "title": "Sisifos Söyleni",
+        "category": "Varoluşçu Felsefe",
+        "description": "Hayatın absürtlüğünü Sisifos miti üzerinden ele alıp, intiharı reddederek başkaldırıyı savunan eser.  (91-120) totalitarizm ve temel toplumsal sözleşme teorileri bu aşamada ele alınır. No Kategori",
+        "pubDate": "1942",
+        "evre": 3,
+        "link": null
+    },
+    {
+        "no": 91,
+        "author": "Thucydides",
+        "title": "Peloponez Savaşı",
+        "category": "Tarih",
+        "description": "Atina ve Sparta arasındaki savaşı gerçekçi siyasi analizlerle aktaran tarih klasiği.",
+        "pubDate": "MÖ 411",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 92,
+        "author": "İbn Khaldun",
+        "title": "Mukaddime",
+        "category": "Tarih & Sosyoloji",
+        "description": "Asabiyet kavramı ve medeniyetlerin yükseliş-çöküş döngülerini açıklayan sosyolojinin öncüsü.",
+        "pubDate": "1377",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 93,
+        "author": "Thomas Hobbes",
+        "title": "Leviathan",
+        "category": "Siyaset Felsefesi",
+        "description": "Doğal durumdaki kaos karşısında güvenlik ve toplumsal sözleşme ile kurulan devlet gücünü ele alan kurucu başyapıt.",
+        "pubDate": "1651",
+        "evre": 4,
+        "link": "#/post/thomas-hobbes-leviathanin-dogusu"
+    },
+    {
+        "no": 94,
+        "author": "John Locke",
+        "title": "Yönetim Üzerine İkinci İnceleme",
+        "category": "Siyaset Felsefesi",
+        "description": "Mülkiyet haklarını, kuvvetler ayrılığını ve liberal demokrasilerin temelini atan klasik siyaset eseri.",
+        "pubDate": "1689",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 95,
+        "author": "Niccolo Machiavelli",
+        "title": "Prens",
+        "category": "Siyaset Felsefesi",
+        "description": "Devlet yönetiminde pragmatizm, güç ve realist politikayı (Realpolitik) anlatan kurucu yapıt.",
+        "pubDate": "1532",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 96,
+        "author": "Charles-Louis Montesquieu",
+        "title": "Kanunların Ruhu",
+        "category": "Siyaset Felsefesi",
+        "description": "Güçler ayrılığı ilkesini ve iklimlerin yasalar üzerindeki etkisini inceleyen eser.",
+        "pubDate": "1748",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 97,
+        "author": "Alexis de Tocqueville",
+        "title": "Amerika'da Demokrasi",
+        "category": "Siyaset Felsefesi",
+        "description": "Demokrasinin getirdiği eşitlik arzusunu ve çoğunluğun despotizmi tehlikesini inceleyen analiz.",
+        "pubDate": "1835",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 98,
+        "author": "Jean-Jacques Rousseau",
+        "title": "Toplum Sözleşmesi",
+        "category": "Siyaset Felsefesi",
+        "description": "Genel irade ve insanların özgür doğup her yerde zincire vurulması üzerine siyasi klasik.",
+        "pubDate": "1762",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 99,
+        "author": "John Stuart Mill",
+        "title": "Özgürlük Üzerine",
+        "category": "Siyaset Felsefesi",
+        "description": "Bireysel özgürlüğün sınırlarını 'başkasına zarar vermeme' ilkesiyle çizen faydacı klasik.",
+        "pubDate": "1859",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 100,
+        "author": "John Rawls",
+        "title": "Bir Adalet Teorisi",
+        "category": "Siyaset Felsefesi",
+        "description": "Bilinmezlik perdesi (veil of ignorance) kavramı üzerinden adaleti hakkaniyet olarak kurgulayan eser.",
+        "pubDate": "1971",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 101,
+        "author": "Benedict de Spinoza",
+        "title": "Teolojik-Politik İnceleme",
+        "category": "Siyaset Felsefesi",
+        "description": "Demokrasiyi ve düşünce özgürlüğünü savunan, kutsal metinlerin rasyonel analizini yapan devrimci yapıt.",
+        "pubDate": "1670",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 102,
+        "author": "Georg Wilhelm Friedrich Hegel",
+        "title": "Hukuk Felsefesinin Prensipleri",
+        "category": "Siyaset Felsefesi",
+        "description": "Devlet, sivil toplum ve hukukun diyalektik gelişimini ele alan temel felsefi eser.",
+        "pubDate": "1820",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 103,
+        "author": "Max Weber",
+        "title": "Protestan Ahlakı ve Kapitalizmin Ruhu",
+        "category": "Sosyoloji & Ekonomi",
+        "description": "Rasyonel kapitalizmin doğuşunda Protestan iş ahlakının rolünü inceleyen klasik.",
+        "pubDate": "1905",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 104,
+        "author": "Karl Marx & Friedrich Engels",
+        "title": "Komünist Manifesto",
+        "category": "Ekonomi Politik",
+        "description": "Sınıf savaşı tarihini özetleyen ve proletaryanın devrimci rolünü ilan eden tarihi manifesto.",
+        "pubDate": "1848",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 105,
+        "author": "Raymond Aron",
+        "title": "Sosyolojik Düşüncenin Aşamaları",
+        "category": "Sosyoloji",
+        "description": "Montesquieu, Comte, Marx, Tocqueville, Durkheim ve Weber sosyolojisini en berrak şekilde analiz eden sentez eser.",
+        "pubDate": "1967",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 106,
+        "author": "Antonio Gramsci",
+        "title": "Hapishane Defterleri",
+        "category": "Siyaset Felsefesi",
+        "description": "Kültürel hegemonya kuramını ve sivil toplumun iktidar ilişkilerindeki rolünü açıklayan notlar.",
+        "pubDate": "1948",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 107,
+        "author": "Hannah Arendt",
+        "title": "İnsanlık Durumu",
+        "category": "Siyaset Felsefesi",
+        "description": "Emek, iş ve eylem (vita activa) kavramları üzerinden insanlık durumunu ele alan yapıt.",
+        "pubDate": "1958",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 108,
+        "author": "Hannah Arendt",
+        "title": "Totalitarizmin Kaynakları",
+        "category": "Siyaset Felsefesi",
+        "description": "Nazizm ve Stalinizmin kökenlerini, propaganda ve terör mekanizmalarını inceleyen şaheser.",
+        "pubDate": "1951",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 109,
+        "author": "Isaiah Berlin",
+        "title": "Özgürlüğün İki Kavramı",
+        "category": "Siyaset Felsefesi",
+        "description": "Negatif özgürlük (engellenmeme) ve pozitif özgürlük (kendi kaderini tayin) ayrımını yapan makale.",
+        "pubDate": "1958",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 110,
+        "author": "Michael Sandel",
+        "title": "Adalet",
+        "category": "Ahlak Felsefesi",
+        "description": "Faydacılık, özgürlükçülük ve erdem etiği yaklaşımlarını güncel tartışmalarla ele alan adalet rehberi.",
+        "pubDate": "2009",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 111,
+        "author": "James C. Scott",
+        "title": "Devlet Gibi Görmek",
+        "category": "Siyaset Sosyolojisi",
+        "description": "Devletlerin toplumu kontrol etmek için uyguladığı basitleştirme projelerinin neden başarısız olduğunu inceleyen başyapıt.",
+        "pubDate": "1998",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 112,
+        "author": "Anthony Giddens",
+        "title": "Modernliğin Sonuçları",
+        "category": "Sosyoloji",
+        "description": "Modernliğin getirdiği güven, risk ve zaman-mekan ayrışmasını inceleyen sosyolojik analiz.",
+        "pubDate": "1990",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 113,
+        "author": "Shmuel Eisenstadt",
+        "title": "Çoklu Modernlikler",
+        "category": "Sosyoloji",
+        "description": "Modernleşmenin tek bir Batılı modelden ibaret olmadığını, farklı kültürlerde özgün modernleşmeler doğurduğunu savunan eser.",
+        "pubDate": "2000",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 114,
+        "author": "Francis Fukuyama",
+        "title": "Siyasi Düzen ve Siyasi Gerileme",
+        "category": "Siyasi Sosyoloji & Tarih",
+        "description": "Siyasi kurumların modern çağa kadar olan gelişimini, çürümesini ve bürokrasinin doğasını inceleyen ikinci cilt.",
+        "pubDate": "2014",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 115,
+        "author": "Francis Fukuyama",
+        "title": "Siyasi Düzenin Kökenleri",
+        "category": "Siyasi Sosyoloji & Tarih",
+        "description": "Devletlerin ve siyasi kurumların evrimini antropolojik ve tarihsel verilerle baştan sona inceleyen devasa eser.",
+        "pubDate": "2011",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 116,
+        "author": "Charles Tilly",
+        "title": "Zorla ve Sermaye",
+        "category": "Siyasi Sosyoloji",
+        "description": "Avrupa devletlerinin oluşumunda savaş hazırlığının (zor) ve finansal kaynakların (sermaye) etkisini inceleyen eser.",
+        "pubDate": "1990",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 117,
+        "author": "Charles Tilly",
+        "title": "Siyasi Süreçler ve Sosyal Hareketler",
+        "category": "Siyaset Sosyolojisi",
+        "description": "Sosyal hareketlerin tarihsel gelişimini ve siyasi süreçlerle olan etkileşimini ele alan kitap.",
+        "pubDate": "2003",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 118,
+        "author": "John Keane",
+        "title": "Sivil Toplum",
+        "category": "Siyaset Felsefesi",
+        "description": "Sivil toplum kavramının tarihsel gelişimini ve demokratik rejimlerdeki hayati rolünü inceleyen çalışma.",
+        "pubDate": "1998",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 119,
+        "author": "John Pocock",
+        "title": "Machiavellian Moment",
+        "category": "Tarih & Siyaset",
+        "description": "Floransa cumhuriyetçiliğinin modern Atlantik siyasi düşüncesini nasıl şekillendirdiğini inceleyen anıtsal eser.",
+        "pubDate": "1975",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 120,
+        "author": "Chantal Mouffe",
+        "title": "Demokratik Paradoks",
+        "category": "Siyaset Felsefesi",
+        "description": "Liberalizm ile demokrasi arasındaki gerilimi ve agonistik çoğulculuğu ele alan çalışma.  (121-150) empirizm, bilim felsefesi ve dogmalardan arınmayı sağlayan şüpheci bilimsel okuryazarlık buradadır. No Kategori",
+        "pubDate": "2000",
+        "evre": 4,
+        "link": null
+    },
+    {
+        "no": 121,
+        "author": "Rene Descartes",
+        "title": "Meditasyonlar",
+        "category": "Klasik Felsefe",
+        "description": "Metodik şüphecilik ve 'Düşünüyorum, öyleyse varım' (Cogito) önermesini kuran rasyonalist klasik.",
+        "pubDate": "1641",
+        "evre": 5,
+        "link": "#/post/453"
+    },
+    {
+        "no": 122,
+        "author": "Baruch Spinoza",
+        "title": "Etika",
+        "category": "Klasik Felsefe",
+        "description": "Panteist (veya panenteist) bir evren modelini geometrik yöntemle kanıtlamaya çalışan etik/metafizik zirvesi.",
+        "pubDate": "1677",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 123,
+        "author": "Gottfried Wilhelm Leibniz",
+        "title": "Monadoloji",
+        "category": "Klasik Felsefe",
+        "description": "Evrenin bölünemez bilgi/enerji birimleri olan 'monadlardan' oluştuğunu savunan rasyonel metafizik.",
+        "pubDate": "1714",
+        "evre": 5,
+        "link": "#/post/wilhelm-leibniz-newtonun-golgesinde-kalan-deha"
+    },
+    {
+        "no": 124,
+        "author": "Blaise Pascal",
+        "title": "Düşünceler",
+        "category": "Klasik Felsefe",
+        "description": "İnsanın evrendeki hiçliği, inanç üzerine kumarı ve kalbin akla sığmayan mantığı üzerine fragmanlar.",
+        "pubDate": "1670",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 125,
+        "author": "John Locke",
+        "title": "İnsan Anlığı Üzerine Deneme",
+        "category": "Klasik Felsefe",
+        "description": "Zihnin doğuşta boş bir levha (tabula rasa) olduğunu savunan empirizmin kurucu eseri.",
+        "pubDate": "1689",
+        "evre": 5,
+        "link": "#/post/john-locke-tabula-rasa"
+    },
+    {
+        "no": 126,
+        "author": "George Berkeley",
+        "title": "İnsan Bilgisinin İlkeleri",
+        "category": "Klasik Felsefe",
+        "description": "Maddi dünyanın varlığını reddeden, sadece algılanan şeylerin var olduğunu (esse est percipi) savunan idealist klasik.",
+        "pubDate": "1710",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 127,
+        "author": "David Hume",
+        "title": "İnsan Doğası Üzerine Bir İnceleme",
+        "category": "Klasik Felsefe",
+        "description": "Nedensellik ilkesinin bir alışkanlıktan ibaret olduğunu savunan radikal empirist ve kuşkucu başyapıt.",
+        "pubDate": "1739",
+        "evre": 5,
+        "link": "#/post/david-hume-neden-sonuc-bir-masal-mi"
+    },
+    {
+        "no": 128,
+        "author": "Immanuel Kant",
+        "title": "Saf Aklın Eleştirisi",
+        "category": "Epistemoloji & Felsefe",
+        "description": "Rasyonalizm ile empirizmi sentezleyen, aklın bilme sınırlarını çizen epistemolojik dönüm noktası.",
+        "pubDate": "1781",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 129,
+        "author": "Immanuel Kant",
+        "title": "Pratik Aklın Eleştirisi",
+        "category": "Ahlak Felsefesi",
+        "description": "Kategorik imperatif (koşulsuz buyruk) ve ödev ahlakını temellendiren ahlak felsefesi eseri.",
+        "pubDate": "1788",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 130,
+        "author": "Immanuel Kant",
+        "title": "Yargı Gücünün Eleştirisi",
+        "category": "Estetik Felsefesi",
+        "description": "Estetik beğeni yargılarını ve teleolojik doğa tasavvurunu inceleyen felsefi klasik.",
+        "pubDate": "1790",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 131,
+        "author": "Georg Wilhelm Friedrich Hegel",
+        "title": "Tinin Fenomenolojisi",
+        "category": "Klasik Felsefe",
+        "description": "Bilincin mutlak bilgiye (Geist) ulaşma yolculuğunu diyalektik yöntemle ele alan felsefi şaheser.",
+        "pubDate": "1807",
+        "evre": 5,
+        "link": "#/post/friedrich-hegel-aklin-kurnazligi-ve-diyalektik"
+    },
+    {
+        "no": 132,
+        "author": "Georg Wilhelm Friedrich Hegel",
+        "title": "Mantık Bilimi",
+        "category": "Klasik Felsefe",
+        "description": "Varlık, yokluk ve oluş kavramlarının mantıksal kategorilerini diyalektik olarak inceleyen soyut yapıt.",
+        "pubDate": "1812",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 133,
+        "author": "Ludwig Feuerbach",
+        "title": "Hristiyanlığın Özü",
+        "category": "Klasik Felsefe",
+        "description": "Tanrı fikrinin insanın kendi özünü dışsallaştırıp yabancılaşmasından doğduğunu savunan antropolojik materyalizm.",
+        "pubDate": "1841",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 134,
+        "author": "Gottlob Frege",
+        "title": "Aritmetiğin Temelleri",
+        "category": "Felsefe & Mantık",
+        "description": "Aritmetiğin mantığa indirgenebileceğini savunan (lojisizm) analitik felsefenin kurucu eseri.",
+        "pubDate": "1884",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 135,
+        "author": "Karl Popper",
+        "title": "Bilimsel Araştırmanın Mantığı",
+        "category": "Bilim Felsefesi",
+        "description": "Bilimselliğin ölçütünün doğrulanabilirlik değil, yanlışlanabilirlik (falsifiability) olduğunu temellendiren şaheser.",
+        "pubDate": "1934",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 136,
+        "author": "Karl Popper",
+        "title": "Açık Toplum ve Düşmanları",
+        "category": "Siyaset Felsefesi",
+        "description": "Platon, Hegel ve Marx'ın tarihselci teorilerini ve açık toplum karşıtlığını eleştiren yapıt.",
+        "pubDate": "1945",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 137,
+        "author": "Karl Popper",
+        "title": "Tarihselciliğin Sefaleti",
+        "category": "Bilim Felsefesi",
+        "description": "Tarihin önceden belirlenmiş yasaları olduğunu iddia eden determinist ve totaliter teorilerin metodolojik eleştirisi.",
+        "pubDate": "1957",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 138,
+        "author": "Thomas Kuhn",
+        "title": "Bilimsel Devrimlerin Yapısı",
+        "category": "Bilim Felsefesi",
+        "description": "Bilimin doğrusal ilerlemediğini, paradigmalar arası devrimsel sıçramalarla (paradigma kayması) değiştiğini gösteren klasik.",
+        "pubDate": "1962",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 139,
+        "author": "Paul Feyerabend",
+        "title": "Yönteme Karşı",
+        "category": "Bilim Felsefesi",
+        "description": "Bilimsel yöntemin mutlak kuralları olmadığını, 'ne olsa gider' anarşist metodolojisini savunan klasik.",
+        "pubDate": "1975",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 140,
+        "author": "Imre Lakatos",
+        "title": "Bilimsel Araştırma Programlarının Metodolojisi",
+        "category": "Bilim Felsefesi",
+        "description": "Bilim felsefesinde Popper ve Kuhn arasındaki köprüyü kuran, bilimsel ilerlemenin rasyonel yapısını açıklayan eser.",
+        "pubDate": "1978",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 141,
+        "author": "Ian Hacking",
+        "title": "Her Şeyin Sosyal İnşası",
+        "category": "Bilim Felsefesi",
+        "description": "Sosyal inşacılık kavramının sınırlarını ve felsefi anlamını ele alan çalışma.",
+        "pubDate": "1999",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 142,
+        "author": "Carl Sagan",
+        "title": "Karanlık Bir Dünyada Bilimin Mum Işığı",
+        "category": "Bilimsel Okuryazarlık",
+        "description": "Zihni dogmalardan, sahte bilimlerden ve safsatalardan arındıracak, rasyonel şüpheciliğin en temel el kitabıdır.",
+        "pubDate": "1995",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 143,
+        "author": "Nassim Nicholas Taleb",
+        "title": "Siyah Kuğu (The Black Swan)",
+        "category": "Epistemoloji & Şüphecilik",
+        "description": "Nadir ve öngörülemeyen olayların dünya tarihindeki rolünü ve tahmin sınırlarımızı inceleyen epistemoloji klasiği.",
+        "pubDate": "2007",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 144,
+        "author": "Daniel Dennett",
+        "title": "Sezgi Pompaları ve Diğer Düşünme Aletleri",
+        "category": "Zihin Felsefesi & Biliş",
+        "description": "Düşünme becerilerinizi geliştirmek, karmaşık bilimsel ve felsefi problemleri çözmek için tasarlanmış 77 adet bilişsel alet çantası.",
+        "pubDate": "2013",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 145,
+        "author": "Richard Feynman",
+        "title": "Fizik Yasaları Üzerine Konferanslar",
+        "category": "Fizik Felsefesi",
+        "description": "Bilimsel yöntemin doğasını, matematik ile doğa yasalarının ilişkisini ve bilimsel dürüstlüğü anlatan eşsiz konferanslar.",
+        "pubDate": "1965",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 146,
+        "author": "Werner Heisenberg",
+        "title": "Fizik ve Felsefe",
+        "category": "Fizik Felsefesi",
+        "description": "Kuantum mekaniğinin (özellikle belirsizlik ilkesinin) doğurduğu felsefi ve epistemolojik sonuçları ele alan klasik.",
+        "pubDate": "1958",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 147,
+        "author": "Ilya Prigogine",
+        "title": "Kesinliğin Sonu",
+        "category": "Fizik & Kaos",
+        "description": "Termodinamik ve karmaşıklık teorileri üzerinden doğada zamanın geri döndürülemezliğini ve kesinliğin sonunu savunan klasik.",
+        "pubDate": "1996",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 148,
+        "author": "Karl-Otto Apel",
+        "title": "Sosyal Bilimlerin Mantığı",
+        "category": "Sosyal Bilimler",
+        "description": "Felsefesi Hermeneutik ile analitik bilim mantığı arasındaki köprüleri ve iletişim etiğini ele alan yapıt.",
+        "pubDate": "1973",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 149,
+        "author": "Karl Mannheim",
+        "title": "İdeoloji ve Ütopya",
+        "category": "Sosyoloji",
+        "description": "Bilgi sosyolojisinin temelini atan, düşüncelerin sosyal konumlarla ilişkisini inceleyen klasik.",
+        "pubDate": "1929",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 150,
+        "author": "Hannah Arendt",
+        "title": "Gerçek ve Siyaset",
+        "category": "Siyaset Felsefesi",
+        "description": "Siyasi alanda gerçeklerin yalanlarla nasıl ikame edildiğini ve propagandanın doğasını inceleyen makale.  kurumsal yapıları ve tüketim kültürünün sosyo-ekonomik temellerini inceler. No Kategori",
+        "pubDate": "1967",
+        "evre": 5,
+        "link": null
+    },
+    {
+        "no": 151,
+        "author": "Adam Smith",
+        "title": "Ulusların Zenginliği",
+        "category": "Ekonomi Politik",
+        "description": "Serbest piyasa, iş bölümü ve görünmez el kavramlarını sunan iktisadın kurucu eseri.",
+        "pubDate": "1776",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 152,
+        "author": "Daron Acemoğlu & James A. Robinson",
+        "title": "Ulusların Düşüşü",
+        "category": "Ekonomi Politik",
+        "description": "Ulusların zenginlik farklarını coğrafya veya kültürle değil, kapsayıcı ve sömürücü kurumlarla açıklayan eser.",
+        "pubDate": "2012",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 153,
+        "author": "Daron Acemoğlu & James A. Robinson",
+        "title": "Dar Koridor",
+        "category": "Ekonomi Politik",
+        "description": "Devlet ile toplum arasındaki hassas dengeyi ve özgürlüğün ancak bu dar koridorda nasıl yaşayabileceğini inceleyen başyapıt.",
+        "pubDate": "2019",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 154,
+        "author": "Douglass North",
+        "title": "Kurumlar Kurumsal Değişme ve Ekonomik Performans",
+        "category": "Ekonomi Politik",
+        "description": "Kurumların işlem maliyetlerini düşürerek ekonomik performansı nasıl etkilediğini açıklayan eser.",
+        "pubDate": "1990",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 155,
+        "author": "Karl Marx",
+        "title": "Kapital (Cilt 1)",
+        "category": "Ekonomi Politik",
+        "description": "Kapitalist üretim tarzını, artı-değer teorisini ve metaların fetişizmini inceleyen devasa eser.",
+        "pubDate": "1867",
+        "evre": 6,
+        "link": "#/post/karl-marx-koleligin-yeni-adi"
+    },
+    {
+        "no": 156,
+        "author": "Karl Polanyi",
+        "title": "Büyük Dönüşüm",
+        "category": "Ekonomi Politik",
+        "description": "Piyasa ekonomisinin topluma dayatılmasının ve piyasanın 'yerinden çıkarılmasının' getirdiği yıkımı inceleyen klasik.",
+        "pubDate": "1944",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 157,
+        "author": "David Graeber",
+        "title": "Borç: İlk 5000 Yıl",
+        "category": "Tarih & Antropoloji",
+        "description": "Paranın icadından önce borç ve kredi ilişkilerinin toplumsal yapıyı nasıl şekillendirdiğini gösteren eser.",
+        "pubDate": "2011",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 158,
+        "author": "David Graeber",
+        "title": "Tırışkadan İşler (Bullshit Jobs)",
+        "category": "Sosyoloji & Ekonomi",
+        "description": "Modern kurumsal dünyada hiçbir toplumsal faydası olmayan ama varmış gibi yapılan işleri antropolojik açıdan inceleyen sarsıcı analiz.",
+        "pubDate": "2018",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 159,
+        "author": "David Graeber & David Wengrow",
+        "title": "Her Şeyin Şafağı: İnsanlığın Yeni Bir Tarihi",
+        "category": "Tarih & Antropoloji",
+        "description": "İnsanlığın toplumsal ve siyasi organizasyon çeşitliliğini kanıtlayan, determinist mitleri yıkan antropolojik yapıt.",
+        "pubDate": "2021",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 160,
+        "author": "Joseph Schumpeter",
+        "title": "Kapitalizm Sosyalizm ve Demokrasi",
+        "category": "Ekonomi Politik",
+        "description": "Kapitalizmin lokomotifi olan 'yaratıcı yıkım' (creative destruction) kavramını sunan klasik.",
+        "pubDate": "1942",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 161,
+        "author": "John Maynard Keynes",
+        "title": "İstihdam Faiz ve Paranın Genel Teorisi",
+        "category": "Ekonomi Politik",
+        "description": "Ekonomik krizlerde devlet müdahalesini ve toplam talebin önemini savunan kurucu iktisat eseri.",
+        "pubDate": "1936",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 162,
+        "author": "Friedrich Hayek",
+        "title": "Kölelik Yolu",
+        "category": "Ekonomi Politik",
+        "description": "Merkezi planlamanın ve devlet kontrolünün kaçınılmaz olarak totalitarizme yol açacağını savunan liberal klasik.",
+        "pubDate": "1944",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 163,
+        "author": "Mariana Mazzucato",
+        "title": "Girişimci Devlet",
+        "category": "Ekonomi Politik",
+        "description": "En büyük yeniliklerin arkasındaki asıl gücün özel sektör değil devlet yatırımları olduğunu gösteren ezber bozan ekonomi kitabı.",
+        "pubDate": "2013",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 164,
+        "author": "Daron Acemoğlu & Simon Johnson",
+        "title": "İktidar ve Teknoloji (Power and Progress)",
+        "category": "Ekonomi Politik",
+        "description": "Teknolojinin bin yıllık tarihini inceleyerek, teknolojik yönü belirleyen iktidar ilişkilerinin refahın paylaşımını nasıl şekillendirdiğini gösteren eser.",
+        "pubDate": "2023",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 165,
+        "author": "Nassim Nicholas Taleb",
+        "title": "Antikırılgan (Antifragile)",
+        "category": "Ekonomi & Sistemler",
+        "description": "Kaostan, belirsizlikten ve stresten güçlenerek çıkmanın Stoacı ve sistemik yollarını anlatan modern bir yaşam stratejisi rehberi.",
+        "pubDate": "2012",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 166,
+        "author": "Thorstein Veblen",
+        "title": "Aylak Sınıf Teorisi",
+        "category": "Sosyoloji & Ekonomi",
+        "description": "Gösterişçi tüketim (conspicuous consumption) ve statü arayışının ekonomik davranışlardaki rolünü inceleyen klasik.",
+        "pubDate": "1899",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 167,
+        "author": "Georg Simmel",
+        "title": "Para'nın Felsefesi",
+        "category": "Sosyoloji & Felsefe",
+        "description": "Paranın bireysel özgürlük, yabancılaşma ve modern kültür üzerindeki etkilerini inceleyen sosyolojik klasik.",
+        "pubDate": "1900",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 168,
+        "author": "Thomas Piketty",
+        "title": "21. Yüzyılda Sermaye",
+        "category": "Ekonomi Politik",
+        "description": "Sermayenin getirisinin büyüme hızından yüksek olması nedeniyle zenginlik eşitsizliğinin tarihsel artışını analiz eden eser.",
+        "pubDate": "2013",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 169,
+        "author": "David Harvey",
+        "title": "Postmodernliğin Durumu",
+        "category": "Coğrafya & Sosyoloji",
+        "description": "Postmodern kültürün, kapitalizmin esnek birikim rejimine ve zaman-mekan sıkışmasına verdiği yanıt olduğunu savunan eser.",
+        "pubDate": "1989",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 170,
+        "author": "Saskia Sassen",
+        "title": "Küresel Şehir",
+        "category": "Sosyoloji & Coğrafya",
+        "description": "New York, Londra ve Tokyo gibi şehirlerin küresel finansal sistemin komuta merkezleri haline gelişini inceleyen eser.",
+        "pubDate": "1991",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 171,
+        "author": "Manuel Castells",
+        "title": "Ağ Toplumunun Yükselişi",
+        "category": "Sosyoloji",
+        "description": "Enformasyon teknolojilerinin toplumsal yapıyı dikey hiyerarşilerden yatay ağlara nasıl dönüştürdüğünü inceleyen eser.",
+        "pubDate": "1996",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 172,
+        "author": "Mark Fisher",
+        "title": "Kapitalist Gerçekçilik",
+        "category": "Kültür Analizi",
+        "description": "Kapitalizme alternatif bir sistem hayal etmenin imkansızlaştırıldığı modern kültürel durumu inceleyen kitap.",
+        "pubDate": "2009",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 173,
+        "author": "Eric Hobsbawm",
+        "title": "Devrim Çağı",
+        "category": "Tarih",
+        "description": "Fransız İhtilali ve Sanayi Devrimi'nin (Çifte Devrim) modern dünyayı nasıl doğurduğunu inceleyen klasik.",
+        "pubDate": "1962",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 174,
+        "author": "Alex Callinicos",
+        "title": "Emperyalizm",
+        "category": "Ekonomi Politik",
+        "description": "Küreselleşme ve modern emperyalizm teorilerini marksist açıdan ele alan analiz.",
+        "pubDate": "2009",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 175,
+        "author": "Pierre Bourdieu",
+        "title": "Pratik Akıl",
+        "category": "Sosyoloji",
+        "description": "Habitus, alan ve sermaye kavramlarını eylem pratikleri üzerinden açıklayan sosyolojik eser.",
+        "pubDate": "1994",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 176,
+        "author": "Pierre Bourdieu",
+        "title": "Ayrım: Beğeni Sosyolojisi Üzerine",
+        "category": "Sosyoloji",
+        "description": "Kültürel beğenilerin sınıfsal ayrımları yeniden üretme işlevini ampirik verilerle inceleyen şaheser.",
+        "pubDate": "1979",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 177,
+        "author": "Mike Featherstone",
+        "title": "Tüketim Kültürü",
+        "category": "Sosyoloji",
+        "description": "Postmodernlik, gösterge tüketimi ve gündelik yaşamın estetikleştirilmesini inceleyen eser.",
+        "pubDate": "1990",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 178,
+        "author": "Naomi Klein",
+        "title": "Şok Doktrini",
+        "category": "Ekonomi Politik",
+        "description": "Serbest piyasa reformlarının felaketler ve şok anlarında toplumlara nasıl dayatıldığını anlatan analiz.",
+        "pubDate": "2007",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 179,
+        "author": "Ulrich Beck",
+        "title": "Risk Toplumu",
+        "category": "Sosyoloji",
+        "description": "Modernleşmenin ürettiği ekolojik ve teknolojik risklerin toplumsal yapıyı nasıl dönüştürdüğünü inceleyen eser.",
+        "pubDate": "1986",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 180,
+        "author": "Malcolm Spector & John Kitsuse",
+        "title": "Sosyal Sorunların İnşası",
+        "category": "Sosyoloji",
+        "description": "Sosyal sorunların nesnel durumlar değil, iddia sahiplerinin faaliyetleriyle inşa edilen süreçler olduğunu savunan eser.  (181-210) (göstergelerin dili), medya manipülasyonu, matbaanın ve televizyonun algımız üzerindeki etkileri bu evrededir. No Kategori",
+        "pubDate": "1977",
+        "evre": 6,
+        "link": null
+    },
+    {
+        "no": 181,
+        "author": "Ludwig Wittgenstein",
+        "title": "Tractatus Logico-Philosophicus",
+        "category": "Analitik Felsefe",
+        "description": "Dilin sınırlarının dünyanın sınırları olduğunu savunan, mantıksal atomculuğu kuran felsefi yapıt.",
+        "pubDate": "1921",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 182,
+        "author": "Ludwig Wittgenstein",
+        "title": "Felsefi Soruşturmalar",
+        "category": "Analitik Felsefe",
+        "description": "Dil oyunları ve anlamın kullanımda olduğu fikriyle kendi ilk felsefesini yapıçözen şaheser.",
+        "pubDate": "1953",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 183,
+        "author": "Noam Chomsky",
+        "title": "Sözdizimsel Yapılar",
+        "category": "Dilbilim",
+        "description": "Evrensel dilbilgisini ve dilin doğuştan gelen zihinsel bir modül olduğunu savunan kurucu yapıt.",
+        "pubDate": "1957",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 184,
+        "author": "Noam Chomsky",
+        "title": "Dil ve Zihin",
+        "category": "Bilişsel Dilbilim",
+        "description": "Dil yetisinin insan zihninin doğuştan gelen biyolojik yapısıyla olan ilişkisini bilişsel bilimle açıklayan çalışma.",
+        "pubDate": "1968",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 185,
+        "author": "George Lakoff & Mark Johnson",
+        "title": "Metaforlarla Yaşamak",
+        "category": "Bilişsel Dilbilim",
+        "description": "Düşünce sistemimizin ve gündelik dilimizin kavramsal metaforlarla yapılandırıldığını savunan eser.",
+        "pubDate": "1980",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 186,
+        "author": "George Lakoff",
+        "title": "Kadınlar, Ateş ve Tehlikeli Şeyler",
+        "category": "Bilişsel Dilbilim",
+        "description": "İnsan zihninin dünyayı nasıl kategorilere ayırdığını ve dilin bu kategorileri nasıl yansıttığını inceleyen bilişsel semantik başyapıtı.",
+        "pubDate": "1987",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 187,
+        "author": "Guy Deutscher",
+        "title": "Dilin Aynasından",
+        "category": "Bilişsel Dilbilim",
+        "description": "Dilin dünyayı algılama şeklimizi ve beynimizi nasıl etkilediğini ampirik deneylerle kanıtlayan modern klasik.",
+        "pubDate": "2010",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 188,
+        "author": "Paul Chilton",
+        "title": "Söylem ve Siyasi Analiz",
+        "category": "Dilbilim & Siyaset",
+        "description": "Siyasi söylemin dilbilimsel araçlarla ve zihinsel haritalarla nasıl manipüle edildiğini inceleyen eser.",
+        "pubDate": "2004",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 189,
+        "author": "Roland Barthes",
+        "title": "Mitolojiler",
+        "category": "Göstergebilim",
+        "description": "Popüler kültür ögelerinin burjuva mitlerini nasıl yeniden ürettiğini gösteren göstergebilimsel klasik.",
+        "pubDate": "1957",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 190,
+        "author": "Claude Levi-Strauss",
+        "title": "Akrabalığın Temel Yapıları",
+        "category": "Antropoloji",
+        "description": "Akrabalık ilişkilerini ensest tabusu ve ittifak teorisi üzerinden yapısalcı yöntemle ele alan yapıt.",
+        "pubDate": "1949",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 191,
+        "author": "Umberto Eco",
+        "title": "Yorum ve Aşırı Yorum",
+        "category": "Göstergebilim",
+        "description": "Metinlerin okuyucu tarafından sınır tanımadan aşırı yorumlanmasının sınırlarını çizen tartışma.",
+        "pubDate": "1992",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 192,
+        "author": "Umberto Eco",
+        "title": "Açık Yapıt",
+        "category": "Sanat & Göstergebilim",
+        "description": "Sanat eserlerinin alımlayıcı tarafından tamamlanan açık yapılar olduğunu savunan, göstergebilim ve estetik klasiği.",
+        "pubDate": "1962",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 193,
+        "author": "Marshall McLuhan",
+        "title": "Gutenberg Galaksisi",
+        "category": "Medya Teorisi",
+        "description": "Matbaanın icadının insan algısını ve toplumsal örgütlenmeyi nasıl radikal biçimde dönüştürdüğünü gösteren eser.",
+        "pubDate": "1962",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 194,
+        "author": "Marshall McLuhan & Quentin Fiore",
+        "title": "Araç Mesajdır",
+        "category": "Medya Teorisi",
+        "description": "İletişim teknolojilerinin kendisinin, aktardıkları içerikten çok daha dönüştürücü olduğunu savunan görsel tasarım eseri.",
+        "pubDate": "1967",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 195,
+        "author": "Neil Postman",
+        "title": "Televizyon Öldürüyor",
+        "category": "Medya Teorisi",
+        "description": "Görsel medyanın kamusal tartışmaları nasıl eğlenceye dönüştürdüğünü ve bilgiyi değersizleştirdiğini inceleyen klasik.",
+        "pubDate": "1985",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 196,
+        "author": "Neil Postman",
+        "title": "Çocukluğun Yok Oluşu",
+        "category": "Medya Teorisi",
+        "description": "Televizyon ve görsel medyanın yetişkinlik ile çocukluk arasındaki sınırları nasıl erittiğini inceleyen medya ekolojisi klasiği.",
+        "pubDate": "1982",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 197,
+        "author": "Noam Chomsky & Edward Herman",
+        "title": "Medya Denetimi",
+        "category": "Siyaset & Medya",
+        "description": "Kitle iletişim araçlarının rıza imalatı (manufacturing consent) yoluyla halkı nasıl yönlendirdiğini inceleyen klasik.",
+        "pubDate": "1988",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 198,
+        "author": "Michael Schudson",
+        "title": "Haberin Keşfi",
+        "category": "Gazetecilik Tarihi",
+        "description": "Amerikan basınında nesnellik kavramının tarihsel gelişimini ve ticari boyutunu inceleyen çalışma.",
+        "pubDate": "1978",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 199,
+        "author": "Sherry Turkle",
+        "title": "Ekranda Yalnız",
+        "category": "Sosyoloji & İletişim",
+        "description": "Sosyal mecraların insanları birbirine yakınlaştırırken gerçekte nasıl yalnızlaştırdığını inceleyen eser.",
+        "pubDate": "2011",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 200,
+        "author": "Oğuz Atay",
+        "title": "Tutunamayanlar",
+        "category": "Edebiyat / Klasik",
+        "description": "Türk aydınının yabancılaşmasını ve iç çatışmalarını modernist bir dille anlatan Türk edebiyatı zirvesi.",
+        "pubDate": "1972",
+        "evre": 7,
+        "link": "#/post/tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya"
+    },
+    {
+        "no": 201,
+        "author": "Jean-François Lyotard",
+        "title": "Postmodern Durum",
+        "category": "Felsefe",
+        "description": "Büyük anlatıların inandırıcılığını yitirdiği postmodern bilgi çağını tanımlayan eser.",
+        "pubDate": "1979",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 202,
+        "author": "Jacques Derrida",
+        "title": "Yazı ve Fark",
+        "category": "Post-Yapısalcı Felsefe",
+        "description": "Yapıçözüm yöntemini kuran, dilin ve metinlerin altındaki çelişkileri gösteren şaheser.",
+        "pubDate": "1967",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 203,
+        "author": "Jacques Derrida",
+        "title": "Gramatoloji",
+        "category": "Post-Yapısalcı Felsefe",
+        "description": "Logos-merkezciliği eleştiren ve yazının konuşmadan önce geldiğini savunan zor ama kurucu felsefi eser.",
+        "pubDate": "1967",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 204,
+        "author": "Jean Baudrillard",
+        "title": "Simülakrlar ve Simülasyon",
+        "category": "Postmodern Felsefe",
+        "description": "Gerçeğin yerini alan simülasyon evrenini ve hipergerçeklik kavramını açıklayan klasik yapıt.",
+        "pubDate": "1981",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 205,
+        "author": "Arthur Danto",
+        "title": "Sıradan Nesnelerin Dönüşümü",
+        "category": "Sanat Felsefesi",
+        "description": "Bir nesneyi sanat eseri yapan şeyin fiziksel özellikleri değil, arkasındaki sanat teorisi olduğunu savunan eser.",
+        "pubDate": "1981",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 206,
+        "author": "Paul de Man",
+        "title": "Okuma Alegorileri",
+        "category": "Edebi Teori",
+        "description": "Dilin retorik yapısının kesin anlamlar üretmeyi nasıl imkansızlaştırdığını inceleyen yapıçözümcü klasik.",
+        "pubDate": "1979",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 207,
+        "author": "Terry Eagleton",
+        "title": "Estetiğin İdeolojisi",
+        "category": "Estetik & Politika",
+        "description": "Estetik kavramının burjuva hegemonyası ve toplumsal kontrol mekanizmalarıyla olan bağını inceleyen klasik.",
+        "pubDate": "1990",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 208,
+        "author": "Jacques Ranciere",
+        "title": "Siyasi Olmayan Bir Estetik",
+        "category": "Siyaset & Estetik",
+        "description": "Sanatın ve siyasetin algılanabilir olanın bölüşümü üzerindeki ortak etkisini inceleyen eser.",
+        "pubDate": "2000",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 209,
+        "author": "Henri Lefebvre",
+        "title": "Gündelik Hayatın Eleştirisi",
+        "category": "Sosyoloji & Felsefe",
+        "description": "Gündelik yaşamın kapitalizm tarafından nasıl sömürgeleştirildiğini ve yabancılaştırıldığını inceleyen eser.",
+        "pubDate": "1947",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 210,
+        "author": "Edward Said",
+        "title": "Kültür ve Emperyalizm",
+        "category": "Sosyoloji & Kültür",
+        "description": "Sömürgeci gücün sadece askeri değil, edebi eserler ve kültürel söylemler aracılığıyla nasıl inşa edildiğini gösteren post-kolonyal analiz.  sömürgecilik sonrası (post-kolonyal) kimlik inşasının algımızı nasıl şekillendirdiğini gösterir. No Kategori",
+        "pubDate": "1993",
+        "evre": 7,
+        "link": null
+    },
+    {
+        "no": 211,
+        "author": "Susan Sontag",
+        "title": "Fotoğraf Üzerine",
+        "category": "Kültür & Estetik",
+        "description": "Fotoğraf çekme eyleminin iktidar, gözetim ve gerçekliği estetikleştirme boyutlarını inceleyen denemeler.",
+        "pubDate": "1977",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 212,
+        "author": "Roland Barthes",
+        "title": "Camera Lucida",
+        "category": "Kültür & Göstergebilim",
+        "description": "Fotoğrafın ölüm, zaman ve kişisel bellek üzerindeki etkisini 'studium' ve 'punctum' kavramlarıyla ele alan eser.",
+        "pubDate": "1980",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 213,
+        "author": "John Berger",
+        "title": "Görme Biçimleri",
+        "category": "Sanat & Estetik",
+        "description": "Klasik resimden modern reklamlara kadar görsellerin arkasındaki ideolojik ve sınıfsal bakışı açığa çıkaran klasik.",
+        "pubDate": "1972",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 214,
+        "author": "Walter Benjamin",
+        "title": "Teknik Yeniden Üretim Çağında Sanat Eseri",
+        "category": "Kültür & Estetik",
+        "description": "Fotoğraf ve sinemanın sanat eserinin biricikliğini (aura) yok ederek sanatı nasıl siyasallaştırdığını inceleyen klasik.",
+        "pubDate": "1935",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 215,
+        "author": "Carol Duncan",
+        "title": "Müze Kültürü",
+        "category": "Sanat Sosyolojisi",
+        "description": "Müzelerin vatandaşlık bilincini ve devlet ideolojisini aşılayan seküler ritüel alanları olduğunu gösteren eser.",
+        "pubDate": "1995",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 216,
+        "author": "Simone de Beauvoir",
+        "title": "İkinci Cins",
+        "category": "Feminist Felsefe",
+        "description": "'Kadın doğulmaz, kadın olunur' teziyle toplumsal cinsiyet rollerinin inşasını inceleyen feminist klasik.",
+        "pubDate": "1949",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 217,
+        "author": "Simone de Beauvoir",
+        "title": "Yaşlılık",
+        "category": "Feminist Felsefe",
+        "description": "Yaşlanmanın biyolojik gerçekliğini ve toplumun yaşlı bireyleri nasıl görünmez kılıp ötekileştirdiğini inceleyen anıtsal çalışma.",
+        "pubDate": "1970",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 218,
+        "author": "Silvia Federici",
+        "title": "Caliban ve Cadı",
+        "category": "Tarih & Feminizm",
+        "description": "Kapitalizmin doğuşunda kadın bedeninin evcilleştirilmesini ve cadı avlarının sosyo-ekonomik arka planını inceleyen şaheser.",
+        "pubDate": "2004",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 219,
+        "author": "Kate Millett",
+        "title": "Cinsel Politika",
+        "category": "Feminist Kuram",
+        "description": "Edebiyat ve toplumdaki ataerkil güç ilişkilerini deşifre eden radikal feminist klasik.",
+        "pubDate": "1969",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 220,
+        "author": "Betty Friedan",
+        "title": "Kadınlığın Gizemi",
+        "category": "Feminist Kuram",
+        "description": "1950'ler Amerika'sında ev kadınlarının hissettiği adı konamayan sıkıntıyı inceleyerek ikinci dalga feminizmi başlatan eser.",
+        "pubDate": "1963",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 221,
+        "author": "Judith Butler",
+        "title": "Toplumsal Cinsiyet Belası",
+        "category": "Feminist Felsefe",
+        "description": "Toplumsal cinsiyetin edimsel (performative) bir inşa olduğunu savunan kitap.",
+        "pubDate": "1990",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 222,
+        "author": "bell hooks",
+        "title": "Feminizm Herkes İçindir",
+        "category": "Feminist Kuram",
+        "description": "Feminizmi sınıf ve ırk kesişimselliğinde son derece sade bir dille açıklayan rehber.",
+        "pubDate": "2000",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 223,
+        "author": "Nel Noddings",
+        "title": "Bakım Etiği",
+        "category": "Ahlak Felsefesi",
+        "description": "Geleneksel rasyonel adalet etiği yerine ilişkisel ve duyarlı bakım etiğini savunan feminist klasik.",
+        "pubDate": "1984",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 224,
+        "author": "Edward Said",
+        "title": "Oryantalizm",
+        "category": "Sosyoloji & Kültür",
+        "description": "Doğu'nun Batı tarafından emperyalist amaçlarla nasıl kurgulandığını ve temsil edildiğini gösteren eser.",
+        "pubDate": "1978",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 225,
+        "author": "Frantz Fanon",
+        "title": "Yeryüzünün Lanetlileri",
+        "category": "Siyaset Sosyolojisi",
+        "description": "Sömürgeciliğin psikolojik yıkımını ve sömürge karşıtı şiddetin dinamiklerini inceleyen klasik.",
+        "pubDate": "1961",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 226,
+        "author": "Frantz Fanon",
+        "title": "Siyah Deri, Beyaz Maskeler",
+        "category": "Siyaset Sosyolojisi",
+        "description": "Sömürgeleştirilmiş insanın sömürgecinin dilini ve kültürünü taklit ederek yaşadığı psikolojik yabancılaşmayı inceleyen psikanalitik klasik.",
+        "pubDate": "1952",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 227,
+        "author": "Albert Memmi",
+        "title": "Sömürgecinin Portresi",
+        "category": "Sosyoloji",
+        "description": "Sömürgeci ile sömürgeleştirilen arasındaki karşılıklı psikolojik ve sosyal bağımlılığı inceleyen eser.",
+        "pubDate": "1957",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 228,
+        "author": "Walter Mignolo",
+        "title": "Yerel Tarihler Global Tasarımlar",
+        "category": "Post-kolonyal Teori",
+        "description": "Sömürgeciliğin epistemolojik boyutunu ve yerel bilgilerin küresel tasarımlar karşısındaki direnişini inceleyen eser.",
+        "pubDate": "2000",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 229,
+        "author": "Benedict Anderson",
+        "title": "Hayali Cemaatler",
+        "category": "Sosyoloji & Tarih",
+        "description": "Ulusların, kapitalizm ve matbaa aracılığıyla zihinde inşa edilmiş 'hayali cemaatler' olduğunu savunan başyapıt.",
+        "pubDate": "1983",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 230,
+        "author": "Robert Miles",
+        "title": "Irkçılık",
+        "category": "Sosyoloji",
+        "description": "Irk kavramının ve ırkçılığın kapitalist üretim ilişkileri içinde nasıl yapılandırıldığını inceleyen eser.",
+        "pubDate": "1989",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 231,
+        "author": "Homi K. Bhabha",
+        "title": "Kültürün Konumu",
+        "category": "Post-kolonyal Teori",
+        "description": "Melezlik ve üçüncü alan kavramlarıyla sömürgeci kültürün taklit yoluyla nasıl sarsıldığını gösteren klasik.",
+        "pubDate": "1994",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 232,
+        "author": "Gayatri Spivak",
+        "title": "Alt Sesler Konuşabilir mi?",
+        "category": "Post-kolonyal Teori",
+        "description": "Sömürge altındaki ezilen sınıfların (subaltern) kendi seslerini duyurmasının imkansızlığını ele alan makale.",
+        "pubDate": "1988",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 233,
+        "author": "Paul Gilroy",
+        "title": "Siyah Atlantik",
+        "category": "Kültürel Çalışmalar",
+        "description": "Siyah kültürünün Atlantik ötesi hibrit yapısını inceleyen klasik.",
+        "pubDate": "1993",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 234,
+        "author": "Howard Zinn",
+        "title": "Amerika'nın Gizli Tarihi",
+        "category": "Tarih",
+        "description": "Resmi tarih yerine işçilerin, XML ve yerlilerin gözünden Amerika tarihini anlatan başyapıt.",
+        "pubDate": "1980",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 235,
+        "author": "Timothy Snyder",
+        "title": "Kan Toprakları",
+        "category": "Tarih",
+        "description": "Hitler ve Stalin rejimleri altında Doğu Avrupa'da katledilen insanların tarihini inceleyen eser.",
+        "pubDate": "2010",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 236,
+        "author": "Joanna Bourke",
+        "title": "Savaşın Bedensel Tarihi",
+        "category": "Tarih & Sosyoloji",
+        "description": "Savaşın insan bedeni üzerindeki psikolojik ve fiziksel etkisini inceleyen eser.",
+        "pubDate": "1999",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 237,
+        "author": "Jeffrey Weeks",
+        "title": "Cinselliğin Tarihi",
+        "category": "Sosyoloji & Cinsellik",
+        "description": "Cinselliğin tarihsel ve sosyal ilişkilerle inşa edilen bir olgu olduğunu inceleyen eser.",
+        "pubDate": "1986",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 238,
+        "author": "Michel Foucault",
+        "title": "Hapishanenin Doğuşu",
+        "category": "Sosyoloji & İktidar",
+        "description": "Modern iktidarın bedenleri terbiye etmek, gözetlemek (panoptikon) ve disipline etmek için kullandığı kurumsal mekanizmaları deşifre eden şaheser.",
+        "pubDate": "1975",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 239,
+        "author": "Gaston Bachelard",
+        "title": "Mekanın Poetikası",
+        "category": "Estetik & Felsefe",
+        "description": "Evin, odaların, çekmecelerin ve köşelerin insan muhayyilesi, belleği ve estetik algısı üzerindeki şiirsel yansımaları.",
+        "pubDate": "1972",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 240,
+        "author": "Oliver Sacks",
+        "title": "Sesleri Görmek (Seeing Voices)",
+        "category": "Nöroloji & Zihin",
+        "description": "İşaret dilinin nörolojik altyapısını ve zihnin görsel dil işleme kapasitesini inceleyen eşsiz bir nöroloji çalışması.  Entelektüel birikimle bugünün dünyasını ve geleceği sorgulama evresidir. Akışkan modernite, performans toplumu, tükenmişlik felsefesi, yapay zeka, siborglaşma ve biyopolitika gibi modern ve fütüristik krizler ele alınır. No Kategori",
+        "pubDate": "1989",
+        "evre": 8,
+        "link": null
+    },
+    {
+        "no": 241,
+        "author": "Zygmunt Bauman",
+        "title": "Akışkan Modernite",
+        "category": "Sosyoloji",
+        "description": "Modern toplumun katı kurumlarının eriyerek belirsiz ve akışkan hale gelişini inceleyen yapıt.",
+        "pubDate": "2000",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 242,
+        "author": "Byung-Chul Han",
+        "title": "Şeffaflık Toplumu",
+        "category": "Modern Felsefe",
+        "description": "Her şeyin görünür ve ölçülebilir kılınmasının özgürlüğü nasıl yok ettiğini ve dijital kontrolü nasıl kolaylaştırdığını inceleyen güncel felsefe.",
+        "pubDate": "2012",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 243,
+        "author": "Byung-Chul Han",
+        "title": "Yorgunluk Toplumu",
+        "category": "Modern Felsefe",
+        "description": "Performans odaklı modern toplumda bireyin kendi kendinin sömürücüsü haline gelmesini ve tükenmişliği inceleyen eser.",
+        "pubDate": "2010",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 244,
+        "author": "Yuval Noah Harari",
+        "title": "Sapiens: Hayvanlardan Tanrılara Bir",
+        "category": "İnsanlık Tarihi",
+        "description": "Popüler Tarih İnsan türünün bilişsel kurgular yaratarak dünyayı nasıl domine ettiğini anlatan popüler tarih.",
+        "pubDate": "2011",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 245,
+        "author": "Michel Foucault",
+        "title": "Söylemin Düzeni",
+        "category": "Post-Yapısalcı Felsefe",
+        "description": "Bilginin iktidar tarafından nasıl üretildiğini ve sınırlandırıldığını gösteren açılış dersi.",
+        "pubDate": "1971",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 246,
+        "author": "Thomas Lemke",
+        "title": "Biyopolitika",
+        "category": "Siyaset Felsefesi",
+        "description": "Foucault'nun biyopolitika kavramını ve modern yönetim tekniklerini özetleyen güncel analiz.",
+        "pubDate": "2007",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 247,
+        "author": "Giorgio Agamben",
+        "title": "Kutsal İnsan",
+        "category": "Siyaset Felsefesi",
+        "description": "Çıplak hayat ile siyasi hayat arasındaki ayrım ve istisna hali üzerine kuram.",
+        "pubDate": "1995",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 248,
+        "author": "Melanie Mitchell",
+        "title": "Yapay Zeka: Düşünen İnsanlar İçin Bir",
+        "category": "Kılavuz",
+        "description": "Yapay Zeka & Biliş Yapay zekanın gerçek sınırlarını, abartıları ve insan zihniyle ilişkisini rasyonel teknik süzgeçten geçiren kılavuz.",
+        "pubDate": "2019",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 249,
+        "author": "Bernard Stiegler",
+        "title": "Teknik ve Zaman",
+        "category": "Teknoloji Felsefesi",
+        "description": "İnsanın teknik araçlar yoluyla kendini nasıl var ettiğini ve zaman deneyimini inceleyen felsefi yapıt.",
+        "pubDate": "1994",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 250,
+        "author": "Ivan Illich",
+        "title": "Araçsallık Üzerine",
+        "category": "Sosyoloji",
+        "description": "Teknolojinin insanı köleleştirmeden, toplumsal birlikteliği artıracak araçlar olarak nasıl tasarlanacağını ele alan klasik.",
+        "pubDate": "1973",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 251,
+        "author": "Donna Haraway",
+        "title": "Siborg Manifestosu",
+        "category": "Feminist Felsefe & Bilim",
+        "description": "İnsan, makine ve hayvan arasındaki sınırların erimesiyle ortaya çıkan siborg kavramı üzerinden ikilikleri aşmayı öneren manifesto.",
+        "pubDate": "1985",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 252,
+        "author": "Bruno Latour",
+        "title": "Biz Hiç Modern Olmadık",
+        "category": "Bilim Felsefesi",
+        "description": "Doğa ile toplum arasındaki ayrımın modernlik tarafından yapay olarak kurulduğunu savunan aktör-ağ teorisi eseri.",
+        "pubDate": "1991",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 253,
+        "author": "Nick Bostrom",
+        "title": "Süperzeka",
+        "category": "Yapay Zeka & Felsefe",
+        "description": "Yapay zekanın insan zekasını aşması durumunda karşılaşılacak varoluşsal riskleri ve kontrol problemini inceleyen temel analiz.",
+        "pubDate": "2014",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 254,
+        "author": "Max Tegmark",
+        "title": "Yaşam 3.0: Yapay Zeka Çağında İnsan Olmak",
+        "category": "Teknoloji & Fizik",
+        "description": "Yapay zekanın geleceğini ve kozmik ölçekte zekanın yayılımını fiziksel temelde inceleyen bilimsel eser.",
+        "pubDate": "2017",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 255,
+        "author": "Michael Pollan",
+        "title": "Bilincinizi Nasıl Değiştirirsiniz",
+        "category": "Sinirbilim & Bilinç",
+        "description": "Bilincin doğasını, beynin varsayılan mod ağını (DMN) ve nöroplastisiteyi psychedelics çalışmalarıyla inceleyen bilimsel eser.",
+        "pubDate": "2018",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 256,
+        "author": "Shoshana Zuboff",
+        "title": "Gözetim Kapitalizmi Çağı",
+        "category": "Sosyoloji & Teknoloji",
+        "description": "Teknoloji devlerinin insan davranışlarını veri olarak avlayıp tahmin pazarlarında satarak kurduğu yeni dijital tahakküm düzenini anlatan modern başyapıt.",
+        "pubDate": "2018",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 257,
+        "author": "Ray Kurzweil",
+        "title": "İnsanlık 2.0 (The Singularity Is Near)",
+        "category": "Yapay Zeka & Fütürizm",
+        "description": "Teknolojinin üssel büyümesini ve insan zihninin makinelerle birleşeceği tekillik vizyonunu anlatan transhümanist klasik.",
+        "pubDate": "2005",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 258,
+        "author": "Melanie Mitchell",
+        "title": "Complexity: A Guided Tour",
+        "category": "Karmaşıklık Bilimi",
+        "description": "Doğadaki, beyindeki ve yapay zekadaki karmaşık adaptif sistemleri ve kaos teorisini anlaşılır kılan rehber.",
+        "pubDate": "2009",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 259,
+        "author": "Kate Crawford",
+        "title": "Yapay Zekanın Atlası",
+        "category": "Yapay Zeka & Siyaset",
+        "description": "Yapay zekanın sadece soyut algoritmalar olmadığını; arkasındaki madencilik, sömürülen iş gücü ve ekolojik yıkım gibi fiziksel maliyetleri gösteren kitap.",
+        "pubDate": "2021",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 260,
+        "author": "Martin Heidegger",
+        "title": "Varlık ve Zaman",
+        "category": "Fenomenoloji",
+        "description": "Varlığın anlamını Dasein analizi üzerinden sorgulayan 20. yüzyılın en etkili felsefi yapıtı.",
+        "pubDate": "1927",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 261,
+        "author": "Martin Heidegger",
+        "title": "Teknik Üzerine Soru",
+        "category": "Teknoloji Felsefesi",
+        "description": "Teknolojinin doğayı ve insanı sadece kullanılabilir bir kaynak haline getirme tehlikesini inceleyen eser.",
+        "pubDate": "1954",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 262,
+        "author": "Jean-Paul Sartre",
+        "title": "Varlık ve Hiçlik",
+        "category": "Varoluşçuluk",
+        "description": "İnsanın özgürlüğe mahkum olduğunu ve kendi özünü kendi eylemleriyle kurması gerektiğini savunan ontolojik başyapıt.",
+        "pubDate": "1943",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 263,
+        "author": "Jean-Paul Sartre",
+        "title": "Varoluşçuluk Bir Hümanizmdir",
+        "category": "Varoluşçuluk",
+        "description": "Varoluşçuluğun ahlaksızlık veya pasiflik suçlamalarına yanıt veren, hümanist boyutunu özetleyen konferans metni.",
+        "pubDate": "1946",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 264,
+        "author": "Boris Groys",
+        "title": "Hiçlik Üzerine İnkılap",
+        "category": "Sanat & Felsefe",
+        "description": "Modern sanat, medya ve arşiv kültürünün felsefi arka planını inceleyen makaleler.",
+        "pubDate": "2008",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 265,
+        "author": "Emil Cioran",
+        "title": "Çürümenin Kitabı",
+        "category": "Varoluşçu Felsefe",
+        "description": "Varoluşun anlamsızlığı, melankoli ve insan soyuna yönelik radikal pesimist fragmanlar.",
+        "pubDate": "1949",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 266,
+        "author": "Friedrich Nietzsche",
+        "title": "Böyle Buyurdu Zerdüşt",
+        "category": "Klasik Felsefe",
+        "description": "Üstinsan, bengi dönüş ve güç istenci kavramlarını şiirsel dille sunan felsefi yapıt.",
+        "pubDate": "1883",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 267,
+        "author": "Friedrich Nietzsche",
+        "title": "İyinin ve Kötünün Ötesinde",
+        "category": "Klasik Felsefe",
+        "description": "Geleneksel ahlakı, hakikat iddialarını ve modern dogmaları sarsıcı şekilde eleştiren eser.",
+        "pubDate": "1886",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 268,
+        "author": "Friedrich Nietzsche",
+        "title": "Ahlakın Soykütüğü",
+        "category": "Klasik Felsefe",
+        "description": "Efendi-köle ahlakı ve hınç kavramlarıyla ahlakın kökenini inceleyen şaheser.",
+        "pubDate": "1887",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 269,
+        "author": "Theodor Adorno & Max Horkheimer",
+        "title": "Aydınlanmanın Diyalektiği",
+        "category": "Kritik Teori",
+        "description": "Aydınlanma aklının nasıl kendi karşıtına dönüştüğünü inceleyen eser.",
+        "pubDate": "1944",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 270,
+        "author": "Herbert Marcuse",
+        "title": "Tek Boyutlu İnsan",
+        "category": "Kritik Teori",
+        "description": "Gelişmiş endüstriyel toplumun tüketim kültürüyle muhalefeti nasıl yok ettiğini ele alan yapıt.  determinizm ile iradeyi sentezleyerek bireyin kendi kişisel manifestosunu üretmesiyle son bulur. No Kategori",
+        "pubDate": "1964",
+        "evre": 9,
+        "link": null
+    },
+    {
+        "no": 271,
+        "author": "William James",
+        "title": "Dinî Deneyimin Çeşitleri",
+        "category": "Psikoloji & Din",
+        "description": "Dini inancı teolojik dogmalar yerine, bireylerin yaşadığı psikolojik deneyimler üzerinden ele alan öncü klasik.",
+        "pubDate": "1902",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 272,
+        "author": "İbn Arabi",
+        "title": "Fusûsu'l-Hikem",
+        "category": "Mistisizm & Tasavvuf",
+        "description": "Vahdet-i vücud felsefesini peygamberlerin sembolik hikayeleri üzerinden ele alan İslam mistisizmi zirvesi.",
+        "pubDate": "1229",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 273,
+        "author": "Aldous Huxley",
+        "title": "Ebedi Felsefe",
+        "category": "Mistisizm & Felsefe",
+        "description": "Dünya dinlerinin ve mistik ekollerinin altındaki ortak manevi hakikati derleyen klasik.",
+        "pubDate": "1945",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 274,
+        "author": "Aristoteles",
+        "title": "Metafizik",
+        "category": "Klasik Felsefe",
+        "description": "İlk felsefe, töz, madde-form ilişkisi ve hareket ettirilmeyen hareket ettirici üzerine kurucu felsefi eser.",
+        "pubDate": "MÖ 330",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 275,
+        "author": "Sean Carroll",
+        "title": "Büyük Resim",
+        "category": "Popüler Fizik & Kozmoloji",
+        "description": "Fizik, kimya, biyoloji ve anlam arayışını 'şiirsel natüralizm' ekseninde birleştiren modern bilim sentezi.",
+        "pubDate": "2016",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 276,
+        "author": "Jonathan Haidt",
+        "title": "Doğruluk Aklı",
+        "category": "Bilişsel Psikoloji & Etik",
+        "description": "İnsan ahlakının rasyonel akıl yürütmeden ziyade evrimsel sezgilerle şekillendiğini kanıtlayan şaheser.",
+        "pubDate": "2012",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 277,
+        "author": "Oliver Sacks",
+        "title": "Karısını Şapka Sanan Adam",
+        "category": "Nöroloji & Zihin",
+        "description": "Nörolojik rahatsızlıkları olan bireylerin zihin dünyasını klinik doğrulukla ve derin bir hümanizmle ele alan eser.",
+        "pubDate": "1985",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 278,
+        "author": "Anthony Giddens",
+        "title": "Düşünüm Sosyolojisi",
+        "category": "Sosyoloji",
+        "description": "Modern toplumda bireylerin kendi kimliklerini ve eylemlerini sürekli gözlemleyip yeniden yapılandırmasını ele alan eser.",
+        "pubDate": "1994",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 279,
+        "author": "Jürgen Habermas",
+        "title": "Kamusal Alanın Yapısal Dönüşümü",
+        "category": "Sosyoloji",
+        "description": "Burjuva kamusal alanının ortaya çıkışını ve kitle iletişim araçlarıyla çöküşünü inceleyen eser.",
+        "pubDate": "1962",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 280,
+        "author": "Jürgen Habermas",
+        "title": "İletişimsel Eylem Teorisi",
+        "category": "Sosyoloji",
+        "description": "Sistem ile yaşam dünyası arasındaki ayrımı ve uzlaşmacı iletişimsel aklı temellendiren şaheser.",
+        "pubDate": "1981",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 281,
+        "author": "Jürgen Habermas",
+        "title": "İletişimsel Eylem Teorisi II",
+        "category": "Sosyoloji",
+        "description": "Habermas'ın iletişimsel akıl ve sistem-yaşam dünyası teorisinin ikinci cildi.",
+        "pubDate": "1981",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 282,
+        "author": "Peter Drucker",
+        "title": "Sanayi Sonrası Toplum",
+        "category": "Yönetim & Toplum",
+        "description": "Bilgi işçilerinin ve bilgiye dayalı yeni toplum düzeninin ortaya çıkışını inceleyen eser.",
+        "pubDate": "1959",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 283,
+        "author": "Alvin Gouldner",
+        "title": "Gelecek Sosyoloji",
+        "category": "Sosyoloji",
+        "description": "Akademik sosyolojinin krizini ve sosyal teorinin geleceğini eleştirel olarak ele alan klasik.",
+        "pubDate": "1970",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 284,
+        "author": "Paulo Freire",
+        "title": "Ezilenlerin Pedagojisi",
+        "category": "Eğitim Felsefesi",
+        "description": "Eğitimi bir özgürleşme pratiği olarak kurgulayan, diyalog temelli eleştirel pedagoji klasiği.",
+        "pubDate": "1968",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 285,
+        "author": "Ivan Illich",
+        "title": "Okulsuz Toplum",
+        "category": "Eğitim Felsefesi",
+        "description": "Okulların kurumsallaşarak eğitimi tekelleştirdiğini savunan, alternatif gayriresmi öğrenme ağlarını öneren klasik.",
+        "pubDate": "1971",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 286,
+        "author": "John Dewey",
+        "title": "Deneyim ve Eğitim",
+        "category": "Eğitim Felsefesi",
+        "description": "Ezbere dayalı geleneksel eğitim yerine, yaşantıya ve deneyime dayalı ilerici eğitim modelini sunan yapıt.",
+        "pubDate": "1938",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 287,
+        "author": "Steven Pinker",
+        "title": "Aydınlanma Şimdi",
+        "category": "Popüler Bilim & Sosyoloji",
+        "description": "Akıl, bilim ve hümanizmin insanlığı nasıl ileriye taşıdığını devasa istatistiksel verilerle savunan iyimser eser.",
+        "pubDate": "2018",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 288,
+        "author": "Alan Lightman",
+        "title": "Einstein'ın Düşleri",
+        "category": "Edebiyat / Bilim",
+        "description": "Einstein'ın görelilik teorisini geliştirirken zamanın farklı aktığı alternatif dünyaları hayal ettiği edebi başyapıt.",
+        "pubDate": "1992",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 289,
+        "author": "Rene Girard",
+        "title": "Şiddet ve Kutsal",
+        "category": "Sosyoloji & Antropoloji",
+        "description": "Mimetik arzu ve günah keçisi mekanizmasının toplumsal şiddeti yatıştırmadaki rolü.",
+        "pubDate": "1972",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 290,
+        "author": "Guy Debord",
+        "title": "Gösteri Toplumu",
+        "category": "Felsefe & Sosyoloji",
+        "description": "Modern yaşamın doğrudan yaşanmak yerine metaların ve görsellerin bir gösterisine dönüştüğünü savunan eser.",
+        "pubDate": "1967",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 291,
+        "author": "Gregory Bateson",
+        "title": "Steps to an Ecology of Mind",
+        "category": "Zihin & Ekoloji",
+        "description": "Sibernetik, psikiyatri, biyoloji ve antropolojiyi birleştiren, zihnin ve doğanın ekolojik birliğini savunan disiplinler arası başyapıt.",
+        "pubDate": "1972",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 292,
+        "author": "Ken Wilber",
+        "title": "Her Şeyin Kısa Bir Tarihi",
+        "category": "Bütünsel Felsefe",
+        "description": "Madde, beden, zihin ve ruhu tek bir entegral modelde birleştirmeye çalışan bütüncül felsefe sentezi.",
+        "pubDate": "1996",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 293,
+        "author": "Fritjof Capra",
+        "title": "Yaşamın Ağı",
+        "category": "Sistemler Teorisi",
+        "description": "Biyolojiyi ve ekolojiyi mekanik ve indirgemeci bilim yerine, sistem teorisi ve karmaşıklık bilimleri perspektifinden ele alan sentez eser.",
+        "pubDate": "1996",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 294,
+        "author": "Aldous Huxley",
+        "title": "Algı Kapıları",
+        "category": "Mistisizm & Nöroloji",
+        "description": "Sinirbilim, mistik deneyim ve algı kapılarının kimyasal yollarla açılmasının insan bilinci üzerindeki etkilerini inceleyen felsefi deneme.",
+        "pubDate": "1954",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 295,
+        "author": "E.F. Schumacher",
+        "title": "Küçük Güzeldir",
+        "category": "Ekonomi & Etik",
+        "description": "Ekonomiyi Stoacı ve ahlaki değerlerle birleştiren, insan odaklı ve sürdürülebilir bir dünya düzeni öneren klasik.",
+        "pubDate": "1973",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 296,
+        "author": "Sentez I",
+        "title": "Biyolojik Determinizm vs. Varoluşçu İrade",
+        "category": "Sentez Çalışması",
+        "description": "Biyolojik sınırlarımız ile varoluşçu özgürlüğümüz arasındaki gerilimi ve sentezi ele alan felsefi/bilimsel analiz.",
+        "pubDate": "2026",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 297,
+        "author": "Sentez II",
+        "title": "İktidarın Söylemi vs. Kendi Sesin",
+        "category": "Sentez Çalışması",
+        "description": "Toplumsal iktidarın ve söylemin birey üzerindeki tahakkümü ile bireyin kendi özgün sesini bulma mücadelesi.",
+        "pubDate": "2026",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 298,
+        "author": "Sentez III",
+        "title": "Kapitalist Gösteri vs. Stoik Minimalizm",
+        "category": "Sentez Çalışması",
+        "description": "Tüketim kültürü ve gösteri toplumu kıskacından Stoacı felsefe ve minimalizmle çıkış yollarını tartışan sentez.",
+        "pubDate": "2026",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 299,
+        "author": "Sentez IV",
+        "title": "Teknolojik Kapan vs. Doğal Zihin",
+        "category": "Sentez Çalışması",
+        "description": "Ekranlar ve algoritmalarla çevrili teknolojik kafesten kurtulup zihnin doğal odaklanma kapasitesini koruma rehberi.",
+        "pubDate": "2026",
+        "evre": 10,
+        "link": null
+    },
+    {
+        "no": 300,
+        "author": "Final Üretimi",
+        "title": "Zihin Gezgini Manifestosu",
+        "category": "Kişisel Bildiri",
+        "description": "250 eserlik bu zihinsel yolculuğun sonunda, edindiğiniz bilgi birikimiyle yazacağınız kendi zihinsel ve hayatsal manifestonuz.",
+        "pubDate": "2026",
+        "evre": 10,
+        "link": null
+    }
+]

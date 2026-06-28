@@ -5,12 +5,14 @@ document.addEventListener("DOMContentLoaded", () => {
   const views = {
     home: document.getElementById("view-home"),
     post: document.getElementById("view-post"),
-    about: document.getElementById("view-about")
+    about: document.getElementById("view-about"),
+    roadmap: document.getElementById("view-roadmap")
   };
   
   const navLinks = {
     home: document.getElementById("nav-home"),
     about: document.getElementById("nav-about"),
+    roadmap: document.getElementById("nav-roadmap"),
     random: document.getElementById("nav-random")
   };
   
@@ -484,6 +486,156 @@ document.addEventListener("DOMContentLoaded", () => {
     updateProgress();
   }
 
+  // Setup Interactive Reading Roadmap
+  const EVRE_TITLES = {
+    1: "Evre I: Temeller (Evren, Doğa ve Canlılık)",
+    2: "Evre II: Zihin ve Benlik (İnsan Nörobiyolojisi ve Biliş)",
+    3: "Evre III: Karakter ve İyi Yaşam (Klasik Felsefe ve Stoacılık)",
+    4: "Evre IV: Toplum ve Sözleşme (Devletin Kökenleri ve Siyaset Felsefesi)",
+    5: "Evre V: Hakikat ve Yöntem (Epistemoloji ve Bilim Felsefesi)",
+    6: "Evre VI: Ekonomi Politik ve Sınıf (Maddi Dünyanın İşleyişi)",
+    7: "Evre VII: Dil ve Anlamlandırma (Dilbilim, Semiyotik ve Medya Analizi)",
+    8: "Evre VIII: Görsel Kültür, Estetik ve Kimlik (Temsil Politikaları)",
+    9: "Evre IX: Geç Modernite ve Yapay Zeka (Teknolojik Gelecek)",
+    10: "Evre X: Sentezler ve Bütünsel Felsefe (Zihin Gezgini Manifestosu)"
+  };
+
+  async function setupRoadmap() {
+    const phasesContainer = document.getElementById("roadmap-phases");
+    if (!phasesContainer) return;
+    
+    try {
+      const response = await fetch(`/data/books.json?t=${new Date().getTime()}`);
+      if (!response.ok) throw new Error("Books file not found");
+      const books = await response.json();
+      
+      let readBooks = [];
+      try {
+        readBooks = JSON.parse(localStorage.getItem("zg_read_books") || "[]");
+      } catch (e) {
+        readBooks = [];
+      }
+      
+      // Calculate progress and update stats
+      function updateRoadmapProgress() {
+        const total = 300;
+        const count = readBooks.length;
+        const percent = Math.round((count / total) * 100);
+        
+        const percentText = document.getElementById("roadmap-progress-percentage");
+        const countText = document.getElementById("roadmap-progress-count");
+        const fillBar = document.getElementById("roadmap-progress-fill");
+        
+        if (percentText) percentText.textContent = `${percent}%`;
+        if (countText) countText.textContent = count;
+        if (fillBar) fillBar.style.width = `${percent}%`;
+      }
+      
+      phasesContainer.innerHTML = "";
+      
+      // Group books by evre
+      const evreBooks = {};
+      for (let i = 1; i <= 10; i++) {
+        evreBooks[i] = [];
+      }
+      books.forEach(b => {
+        if (evreBooks[b.evre]) evreBooks[b.evre].push(b);
+      });
+      
+      for (let e = 1; e <= 10; e++) {
+        const phaseBooks = evreBooks[e];
+        const phaseDiv = document.createElement("div");
+        phaseDiv.className = "roadmap-phase-card";
+        
+        // Count read books in this phase
+        const phaseReadCount = phaseBooks.filter(b => readBooks.includes(b.no)).length;
+        
+        phaseDiv.innerHTML = `
+          <div class="phase-header" data-evre="${e}">
+            <div class="phase-title-group">
+              <span class="phase-toggle-icon">▸</span>
+              <h3 class="phase-title">${EVRE_TITLES[e]}</h3>
+            </div>
+            <span class="phase-badge">${phaseReadCount} / 30 Okundu</span>
+          </div>
+          <div class="phase-content" id="phase-content-${e}">
+            <div class="phase-books-list">
+              <!-- Books populated here -->
+            </div>
+          </div>
+        `;
+        
+        const booksList = phaseDiv.querySelector(".phase-books-list");
+        
+        phaseBooks.forEach(b => {
+          const bookItem = document.createElement("div");
+          bookItem.className = `book-item-row ${readBooks.includes(b.no) ? 'is-read' : ''}`;
+          
+          const titleHtml = b.link 
+            ? `<a href="${b.link}" class="book-title-link">${b.title}</a>` 
+            : `<span class="book-title-text">${b.title}</span>`;
+            
+          bookItem.innerHTML = `
+            <div class="book-check-col">
+              <input type="checkbox" id="book-check-${b.no}" ${readBooks.includes(b.no) ? 'checked' : ''} data-no="${b.no}">
+            </div>
+            <div class="book-info-col">
+              <div class="book-meta-row">
+                <span class="book-no">#${b.no}</span>
+                <span class="book-category-tag">${b.category}</span>
+                ${b.pubDate ? `<span class="book-pub-date">(${b.pubDate})</span>` : ''}
+              </div>
+              <div class="book-title-row">
+                <strong class="book-author">${b.author}</strong> — ${titleHtml}
+              </div>
+              <p class="book-desc">${b.description}</p>
+            </div>
+          `;
+          
+          // Checkbox event listener
+          const checkbox = bookItem.querySelector('input[type="checkbox"]');
+          checkbox.addEventListener("change", (event) => {
+            const num = b.no;
+            if (event.target.checked) {
+              if (!readBooks.includes(num)) readBooks.push(num);
+              bookItem.classList.add("is-read");
+            } else {
+              readBooks = readBooks.filter(n => n !== num);
+              bookItem.classList.remove("is-read");
+            }
+            localStorage.setItem("zg_read_books", JSON.stringify(readBooks));
+            updateRoadmapProgress();
+            
+            // Update phase badge count
+            const currentPhaseReadCount = phaseBooks.filter(pb => readBooks.includes(pb.no)).length;
+            phaseDiv.querySelector(".phase-badge").textContent = `${currentPhaseReadCount} / 30 Okundu`;
+          });
+          
+          booksList.appendChild(bookItem);
+        });
+        
+        // Accordion click handler
+        const header = phaseDiv.querySelector(".phase-header");
+        header.addEventListener("click", () => {
+          const isOpen = phaseDiv.classList.contains("is-open");
+          if (isOpen) {
+            phaseDiv.classList.remove("is-open");
+          } else {
+            phaseDiv.classList.add("is-open");
+          }
+        });
+        
+        phasesContainer.appendChild(phaseDiv);
+      }
+      
+      updateRoadmapProgress();
+      
+    } catch (error) {
+      console.error("Error setting up roadmap:", error);
+      phasesContainer.innerHTML = `<div class="loading-placeholder">Yol haritası yüklenemedi.</div>`;
+    }
+  }
+
   // Routing
   function handleRoute() {
 
@@ -542,6 +694,15 @@ document.addEventListener("DOMContentLoaded", () => {
         "Zihin Odası Üzerine: Gürültüden kaçış, kişisel felsefi notlar ve yavaş yaşama denemeleri.",
         "https://zihingezgini.net/images/thinking_man_sketch.png"
       );
+    } else if (hash === "#/roadmap") {
+      views.roadmap.classList.add("active");
+      if (navLinks.roadmap) navLinks.roadmap.classList.add("active");
+      updateMetaTags(
+        "Zihin Gezgini | Entelektüel Yol Haritası",
+        "Zihin Gezgini: 10 Evre ve 300 seçkin eserden oluşan interaktif entelektüel okuma rehberi.",
+        "https://zihingezgini.net/images/thinking_man_sketch.png"
+      );
+      setupRoadmap();
     } else if (hash.startsWith("#/post/")) {
       const slug = hash.replace("#/post/", "");
       views.post.classList.add("active");

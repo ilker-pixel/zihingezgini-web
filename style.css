@@ -1283,3 +1283,233 @@ ol.interactive-checklist li {
   opacity: 0.8;
   color: var(--color-text-main);
 }
+
+/* Roadmap Container & Header Styling */
+.roadmap-container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.roadmap-title {
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+  color: var(--color-text-main);
+  margin-bottom: 8px;
+}
+
+.roadmap-subtitle {
+  font-size: 1.1rem;
+  color: var(--color-text-muted);
+  margin-bottom: 24px;
+  line-height: 1.6;
+}
+
+/* Progress Bar and Stats Styling */
+.roadmap-stats {
+  background-color: var(--color-card-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.stats-text {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--color-text-main);
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.stats-progress-bar {
+  height: 10px;
+  background-color: var(--color-bg);
+  border-radius: 6px;
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+}
+
+.stats-progress-fill {
+  height: 100%;
+  background-color: var(--color-accent);
+  border-radius: 6px;
+  transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Accordion Phase Card Styling */
+.roadmap-phase-card {
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background-color: var(--color-card-bg);
+  margin-bottom: 16px;
+  overflow: hidden;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.roadmap-phase-card:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.phase-header {
+  padding: 20px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+  background-color: var(--color-card-bg);
+  transition: background-color 0.2s ease;
+}
+
+.phase-header:hover {
+  background-color: var(--color-bg);
+}
+
+.phase-title-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.phase-toggle-icon {
+  font-size: 1.1rem;
+  color: var(--color-text-muted);
+  transition: transform 0.3s ease;
+}
+
+.phase-title {
+  font-family: var(--font-serif);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--color-text-main);
+  margin: 0;
+}
+
+.phase-badge {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--color-accent);
+  background-color: var(--color-accent-light);
+  padding: 4px 12px;
+  border-radius: 20px;
+  border: 1px solid var(--color-border);
+}
+
+/* Collapsible Content Area */
+.phase-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  border-top: 0 solid var(--color-border);
+}
+
+.roadmap-phase-card.is-open .phase-content {
+  max-height: 2500px; /* High value to allow smooth accordion expand */
+  border-top: 1px solid var(--color-border);
+}
+
+.roadmap-phase-card.is-open .phase-toggle-icon {
+  transform: rotate(90deg);
+  color: var(--color-accent);
+}
+
+/* Book Rows inside Accordion */
+.phase-books-list {
+  padding: 10px 0;
+}
+
+.book-item-row {
+  display: flex;
+  padding: 18px 24px;
+  border-bottom: 1px solid var(--color-border);
+  transition: background-color 0.2s ease, opacity 0.2s ease;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.book-item-row:last-child {
+  border-bottom: none;
+}
+
+.book-item-row.is-read {
+  opacity: 0.75;
+  background-color: var(--color-accent-light);
+}
+
+.book-check-col {
+  padding-top: 3px;
+}
+
+.book-check-col input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--color-accent);
+  cursor: pointer;
+}
+
+.book-info-col {
+  flex: 1;
+}
+
+.book-meta-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 6px;
+  font-size: 0.8rem;
+}
+
+.book-no {
+  font-weight: 600;
+  color: var(--color-text-muted);
+}
+
+.book-category-tag {
+  background-color: var(--color-bg);
+  color: var(--color-text-muted);
+  padding: 2px 8px;
+  border-radius: 4px;
+  border: 1px solid var(--color-border);
+  font-size: 0.75rem;
+}
+
+.book-pub-date {
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+.book-title-row {
+  font-size: 1.05rem;
+  color: var(--color-text-main);
+  margin-bottom: 6px;
+}
+
+.book-author {
+  font-weight: 600;
+}
+
+.book-title-text {
+  font-style: italic;
+}
+
+.book-title-link {
+  font-style: italic;
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease;
+}
+
+.book-title-link:hover {
+  color: var(--color-text-main);
+}
+
+.book-desc {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  line-height: 1.5;
+  margin: 0;
+}
