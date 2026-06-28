@@ -117,6 +117,10 @@ body {
   border-color: var(--color-accent);
 }
 
+body.dark-theme .header-logo {
+  filter: invert(0.9) sepia(0.1) saturate(0.8) brightness(0.9) contrast(1.1);
+}
+
 .site-tagline {
   font-family: var(--font-serif);
   font-style: italic;
