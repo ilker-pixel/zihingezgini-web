@@ -21,6 +21,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const filterBtns = document.querySelectorAll(".filter-btn");
   
   let allPosts = [];
+  let quotes = [];
+  let currentIndex = 0;
   let currentCategory = "all";
   let searchQuery = "";
   let currentFontSize = 1.125; // default size in rem
@@ -810,8 +812,23 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // Initialize Quote Widget
-  setupQuoteWidget();
+  // Load Quotes Pool Dynamically
+  async function loadQuotes() {
+    try {
+      const response = await fetch(`/data/quotes.json?t=${new Date().getTime()}`);
+      if (!response.ok) throw new Error("Quotes file not found");
+      quotes = await response.json();
+      if (quotes.length > 0) {
+        currentIndex = Math.floor(Math.random() * quotes.length);
+        setupQuoteWidget();
+      }
+    } catch (error) {
+      console.error("Error loading quotes:", error);
+    }
+  }
+
+  // Initialize App Elements
+  loadQuotes();
 
   // Listen to hash change
   window.addEventListener("hashchange", handleRoute);
