@@ -655,6 +655,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const readerDate = document.getElementById("reader-meta-date");
     const readerIntro = document.getElementById("reader-intro-text");
     const readerChapters = document.getElementById("reader-chapters-list");
+    const readerCoverImg = document.getElementById("reader-featured-img");
     
     if (!readerTitle || !readerChapters) return;
     
@@ -669,6 +670,10 @@ document.addEventListener("DOMContentLoaded", () => {
       readerAuthor.textContent = data.author;
       readerNo.textContent = `#${data.bookNo}`;
       readerSubtitle.textContent = data.subtitle || "";
+      
+      if (readerCoverImg) {
+        readerCoverImg.src = data.coverImage || "/images/hawking_space_time_sketch.png";
+      }
       
       if (readerOriginal) readerOriginal.textContent = data.meta.originalTitle || "";
       if (readerCompiler) readerCompiler.textContent = data.meta.compiler || "";

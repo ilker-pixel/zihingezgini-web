@@ -9,6 +9,7 @@ def create_drunkard_summary():
         "title": "Sarhoş Yürüyüşü",
         "author": "Leonard Mlodinow",
         "subtitle": "Rastlantısallık Hayatımızı Nasıl Yönetir? (Detaylı Kitap Özeti)",
+        "coverImage": "/images/drunkards_walk_cover_sketch.png",
         "meta": {
             "originalTitle": "The Drunkard's Walk: How Randomness Rules Our Lives",
             "compiler": "Yapay Zeka Asistanı",
@@ -20,8 +21,6 @@ def create_drunkard_summary():
             {
                 "id": "intro_text",
                 "title": "Giriş: Hayatı Rastlantısallıkla Okumak",
-                "image": "/images/drunkards_walk_cover_sketch.png",
-                "imageCaption": "Sarhoş Yürüyüşü",
                 "takeaway": "İnsanlar her zaman düzen ve niyet görme arzusu içindedir. Olasılık bilimi bize, çoğu zaman en büyük niyetlerin arkasında bile sadece kör bir şansın durduğunu fısıldar.",
                 "paragraphs": [
                     "Rastlantısallığın Gizli Gücü: Hayatımızdaki başarıların ve başarısızlıkların arkasında yatan şans faktörünü genellikle küçümseriz. Zihnimiz her şeye bir neden bulmaya çalışır. Oysa hayat, sarhoş bir adamın sokaktaki öngörülemeyen adımları gibi yön bulur."
