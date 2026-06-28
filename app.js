@@ -579,9 +579,17 @@ document.addEventListener("DOMContentLoaded", () => {
         // Update quick nav counts
         const quickNavContainer = document.getElementById("roadmap-quick-nav");
         if (quickNavContainer) {
-          const romanNumerals = {
-            1: "I", 2: "II", 3: "III", 4: "IV", 5: "V",
-            6: "VI", 7: "VII", 8: "VIII", 9: "IX", 10: "X"
+          const EVRE_SHORT_TITLES = {
+            1: "Fizik",
+            2: "Biyoloji",
+            3: "Psikoloji",
+            4: "Sosyoloji",
+            5: "Tarih",
+            6: "Felsefe",
+            7: "Dilbilim",
+            8: "Sanat",
+            9: "Teknoloji",
+            10: "Sentez"
           };
           
           let navHtml = "";
@@ -593,7 +601,7 @@ document.addEventListener("DOMContentLoaded", () => {
             
             navHtml += `
               <button class="quick-nav-pill ${isCompleted ? 'is-completed' : ''} ${hasStarted ? 'has-started' : ''}" data-evre="${e}" title="${EVRE_TITLES[e] || ''}">
-                <span class="quick-nav-num">${romanNumerals[e]}</span>
+                <span class="quick-nav-label">${EVRE_SHORT_TITLES[e]}</span>
                 <span class="quick-nav-count">${phaseReadCount}/30</span>
               </button>
             `;

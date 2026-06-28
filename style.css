@@ -2040,11 +2040,11 @@ ol.interactive-checklist li {
   background-color: var(--color-bg-card);
   border: 1px solid var(--color-border);
   color: var(--color-text-main);
-  padding: 6px 10px;
+  padding: 6px 12px;
   border-radius: 8px;
   cursor: pointer;
   transition: all 0.2s ease;
-  min-width: 48px;
+  min-width: 60px;
   box-sizing: border-box;
 }
 
@@ -2054,12 +2054,12 @@ ol.interactive-checklist li {
   box-shadow: 0 4px 12px var(--color-shadow);
 }
 
-.quick-nav-num {
-  font-family: var(--font-serif);
-  font-size: 0.9rem;
+.quick-nav-label {
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
   font-weight: 600;
   color: var(--color-text-main);
-  margin-bottom: 1px;
+  margin-bottom: 2px;
 }
 
 .quick-nav-count {
@@ -2078,7 +2078,7 @@ ol.interactive-checklist li {
   border-color: var(--color-accent);
 }
 
-.quick-nav-pill.is-completed .quick-nav-num {
+.quick-nav-pill.is-completed .quick-nav-label {
   color: var(--color-accent);
 }
 
