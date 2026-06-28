@@ -1040,6 +1040,37 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  // Guide Info Modal Event Listeners
+  const guideModal = document.getElementById("guide-info-modal");
+  const guideTrigger = document.getElementById("guide-info-trigger");
+  const guideClose = document.getElementById("guide-modal-close");
+  const guideBackdrop = document.getElementById("guide-modal-backdrop");
+  
+  if (guideTrigger && guideModal) {
+    // Event delegation or direct binding (static element)
+    guideTrigger.addEventListener("click", () => {
+      guideModal.classList.add("is-active");
+      document.body.style.overflow = "hidden"; // Prevent page scroll while reading modal
+    });
+  }
+  
+  function closeGuideModal() {
+    if (guideModal) {
+      guideModal.classList.remove("is-active");
+      document.body.style.overflow = ""; // Restore scroll
+    }
+  }
+  
+  if (guideClose) guideClose.addEventListener("click", closeGuideModal);
+  if (guideBackdrop) guideBackdrop.addEventListener("click", closeGuideModal);
+  
+  // Close guide modal on Escape key press
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      closeGuideModal();
+    }
+  });
+
   // Initialize App Elements
   loadQuotes();
 
