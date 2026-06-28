@@ -204,10 +204,11 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="post-meta-sub">
             <span class="post-detail-date">${formatDate(post.date)}</span>
             <span class="post-read-time">• ${calculateReadingTime(post.content)}</span>
-            ${youtubeUrl ? `• <a href="${youtubeUrl}" target="_blank" class="post-listen-btn">🎧 Monologu Dinle ↗</a>` : ""}
+            ${youtubeUrl ? `• <button id="toggle-audio-btn" class="post-listen-btn">🎧 Monoloğu Dinle</button>` : ""}
             • <button id="post-share-btn" class="post-share-btn" title="Yazıyı Paylaş">🔗 Paylaş</button>
           </div>
         </header>
+        ${youtubeUrl ? `<div id="post-audio-player-container" class="post-audio-player-container"></div>` : ""}
         ${imgHtml}
         <div class="post-body">
           ${cleanContent}
@@ -224,6 +225,9 @@ document.addEventListener("DOMContentLoaded", () => {
       
       // Setup Share Button Event Listener
       setupShareButton(post);
+
+      // Setup Audio Player Event Listener if YouTube url is present
+      setupAudioPlayer(youtubeUrl);
 
     } catch (error) {
       console.error("Error loading post detail:", error);
@@ -295,6 +299,64 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       });
     }
+  }
+
+  // Setup Audio Player Event Listener
+  function setupAudioPlayer(youtubeUrl) {
+    const toggleBtn = document.getElementById("toggle-audio-btn");
+    const container = document.getElementById("post-audio-player-container");
+    
+    if (!toggleBtn || !container || !youtubeUrl) return;
+    
+    function getYouTubeId(url) {
+      if (!url) return null;
+      const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
+      const match = url.match(regExp);
+      return (match && match[2].length === 11) ? match[2] : null;
+    }
+    
+    const videoId = getYouTubeId(youtubeUrl);
+    if (!videoId) return;
+    
+    toggleBtn.addEventListener("click", () => {
+      if (container.classList.contains("active")) {
+        // If active, stop and close
+        container.innerHTML = "";
+        container.classList.remove("active");
+        toggleBtn.innerHTML = "🎧 Monoloğu Dinle";
+        toggleBtn.classList.remove("playing");
+      } else {
+        // If not active, play inline
+        container.innerHTML = `
+          <div class="player-header">
+            <span>🎧 Monolog Oynatılıyor</span>
+            <button id="close-player-btn" class="close-player-btn">✕ Kapat</button>
+          </div>
+          <div class="player-wrapper">
+            <iframe 
+              src="https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&showinfo=0" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+              allowfullscreen>
+            </iframe>
+          </div>
+        `;
+        container.classList.add("active");
+        toggleBtn.innerHTML = "⏸ Monoloğu Durdur";
+        toggleBtn.classList.add("playing");
+        
+        // Setup internal close button
+        const closeBtn = document.getElementById("close-player-btn");
+        if (closeBtn) {
+          closeBtn.addEventListener("click", () => {
+            container.innerHTML = "";
+            container.classList.remove("active");
+            toggleBtn.innerHTML = "🎧 Monoloğu Dinle";
+            toggleBtn.classList.remove("playing");
+          });
+        }
+      }
+    });
   }
 
   // Routing
