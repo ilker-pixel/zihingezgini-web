@@ -605,23 +605,25 @@ document.addEventListener("DOMContentLoaded", () => {
           quickNavContainer.querySelectorAll(".quick-nav-pill").forEach(btn => {
             btn.addEventListener("click", () => {
               const e = parseInt(btn.getAttribute("data-evre"));
-              const targetDiv = document.getElementById(`phase-card-${e}`);
-              if (targetDiv) {
-                // Ensure target is open
-                if (!targetDiv.classList.contains("is-open")) {
-                  targetDiv.classList.add("is-open");
-                  const icon = targetDiv.querySelector(".phase-toggle-icon");
-                  if (icon) icon.textContent = "▸";
-                }
+              const firstBookNo = (e - 1) * 30 + 1;
+              const targetRow = document.getElementById(`book-row-${firstBookNo}`);
+              if (targetRow) {
+                // Collapse all other book descriptions
+                document.querySelectorAll(".book-item-row.is-expanded").forEach(row => {
+                  row.classList.remove("is-expanded");
+                });
                 
-                // Highlight phase card temporarily with a subtle pulse
-                targetDiv.classList.add("highlight-pulse");
+                // Expand target row
+                targetRow.classList.add("is-expanded");
+                
+                // Highlight target row temporarily with a subtle pulse
+                targetRow.classList.add("highlight-pulse");
                 setTimeout(() => {
-                  targetDiv.classList.remove("highlight-pulse");
+                  targetRow.classList.remove("highlight-pulse");
                 }, 2000);
                 
                 // Scroll smoothly
-                targetDiv.scrollIntoView({ behavior: "smooth", block: "start" });
+                targetRow.scrollIntoView({ behavior: "smooth", block: "center" });
               }
             });
           });
@@ -639,122 +641,84 @@ document.addEventListener("DOMContentLoaded", () => {
         if (evreBooks[b.evre]) evreBooks[b.evre].push(b);
       });
       
-      for (let e = 1; e <= 10; e++) {
-        const phaseBooks = evreBooks[e];
-        const phaseDiv = document.createElement("div");
-        phaseDiv.className = "roadmap-phase-card is-open";
-        phaseDiv.id = `phase-card-${e}`;
+      const booksList = document.createElement("div");
+      booksList.className = "roadmap-books-list";
+      
+      books.forEach(b => {
+        const bookItem = document.createElement("div");
+        bookItem.className = `book-item-row ${readBooks.includes(b.no) ? 'is-read' : ''}`;
+        bookItem.id = `book-row-${b.no}`;
         
-        // Count read books in this phase
-        const phaseReadCount = phaseBooks.filter(b => readBooks.includes(b.no)).length;
-        
-        phaseDiv.innerHTML = `
-          <div class="phase-header" data-evre="${e}">
-            <div class="phase-title-group">
-              <span class="phase-toggle-icon">▸</span>
-              <h3 class="phase-title">${EVRE_TITLES[e]}</h3>
-            </div>
-            <span class="phase-badge">${phaseReadCount} / 30 Okundu</span>
+        const titleHtml = b.link 
+          ? `<a href="${b.link}" class="book-title-link">${b.title}</a>` 
+          : `<span class="book-title-text">${b.title}</span>`;
+          
+        const summaryBtnHtml = b.hasSummary
+          ? `<a href="#/book/${b.no}/summary" class="book-summary-btn">📖 Özet Oku</a>`
+          : '';
+          
+        bookItem.innerHTML = `
+          <div class="book-check-col">
+            <input type="checkbox" id="book-check-${b.no}" ${readBooks.includes(b.no) ? 'checked' : ''} data-no="${b.no}">
           </div>
-          <div class="phase-content" id="phase-content-${e}">
-            <div class="phase-books-list">
-              <!-- Books populated here -->
+          <div class="book-info-col">
+            <div class="book-title-row">
+              <span class="book-no">#${b.no}</span>
+              <strong class="book-author">${b.author}</strong> — ${titleHtml}
+              ${summaryBtnHtml}
+            </div>
+            <div class="book-details-expanded">
+              <div class="book-meta-row">
+                <span class="book-category-tag">Kategori: ${b.category}</span>
+                ${b.pubDate ? `<span class="book-pub-date">Yıl: ${b.pubDate}</span>` : ''}
+              </div>
+              <p class="book-desc">${b.description}</p>
             </div>
           </div>
         `;
         
-        const booksList = phaseDiv.querySelector(".phase-books-list");
-        
-        phaseBooks.forEach(b => {
-          const bookItem = document.createElement("div");
-          bookItem.className = `book-item-row ${readBooks.includes(b.no) ? 'is-read' : ''}`;
-          
-          const titleHtml = b.link 
-            ? `<a href="${b.link}" class="book-title-link">${b.title}</a>` 
-            : `<span class="book-title-text">${b.title}</span>`;
-            
-          const summaryBtnHtml = b.hasSummary
-            ? `<a href="#/book/${b.no}/summary" class="book-summary-btn">📖 Özet Oku</a>`
-            : '';
-            
-          bookItem.innerHTML = `
-            <div class="book-check-col">
-              <input type="checkbox" id="book-check-${b.no}" ${readBooks.includes(b.no) ? 'checked' : ''} data-no="${b.no}">
-            </div>
-            <div class="book-info-col">
-              <div class="book-title-row">
-                <span class="book-no">#${b.no}</span>
-                <strong class="book-author">${b.author}</strong> — ${titleHtml}
-                ${summaryBtnHtml}
-              </div>
-              <div class="book-details-expanded">
-                <div class="book-meta-row">
-                  <span class="book-category-tag">Kategori: ${b.category}</span>
-                  ${b.pubDate ? `<span class="book-pub-date">Yıl: ${b.pubDate}</span>` : ''}
-                </div>
-                <p class="book-desc">${b.description}</p>
-              </div>
-            </div>
-          `;
-          
-          // Checkbox event listener
-          const checkbox = bookItem.querySelector('input[type="checkbox"]');
-          checkbox.addEventListener("change", (event) => {
-            const num = b.no;
-            if (event.target.checked) {
-              if (!readBooks.includes(num)) readBooks.push(num);
-              bookItem.classList.add("is-read");
-            } else {
-              readBooks = readBooks.filter(n => n !== num);
-              bookItem.classList.remove("is-read");
-            }
-            localStorage.setItem("zg_read_books", JSON.stringify(readBooks));
-            updateRoadmapProgress();
-            
-            // Update phase badge count
-            const currentPhaseReadCount = phaseBooks.filter(pb => readBooks.includes(pb.no)).length;
-            phaseDiv.querySelector(".phase-badge").textContent = `${currentPhaseReadCount} / 30 Okundu`;
-          });
-          
-          // Click handler to toggle description accordion
-          const infoCol = bookItem.querySelector(".book-info-col");
-          if (infoCol) {
-            infoCol.addEventListener("click", (e) => {
-              // Ignore clicks on links or buttons (like summary link)
-              if (e.target.closest("a") || e.target.closest("button") || e.target.closest("input")) {
-                return;
-              }
-              
-              const isCurrentlyExpanded = bookItem.classList.contains("is-expanded");
-              
-              // Collapse all other book descriptions
-              document.querySelectorAll(".book-item-row.is-expanded").forEach(row => {
-                row.classList.remove("is-expanded");
-              });
-              
-              // Toggle current row
-              if (!isCurrentlyExpanded) {
-                bookItem.classList.add("is-expanded");
-              }
-            });
-          }
-          
-          booksList.appendChild(bookItem);
-        });
-        
-        // Accordion click handler
-        const header = phaseDiv.querySelector(".phase-header");
-        header.addEventListener("click", () => {
-          const isOpen = phaseDiv.classList.contains("is-open");
-          if (isOpen) {
-            phaseDiv.classList.remove("is-open");
+        // Checkbox event listener
+        const checkbox = bookItem.querySelector('input[type="checkbox"]');
+        checkbox.addEventListener("change", (event) => {
+          const num = b.no;
+          if (event.target.checked) {
+            if (!readBooks.includes(num)) readBooks.push(num);
+            bookItem.classList.add("is-read");
           } else {
-            phaseDiv.classList.add("is-open");
+            readBooks = readBooks.filter(n => n !== num);
+            bookItem.classList.remove("is-read");
           }
+          localStorage.setItem("zg_read_books", JSON.stringify(readBooks));
+          updateRoadmapProgress();
         });
         
-        phasesContainer.appendChild(phaseDiv);
-      }
+        // Click handler to toggle description accordion
+        const infoCol = bookItem.querySelector(".book-info-col");
+        if (infoCol) {
+          infoCol.addEventListener("click", (e) => {
+            // Ignore clicks on links or buttons (like summary link)
+            if (e.target.closest("a") || e.target.closest("button") || e.target.closest("input")) {
+              return;
+            }
+            
+            const isCurrentlyExpanded = bookItem.classList.contains("is-expanded");
+            
+            // Collapse all other book descriptions
+            document.querySelectorAll(".book-item-row.is-expanded").forEach(row => {
+              row.classList.remove("is-expanded");
+            });
+            
+            // Toggle current row
+            if (!isCurrentlyExpanded) {
+              bookItem.classList.add("is-expanded");
+            }
+          });
+        }
+        
+        booksList.appendChild(bookItem);
+      });
+      
+      phasesContainer.appendChild(booksList);
       
       updateRoadmapProgress();
       

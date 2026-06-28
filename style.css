@@ -2253,5 +2253,14 @@ ol.interactive-checklist li {
   margin-bottom: 0;
 }
 
-
-
+/* Roadmap Flat Books List */
+.roadmap-books-list {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  overflow: hidden;
+  margin-top: 20px;
+  box-shadow: 0 4px 20px var(--color-shadow);
+}
