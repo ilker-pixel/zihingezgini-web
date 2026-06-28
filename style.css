@@ -1545,9 +1545,9 @@ ol.interactive-checklist li {
 
 /* Book Summary Reader View */
 .summary-reader-container {
-  max-width: 800px;
+  max-width: 960px;
   margin: 0 auto;
-  padding: 40px 16px;
+  padding: 40px 24px;
 }
 
 .back-to-roadmap-btn {
@@ -1555,12 +1555,30 @@ ol.interactive-checklist li {
   font-size: 0.95rem;
   color: var(--color-accent);
   text-decoration: none;
-  margin-bottom: 28px;
+  margin-bottom: 20px;
   transition: transform 0.2s ease;
 }
 
 .back-to-roadmap-btn:hover {
   transform: translateX(-4px);
+}
+
+/* split hero layout */
+.summary-hero-split {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.summary-hero-left {
+  flex: 1.2;
+}
+
+.summary-hero-right {
+  flex: 0.8;
+  display: flex;
+  justify-content: center;
 }
 
 .summary-meta-top {
@@ -1592,26 +1610,27 @@ ol.interactive-checklist li {
 }
 
 .summary-book-subtitle {
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   color: var(--color-text-muted);
   line-height: 1.6;
-  margin: 16px 0 24px 0;
+  margin: 16px 0;
   font-style: italic;
 }
 
 .summary-featured-image-container {
   width: 100%;
+  max-width: 360px;
   border-radius: 12px;
   overflow: hidden;
   border: 1px solid var(--color-border);
-  margin-bottom: 24px;
   background-color: var(--color-card-bg);
+  box-shadow: var(--shadow-sm);
 }
 
 .summary-featured-img {
   width: 100%;
   height: auto;
-  max-height: 450px;
+  max-height: 280px;
   object-fit: cover;
   display: block;
   transition: transform 0.5s ease;
@@ -1625,15 +1644,15 @@ ol.interactive-checklist li {
   background-color: var(--color-card-bg);
   border: 1px solid var(--color-border);
   border-radius: 8px;
-  padding: 16px 20px;
-  margin-bottom: 30px;
+  padding: 12px 18px;
+  margin-top: 20px;
   display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
+  flex-direction: column;
+  gap: 8px;
 }
 
 .meta-box-item {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--color-text-muted);
 }
 
@@ -1644,14 +1663,15 @@ ol.interactive-checklist li {
 .summary-intro-box {
   background-color: var(--color-card-bg);
   border-left: 4px solid var(--color-accent);
-  padding: 20px 24px;
+  padding: 24px 28px;
   border-radius: 0 8px 8px 0;
-  margin-bottom: 40px;
+  margin-bottom: 48px;
+  line-height: 1.7;
 }
 
 .summary-intro-box h3 {
   font-family: var(--font-display);
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   margin-top: 0;
   margin-bottom: 12px;
   color: var(--color-text-main);
@@ -1659,15 +1679,16 @@ ol.interactive-checklist li {
 
 .summary-intro-box p {
   font-size: 1.05rem;
-  line-height: 1.7;
+  line-height: 1.75;
   color: var(--color-text-muted);
   margin: 0;
 }
 
+/* Chapter with inline media */
 .reader-chapter-section {
-  margin-bottom: 48px;
+  margin-bottom: 56px;
   border-bottom: 1px solid var(--color-border);
-  padding-bottom: 40px;
+  padding-bottom: 48px;
 }
 
 .reader-chapter-section:last-child {
@@ -1677,19 +1698,60 @@ ol.interactive-checklist li {
 
 .reader-chapter-title {
   font-family: var(--font-display);
-  font-size: 1.6rem;
+  font-size: 1.75rem;
   color: var(--color-text-main);
   margin-top: 0;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
   line-height: 1.3;
 }
 
+.reader-chapter-wrapper {
+  display: block;
+}
+
+.reader-chapter-wrapper.has-media {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+}
+
+.reader-chapter-text {
+  flex: 1.2;
+}
+
+.reader-chapter-media {
+  flex: 0.8;
+  max-width: 340px;
+  background-color: var(--color-card-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 12px;
+  box-shadow: var(--shadow-sm);
+}
+
+.reader-chapter-img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+.reader-chapter-caption {
+  display: block;
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  margin-top: 10px;
+  text-align: center;
+  font-style: italic;
+  line-height: 1.4;
+}
+
 .reader-paragraph {
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   line-height: 1.8;
   color: var(--color-text-main);
   margin-top: 0;
-  margin-bottom: 18px;
+  margin-bottom: 20px;
   text-align: justify;
 }
 
@@ -1707,7 +1769,7 @@ ol.interactive-checklist li {
   background-color: var(--color-card-bg);
   border: 1px solid var(--color-border);
   border-radius: 8px;
-  padding: 20px;
+  padding: 20px 24px;
 }
 
 .disclaimer-text {
@@ -1718,13 +1780,33 @@ ol.interactive-checklist li {
 }
 
 @media (max-width: 768px) {
+  .summary-hero-split {
+    flex-direction: column-reverse;
+    gap: 24px;
+  }
+  
+  .summary-hero-left, .summary-hero-right {
+    flex: none;
+    width: 100%;
+  }
+  
+  .summary-featured-image-container {
+    max-width: 100%;
+  }
+  
   .summary-book-title {
     font-size: 2.2rem;
   }
   
-  .summary-book-meta-box {
+  .reader-chapter-wrapper.has-media {
     flex-direction: column;
-    gap: 8px;
+    gap: 24px;
+  }
+  
+  .reader-chapter-media {
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
   }
   
   .reader-paragraph {

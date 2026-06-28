@@ -20,6 +20,8 @@ def create_hawking_summary():
             {
                 "id": "intro_text",
                 "title": "Giriş: Kozmosun Büyüleyici Arayışı",
+                "image": "/images/hawking_portrait_sketch.png",
+                "imageCaption": "Stephen Hawking: Tekerlekli sandalyesinden zihniyle kozmosun sınırlarını aşan deha.",
                 "paragraphs": [
                     "Evrenin Gizemi: Hawking'in en büyük başarısı, tekerlekli sandalyeden kafasını kaldırıp sonsuz evreni zihinsel olarak keşfetmesidir. Onun popüler bilim dili, zor fizik terimlerini herkesin anlayabileceği birer masala dönüştürür. Bu kitapçıkta evrenin en heyecanlı konularını keşfedeceksiniz."
                 ]
@@ -46,6 +48,8 @@ def create_hawking_summary():
             {
                 "id": "chapter3",
                 "title": "BÖLÜM 3: Genişleyen Evren (Şişen Bir Balonun Üzerindeyiz!)",
+                "image": "/images/expanding_universe_sketch.png",
+                "imageCaption": "Şişen balon benzetmesi: Evren genişledikçe tüm galaksiler birbirinden hızla uzaklaşmaktadır.",
                 "paragraphs": [
                     "**Yıldızların Uzaklığını Ölçmek**\n\nEvrenin ne kadar büyük olduğunu anlamak için önce yıldızların bize ne kadar uzak olduğunu ölçmemiz gerekir. Peki, elimizde devasa bir mezura olmadığına göre bunu nasıl yaparız? Gökbilimciler iki yöntem kullanır. Birincisi 'parallaks' denilen yöntemdir. Parmağınızı gözünüzün önüne koyup sırayla sol ve sağ gözünüzü kapatırsanız parmağınızın arka plana göre hareket ettiğini görürsünüz. Dünya Güneş etrafında dönerken, yakın yıldızlar da uzak yıldızlara göre hafifçe yer değiştirir. Bu açı farkından yıldızın uzaklığı hesaplanır. İkinci yöntem ise 'Sefe Değişkenleri' denilen özel yıldızlardır. Bu yıldızlar tıpkı deniz fenerleri gibi belirli aralıklarla parlayıp sönerler. Parlama hızlarından onların gerçek parlaklıklarını anlarız. Gerçek parlaklığını bildiğimiz bir yıldızın Dünya'dan ne kadar sönük göründüğüne bakarak uzaklığını kolayca bulabiliriz.",
                     "**Hubble ve Kırmızıya Kayma**\n\n1929 yılında Edwin Hubble, insanlık tarihinin en büyük keşiflerinden birini yaptı. Hubble, uzak galaksilerden gelen ışıkları incelediğinde şaşırtıcı bir şey fark etti. Bu galaksilerin yaydığı ışık spektrumu kırmızı renge doğru kayıyordu. Işığın kırmızıya kayması ne demektir? Bunu ses dalgalarındaki Doppler Etkisi ile anlayabiliriz. Bir ambulans size doğru gelirken sesi tizleşir, sizden uzaklaşırken ise sesi pesleşir (yani dalga boyu uzar). Işıkta da benzer bir durum vardır. Eğer bir galaksi bizden uzaklaşıyorsa, ışık dalgaları boyuna esner ve rengi kırmızıya kayar. Hubble, neredeyse tüm galaksilerin bizden hızla uzaklaştığını ve en uzaktaki galaksilerin en hızlı uzaklaşanlar olduğunu gördü. Bu, evrenin sürekli genişlediği anlamına geliyordu!",
@@ -104,6 +108,8 @@ def create_hawking_summary():
             {
                 "id": "chapter9",
                 "title": "BÖLÜM 9: Zamanın Oku (Zaman Neden Hep İleriye Doğru Akar?)",
+                "image": "/images/time_bending_sketch.png",
+                "imageCaption": "Zamanın Oku: Entropi yasası gereği, zaman her zaman düzensizliğin arttığı yöne doğru (ileriye) akar.",
                 "paragraphs": [
                     "**Entropi ve Düzensizlik Kanunu**\n\nMasadan düşüp kırılan bir porselen bardağı hayal edin. Bardak tuz buz olur ve parçaları yere dağılır. Peki, yerdeki parçaların kendiliğinden havaya fırlayıp masanın üzerinde sapasağlam bir bardak olarak birleştiğini hiç gördünüz mü? Tabii ki hayır! Peki ama neden? Fizik yasalarına göre bu teorik olarak mümkündür fakat pratikte asla gerçekleşmez. Bunun sebebi Termodinamiğin İkinci Yasası, yani **Entropi**dir. Entropi, düzensizlik miktarıdır. Doğadaki her şey kendiliğinden düzensizliğe doğru akar. Düzenli bir bardağın kırılıp düzensiz parçalara ayrılması çok kolaydır çünkü düzensiz olmanın milyonlarca farklı yolu varken, düzenli (sapasağlam) olmanın tek bir yolu vardır. Zaman, düzensizliğin arttığı yöne doğru akar.",
                     "**Zamanın Üç Farklı Oku**\n\nStephen Hawking, zamanın hep ileriye doğru akmasını açıklayan üç farklı 'zaman oku' tanımlar:\n1. **Termodinamik Zaman Oku:** Evrendeki düzensizliğin (entropinin) sürekli arttığı yöndür. Bardakların kırıldığı yöndür.\n2. **Psikolojik Zaman Oku:** Bizim zamanı hissetme şeklimizdir. Geçmişi hatırlarız ama geleceği hatırlayamayız. Beynimiz bilgileri kaydederken entropiyi artırdığı için psikolojik ok, termodinamik ok ile aynı yöne bakar.\n3. **Kozmolojik Zaman Oku:** Evrenin büzülmek yerine genişlediği yöndür.",

@@ -41,7 +41,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   
-  <link rel="stylesheet" href="/style.css?v=33">
+  <link rel="stylesheet" href="/style.css?v=34">
 </head>
 <body class="dark-theme">
 
@@ -156,26 +156,29 @@
       <!-- Book Summary View -->
       <section id="view-book-summary" class="content-view">
         <div class="summary-reader-container">
-          <div class="summary-reader-header">
-            <a href="#/roadmap" class="back-to-roadmap-btn">← Yol Haritasına Dön</a>
-            <div class="summary-meta-top">
-              <span class="summary-meta-book-no" id="reader-book-no">#1</span>
-              <h2 class="summary-book-title" id="reader-book-title">Zamanın Kısa Tarihi</h2>
-              <span class="summary-book-author" id="reader-book-author">Stephen Hawking</span>
+          <div class="summary-hero-split">
+            <div class="summary-hero-left">
+              <a href="#/roadmap" class="back-to-roadmap-btn">← Yol Haritasına Dön</a>
+              <div class="summary-meta-top">
+                <span class="summary-meta-book-no" id="reader-book-no">#1</span>
+                <h1 class="summary-book-title" id="reader-book-title">Zamanın Kısa Tarihi</h1>
+                <span class="summary-book-author" id="reader-book-author">Stephen Hawking</span>
+              </div>
+              <p class="summary-book-subtitle" id="reader-book-subtitle"></p>
+              
+              <div class="summary-book-meta-box">
+                  <div class="meta-box-item"><strong>Orijinal Adı:</strong> <span id="reader-meta-original"></span></div>
+                  <div class="meta-box-item"><strong>Derleyen:</strong> <span id="reader-meta-compiler"></span></div>
+                  <div class="meta-box-item"><strong>Tarih:</strong> <span id="reader-meta-date"></span></div>
+              </div>
             </div>
-            <p class="summary-book-subtitle" id="reader-book-subtitle"></p>
-            
-            <div class="summary-featured-image-container">
-              <img src="/images/hawking_space_time_sketch.png" class="summary-featured-img" alt="Uzay ve Zaman Bükülmesi">
+            <div class="summary-hero-right">
+              <div class="summary-featured-image-container">
+                <img src="/images/hawking_space_time_sketch.png" class="summary-featured-img" alt="Uzay ve Zaman Bükülmesi">
+              </div>
             </div>
-            
-            <div class="summary-book-meta-box">
-                <div class="meta-box-item"><strong>Orijinal Adı:</strong> <span id="reader-meta-original"></span></div>
-                <div class="meta-box-item"><strong>Derleyen:</strong> <span id="reader-meta-compiler"></span></div>
-                <div class="meta-box-item"><strong>Tarih:</strong> <span id="reader-meta-date"></span></div>
-            </div>
-            <div class="divider"></div>
           </div>
+          <div class="divider"></div>
           
           <div class="summary-reader-content">
             <div class="summary-intro-box" id="reader-intro-text">

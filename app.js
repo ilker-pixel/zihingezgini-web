@@ -690,10 +690,21 @@ document.addEventListener("DOMContentLoaded", () => {
           paragraphsHtml += `<p class="reader-paragraph">${text.replace(/\n/g, '<br>')}</p>`;
         });
         
+        const hasMedia = ch.image ? true : false;
+        const mediaHtml = hasMedia 
+          ? `<div class="reader-chapter-media">
+               <img src="${ch.image}" class="reader-chapter-img" alt="${ch.imageCaption || ''}">
+               ${ch.imageCaption ? `<span class="reader-chapter-caption">${ch.imageCaption}</span>` : ''}
+             </div>`
+          : '';
+        
         chDiv.innerHTML = `
           <h3 class="reader-chapter-title">${ch.title}</h3>
-          <div class="reader-chapter-body">
-            ${paragraphsHtml}
+          <div class="reader-chapter-wrapper ${hasMedia ? 'has-media' : ''}">
+            <div class="reader-chapter-text">
+              ${paragraphsHtml}
+            </div>
+            ${mediaHtml}
           </div>
         `;
         readerChapters.appendChild(chDiv);
