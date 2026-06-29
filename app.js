@@ -170,9 +170,10 @@ document.addEventListener("DOMContentLoaded", () => {
         ? `<img src="${post.featuredImage}" class="post-featured-img" alt="${post.title}">`
         : "";
         
-      // Extract YouTube link from content if present
+      // Extract YouTube link or local audio from content if present
       let cleanContent = post.content;
       let youtubeUrl = null;
+      const audioUrl = post.audioFile || null;
       
       const ytRegex = /<a[^>]*href="(https?:\/\/(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/)[a-zA-Z0-9_-]+)"[^>]*>.*?<\/a>/i;
       const ytMatch = cleanContent.match(ytRegex);
@@ -217,11 +218,11 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="post-meta-sub">
             <span class="post-detail-date">${formatDate(post.date)}</span>
             <span class="post-read-time">• ${calculateReadingTime(post.content)}</span>
-            ${youtubeUrl ? `• <button id="toggle-audio-btn" class="post-listen-btn">🎧 Monoloğu Dinle</button>` : ""}
+            ${(youtubeUrl || audioUrl) ? `• <button id="toggle-audio-btn" class="post-listen-btn">🎧 Monoloğu Dinle</button>` : ""}
             • <button id="post-share-btn" class="post-share-btn" title="Yazıyı Paylaş">🔗 Paylaş</button>
           </div>
         </header>
-        ${youtubeUrl ? `<div id="post-audio-player-container" class="post-audio-player-container"></div>` : ""}
+        ${(youtubeUrl || audioUrl) ? `<div id="post-audio-player-container" class="post-audio-player-container"></div>` : ""}
         ${imgHtml}
         <div class="post-body">
           ${cleanContent}
@@ -241,8 +242,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 
-      // Setup Audio Player Event Listener if YouTube url is present
-      setupAudioPlayer(youtubeUrl);
+      // Setup Audio Player Event Listener if YouTube or local audio file is present
+      setupAudioPlayer(youtubeUrl, audioUrl);
 
       // Setup Interactive Film List for Auteur Cinema post
       setupInteractiveFilmList(post);
@@ -320,11 +321,12 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // Setup Audio Player Event Listener
-  function setupAudioPlayer(youtubeUrl) {
+  function setupAudioPlayer(youtubeUrl, audioUrl) {
     const toggleBtn = document.getElementById("toggle-audio-btn");
     const container = document.getElementById("post-audio-player-container");
     
-    if (!toggleBtn || !container || !youtubeUrl) return;
+    if (!toggleBtn || !container) return;
+    if (!youtubeUrl && !audioUrl) return;
     
     function getYouTubeId(url) {
       if (!url) return null;
@@ -332,9 +334,6 @@ document.addEventListener("DOMContentLoaded", () => {
       const match = url.match(regExp);
       return (match && match[2].length === 11) ? match[2] : null;
     }
-    
-    const videoId = getYouTubeId(youtubeUrl);
-    if (!videoId) return;
     
     toggleBtn.addEventListener("click", () => {
       if (container.classList.contains("active")) {
@@ -345,20 +344,35 @@ document.addEventListener("DOMContentLoaded", () => {
         toggleBtn.classList.remove("playing");
       } else {
         // If not active, play inline
-        container.innerHTML = `
-          <div class="player-header">
-            <span>🎧 Monolog Oynatılıyor</span>
-            <button id="close-player-btn" class="close-player-btn">✕ Kapat</button>
-          </div>
-          <div class="player-wrapper">
-            <iframe 
-              src="https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&showinfo=0" 
-              frameborder="0" 
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-              allowfullscreen>
-            </iframe>
-          </div>
-        `;
+        if (audioUrl) {
+          container.innerHTML = `
+            <div class="player-header">
+              <span>🎧 Monolog Oynatılıyor</span>
+              <button id="close-player-btn" class="close-player-btn">✕ Kapat</button>
+            </div>
+            <div class="player-wrapper" style="padding: 12px 20px;">
+              <audio src="${audioUrl}" controls autoplay style="width: 100%; height: 40px; outline: none; border-radius: 8px;"></audio>
+            </div>
+          `;
+        } else if (youtubeUrl) {
+          const videoId = getYouTubeId(youtubeUrl);
+          if (!videoId) return;
+          container.innerHTML = `
+            <div class="player-header">
+              <span>🎧 Monolog Oynatılıyor</span>
+              <button id="close-player-btn" class="close-player-btn">✕ Kapat</button>
+            </div>
+            <div class="player-wrapper">
+              <iframe 
+                src="https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&showinfo=0" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen>
+              </iframe>
+            </div>
+          `;
+        }
+        
         container.classList.add("active");
         toggleBtn.innerHTML = "⏸ Monoloğu Durdur";
         toggleBtn.classList.add("playing");
