@@ -166,7 +166,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (!response.ok) throw new Error("Post not found");
       const post = await response.json();
       
-      const imgHtml = post.featuredImage 
+      const imgHtml = (post.featuredImage && !post.hideFeaturedImageInPost) 
         ? `<img src="${post.featuredImage}" class="post-featured-img" alt="${post.title}">`
         : "";
         
