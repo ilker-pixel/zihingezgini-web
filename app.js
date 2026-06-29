@@ -365,8 +365,8 @@ document.addEventListener("DOMContentLoaded", () => {
               <span>🎧 Monolog Oynatılıyor</span>
               <button id="close-player-btn" class="close-player-btn">✕ Kapat</button>
             </div>
-            <div class="player-wrapper" style="padding: 12px 20px;">
-              <audio src="${audioUrl}" controls autoplay style="width: 100%; height: 40px; outline: none; border-radius: 8px;"></audio>
+            <div class="audio-player-wrapper">
+              <audio src="${audioUrl}" controls autoplay></audio>
             </div>
           `;
         } else if (youtubeUrl) {
