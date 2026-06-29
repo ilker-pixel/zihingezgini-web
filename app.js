@@ -218,11 +218,26 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="post-meta-sub">
             <span class="post-detail-date">${formatDate(post.date)}</span>
             <span class="post-read-time">• ${calculateReadingTime(post.content)}</span>
-            ${(youtubeUrl || audioUrl) ? `• <button id="toggle-audio-btn" class="post-listen-btn">🎧 Monoloğu Dinle</button>` : ""}
             • <button id="post-share-btn" class="post-share-btn" title="Yazıyı Paylaş">🔗 Paylaş</button>
           </div>
         </header>
-        ${(youtubeUrl || audioUrl) ? `<div id="post-audio-player-container" class="post-audio-player-container"></div>` : ""}
+        
+        ${(youtubeUrl || audioUrl) ? `
+        <div class="post-audio-banner">
+          <div class="audio-banner-info">
+            <span class="audio-banner-icon">🎙️</span>
+            <div class="audio-banner-text-group">
+              <span class="audio-banner-title">Sesli Dinle</span>
+              <span class="audio-banner-desc">Bu denemenin yapay zekâ tarafından seslendirilmiş halini dinleyin.</span>
+            </div>
+          </div>
+          <button id="toggle-audio-btn" class="post-listen-btn-new">
+            <span class="play-status-icon">▶</span> Monoloğu Dinle
+          </button>
+        </div>
+        <div id="post-audio-player-container" class="post-audio-player-container"></div>
+        ` : ""}
+        
         ${imgHtml}
         <div class="post-body">
           ${cleanContent}
@@ -340,7 +355,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // If active, stop and close
         container.innerHTML = "";
         container.classList.remove("active");
-        toggleBtn.innerHTML = "🎧 Monoloğu Dinle";
+        toggleBtn.innerHTML = '<span class="play-status-icon">▶</span> Monoloğu Dinle';
         toggleBtn.classList.remove("playing");
       } else {
         // If not active, play inline
@@ -374,7 +389,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         
         container.classList.add("active");
-        toggleBtn.innerHTML = "⏸ Monoloğu Durdur";
+        toggleBtn.innerHTML = '<span class="play-status-icon">⏹</span> Monoloğu Durdur';
         toggleBtn.classList.add("playing");
         
         // Setup internal close button
@@ -383,7 +398,7 @@ document.addEventListener("DOMContentLoaded", () => {
           closeBtn.addEventListener("click", () => {
             container.innerHTML = "";
             container.classList.remove("active");
-            toggleBtn.innerHTML = "🎧 Monoloğu Dinle";
+            toggleBtn.innerHTML = '<span class="play-status-icon">▶</span> Monoloğu Dinle';
             toggleBtn.classList.remove("playing");
           });
         }
