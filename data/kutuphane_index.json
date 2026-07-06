@@ -133,5 +133,14 @@
     "desc": "Tarihin sıfır noktası Göbeklitepe'den Hitit imparatorluğuna, Ege kıyılarındaki İyonya aydınlanmasından Bizans ve Selçuklu mimarisine, Osmanlı saraylarından genç Türkiye Cumhuriyeti'nin 1950'deki çok partili dönemine uzanan 12.000 yıllık Anadolu ruhu.",
     "cover": "covers/anadolu_medeniyetleri.png",
     "chapterCount": 100
+  },
+  {
+    "id": "sanat_tarihi",
+    "title": "Sanat Tarihi",
+    "subtitle": "Mağara Resimlerinden Dijital Çağa İnsanlığın Estetik Serüveni",
+    "category": "Sanat & Felsefe",
+    "desc": "Altamira mağarasındaki ilk bizon çizimlerinden antik Yunan heykellerine, Rönesans'ın perspektif devriminden Caravaggio'nun ışık-gölge dramasına, izlenimcilerin renk patlamalarından modern sürrealist rüyalara ve günümüz dijital sanatının sınırlarına uzanan estetiğin 30.000 yıllık görkemli tarihi.",
+    "cover": "covers/sanat_tarihi.png",
+    "chapterCount": 100
   }
 ]
