@@ -2704,7 +2704,7 @@ ol.interactive-checklist li {
   align-items: center;
   justify-content: flex-end;
   gap: 1rem;
-  padding: 0 2rem;
+  padding: 0 8.5rem 0 2rem;
 }
 
 .font-controls {
