@@ -1185,7 +1185,7 @@ document.addEventListener("DOMContentLoaded", () => {
       readerModal.classList.add("active");
       document.body.style.overflow = "hidden";
 
-      const res = await fetch(`/data/books/${bookId}.json`);
+      const res = await fetch(`/data/books/${bookId}.json?v=${new Date().getTime()}`);
       if (!res.ok) {
         readerTextContainer.innerHTML = `<div class="loading-placeholder">Kitap içeriği yüklenemedi.</div>`;
         return;
