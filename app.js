@@ -1245,9 +1245,27 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (chapterIndex === -1) {
       contentHTML = `
-        <h1>Giriş</h1>
-        <div style="margin-top: 2rem;">
-          <p>${currentBookData.intro}</p>
+        <div class="reader-intro-page">
+          <div class="reader-intro-grid">
+            <div class="reader-intro-cover-container">
+              <img src="covers/${currentBookData.id}.png" class="reader-intro-cover" alt="${currentBookData.title} Kapağı">
+            </div>
+            <div class="reader-intro-details">
+              <span class="reader-intro-category">${currentBookData.category}</span>
+              <h1 class="reader-intro-title">${currentBookData.title}</h1>
+              <p class="reader-intro-subtitle">${currentBookData.subtitle}</p>
+              <div class="reader-intro-stats">
+                <span class="stat-badge">📚 10 Cilt / 100 Bölüm</span>
+                <span class="stat-badge">📖 Tam Metin</span>
+              </div>
+              <p class="reader-intro-description">${currentBookData.desc || ""}</p>
+            </div>
+          </div>
+          <hr class="reader-divider">
+          <div class="reader-intro-body">
+            <h2>Giriş ve Sunuş</h2>
+            <div class="reader-intro-paragraph">${currentBookData.intro}</div>
+          </div>
         </div>
       `;
     } else if (chapterIndex === -2) {

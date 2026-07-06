@@ -2825,3 +2825,127 @@ ol.interactive-checklist li {
   }
 }
 
+/* Reader Giriş Sayfası Tasarımı */
+.reader-intro-page {
+  padding: 1rem 0;
+}
+
+.reader-intro-grid {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.reader-intro-cover-container {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+  background: #111;
+  aspect-ratio: 0.707 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.reader-intro-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.reader-intro-cover:hover {
+  transform: scale(1.05);
+}
+
+.reader-intro-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.reader-intro-category {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--color-accent);
+  font-weight: 700;
+}
+
+.reader-intro-title {
+  font-size: 2rem !important;
+  font-family: 'Playfair Display', serif !important;
+  margin: 0 !important;
+  color: var(--color-text-main) !important;
+  line-height: 1.2 !important;
+}
+
+.reader-intro-subtitle {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--color-text-muted);
+  margin-top: 0.2rem;
+  line-height: 1.4;
+}
+
+.reader-intro-stats {
+  display: flex;
+  gap: 0.75rem;
+  margin: 0.5rem 0;
+  flex-wrap: wrap;
+}
+
+.stat-badge {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--color-border);
+  padding: 0.35rem 0.75rem;
+  border-radius: 50px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--color-text-main);
+}
+
+.reader-intro-description {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--color-text-muted);
+  margin-top: 0.5rem;
+}
+
+.reader-divider {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, var(--color-border), rgba(255, 255, 255, 0.05));
+  margin: 2.5rem 0;
+}
+
+.reader-intro-body h2 {
+  font-family: 'Playfair Display', serif !important;
+  font-size: 1.5rem !important;
+  margin-bottom: 1.2rem !important;
+  color: var(--color-text-main) !important;
+}
+
+.reader-intro-paragraph {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--color-text-main);
+}
+
+@media (max-width: 768px) {
+  .reader-intro-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    text-align: center;
+  }
+  .reader-intro-cover-container {
+    max-width: 200px;
+    margin: 0 auto;
+  }
+  .reader-intro-stats {
+    justify-content: center;
+  }
+}
+
+
