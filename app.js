@@ -1123,7 +1123,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (libraryData.length === 0) {
       try {
         bookshelfContainer.innerHTML = `<div class="loading-placeholder">Kitaplık yükleniyor...</div>`;
-        const res = await fetch("/data/kutuphane_index.json");
+        const res = await fetch(`/data/kutuphane_index.json?v=${new Date().getTime()}`);
         if (res.ok) {
           libraryData = await res.json();
         } else {
