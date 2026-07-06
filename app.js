@@ -1376,7 +1376,7 @@ document.addEventListener("DOMContentLoaded", () => {
     fontIncrease.addEventListener("click", () => {
       if (readerFontSize < 2.0) {
         readerFontSize += 0.1;
-        readerTextContainer.style.fontSize = `${readerFontSize}rem`;
+        readerTextContainer.style.setProperty('--reader-font-size', `${readerFontSize}rem`);
       }
     });
   }
@@ -1385,7 +1385,7 @@ document.addEventListener("DOMContentLoaded", () => {
     fontDecrease.addEventListener("click", () => {
       if (readerFontSize > 0.8) {
         readerFontSize -= 0.1;
-        readerTextContainer.style.fontSize = `${readerFontSize}rem`;
+        readerTextContainer.style.setProperty('--reader-font-size', `${readerFontSize}rem`);
       }
     });
   }

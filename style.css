@@ -2729,11 +2729,12 @@ ol.interactive-checklist li {
 }
 
 .reader-text-content {
+  --reader-font-size: 1.15rem;
+  font-size: var(--reader-font-size);
   flex: 1;
   overflow-y: auto;
   padding: 3rem 4rem;
   font-family: var(--font-serif);
-  font-size: 1.15rem;
   line-height: 1.85;
   color: var(--color-text-main);
   max-width: 800px;
@@ -2764,6 +2765,7 @@ ol.interactive-checklist li {
 .reader-text-content p {
   margin-bottom: 1.5rem;
   text-align: justify;
+  font-size: var(--reader-font-size);
 }
 
 /* Bölüm Sonu Alıntı Kutusu */
@@ -2775,7 +2777,7 @@ ol.interactive-checklist li {
   color: var(--color-text-muted);
   margin: 2.5rem 0;
   border-radius: 0 8px 8px 0;
-  font-size: 1.08rem;
+  font-size: calc(var(--reader-font-size) - 0.07rem);
   line-height: 1.65;
 }
 
@@ -2981,7 +2983,7 @@ ol.interactive-checklist li {
 }
 
 .reader-intro-paragraph {
-  font-size: 1.05rem;
+  font-size: calc(var(--reader-font-size) - 0.05rem);
   line-height: 1.8;
   color: var(--color-text-main);
 }
@@ -3011,24 +3013,39 @@ ol.interactive-checklist li {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 0.75rem 1.5rem;
+    padding: 0.75rem 1rem;
     background: rgba(255, 255, 255, 0.02);
     border-bottom: 1px solid var(--color-border);
+    width: 100%;
+    max-width: 100vw;
+    box-sizing: border-box;
+    overflow: hidden;
   }
   .reader-mobile-toc-container label {
     font-size: 0.85rem;
     font-weight: 600;
     color: var(--color-text-muted);
+    white-space: nowrap;
   }
   .reader-chapter-select-dropdown {
     flex: 1;
+    min-width: 0;
+    width: 100%;
+    max-width: 100%;
     padding: 0.5rem;
     border-radius: 6px;
     background: var(--color-bg);
     color: var(--color-text-main);
     border: 1px solid var(--color-border);
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     cursor: pointer;
     font-family: inherit;
+    box-sizing: border-box;
+  }
+  .reader-text-content h1 {
+    font-size: 1.6rem !important;
+  }
+  .reader-text-content h2 {
+    font-size: 1.25rem !important;
   }
 }
