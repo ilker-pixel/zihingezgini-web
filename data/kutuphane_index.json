@@ -115,5 +115,14 @@
     "desc": "Kuantum tuhaflıklarından kayıp antik teknolojilere, insan zihninin karanlık labirentlerinden evrenin gözlemlenemeyen sınırlarına kadar bilimin ve tarihin yanıt aradığı 100 büyüleyici anomali.",
     "cover": "covers/ilgincilikler.png",
     "chapterCount": 100
+  },
+  {
+    "id": "matematigin_tarihi",
+    "title": "Matematiğin Tarihi",
+    "subtitle": "Sayıların Şafağından Kaos Teorisine Akıl Almaz Yolculuk",
+    "category": "Mantık & Bilim",
+    "desc": "Sümerlerin kil tabletlerindeki ilk hesaplardan antik Yunan geometrisine, cebirin keşfinden diferansiyel hesabın doğuşuna, Gödel'in eksiklik teorilerinden modern kaos ve fraktal geometrisine uzanan soyut düşüncenin 4500 yıllık görkemli tarihi.",
+    "cover": "covers/matematigin_tarihi.png",
+    "chapterCount": 100
   }
 ]
