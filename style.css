@@ -2967,4 +2967,34 @@ ol.interactive-checklist li {
   }
 }
 
+/* Mobile TOC Dropdown Selector Styles */
+.reader-mobile-toc-container {
+  display: none; /* Default hidden on desktop */
+}
 
+@media (max-width: 768px) {
+  .reader-mobile-toc-container {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.5rem;
+    background: rgba(255, 255, 255, 0.02);
+    border-bottom: 1px solid var(--color-border);
+  }
+  .reader-mobile-toc-container label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-text-muted);
+  }
+  .reader-chapter-select-dropdown {
+    flex: 1;
+    padding: 0.5rem;
+    border-radius: 6px;
+    background: var(--color-bg);
+    color: var(--color-text-main);
+    border: 1px solid var(--color-border);
+    font-size: 0.9rem;
+    cursor: pointer;
+    font-family: inherit;
+  }
+}

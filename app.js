@@ -1198,6 +1198,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       // Render Table of Contents
       let tocHTML = ``;
+      let selectHTML = `<option value="-1"> GİRİŞ / SUNUŞ</option>`;
       tocHTML += `<button class="toc-item active" data-chapter="-1"> GİRİŞ</button>`;
       
       let currentPart = "";
@@ -1210,11 +1211,19 @@ document.addEventListener("DOMContentLoaded", () => {
           currentPart = voltitle;
           tocHTML += `<div class="toc-header">${currentPart}</div>`;
         }
-        tocHTML += `<button class="toc-item" data-chapter="${idx}">Bölüm ${chNum}: ${ch.title.split(": ")[1] || ch.title}</button>`;
+        const cleanTitle = ch.title.split(": ")[1] || ch.title;
+        tocHTML += `<button class="toc-item" data-chapter="${idx}">Bölüm ${chNum}: ${cleanTitle}</button>`;
+        selectHTML += `<option value="${idx}">Bölüm ${chNum}: ${cleanTitle}</option>`;
       });
 
       tocHTML += `<button class="toc-item" data-chapter="-2"> SONUÇ</button>`;
+      selectHTML += `<option value="-2"> SONUÇ</option>`;
       readerTocContainer.innerHTML = tocHTML;
+
+      const chapterSelect = document.getElementById("reader-chapter-select");
+      if (chapterSelect) {
+        chapterSelect.innerHTML = selectHTML;
+      }
 
       // Setup TOC clicks
       readerTocContainer.querySelectorAll(".toc-item").forEach(item => {
@@ -1222,9 +1231,25 @@ document.addEventListener("DOMContentLoaded", () => {
           readerTocContainer.querySelectorAll(".toc-item").forEach(i => i.classList.remove("active"));
           item.classList.add("active");
           const idx = parseInt(item.getAttribute("data-chapter"));
+          if (chapterSelect) chapterSelect.value = idx.toString();
           renderActiveChapter(idx);
         });
       });
+
+      if (chapterSelect) {
+        // Remove previous event listener just in case (will be overwritten or re-bound)
+        chapterSelect.onchange = (e) => {
+          const idx = parseInt(e.target.value);
+          readerTocContainer.querySelectorAll(".toc-item").forEach(item => {
+            if (parseInt(item.getAttribute("data-chapter")) === idx) {
+              item.classList.add("active");
+            } else {
+              item.classList.remove("active");
+            }
+          });
+          renderActiveChapter(idx);
+        };
+      }
 
       renderActiveChapter(-1);
 
@@ -1240,6 +1265,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Reset scroll
     readerTextContainer.scrollTop = 0;
+
+    // Sync dropdown select if it exists
+    const chapterSelect = document.getElementById("reader-chapter-select");
+    if (chapterSelect) {
+      chapterSelect.value = chapterIndex.toString();
+    }
 
     let contentHTML = "";
 
