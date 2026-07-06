@@ -1177,7 +1177,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   let currentBookData = null;
   let activeChapterIndex = -1; // -1: Prologue, >=0: Chapters, -2: Epilogue
-  let currentFontSize = 1.15; // rem
+  let readerFontSize = 1.15; // rem
 
   async function openBookReader(bookId) {
     try {
@@ -1325,18 +1325,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (fontIncrease) {
     fontIncrease.addEventListener("click", () => {
-      if (currentFontSize < 2.0) {
-        currentFontSize += 0.1;
-        readerTextContainer.style.fontSize = `${currentFontSize}rem`;
+      if (readerFontSize < 2.0) {
+        readerFontSize += 0.1;
+        readerTextContainer.style.fontSize = `${readerFontSize}rem`;
       }
     });
   }
 
   if (fontDecrease) {
     fontDecrease.addEventListener("click", () => {
-      if (currentFontSize > 0.8) {
-        currentFontSize -= 0.1;
-        readerTextContainer.style.fontSize = `${currentFontSize}rem`;
+      if (readerFontSize > 0.8) {
+        readerFontSize -= 0.1;
+        readerTextContainer.style.fontSize = `${readerFontSize}rem`;
       }
     });
   }
