@@ -2820,8 +2820,21 @@ ol.interactive-checklist li {
   .reader-sidebar {
     display: none; /* Hide sidebar on mobile for simplicity */
   }
+  .reader-modal .reader-modal-content {
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0;
+    max-width: 100%;
+    border: none;
+  }
+  .reader-toolbar {
+    padding: 0 1rem;
+    gap: 0.5rem;
+  }
   .reader-text-content {
-    padding: 2rem 1.5rem;
+    padding: 2rem 1.25rem;
+    font-size: 1.05rem;
+    line-height: 1.75;
   }
 }
 
