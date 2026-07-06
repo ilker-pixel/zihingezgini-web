@@ -2781,11 +2781,14 @@ ol.interactive-checklist li {
 
 /* Çıkarımlar Tablosu */
 .reader-table {
+  display: block;
   width: 100%;
+  overflow-x: auto;
   border-collapse: collapse;
   margin: 2rem 0;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   font-family: var(--font-sans);
+  -webkit-overflow-scrolling: touch;
 }
 
 .reader-table th, .reader-table td {
@@ -2824,17 +2827,35 @@ ol.interactive-checklist li {
     width: 100vw;
     height: 100vh;
     border-radius: 0;
-    max-width: 100%;
+    max-width: 100vw;
     border: none;
+    box-sizing: border-box;
+  }
+  .reader-layout {
+    width: 100vw;
+    max-width: 100vw;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  .reader-body {
+    width: 100vw;
+    max-width: 100vw;
+    overflow-x: hidden;
+    box-sizing: border-box;
   }
   .reader-toolbar {
     padding: 0 1rem;
     gap: 0.5rem;
+    box-sizing: border-box;
   }
   .reader-text-content {
-    padding: 2rem 1.25rem;
+    padding: 1.5rem 1rem;
     font-size: 1.05rem;
     line-height: 1.75;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
   }
 }
 
