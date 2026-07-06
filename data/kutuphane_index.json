@@ -178,5 +178,14 @@
     "desc": "Anaksimandros'un ilk dünya çiziminden Batlamyus'un coğrafya kılavuzuna, İdrisi ve Piri Reis'in eşsiz haritalarından Kolomb, Macellan ve Cook'un okyanus seferlerine, kutup maceralarından uzay çağının kozmik haritalarına uzanan yeryüzünün keşif hikayesi.",
     "cover": "covers/kesifler_ve_haritalar.png",
     "chapterCount": 100
+  },
+  {
+    "id": "kulturer_atlasi",
+    "title": "Kültürler Atlası",
+    "subtitle": "Kayıp Medeniyetler, Sıra Dışı Ritüeller ve Dünyanın Ucundaki Kabileler",
+    "category": "Antropoloji & Kültür",
+    "desc": "Sümerlerin bira ve ev yaşamından Viking gemi cenazelerine, Aborjinlerin düş zamanından Amazon'un zehirli ok kurbağası avcılarına, ölüleriyle yaşayan Torajalılardan çölün mavi peçeli göçebelerine uzanan insanlığın en sıra dışı kültür atlası.",
+    "cover": "covers/kulturer_atlasi.png",
+    "chapterCount": 100
   }
 ]
