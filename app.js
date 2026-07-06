@@ -1256,7 +1256,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <p class="reader-intro-subtitle">${currentBookData.subtitle}</p>
               <div class="reader-intro-stats">
                 <span class="stat-badge">📚 10 Cilt / 100 Bölüm</span>
-                <span class="stat-badge">📖 Tam Metin</span>
+                <a href="data/pdfs/${currentBookData.id}.pdf" download class="stat-badge download-btn" title="PDF olarak indir">📥 PDF İndir</a>
               </div>
               <p class="reader-intro-description">${currentBookData.desc || ""}</p>
             </div>
