@@ -142,5 +142,14 @@
     "desc": "Altamira mağarasındaki ilk bizon çizimlerinden antik Yunan heykellerine, Rönesans'ın perspektif devriminden Caravaggio'nun ışık-gölge dramasına, izlenimcilerin renk patlamalarından modern sürrealist rüyalara ve günümüz dijital sanatının sınırlarına uzanan estetiğin 30.000 yıllık görkemli tarihi.",
     "cover": "covers/sanat_tarihi.png",
     "chapterCount": 100
+  },
+  {
+    "id": "yasama_sanati",
+    "title": "Yaşama Sanatı",
+    "subtitle": "Stoacılık, Zen ve Ölümün Bilgeliğiyle Anda Kalmak",
+    "category": "Felsefe & Zihin",
+    "desc": "Doğu'nun dingin Zen meditasyonlarından Epikür'ün Atina'daki bahçesine, Stoacı imparator Marcus Aurelius'un ölümlülük bilincinden (Memento Mori) varoluşçuların isyanına ve modern çağın bilinçli farkındalık (Mindfulness) pratiklerine uzanan sakin ve anlamlı bir ömür sürme kılavuzu.",
+    "cover": "covers/yasama_sanati.png",
+    "chapterCount": 100
   }
 ]
