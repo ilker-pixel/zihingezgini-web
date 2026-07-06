@@ -2429,3 +2429,399 @@ ol.interactive-checklist li {
   height: 40px;
   outline: none;
 }
+
+/* ================= KÜTÜPHANE VE KİTAPLIK MİZANPAJI ================= */
+.library-layout {
+  padding: 1.5rem 0;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.library-header {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.library-header h2 {
+  font-family: var(--font-display);
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--color-text-main);
+  margin-bottom: 0.5rem;
+}
+
+.library-header p {
+  color: var(--color-text-muted);
+  font-size: 1.1rem;
+}
+
+.library-shelf-wrapper {
+  background: var(--color-card-bg);
+  border-radius: 16px;
+  padding: 3rem 2rem;
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+}
+
+.bookshelf-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 3rem 2.5rem;
+}
+
+/* Kitap Kartı Tasarımı */
+.book-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  perspective: 1000px;
+}
+
+.book-cover-wrapper {
+  width: 150px;
+  height: 215px;
+  border-radius: 4px 12px 12px 4px;
+  overflow: hidden;
+  box-shadow: 6px 10px 18px rgba(0, 0, 0, 0.4), 
+              inset 3px 0 5px rgba(255, 255, 255, 0.1);
+  position: relative;
+  transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1),
+              box-shadow 0.4s ease;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  background-color: #1e1916;
+}
+
+.book-cover-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.book-card:hover .book-cover-wrapper {
+  transform: rotateY(-12deg) translateZ(10px) scale(1.03);
+  box-shadow: 12px 18px 28px rgba(0, 0, 0, 0.55),
+              inset 4px 0 6px rgba(255, 255, 255, 0.15);
+}
+
+/* Kitap Sırt Çizgisi */
+.book-spine-shine {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10px;
+  height: 100%;
+  background: linear-gradient(to right, 
+              rgba(255,255,255,0.08) 0%, 
+              rgba(255,255,255,0.18) 25%, 
+              rgba(0,0,0,0.15) 75%, 
+              rgba(0,0,0,0.35) 100%);
+  border-right: 1px solid rgba(0,0,0,0.2);
+  z-index: 2;
+}
+
+.book-info {
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.book-title {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-text-main);
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
+}
+
+.book-author {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* ================= IMMERSIVE READER MODAL ================= */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal.active {
+  display: flex;
+}
+
+.modal-backdrop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(4px);
+}
+
+.reader-modal .reader-modal-content {
+  width: 95vw;
+  height: 92vh;
+  max-width: 1400px;
+  background-color: var(--color-bg);
+  border-radius: 16px;
+  box-shadow: 0 15px 50px rgba(0,0,0,0.5);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  border: 1px solid var(--color-border);
+  z-index: 2;
+}
+
+.reader-close-btn {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--color-border);
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  cursor: pointer;
+  z-index: 10;
+  color: var(--color-text-main);
+  transition: all 0.2s ease;
+}
+
+.reader-close-btn:hover {
+  background: var(--color-accent);
+  color: #000;
+}
+
+.reader-layout {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+/* Reader Sol Panel (TOC) */
+.reader-sidebar {
+  width: 280px;
+  background: rgba(0, 0, 0, 0.15);
+  border-right: 1px solid var(--color-border);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding-top: 1.5rem;
+}
+
+.reader-book-meta {
+  padding: 0 1.5rem 1.5rem 1.5rem;
+  border-bottom: 1px dashed var(--color-border);
+}
+
+.reader-book-meta h4 {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--color-text-main);
+  line-height: 1.3;
+}
+
+.reader-book-category {
+  font-size: 0.75rem;
+  color: var(--color-accent);
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.reader-toc {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem 0.5rem;
+}
+
+.toc-item {
+  display: block;
+  width: 100%;
+  padding: 0.65rem 1rem;
+  text-align: left;
+  border: none;
+  background: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+  border-radius: 6px;
+  cursor: pointer;
+  color: var(--color-text-main);
+  transition: all 0.2s ease;
+  margin-bottom: 0.2rem;
+  line-height: 1.3;
+}
+
+.toc-item:hover {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.toc-item.active {
+  background: rgba(var(--color-accent-rgb, 196, 146, 74), 0.1);
+  color: var(--color-accent);
+  font-weight: 600;
+  border-left: 3px solid var(--color-accent);
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.toc-header {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  padding: 0.75rem 1rem 0.25rem 1rem;
+  letter-spacing: 0.5px;
+}
+
+/* Reader Sağ Panel (Metin Alanı) */
+.reader-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: var(--color-bg);
+}
+
+.reader-toolbar {
+  height: 60px;
+  border-bottom: 1px solid var(--color-border);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 1rem;
+  padding: 0 2rem;
+}
+
+.font-controls {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.tool-btn {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--color-border);
+  padding: 0.35rem 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  color: var(--color-text-main);
+  transition: all 0.2s ease;
+}
+
+.tool-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.reader-text-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 3rem 4rem;
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  line-height: 1.85;
+  color: var(--color-text-main);
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.reader-text-content h1 {
+  font-family: var(--font-display);
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--color-accent);
+  line-height: 1.25;
+  margin-bottom: 1rem;
+}
+
+.reader-text-content h2 {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--color-text-main);
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  border-bottom: 1px dashed var(--color-border);
+  padding-bottom: 0.5rem;
+}
+
+.reader-text-content p {
+  margin-bottom: 1.5rem;
+  text-align: justify;
+}
+
+/* Bölüm Sonu Alıntı Kutusu */
+.reader-quote-box {
+  background-color: rgba(255, 255, 255, 0.01);
+  border-left: 3px solid var(--color-accent);
+  padding: 1.2rem 1.8rem;
+  font-style: italic;
+  color: var(--color-text-muted);
+  margin: 2.5rem 0;
+  border-radius: 0 8px 8px 0;
+  font-size: 1.08rem;
+  line-height: 1.65;
+}
+
+/* Çıkarımlar Tablosu */
+.reader-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 0.95rem;
+  font-family: var(--font-sans);
+}
+
+.reader-table th, .reader-table td {
+  border: 1px solid var(--color-border);
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+
+.reader-table th {
+  background-color: rgba(255, 255, 255, 0.03);
+  font-weight: 700;
+  color: var(--color-text-main);
+}
+
+.reader-table tr:nth-child(even) td {
+  background-color: rgba(255, 255, 255, 0.01);
+}
+
+/* Gece Modu Stiller */
+.reader-dark-mode {
+  --color-bg: #15110e;
+  --color-text-main: #e8e2dd;
+  --color-text-muted: #a69b92;
+  --color-border: #28221f;
+}
+
+.reader-dark-mode .reader-sidebar {
+  background: rgba(0, 0, 0, 0.25);
+}
+
+@media (max-width: 768px) {
+  .reader-sidebar {
+    display: none; /* Hide sidebar on mobile for simplicity */
+  }
+  .reader-text-content {
+    padding: 2rem 1.5rem;
+  }
+}
+

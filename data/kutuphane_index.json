@@ -1,0 +1,110 @@
+[
+  {
+    "id": "kozmosun_biyografisi",
+    "title": "Kozmosun Biyografisi",
+    "subtitle": "Saf Fizik ve Astrofiziğin 10 Ciltlik Evrensel Tarihi",
+    "category": "Fizik & Kozmoloji",
+    "desc": "Big Bang'den başlayıp yıldızların doğumuna, elementlerin nükleer sentezine ve evrenin ısı ölümüne uzanan, içinde Dünya'nın olmadığı saf fizik ve astrofizik tarihi.",
+    "cover": "covers/kozmosun_biyografisi.png",
+    "chapterCount": 100
+  },
+  {
+    "id": "hayatin_kimyasi",
+    "title": "Hayatın Kimyası ve Abiyogenez",
+    "subtitle": "Cansızlıktan Canlılığa Geçişin Kozmik ve Biyolojik Biyografisi",
+    "category": "Prebiyotik Kimya",
+    "desc": "Elementlerin yıldızlardan gelip suyun polaritesinde kovalent bağlarla birleşmesinden, lipit membran veziküllerine ve ilk replikasyon yapan RNA/DNA yapılarına uzanan prebiyotik kimya rehberi.",
+    "cover": "covers/hayatin_kimyasi.png",
+    "chapterCount": 100
+  },
+  {
+    "id": "evrimin_biyografisi",
+    "title": "Evrimin Biyografisi",
+    "subtitle": "Jeolojik Zamanlar ve Biyoçeşitliliğin Tarihi",
+    "category": "Biyoloji & Paleontoloji",
+    "desc": "İlk atasal prokaryotlardan, Kambriyen patlamasına, karaya çıkışa, dev dinozorların hükümranlığına, göktaşı çarpması nükleer kışına ve insanın şafağına uzanan 3.8 milyar yıllık evrimsel süreç.",
+    "cover": "covers/evrimin_biyografisi.png",
+    "chapterCount": 100
+  },
+  {
+    "id": "zihniyetler_tarihi",
+    "title": "Zihniyetler Tarihi",
+    "subtitle": "İnsan Bilişinin ve Algısının 10 Ciltlik Evrimi",
+    "category": "Bilişsel Tarih & Antropoloji",
+    "desc": "İnsanın bilişsel gelişimini, dünyayı algılama biçimlerini, inançların ve kolektif zihniyet yapılarının çağlar boyunca değişimini ele alan kurucu eserimiz.",
+    "cover": "covers/zihniyetler_tarihi.png",
+    "chapterCount": 100
+  },
+  {
+    "id": "felsefe_tarihi",
+    "title": "Felsefe Tarihi",
+    "subtitle": "Fikirlerin ve Teorilerin 10 Ciltlik Entelektüel Serüveni",
+    "category": "Felsefe",
+    "desc": "Thales'ten başlayıp Sokrates'e, Orta Çağ dogmalarına, Aydınlanma Çağı'na, varoluşçuluğa ve modern bilim felsefesine uzanan düşünce tarihinin 100 büyük durağı.",
+    "cover": "covers/felsefe_tarihi.png",
+    "chapterCount": 100
+  },
+  {
+    "id": "edebiyat_tarihi",
+    "title": "Edebiyatın Harmanlanmış Tarihi",
+    "subtitle": "İlk Anlatılardan Modern Romana Hikayelerin Evrimi",
+    "category": "Edebiyat & Mitoloji",
+    "desc": "İlk sözlü mitolojilerden Gılgamış'a, Homeros destanlarından Shakespeare'e, klasisizmden modern romana ve dijital anlatılara kadar uzanan insan hikayelerinin ve kurgunun evrimi.",
+    "cover": "covers/edebiyat_tarihi.png",
+    "chapterCount": 100
+  },
+  {
+    "id": "bilimsel_yanilgilar",
+    "title": "Bilimsel Yanılgılar Tarihi",
+    "subtitle": "İnsanlığın Doğru Kabul Ettiği Büyük Yanlış Varsayımlar",
+    "category": "Bilim Tarihi",
+    "desc": "Simyadan düz dünya teorilerine, phlogiston kuramından öjenik teorilerine kadar insanlığın doğru kabul ettiği ama bilimin ilerlemesiyle yıkılan büyük entelektüel yanılgıları.",
+    "cover": "covers/bilimsel_yanilgilar.png",
+    "chapterCount": 100
+  },
+  {
+    "id": "maddi_kultur",
+    "title": "Maddi Kültür ve İcatlar Tarihi",
+    "subtitle": "İlk Taş Aletlerden Modern Teknolojik Nesnelere Aletlerin Evrimi",
+    "category": "Maddi Kültür & Teknoloji",
+    "desc": "İlk taş aletlerden tekerleğe, yazı tahtasından matbaaya, buhar makinesinden telgrafa kadar insan yapımı fiziksel objelerin maddi tarihi.",
+    "cover": "covers/maddi_kultur.png",
+    "chapterCount": 100
+  },
+  {
+    "id": "gundelik_hayat",
+    "title": "Gündelik Hayatın Tarihi",
+    "subtitle": "Sıradan İnsanların Sosyal Mikrotarih Çalışması",
+    "category": "Sosyal Tarih",
+    "desc": "Büyük komutanlar yerine sıradan insanların çağlar boyunca nasıl beslendiğini, nasıl barındığını, temizlendiğini, giyindiğini ve uyuduğunu anlatan sosyal mikrotarih çalışması.",
+    "cover": "covers/gundelik_hayat.png",
+    "chapterCount": 100
+  },
+  {
+    "id": "iktidarin_tarihi",
+    "title": "İktidarın ve Takasın Tarihi",
+    "subtitle": "Kanunların, Paranın ve İmparatorlukların Evrimi",
+    "category": "Siyasi & Askeri Tarih",
+    "desc": "Sümer yasalarından Roma lejyonlarına, Moğol istilalarından dünya savaşlarına, paranın icadından modern siber ve jeopolitik güç mücadelelerine uzanan devletlerin ve savaşların tarihi.",
+    "cover": "covers/iktidarin_tarihi.png",
+    "chapterCount": 100
+  },
+  {
+    "id": "dijital_akil",
+    "title": "Dijital Aklın Arkeolojisi",
+    "subtitle": "Mikroçiplerden Yapay Zekaya Hesaplama Tarihi",
+    "category": "Bilgisayar & Enformasyon",
+    "desc": "Abaküsten ilk mekanik hesap makinelerine, vakum tüplerinden transistör ve mikroçiplere, internetten yapay zeka sinir ağlarına uzanan bilgisayar ve enformasyon tarihi.",
+    "cover": "covers/dijital_akil.png",
+    "chapterCount": 100
+  },
+  {
+    "id": "gelecegin_tarihi",
+    "title": "Geleceğin Tarihi",
+    "subtitle": "2026 Sonrası Yakın ve Uzak Gelecek Senaryoları",
+    "category": "Fütürizm",
+    "desc": "2026 sonrası yakın dönem transhümanist dönüşümlerden, Güneş Sistemi'nin kolonizasyonuna, galaktik medeniyetlerin doğuşuna ve milyarlarca yıl sonraki kozmik yalnızlık çağlarına uzanan fütüristik biyografi.",
+    "cover": "covers/gelecegin_tarihi.png",
+    "chapterCount": 100
+  }
+]

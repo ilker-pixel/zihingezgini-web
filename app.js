@@ -7,19 +7,36 @@ document.addEventListener("DOMContentLoaded", () => {
     post: document.getElementById("view-post"),
     about: document.getElementById("view-about"),
     roadmap: document.getElementById("view-roadmap"),
-    bookSummary: document.getElementById("view-book-summary")
+    bookSummary: document.getElementById("view-book-summary"),
+    library: document.getElementById("view-library")
   };
   
   const navLinks = {
     home: document.getElementById("nav-home"),
     about: document.getElementById("nav-about"),
     roadmap: document.getElementById("nav-roadmap"),
-    random: document.getElementById("nav-random")
+    random: document.getElementById("nav-random"),
+    library: document.getElementById("nav-library")
   };
   
   const postsGrid = document.getElementById("posts-grid");
   const postDetail = document.getElementById("post-detail");
   const filterBtns = document.querySelectorAll(".filter-btn");
+
+  // Library DOM
+  const bookshelfContainer = document.getElementById("bookshelf-container");
+  const readerModal = document.getElementById("reader-modal");
+  const readerClose = document.getElementById("reader-close");
+  const readerBookTitle = document.getElementById("reader-book-title");
+  const readerBookCategory = document.getElementById("reader-book-category");
+  const readerTocContainer = document.getElementById("reader-toc-container");
+  const readerTextContainer = document.getElementById("reader-text-container");
+  const fontDecrease = document.getElementById("font-decrease");
+  const fontIncrease = document.getElementById("font-increase");
+  const readerThemeToggle = document.getElementById("reader-theme-toggle");
+  const readerBackdrop = document.getElementById("reader-backdrop");
+  
+  let libraryData = [];
   
   let allPosts = [];
   let quotes = [];
@@ -923,6 +940,15 @@ document.addEventListener("DOMContentLoaded", () => {
         "https://zihingezgini.net/images/thinking_man_sketch.png"
       );
       setupRoadmap();
+    } else if (hash === "#/library") {
+      views.library.classList.add("active");
+      if (navLinks.library) navLinks.library.classList.add("active");
+      updateMetaTags(
+        "Zihin Gezgini | Kitaplık ve Kütüphane",
+        "Yazdığımız 12 ciltlik ve 100 bölümlük anıtsal kozmik, bilimsel ve felsefi kitaplar külliyatı.",
+        "https://zihingezgini.net/images/thinking_man_sketch.png"
+      );
+      renderLibrary();
     } else if (hash.startsWith("#/book/") && hash.endsWith("/summary")) {
       const match = hash.match(/#\/book\/(\d+)\/summary/);
       if (match) {
@@ -1086,8 +1112,241 @@ document.addEventListener("DOMContentLoaded", () => {
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape") {
       closeGuideModal();
+      if (readerModal && readerModal.classList.contains("active")) {
+        closeReaderModal();
+      }
     }
   });
+
+  // ================= KÜTÜPHANE VE E-KİTAP OKUYUCU MANTIĞI =================
+  async function renderLibrary(searchQuery = "") {
+    if (libraryData.length === 0) {
+      try {
+        bookshelfContainer.innerHTML = `<div class="loading-placeholder">Kitaplık yükleniyor...</div>`;
+        const res = await fetch("/data/kutuphane_index.json");
+        if (res.ok) {
+          libraryData = await res.json();
+        } else {
+          bookshelfContainer.innerHTML = `<div class="loading-placeholder">Kitap listesi yüklenemedi.</div>`;
+          return;
+        }
+      } catch (e) {
+        console.error("Error loading library index:", e);
+        bookshelfContainer.innerHTML = `<div class="loading-placeholder">Kitaplık yüklenirken hata oluştu.</div>`;
+        return;
+      }
+    }
+
+    let filtered = [...libraryData];
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      filtered = filtered.filter(b => 
+        b.title.toLowerCase().includes(q) || 
+        b.subtitle.toLowerCase().includes(q) || 
+        b.category.toLowerCase().includes(q)
+      );
+    }
+
+    if (filtered.length === 0) {
+      bookshelfContainer.innerHTML = `<div class="loading-placeholder">Aranan kitap bulunamadı.</div>`;
+      return;
+    }
+
+    bookshelfContainer.innerHTML = filtered.map(book => {
+      return `
+        <div class="book-card" data-book-id="${book.id}">
+          <div class="book-cover-wrapper">
+            <div class="book-spine-shine"></div>
+            <img class="book-cover-img" src="${book.cover}" alt="${book.title} kapağı">
+          </div>
+          <div class="book-info">
+            <h4 class="book-title">${book.title}</h4>
+            <span class="book-author">${book.category}</span>
+          </div>
+        </div>
+      `;
+    }).join('');
+
+    bookshelfContainer.querySelectorAll(".book-card").forEach(card => {
+      card.addEventListener("click", () => {
+        const bookId = card.getAttribute("data-book-id");
+        openBookReader(bookId);
+      });
+    });
+  }
+
+  let currentBookData = null;
+  let activeChapterIndex = -1; // -1: Prologue, >=0: Chapters, -2: Epilogue
+  let currentFontSize = 1.15; // rem
+
+  async function openBookReader(bookId) {
+    try {
+      readerTextContainer.innerHTML = `<div class="loading-placeholder">Kitap yükleniyor...</div>`;
+      readerModal.classList.add("active");
+      document.body.style.overflow = "hidden";
+
+      const res = await fetch(`/data/books/${bookId}.json`);
+      if (!res.ok) {
+        readerTextContainer.innerHTML = `<div class="loading-placeholder">Kitap içeriği yüklenemedi.</div>`;
+        return;
+      }
+
+      const book = await res.json();
+      currentBookData = book;
+      readerBookTitle.textContent = book.title;
+      readerBookCategory.textContent = book.category;
+
+      // Render Table of Contents
+      let tocHTML = ``;
+      tocHTML += `<button class="toc-item active" data-chapter="-1"> GİRİŞ</button>`;
+      
+      let currentPart = "";
+      book.chapters.forEach((ch, idx) => {
+        const match = ch.title.match(/Bölüm (\d+):/);
+        const chNum = match ? parseInt(match[1]) : idx + 1;
+        const ciltNum = Math.floor((chNum - 1) / 10) + 1;
+        const voltitle = `CİLT ${ciltNum}`;
+        if (voltitle !== currentPart) {
+          currentPart = voltitle;
+          tocHTML += `<div class="toc-header">${currentPart}</div>`;
+        }
+        tocHTML += `<button class="toc-item" data-chapter="${idx}">Bölüm ${chNum}: ${ch.title.split(": ")[1] || ch.title}</button>`;
+      });
+
+      tocHTML += `<button class="toc-item" data-chapter="-2"> SONUÇ</button>`;
+      readerTocContainer.innerHTML = tocHTML;
+
+      // Setup TOC clicks
+      readerTocContainer.querySelectorAll(".toc-item").forEach(item => {
+        item.addEventListener("click", () => {
+          readerTocContainer.querySelectorAll(".toc-item").forEach(i => i.classList.remove("active"));
+          item.classList.add("active");
+          const idx = parseInt(item.getAttribute("data-chapter"));
+          renderActiveChapter(idx);
+        });
+      });
+
+      renderActiveChapter(-1);
+
+    } catch (e) {
+      console.error("Error loading book:", e);
+      readerTextContainer.innerHTML = `<div class="loading-placeholder">Kitap yüklenirken hata oluştu.</div>`;
+    }
+  }
+
+  function renderActiveChapter(chapterIndex) {
+    if (!currentBookData) return;
+    activeChapterIndex = chapterIndex;
+
+    // Reset scroll
+    readerTextContainer.scrollTop = 0;
+
+    let contentHTML = "";
+
+    if (chapterIndex === -1) {
+      contentHTML = `
+        <h1>Giriş</h1>
+        <div style="margin-top: 2rem;">
+          <p>${currentBookData.intro}</p>
+        </div>
+      `;
+    } else if (chapterIndex === -2) {
+      contentHTML = `
+        <h1>Sonuç</h1>
+        <div style="margin-top: 2rem;">
+          <p>${currentBookData.conclusion}</p>
+        </div>
+      `;
+    } else {
+      const ch = currentBookData.chapters[chapterIndex];
+      const subsectionsHTML = ch.subsections.map(sub => {
+        return `
+          <h2>${sub.title}</h2>
+          <p>${sub.text}</p>
+        `;
+      }).join('');
+
+      let quoteHTML = "";
+      if (ch.quote) {
+        quoteHTML = `
+          <div class="reader-quote-box">
+            "${ch.quote}"
+          </div>
+        `;
+      }
+
+      let takeawaysHTML = "";
+      if (ch.takeaways && ch.takeaways.length > 0) {
+        const rowsHTML = ch.takeaways.map(t => {
+          return `
+            <tr>
+              <td><strong>${t[0]}</strong></td>
+              <td>${t[1]}</td>
+            </tr>
+          `;
+        }).join('');
+        
+        takeawaysHTML = `
+          <h2 style="margin-top: 3rem;">Bölümün Anahtar Çıkarımları</h2>
+          <table class="reader-table">
+            <thead>
+              <tr>
+                <th style="width: 30%;">Evrimsel Aşama</th>
+                <th>Jeolojik Sonuç / Önem</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${rowsHTML}
+            </tbody>
+          </table>
+        `;
+      }
+
+      contentHTML = `
+        <h1>${ch.title}</h1>
+        ${quoteHTML}
+        ${subsectionsHTML}
+        ${takeawaysHTML}
+      `;
+    }
+
+    readerTextContainer.innerHTML = contentHTML;
+  }
+
+  function closeReaderModal() {
+    readerModal.classList.remove("active");
+    document.body.style.overflow = "";
+    currentBookData = null;
+    activeChapterIndex = -1;
+  }
+
+  if (readerClose) readerClose.addEventListener("click", closeReaderModal);
+  if (readerBackdrop) readerBackdrop.addEventListener("click", closeReaderModal);
+
+  if (fontIncrease) {
+    fontIncrease.addEventListener("click", () => {
+      if (currentFontSize < 2.0) {
+        currentFontSize += 0.1;
+        readerTextContainer.style.fontSize = `${currentFontSize}rem`;
+      }
+    });
+  }
+
+  if (fontDecrease) {
+    fontDecrease.addEventListener("click", () => {
+      if (currentFontSize > 0.8) {
+        currentFontSize -= 0.1;
+        readerTextContainer.style.fontSize = `${currentFontSize}rem`;
+      }
+    });
+  }
+
+  if (readerThemeToggle) {
+    readerThemeToggle.addEventListener("click", () => {
+      readerModal.querySelector(".reader-modal-content").classList.toggle("reader-dark-mode");
+    });
+  }
+
 
   // Initialize App Elements
   loadQuotes();
