@@ -3049,3 +3049,86 @@ ol.interactive-checklist li {
     font-size: 1.25rem !important;
   }
 }
+
+/* ================= MOBILE DRAWER & LIBRARY GRID IMPROVEMENTS ================= */
+
+/* 3-Column Library Grid on Desktop */
+.bookshelf-grid {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 3rem 2.5rem !important;
+}
+
+/* Mobile Adjustments for Library Grid */
+@media (max-width: 768px) {
+  .bookshelf-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 2rem 1.25rem !important;
+  }
+  .book-cover-wrapper {
+    width: 120px !important;
+    height: 172px !important;
+  }
+  .book-info {
+    margin-top: 0.75rem !important;
+  }
+}
+
+/* Mobile Drawer styles for reader-sidebar */
+.reader-sidebar-mobile-header {
+  display: none;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.sidebar-close-mobile-btn {
+  background: none;
+  border: none;
+  color: var(--color-text-muted);
+  font-size: 1.25rem;
+  cursor: pointer;
+  padding: 0.25rem;
+}
+
+.mobile-toc-toggle-btn {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .reader-sidebar {
+    display: flex !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: -290px !important; /* Start hidden off-screen */
+    width: 280px !important;
+    height: 100vh !important;
+    z-index: 3000 !important;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 5px 0 25px rgba(0,0,0,0.6) !important;
+    background: #1e1916 !important; /* dark theme base color */
+  }
+
+  .reader-dark-mode .reader-sidebar {
+    background: #15110e !important;
+  }
+  
+  .reader-sidebar.active {
+    transform: translateX(290px) !important; /* Slide in */
+  }
+
+  .reader-sidebar-mobile-header {
+    display: flex !important;
+  }
+  
+  .mobile-toc-toggle-btn {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .reader-mobile-toc-container {
+    display: none !important; /* Hide old select dropdown */
+  }
+}

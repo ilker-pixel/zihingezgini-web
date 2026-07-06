@@ -1233,6 +1233,12 @@ document.addEventListener("DOMContentLoaded", () => {
           const idx = parseInt(item.getAttribute("data-chapter"));
           if (chapterSelect) chapterSelect.value = idx.toString();
           renderActiveChapter(idx);
+          
+          // Close mobile sidebar if active
+          const sidebar = document.querySelector(".reader-sidebar");
+          if (sidebar) {
+            sidebar.classList.remove("active");
+          }
         });
       });
 
@@ -1364,6 +1370,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function closeReaderModal() {
     readerModal.classList.remove("active");
+    const sidebar = document.querySelector(".reader-sidebar");
+    if (sidebar) {
+      sidebar.classList.remove("active");
+    }
     document.body.style.overflow = "";
     currentBookData = null;
     activeChapterIndex = -1;
@@ -1371,6 +1381,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (readerClose) readerClose.addEventListener("click", closeReaderModal);
   if (readerBackdrop) readerBackdrop.addEventListener("click", closeReaderModal);
+
+  // Mobile drawer controls
+  const readerTocToggle = document.getElementById("reader-toc-toggle");
+  const readerSidebar = document.querySelector(".reader-sidebar");
+  const readerSidebarCloseMobile = document.getElementById("reader-sidebar-close-mobile");
+
+  if (readerTocToggle && readerSidebar) {
+    readerTocToggle.addEventListener("click", () => {
+      readerSidebar.classList.toggle("active");
+    });
+  }
+
+  if (readerSidebarCloseMobile && readerSidebar) {
+    readerSidebarCloseMobile.addEventListener("click", () => {
+      readerSidebar.classList.remove("active");
+    });
+  }
 
   if (fontIncrease) {
     fontIncrease.addEventListener("click", () => {

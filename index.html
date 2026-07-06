@@ -261,6 +261,10 @@
       <div class="reader-layout">
         <!-- Left Panel: Sidebar Table of Contents -->
         <aside class="reader-sidebar">
+          <div class="reader-sidebar-mobile-header">
+            <h4>Bölümler</h4>
+            <button id="reader-sidebar-close-mobile" class="sidebar-close-mobile-btn">✕</button>
+          </div>
           <div class="reader-book-meta">
             <h4 id="reader-book-title">Kitap Başlığı</h4>
             <span id="reader-book-category">Kategori</span>
@@ -273,6 +277,7 @@
         <!-- Right Panel: Main Text Reader -->
         <main class="reader-body">
           <div class="reader-toolbar">
+            <button id="reader-toc-toggle" class="tool-btn mobile-toc-toggle-btn">☰ Fihrist</button>
             <div class="font-controls">
               <button id="font-decrease" class="tool-btn">A-</button>
               <button id="font-increase" class="tool-btn">A+</button>
