@@ -160,5 +160,14 @@
     "desc": "Cervantes'in şövalyelik hicvinden Mary Shelley'nin gotik dehşetine, Balzac ve Tolstoy'un gerçekçi panoramalarından Virginia Woolf'un bilinç akışına, Márquez'in büyülü gerçekçiliğinden Orwell'in distopyalarına uzanan kurmaca dünyaların 400 yıllık görkemli serüveni.",
     "cover": "covers/romanin_tarihi.png",
     "chapterCount": 100
+  },
+  {
+    "id": "mitoloji_tarihi",
+    "title": "Mitoloji Tarihi",
+    "subtitle": "Efsaneler, Canavarlar ve Kahramanların Antik Serüveni",
+    "category": "Tarih & Mitoloji",
+    "desc": "Sümerlerin tufan efsanelerinden Mısır'ın güneş tanrılarına, Olimpos'un zirvesindeki tanrılardan İskandinav karlarındaki Ragnarok kıyametine, Kelt ormanlarındaki doğa kültlerinden Aztek güneş piramitlerine uzanan insanlığın ebedi hayal gücü tarihi.",
+    "cover": "covers/mitoloji_tarihi.png",
+    "chapterCount": 100
   }
 ]
