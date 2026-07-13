@@ -1,6 +1,15 @@
 // Zihin Gezgini - Core Application Script
 
 document.addEventListener("DOMContentLoaded", () => {
+  // The standalone local preview can provide an asset resolver. On the live
+  // site this simply returns the original path unchanged.
+  const resolveAssetPath = (path) => {
+    if (typeof window.__ZG_ASSET_RESOLVER__ === "function") {
+      return window.__ZG_ASSET_RESOLVER__(path);
+    }
+    return path;
+  };
+
   // Router elements
   const views = {
     home: document.getElementById("view-home"),
@@ -85,7 +94,7 @@ document.addEventListener("DOMContentLoaded", () => {
       twImage: document.getElementById("twitter-image")
     };
     
-    const finalDesc = description || "Hayatın ritminden kaçanlar, anı yaşamak isteyenler ve filozof monologları üzerine felsefi düşünceler.";
+    const finalDesc = description || "Yapay zekâ çağında insan kalma çabası. İlker Manavoğlu'nun kişisel yazıları, okuma notları ve analog üretimleri.";
     const finalImg = image || "https://zihingezgini.net/images/thinking_man_sketch.png";
     const finalTitle = title;
     
@@ -141,9 +150,9 @@ document.addEventListener("DOMContentLoaded", () => {
     // Slice posts to only show the requested number
     const visiblePosts = filteredPosts.slice(0, postsToShow);
     
-    visiblePosts.forEach(post => {
+    visiblePosts.forEach((post, index) => {
       const card = document.createElement("a");
-      card.className = "post-card";
+      card.className = index === 0 ? "post-card post-card--featured" : "post-card";
       card.href = `#/post/${post.slug}`;
       
       const imgHtml = post.featuredImage 
@@ -776,7 +785,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Load Book Summary Dynamically
   async function loadBookSummary(bookNo) {
-    const readerTitle = document.getElementById("reader-book-title");
+    const readerTitle = document.getElementById("summary-reader-book-title");
     const readerAuthor = document.getElementById("reader-book-author");
     const readerNo = document.getElementById("reader-book-no");
     const readerSubtitle = document.getElementById("reader-book-subtitle");
@@ -802,7 +811,7 @@ document.addEventListener("DOMContentLoaded", () => {
       readerSubtitle.textContent = data.subtitle || "";
       
       if (readerCoverImg) {
-        readerCoverImg.src = data.coverImage || "/images/hawking_space_time_sketch.png";
+        readerCoverImg.src = data.coverImage || resolveAssetPath("/images/hawking_space_time_sketch.png");
       }
       
       if (readerOriginal) readerOriginal.textContent = data.meta.originalTitle || "";
@@ -912,8 +921,8 @@ document.addEventListener("DOMContentLoaded", () => {
       views.home.classList.add("active");
       if (navLinks.home) navLinks.home.classList.add("active");
       updateMetaTags(
-        "Zihin Gezgini | Yazılar",
-        "Hayatın ritminden kaçanlar, anı yaşamak isteyenler ve filozof monologları üzerine felsefi düşünceler.",
+        "Zihin Gezgini | Kişisel Düşünce Arşivi",
+        "Yapay zekâ çağında insan kalma çabası. İlker Manavoğlu'nun kişisel yazıları, okuma notları ve analog üretimleri.",
         "https://zihingezgini.net/images/thinking_man_sketch.png"
       );
       postsToShow = 9; // Reset pagination!
@@ -944,8 +953,8 @@ document.addEventListener("DOMContentLoaded", () => {
       views.library.classList.add("active");
       if (navLinks.library) navLinks.library.classList.add("active");
       updateMetaTags(
-        "Zihin Gezgini | Kitaplık ve Kütüphane",
-        "Yazdığımız 12 ciltlik ve 100 bölümlük anıtsal kozmik, bilimsel ve felsefi kitaplar külliyatı.",
+        "Zihin Gezgini | Araştırma Arşivi",
+        "Yapay zekâ desteğiyle hazırlanan 21 kapsamlı araştırma çalışması: özgün üretime kaynak olan dijital çalışma masası.",
         "https://zihingezgini.net/images/thinking_man_sketch.png"
       );
       renderLibrary();
@@ -1012,21 +1021,35 @@ document.addEventListener("DOMContentLoaded", () => {
   // Theme Toggle Logic
   const themeToggleBtn = document.getElementById("theme-toggle");
   
-  // Read saved theme or default to dark
-  const savedTheme = localStorage.getItem("zg_theme") || "dark";
+  // Read saved theme or begin with the warm paper theme.
+  const savedTheme = localStorage.getItem("zg_theme") || "light";
+  function updateThemeButton(isDark) {
+    if (!themeToggleBtn) return;
+    themeToggleBtn.textContent = isDark ? "☀" : "◐";
+    const label = isDark ? "Gündüz moduna geç" : "Gece moduna geç";
+    themeToggleBtn.title = label;
+    themeToggleBtn.setAttribute("aria-label", label);
+  }
+
+  function applyTheme(isDark) {
+    document.body.classList.toggle("dark-theme", isDark);
+    document.documentElement.classList.toggle("dark-theme", isDark);
+    document.documentElement.classList.toggle("light-theme", !isDark);
+    document.documentElement.style.colorScheme = isDark ? "dark" : "light";
+    updateThemeButton(isDark);
+  }
+
   if (savedTheme === "dark") {
-    document.body.classList.add("dark-theme");
-    if (themeToggleBtn) themeToggleBtn.textContent = "☀️";
+    applyTheme(true);
   } else {
-    document.body.classList.remove("dark-theme");
-    if (themeToggleBtn) themeToggleBtn.textContent = "🌓";
+    applyTheme(false);
   }
 
   if (themeToggleBtn) {
     themeToggleBtn.addEventListener("click", () => {
-      const isDark = document.body.classList.toggle("dark-theme");
+      const isDark = !document.body.classList.contains("dark-theme");
+      applyTheme(isDark);
       localStorage.setItem("zg_theme", isDark ? "dark" : "light");
-      themeToggleBtn.textContent = isDark ? "☀️" : "🌓";
     });
   }
 
@@ -1285,7 +1308,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <div class="reader-intro-page">
           <div class="reader-intro-grid">
             <div class="reader-intro-cover-container">
-              <img src="covers/${currentBookData.id}.png" class="reader-intro-cover" alt="${currentBookData.title} Kapağı">
+              <img src="${resolveAssetPath('covers/' + currentBookData.id + '.png')}" class="reader-intro-cover" alt="${currentBookData.title} Kapağı">
             </div>
             <div class="reader-intro-details">
               <span class="reader-intro-category">${currentBookData.category}</span>
@@ -1293,7 +1316,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <p class="reader-intro-subtitle">${currentBookData.subtitle}</p>
               <div class="reader-intro-stats">
                 <span class="stat-badge">📚 10 Cilt / 100 Bölüm</span>
-                <a href="/data/pdfs/${currentBookData.id}.pdf" download class="stat-badge download-btn" title="PDF olarak indir">📥 PDF İndir</a>
+                <a href="${resolveAssetPath('/data/pdfs/' + currentBookData.id + '.pdf')}" download class="stat-badge download-btn" title="PDF olarak indir">📥 PDF İndir</a>
               </div>
               <p class="reader-intro-description">${currentBookData.desc || ""}</p>
             </div>
