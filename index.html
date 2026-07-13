@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="tr" class="light-theme">
 <head>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-0JV113Z5L4"></script>
@@ -12,25 +12,25 @@
   </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Zihin Gezgini</title>
+  <title>Zihin Gezgini | Kişisel Düşünce Arşivi</title>
   <link rel="icon" type="image/png" href="/images/zihin_gezgini_logo_sketch.png">
   
   <!-- SEO Meta Tags -->
-  <meta name="description" content="Hayatın ritminden kaçanlar, anı yaşamak isteyenler ve filozof monologları üzerine felsefi düşünceler.">
+  <meta name="description" content="Yapay zekâ çağında insan kalma çabası. İlker Manavoğlu'nun kişisel yazıları, okuma notları ve analog üretimleri.">
   <meta name="author" content="İlker Manavoğlu">
   
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://zihingezgini.net/">
-  <meta property="og:title" id="og-title" content="Zihin Gezgini">
-  <meta property="og:description" id="og-description" content="Hayatın ritminden kaçanlar, anı yaşamak isteyenler ve filozof monologları üzerine felsefi düşünceler.">
+  <meta property="og:title" id="og-title" content="Zihin Gezgini | Kişisel Düşünce Arşivi">
+  <meta property="og:description" id="og-description" content="Yapay zekâ çağında insan kalma çabası. İlker Manavoğlu'nun kişisel yazıları, okuma notları ve analog üretimleri.">
   <meta property="og:image" id="og-image" content="https://zihingezgini.net/images/thinking_man_sketch.png">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="https://zihingezgini.net/">
-  <meta property="twitter:title" id="twitter-title" content="Zihin Gezgini">
-  <meta property="twitter:description" id="twitter-description" content="Hayatın ritminden kaçanlar, anı yaşamak isteyenler ve filozof monologları üzerine felsefi düşünceler.">
+  <meta property="twitter:title" id="twitter-title" content="Zihin Gezgini | Kişisel Düşünce Arşivi">
+  <meta property="twitter:description" id="twitter-description" content="Yapay zekâ çağında insan kalma çabası. İlker Manavoğlu'nun kişisel yazıları, okuma notları ve analog üretimleri.">
   <meta property="twitter:image" id="twitter-image" content="https://zihingezgini.net/images/thinking_man_sketch.png">
 
   <!-- Google Site Verification Slot -->
@@ -42,8 +42,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   
   <link rel="stylesheet" href="/style.css?v=64">
+  <link rel="stylesheet" href="/zihin-v2.css?v=1">
 </head>
-<body class="dark-theme">
+<body>
 
   <!-- Background Texture Overlay for Analog Paper Feel -->
   <div class="paper-texture"></div>
@@ -53,20 +54,21 @@
     <!-- Site Header -->
     <header class="site-header">
       <div class="header-inner">
-        <a href="#/" class="logo-link" id="logo-link">
-          <img src="/images/zihin_gezgini_logo_sketch.png" class="header-logo" alt="Zihin Gezgini">
-          <h1 class="site-title">Zihin Gezgini</h1>
+        <a href="#/" class="logo-link" id="logo-link" aria-label="Zihin Gezgini ana sayfa">
+          <img src="/images/zihin_gezgini_logo_sketch.png" class="header-logo" alt="">
+          <span class="brand-copy">
+            <span class="brand-kicker">Kişisel düşünce arşivi</span>
+            <span class="site-title">Zihin Gezgini</span>
+          </span>
         </a>
-        <p class="site-tagline">“Zamanı hatırlamak için önce yaşamak gerekir.”</p>
-        
-        <nav class="site-nav">
-          <a href="#/" class="nav-link active" id="nav-home">Yazılar</a>
+
+        <nav class="site-nav" aria-label="Ana menü">
+          <a href="#/" class="nav-link active" id="nav-home">Başlangıç</a>
           <a href="#/roadmap" class="nav-link" id="nav-roadmap">Okuma Haritası</a>
-          <a href="#/library" class="nav-link" id="nav-library">Kütüphane</a>
+          <a href="#/library" class="nav-link" id="nav-library">Araştırma Arşivi</a>
           <a href="#/about" class="nav-link" id="nav-about">Zihin Odası</a>
-          <a href="#/random" class="nav-link" id="nav-random">Rastgele</a>
-          <a href="https://zihingezgini.substack.com" class="nav-link" target="_blank">Substack ↗</a>
-          <button id="theme-toggle" class="theme-toggle-btn" title="Temayı Değiştir">🌓</button>
+          <a href="#/random" class="nav-link nav-link-random" id="nav-random" title="Rastgele bir yazı">Rastgele ↝</a>
+          <button id="theme-toggle" class="theme-toggle-btn" title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
         </nav>
       </div>
     </header>
@@ -76,25 +78,74 @@
       
       <!-- Home View (Post List) -->
       <section id="view-home" class="content-view active">
-        <form id="search-form" class="search-container">
-          <input type="text" id="search-input" placeholder="Yazılarda ara..." autocomplete="off">
-          <button type="submit" class="search-submit-btn" title="Ara">🔍</button>
-        </form>
+        <section class="home-hero" aria-labelledby="home-hero-title">
+          <div class="home-hero-copy">
+            <p class="hero-kicker">İlker Manavoğlu'nun kişisel alanı · 2025—</p>
+            <h2 id="home-hero-title">Yapay zekâ çağında<br><em>insan kalma</em> çabası.</h2>
+            <p class="hero-lead">Okuduklarımı, düşündüklerimi ve denediklerimi biriktirdiğim sade bir zihin odası. Yapay zekâ burada araç; yaşanan, düşünülen ve analog kalan şey ise öz.</p>
+            <div class="hero-actions">
+              <a href="#/about" class="primary-link">Bu alanın hikâyesi <span>↗</span></a>
+              <a href="#/random" class="text-link">Rastgele bir düşünce <span>↝</span></a>
+            </div>
+          </div>
+          <figure class="home-hero-visual">
+            <div class="hero-image-frame">
+              <img src="/images/thinking_man_sketch.png" alt="Düşünen insan çizimi">
+            </div>
+            <figcaption>Yapay zekâ araç.<br>Analog olan öz.</figcaption>
+          </figure>
+        </section>
+
+        <aside class="archive-note" aria-label="Zihin Gezgini notu">
+          <span class="archive-note-mark">01</span>
+          <p>“Biriktiriyorum, çünkü kaybolsun istemiyorum.”</p>
+          <span class="archive-note-line"></span>
+        </aside>
+
+        <section class="writing-index" aria-labelledby="writing-index-title">
+          <div class="section-heading">
+            <div>
+              <p class="section-kicker">Özgün üretimler</p>
+              <h2 id="writing-index-title">Defterden son kayıtlar</h2>
+            </div>
+            <form id="search-form" class="search-container">
+              <input type="text" id="search-input" placeholder="Arşivde ara" autocomplete="off" aria-label="Yazılarda ara">
+              <button type="submit" class="search-submit-btn" title="Ara" aria-label="Ara">⌕</button>
+            </form>
+          </div>
+
+          <div class="posts-filter" aria-label="Yazı kategorileri">
+            <button class="filter-btn active" data-category="all">Tümü</button>
+            <button class="filter-btn" data-category="monologues">Sesli Monologlar</button>
+            <button class="filter-btn" data-category="Felsefe">Felsefe</button>
+            <button class="filter-btn" data-category="Düşünce">Düşünce</button>
+            <button class="filter-btn" data-category="Bilim">Bilim</button>
+            <button class="filter-btn" data-category="Psikoloji">Psikoloji</button>
+          </div>
         
-        <div class="posts-filter">
-          <button class="filter-btn active" data-category="all">Tümü</button>
-          <button class="filter-btn" data-category="monologues">🎧 Monologlar</button>
-          <button class="filter-btn" data-category="Felsefe">Felsefe</button>
-          <button class="filter-btn" data-category="Düşünce">Düşünce</button>
-          <button class="filter-btn" data-category="Bilim">Bilim</button>
-          <button class="filter-btn" data-category="Psikoloji">Psikoloji</button>
-        </div>
-        
-        <div class="posts-grid" id="posts-grid">
-          <!-- Dynamically populated via app.js -->
-          <div class="loading-placeholder">Yazılar yükleniyor...</div>
-        </div>
-        <div id="load-more-container" class="load-more-container"></div>
+          <div class="posts-grid" id="posts-grid">
+            <!-- Dynamically populated via app.js -->
+            <div class="loading-placeholder">Yazılar yükleniyor...</div>
+          </div>
+          <div id="load-more-container" class="load-more-container"></div>
+        </section>
+
+        <section class="research-door" aria-labelledby="research-title">
+          <div class="research-index">02</div>
+          <div class="research-copy">
+            <p class="section-kicker">Araştırma masası</p>
+            <h2 id="research-title">Bilgi, üretimin kendisi değil;<br>üretime açılan kapı.</h2>
+            <p>300 temel eser ve yapay zekâ destekli kitap çalışmaları, benim ürettiğim eserler değil. Okumak, karşılaştırmak ve daha sonra insani bir üretime dönüştürmek için kullandığım çalışma alanı.</p>
+            <div class="research-links">
+              <a href="#/roadmap">300 eserlik okuma haritası <span>↗</span></a>
+              <a href="#/library">Araştırma arşivini aç <span>↗</span></a>
+            </div>
+          </div>
+          <div class="research-stamp" aria-hidden="true">
+            <span>AI</span>
+            <small>ARAÇ</small>
+          </div>
+        </section>
       </section>
 
       <!-- Post Detail View -->
@@ -111,14 +162,15 @@
             <img src="/images/thinking_man_sketch.png" class="about-featured-img" alt="Zihin Gezgini">
           </div>
           <div class="about-header">
-            <h2 class="about-title">Zihin Odası Üzerine</h2>
+            <h2 class="about-title">Bu alan neden var?</h2>
             <div class="divider"></div>
           </div>
           <div class="about-content">
-            <p>Burası gürültüden, bildirim seslerinden ve modern dünyanın dayattığı o baş döndürücü hızdan kaçış alanıdır. Bir günlüğün sessizliğinde, kendi karalamalarımı, felsefi notlarımı ve anı yavaşlatma çabalarımı topladığım kişisel bir kütüphane.</p>
-            <p>YouTube'da başladığım "Filozoflar Serisi" ve diğer felsefi arayışları burada daha yavaş, daha analog ve yazılı bir ritimde devam ettirmeyi amaçlıyorum. Belki ayda sadece bir kişi ziyaret edecek, belki de sadece kendim için yazmaya devam edeceğim; önemli olan durup düşünebilmek.</p>
+            <p>Zihin Gezgini benim kişisel dijital alanım; okuduklarımı, düşündüklerimi ve denediklerimi biriktirdiğim sade bir bilgi bankası. Bir vitrin kurmak için değil, zaman içinde oluşan düşüncelerin kaybolmasına izin vermemek için var.</p>
+            <p>Yapay zekâyı bilgiye ulaşmak, karşılaştırmak ve yeni kapılar açmak için kullanıyorum. Fakat burada asıl olan araç değil; o bilgiyi kendi hayatımdan geçirerek yazıya, fotoğrafa, sese ve mümkün olduğunca analog bir üretime dönüştürmek.</p>
+            <p>Okuma haritası ve araştırma arşivindeki yapay zekâ destekli çalışmalar benim özgün eserlerim değil; düşünmek ve üretmek için kullandığım çalışma masası. Kişisel yazılar, notlar, fotoğraflar, müzik denemeleri ve film analizleri ise bu masadan sonra geriye kalan insani izler.</p>
             <blockquote>
-              "Zihnin huzuru, dış etkenlerin onu sarsamadığı, kendi içindeki uyumla ölçülür."
+              “Biriktiriyorum, çünkü kaybolsun istemiyorum.”
             </blockquote>
             <div class="about-links">
               <a href="https://www.youtube.com/@Zihin_Gezgini" target="_blank" class="about-link-btn youtube-btn">🎬 YouTube Monologları</a>
@@ -138,7 +190,7 @@
             <div class="roadmap-title-row">
               <div class="roadmap-title-group">
                 <h2 class="roadmap-title">Okuma Serüveni</h2>
-                <p class="roadmap-subtitle">Zihin Gezgini'nin 300 kurgu dışı eseri herkes için basitleştiren aşamalı okuma rehberi. <button class="guide-info-trigger" id="guide-info-trigger">ℹ️ Detaylı Bilgi</button></p>
+                <p class="roadmap-subtitle">Okumak, karşılaştırmak ve insani üretime dönüştürmek için hazırlanmış 300 eserlik araştırma rotası. <button class="guide-info-trigger" id="guide-info-trigger"><span aria-hidden="true">i</span> Detaylı bilgi</button></p>
               </div>
               <div class="roadmap-quick-nav" id="roadmap-quick-nav">
                 <!-- Dynamically populated in app.js -->
@@ -175,7 +227,7 @@
               <a href="#/roadmap" class="back-to-roadmap-btn">← Yol Haritasına Dön</a>
               <div class="summary-meta-top">
                 <span class="summary-meta-book-no" id="reader-book-no">#1</span>
-                <h1 class="summary-book-title" id="reader-book-title">Zamanın Kısa Tarihi</h1>
+                <h1 class="summary-book-title" id="summary-reader-book-title">Zamanın Kısa Tarihi</h1>
                 <span class="summary-book-author" id="reader-book-author">Stephen Hawking</span>
               </div>
               <p class="summary-book-subtitle" id="reader-book-subtitle"></p>
@@ -214,8 +266,8 @@
       <section id="view-library" class="content-view">
         <div class="library-layout">
           <div class="library-header">
-            <h2>Zihin Gezgini Kütüphanesi</h2>
-            <p>Her biri 100 bölümden oluşan anıtsal kozmik, bilimsel ve felsefi kitaplar külliyatı.</p>
+            <h2>Araştırma Arşivi</h2>
+            <p>Yapay zekâ desteğiyle hazırlanan 21 kapsamlı çalışma. Bunlar kişisel eserler değil; okumak, öğrenmek ve daha sonra özgün üretime dönüştürmek için kullanılan kaynaklar.</p>
           </div>
           <div class="library-shelf-wrapper">
             <div class="bookshelf-shelf">
@@ -246,7 +298,7 @@
           <a href="https://podcasts.apple.com/tr/podcast/zihin-gezgini/id1812203751" target="_blank" title="Apple Podcasts">Apple Podcasts</a>
           <a href="https://instagram.com/zihin_gezgini" target="_blank" title="Instagram">Instagram</a>
         </div>
-        <p>&copy; 2026 Zihin Gezgini. İlker Manavoğlu tarafından yazılmıştır.</p>
+        <p>&copy; 2026 Zihin Gezgini · İlker Manavoğlu'nun kişisel düşünce arşivi.</p>
         <p class="footer-sub">Analog düşünceler, dijital kâğıt üzerine.</p>
       </div>
     </footer>
@@ -304,11 +356,13 @@
     <div class="guide-modal-backdrop" id="guide-modal-backdrop"></div>
     <div class="guide-modal-content">
       <button class="guide-modal-close" id="guide-modal-close" aria-label="Kapat">&times;</button>
-      <h3 class="guide-modal-title" id="modal-title">ℹ️ Rehber ve Okuma Kılavuzu</h3>
+      <p class="guide-modal-kicker">Araştırma masası · 01</p>
+      <h3 class="guide-modal-title" id="modal-title">Okuma Haritası nasıl kullanılmalı?</h3>
       <div class="guide-modal-body">
-        <p><strong>🔒 Size Özel & Güvenli:</strong> Bu liste tamamen size özeldir. İşaretlediğiniz kitaplar tarayıcınızın hafızasında (localStorage) güvenli bir şekilde saklanır; böylece üyelik gerektirmeden, sonraki ziyaretlerinizde de kaldığınız yerden devam edebilirsiniz.</p>
-        <p><strong>💡 Kolay Okuma Yöntemi:</strong> Sitemizdeki özet kitapçıklar, en ağır bilimsel ve felsefi teorileri bile herkesin (ortaokul düzeyindeki bir meraklının dahi) keyifle anlayabileceği eğlenceli benzetmelerle ve son derece yalın bir dille hazırlanmıştır. Ağır felsefi terimlerden gözünüz korkmasın, serüvene hemen başlayabilirsiniz!</p>
-        <p><strong>📚 Neden Sadece Kurgu-Dışı?</strong> Edebi derinliği, karakter gelişimini ve sanatsal ruhu zedelememek adına bu listede hiçbir roman veya öyküye (kurgusal esere) yer verilmemiştir. Çünkü bir romanı özetlemek onu roman olmaktan çıkarır; bizim buradaki gayemiz, ağır kurgu dışı teorileri ve fikirleri herkes için erişilebilir kılmaktır.</p>
+        <p><strong>Bu bir başarı listesi değil.</strong> Üç yüz eser, bitirilecek görevler gibi değil; düşüncenin farklı alanları arasında ilerleyen kişisel bir araştırma rotası olarak düzenlendi.</p>
+        <p><strong>İlerleme yalnızca bu tarayıcıda tutulur.</strong> İşaretlediğin kitaplar üyelik veya hesap gerektirmeden cihazının yerel hafızasında saklanır. Başka bir cihazda aynı işaretler otomatik görünmez.</p>
+        <p><strong>Özetler başlangıç noktasıdır.</strong> Yapay zekâ desteğiyle sadeleştirilen kitapçıklar özgün eserlerin yerine geçmez; kavramları tanımak, karşılaştırmak ve asıl okumaya hazırlanmak için kullanılır.</p>
+        <p><strong>Liste kurgu dışına odaklanır.</strong> Roman ve öykülerin sanatsal deneyimini özete indirgememek için rota ağırlıklı olarak bilim, felsefe, tarih, psikoloji ve düşünce eserlerinden oluşur.</p>
       </div>
     </div>
   </div>
