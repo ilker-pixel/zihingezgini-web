@@ -148,6 +148,8 @@ def run_build():
         json.dump(existing_quotes, f, indent=4, ensure_ascii=False)
         
     print(f"✓ Done. Quotes pool updated in data/quotes.json (added {new_quotes_count} new quotes, total pool is {len(existing_quotes)}).")
+    from build_static import build_static_site
+    build_static_site()
     print("🎉 Build successfully completed.")
 
 if __name__ == "__main__":

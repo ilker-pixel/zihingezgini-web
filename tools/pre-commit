@@ -1,4 +1,5 @@
 #!/bin/sh
 echo "⚙️ Running Zihin Gezgini pre-commit build automation..."
-python3 tools/build.py
-git add data/posts.json data/quotes.json
+python3 tools/build.py || exit 1
+git add data/posts.json data/quotes.json sitemap.xml feed.xml robots.txt legacy-routes.js 404.html .nojekyll
+git add yazilar zihin-odasi okuma-haritasi arastirma-arsivi arastirma kitap-ozetleri rastgele

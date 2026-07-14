@@ -8,7 +8,8 @@
         "pubDate": "1988",
         "evre": 1,
         "link": null,
-        "hasSummary": true
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/1-zamanin-kisa-tarihi/"
     },
     {
         "no": 2,
@@ -29,7 +30,8 @@
         "pubDate": "2014",
         "evre": 1,
         "link": null,
-        "hasSummary": true
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/3-fizik-uzerine-yedi-kisa-ders/"
     },
     {
         "no": 4,
@@ -40,7 +42,8 @@
         "pubDate": "2004",
         "evre": 1,
         "link": null,
-        "hasSummary": true
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/4-evrenin-dokusu/"
     },
     {
         "no": 5,
@@ -51,7 +54,8 @@
         "pubDate": "1987",
         "evre": 1,
         "link": null,
-        "hasSummary": true
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/5-kaos-yeni-bir-bilim-teorisi/"
     },
     {
         "no": 6,
@@ -62,7 +66,8 @@
         "pubDate": "2008",
         "evre": 1,
         "link": null,
-        "hasSummary": true
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/6-sarhos-yuruyusu/"
     },
     {
         "no": 7,
@@ -592,7 +597,7 @@
         "description": "Modern insanın özgürlüğün getirdiği sorumluluktan kaçarak otoriterliğe sığınmasını inceleyen eser.",
         "pubDate": "1941",
         "evre": 2,
-        "link": "#/post/frommun-dusunceleri-uzerine"
+        "link": "/yazilar/frommun-dusunceleri-uzerine/"
     },
     {
         "no": 60,
@@ -852,7 +857,7 @@
         "description": "Kantçı kendinde-şeyi 'İsteme' olarak tanımlayan, Doğu felsefesiyle birleşen pesimist başyapıt.",
         "pubDate": "1818",
         "evre": 3,
-        "link": "#/post/arthur-schopenhauer-mutluluk-yalanı"
+        "link": "/yazilar/arthur-schopenhauer-mutluluk-yalani/"
     },
     {
         "no": 86,
@@ -862,7 +867,7 @@
         "description": "Estetik ve etik yaşam aşamaları arasındaki çatışmayı ele alan varoluşçuluğun ilk eseri.",
         "pubDate": "1843",
         "evre": 3,
-        "link": "#/post/soren-kierkegaard-inanc-sicramasi"
+        "link": "/yazilar/soren-kierkegaard-inanc-sicramasi/"
     },
     {
         "no": 87,
@@ -932,7 +937,7 @@
         "description": "Doğal durumdaki kaos karşısında güvenlik ve toplumsal sözleşme ile kurulan devlet gücünü ele alan kurucu başyapıt.",
         "pubDate": "1651",
         "evre": 4,
-        "link": "#/post/thomas-hobbes-leviathanin-dogusu"
+        "link": "/yazilar/471/"
     },
     {
         "no": 94,
@@ -1212,7 +1217,7 @@
         "description": "Metodik şüphecilik ve 'Düşünüyorum, öyleyse varım' (Cogito) önermesini kuran rasyonalist klasik.",
         "pubDate": "1641",
         "evre": 5,
-        "link": "#/post/453"
+        "link": "/yazilar/453/"
     },
     {
         "no": 122,
@@ -1232,7 +1237,7 @@
         "description": "Evrenin bölünemez bilgi/enerji birimleri olan 'monadlardan' oluştuğunu savunan rasyonel metafizik.",
         "pubDate": "1714",
         "evre": 5,
-        "link": "#/post/wilhelm-leibniz-newtonun-golgesinde-kalan-deha"
+        "link": "/yazilar/wilhelm-leibniz-newtonun-golgesinde-kalan-deha/"
     },
     {
         "no": 124,
@@ -1252,7 +1257,7 @@
         "description": "Zihnin doğuşta boş bir levha (tabula rasa) olduğunu savunan empirizmin kurucu eseri.",
         "pubDate": "1689",
         "evre": 5,
-        "link": "#/post/john-locke-tabula-rasa"
+        "link": "/yazilar/john-locke-tabula-rasa/"
     },
     {
         "no": 126,
@@ -1272,7 +1277,7 @@
         "description": "Nedensellik ilkesinin bir alışkanlıktan ibaret olduğunu savunan radikal empirist ve kuşkucu başyapıt.",
         "pubDate": "1739",
         "evre": 5,
-        "link": "#/post/david-hume-neden-sonuc-bir-masal-mi"
+        "link": "/yazilar/david-hume-neden-sonuc-bir-masal-mi/"
     },
     {
         "no": 128,
@@ -1312,7 +1317,7 @@
         "description": "Bilincin mutlak bilgiye (Geist) ulaşma yolculuğunu diyalektik yöntemle ele alan felsefi şaheser.",
         "pubDate": "1807",
         "evre": 5,
-        "link": "#/post/friedrich-hegel-aklin-kurnazligi-ve-diyalektik"
+        "link": "/yazilar/friedrich-hegel-aklin-kurnazligi-ve-diyalektik/"
     },
     {
         "no": 132,
@@ -1552,7 +1557,7 @@
         "description": "Kapitalist üretim tarzını, artı-değer teorisini ve metaların fetişizmini inceleyen devasa eser.",
         "pubDate": "1867",
         "evre": 6,
-        "link": "#/post/karl-marx-koleligin-yeni-adi"
+        "link": "/yazilar/karl-marx-koleligin-yeni-adi/"
     },
     {
         "no": 156,
@@ -2002,7 +2007,7 @@
         "description": "Türk aydınının yabancılaşmasını ve iç çatışmalarını modernist bir dille anlatan Türk edebiyatı zirvesi.",
         "pubDate": "1972",
         "evre": 7,
-        "link": "#/post/tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya"
+        "link": "/yazilar/tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya/"
     },
     {
         "no": 201,

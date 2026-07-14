@@ -70,6 +70,21 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  function toUrlSlug(value) {
+    const map = { ç: "c", ğ: "g", ı: "i", ö: "o", ş: "s", ü: "u" };
+    return String(value || "")
+      .toLocaleLowerCase("tr-TR")
+      .replace(/[çğıöşü]/g, char => map[char] || char)
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+  }
+
+  function summaryUrl(book) {
+    return book.summaryUrl || `/kitap-ozetleri/${book.no}-${toUrlSlug(book.title)}/`;
+  }
+
   // Calculate Reading Time (Turkish)
   function calculateReadingTime(content) {
     if (!content) return "1 dk okuma";
@@ -110,7 +125,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Fetch all posts index
   async function loadPostsIndex() {
     try {
-      const response = await fetch(`/data/posts.json?t=${new Date().getTime()}`);
+      const response = await fetch("/data/posts.json");
       if (!response.ok) throw new Error("Index file not found");
       allPosts = await response.json();
       renderPostsGrid();
@@ -153,7 +168,7 @@ document.addEventListener("DOMContentLoaded", () => {
     visiblePosts.forEach((post, index) => {
       const card = document.createElement("a");
       card.className = index === 0 ? "post-card post-card--featured" : "post-card";
-      card.href = `#/post/${post.slug}`;
+      card.href = `/yazilar/${post.slug}/`;
       
       const imgHtml = post.featuredImage 
         ? `<div class="card-img-container"><img src="${post.featuredImage}" class="card-img" alt="${post.title}" loading="lazy"></div>`
@@ -188,7 +203,7 @@ document.addEventListener("DOMContentLoaded", () => {
     postDetail.innerHTML = `<div class="loading-placeholder">Yazı yükleniyor...</div>`;
     
     try {
-      const response = await fetch(`/data/posts/${slug}.json?t=${new Date().getTime()}`);
+      const response = await fetch(`/data/posts/${slug}.json`);
       if (!response.ok) throw new Error("Post not found");
       const post = await response.json();
       
@@ -230,7 +245,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       postDetail.innerHTML = `
         <div class="post-header-actions">
-          <button class="post-back-btn" onclick="window.location.hash = '#/'">
+          <button class="post-back-btn" onclick="window.location.href = '/'">
             ← Geri Dön
           </button>
           <div class="font-size-adjuster">
@@ -292,7 +307,7 @@ document.addEventListener("DOMContentLoaded", () => {
     } catch (error) {
       console.error("Error loading post detail:", error);
       postDetail.innerHTML = `
-        <button class="post-back-btn" onclick="window.location.hash = '#/'">
+        <button class="post-back-btn" onclick="window.location.href = '/'">
           ← Geri Dön
         </button>
         <div class="loading-placeholder">Yazı yüklenirken bir hata oluştu.</div>
@@ -563,7 +578,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!phasesContainer) return;
     
     try {
-      const response = await fetch(`/data/books.json?t=${new Date().getTime()}`);
+      const response = await fetch("/data/books.json");
       if (!response.ok) throw new Error("Books file not found");
       const books = await response.json();
       
@@ -585,7 +600,7 @@ document.addEventListener("DOMContentLoaded", () => {
                       <div class="featured-row-meta">
                         <span class="featured-row-no">#${b.no}</span>
                         <span class="featured-row-category-tag">${b.category}</span>
-                        <a href="#/book/${b.no}/summary" class="featured-row-read-btn">📖 Özet Oku</a>
+                        <a href="${summaryUrl(b)}" class="featured-row-read-btn">📖 Özet Oku</a>
                       </div>
                       <div class="featured-row-title-line">
                         <strong class="featured-row-author">${b.author}</strong> — <span class="featured-row-title">${b.title}</span>
@@ -709,7 +724,7 @@ document.addEventListener("DOMContentLoaded", () => {
           : `<span class="book-title-text">${b.title}</span>`;
           
         const summaryBtnHtml = b.hasSummary
-          ? `<a href="#/book/${b.no}/summary" class="book-summary-btn">📖 Özet Oku</a>`
+          ? `<a href="${summaryUrl(b)}" class="book-summary-btn">📖 Özet Oku</a>`
           : '';
           
         bookItem.innerHTML = `
@@ -801,7 +816,7 @@ document.addEventListener("DOMContentLoaded", () => {
     readerChapters.innerHTML = `<div class="loading-placeholder">Özet yükleniyor...</div>`;
     
     try {
-      const response = await fetch(`/data/summaries/${bookNo}.json?t=${new Date().getTime()}`);
+      const response = await fetch(`/data/summaries/${bookNo}.json`);
       if (!response.ok) throw new Error("Summary file not found");
       const data = await response.json();
       
@@ -900,15 +915,15 @@ document.addEventListener("DOMContentLoaded", () => {
     if (hash === "#/random") {
       if (allPosts.length > 0) {
         const randomPost = allPosts[Math.floor(Math.random() * allPosts.length)];
-        window.location.hash = `#/post/${randomPost.slug}`;
+        window.location.href = `/yazilar/${randomPost.slug}/`;
       } else {
         // Fetch index first if empty
-        fetch(`/data/posts.json?t=${new Date().getTime()}`)
+        fetch("/data/posts.json")
           .then(res => res.json())
           .then(data => {
             allPosts = data;
             const randomPost = allPosts[Math.floor(Math.random() * allPosts.length)];
-            window.location.hash = `#/post/${randomPost.slug}`;
+            window.location.href = `/yazilar/${randomPost.slug}/`;
           })
           .catch(() => {
             window.location.hash = "#/";
@@ -1064,7 +1079,7 @@ document.addEventListener("DOMContentLoaded", () => {
     function renderQuote(idx) {
       const q = quotes[idx];
       quoteText.textContent = `“${q.text}”`;
-      quoteAuthor.innerHTML = `— ${q.author}, <a href="#/post/${q.slug}" class="quote-post-link">${q.title}</a>`;
+      quoteAuthor.innerHTML = `— ${q.author}, <a href="/yazilar/${q.slug}/" class="quote-post-link">${q.title}</a>`;
     }
     
     // Initial quote render
@@ -1095,7 +1110,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Load Quotes Pool Dynamically
   async function loadQuotes() {
     try {
-      const response = await fetch(`/data/quotes.json?t=${new Date().getTime()}`);
+      const response = await fetch("/data/quotes.json");
       if (!response.ok) throw new Error("Quotes file not found");
       quotes = await response.json();
       if (quotes.length > 0) {
@@ -1146,7 +1161,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (libraryData.length === 0) {
       try {
         bookshelfContainer.innerHTML = `<div class="loading-placeholder">Kitaplık yükleniyor...</div>`;
-        const res = await fetch(`/data/kutuphane_index.json?v=${new Date().getTime()}`);
+        const res = await fetch("/data/kutuphane_index.json");
         if (res.ok) {
           libraryData = await res.json();
         } else {
@@ -1208,7 +1223,7 @@ document.addEventListener("DOMContentLoaded", () => {
       readerModal.classList.add("active");
       document.body.style.overflow = "hidden";
 
-      const res = await fetch(`/data/books/${bookId}.json?v=${new Date().getTime()}`);
+      const res = await fetch(`/data/books/${bookId}.json`);
       if (!res.ok) {
         readerTextContainer.innerHTML = `<div class="loading-placeholder">Kitap içeriği yüklenemedi.</div>`;
         return;
