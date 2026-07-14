@@ -10,8 +10,10 @@ Sitenin veri tabanı tamamen statik JSON dosyalarından oluşur:
 *   `/data/posts.json` -> Ana sayfadaki yazıları, tarihleri ve kategorileri listeleyen **fihrist dosyası**.
 *   `/data/posts/` -> Her yazının detaylı HTML içeriğini barındıran **detay dosyaları klasörü** (örn: `data/posts/453.json`).
 *   `/images/` -> Yazıların kapak resimlerinin ve satır içi çizimlerinin bulunduğu klasör.
-*   `/app.js` -> Sitenin tüm çalıştırıcı JavaScript motoru ve yönlendirmeleri (routing).
+*   `/app.js` -> Ana sayfanın etkileşimli JavaScript motoru.
 *   `/style.css` -> Tema ve bileşenlerin stil kuralları.
+*   `/tools/build_static.py` -> JSON içeriklerinden arama motorlarının okuyabildiği gerçek HTML sayfalarını, `sitemap.xml` ve `feed.xml` dosyalarını üretir.
+*   `/yazilar/`, `/kitap-ozetleri/`, `/arastirma/` -> Derleme sırasında otomatik üretilen temiz URL'li sayfalar. Bu klasörleri elle düzenlemeyin.
 
 ---
 
@@ -68,14 +70,24 @@ Eğer yazı detay içeriğinde (`content`) bir YouTube video bağlantısı bulun
 
 ---
 
-## 💬 Adım 4: Tam Otomatik Derleme (Git Pre-commit Hook Altyapısı)
+## 💬 Adım 4: Statik Sayfaları ve SEO Dosyalarını Üretmek
 
 Yazınızı `/data/posts/yazı-adi.json` dosyasına ekledikten sonra manuel fihrist veya alıntı ekleme işlemleriyle uğraşmanıza gerek yoktur. Sizin için tüm süreci otomatikleştiren bir **Git pre-commit kancası (hook)** kurdum.
 
 Bu sayede:
 *   Siz (veya bir yapay zekâ) terminalde `git commit` komutunu çalıştırdığı an, Git arka planda otomatik olarak `python3 tools/build.py` scriptini koşturur.
 *   Yazılar taranır, fihrist güncellenir ve yeni yazılardan **en güzel 5 alıntı otomatik ayıklanıp** `/data/quotes.json` dosyasına işlenir.
-*   Tüm bu güncellenen dosyalar otomatik olarak commite dahil edilir. Siz ekstra hiçbir manuel komut çalıştırmazsınız!
+*   Her yazı için `/yazilar/yazi-slug/` biçiminde gerçek HTML sayfası oluşturulur.
+*   Kitap özetleri ve araştırma arşivi de temiz URL'li HTML sayfalarına dönüştürülür.
+*   `sitemap.xml`, `feed.xml`, `robots.txt`, eski `#/...` adreslerini taşıyan yönlendirmeler ve özel `404.html` güncellenir.
+*   Tüm üretilen dosyalar otomatik olarak commite dahil edilir.
+
+Derlemeyi commit öncesinde elle çalıştırıp kontrol etmek isterseniz:
+
+```bash
+python3 tools/build.py
+python3 tools/test_static_site.py
+```
 
 ### 💻 Bilgisayarınız Değişirse Bu Otomasyonu Nasıl Geri Getirirsiniz?
 Git kancaları (`.git/hooks/` klasörü) GitHub'a yüklenmez. Eğer bilgisayarınız bozulur ve projeyi yeni bir bilgisayara kurarsanız, bu otomatik sistemi tek tıkla yeniden aktifleştirmek için terminalde şu komutu çalıştırmanız yeterlidir:
@@ -85,7 +97,7 @@ cp tools/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
 
 ---
 
-## 🔄 Adım 5: Yayınlama ve Önbellek (Cache) Temizliği
+## 🔄 Adım 5: Yayınlama ve Önbellek Sürümü
 
 Yazı dosyasını ekledikten sonra sitenizi yayına almak için sadece standart Git komutlarını girmeniz yeterlidir:
 1.  Değişiklikleri GitHub'a gönderin (Otomasyon commit esnasında kendiliğinden çalışacaktır):
@@ -94,4 +106,22 @@ Yazı dosyasını ekledikten sonra sitenizi yayına almak için sadece standart 
     git commit -m "Yayınla: [Yazı Başlığı]"
     git push
     ```
-2.  Script veya CSS dosyalarında kod bazlı bir değişiklik yaptıysanız tarayıcıların bunu anında algılaması için `/index.html` içindeki sürüm numaralarını (örn: `app.js?v=24` değerini `v=25` yaparak) artırın.
+2.  Yalnızca `app.js`, `static-page.js` veya CSS dosyalarının içeriği değiştiğinde, bunları çağıran HTML şablonlarındaki sabit sürüm numarasını (`?v=54` gibi) bir kez artırın ve yeniden derleyin. Zaman damgası eklemeyin; böylece tarayıcı önbelleği gereksiz yere kapatılmaz.
+
+Yeni bir yazının kalıcı adresi şu biçimdedir:
+
+```text
+https://zihingezgini.net/yazilar/yeni-yazi-basligi/
+```
+
+Eski `https://zihingezgini.net/#/post/...` bağlantıları uyumluluk amacıyla yeni adreslere yönlendirilir; yeni içeriklerde eski hash adreslerini kullanmayın.
+
+Yeni bir kitap özeti eklerken ilgili `data/books.json` kaydında `hasSummary` değerini `true` yapın ve üretilen temiz adresi `summaryUrl` alanına yazın.
+
+## 🔎 Adım 6: Google Search Console
+
+Site sahipliği kök dizindeki gerçek doğrulama dosyasıyla korunur. Bu dosyayı silmeyin veya yeniden adlandırmayın. Yayın sonrasında Search Console'da yalnızca şu site haritasını göndermek yeterlidir:
+
+```text
+https://zihingezgini.net/sitemap.xml
+```

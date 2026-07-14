@@ -34,7 +34,7 @@ __QUOTES_PLACEHOLDER__
     function renderQuote(idx) {
       const q = quotes[idx];
       quoteText.textContent = `“${q.text}”`;
-      quoteAuthor.innerHTML = `— ${q.author}, <a href="#/post/${q.slug}" class="quote-post-link">${q.title}</a>`;
+      quoteAuthor.innerHTML = `— ${q.author}, <a href="/yazilar/${q.slug}/" class="quote-post-link">${q.title}</a>`;
     }
     
     // Initial quote render

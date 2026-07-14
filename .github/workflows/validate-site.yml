@@ -1,0 +1,24 @@
+name: Validate static site
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Rebuild generated pages
+        run: python3 tools/build_static.py
+      - name: Verify generated files are current
+        run: git diff --exit-code
+      - name: Check links, metadata and sitemap
+        run: python3 tools/test_static_site.py

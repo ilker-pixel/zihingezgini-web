@@ -2,180 +2,325 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://zihingezgini.net/</loc>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/about</loc>
+    <loc>https://zihingezgini.net/yazilar/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/zihin-odasi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/okuma-haritasi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/bir-defterden-notlar-hayati-hissederek-yasamak-uzerine</loc>
+    <loc>https://zihingezgini.net/arastirma-arsivi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/yazilar/bir-defterden-notlar-hayati-hissederek-yasamak-uzerine/</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/karl-marx-koleligin-yeni-adi</loc>
+    <loc>https://zihingezgini.net/yazilar/karl-marx-koleligin-yeni-adi/</loc>
     <lastmod>2026-03-05</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/soren-kierkegaard-inanc-sicramasi</loc>
+    <loc>https://zihingezgini.net/yazilar/soren-kierkegaard-inanc-sicramasi/</loc>
     <lastmod>2025-11-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/arthur-schopenhauer-mutluluk-yalani</loc>
+    <loc>https://zihingezgini.net/yazilar/arthur-schopenhauer-mutluluk-yalani/</loc>
     <lastmod>2025-11-06</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/471</loc>
+    <loc>https://zihingezgini.net/yazilar/471/</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/453</loc>
+    <loc>https://zihingezgini.net/yazilar/453/</loc>
     <lastmod>2025-10-25</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/friedrich-hegel-aklin-kurnazligi-ve-diyalektik</loc>
+    <loc>https://zihingezgini.net/yazilar/friedrich-hegel-aklin-kurnazligi-ve-diyalektik/</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/john-locke-tabula-rasa</loc>
+    <loc>https://zihingezgini.net/yazilar/john-locke-tabula-rasa/</loc>
     <lastmod>2025-10-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/david-hume-neden-sonuc-bir-masal-mi</loc>
+    <loc>https://zihingezgini.net/yazilar/david-hume-neden-sonuc-bir-masal-mi/</loc>
     <lastmod>2025-10-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/wilhelm-leibniz-newtonun-golgesinde-kalan-deha</loc>
+    <loc>https://zihingezgini.net/yazilar/wilhelm-leibniz-newtonun-golgesinde-kalan-deha/</loc>
     <lastmod>2025-09-26</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/443</loc>
+    <loc>https://zihingezgini.net/yazilar/443/</loc>
     <lastmod>2025-05-22</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/419</loc>
+    <loc>https://zihingezgini.net/yazilar/419/</loc>
     <lastmod>2025-05-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/modern-kolelik-bildirim-sesine-tapinan-zihinler</loc>
+    <loc>https://zihingezgini.net/yazilar/modern-kolelik-bildirim-sesine-tapinan-zihinler/</loc>
     <lastmod>2025-05-03</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/yapay-zeka-bilinc-kazanabilir-mi-gercek-mi-kurgu-mu</loc>
+    <loc>https://zihingezgini.net/yazilar/yapay-zeka-bilinc-kazanabilir-mi-gercek-mi-kurgu-mu/</loc>
     <lastmod>2025-05-02</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya</loc>
+    <loc>https://zihingezgini.net/yazilar/tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya/</loc>
     <lastmod>2025-03-06</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/daglar-ve-sanat-icsel-yolculugum</loc>
+    <loc>https://zihingezgini.net/yazilar/daglar-ve-sanat-icsel-yolculugum/</loc>
     <lastmod>2025-03-04</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/derinlik-ve-sabir-auteur-sinemasinin-anlami</loc>
+    <loc>https://zihingezgini.net/yazilar/derinlik-ve-sabir-auteur-sinemasinin-anlami/</loc>
     <lastmod>2025-02-22</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/soluk-mavi-noktanin-kuantum-dansi</loc>
+    <loc>https://zihingezgini.net/yazilar/soluk-mavi-noktanin-kuantum-dansi/</loc>
     <lastmod>2025-02-21</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/stadyumdaki-kelebek-etkisi-bir-islik-kaosu-tetikler-mi</loc>
+    <loc>https://zihingezgini.net/yazilar/stadyumdaki-kelebek-etkisi-bir-islik-kaosu-tetikler-mi/</loc>
     <lastmod>2025-02-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/spinozanin-evreni-mi-camusnun-kaosu-mu</loc>
+    <loc>https://zihingezgini.net/yazilar/spinozanin-evreni-mi-camusnun-kaosu-mu/</loc>
     <lastmod>2025-02-18</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/do-major-akorunun-kuantum-yansimasi</loc>
+    <loc>https://zihingezgini.net/yazilar/do-major-akorunun-kuantum-yansimasi/</loc>
     <lastmod>2025-02-17</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/guven-krizi-ekonomi-bir-inanc-sistemine-mi-dayaniyor</loc>
+    <loc>https://zihingezgini.net/yazilar/guven-krizi-ekonomi-bir-inanc-sistemine-mi-dayaniyor/</loc>
     <lastmod>2025-02-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/bilim-yukseldi-peki-felsefe-nerede</loc>
+    <loc>https://zihingezgini.net/yazilar/bilim-yukseldi-peki-felsefe-nerede/</loc>
     <lastmod>2025-02-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/potosi-gumus-daginin-kanli-bedeli</loc>
+    <loc>https://zihingezgini.net/yazilar/potosi-gumus-daginin-kanli-bedeli/</loc>
     <lastmod>2025-02-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/limonun-tarihi-iskorbutu-nasil-yok-etti</loc>
+    <loc>https://zihingezgini.net/yazilar/limonun-tarihi-iskorbutu-nasil-yok-etti/</loc>
     <lastmod>2025-02-14</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/yeni-eklenenler</loc>
+    <loc>https://zihingezgini.net/yazilar/yeni-eklenenler/</loc>
     <lastmod>2025-02-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/frommun-dusunceleri-uzerine</loc>
+    <loc>https://zihingezgini.net/yazilar/frommun-dusunceleri-uzerine/</loc>
     <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/yazilar/bosluk-asla-bos-degildir/</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/kitap-ozetleri/1-zamanin-kisa-tarihi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://zihingezgini.net/#/post/bosluk-asla-bos-degildir</loc>
-    <lastmod>2025-02-13</lastmod>
+    <loc>https://zihingezgini.net/kitap-ozetleri/3-fizik-uzerine-yedi-kisa-ders/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/kitap-ozetleri/4-evrenin-dokusu/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/kitap-ozetleri/5-kaos-yeni-bir-bilim-teorisi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/kitap-ozetleri/6-sarhos-yuruyusu/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/kozmosun_biyografisi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/hayatin_kimyasi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/evrimin_biyografisi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/zihniyetler_tarihi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/felsefe_tarihi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/edebiyat_tarihi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/bilimsel_yanilgilar/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/maddi_kultur/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/gundelik_hayat/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/iktidarin_tarihi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/dijital_akil/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/gelecegin_tarihi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/ilgincilikler/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/matematigin_tarihi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/anadolu_medeniyetleri/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/sanat_tarihi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/yasama_sanati/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/romanin_tarihi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/mitoloji_tarihi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/kesifler_ve_haritalar/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zihingezgini.net/arastirma/kulturer_atlasi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
