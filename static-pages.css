@@ -191,6 +191,122 @@
   display: none;
 }
 
+.static-summary .summary-download-btn {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  margin-top: 1.25rem;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--v2-accent);
+  color: var(--v2-ink);
+  font-family: var(--v2-sans);
+  text-decoration: none;
+}
+
+.static-summary .summary-download-btn span {
+  color: var(--v2-accent);
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.static-summary .summary-download-btn small {
+  color: var(--v2-muted);
+  font-size: 0.67rem;
+}
+
+.static-summary .summary-download-btn:hover {
+  background: var(--v2-accent-soft);
+}
+
+.summary-toc,
+.summary-sources {
+  margin: 3rem 0;
+  border-top: 1px solid var(--v2-line);
+  border-bottom: 1px solid var(--v2-line);
+}
+
+.summary-toc summary,
+.summary-sources summary {
+  cursor: pointer;
+  padding: 1.2rem 0;
+  color: var(--v2-accent);
+  font: 600 0.72rem/1.4 var(--v2-sans);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.summary-toc ol {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0;
+  margin: 0 0 1.4rem;
+  padding: 0;
+  list-style: none;
+}
+
+.summary-toc li {
+  border-top: 1px solid var(--v2-line);
+}
+
+.summary-toc a {
+  display: grid;
+  grid-template-columns: 2.1rem 1fr;
+  gap: 0.65rem;
+  padding: 0.8rem 0.6rem;
+  color: var(--v2-ink);
+  font: 400 0.82rem/1.45 var(--v2-serif);
+  text-decoration: none;
+}
+
+.summary-toc a:hover {
+  background: var(--v2-accent-soft);
+}
+
+.summary-toc a span,
+.reader-section-label,
+.reader-source-refs {
+  color: var(--v2-accent);
+  font: 600 0.64rem/1.4 var(--v2-sans);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.reader-section-label {
+  margin: 0 0 0.65rem;
+}
+
+.reader-source-refs {
+  margin: 1.5rem 0 0;
+  color: var(--v2-muted);
+}
+
+.reader-source-refs a {
+  color: var(--v2-accent);
+}
+
+.summary-sources ol {
+  margin: 0 0 1.5rem;
+  padding-left: 1.4rem;
+}
+
+.summary-sources li {
+  margin: 0.65rem 0;
+  color: var(--v2-muted);
+  font: 400 0.78rem/1.55 var(--v2-sans);
+}
+
+.summary-sources li span,
+.summary-sources a {
+  color: var(--v2-accent);
+}
+
+.static-summary.is-long-form .reader-chapter-section {
+  margin-bottom: 76px;
+  padding-bottom: 58px;
+}
+
 .static-library .library-header {
   margin-left: 0;
   text-align: left;
@@ -470,5 +586,9 @@
   .research-loader {
     align-items: flex-start;
     flex-direction: column;
+  }
+
+  .summary-toc ol {
+    grid-template-columns: 1fr;
   }
 }
