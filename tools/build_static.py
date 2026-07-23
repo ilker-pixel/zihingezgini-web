@@ -219,7 +219,7 @@ def page_shell(
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/style.css?v=65">
   <link rel="stylesheet" href="/zihin-v2.css?v=4">
-  <link rel="stylesheet" href="/static-pages.css?v=2">
+  <link rel="stylesheet" href="/static-pages.css?v=3">
   <script src="/static-page.js?v=2" defer></script>
 </head>
 <body class="static-page {html.escape(body_class)}">
@@ -491,18 +491,60 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
         takeaway = ""
         if chapter.get("takeaway"):
             takeaway = f'<aside class="reader-takeaway-card"><span class="takeaway-badge">Bölümün özü</span><p>“{html.escape(chapter["takeaway"])}”</p></aside>'
+        section_label = ""
+        if chapter.get("section"):
+            section_label = f'\n          <p class="reader-section-label">{html.escape(chapter["section"])}</p>'
+        source_refs = ""
+        if chapter.get("sourceRefs"):
+            refs = " ".join(
+                f'<a href="#kaynak-{int(ref)}">[{int(ref)}]</a>'
+                for ref in chapter["sourceRefs"]
+            )
+            source_refs = f'<p class="reader-source-refs">Kaynak izi: {refs}</p>'
         chapters.append(f"""
-        <section class="reader-chapter-section" id="{html.escape(str(chapter.get('id', '')))}">
+        <section class="reader-chapter-section" id="{html.escape(str(chapter.get('id', '')))}">{section_label}
           <h2 class="reader-chapter-title">{html.escape(chapter.get('title', ''))}</h2>
           <div class="reader-chapter-wrapper {'has-media' if image or takeaway else ''}">
-            <div class="reader-chapter-text">{paragraphs}</div>
+            <div class="reader-chapter-text">{paragraphs}{source_refs}</div>
             <div class="reader-chapter-media">{image}{takeaway}</div>
           </div>
         </section>""")
     meta = summary.get("meta", {})
+    pdf_link = ""
+    if summary.get("pdfUrl"):
+        pdf_label = summary.get("pdfLabel", "Renkli PDF'yi indir")
+        pdf_link = (
+            f'\n            <a class="summary-download-btn" href="{html.escape(summary["pdfUrl"], quote=True)}" download>'
+            f'<span>{html.escape(pdf_label)}</span><small>Çevrimdışı okumak için</small></a>'
+        )
+    toc = ""
+    if summary.get("longForm"):
+        toc_items = "".join(
+            f'<li><a href="#{html.escape(str(chapter.get("id", "")), quote=True)}">'
+            f'<span>{index:02d}</span>{html.escape(chapter.get("title", ""))}</a></li>'
+            for index, chapter in enumerate(summary.get("chapters", []), 1)
+        )
+        toc = f"""
+        <details class="summary-toc">
+          <summary>{len(summary.get('chapters', []))} duraklık okuma rotasını aç</summary>
+          <ol>{toc_items}</ol>
+        </details>"""
+    sources = ""
+    if summary.get("sources"):
+        source_items = "".join(
+            f'<li id="kaynak-{int(source["id"])}"><span>[{int(source["id"])}]</span> '
+            f'<a href="{html.escape(source["url"], quote=True)}" target="_blank" rel="noopener">'
+            f'{html.escape(source["title"])}</a></li>'
+            for source in summary["sources"]
+        )
+        sources = f"""
+        <details class="summary-sources">
+          <summary>Kaynaklar ve ileri okumalar ({len(summary['sources'])})</summary>
+          <ol>{source_items}</ol>
+        </details>"""
     description = excerpt(summary.get("intro", "")) or f"{summary['title']} kitabının kapsamlı Türkçe özeti."
     body = f"""
-      <article class="summary-reader-container static-summary">
+      <article class="summary-reader-container static-summary{' is-long-form' if summary.get('longForm') else ''}">
         {breadcrumb([("Başlangıç", "/"), ("Okuma Haritası", "/okuma-haritasi/"), (summary['title'], path)])}
         <header class="summary-hero-split">
           <div class="summary-hero-left">
@@ -514,12 +556,12 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
               <div><strong>Orijinal adı:</strong> {html.escape(meta.get('originalTitle', ''))}</div>
               <div><strong>Derleyen:</strong> {html.escape(meta.get('compiler', ''))}</div>
               <div><strong>Tarih:</strong> {html.escape(meta.get('date', ''))}</div>
-            </div>
+            </div>{pdf_link}
           </div>
           <div class="summary-hero-right"><img src="{html.escape(summary.get('coverImage', '/images/thinking_man_sketch.png'), quote=True)}" class="summary-featured-img" alt="{html.escape(summary['title'], quote=True)}"></div>
         </header>
-        <div class="summary-intro-box"><h2>Giriş</h2><p>{summary.get('intro', '')}</p></div>
-        <div class="summary-chapters-list">{''.join(chapters)}</div>
+        <div class="summary-intro-box"><h2>Giriş</h2><p>{summary.get('intro', '')}</p></div>{toc}
+        <div class="summary-chapters-list">{''.join(chapters)}</div>{sources}
         <footer class="summary-reader-footer"><p class="disclaimer-text"><strong>Telif ve sorumluluk notu:</strong> Bu çalışma eğitim ve araştırma amacıyla yapay zekâ desteğiyle hazırlanmış bir özettir; özgün eserin yerini tutmaz.</p></footer>
       </article>"""
     schema = {
