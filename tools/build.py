@@ -101,8 +101,8 @@ def run_build():
     
     for post in all_details:
         content = post.get("content", "")
-        # Detect YouTube link inside content
-        has_audio = bool(re.search(youtube_regex, content))
+        # Detect either a local audio file or a YouTube link inside content.
+        has_audio = bool(post.get("audioFile")) or bool(re.search(youtube_regex, content))
         
         fihrist_posts.append({
             "title": post.get("title", ""),
