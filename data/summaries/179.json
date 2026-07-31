@@ -5,6 +5,110 @@
   "subtitle": "Modern hayatın ürettiği görünmez tehlikeleri; su bardağı, asansör, fabrika, uygulama çalışanı ve mahalle sensörü üzerinden anlatan sade rehber.",
   "coverImage": "/images/summary-art-179-risk-toplumu-v2.webp",
   "coverStyle": "artwork",
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#8F3D2F",
+  "chapterArtworks": {
+    "durak-07-01-durak-modernlik-ve-risk-toplumu": {
+      "image": "/images/summary-art-179-chapter-01-modernity-risk-v1.webp",
+      "imageCaption": "Asansör ilerlemeyi taşırken ihmal edilen fren aynı anda yeni bir risk üretir."
+    },
+    "durak-08-02-durak-tehlike-ile-risk-arasindaki-fark": {
+      "image": "/images/summary-art-179-chapter-02-hazard-versus-risk-v1.webp",
+      "imageCaption": "Aynı yağmur, farklı altyapı ve eşitsizlik yüzünden iki mahallede farklı felaket yaratır."
+    },
+    "durak-09-03-durak-servet-dagilimi-ve-risk-dagilimi": {
+      "image": "/images/summary-art-179-chapter-03-wealth-risk-distribution-v1.webp",
+      "imageCaption": "Kazanç bir tarafa, sağlık ve çevre yükü başka tarafa akabilir."
+    },
+    "durak-10-04-durak-riskin-geri-donusu-bumerang-etkisi": {
+      "image": "/images/summary-art-179-chapter-04-boomerang-effect-v1.webp",
+      "imageCaption": "Uzağa gönderilen zarar, bağlı dünya içinde bumerang gibi geri döner."
+    },
+    "durak-11-05-durak-risklerin-kuresellesmesi": {
+      "image": "/images/summary-art-179-chapter-05-globalized-risk-v1.webp",
+      "imageCaption": "Tek bir liman arızası, uzak fabrikadan evdeki sofraya kadar zincirleme yayılabilir."
+    },
+    "durak-12-06-durak-gorunmeyen-riskler-ve-olcum": {
+      "image": "/images/summary-art-179-chapter-06-invisible-risk-measurement-v1.webp",
+      "imageCaption": "Görünmeyen kirlilik, ölçüm cihazının nerede durduğuna göre bile saklanabilir."
+    },
+    "durak-13-07-durak-bilim-belirsizlik-ve-cifte-rol": {
+      "image": "/images/summary-art-179-chapter-07-science-double-role-v1.webp",
+      "imageCaption": "Bilim yeni imkânları hızlandırır; aynı zamanda onların zararını bulan fren sistemidir."
+    },
+    "durak-14-08-durak-medya-ve-risk-algisi": {
+      "image": "/images/summary-art-179-chapter-08-media-risk-perception-v1.webp",
+      "imageCaption": "Çarpıcı felaket ekranda büyürken yavaş ve yaygın zarar görünmez kalabilir."
+    },
+    "durak-15-09-durak-uzmanlik-ve-bilgi-siyaseti": {
+      "image": "/images/summary-art-179-chapter-09-expertise-knowledge-politics-v1.webp",
+      "imageCaption": "Risk bilgisinde yalnız sonuç değil, kimin ölçtüğü ve kimin dinlendiği de önemlidir."
+    },
+    "durak-16-10-durak-orgutlu-sorumsuzluk": {
+      "image": "/images/summary-art-179-chapter-10-organized-irresponsibility-v1.webp",
+      "imageCaption": "Zarar ortadadır; kurumlar sorumluluğu birbirine devrettiğinde fail görünmezleşir."
+    },
+    "durak-18-11-durak-dusunumsel-modernlesme": {
+      "image": "/images/summary-art-179-chapter-11-reflexive-modernization-v1.webp",
+      "imageCaption": "Modern toplum, kendi yarattığı yan etkilere bakıp yönünü yeniden kurabilir."
+    },
+    "durak-19-12-durak-bireysellesme": {
+      "image": "/images/summary-art-179-chapter-12-individualization-v1.webp",
+      "imageCaption": "Hazır yolların çözülmesi özgürlük verirken bütün başarısızlığı bireyin omzuna bırakabilir."
+    },
+    "durak-20-13-durak-sinif-ve-statunun-otesi-mi": {
+      "image": "/images/summary-art-179-chapter-13-class-inside-risk-v1.webp",
+      "imageCaption": "Aynı sel, korunma gücü farklı insanları aynı şiddette vurmaz."
+    },
+    "durak-21-14-durak-bireysellesme-icindeki-standartlasma": {
+      "image": "/images/summary-art-179-chapter-14-standardized-individualization-v1.webp",
+      "imageCaption": "Farklı seçimler, aynı sınav, kredi ve puan kapılarından geçmek zorunda kalabilir."
+    },
+    "durak-22-15-durak-aile-cinsiyet-ve-ic-dis-catismasi": {
+      "image": "/images/summary-art-179-chapter-15-family-gender-conflict-v1.webp",
+      "imageCaption": "Ev dışındaki eşitlik büyürken görünmeyen bakım yükü bir kişinin üzerinde kalabilir."
+    },
+    "durak-23-16-durak-calismanin-standart-disina-cikmasi": {
+      "image": "/images/summary-art-179-chapter-16-platform-work-v1.webp",
+      "imageCaption": "Uygulama özgürlük sözü verirken puan ve sipariş akışı çalışanı yönetebilir."
+    },
+    "durak-25-17-durak-alt-siyaset": {
+      "image": "/images/summary-art-179-chapter-17-sub-politics-v1.webp",
+      "imageCaption": "Siyaset yalnız parlamentoda değil; laboratuvar, şirket, sokak ve mahkemede de kurulur."
+    },
+    "durak-26-18-durak-cevre-siyaseti": {
+      "image": "/images/summary-art-179-chapter-18-environmental-politics-v1.webp",
+      "imageCaption": "Ölü balıkları görünür kılan yurttaş, çevre zararını siyasi bir meseleye dönüştürür."
+    },
+    "durak-27-19-durak-cernobil-ve-buyuk-teknolojik-kaza": {
+      "image": "/images/summary-art-179-chapter-19-chernobyl-family-v1.webp",
+      "imageCaption": "Görünmeyen radyasyon, teknik kazayı süt, sebze ve çocuk sağlığı kararına dönüştürür."
+    },
+    "durak-28-20-durak-ihtiyat-ilkesi": {
+      "image": "/images/summary-art-179-chapter-20-precautionary-principle-v1.webp",
+      "imageCaption": "Ciddi zarar ihtimalinde kusursuz kanıtı beklemek de başlı başına bir karar ve risk olabilir."
+    },
+    "durak-29-21-durak-salginlar-ve-sistemik-risk": {
+      "image": "/images/summary-art-179-chapter-21-pandemic-systemic-risk-v1.webp",
+      "imageCaption": "Salgın, hastane yatağından okula, işe, mağazaya ve eve yayılan sistemik bir zincirdir."
+    },
+    "durak-30-22-durak-iklim-krizi-ve-esitsizlik": {
+      "image": "/images/summary-art-179-chapter-22-climate-inequality-v1.webp",
+      "imageCaption": "Aynı sıcak dalgası, korunma imkânı eşit olmayan insanlarda bambaşka sonuçlar yaratır."
+    },
+    "durak-31-23-durak-dijital-sistemler-ve-yapay-zeka": {
+      "image": "/images/summary-art-179-chapter-23-ai-bias-risk-v1.webp",
+      "imageCaption": "Tarafsız görünen makine, geçmişteki ayrımcılığı verisinin içine saklayabilir."
+    },
+    "durak-32-24-durak-risk-toplumu-teorisinin-elestirileri": {
+      "image": "/images/summary-art-179-chapter-24-theory-limits-v1.webp",
+      "imageCaption": "Bir teori ana yolları gösterir; haritada görünmeyen mahalleleri yok saymamak gerekir."
+    },
+    "durak-33-25-durak-kitabin-kalici-mirasi": {
+      "image": "/images/summary-art-179-chapter-25-lasting-legacy-v1.webp",
+      "imageCaption": "Beck'in kalıcı sorusu, kazancın yanına ikinci sandalyeyi çeker: Riski kim taşıyacak?"
+    }
+  },
   "pdfUrl": "/data/pdfs/179-risk-toplumu-ozeti.pdf",
   "pdfLabel": "28 sayfalık PDF'yi indir",
   "longForm": true,
