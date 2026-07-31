@@ -1,0 +1,371 @@
+{
+  "bookNo": 36,
+  "title": "Hızlı ve Yavaş Düşünme",
+  "author": "Daniel Kahneman",
+  "subtitle": "Zihnin hızlı kestirmeleriyle yavaş denetimini, günlük kararların görünmeyen tuzaklarını ve bu fikirlerin sınırlarını canlı örneklerle anlatan rehber.",
+  "coverImage": "/images/summary-art-36-hizli-ve-yavas-dusunme-v2.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/36-hizli-ve-yavas-dusunme-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#72515C",
+  "meta": {
+    "originalTitle": "Thinking, Fast and Slow",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir fiyat etiketinin ilk gördüğümüz sayısı pazarlığımızı etkileyebilir. Kötü bir haber, dünyadaki tehlikeyi olduğundan büyük hissettirebilir. Bir projenin geçmişteki benzerlerini unutup bu kez her şeyin kusursuz gideceğini düşünebiliriz. Daniel Kahneman bu şaşırtıcı hataları iki akılda kalıcı oyuncuyla anlatır: Hızlı, çağrışımlı ve çabasız çalışan Sistem 1 ile hesap yapan, dikkat isteyen Sistem 2. Bu rehber kitabın bütün büyük bölümlerini koruyor; kavramları alışverişten doktor kararına, tatilden iş planına uzanan sahnelerle açıyor. Aynı zamanda iki sistemin gerçek beyin bölmeleri değil anlatım benzetmeleri olduğunu, her sezginin hata sayılmayacağını ve sosyal hazırlama gibi bazı ünlü deneylerin tekrar sınamalarında tartışma çıktığını açıkça belirtiyor.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Macmillan - Hızlı ve Yavaş Düşünme resmi kitap tanıtımı",
+      "url": "https://us.macmillan.com/books/9780374275631/thinkingfastandslow/"
+    },
+    {
+      "id": 2,
+      "title": "Nobel Prize - Daniel Kahneman Nobel dersi",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/"
+    },
+    {
+      "id": 3,
+      "title": "Nobel Prize - Sınırlı akılcılık ve karar verme özeti",
+      "url": "https://www.nobelprize.org/prizes/economic-sciences/2002/popular-information/"
+    },
+    {
+      "id": 4,
+      "title": "Nature - Davranış biliminde tekrarlanabilirlik bağlamı",
+      "url": "https://www.nature.com/articles/s44271-023-00003-2"
+    },
+    {
+      "id": 5,
+      "title": "PMC - Sosyal hazırlama çalışmalarının çok laboratuvarlı sınaması",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10031630/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Bu kitap bir hata avcılığı yarışması değildir. Kahneman'ın amacı insanı aptal ilan etmek değil, çoğu gün mükemmel iş gören hızlı düşünmenin hangi koşullarda düzenli biçimde yanılabildiğini göstermektir.",
+        "Sistem 1 ve Sistem 2, kafamızda yaşayan iki küçük kişi değildir. Biri otomatik işlemler, diğeri dikkat isteyen işlemler için kullanılan öğretici adlardır. Aynı kararın içinde ikisi de yer alabilir; aralarında kesin bir duvar yoktur.",
+        "Her bölümde üç soru kullanacağız: Zihin hangi kestirmeyi yaptı, bu kestirme normalde neden işe yarıyor ve hangi bilgi onu yanıltıyor? Böyle okuyunca kavramlar ezber listesi olmaktan çıkar, günlük kararlar için kontrol paneline dönüşür."
+      ]
+    },
+    {
+      "id": "durak-02-sopayla-topun-bir-liralik-sasirtmacasi",
+      "section": "BİRİNCİ KISIM · İKİ ÇALIŞMA TARZI",
+      "title": "Sopayla topun bir liralık şaşırtmacası",
+      "paragraphs": [
+        "Bir sopa ile top birlikte 1 lira 10 kuruş olsun. Sopa toptan 1 lira pahalıysa top kaç kuruştur? Zihin çoğu kişiye hemen 10 kuruş der. Cevap akıcı ve ikna edicidir, fakat sopa 1 lira 10 kuruş olursa toplam 1 lira 20 kuruşa çıkar.",
+        "Yavaşça denklem kurunca topun 5, sopanın 1 lira 5 kuruş olduğu görülür. İlk cevap rastgele değildir; zihin toplam ile farkı birbirine karıştıran kolay bir işlem yapmıştır. Sistem 1 soruya benzeyen daha basit bir soruyu yanıtlamıştır.",
+        "Hızlı düşünme konuşmayı anlamak, yüzü tanımak ve ani tehlikede frene basmak için vazgeçilmezdir. Her işlemi uzun hesapla yapsaydık markette bir rafın önünden ayrılamazdık. Sorun hız değil, hızın ürettiği cevabın denetlenmeden onaylanmasıdır.",
+        "Sistem 2 kontrol edebilir ama dikkat pahalıdır. Yorgunken, acelemiz varken veya cevap hoşumuza gitmişken denetim zayıflar. Bu yüzden basit görünen kritik bir hesapta kalem kullanmak, zekasızlık değil iyi tasarımdır.",
+        "Sopa ve top, kitabın küçük amblemidir: Aklımıza ilk gelen cevap bazen yalnızca aklımıza ilk gelendir."
+      ]
+    },
+    {
+      "id": "durak-03-dikkatin-dar-isigi",
+      "section": "BİRİNCİ KISIM · İKİ ÇALIŞMA TARZI",
+      "title": "Dikkatin dar ışığı",
+      "paragraphs": [
+        "Kalabalık bir istasyonda arkadaşınızla konuşurken arkanızdaki ilan değişebilir ve siz fark etmeyebilirsiniz. Göz açık olduğu halde görmek, dikkatin oraya ayrıldığı anlamına gelmez. Zihin kameradan çok seçici bir sahne ışığı gibi çalışır.",
+        "Ünlü bir görevde insanlardan top paslarını saymaları istenir. Sayıya gömülen bazı izleyiciler kadrajdan geçen olağanüstü bir figürü bile kaçırır. Sonradan görüntü gösterilince bunu nasıl görmediklerine inanamazlar.",
+        "Sistem 2 bir işi dikkatle yaparken başka işlere ayıracak kaynağı azalır. Araç kullanırken zor bir adresi arayan kişinin radyoyu kısması bu yüzden tanıdıktır. Ses yolu kapatmıyordur; dikkat yükünü azaltmak isteriz.",
+        "Kaçırdığımız şeyi kaçırdığımızı da bilmeyebiliriz. Bu durum tanıklıkta, tıpta ve iş güvenliğinde önemlidir. 'Bakıyordum, demek ki görürdüm' güvenilir bir kural değildir.",
+        "Dikkat ışığı güçlüdür ama dardır. Önemli kararları tek kişinin gözüne bırakmamak, kontrol listesi ve ikinci göz kullanmak bu insani sınırı kabul etmektir."
+      ]
+    },
+    {
+      "id": "durak-04-tembel-denetci-neden-hemen-atlamaz",
+      "section": "BİRİNCİ KISIM · İKİ ÇALIŞMA TARZI",
+      "title": "Tembel denetçi neden hemen atlamaz?",
+      "paragraphs": [
+        "Kahneman Sistem 2'yi biraz tembel bir denetçiye benzetir. Denetçi gerektiğinde hesap yapar, kurala uyar ve dürtüyü bastırır; fakat her küçük işlem için masadan kalkmak istemez. Çoğu öneriyi hızlı sistemden kabul eder.",
+        "Uzun bir günün sonunda internetten alışveriş yaparken sepete eklenen ürünü daha az sorgulamamız bu tabloya uyar. Dikkat ve özdenetim sınırsız pil değildir. Yine de bunun basit bir enerji deposu gibi ölçüldüğü bazı eski iddialar daha sonra tartışılmıştır.",
+        "Denetçinin tembelliği bütünüyle kusur değildir. Sabah kapıyı açmak, tanıdık yolda yürümek ve her sözcüğü anlamak için kurul toplasaydık hayat kilitlenirdi. Alışkanlıklar zihinsel emeği tasarruf eder.",
+        "Asıl soru hangi kararı otomatiğe bırakacağımızdır. Ucuz, geri döndürülebilir seçimlerde hız işe yarar. Sağlık, büyük para ve başkasının hayatını etkileyen kararlarda küçük bir bekleme aralığı değerlidir.",
+        "İyi karar veren kişi her zaman yavaş değildir; yavaşlamaya değen yeri tanır."
+      ]
+    },
+    {
+      "id": "durak-05-cagrisim-makinesi-boslugu-doldurur",
+      "section": "BİRİNCİ KISIM · İKİ ÇALIŞMA TARZI",
+      "title": "Çağrışım makinesi boşluğu doldurur",
+      "paragraphs": [
+        "'Muz' sözcüğünden sonra 'sarı', 'meyve' veya 'maymun' daha kolay akla gelir. Zihin tek tek dosya çekmek yerine bağlantılı bir ağ çalıştırır. Bir düşünce komşusunu uyandırır, o da başka bir kapıyı açar.",
+        "Bu ağ sayesinde yarım cümleyi tamamlar, yüz ifadesinden niyet sezer ve hikayeyi hızla kavrarız. Fakat ağ kanıt görmeden de tutarlı sahne kurabilir. Bir kişi için önce 'soğuk' kelimesini duyunca belirsiz davranışını daha mesafeli yorumlayabiliriz.",
+        "Kitap hazırlama etkilerine geniş yer verir: Önce görülen bir işaret sonraki düşünceyi kolaylaştırabilir. Kelime tanıma gibi temel hazırlama etkileri sağlamdır; bazı geniş sosyal davranış iddiaları ise tekrarlama çalışmalarında aynı gücü göstermemiştir.",
+        "Bu ayrım önemlidir. İlginç bir deney, bütün insanların gizli düğmelerle uzaktan yönetildiğini kanıtlamaz. Etkinin büyüklüğü, koşulu ve tekrar edilebilirliği ayrı ayrı sorulmalıdır.",
+        "Çağrışım makinesi dünyayı hızlı anlamlandırır. Onu susturamayız; fakat kurduğu ilk hikayenin tek mümkün hikaye olmadığını hatırlayabiliriz."
+      ]
+    },
+    {
+      "id": "durak-06-ilk-sayi-pazarligin-gorunmez-kazigi",
+      "section": "İKİNCİ KISIM · KESTİRMELER",
+      "title": "İlk sayı pazarlığın görünmez kazığı",
+      "paragraphs": [
+        "Bir emlakçı önce çok yüksek bir fiyat söylerse sonraki indirim makul görünebilir. İlk sayı konuyla ilgisiz olsa bile tahminleri kendi yönüne çekebilir. Kahneman buna çapalama etkisi der.",
+        "Gemi yaşı sorulmadan önce rulette büyük sayı gören birinin tahmini, küçük sayı göreninkinden yüksek çıkabilir. İnsanlar sayının rastgele olduğunu bilse bile zihin o çevrede cevap aramaya başlar.",
+        "Pazarlıkta satıcının ilk rakamı yalnız teklif değil, ölçü cetveli olur. İndirim yüzdesi aynı cetvele bağlı olduğu için sahte bir kazanç hissi doğabilir. Savunma, ilk fiyattan önce bağımsız piyasa aralığı hazırlamaktır.",
+        "Çapa her kişiyi aynı miktarda çekmez ve sihir değildir. Bilgi, uzmanlık ve açık karşılaştırma etkisini azaltabilir. Fakat 'bana işlemez' demek kanıt sayılmaz; çünkü hareket çoğu zaman bilinç dışında başlar.",
+        "Bir sayı masaya geldiğinde önce kaynağını sorun: Ölçüm mü, istek mi, rastgele başlangıç mı? Cetvel eğriyse hassas hesap da eğri sonuç verir."
+      ]
+    },
+    {
+      "id": "durak-07-haberlerde-coksa-dunyada-da-cok-sanmak",
+      "section": "İKİNCİ KISIM · KESTİRMELER",
+      "title": "Haberlerde çoksa dünyada da çok sanmak",
+      "paragraphs": [
+        "Uçak kazası görüntüleri günlerce ekranda kalır; sıradan trafik kazaları tek tek haber olmaz. Bu yüzden uçuş riski zihinde olduğundan daha büyük, her gün kullanılan yol daha sıradan hissedilebilir.",
+        "Zihin bir olayın olasılığını hesaplarken belleğe sorar: Bundan kaç örnek kolayca bulabiliyorum? Canlı, yeni ve duygulu örnekler hızlı gelir. Kahneman bu kestirmeye bulunabilirlik der.",
+        "Kestirme bazen akıllıdır. Mahallede üç dükkana aynı hırsız girmişse kolay hatırlama gerçek bir artışı gösterebilir. Sorun, medyanın seçimi veya kişisel travmanın görünürlük ile sıklık arasındaki bağı bozmasıdır.",
+        "Bir hastalığı yaşayan arkadaşınız olması, riskin sizin için arttığını göstermeyebilir; yalnız zihinsel yakınlığı artırır. Tersine sessiz ilerleyen yaygın riskler manşet olmadığı için küçümsenebilir.",
+        "Canlı örneği çöpe atmayın, yanına taban oranını koyun. Hikaye 'bu olabilir' der; sayı 'ne kadar sık olur' sorusunu yanıtlar."
+      ]
+    },
+    {
+      "id": "durak-08-ikna-edici-profil-ile-gercek-olasilik",
+      "section": "İKİNCİ KISIM · KESTİRMELER",
+      "title": "İkna edici profil ile gerçek olasılık",
+      "paragraphs": [
+        "Sessiz, düzenli ve kitap düşkünü bir kişi anlatıldığında onun kütüphaneci olduğunu tahmin etmek kolaydır. Profil kalıba uyar. Fakat toplumda satış görevlisi sayısı kütüphaneciden çok fazlaysa başlangıç oranı sonucu etkiler.",
+        "Temsil edicilik kestirmesi 'Bu kişi hangi hikayeye benziyor?' sorusunu yanıtlar. Olasılık sorusu ise hem benzerliği hem de grupların ne kadar yaygın olduğunu ister. Zihin çoğu zaman yalnız renkli profili kullanır.",
+        "Bir girişimci enerjik ve parlak sunum yapıyor diye şirketinin başarılı olma olasılığı kendiliğinden yükselmez. Sektördeki kapanma oranı, sermaye ve müşteri verisi de masada olmalıdır.",
+        "Kalıplar bütünüyle işe yaramaz değildir; deneyimden özet bilgi taşıyabilir. Fakat küçük bir betimleme, güvenilir istatistiği silmemelidir. Özellikle işe alımda profil hikayesi önyargıyı bilim kılığına sokabilir.",
+        "İyi soru şudur: Bu betimlemeyi hiç görmeseydim başlangıç olasılığını kaç verirdim? Sonra yeni kanıtın onu ne kadar değiştirmesi gerektiğini düşünün."
+      ]
+    },
+    {
+      "id": "durak-09-kucuk-hastanenin-buyuk-dalgalanmasi",
+      "section": "İKİNCİ KISIM · KESTİRMELER",
+      "title": "Küçük hastanenin büyük dalgalanması",
+      "paragraphs": [
+        "Bir şehirde küçük ve büyük hastane olsun. Erkek bebek oranının bir yıl boyunca yüzde 60'ı aştığı günler hangisinde daha çok görülür? Birçok kişi eşit der; oysa küçük hastanede günlük doğum az olduğu için rastlantı daha geniş sallanır.",
+        "On kez para atınca yedi tura şaşırtıcı değildir. On bin atışta yüzde 70 tura son derece şaşırtıcıdır. Örnek büyüdükçe rastlantısal uçlar genellikle daralır.",
+        "İnsanlar küçük örneklerin bütünü kusursuz temsil etmesini bekler. Üç müşterinin övgüsüyle ürünün harika, iki kötü haftayla yatırımın çürük olduğuna karar veririz. Küçük sayı gürültüyü karakter gibi gösterir.",
+        "Küçük örnek hiçbir şey anlatmaz demek de yanlıştır. İlk ipucunu verir; yalnız güven aralığı geniştir. Kararın ağırlığına göre daha çok veri veya tekrar gerekir.",
+        "Dalgalanan küçük hastane, istatistikte sık unutulan bir resmi akılda tutar: Az sayıda olay, şansın sesini yükseltir."
+      ]
+    },
+    {
+      "id": "durak-10-pilotun-basarisi-neden-ortalamaya-doner",
+      "section": "İKİNCİ KISIM · KESTİRMELER",
+      "title": "Pilotun başarısı neden ortalamaya döner?",
+      "paragraphs": [
+        "Bir eğitmen olağanüstü iniş yapan pilotu övdükten sonra sonraki inişin kötüleştiğini, kötü inişi azarladıktan sonra ise düzeldiğini görür. Buradan övgünün bozduğu, cezanın geliştirdiği sonucunu çıkarabilir.",
+        "Oysa olağanüstü sonuçların bir kısmı beceriye, bir kısmı da rüzgar gibi geçici şansa bağlıdır. Aşırı iyi günün ardından daha sıradan, aşırı kötü günün ardından daha sıradan sonuç gelmesi doğaldır. Buna ortalamaya dönüş denir.",
+        "Bir öğrenci en kötü sınavından sonra özel ders alıp yükselirse bütün artışı derse yazmak kolaydır. Ders yararlı olabilir; fakat başlangıç zaten olağandışı düşükse bir miktar dönüş beklenirdi. Karşılaştırma grubu bu yüzden değerlidir.",
+        "Ortalamaya dönüş kader değildir ve her değişimi açıklamaz. Yalnız aşırı ölçümden sonra doğal bir geri hareket beklendiğini söyler. Nedensel hikaye kurmadan önce bu matematiksel gölge kontrol edilmelidir.",
+        "Pilot sahnesi, geri bildirimin değerini azaltmaz. Bize yalnız ödül ve cezanın etkisini görmek için ilk bakıştan daha iyi deney gerektiğini öğretir."
+      ]
+    },
+    {
+      "id": "durak-11-gordugun-her-seymis-gibi",
+      "section": "ÜÇÜNCÜ KISIM · AŞIRI GÜVEN",
+      "title": "Gördüğün her şeymiş gibi",
+      "paragraphs": [
+        "Bir iş adayının sıcak konuşması ve düzgün özgeçmişi elimizdeyse zihin hızla güvenilir bir kişi hikayesi kurar. Bilmediğimiz referanslar, ölçülmemiş beceriler ve görüşme günündeki şans sahnenin dışında kalır.",
+        "Kahneman bu eğilimi 'elde olan bilgi her şeymiş gibi' düşünmekle anlatır. Zihin tutarlı hikayeyi, bilginin miktarından daha çok sever. İki uyumlu ipucu, on karışık ipucundan daha ikna edici hissedebilir.",
+        "Haber başlığı suçlayıcıysa kişi hakkındaki ilk yargı oluşur; sonraki düzeltme aynı güce ulaşmayabilir. Eksikliği görmek için özel çaba gerekir, çünkü görünmeyen veri kendi adına bağırmaz.",
+        "Çözüm her kararı sonsuz veriyle boğmak değildir. Önemli kararda kısa bir 'Neyi bilmiyoruz?' turu yapmak, karşı kanıt aramak ve ayrı gözlemcilerin değerlendirmesini önce bağımsız almak hikaye baskısını azaltır.",
+        "Projektörün içi çok aydınlıksa sahnenin geri kalanının karanlık olduğunu unutmak kolaydır."
+      ]
+    },
+    {
+      "id": "durak-12-sonucu-bildikten-sonra-gecmis-dumduz-gorunur",
+      "section": "ÜÇÜNCÜ KISIM · AŞIRI GÜVEN",
+      "title": "Sonucu bildikten sonra geçmiş dümdüz görünür",
+      "paragraphs": [
+        "Bir şirket battığında eski haberlerdeki her sorun işaret gibi parlar. Başarılı olduğunda aynı riskler cesaretin kanıtı sayılabilir. Sonucu öğrendikten sonra geçmişteki belirsizlik silinir.",
+        "Geri görüş yanlılığı 'zaten belliydi' duygusu üretir. Oysa karar anındaki insanlar geleceğin hangi dalının gerçekleşeceğini bilmiyordu. Sonuç, eski ihtimalleri yeniden boyar.",
+        "Bu yanlılık yöneticiyi yalnız sonuçla değerlendirmeye iter. İyi süreç kötü şansla kaybedebilir, kötü süreç iyi şansla kazanabilir. Kumar masasında tek el, stratejinin kalitesini göstermez.",
+        "Karar günlüğü yararlıdır: Karardan önce ne bildiğinizi, hangi olasılıkları verdiğinizi ve neyin fikrinizi değiştireceğini yazın. Sonra hafızanın başarı hikayesine küçük bir kayıt karşı koyar.",
+        "Geçmiş film değildir; sonucu bilen anlatıcının yeniden kurguladığı bir hikayedir. Adaletli ders çıkarmak için eski belirsizliği geri çağırmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-13-itfaiyecinin-sezgisi-ile-borsa-tahmini-ayni-mi",
+      "section": "ÜÇÜNCÜ KISIM · AŞIRI GÜVEN",
+      "title": "İtfaiyecinin sezgisi ile borsa tahmini aynı mı?",
+      "paragraphs": [
+        "Deneyimli bir itfaiyeci zeminde açıklayamadığı bir tuhaflık hissedip ekibini çıkarabilir; saniyeler sonra döşeme çöker. Yıllarca yinelenen düzenler, bilinçli cümle kurulmadan tanınabilir.",
+        "Kahneman ile uzmanlık araştırmacısı Gary Klein'ın ortak ölçüsü iki koşula bakar: Çevrede öğrenilebilir düzen var mı ve kişi hızlı, güvenilir geri bildirim aldı mı? Satranç ve bazı acil durumlar bu koşulları sağlayabilir.",
+        "Borsa gibi yüksek gürültülü alanlarda aynı olay nadiren aynı sonucu üretir. Birkaç başarılı tahmin, kalıcı uzmanlık görüntüsü yaratabilir. Güven duygusu doğruluk ölçeri değildir; hikayenin zihinde ne kadar akıcı olduğudur.",
+        "Doktorun yıllara dayanan örüntü bilgisi değerlidir, fakat nadir hastalıkta taban oranı ve test sonucu yine gerekir. Sezgiyle istatistik düşman değil, farklı koşullarda kullanılan araçlardır.",
+        "Bir uzmanın sözünü değerlendirirken ününden önce eğitim sahasını sorun: Düzen tekrar ediyor muydu, hatayı çabuk görebiliyor muydu?"
+      ]
+    },
+    {
+      "id": "durak-14-proje-iceriden-kisa-disaridan-uzun-gorunur",
+      "section": "ÜÇÜNCÜ KISIM · AŞIRI GÜVEN",
+      "title": "Proje içeriden kısa, dışarıdan uzun görünür",
+      "paragraphs": [
+        "Bir ekip yeni ders kitabını iki yılda bitireceğine inanır. Herkes kendi planını, yeteneğini ve güzel işbirliğini görür. Benzer ekiplerin çoğunun yedi yılda bitirdiği veya bıraktığı bilgisi ise kenarda kalır.",
+        "İçeriden bakış özel hikayeyi anlatır: Kim ne yapacak, işler nasıl ilerleyecek? Dışarıdan bakış benzer projelerin gerçek dağılımını sorar. Planlama yanılgısı, ilk hikayenin ikinci veriyi bastırmasıdır.",
+        "Ev tadilatında ustaya yalnız bu evin kaç hafta süreceğini sormak yerine son yirmi benzer işin ortancasını sorun. Sonra gerçekten özel olan koşullar için düzeltme yapın. Referans sınıfı kaba ama sağlam bir başlangıç verir.",
+        "İyimserlik girişim enerjisi yaratabilir; hiç kimse bütün güçlükleri canlı hissetse başlamayabilir. Fakat bütçe ve takvim, motivasyon konuşmasından farklı bir görevdir. Umutla muhasebeyi aynı tabloya yazmamak gerekir.",
+        "Dışarıdan bakış kişisel hikayeyi küçümsemez. Onu dünyadaki benzer hikayelerin içine yerleştirir."
+      ]
+    },
+    {
+      "id": "durak-15-kazanc-ve-kayip-nereden-olculur",
+      "section": "DÖRDÜNCÜ KISIM · KARARLAR",
+      "title": "Kazanç ve kayıp nereden ölçülür?",
+      "paragraphs": [
+        "Maaşınızın 40 binden 50 bine çıkmasıyla 60 binden 50 bine düşmesi aynı son gelire ulaştırır. Buna rağmen hisler ters olur. Zihin yalnız son serveti değil, başladığı noktaya göre değişimi değerlendirir.",
+        "Kahneman ve Amos Tversky'nin beklenti teorisi, kararların referans noktasına bağlı olduğunu söyler. Sıfır çizgisi bankadaki mutlak toplam değil; dün, beklenti, komşu veya ilan edilen hedef olabilir.",
+        "Bir mağaza önce fiyatı yükseltip sonra indirim yazdığında referans noktamızı etkiler. Ürün aynı olduğu halde '200 lira kazandım' hissi doğar. Gerçek soru alternatif mağazalarda ne ödendiğidir.",
+        "Referans noktası sabit değildir. Zam kısa süre sonra yeni normale dönüşür; ilk sevinç azalır. Bu uyum, daha fazlasının neden her zaman aynı mutluluk artışını vermediğini kısmen açıklar.",
+        "Kararda önce sıfır çizgisini bulun. Bazen tartıştığınız seçenekler değil, gizlice seçilmiş başlangıç noktası duyguyu yönetir."
+      ]
+    },
+    {
+      "id": "durak-16-kupayi-vermek-almaktan-daha-aci",
+      "section": "DÖRDÜNCÜ KISIM · KARARLAR",
+      "title": "Kupayı vermek almaktan daha acı",
+      "paragraphs": [
+        "Bir gruba kahve kupası verilir, diğerine satın alma fırsatı sunulur. Kupaya sahip olanların istediği satış fiyatı, sahip olmayanların vermek istediğinden yüksek olabilir. Sahiplik, nesneyi kayıp tarafına taşır.",
+        "Kayıptan kaçınma, eşit miktardaki kaybın benzer kazançtan çoğu durumda daha ağır hissedilmesini anlatır. Yüz lira bulmanın sevinci, yüz lira kaybetmenin acısını tam dengelemeyebilir.",
+        "Bu yüzden insanlar kötü yatırımı sırf zararı kabul etmemek için tutabilir veya değişimin olası kaybını büyütüp mevcut düzenin görünmeyen maliyetini küçümseyebilir. Statüko bedava değildir ama kayıp gibi görünmez.",
+        "Etkiler bağlama göre değişir; her insan ve her karar aynı oranı göstermez. Laboratuvar bulgusunu değişmez doğa yasası gibi kullanmak kitabın kendi uyarısına ters düşer.",
+        "Kupayı elinize aldığınız anda fiyatın değişmesi, değerin yalnız nesnede değil, sahiplikle kurulan ilişkide de üretildiğini gösterir."
+      ]
+    },
+    {
+      "id": "durak-17-ayni-ameliyat-baska-cumle",
+      "section": "DÖRDÜNCÜ KISIM · KARARLAR",
+      "title": "Aynı ameliyat, başka cümle",
+      "paragraphs": [
+        "Bir doktor ameliyat için 'Yüz hastanın doksanı yaşıyor' diyebilir. Başka doktor 'Yüz hastanın onu ölüyor' der. Sayısal bilgi aynıdır; yaşama ve ölüm çerçevesi karar duygusunu değiştirebilir.",
+        "Çerçeveleme etkisi, kararın yalnız sonuca değil nasıl sunulduğuna bağlı olduğunu gösterir. Et yüzde 80 yağsız dendiğinde, yüzde 20 yağlı denmesine göre daha çekici gelebilir.",
+        "Her dil seçimi çerçevedir; tamamen çerçevesiz konuşamayız. Etik görev önemli kararda eşdeğer sunumları yan yana koymak, mutlak sayıları göstermek ve gizlenen karşı seçeneği görünür kılmaktır.",
+        "Siyasette vergi 'yük', yatırım veya 'ortak katkı' olarak adlandırılabilir. Sözcük yalnız süs değildir; hangi değer ve kaybın öne çıkacağını düzenler. Yine de çerçeve etkisi insanların hiçbir gerçek tercihi olmadığı anlamına gelmez.",
+        "Aynı ameliyatı iki cümleyle duyunca fikriniz değişiyorsa durup veriyi ortak bir biçime çevirin. Dil değişsin, hesap aynı kalsın."
+      ]
+    },
+    {
+      "id": "durak-18-nadir-ihtimaller-neden-hem-korkutur-hem-cezbedici-gelir",
+      "section": "DÖRDÜNCÜ KISIM · KARARLAR",
+      "title": "Nadir ihtimaller neden hem korkutur hem cezbedici gelir?",
+      "paragraphs": [
+        "Piyango bileti küçük bir olasılığa büyük ağırlık verir; sigorta da küçük felaket ihtimalini satın alınabilir huzura çevirir. İnsan nadir sonuçları bazen olması gerekenden fazla, bazen deneyiminde hiç görmeyince az önemser.",
+        "Beklenti teorisinde olasılıkların psikolojik ağırlığı düz değildir. Kesinlik ile yüzde 99 arasındaki fark, yüzde 40 ile 41 arasından daha büyük hissedilebilir. Kesin kazancı korumak için riskten kaçarken kesin kayıptan kaçmak için risk arayabiliriz.",
+        "Tek karar ile tekrar eden karar ayrılmalıdır. Bir kez oynanan küçük riskin duygusu, yüzlerce benzer kararın toplam hesabından farklıdır. İşletmeler geniş çerçeveyle portföye, birey ise tek olaya bakabilir.",
+        "Nadir olayda yalnız 'olur mu' değil, 'olasılık kaç, zarar ne, kaç kez karşılaşacağım ve telafi gücüm var mı' diye sorun. Düşük olasılık büyük yıkım yaratıyorsa önlem yine akıllıca olabilir."
+      ]
+    },
+    {
+      "id": "durak-19-yasayan-ben-ile-hatirlayan-ben",
+      "section": "BEŞİNCİ KISIM · İKİ BENLİK",
+      "title": "Yaşayan ben ile hatırlayan ben",
+      "paragraphs": [
+        "Bir tatilin her günü güzel geçebilir, fakat son gün bavul kaybolursa anı o kötü sonla renklenir. Yaşayan ben binlerce anı tecrübe eder; hatırlayan ben hikayeyi seçilmiş birkaç sahneyle saklar.",
+        "Kahneman acı veren tıbbi işlemlerde zirve ve sonun hatırada orantısız rol oynayabildiğini anlatır. Süre uzasa bile daha yumuşak bir son, toplam deneyimin anısını iyileştirebilir. Buna süreyi ihmal ve zirve-son örüntüsü denir.",
+        "Bu ayrım tatil planını garipleştirir: Fotoğraf ve final için mi, yaşanacak saatler için mi seçim yapıyoruz? İkisi de gerçek insani çıkar olabilir, fakat aynı şeyi ölçmez.",
+        "Mutluluğun tek sayısı yoktur. Günlük duygular, yaşam memnuniyeti ve hatırlanan hikaye farklı sorulara cevap verir. Birini ölçüp hepsini bildiğimizi sanmak hatadır."
+      ]
+    },
+    {
+      "id": "durak-20-kitabin-sinirlari-ve-tekrarlama-tartismasi",
+      "section": "SINIRLAR VE BUGÜN",
+      "title": "Kitabın sınırları ve tekrarlama tartışması",
+      "paragraphs": [
+        "Kitabın ana omurgası karar bilimine büyük katkı yaptı, fakat içindeki her deney aynı güçte değildir. Özellikle insanların davranışını küçük kelime veya çevre ipuçlarıyla değiştirdiği iddia edilen bazı sosyal hazırlama sonuçları daha büyük tekrar çalışmalarında zayıf ya da tutarsız çıktı.",
+        "Kahneman da araştırmacıları daha sağlam tekrarlar yapmaya çağırdı. Bu gelişme kitabı çöpe atmaz; bilimde bir paketin içindeki bulguların ayrı ayrı tartılması gerektiğini gösterir. Çapa, kayıp çerçevesi veya taban oranı gibi alanların kanıt yapısı da kendi içinde değerlendirilmelidir.",
+        "Sistem 1 ve 2 fiziksel beyin haritası değildir. Hızlı düşünme her zaman kötü, yavaş düşünme her zaman doğru değildir. Uzun uzun düşünen insan da yanlış veri, çıkar veya önyargıyla kötü karar verebilir.",
+        "Yanlılık listesi başkalarını küçümseme aracına dönüşebilir. En kolay yanlılık, kendimizi tarafsız gözlemci saymaktır. İyi kullanım, etiketi karşıdakine yapıştırmadan önce süreç, veri ve geri bildirim düzenini iyileştirmektir.",
+        "Kitabın kalıcı hediyesi kusursuz zihin vaadi değil, hatanın öngörülebilir olduğu yerlerde çevreyi daha iyi tasarlama alışkanlığıdır."
+      ]
+    },
+    {
+      "id": "durak-21-bir-dakikalik-harita",
+      "section": "SONUÇ",
+      "title": "Bir dakikalık harita",
+      "paragraphs": [
+        "Hızlı düşünme çağrışımlı, otomatik ve ucuzdur; yavaş düşünme dikkat, hesap ve denetim ister. Zihin çoğu zaman zor sorunun yerine kolayını cevaplar ve elindeki az bilgiden tutarlı hikaye kurar.",
+        "Çapalar tahmini, bulunabilir örnekler risk duygusunu, temsili profiller taban oranı kullanımını etkiler. Küçük örnekler şansı büyütür, aşırı sonuçlar ortalamaya dönebilir, sonuç bilgisi geçmişi kaçınılmaz gösterir ve içeriden bakış projeyi olduğundan kolay hissettirir.",
+        "Kararlar referans noktasına bağlıdır; kayıp çoğu zaman eşit kazançtan ağır gelir ve aynı sonuç farklı çerçevede farklı hissedilir. Deneyimleyen ben ile hatırlayan ben aynı mutluluk hesabını yapmaz. Çözüm her zaman daha çok düşünmek değil; kontrol listesi, taban oranı, dışarıdan bakış, bağımsız tahmin ve iyi geri bildirimdir."
+      ]
+    },
+    {
+      "id": "durak-22-akilda-kalacak-bes-goruntu",
+      "section": "SONUÇ",
+      "title": "Akılda kalacak beş görüntü",
+      "paragraphs": [
+        "Sopa ve top: İlk cevap kontrol ister. Projektör: Dikkat dar alanı görür. Fiyat çapası: İlk sayı cetveli büker. Küçük hastane: Az veri çok sallanır. Kahve kupası: Sahiplik kaybın ağırlığını değiştirir.",
+        "Bir karar çok önemliyse bu beş görüntüyle kısa tur yapın. Cevabım fazla mı akıcı? Neyi görmüyorum? Başlangıç sayısını kim koydu? Örnek yeterli mi? Vazgeçmeyi kayıp saydığım için mi tutunuyorum?",
+        "Amaç sezgiyi susturmak değildir. Sezgi hayatı taşır; iyi düzenlenmiş yavaş kontrol, yalnızca uçurum kenarlarında korkuluk olur."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-sopayla-topun-bir-liralik-sasirtmacasi": {
+      "image": "/images/summary-art-36-chapter-01-bat-ball-puzzle-v1.webp",
+      "imageCaption": "Sopa ve top sorusu, akıcı ilk cevabın küçük bir yavaş denetimle nasıl değişebildiğini gösterir."
+    },
+    "durak-03-dikkatin-dar-isigi": {
+      "image": "/images/summary-art-36-chapter-02-attention-spotlight-v1.webp",
+      "imageCaption": "Dikkat bir projektör gibi seçtiği alanı aydınlatır; görüntüde bulunan her şey bilinçte görünmez."
+    },
+    "durak-04-tembel-denetci-neden-hemen-atlamaz": {
+      "image": "/images/summary-art-36-chapter-03-lazy-controller-v1.webp",
+      "imageCaption": "Yavaş denetçi her hızlı cevabı incelemez; dikkat pahalı olduğu için çoğu günlük öneriyi otomatik olarak onaylar."
+    },
+    "durak-05-cagrisim-makinesi-boslugu-doldurur": {
+      "image": "/images/summary-art-36-chapter-04-associative-machine-v1.webp",
+      "imageCaption": "Çağrışım ağı bir düşünceden komşusuna sıçrayarak hız kazandırır, bazen eksik kanıttan tamamlanmış hikaye üretir."
+    },
+    "durak-06-ilk-sayi-pazarligin-gorunmez-kazigi": {
+      "image": "/images/summary-art-36-chapter-05-anchoring-sticker-v1.webp",
+      "imageCaption": "İlk görülen sayı görünmez bir çapa gibi sonraki tahminlerin hareket edeceği alanı daraltabilir."
+    },
+    "durak-07-haberlerde-coksa-dunyada-da-cok-sanmak": {
+      "image": "/images/summary-art-36-chapter-06-availability-news-v1.webp",
+      "imageCaption": "Canlı ve sık tekrarlanan haberler belleğe kolay gelir; kolay hatırlamak, olayın gerçekten daha sık olduğu anlamına gelmez."
+    },
+    "durak-08-ikna-edici-profil-ile-gercek-olasilik": {
+      "image": "/images/summary-art-36-chapter-07-representative-profile-v1.webp",
+      "imageCaption": "Bir profil mesleğin kalıbına benzeyebilir, fakat gerçek olasılık o mesleğin toplumdaki başlangıç sıklığını da içerir."
+    },
+    "durak-09-kucuk-hastanenin-buyuk-dalgalanmasi": {
+      "image": "/images/summary-art-36-chapter-08-small-sample-hospital-v1.webp",
+      "imageCaption": "Küçük örneklerde rastlantı daha sert dalgalanır; birkaç gözlem bütün topluluğun temiz minyatürü değildir."
+    },
+    "durak-10-pilotun-basarisi-neden-ortalamaya-doner": {
+      "image": "/images/summary-art-36-chapter-09-regression-pilot-v1.webp",
+      "imageCaption": "Aşırı iyi veya kötü performansın ardından daha sıradan sonuç gelmesi, müdahale olmasa da beklenebilen ortalamaya dönüş olabilir."
+    },
+    "durak-11-gordugun-her-seymis-gibi": {
+      "image": "/images/summary-art-36-chapter-10-wysiati-spotlight-v1.webp",
+      "imageCaption": "Zihin elindeki birkaç uyumlu parçadan tamamlanmış öykü kurar; görünmeyen kanıt sessiz kaldığı için eksiklik hissedilmez."
+    },
+    "durak-12-sonucu-bildikten-sonra-gecmis-dumduz-gorunur": {
+      "image": "/images/summary-art-36-chapter-11-hindsight-story-v1.webp",
+      "imageCaption": "Sonuç öğrenilince geçmişteki dağınık işaretler kaçınılmaz bir yol gibi dizilir; karar anındaki belirsizlik görünmez olur."
+    },
+    "durak-13-itfaiyecinin-sezgisi-ile-borsa-tahmini-ayni-mi": {
+      "image": "/images/summary-art-36-chapter-12-expert-intuition-v1.webp",
+      "imageCaption": "Uzman sezgisi, düzenli ortam ve hızlı geri bildirimle eğitildiğinde güçlenir; gürültülü alanda güven doğruluğu garanti etmez."
+    },
+    "durak-14-proje-iceriden-kisa-disaridan-uzun-gorunur": {
+      "image": "/images/summary-art-36-chapter-13-outside-view-v1.webp",
+      "imageCaption": "İçeriden plan kusursuz görünürken dışarıdan bakış, benzer projelerin gerçek süre ve başarısızlık dağılımını hatırlatır."
+    },
+    "durak-15-kazanc-ve-kayip-nereden-olculur": {
+      "image": "/images/summary-art-36-chapter-14-reference-point-v1.webp",
+      "imageCaption": "Aynı sonuca yükselerek veya düşerek ulaşmak farklı hissedilir; karar duygusu seçilen referans noktasına bağlıdır."
+    },
+    "durak-16-kupayi-vermek-almaktan-daha-aci": {
+      "image": "/images/summary-art-36-chapter-15-loss-aversion-mug-v1.webp",
+      "imageCaption": "Sahip olduğumuz kupadan vazgeçmek kayıp gibi hissedildiği için, satışta istediğimiz fiyat satın alma isteğimizden yükselebilir."
+    },
+    "durak-17-ayni-ameliyat-baska-cumle": {
+      "image": "/images/summary-art-36-chapter-16-framing-surgery-v1.webp",
+      "imageCaption": "Yaşama ve ölüm çerçeveleri aynı ameliyat oranını farklı hissettirebilir; eşdeğer sunumları yan yana görmek gerekir."
+    }
+  }
+}

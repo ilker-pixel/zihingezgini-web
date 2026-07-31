@@ -1,0 +1,361 @@
+{
+  "bookNo": 7,
+  "title": "Türlerin Kökeni",
+  "author": "Charles Darwin",
+  "subtitle": "Canlı çeşitliliğinin hazır bir vitrin değil, küçük farkların kuşaklar boyunca dallandığı uzun bir tarih olduğunu gündelik örneklerle anlatan rehber.",
+  "coverImage": "/images/summary-art-7-turlerin-kokeni-v2.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/7-turlerin-kokeni-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4F6B4C",
+  "meta": {
+    "originalTitle": "On the Origin of Species",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Darwin okura tek bir sihirli cümle sunmaz. Güvercin yetiştiricilerinden adalara, fosillerden arı peteklerine kadar yüzlerce küçük gözlemi aynı masaya koyar ve büyük soruyu sorar: Türler neden birbirine hem benzer hem de farklıdır? Bu rehber kitabın kanıt yürüyüşünü koruyor, doğal seçilimi günlük örneklerle açıklıyor ve Darwin'in bilmediği genetik, mutasyon ve genetik sürüklenme gibi modern ekleri ayrı tutuyor. Amaç canlıları bir başarı merdivenine dizmek değil; her canlının geçmişten gelen, çevreyle sınanan ve akrabalarına bağlanan bir hikayesi olduğunu görmek. Sosyal Darwinizm ve ırkçı yanlış kullanımlar da bilimin kendisiyle karıştırılmadan ele alınıyor.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Darwin Online - Türlerin Kökeni birinci baskı ve bölüm içeriği",
+      "url": "https://darwin-online.org.uk/content/contentblock?basepage=1&hitpage=102&itemID=F373&viewtype=side"
+    },
+    {
+      "id": 2,
+      "title": "Darwin Online - Birinci baskıya bölüm bölüm giriş",
+      "url": "https://darwin-online.org.uk/EditorialIntroductions/Chancellor_vanWyhe_Origin1st.html"
+    },
+    {
+      "id": 3,
+      "title": "Nature Education - Türleşme ve modern sentez",
+      "url": "https://www.nature.com/scitable/knowledge/library/speciation-the-origin-of-new-species-26230527/"
+    },
+    {
+      "id": 4,
+      "title": "National Academies - Evrimin kanıtları ve DNA",
+      "url": "https://nap.nationalacademies.org/resource/11876/Evolution%20Brochure.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Genetics and the Origin of Species - Darwin'den modern genetiğe",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC33678/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Türlerin Kökeni hızlı sonuç veren modern bir popüler bilim kitabı değildir. Darwin aynı fikri farklı hayvanlar, bitkiler ve coğrafyalar üzerinden tekrar tekrar sınar. Bu yüzden her ayrıntıyı ezberlemek yerine kanıt zincirini izlemek daha yararlıdır.",
+        "Kitabın merkezinde üç basit parça vardır: Bireyler birbirinden farklıdır, bu farkların bir bölümü aktarılabilir ve her doğan canlı yaşamını sürdürüp yavru bırakamaz. Bu üç parça birleştiğinde popülasyon kuşaklar boyunca değişebilir.",
+        "Darwin DNA'yı, genleri ve mutasyonun moleküler kaynağını bilmiyordu. Modern biyoloji onun ana fikrini genetikle güçlendirdi, bazı ayrıntıları düzeltti ve doğal seçilimin yanına sürüklenme ile gen akışı gibi başka süreçler ekledi. Özet boyunca eski kitap ile bugünkü bilgi ayrı raflarda tutulacak."
+      ]
+    },
+    {
+      "id": "durak-02-guvercinlikte-baslayan-buyuk-soru",
+      "section": "BİRİNCİ KISIM · DEĞİŞİMİN HAM MADDESİ",
+      "title": "Güvercinlikte başlayan büyük soru",
+      "paragraphs": [
+        "Darwin doğaya çıkmadan önce insanın seçtiği hayvanlara bakar. Bir güvercin yetiştiricisi daha geniş kuyruklu kuşları çiftleştirir, başka biri hızlı uçanları seçer. Kuşaklar geçtikçe aynı atadan çok farklı görünen ırklar ortaya çıkar. İnsan yeni özelliği yaratmaz; var olan farklar arasından seçim yapar.",
+        "Bunu bir çekmecedeki renkli düğmelere benzetin. Her nesilde yalnız kırmızıya yakın düğmeleri ayırıp yeniden çoğaltırsanız kutunun rengi değişir. Seçimin küçük olması önemsiz değildir; tekrar sayısı sonucu büyütür.",
+        "Yapay seçilim Darwin'e doğanın da seçici bir eleği olabileceğini düşündürür. Fakat doğanın hedefi, planı ve jüri masası yoktur. Daha çok yavru bırakmaya yardım eden özellikler, bunu başardıkları için sonraki kuşakta daha sık görünür.",
+        "Bu başlangıç zekice bir anlatım hamlesidir. Okur önce değişimin mümkün olduğunu kendi çiftlik ve bahçe deneyiminden kabul eder. Sonra aynı mantığın insan eli olmadan nasıl işleyebileceği sorulur.",
+        "Akılda kalacak görüntü güvercinliktir: Birkaç kuş arasındaki küçük fark, yeterince uzun zamanda canlı biçimlerinin ne kadar esnek olabileceğini gösterir."
+      ]
+    },
+    {
+      "id": "durak-03-dogada-birbirinin-kopyasi-yok",
+      "section": "BİRİNCİ KISIM · DEĞİŞİMİN HAM MADDESİ",
+      "title": "Doğada birbirinin kopyası yok",
+      "paragraphs": [
+        "Bir parkta aynı türden yüz ağaca uzaktan bakınca hepsi eşit görünür. Yaklaşınca yaprak biçimi, büyüme hızı, hastalığa dayanıklılık ve çiçeklenme zamanı değişir. Tür adı ortak bir dosya etiketi verir; dosyanın içindeki bireyler yine farklıdır.",
+        "Darwin'in büyük dönüşlerinden biri türü değişmez kalıp gibi değil, değişken bir topluluk olarak görmesidir. Ortalama yararlı bir özet olabilir ama hiçbir birey tam olarak ortalama olmak zorunda değildir.",
+        "Farkların hepsi işe yarar değildir. Bazıları zararlı, bazıları nötr, bazıları da yalnız belirli çevrede avantajlıdır. Kalın kürk soğukta korur, aşırı sıcakta yük olabilir. Özelliğin değeri çevreden bağımsız fiyat etiketi taşımaz.",
+        "Bugün bu farkların genetik, gelişimsel ve çevresel kaynaklarını daha iyi biliyoruz. Darwin mekanizmayı bilmese de seçilimin çalışabilmesi için çeşitliliğin şart olduğunu doğru görmüştü.",
+        "Doğal seçilimin ilk malzemesi kusursuzluk değil, farklılıktır. Herkes aynı olsaydı değişen çevre karşısında seçilecek bir seçenek de kalmazdı."
+      ]
+    },
+    {
+      "id": "durak-04-bir-fil-ailesinin-tasan-hesabi",
+      "section": "BİRİNCİ KISIM · DEĞİŞİMİN HAM MADDESİ",
+      "title": "Bir fil ailesinin taşan hesabı",
+      "paragraphs": [
+        "Darwin, çok yavaş üreyen filin bile bütün yavruları yaşasaydı zamanla dünyayı dolduracağını söyler. Balık, böcek veya bitki tohumu için sayı çok daha hızlı büyür. Oysa çevremiz her yıl sonsuz canlıyla dolmaz.",
+        "Bir sinema salonunda yüz koltuk, kapıda bin bilet olduğunu düşünün. Herkes içeri giremez. Doğada koltuklar yiyecek, su, yuva alanı, eş, güvenli mevsim ve hastalıktan kaçış gibi sınırlardır.",
+        "Buradaki mücadele yalnız diş ve pençe değildir. Kuraklığa dayanamayan fide, gölge altında ışık bulamayan ot veya eş bulamayan kuş da üreme yarışının dışında kalabilir. Darwin mücadeleyi geniş anlamda kullanır.",
+        "Nüfus hesabı acımasız görünür ama doğal seçilimin mantıksal kapısını açar. Doğandan daha azı ürüyorsa, kimlerin ürüdüğü gelecek kuşağın özelliklerini etkiler.",
+        "Taşan hesap bize seçilimin neden durmadan çalışabileceğini gösterir. Yaşam üretkendir; çevre ise sınırsız değildir."
+      ]
+    },
+    {
+      "id": "durak-05-mucadele-degil-iliskiler-agi",
+      "section": "BİRİNCİ KISIM · DEĞİŞİMİN HAM MADDESİ",
+      "title": "Mücadele değil, ilişkiler ağı",
+      "paragraphs": [
+        "Yaşam mücadelesi sözü yalnız kavga görüntüsü çağırabilir. Darwin'in örnekleri daha karmaşıktır. Bir bitkinin sayısı onu tozlaştıran böceğe, böcek yuvası başka bir hayvana, o hayvan da otlak düzenine bağlı olabilir.",
+        "Bir mahallede fırın, okul, otobüs ve su hattı birbirinden ayrı görünür. Su kesilince fırın da okul da etkilenir. Ekosistemde de tek türün değişimi görünmeyen bağlantıları ortaya çıkarabilir.",
+        "Rekabet gerçektir ama işbirliği de evrimin parçasıdır. Ortak avlanan hayvanlar, çiçek ile tozlaştırıcı veya bağırsak bakterileriyle konak arasındaki ilişkiler karşılıklı yarar sağlayabilir. Seçilim yalnız yalnız savaşan birey üretmez.",
+        "Bu nedenle 'en güçlü yaşar' kaba özeti yanıltıcıdır. Uyum bazen hız, bazen kamuflaj, bazen sabır, bazen de grup içinde işbirliği demektir. Kas gücü her çevrenin ortak parası değildir.",
+        "Doğa ringden çok ağdır. Bir düğüm çekildiğinde sonuç, bağlantıların yönüne göre bütün sisteme yayılabilir."
+      ]
+    },
+    {
+      "id": "durak-06-dogal-secilim-bir-elek-gibi",
+      "section": "İKİNCİ KISIM · SEÇİLİMİN ÇALIŞMASI",
+      "title": "Doğal seçilim bir elek gibi",
+      "paragraphs": [
+        "Bir sahilde açık ve koyu renkli kabuklar olduğunu düşünün. Kuşlar açık kumda koyu kabukları daha kolay görüyorsa açık renkli olanların yaşayıp üreme olasılığı biraz artabilir. Tek nesilde fark küçük, yüzlerce nesilde belirgin olabilir.",
+        "Elek benzetmesi yararlıdır ama eksiktir. Doğa bir defada son ürünü ayırmaz; çevre değiştikçe eleğin delikleri de değişir. Dün koruyan renk, zemin değiştiğinde görünür hale gelebilir.",
+        "Seçilim bireyin yaşamı boyunca onu ihtiyaca göre dönüştürmez. Zürafa boynunu uzattığı için yavrusu uzun boyunlu doğmaz. Popülasyonda aktarılabilir boy farkları varsa, belirli koşullarda daha çok yavru bırakanlar zamanla ortalamayı değiştirir.",
+        "Uyum başarısı yalnız hayatta kalmak değildir. Hiç yavru bırakmayan çok uzun ömürlü bireyin özelliği gelecek kuşağa aktarılmaz. Biyolojik anlamda sonuç, üreme katkısıyla ölçülür.",
+        "Eleğin bilinçli eli yoktur. Sonuç planlı görünebilir çünkü küçük yararlı farklar tekrar tekrar korunmuştur."
+      ]
+    },
+    {
+      "id": "durak-07-ihtiyac-ozellik-uretmez",
+      "section": "İKİNCİ KISIM · SEÇİLİMİN ÇALIŞMASI",
+      "title": "İhtiyaç özellik üretmez",
+      "paragraphs": [
+        "Kutup ayısının beyaz kürkü kar yağınca sipariş edilmedi. Popülasyondaki kalıtsal renk farklarından kamuflaja yardım edenler belirli koşullarda daha çok aktarılmış olabilir. Sonuca bakınca amaç görürüz; süreçte ise kör varyasyon ve ayıklanma vardır.",
+        "Bir anahtar ustası cebinde yüzlerce eski anahtar taşır. Kapıyı görünce uygun olanı dener. Kapı anahtarı o anda yaratmaz. Varyasyon da seçilimden önce veya ondan bağımsız ortaya çıkar; çevre hangisinin işe yaradığını belirler.",
+        "Bu, canlıların davranarak çevreyi hiç değiştirmediği anlamına gelmez. Kunduz baraj kurar, insan tarım yapar, bakteri ortamı dönüştürür. Canlı ile çevre birbirini etkiler; yine de kalıtsal değişimin kaynağını yalnız ihtiyaçla açıklayamayız.",
+        "Doğal seçilim ileriye bakmaz. Gelecekte yararlı olacak özellik, bugün maliyetliyse sırf yarın lazım diye korunmaz. Evrim plan yapan mühendis değil, geçmiş sonuçlarla ilerleyen tamircidir.",
+        "Bu ayrım, 'Canlı buna neden ihtiyaç duydu?' sorusunu 'Bu özellik hangi koşullarda daha çok aktarıldı?' sorusuna çevirir."
+      ]
+    },
+    {
+      "id": "durak-08-merdiven-degil-dallanan-agac",
+      "section": "İKİNCİ KISIM · SEÇİLİMİN ÇALIŞMASI",
+      "title": "Merdiven değil, dallanan ağaç",
+      "paragraphs": [
+        "Evrim çoğu zaman balıktan insana çıkan düz bir merdiven gibi çizilir. Darwin'in tek ünlü şeması ise dallanan ağaçtır. Ortak ata gövdeyi, ayrılan soylar dalları, yok olan çizgiler kuruyan uçları temsil eder.",
+        "Bugünkü maymunlar bizim eski halimiz değildir. İnsanlarla yaşayan diğer insansı maymunlar, ortak atadan ayrılmış kuzen dallardır. Bir kuzen diğerinin çocukluğu değildir.",
+        "Ağaçta yukarı çıkmak ahlaki üstünlük anlamına gelmez. Bakteriler milyarlarca yıldır başarılıdır. Bir orkide, kartal veya insan kendi çevresine farklı biçimde uyar; hepsini tek başarı sınavına sokmak anlamsızdır.",
+        "Ortak köken benzerlikleri açıklar. Omurgalıların benzer kemik planı, embriyo gelişimindeki ortaklıklar ve DNA dizilerindeki akrabalık aynı eski gövdeden kalan işaretlerdir.",
+        "Ağaç görüntüsü insanı merkezin tahtından indirir ama akrabalık çemberini büyütür. Yaşamın dışında değil, dallarından birindeyiz."
+      ]
+    },
+    {
+      "id": "durak-09-ayni-mahallede-farklilasmak",
+      "section": "İKİNCİ KISIM · SEÇİLİMİN ÇALIŞMASI",
+      "title": "Aynı mahallede farklılaşmak",
+      "paragraphs": [
+        "Bir adadaki kuş topluluğunun bir bölümü sert tohum, diğer bölümü yumuşak meyveyle beslenmeye başlasın. Gaga biçimleri ve eş seçimi zamanla ayrışırsa başlangıçtaki tek topluluk iki ayrı yola girebilir.",
+        "Darwin çeşitlenmeyi, benzer bireylerin aynı kaynağa sıkışması yerine farklı yaşam biçimlerine açılmasıyla ilişkilendirir. Bir pazarda beş aynı fırın yerine biri ekmek, biri pasta, biri simit yaptığında rekabetin biçimi değişir.",
+        "Modern biyoloji türleşmede coğrafi ayrılığın, gen akışının kesilmesinin ve üreme engellerinin önemini daha açık anlatır. Dağ, nehir veya uzak ada toplulukları ayrı deneylere dönüştürebilir.",
+        "Sınır her zaman keskin değildir. Türleşme bir ışık düğmesi gibi bir anda açılmayabilir; ara aşamalar ve kısmi üreme engelleri bulunabilir. 'Tür' kavramının bazı canlılarda tartışmalı olması teorinin kusuru değil, doğanın sürekliliğinin işaretidir.",
+        "Dallanma, farklı yaşam alanlarının aynı eski malzemeden yeni çözümler çıkarmasıdır."
+      ]
+    },
+    {
+      "id": "durak-10-es-seciminin-gosterisli-faturasi",
+      "section": "İKİNCİ KISIM · SEÇİLİMİN ÇALIŞMASI",
+      "title": "Eş seçiminin gösterişli faturası",
+      "paragraphs": [
+        "Tavus kuşunun kuyruğu kaçmayı zorlaştırabilir ama eş bulmayı kolaylaştırabilir. Darwin bu tür özellikleri cinsel seçilimle açıklar. Hayatta kalma ile eş seçme başarısı bazen aynı yönde çalışmaz.",
+        "Bir konser salonunda en güvenli ayakkabı değil, dikkat çeken kıyafet seçilebilir. Doğada da gösteri, ses, renk, boynuz veya davranış rakipleri aşmaya ve eşin dikkatini çekmeye hizmet edebilir.",
+        "Cinsel seçilim basit erkek gösterir, dişi seçer kalıbına sıkıştırılmamalıdır. Türler arasında ebeveynlik, rekabet ve seçim rolleri çok çeşitlidir. Modern araştırma bu ilişkileri Darwin'in döneminden daha geniş görür.",
+        "Gösterişli özellik bedelsiz değildir. Kuyruğun enerji maliyeti veya boynuzun yaralanma riski vardır. Tam da bu maliyet, bazı koşullarda taşıyıcının durumuna dair işaret olabilir.",
+        "Evrim yalnız çevreden kaçma hikayesi değildir; aynı türün üyeleri de birbirinin geleceğini şekillendirir."
+      ]
+    },
+    {
+      "id": "durak-11-goz-gibi-karmasik-bir-sey-nasil-olusur",
+      "section": "ÜÇÜNCÜ KISIM · İTİRAZLAR VE KANITLAR",
+      "title": "Göz gibi karmaşık bir şey nasıl oluşur?",
+      "paragraphs": [
+        "Darwin kendi teorisinin zor sorularından kaçmaz. Gözün bütün parçaları birlikte çalışırken küçük adımlar nasıl yararlı olabilir? Cevabı, kusursuz kamera göz ile hiç göz arasına birçok işlevsel basamak koymaktır.",
+        "Işığa duyarlı birkaç hücre yalnız aydınlık ve karanlığı ayırır. Hafif çukur ışığın yönünü gösterir. Daha derin çukur görüntüyü kabaca odaklar; saydam doku koruma ve odaklama sağlayabilir. Her basamak kendi halinde işe yarayabilir.",
+        "Bir dağa yalnız zirveden bakınca dik duvar görürüz. Arkadaki kıvrımlı patika görünmez. Karmaşık organın bugünkü halini tek sıçramada istemek de aynı yanılsamadır.",
+        "Bu anlatım her organın kesin tarihini tek başına kanıtlamaz. Ayrıntılı soy, genetik ve gelişim verileri gerekir. Fakat 'yarım göz işe yaramaz' itirazının zorunlu olmadığını gösterir.",
+        "Evrim hazır parçaları değiştirir, yeniden kullanır ve yamalar. Sonuç etkileyici olabilir ama mühendis masasında sıfırdan çizilmiş olmak zorunda değildir."
+      ]
+    },
+    {
+      "id": "durak-12-fosil-arsivinin-eksik-raflari",
+      "section": "ÜÇÜNCÜ KISIM · İTİRAZLAR VE KANITLAR",
+      "title": "Fosil arşivinin eksik rafları",
+      "paragraphs": [
+        "Darwin döneminde fosil kaydı bugünkünden çok daha yoksuldu. Eğer yaşam yavaşça değiştiyse neden her ara biçimi bulamıyoruz? Darwin bu soruyu arşivin oluşma şartlarıyla yanıtlar.",
+        "Bir canlının fosilleşmesi nadirdir. Hızla gömülmeli, sert parçaları korunmalı, kaya sonradan erimemeli ve milyonlarca yıl sonra erişilebilir yüzeye çıkmalıdır. Sonra biri doğru yerde kazmalıdır.",
+        "Aile albümünüzde çocukluğun her günü yoktur. Yine de bebeklik ve yetişkinlik fotoğrafları arasında bir yabancı yaratık varsaymazsınız. Eksik albüm değişimi yok saydırmaz, fakat hikayeyi daha dikkatli kurmayı gerektirir.",
+        "Darwin'den sonra çok sayıda geçiş özelliği taşıyan fosil bulundu ve tarihleme yöntemleri gelişti. Yine de kayıt hiçbir zaman video kadar sürekli olmayacaktır.",
+        "Eksiklik kanıtın düşmanı değil, yorumun sınırıdır. İyi teori boş rafı saklamaz; neden boş olabileceğini ve hangi bulgunun fikri değiştireceğini söyler."
+      ]
+    },
+    {
+      "id": "durak-13-ari-petegi-ve-icgudunun-basamaklari",
+      "section": "ÜÇÜNCÜ KISIM · İTİRAZLAR VE KANITLAR",
+      "title": "Arı peteği ve içgüdünün basamakları",
+      "paragraphs": [
+        "Arı peteğinin düzgün altıgenleri bilinçli mimar varmış gibi görünür. Darwin içgüdüyü değişmez mucize saymak yerine, davranış farklarının da seçilimle birikebileceğini savunur.",
+        "Farklı arı türlerinde basit yuvarlak hücrelerden daha düzenli yapılara uzanan çeşitlilik, işlevsel ara basamakların mümkün olduğunu gösterir. Balmumunu daha verimli kullanan küçük davranış farkları avantaj sağlayabilir.",
+        "İçgüdü, hayvanın davranışı hiç öğrenmediği veya çevrenin önemsiz olduğu anlamına gelmez. Kalıtsal eğilim ile deneyim birlikte çalışabilir. Kuşun yuva kurma eğilimi doğuştan gelirken malzeme seçimi koşullarla değişebilir.",
+        "Darwin'in kısır işçi böcekler sorunu özellikle zordur: Üremeyen bireyin özelliği nasıl seçilir? Cevap, davranışın akrabaların ve koloninin üreme başarısına katkısıyla ilgilidir; modern akraba seçilimi bunu daha açık matematikleştirir.",
+        "Petek görüntüsü, karmaşık davranışın da kuşaklar boyunca ayıklanan küçük farklardan doğabileceğini hatırlatır."
+      ]
+    },
+    {
+      "id": "durak-14-melezler-ve-tur-sinirinin-bulanikligi",
+      "section": "ÜÇÜNCÜ KISIM · İTİRAZLAR VE KANITLAR",
+      "title": "Melezler ve tür sınırının bulanıklığı",
+      "paragraphs": [
+        "At ile eşek çiftleştiğinde katır doğabilir ama katır çoğunlukla kısırdır. Bu örnek türler arasında üreme engeli fikrini gösterir. Fakat doğada bütün sınırlar bu kadar temiz değildir.",
+        "Bazı farklı türler verimli melez oluşturabilir, bazı aynı tür toplulukları zor çiftleşir. Bitkilerde kromozom değişimleri yeni türü hızlı biçimde ortaya çıkarabilir. Bakterilerde tür kavramı daha da farklı işler.",
+        "Renk tayfında kırmızı ile turuncuyu ayıran çizgiyi kesin çizmek zordur; yine de renkler anlamsız değildir. Türler de evrimsel süreçte oluşan kümelerdir, her zaman değişmez kutular değil.",
+        "Darwin melez kısırlığının özel olarak yerleştirilmiş bir mühür değil, başka farklılıkların yan sonucu olabileceğini savunur. Modern genetik bu engellerin çeşitli mekanizmalarını gösterir.",
+        "Bulanık sınır bilimi zayıflatmaz. Tam tersine, türleşmenin devam eden bir süreç olduğunu görünür kılar."
+      ]
+    },
+    {
+      "id": "durak-15-adalar-neden-bu-kadar-konuskan",
+      "section": "ÜÇÜNCÜ KISIM · İTİRAZLAR VE KANITLAR",
+      "title": "Adalar neden bu kadar konuşkan?",
+      "paragraphs": [
+        "Okyanus adaları evrimin doğal deney odalarıdır. Anakaraya uzaktır, gelen canlı sayısı sınırlıdır ve boş yaşam alanları yeni dallanmalara fırsat verir. Bu yüzden ada türleri hem yakın kıtanın canlılarına benzer hem de yalnız adaya özgü özellikler taşır.",
+        "Bir adada kara memelisi az, uçabilen kuş veya rüzgarla taşınan tohum çok olabilir. Dağılım yalnız iklime göre açıklansaydı benzer iklimli her adada aynı canlıları beklerdik. Tarih ve ulaşılabilirlik de önemlidir.",
+        "Komşu adalardaki akraba türler, ortak atanın farklı koşullarda değişmesine dair güçlü ipucu verir. Canlıların konumu, biçimleri kadar soy geçmişini anlatır.",
+        "Bugün kıtaların hareketini, ada yaşlarını ve DNA akrabalığını Darwin'den çok daha iyi biliyoruz. Bu yeni ölçümler biyocoğrafya kanıtını güçlendirdi.",
+        "Ada haritası şunu söyler: Doğa yalnız nerede yaşadığınızı değil, oraya nasıl ve kimlerle geldiğinizi de kaydeder."
+      ]
+    },
+    {
+      "id": "durak-16-ayni-kemik-baska-gorev",
+      "section": "ÜÇÜNCÜ KISIM · İTİRAZLAR VE KANITLAR",
+      "title": "Aynı kemik, başka görev",
+      "paragraphs": [
+        "İnsan kolu, yarasa kanadı, balina yüzgeci ve atın ön bacağı farklı işler yapar. Yine de temel kemik dizilişleri şaşırtıcı biçimde benzerdir. Ortak plan, ortak köken fikriyle anlam kazanır.",
+        "Bir evin eski odasını mutfağa, depoya veya çalışma alanına çevirebilirsiniz. Duvarların bazıları geçmiş planı ele verir. Evrim de eski yapıları yeni işlerde kullanır.",
+        "Körelmiş organlar aynı tarihin başka izidir. Balinalardaki küçük leğen kemikleri veya uçamayan kuşlardaki kanat yapıları bugünkü işlevle tam açıklanmayabilir, fakat atalarının yaşamıyla anlaşılır.",
+        "Sınıflandırma böylece yalnız benzer kutuları düzenleme işi olmaktan çıkar. Canlı grupları, dallanan akrabalık tarihinin adları haline gelir. Modern DNA karşılaştırmaları bazı eski sınıfları düzeltti.",
+        "Aynı kemik planı, doğanın her canlıyı ayrı sayfada sıfırdan çizmediğini; eski taslakların değiştirilerek kullanıldığını gösterir."
+      ]
+    },
+    {
+      "id": "durak-17-darwin-in-bilmedigi-cekmece-genler",
+      "section": "DÖRDÜNCÜ KISIM · BUGÜN NEREDEYİZ?",
+      "title": "Darwin'in bilmediği çekmece: Genler",
+      "paragraphs": [
+        "Darwin kalıtsal farkların nasıl korunduğunu bilmiyordu. O dönemde yaygın karışmalı kalıtım fikri, farklılıkların her nesilde ortalamaya erimesi sorununu doğuruyordu. Mendel'in bezelye deneyleri daha sonra parçacıklı kalıtımı gösterdi.",
+        "Yirminci yüzyılda genetik ile doğal seçilim birleşti. Mutasyon ve yeniden birleşme yeni varyasyon üretir; gen frekansları seçilim, sürüklenme ve gen akışıyla değişir. Buna modern sentez denir.",
+        "Bir iskambil destesini düşünün. Yeni kart baskısı mutasyona, kartların karılması yeniden birleşmeye, bazı kartların oyunda daha çok kalması seçilime benzer. Küçük destede rastlantı da sonucu güçlü biçimde değiştirebilir.",
+        "DNA ortak kökeni bağımsız biçimde sınamamızı sağladı. Yakın akrabaların dizileri genel olarak daha benzerdir ve bu benzerlikler dallanan soy ağacıyla uyuşur.",
+        "Modern genetik Darwin'i kutsal metne dönüştürmez. Eksik mekanizmayı tamamlar, bazı varsayımları düzeltir ve teoriyi ölçülebilir hale getirir."
+      ]
+    },
+    {
+      "id": "durak-18-secilim-tek-oyuncu-degil",
+      "section": "DÖRDÜNCÜ KISIM · BUGÜN NEREDEYİZ?",
+      "title": "Seçilim tek oyuncu değil",
+      "paragraphs": [
+        "Bir fırtına adadaki kuşların yarısını rastgele yok ederse kalan özellikler daha iyi oldukları için değil, şans eseri çoğalabilir. Genetik sürüklenme özellikle küçük topluluklarda rastlantının gücünü anlatır.",
+        "Göç eden bireyler genleri başka topluluğa taşır; buna gen akışı denir. Mutasyon yeni varyasyon getirir. Eş seçimi, gelişim kısıtları ve çevreyi değiştiren davranışlar da evrimsel sonucu etkiler.",
+        "Futbol maçını yalnız forvetle açıklamak gibi, bütün evrimi yalnız seçilime indirgemek eksiktir. Doğal seçilim uyumu açıklamada merkezi oyuncudur ama saha, hakem, hava ve tesadüf de sonucu değiştirir.",
+        "Bazı özellikler doğrudan yararlı oldukları için değil, yararlı başka bir özelliğe genetik olarak bağlı oldukları veya ciddi maliyet taşımadıkları için kalabilir.",
+        "Darwin'in büyük fikri ayakta kalır; modern biyoloji sahnedeki oyuncu sayısını artırır. Bilim ilerledikçe iyi teori darbe alıp yok olmak yerine daha kesin sınırlar kazanabilir."
+      ]
+    },
+    {
+      "id": "durak-19-evrim-ilerleme-merdiveni-degildir",
+      "section": "DÖRDÜNCÜ KISIM · BUGÜN NEREDEYİZ?",
+      "title": "Evrim ilerleme merdiveni değildir",
+      "paragraphs": [
+        "Evrim kelimesi günlük dilde sürekli daha iyiye gidiş gibi kullanılır. Oysa biyolojik değişim belirli çevrede üreme başarısıyla ilgilidir. Mağarada göz kaybı, enerji tasarrufu sağlıyorsa gerileme değil uyum olabilir.",
+        "İnsan evrimin hedefi değildir. Dinozorlar bizim için yolu açmak üzere yaşamadı; bakteriler ilkel ve başarısız kalıntılar değildir. Her yaşayan soy, bugüne kadar süren kendi tarihinin sonucudur.",
+        "Doğal olanın ahlaken iyi olduğu da söylenemez. Hastalık, yavru ölümü ve parazitlik doğaldır ama insan toplumu bunları azaltmaya çalışır. Doğadan değer yasası çıkarmak ayrı bir felsefi karardır.",
+        "Bu ayrım sosyal Darwinizm için önemlidir. Ekonomik eşitsizliği veya sömürgeciliği 'doğal yarış' diye haklı göstermek biyolojiden ahlak sıçraması yapar. Darwin'in teorisi toplumda güçlünün haklı olduğunu söylemez.",
+        "Yaşam ağacında taç yoktur. İnsan aklı güçlü bir özellik olabilir; aynı akıl başkalarının acısını azaltma sorumluluğu da yaratır."
+      ]
+    },
+    {
+      "id": "durak-20-bir-dakikalik-harita",
+      "section": "SONUÇ",
+      "title": "Bir dakikalık harita",
+      "paragraphs": [
+        "Popülasyonlarda aktarılabilir farklılıklar bulunur. Canlılar çevrenin taşıyabileceğinden daha çok yavru üretir. Belirli koşullarda daha çok üremeye yardım eden farklar kuşaklar boyunca yaygınlaşabilir; buna doğal seçilim deriz.",
+        "Soylar ayrılır, değişir ve bazen yok olur. Bu süreç tek hedefe çıkan merdiven değil, ortak atalardan dallanan ağaç üretir. Fosiller, coğrafi dağılım, benzer organ planları, embriyoloji ve bugün DNA bu akrabalık tarihini destekler.",
+        "Darwin genetiği bilmiyordu. Modern sentez mutasyon, genler ve popülasyon matematiğini ekledi; sürüklenme ve gen akışı gibi seçilim dışı süreçleri görünür kıldı. Evrim ahlaki ilerleme veya güçlünün haklılığı değildir."
+      ]
+    },
+    {
+      "id": "durak-21-akilda-kalacak-bes-goruntu",
+      "section": "SONUÇ",
+      "title": "Akılda kalacak beş görüntü",
+      "paragraphs": [
+        "Güvercinlik: Küçük farklar seçilince büyür. Taşan salon: Her doğan üreyemez. Değişken elek: Çevre hangi farkın işe yaradığını değiştirir. Dallı ağaç: Canlılar kuzen soylar halinde ayrılır. Eksik arşiv: Fosil kaydı parçalıdır ama okunabilir.",
+        "Bu beş görüntü bir canlı özelliği gördüğünüzde doğru soruları hatırlatır: Toplulukta hangi farklar vardı? Bunların hangisi aktarılabiliyordu? Çevre kimin daha çok yavru bırakmasına yol açtı? Rastlantı ve göç ne yaptı?",
+        "Darwin'in kalıcı başarısı bütün cevapları bilmesi değildir. Ayrı ayrı görünen sayısız canlıyı, sınanabilir ortak bir tarih fikrinde birleştirmesidir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-guvercinlikte-baslayan-buyuk-soru": {
+      "image": "/images/summary-art-7-chapter-01-pigeon-loft-v1.webp",
+      "imageCaption": "Güvercin yetiştiricisi farkları yaratmaz; kuşaklar boyunca hangi farkların çoğalacağını seçerek görünümü değiştirir."
+    },
+    "durak-03-dogada-birbirinin-kopyasi-yok": {
+      "image": "/images/summary-art-7-chapter-02-variation-forest-v1.webp",
+      "imageCaption": "Aynı türden bireyler ortak etiketi taşır ama hız, biçim ve dayanıklılık bakımından birbirinin kopyası değildir."
+    },
+    "durak-04-bir-fil-ailesinin-tasan-hesabi": {
+      "image": "/images/summary-art-7-chapter-03-overflowing-offspring-v1.webp",
+      "imageCaption": "Canlılar çevrenin taşıyabileceğinden daha çok yavru üretir; sınırlı koltuklar kuşakların bileşimini değiştirir."
+    },
+    "durak-05-mucadele-degil-iliskiler-agi": {
+      "image": "/images/summary-art-7-chapter-04-ecological-web-v1.webp",
+      "imageCaption": "Doğadaki mücadele yalnız kavga değildir; rekabet, işbirliği, iklim ve karşılıklı bağımlılık aynı ağda çalışır."
+    },
+    "durak-06-dogal-secilim-bir-elek-gibi": {
+      "image": "/images/summary-art-7-chapter-05-selection-sieve-v1.webp",
+      "imageCaption": "Doğal seçilim çevreye göre işleyen değişken bir elektir; küçük üreme farkları kuşaklar boyunca birikir."
+    },
+    "durak-07-ihtiyac-ozellik-uretmez": {
+      "image": "/images/summary-art-7-chapter-06-keys-and-lock-v1.webp",
+      "imageCaption": "Çevre ihtiyaca göre yeni anahtar üretmez; var olan kalıtsal farklar arasından o anda işe yarayanları ayıklar."
+    },
+    "durak-08-merdiven-degil-dallanan-agac": {
+      "image": "/images/summary-art-7-chapter-07-branching-tree-v1.webp",
+      "imageCaption": "Evrim tek hedefe çıkan merdiven değil; ortak atalardan ayrılan, bazı kolları sönen dallı bir yaşam ağacıdır."
+    },
+    "durak-09-ayni-mahallede-farklilasmak": {
+      "image": "/images/summary-art-7-chapter-08-diverging-island-birds-v1.webp",
+      "imageCaption": "Ayrılan çevreler ve üreme yolları, aynı atadan gelen toplulukları zamanla farklı tür dallarına taşıyabilir."
+    },
+    "durak-10-es-seciminin-gosterisli-faturasi": {
+      "image": "/images/summary-art-7-chapter-09-peacock-display-v1.webp",
+      "imageCaption": "Cinsel seçilim bazen hayatta kalma maliyeti taşıyan gösterişli özellikleri eş bulma başarısıyla yaygınlaştırabilir."
+    },
+    "durak-11-goz-gibi-karmasik-bir-sey-nasil-olusur": {
+      "image": "/images/summary-art-7-chapter-10-eye-stairway-v1.webp",
+      "imageCaption": "Karmaşık göz tek sıçramayla değil, her biri kendi koşulunda yararlı olabilen küçük işlevsel basamaklarla düşünülebilir."
+    },
+    "durak-12-fosil-arsivinin-eksik-raflari": {
+      "image": "/images/summary-art-7-chapter-11-fossil-archive-v1.webp",
+      "imageCaption": "Fosil kaydı kesintisiz film değil; oluşması, korunması ve bulunması zor olan eksik ama giderek zenginleşen bir arşivdir."
+    },
+    "durak-13-ari-petegi-ve-icgudunun-basamaklari": {
+      "image": "/images/summary-art-7-chapter-12-honeycomb-instinct-v1.webp",
+      "imageCaption": "Petek gibi karmaşık içgüdüler, farklı türlerde görülen işlevsel ara basamaklar ve koloni yararıyla açıklanabilir."
+    },
+    "durak-15-adalar-neden-bu-kadar-konuskan": {
+      "image": "/images/summary-art-7-chapter-13-island-map-v1.webp",
+      "imageCaption": "Ada canlıları iklim kadar göç yolunu ve ortak atayı da anlatır; coğrafya yaşam tarihinin görünür arşividir."
+    },
+    "durak-16-ayni-kemik-baska-gorev": {
+      "image": "/images/summary-art-7-chapter-14-homologous-limbs-v1.webp",
+      "imageCaption": "Kol, kanat, yüzgeç ve bacak farklı işler yaparken aynı temel kemik planıyla ortak kökenin izini taşır."
+    },
+    "durak-17-darwin-in-bilmedigi-cekmece-genler": {
+      "image": "/images/summary-art-7-chapter-15-genes-drawer-v1.webp",
+      "imageCaption": "Darwin'in eksik bıraktığı kalıtım çekmecesini Mendel, DNA ve popülasyon genetiği doldurdu."
+    },
+    "durak-18-secilim-tek-oyuncu-degil": {
+      "image": "/images/summary-art-7-chapter-16-evolutionary-players-v1.webp",
+      "imageCaption": "Doğal seçilim merkezi olsa da mutasyon, sürüklenme, gen akışı ve gelişim kısıtları aynı evrim sahnesinde rol oynar."
+    }
+  }
+}
