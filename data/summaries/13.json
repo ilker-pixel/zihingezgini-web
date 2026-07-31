@@ -5,6 +5,8 @@
   "subtitle": "Bir kahvaltı masasından yıldızların doğumuna uzanan, evreni, yaşamı ve insan toplumlarını tek hikâyede buluşturan merak dolu anlatım.",
   "coverImage": "/images/summary-art-13-buyuk-tarih-v2.webp",
   "coverStyle": "artwork",
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#7A4E35",
   "pdfUrl": "/data/pdfs/13-buyuk-tarih-ozeti.pdf",
   "pdfLabel": "36 sayfalık PDF'yi indir",
   "longForm": true,
@@ -68,6 +70,8 @@
       "id": "durak-07-01-durak-evrenin-kokeni",
       "section": "BİRİNCİ YOLCULUK - EVREN SAHNEYİ KURUYOR",
       "title": "01. DURAK - Evrenin Kökeni",
+      "image": "/images/summary-art-13-chapter-01-cosmic-origin-v1.webp",
+      "imageCaption": "Işığın, yıldızların ve galaksilerin ortaya çıktığı kozmik başlangıç.",
       "paragraphs": [
         "**1. sahne - Işığın açılmasını bekleyen salon**\n\nBir kitabın ilk sayfasını değil, kâğıdın ve harflerin nasıl mümkün olduğunu araştırmaya benzer.",
         "Tamamen karanlık bir salonda olduğunuzu düşünün. Sahne, koltuk ve seyirci henüz yok. Sonra perde birden açılmıyor; önce uzayın kendisi genişliyor, sıcaklık düşüyor, parçacıklar birleşiyor. Yüz binlerce yıl boyunca ışık serbestçe yol alamıyor. Evren yeterince soğuduğunda sis kalkıyor ve bugün teleskoplarımızın yakaladığı en eski ışık yola çıkıyor. Büyük Tarih bu görüntüyle başlar: Kahraman daha ortada yokken imkânların sahnesi kurulmaktadır.",
@@ -86,6 +90,8 @@
       "id": "durak-08-02-durak-kozmoloji",
       "section": "BİRİNCİ YOLCULUK - EVREN SAHNEYİ KURUYOR",
       "title": "02. DURAK - Kozmoloji",
+      "image": "/images/summary-art-13-chapter-02-cosmology-v1.webp",
+      "imageCaption": "Uzak göklerden gelen ışık, evrenin eski hâllerini bugüne taşır.",
       "paragraphs": [
         "**1. sahne - Postacı olarak ışık**\n\nÇok eski bir filmi kalan ışık karelerinden yeniden kurmaya benzer.",
         "Gece gökyüzündeki bir galaksiye baktığınızda onu şu anda olduğu hâliyle görmezsiniz. Işık yola çok önce çıkmıştır. Gökyüzü bu yüzden dev bir aile albümüne benzer; yakın yıldızlar yeni fotoğraflar, uzak galaksiler çok eski fotoğraflar yollar. Kozmoloji bu gecikmeyi kusur değil fırsat sayar. Uzaklara bakarak geçmişin farklı dönemlerini aynı gökyüzünde yan yana okuyabiliriz.",
@@ -104,6 +110,8 @@
       "id": "durak-09-03-durak-daglar",
       "section": "BİRİNCİ YOLCULUK - EVREN SAHNEYİ KURUYOR",
       "title": "03. DURAK - Dağlar",
+      "image": "/images/summary-art-13-chapter-03-mountains-v1.webp",
+      "imageCaption": "Dağlar yolları, yağışı ve insan seçeneklerini biçimlendirir.",
       "paragraphs": [
         "**1. sahne - Yolun kader sanıldığı geçit**\n\nBir oyun alanındaki eğim gibidir: hareketi etkiler ama oyuncunun her kararını belirlemez.",
         "İki köyü ayıran dağ düşünün. Haritada araları çok yakındır, fakat kışın geçit kapanınca haftalarca birbirlerine ulaşamazlar. Dağ yağmurun bir yamaçta kalmasına, öteki yamaçta toprağın kurumasına yol açar. İnsanlar evlerini, tarlalarını ve yollarını buna göre kurar. Yine de bir tünel açıldığında veya başka bir geçit bulunduğunda seçenekler değişir. Coğrafya güçlüdür, ama insan kararını yazan değişmez bir senaryo değildir.",
@@ -122,6 +130,8 @@
       "id": "durak-10-04-durak-okyanuslar-ve-denizler",
       "section": "BİRİNCİ YOLCULUK - EVREN SAHNEYİ KURUYOR",
       "title": "04. DURAK - Okyanuslar ve Denizler",
+      "image": "/images/summary-art-13-chapter-04-oceans-v1.webp",
+      "imageCaption": "Okyanus akıntıları ısıyı, yaşamı ve karbonu gezegen boyunca taşır.",
       "paragraphs": [
         "**1. sahne - Gezegenin büyük ısı deposu**\n\nOkyanus, gezegenin hem taşıma bandı hem ısı deposu gibi çalışır.",
         "Yaz akşamı deniz kenarında hava serinlerken birkaç kilometre içeride taşlar hâlâ sıcak olabilir. Su, ısıyı karadan farklı biçimde alır ve bırakır. Şimdi bu küçük farkı bütün gezegene büyütün. Okyanuslar ısıyı emer, akıntılarla taşır, havaya nem verir ve iklimin sert salınımlarını yavaşlatır. Haritada boş mavi alan gibi görünen şey aslında Dünya'nın çalışan büyük organlarından biridir.",
@@ -140,6 +150,8 @@
       "id": "durak-11-05-durak-gaia-yaklasimi",
       "section": "BİRİNCİ YOLCULUK - EVREN SAHNEYİ KURUYOR",
       "title": "05. DURAK - Gaia Yaklaşımı",
+      "image": "/images/summary-art-13-chapter-05-gaia-system-v1.webp",
+      "imageCaption": "Canlılar, hava, su ve toprak karşılıklı etkilerle aynı sistemi kurar.",
       "paragraphs": [
         "**1. sahne - Termostatı olmayan ev**\n\nEvdeki ısıtma sistemi gibi, bir değişim başka parçaları etkiler; fakat termostatın bilinçli olması gerekmez.",
         "Bir odada insanlar pencereyi açıyor, sobayı yakıyor, nem artıyor ve duvarlar ısıyı tutuyor. Odanın düzeni tek bir kişinin emriyle değil, bütün bu karşılıklı etkilerle değişiyor. Gaia yaklaşımının işe yarayan tarafı da budur: Canlılar atmosferi, toprağı ve suyu değiştirir; bu değişen çevre de hangi canlıların yaşayacağını belirler. Dünya'nın bilinçli bir canlı olduğunu varsaymaya gerek yoktur.",
@@ -166,6 +178,8 @@
       "id": "durak-13-06-durak-agaclar",
       "section": "İKİNCİ YOLCULUK - YAŞAM GEZEGENİ DEĞİŞTİRİYOR",
       "title": "06. DURAK - Ağaçlar",
+      "image": "/images/summary-art-13-chapter-06-trees-v1.webp",
+      "imageCaption": "Tek bir ağaç aynı anda yuva, su deposu ve karbon kasasıdır.",
       "paragraphs": [
         "**1. sahne - Bir canlıda fabrika, sünger ve apartman**\n\nBir şehrin hem fabrikası hem süngeri hem apartmanı gibi birçok işi aynı anda yaparlar.",
         "Mahalledeki yaşlı bir ağacın gölgesinde oturan insan yalnız serinlik görür. O sırada kökler suyu çekiyor, yapraklar ışığı şekere çeviriyor, gövde karbon depoluyor, kuşlar ve böcekler dallarda barınıyor. Aynı canlı fabrika, sünger, klima ve apartman gibi çalışıyor. Büyük Tarih ağaçlara dekor muamelesi yapmaz; karaların toprağını, havasını ve insan ekonomisini değiştiren etkin oyuncular olarak bakar.",
@@ -184,6 +198,8 @@
       "id": "durak-14-07-durak-yok-oluslar",
       "section": "İKİNCİ YOLCULUK - YAŞAM GEZEGENİ DEĞİŞTİRİYOR",
       "title": "07. DURAK - Yok Oluşlar",
+      "image": "/images/summary-art-13-chapter-07-extinctions-v1.webp",
+      "imageCaption": "Bir tür kaybolduğunda yaşam ağının benzersiz bir düğümü kopar.",
       "paragraphs": [
         "**1. sahne - Bir daha duyulmayacak ses**\n\nBir ağdan çok sayıda düğüm koparmak gibidir; ağ bir süre dayanır ama giderek zayıflar.",
         "Bir kuş sesini son kez duyduğunuzu, fakat bunun son olduğunu o anda bilmediğinizi düşünün. Yok oluş böyle acımasızdır: Türün son bireyi öldüğünde yalnız bir hayvan değil, milyonlarca yıllık benzersiz bir yol kapanır. Fosiller geçmişte büyük kayıpların yaşandığını gösterir. Bugünün farkı, yaşam alanı kaybı, aşırı kullanım, kirlilik, taşınan türler ve iklim baskısının insan etkinliğiyle aynı anda büyümesidir.",
@@ -202,6 +218,8 @@
       "id": "durak-15-08-durak-buzul-caglari",
       "section": "İKİNCİ YOLCULUK - YAŞAM GEZEGENİ DEĞİŞTİRİYOR",
       "title": "08. DURAK - Buzul Çağları",
+      "image": "/images/summary-art-13-chapter-08-ice-ages-v1.webp",
+      "imageCaption": "Buzların tuttuğu su, eski kıyıları ve insan yollarını değiştirdi.",
       "paragraphs": [
         "**1. sahne - Suların çekildiği eski kıyı**\n\nSahnenin zemini ve ışığı değişince aynı oyuncuların hareketi de değişir.",
         "Bugün deniz olan yerde insanların yürüdüğünü hayal edin. Buzul dönemlerinde suyun büyük bölümü kara üzerinde buz olarak tutulduğu için deniz seviyesi düşer, kıyılar ilerler ve bazı adalar karaya bağlanır. İklim ısındığında buz erir, deniz geri gelir ve eski yollar kaybolur. İnsan göçlerinin haritası bu değişen sahne bilinmeden eksik kalır.",
@@ -220,6 +238,8 @@
       "id": "durak-16-09-durak-insan-evrimi",
       "section": "İKİNCİ YOLCULUK - YAŞAM GEZEGENİ DEĞİŞTİRİYOR",
       "title": "09. DURAK - İnsan Evrimi",
+      "image": "/images/summary-art-13-chapter-09-human-evolution-v1.webp",
+      "imageCaption": "İnsan evrimi tek sıra bir merdiven değil, çok dallı bir ağaçtır.",
       "paragraphs": [
         "**1. sahne - Merdiven değil, budanmış ağaç**\n\nTek gövdeden çıkan çok dallı bir ağaç gibidir; dalların çoğu sona ermiş, biri bugüne ulaşmıştır.",
         "Müzelerde insan evrimi bazen soldan sağa yürüyen tek sıra figürle anlatılır. Bu görüntü akılda kalır ama yanıltıcıdır. Geçmişte aynı dönemde birden fazla insan türü yaşadı; bazıları karşılaştı, bazıları birbiriyle karıştı, çoğu dal sona erdi. Bugünkü insan tepedeki ödül değil, çok dallı ağacın hayatta kalan genç sürgünlerinden biridir.",
@@ -238,6 +258,8 @@
       "id": "durak-17-10-durak-gocler",
       "section": "İKİNCİ YOLCULUK - YAŞAM GEZEGENİ DEĞİŞTİRİYOR",
       "title": "10. DURAK - Göçler",
+      "image": "/images/summary-art-13-chapter-10-migrations-v1.webp",
+      "imageCaption": "İnsanların eski yolculukları bedenlerinde ve dişlerinde iz bırakır.",
       "paragraphs": [
         "**1. sahne - Dişte kalan çocukluk haritası**\n\nBir nehir gibi, insan hareketi kollara ayrılır, birleşir ve geçtiği yerleri değiştirir.",
         "Bir insan öldüğünde yanında pasaport bulunmayabilir; ama dişlerinde çocukken içtiği suyun kimyasal izi kalabilir. Arkeologlar bu izleri mezarın bulunduğu bölgeyle karşılaştırarak kişinin başka yerde büyüyüp büyümediğini araştırır. Göç tarihi yalnız kralların seferlerinden değil, isimsiz insanların bedeninde kalan küçük kayıtlardan da kurulur.",
@@ -264,6 +286,8 @@
       "id": "durak-19-11-durak-paleolitik-sanat",
       "section": "ÜÇÜNCÜ YOLCULUK - ANLAM KURAN İNSAN",
       "title": "11. DURAK - Paleolitik Sanat",
+      "image": "/images/summary-art-13-chapter-11-paleolithic-art-v1.webp",
+      "imageCaption": "Mağara duvarındaki el, kuşaklar ötesine ulaşan ortak bir işarettir.",
       "paragraphs": [
         "**1. sahne - Taş duvardaki el**\n\nBir sınıfın ortak işaretler kullanması gibi, simgeler görmeyen kişileri bile aynı hikâyeye bağlar.",
         "On binlerce yıl önce biri elini mağara duvarına koydu ve çevresine renk püskürttü. Bugün o elin sahibinin adını, dilini veya niyetini bilmiyoruz. Yine de görüntü şaşırtıcı biçimde tanıdıktır: 'Buradaydım' diyen bir iz. Paleolitik sanat, insanın yalnız yiyecek bulmadığını; görünmeyen kişilere anlam taşıyan işaretler bıraktığını gösterir.",
@@ -282,6 +306,8 @@
       "id": "durak-20-12-durak-animizm",
       "section": "ÜÇÜNCÜ YOLCULUK - ANLAM KURAN İNSAN",
       "title": "12. DURAK - Animizm",
+      "image": "/images/summary-art-13-chapter-12-animism-v1.webp",
+      "imageCaption": "İnsan, hayvan, su ve orman aynı ilişkiler dünyasının komşularıdır.",
       "paragraphs": [
         "**1. sahne - Orman odun deposu değilse**\n\nBir ormanı yalnız odun deposu değil, akrabaların yaşadığı bir mahalle gibi görmek davranışı değiştirir.",
         "Bir avcının öldürdüğü hayvandan özür dilediğini veya bir pınara yaklaşırken izin istediğini düşünün. Dışarıdan bakan biri bunu gereksiz görebilir. Fakat dünya yalnız kaynak değil ilişkide bulunulan canlı bir çevre olarak algılandığında davranış da değişir. Animizm çok farklı topluluklarda insan dışı varlıklara niyet, ruh veya kişilik atfeden görüşler için kullanılan geniş bir addır.",
@@ -300,6 +326,8 @@
       "id": "durak-21-13-durak-yaratilis-anlatilari",
       "section": "ÜÇÜNCÜ YOLCULUK - ANLAM KURAN İNSAN",
       "title": "13. DURAK - Yaratılış Anlatıları",
+      "image": "/images/summary-art-13-chapter-13-creation-stories-v1.webp",
+      "imageCaption": "Başlangıç hikâyeleri geçmişi anlatırken kimliği ve değerleri de kurar.",
       "paragraphs": [
         "**1. sahne - Toplumların aile albümü**\n\nBir ailenin geçmişini anlatması gibi, toplumlar da nereden geldiklerini açıklayan hikâyeler kurar.",
         "Bir aile sofrasında büyüklerden biri 'Biz buraya nasıl geldik?' diye anlatmaya başladığında yalnız tarih vermez. Kimin kime borçlu olduğunu, hangi davranışın onurlu sayıldığını ve ailenin kendini nasıl gördüğünü de söyler. Toplumların yaratılış anlatıları da başlangıçla birlikte kimlik ve değer kurar. Büyük Tarih bilimsel verilerden ortak bir köken hikâyesi kurarken bu eski ihtiyaca dokunur.",
@@ -318,6 +346,8 @@
       "id": "durak-22-14-durak-eski-okyanusya",
       "section": "ÜÇÜNCÜ YOLCULUK - ANLAM KURAN İNSAN",
       "title": "14. DURAK - Eski Okyanusya",
+      "image": "/images/summary-art-13-chapter-14-ancient-oceania-v1.webp",
+      "imageCaption": "Pasifik denizcileri yıldızları, kuşları ve dalgaları bir harita gibi okudu.",
       "paragraphs": [
         "**1. sahne - Dalgayı harita gibi okuyan denizci**\n\nDeniz, duvar değil çok uzun bir cadde gibi düşünüldüğünde ada tarihi daha anlaşılır olur.",
         "Ufukta kara yokken bir denizci yıldızın doğduğu yeri, rüzgârın kokusunu, kuşların yönünü ve teknenin altındaki dalgayı okuyabilir. Kâğıt harita taşımadan binlerce kilometrelik okyanusta yol bulmak, boşluğa atılmak değil kuşaklar boyunca biriken ince bilgiyi kullanmaktır. Eski Okyanusya toplumları Pasifik'i duvar değil uzun bir caddeye çevirdi.",
@@ -344,6 +374,8 @@
       "id": "durak-24-15-durak-evcillestirme",
       "section": "DÖRDÜNCÜ YOLCULUK - TARIM OYUNU DEĞİŞTİRİYOR",
       "title": "15. DURAK - Evcilleştirme",
+      "image": "/images/summary-art-13-chapter-15-domestication-v1.webp",
+      "imageCaption": "Kuşaklar boyunca seçilen tohumlar, hayvanları ve insan hayatını birlikte değiştirdi.",
       "paragraphs": [
         "**1. sahne - Kampın kenarında seçilen tohum**\n\nYalnız insanın hayvanı değiştirmesi değil, birlikte yaşayan iki komşunun birbirine alışması gibidir.",
         "Bir topluluğun ertesi yıl için en iri tohumu ayırdığını düşünün. Kimse o anda yeni bir tür tasarladığını söylemez. Fakat aynı seçim kuşaklar boyunca tekrarlandığında bitkinin boyu, tadı ve tohumunu yayma biçimi değişir. Hayvanlarda sakinlik veya büyüklük seçildiğinde onların bedeni kadar insanın günlük düzeni de değişmeye başlar.",
@@ -362,6 +394,8 @@
       "id": "durak-25-16-durak-tarim-toplumlari",
       "section": "DÖRDÜNCÜ YOLCULUK - TARIM OYUNU DEĞİŞTİRİYOR",
       "title": "16. DURAK - Tarım Toplumları",
+      "image": "/images/summary-art-13-chapter-16-agricultural-societies-v1.webp",
+      "imageCaption": "Dolu ambar bolluk sağlarken mülkiyet, vergi ve iktidar sorularını doğurdu.",
       "paragraphs": [
         "**1. sahne - Dolu ambarın görünmeyen bedeli**\n\nTarım, küçük bir mutfağın büyük bir yemek fabrikasına dönüşmesine benzer: üretim artar ama yönetim zorlaşır.",
         "Köyün ambarı dolduğunda ilk bakışta herkes kazanmış görünür. Yiyecek saklanabilir, daha çok çocuk yaşayabilir, bazı insanlar başka işlerde uzmanlaşabilir. Fakat ambarın kapısına kimin sahip olduğu yeni bir soru doğurur. Ürünü kim topladı, kim korudu, kim paylaştırdı? Tarım yalnız daha fazla kalori değil, vergi, iktidar ve eşitsizlik için de yeni bir zemin yaratır.",
@@ -380,6 +414,8 @@
       "id": "durak-26-17-durak-tropik-bahcecilik",
       "section": "DÖRDÜNCÜ YOLCULUK - TARIM OYUNU DEĞİŞTİRİYOR",
       "title": "17. DURAK - Tropik Bahçecilik",
+      "image": "/images/summary-art-13-chapter-17-tropical-horticulture-v1.webp",
+      "imageCaption": "Katmanlı tropik bahçe, orman gibi çalışarak farklı yiyecekleri birlikte yetiştirir.",
       "paragraphs": [
         "**1. sahne - Orman gibi çalışan bahçe**\n\nTek ürünlü bir raf yerine farklı yiyeceklerin bulunduğu düzenli bir kiler gibidir.",
         "Tek sıra aynı bitkinin uzandığı bir tarla yerine yüksek ağaç, meyve, kök bitkisi ve küçük sebzelerin aynı alanda bulunduğu bir bahçe düşünün. Farklı katmanlar ışığı ve suyu paylaşır; bir ürün zayıfladığında diğeri yiyecek sağlayabilir. Tropik bahçecilik, tarım tarihinin yalnız tahıl, saban ve büyük açık tarlalardan oluşmadığını hatırlatır.",
@@ -398,6 +434,8 @@
       "id": "durak-27-18-durak-hastaliklar",
       "section": "DÖRDÜNCÜ YOLCULUK - TARIM OYUNU DEĞİŞTİRİYOR",
       "title": "18. DURAK - Hastalıklar",
+      "image": "/images/summary-art-13-chapter-18-diseases-v1.webp",
+      "imageCaption": "Ticaret yolları mallarla birlikte görünmeyen hastalık etkenlerini de taşıdı.",
       "paragraphs": [
         "**1. sahne - Görünmeyen yolcu**\n\nGörünmeyen bir arızanın bütün bir ulaşım ağını durdurması gibi, mikroplar toplumları sarsabilir.",
         "Bir ticaret kervanı kumaş, baharat ve haber taşırken kimsenin görmediği bir yolcuyu da götürebilir: mikrop. Kalabalık yerleşim, hayvanlarla yakınlık ve uzun mesafeli bağlantı bazı hastalıklara yeni yollar açar. Bir salgın başladığında yalnız bedenleri değil, tarlayı sürecek emeği, orduyu, vergi düzenini, inançları ve devletin güvenilirliğini de değiştirebilir.",
@@ -416,6 +454,8 @@
       "id": "durak-28-19-durak-nufus-artisi",
       "section": "DÖRDÜNCÜ YOLCULUK - TARIM OYUNU DEĞİŞTİRİYOR",
       "title": "19. DURAK - Nüfus Artışı",
+      "image": "/images/summary-art-13-chapter-19-population-growth-v1.webp",
+      "imageCaption": "Temiz su ve sağlıkla daha çok insan yaşadı; aile büyüklüğü zamanla yeniden değişti.",
       "paragraphs": [
         "**1. sahne - Hızlanan ama sonra gazdan ayağını çeken araç**\n\nHızlanan bir araba gibi, sayı büyürken hız sonra azalabilir; bunlar aynı şey değildir.",
         "Bir kasabanın doğum kayıtlarında her yıl daha çok çocuk görünürken mezarlık kayıtları azalıyor olsun. Sayı yalnız doğum arttığı için değil, daha çok insan hayatta kaldığı için hızla büyür. Temiz su, aşı, beslenme ve sağlık hizmetleri ölüm oranlarını düşürdüğünde doğumlar bir süre yüksek kalabilir. Nüfus artışının modern sıçraması büyük ölçüde bu zaman farkından doğar.",
@@ -442,6 +482,8 @@
       "id": "durak-30-20-durak-biyolojik-alisverisler",
       "section": "BEŞİNCİ YOLCULUK - TEK GEZEGENDE BÜYÜK GÜÇ",
       "title": "20. DURAK - Biyolojik Alışverişler",
+      "image": "/images/summary-art-13-chapter-20-biological-exchanges-v1.webp",
+      "imageCaption": "Gemiler kıtalar arasında ürünleri, hayvanları, mikropları ve beklenmedik sonuçları taşıdı.",
       "paragraphs": [
         "**1. sahne - Geminin ambarındaki ikinci dünya**\n\nİki akvaryumun suyunu karıştırmak gibidir: bazı canlılar uyum sağlar, bazıları zarar görür.",
         "Bir gemi okyanusu geçerken ambarında yalnız eşya taşımaz. Tohum, böcek, fare, mikrop ve insanların bilerek getirdiği hayvanlar da yolculuk eder. Yeni kıtaya ulaşan patates veya mısır beslenmeyi dönüştürebilir; bir hastalık bağışıklığı olmayan toplulukları kırabilir; rakipsiz kalan bir tür yerel ekosistemi istila edebilir. Aynı bağlantı farklı insanlar için bereket ve felaket olabilir.",
@@ -460,6 +502,8 @@
       "id": "durak-31-21-durak-insan-etki-alani",
       "section": "BEŞİNCİ YOLCULUK - TEK GEZEGENDE BÜYÜK GÜÇ",
       "title": "21. DURAK - İnsan Etki Alanı",
+      "image": "/images/summary-art-13-chapter-21-human-impact-sphere-v1.webp",
+      "imageCaption": "Küçük bir cihaz madenlerden fabrikalara uzanan gezegen çapında bir ağ taşır.",
       "paragraphs": [
         "**1. sahne - Telefonun içindeki gezegen**\n\nBir evin duvarları dış dünyadan kopuk değildir; su, hava, elektrik ve yiyecek sürekli içeri girer.",
         "Elinizdeki telefona bakın. Camı için kum, pili için farklı madenler, çalışması için enerji, bağlantısı için kablolar ve uydular gerekir. Küçük cihaz onlarca ülkeye, madene, fabrikaya ve işçiye uzanan görünmez bir haritadır. İnsan etki alanı tam olarak böyle çalışır: Kent, yol ve makine doğadan ayrı bir kabuk değil, Dünya'nın maddelerini başka biçimde düzenleyen yeni bir katmandır.",
@@ -478,6 +522,8 @@
       "id": "durak-32-22-durak-nufus-ve-cevre",
       "section": "BEŞİNCİ YOLCULUK - TEK GEZEGENDE BÜYÜK GÜÇ",
       "title": "22. DURAK - Nüfus ve Çevre",
+      "image": "/images/summary-art-13-chapter-22-population-environment-v1.webp",
+      "imageCaption": "Aynı sayıda insan, farklı tüketim ve şehir düzenlerinde çok farklı yük oluşturabilir.",
       "paragraphs": [
         "**1. sahne - Aynı evde farklı faturalar**\n\nBir faturanın yalnız evdeki kişi sayısına değil, kullanılan cihazlara ve alışkanlıklara bağlı olması gibidir.",
         "Dört kişinin yaşadığı iki ev düşünün. Birinde toplu taşıma kullanılıyor, yalıtım iyi ve yiyecek az israf ediliyor. Diğerinde büyük araçlar, kötü yalıtım ve yüksek tüketim var. İnsan sayısı aynı olsa da çevresel yük aynı değildir. Nüfus önemlidir; fakat teknoloji, kişi başı tüketim, kent tasarımı ve paylaşım biçimi hesaba katılmadan tek başına açıklama olamaz.",
@@ -496,6 +542,8 @@
       "id": "durak-33-23-durak-tasima-kapasitesi",
       "section": "BEŞİNCİ YOLCULUK - TEK GEZEGENDE BÜYÜK GÜÇ",
       "title": "23. DURAK - Taşıma Kapasitesi",
+      "image": "/images/summary-art-13-chapter-23-carrying-capacity-v1.webp",
+      "imageCaption": "Sınırı yalnız insan sayısı değil, tüketimin ve paylaşımın ağırlığı belirler.",
       "paragraphs": [
         "**1. sahne - Asansördeki kişi değil yük**\n\nBir asansörün sınırı yalnız kişi sayısına değil, kişilerin taşıdığı yüke de bağlıdır.",
         "Bir asansörün kapısında sekiz kişi sınırı yazsın. İçeri girenlerin elleri boşsa başka, ağır koliler taşıyorsa başka bir yük oluşur. Çevrenin taşıma kapasitesi de yalnız insan sayısı değildir; tüketim biçimine, teknolojiye, ticarete ve atığın nasıl yönetildiğine bağlıdır. Bu nedenle bütün insanlık için tek ve değişmez bir sayı vermek yanıltıcıdır.",
@@ -514,6 +562,8 @@
       "id": "durak-34-24-durak-antroposen",
       "section": "BEŞİNCİ YOLCULUK - TEK GEZEGENDE BÜYÜK GÜÇ",
       "title": "24. DURAK - Antroposen",
+      "image": "/images/summary-art-13-chapter-24-anthropocene-v1.webp",
+      "imageCaption": "Plastik, beton ve sanayi artıkları insan çağını geleceğin kayalarına yazıyor.",
       "paragraphs": [
         "**1. sahne - Geleceğin kayasında plastik çizgi**\n\nKüçük bir odada yaşayan kişinin artık binanın ısıtmasını da değiştirmesine benzer.",
         "Uzak gelecekte bir jeoloğun bugünün tortullarını incelediğini hayal edin. Plastik parçaları, sanayi külü, beton, değişen polenler ve nükleer denemelerden kalan radyoaktif izlerle karşılaşabilir. Antroposen kavramı insan etkisinin artık yalnız şehir duvarlarında değil, gezegenin fiziksel kayıtlarında okunabildiğini anlatır. Bu etki özellikle yirminci yüzyıl ortasındaki hızlı büyümeyle belirginleşmiştir.",
@@ -532,6 +582,8 @@
       "id": "durak-35-25-durak-iklim-degisikligi",
       "section": "BEŞİNCİ YOLCULUK - TEK GEZEGENDE BÜYÜK GÜÇ",
       "title": "25. DURAK - İklim Değişikliği",
+      "image": "/images/summary-art-13-chapter-25-climate-change-v1.webp",
+      "imageCaption": "Kalınlaşan sera etkisi buzları, denizi, kuraklığı ve insan yerleşimlerini birlikte değiştiriyor.",
       "paragraphs": [
         "**1. sahne - Kalınlaşan görünmez battaniye**\n\nKalınlaşan bir battaniye odadaki ısıyı tutar; sera gazları da enerji dengesini değiştirir.",
         "Gece ince battaniye altında rahat eden biri, üzerine kat kat örtü eklendiğinde aynı ısıyı koruyamaz. Sera gazları da Dünya'nın enerji dengesini değiştirir; uzaya kaçacak ısının bir bölümünü sistemde daha uzun tutar. Benzetme basittir ama temel yönü gösterir. Atmosfer ısındıkça okyanus, buz, yağış ve aşırı olayların olasılığı birlikte değişir.",
