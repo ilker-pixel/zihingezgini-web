@@ -484,6 +484,10 @@ def markdown_inline(value: str) -> str:
 def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
     path = summary_path(summary)
     is_cover_artwork = summary.get("coverStyle") == "artwork"
+    has_chapter_artwork = summary.get("chapterArtStyle") == "monochrome-engraving"
+    chapter_art_color = str(summary.get("chapterArtColor", "#8B5B38"))
+    if not re.fullmatch(r"#[0-9A-Fa-f]{6}", chapter_art_color):
+        chapter_art_color = "#8B5B38"
     hero_class = " has-cover-art" if is_cover_artwork else ""
     cover_class = " summary-cover-art" if is_cover_artwork else ""
     chapters = []
@@ -494,8 +498,9 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
         )
         image = ""
         if chapter.get("image"):
+            image_class = " chapter-artwork" if has_chapter_artwork else ""
             image = f"""
-            <figure class="reader-chapter-img-box">
+            <figure class="reader-chapter-img-box{image_class}">
               <img src="{html.escape(chapter['image'], quote=True)}" class="reader-chapter-img" loading="lazy" alt="{html.escape(chapter.get('imageCaption', ''))}">
               <figcaption>{html.escape(chapter.get('imageCaption', ''))}</figcaption>
             </figure>"""
@@ -555,7 +560,7 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
         </details>"""
     description = excerpt(summary.get("intro", "")) or f"{summary['title']} kitabının kapsamlı Türkçe özeti."
     body = f"""
-      <article class="summary-reader-container static-summary{' is-long-form' if summary.get('longForm') else ''}">
+      <article class="summary-reader-container static-summary{' is-long-form' if summary.get('longForm') else ''}{' has-chapter-artwork' if has_chapter_artwork else ''}"{' style="--chapter-art-ink: ' + chapter_art_color + ';"' if has_chapter_artwork else ''}>
         {breadcrumb([("Başlangıç", "/"), ("Okuma Haritası", "/okuma-haritasi/"), (summary['title'], path)])}
         <header class="summary-hero-split{hero_class}">
           <div class="summary-hero-left">
@@ -599,7 +604,7 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
         schema=schema,
         page_type="article",
         body_class="summary-page",
-        static_css_version=4 if is_cover_artwork else 3,
+        static_css_version=5 if has_chapter_artwork else (4 if is_cover_artwork else 3),
     )
 
 
