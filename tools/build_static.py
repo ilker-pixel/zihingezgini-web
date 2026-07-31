@@ -247,6 +247,28 @@ def breadcrumb(items: list[tuple[str, str]]) -> str:
     return f'<nav class="static-breadcrumb" aria-label="İçerik yolu">{"<span>›</span>".join(links)}</nav>'
 
 
+def section_search(*, scope: str, title: str, description: str, placeholder: str, total: int) -> str:
+    search_id = f"{scope}-section-search"
+    return f"""
+        <section class="section-search-panel" data-section-search data-search-scope="{html.escape(scope, quote=True)}" data-search-total="{total}" aria-labelledby="{search_id}-title">
+          <div class="section-search-copy">
+            <p class="section-search-eyebrow">Yalnızca bu bölüm</p>
+            <h2 id="{search_id}-title">{html.escape(title)}</h2>
+            <p>{html.escape(description)}</p>
+          </div>
+          <form class="section-search-form" role="search">
+            <label class="section-search-label" for="{search_id}">{html.escape(title)}</label>
+            <div class="section-search-control">
+              <span aria-hidden="true">⌕</span>
+              <input id="{search_id}" type="search" data-section-search-input placeholder="{html.escape(placeholder, quote=True)}" autocomplete="off" enterkeyhint="search">
+              <button type="button" data-section-search-clear hidden>Temizle</button>
+            </div>
+            <p class="section-search-status" data-section-search-status aria-live="polite">{total} kayıt</p>
+          </form>
+          <p class="section-search-empty" data-section-search-empty hidden>Bu bölümde aramana uyan bir sonuç bulunamadı.</p>
+        </section>"""
+
+
 def render_post(post: dict[str, Any]) -> tuple[str, str, str]:
     slug = post["slug"]
     path = f"/yazilar/{slug}/"
@@ -331,8 +353,13 @@ def render_post_archive(posts: list[dict[str, Any]]) -> str:
                 f'<div class="card-img-container"><img src="{html.escape(post["featuredImage"], quote=True)}" '
                 f'class="card-img" loading="lazy" alt="{html.escape(post["title"], quote=True)}"></div>'
             )
+        search_text = " ".join((
+            str(post.get("title", "")),
+            str(post.get("category", "")),
+            excerpt(post.get("content", ""), 500),
+        ))
         cards.append(f"""
-        <a class="post-card" href="/yazilar/{html.escape(post['slug'])}/">
+        <a class="post-card" href="/yazilar/{html.escape(post['slug'])}/" data-section-search-item data-search-text="{html.escape(search_text, quote=True)}">
           {image_html}
           <div class="card-content">
             <span class="card-category">{html.escape(post.get('category', 'Düşünce'))}</span>
@@ -341,13 +368,14 @@ def render_post_archive(posts: list[dict[str, Any]]) -> str:
           </div>
         </a>""")
     content = f"""
-      <section class="static-index">
+      <section class="static-index" data-section-search-collection="posts">
         {breadcrumb([("Başlangıç", "/"), ("Yazılar", "/yazilar/")])}
         <header class="static-page-heading">
           <p class="section-kicker">Özgün üretimler</p>
           <h1>Defterden bütün kayıtlar</h1>
           <p>Felsefe, bilim, psikoloji ve gündelik hayata düşülmüş kişisel notlar.</p>
         </header>
+        {section_search(scope="posts", title="Yazılarda ara", description=f"Yalnızca bu bölümdeki {len(posts)} kişisel yazı aranır; Okuma Haritası ve Araştırma Arşivi sonuçlara katılmaz.", placeholder="Başlık, konu veya kavram yaz", total=len(posts))}
         <div class="posts-grid static-post-grid">{''.join(cards)}</div>
       </section>"""
     return page_shell(
@@ -356,6 +384,8 @@ def render_post_archive(posts: list[dict[str, Any]]) -> str:
         path="/yazilar/",
         content=content,
         schema={"@context": "https://schema.org", "@type": "CollectionPage", "name": "Zihin Gezgini Yazıları"},
+        static_css_version=6,
+        static_js_version=3,
     )
 
 
@@ -411,8 +441,9 @@ def render_roadmap(books: list[dict[str, Any]], summary_urls: dict[int, str]) ->
                 title = f'<a href="{html.escape(book["link"], quote=True)}" rel="noopener">{title}</a>'
             row_classes = "book-item-row has-summary" if summary_url else "book-item-row"
             row_link_attrs = f' data-summary-href="{summary_url}"' if summary_url else ""
+            search_text = " ".join(str(book.get(key, "")) for key in ("no", "author", "title", "category", "pubDate", "description"))
             rows.append(f"""
-            <article class="{row_classes}" id="kitap-{book.get('no')}"{row_link_attrs}>
+            <article class="{row_classes}" id="kitap-{book.get('no')}"{row_link_attrs} data-section-search-item data-search-text="{html.escape(search_text, quote=True)}">
               <div class="book-check-col">
                 <input type="checkbox" data-roadmap-book="{book.get('no')}" aria-label="{html.escape(title_text, quote=True)} okundu">
               </div>
@@ -432,14 +463,14 @@ def render_roadmap(books: list[dict[str, Any]], summary_urls: dict[int, str]) ->
               </div>
             </article>""")
         groups.append(f"""
-        <section class="roadmap-phase" id="evre-{evre}">
+        <section class="roadmap-phase" id="evre-{evre}" data-section-search-group>
           <h2><span>{evre:02d}</span>{html.escape(EVRE_TITLES[evre])}</h2>
           <div class="roadmap-books-list">{''.join(rows)}</div>
         </section>""")
 
-    quick_nav = "".join(f'<a href="#evre-{i}">{i:02d}</a>' for i in range(1, 11))
+    quick_nav = "".join(f'<a href="#evre-{i}" data-section-search-group-link="evre-{i}">{i:02d}</a>' for i in range(1, 11))
     content = f"""
-      <section class="roadmap-container static-roadmap">
+      <section class="roadmap-container static-roadmap" data-section-search-collection="roadmap">
         {breadcrumb([("Başlangıç", "/"), ("Okuma Haritası", "/okuma-haritasi/")])}
         <header class="roadmap-header">
           <p class="section-kicker">300 eserlik araştırma rotası</p>
@@ -451,6 +482,7 @@ def render_roadmap(books: list[dict[str, Any]], summary_urls: dict[int, str]) ->
             <div class="stats-progress-bar"><div class="stats-progress-fill" data-roadmap-fill style="width:0"></div></div>
           </div>
         </header>
+        {section_search(scope="roadmap", title="Okuma Haritası'nda ara", description="Bu arama yalnızca Okuma Haritası'ndaki 300 kitabı; yazar, eser adı, kategori ve açıklama bilgileriyle tarar.", placeholder="300 kitap içinde ara", total=len(books))}
         {''.join(groups)}
       </section>"""
     schema = {
@@ -470,8 +502,9 @@ def render_roadmap(books: list[dict[str, Any]], summary_urls: dict[int, str]) ->
         content=content,
         active="roadmap",
         schema=schema,
-        body_class="roadmap-page",
+        static_css_version=6,
         static_js_version=3,
+        body_class="roadmap-page",
     )
 
 
@@ -701,8 +734,9 @@ def render_research_archive(index_items: list[dict[str, Any]]) -> str:
         cover = item.get("cover", "")
         if cover and not cover.startswith("/"):
             cover = "/" + cover
+        search_text = " ".join(str(item.get(key, "")) for key in ("title", "category", "desc"))
         cards.append(f"""
-        <a class="static-research-card" href="/arastirma/{html.escape(item['id'])}/">
+        <a class="static-research-card" href="/arastirma/{html.escape(item['id'])}/" data-section-search-item data-search-text="{html.escape(search_text, quote=True)}">
           <img src="{html.escape(cover, quote=True)}" loading="lazy" alt="{html.escape(item['title'], quote=True)} kapağı">
           <span>{html.escape(item.get('category', 'Araştırma'))}</span>
           <h2>{html.escape(item['title'])}</h2>
@@ -710,13 +744,14 @@ def render_research_archive(index_items: list[dict[str, Any]]) -> str:
           <strong>{item.get('chapterCount', 100)} bölüm →</strong>
         </a>""")
     content = f"""
-      <section class="library-layout static-library">
+      <section class="library-layout static-library" data-section-search-collection="research">
         {breadcrumb([("Başlangıç", "/"), ("Araştırma Arşivi", "/arastirma-arsivi/")])}
         <header class="library-header">
           <p class="section-kicker">Araştırma masası</p>
           <h1>Araştırma Arşivi</h1>
           <p>Yapay zekâ desteğiyle hazırlanmış kapsamlı çalışma dosyaları. Bunlar kişisel eser değil; okumak, karşılaştırmak ve daha sonra özgün üretime dönüştürmek için kullanılan kaynaklardır.</p>
         </header>
+        {section_search(scope="research", title="Araştırma Arşivi'nde ara", description=f"Yalnızca bu bölümdeki {len(index_items)} araştırma dosyası aranır; Okuma Haritası kitapları sonuçlara katılmaz.", placeholder="Araştırma başlığı veya konu yaz", total=len(index_items))}
         <div class="static-research-grid">{''.join(cards)}</div>
       </section>"""
     schema = {
@@ -735,6 +770,8 @@ def render_research_archive(index_items: list[dict[str, Any]]) -> str:
         content=content,
         active="library",
         schema=schema,
+        static_css_version=6,
+        static_js_version=3,
     )
 
 
