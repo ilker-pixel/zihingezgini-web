@@ -102,6 +102,20 @@
     refreshRoadmap();
   }
 
+  document.querySelectorAll("[data-summary-href]").forEach((row) => {
+    const openSummary = (event) => {
+      if (event.defaultPrevented || event.target.closest("a, button, input, label, summary, select, textarea")) return;
+      const selection = window.getSelection();
+      if (selection && !selection.isCollapsed) return;
+      const href = row.dataset.summaryHref;
+      if (!href) return;
+      if (event.metaKey || event.ctrlKey) window.open(href, "_blank", "noopener");
+      else window.location.href = href;
+    };
+
+    row.addEventListener("click", openSummary);
+  });
+
   const article = document.querySelector('[data-post-slug="derinlik-ve-sabir-auteur-sinemasinin-anlami"]');
   const filmList = article?.querySelector(".post-body ol");
   if (filmList) {
