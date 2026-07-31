@@ -5,6 +5,106 @@
   "subtitle": "Görme, bellek, beden duygusu ve benlik üzerine yirmi dört insan hikâyesini, isimler yerine akılda kalan karakter tanımlarıyla anlatan sade rehber.",
   "coverImage": "/images/summary-art-277-karisini-sapka-sanan-adam-v2.webp",
   "coverStyle": "artwork",
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#2F6665",
+  "chapterArtworks": {
+    "durak-09-01-vaka-karisini-sapka-sanan-adam": {
+      "image": "/images/summary-art-277-chapter-01-visual-agnosia-v1.webp",
+      "imageCaption": "Göz ayrıntıları görürken beyin onları tanıdık bir yüz ve nesne bütünü hâline getiremeyebilir."
+    },
+    "durak-10-02-vaka-kayip-denizci": {
+      "image": "/images/summary-art-277-chapter-02-lost-mariner-v1.webp",
+      "imageCaption": "Geçmiş capcanlı kalırken bugün her an silinebilir; müzik kısa süreli bir şimdi kurabilir."
+    },
+    "durak-11-03-vaka-bedensiz-kadin": {
+      "image": "/images/summary-art-277-chapter-03-bodyless-woman-v1.webp",
+      "imageCaption": "Beden içeriden hissedilmediğinde kişi her hareketini gözleriyle yönetmek zorunda kalabilir."
+    },
+    "durak-12-04-vaka-yataktan-dusen-adam": {
+      "image": "/images/summary-art-277-chapter-04-alien-leg-v1.webp",
+      "imageCaption": "Bir uzvun bedende bulunması, beynin onu kendiliğinden 'benim' sayacağını garanti etmez."
+    },
+    "durak-13-05-vaka-eller": {
+      "image": "/images/summary-art-277-chapter-05-hands-awaken-v1.webp",
+      "imageCaption": "Eller, başkası adına her şeyi yaptığında uyuyabilir; güvenli bir fırsat onları yeniden uyandırabilir."
+    },
+    "durak-14-06-vaka-hayaletler": {
+      "image": "/images/summary-art-277-chapter-06-phantom-limbs-v1.webp",
+      "imageCaption": "Uzuv bedenden ayrılsa da beyindeki haritası duyum ve ağrı üretmeyi sürdürebilir."
+    },
+    "durak-15-07-vaka-duzey-uzerinde": {
+      "image": "/images/summary-art-277-chapter-07-spirit-level-v1.webp",
+      "imageCaption": "İç denge şaştığında dışarıdan görülen küçük bir ölçü yeni bir diklik pusulası olabilir."
+    },
+    "durak-16-08-vaka-saga-bak": {
+      "image": "/images/summary-art-277-chapter-08-hemispatial-neglect-v1.webp",
+      "imageCaption": "Sol taraf gözde değil, dikkat haritasında kaybolduğunda sağa dönmek onu yeniden görünür kılabilir."
+    },
+    "durak-17-09-vaka-baskanin-konusmasi": {
+      "image": "/images/summary-art-277-chapter-09-aphasia-speech-v1.webp",
+      "imageCaption": "Kelimeler zayıflayınca ton ve jest; ton zayıflayınca kelimeler gerçeği yakalamaya yardım edebilir."
+    },
+    "durak-19-10-vaka-esprili-tikli-tikleriyle-pazarlik-yapan-davulcu": {
+      "image": "/images/summary-art-277-chapter-10-tourette-drummer-v1.webp",
+      "imageCaption": "Tikler ile kişilik aynı şey değildir; tedavi, rahatlama ile canlılık arasında kişiye göre denge arar."
+    },
+    "durak-20-11-vaka-ask-tanrisinin-hastaligi": {
+      "image": "/images/summary-art-277-chapter-11-cupids-disease-v1.webp",
+      "imageCaption": "Bir hastalık zarar verirken sevilen bir canlılık da getirebilir; tedavi bu ikilemi kişiyle birlikte taşır."
+    },
+    "durak-21-12-vaka-bir-kimlik-meselesi": {
+      "image": "/images/summary-art-277-chapter-12-confabulation-identity-v1.webp",
+      "imageCaption": "Konfabulasyon yalan değildir; zihin kayıp zamanı yeni hikâyelerle farkında olmadan doldurur."
+    },
+    "durak-22-13-vaka-evet-peder-hemsire": {
+      "image": "/images/summary-art-277-chapter-13-father-nurse-v1.webp",
+      "imageCaption": "Parçalar görülür ama çelişkinin ağırlığı hissedilmezse ciddi durum şakaya dönüşebilir."
+    },
+    "durak-23-14-vaka-ele-gecirilmisler": {
+      "image": "/images/summary-art-277-chapter-14-possessed-mirroring-v1.webp",
+      "imageCaption": "İstemsiz taklit, çevrenin hareketlerini kişinin bedenine taşırken benlik için yorucu bir kalabalık yaratabilir."
+    },
+    "durak-25-15-vaka-hatirlama": {
+      "image": "/images/summary-art-277-chapter-15-musical-memory-v1.webp",
+      "imageCaption": "Sessiz radyodan gelen çocukluk şarkıları, bellekte kapalı kalmış bir dünyayı açabilir."
+    },
+    "durak-26-16-vaka-dizginlenemeyen-nostalji": {
+      "image": "/images/summary-art-277-chapter-16-nostalgia-flood-v1.webp",
+      "imageCaption": "Tedavi bedeni uyandırırken geçmişin şarkı ve tavırlarını denetlenemeyen bir sel gibi geri getirebilir."
+    },
+    "durak-27-17-vaka-hindistan-a-bir-gecit": {
+      "image": "/images/summary-art-277-chapter-17-india-homecoming-v1.webp",
+      "imageCaption": "Hastane odasında geçmişteki ev, ölüm yaklaşırken korku değil sakin bir dönüş duygusu verebilir."
+    },
+    "durak-28-18-vaka-derinin-altindaki-kopek": {
+      "image": "/images/summary-art-277-chapter-18-heightened-smell-v1.webp",
+      "imageCaption": "Koku güçlendiğinde şehir görünmez izlerle zenginleşir; aynı yoğunluk hem büyüleyici hem yorucu olabilir."
+    },
+    "durak-29-19-vaka-cinayet": {
+      "image": "/images/summary-art-277-chapter-19-crime-memory-v1.webp",
+      "imageCaption": "Beyin yaralanması, kapanmış suç anısını şimdiki zamanda yaşanan parçalı sahnelere dönüştürebilir."
+    },
+    "durak-30-20-vaka-goruler-yasayan-rahibenin-gorumleri": {
+      "image": "/images/summary-art-277-chapter-20-migraine-visions-v1.webp",
+      "imageCaption": "Migren aurasının ışıkları, kişinin kültürü ve inancıyla sanata ve anlama dönüşebilir."
+    },
+    "durak-32-21-vaka-hikayelerle-yol-bulan-genc-kadin": {
+      "image": "/images/summary-art-277-chapter-21-story-intelligence-v1.webp",
+      "imageCaption": "Bir testte başarısız görünen insan, hikâye, doğa ve yas içinde güçlü bir bütünlük kurabilir."
+    },
+    "durak-33-22-vaka-yuruyen-muzik-sozlugu": {
+      "image": "/images/summary-art-277-chapter-22-musical-encyclopedia-v1.webp",
+      "imageCaption": "Olağanüstü müzik belleği, bilgi kadar baba sevgisini ve topluluğa aidiyeti de taşıyabilir."
+    },
+    "durak-34-23-vaka-ikizler": {
+      "image": "/images/summary-art-277-chapter-23-twins-numbers-v1.webp",
+      "imageCaption": "Sayılar bazen hesaplanan sonuçtan çok görülen bir manzara gibi deneyimlenebilir."
+    },
+    "durak-35-24-vaka-otistik-sanatci": {
+      "image": "/images/summary-art-277-chapter-24-autistic-artist-v1.webp",
+      "imageCaption": "Çizim, konuşamayan bir gencin yalnız kopyasını değil mizahını, seçimini ve kişisel sesini gösterebilir."
+    }
+  },
   "pdfUrl": "/data/pdfs/277-karisini-sapka-sanan-adam-ozeti.pdf",
   "pdfLabel": "25 sayfalık PDF'yi indir",
   "longForm": true,
