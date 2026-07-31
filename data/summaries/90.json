@@ -5,6 +5,8 @@
   "subtitle": "Hayat hazır bir anlam sunmadığında yaşamaya nasıl devam edeceğimizi; saçma, başkaldırı, özgürlük ve tutku üzerinden anlatan kolay okunan rehber.",
   "coverImage": "/images/summary-art-90-sisifos-soyleni-v2.webp",
   "coverStyle": "artwork",
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#8C3F28",
   "pdfUrl": "/data/pdfs/90-sisifos-soyleni-ozeti.pdf",
   "pdfLabel": "33 sayfalık PDF'yi indir",
   "longForm": true,
@@ -68,6 +70,8 @@
       "id": "durak-07-01-durak-bir-sali-sabahi-catlayan-duzen",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "01. DURAK - Bir Salı Sabahı Çatlayan Düzen",
+      "image": "/images/summary-art-90-chapter-01-first-crack-v1.webp",
+      "imageCaption": "Sıradan bir sabahın içinde açılan ilk küçük çatlak.",
       "paragraphs": [
         "**1. sahne - Alarm yine çaldı**\n\nHer şey normal görünürken insanın içine neden ansızın bir boşluk düşer?",
         "Saat 06.45. Telefon titriyor. Eliniz alarmı kapatıyor. Banyoya gidiyor, yüzünüzü yıkıyor, aynı bardağa çay koyuyorsunuz. Dışarıdan bakınca ortada hiçbir sorun yok.",
@@ -92,6 +96,8 @@
       "id": "durak-08-02-durak-sacma-aslinda-nedir",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "02. DURAK - Saçma Aslında Nedir?",
+      "image": "/images/summary-art-90-chapter-02-absurd-silence-v1.webp",
+      "imageCaption": "Saçma, cevap isteyen insanla sessiz dünya arasında doğar.",
       "paragraphs": [
         "**1. sahne - Bozuk sandalye komik, hayat neden değil?**\n\nGünlük dildeki “saçma” ile Camus’nün söylediği aynı değildir.",
         "Bir sandalye durup dururken şarkı söylese buna saçma deriz. Camus başka bir şey anlatır. Ona göre dünya tek başına saçma değildir. İnsan da tek başına saçma değildir.",
@@ -116,6 +122,8 @@
       "id": "durak-09-03-durak-aliskanlik-makinesi-durunca",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "03. DURAK - Alışkanlık Makinesi Durunca",
+      "image": "/images/summary-art-90-chapter-03-habit-machine-v1.webp",
+      "imageCaption": "Tekrarlanan hayat durduğunda insan ilk kez düzene dışarıdan bakar.",
       "paragraphs": [
         "**1. sahne - Pazartesi, salı, çarşamba...**\n\nGünler aynı ritimde ilerlerken soru sormak ertelenir.",
         "Kalk, git, çalış, dön, ye, uyu. Sonra yeniden. Bu düzen kötü olduğu için değil, çok iyi çalıştığı için bizi düşünmekten koruyabilir.",
@@ -140,6 +148,8 @@
       "id": "durak-10-04-durak-saatin-icindeki-olum",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "04. DURAK - Saatin İçindeki Ölüm",
+      "image": "/images/summary-art-90-chapter-04-time-and-mortality-v1.webp",
+      "imageCaption": "Beklenen her yarın, insanı yolun sonuna biraz daha yaklaştırır.",
       "paragraphs": [
         "**1. sahne - Yarın dediğimiz şey**\n\nUmutla beklediğimiz yarın bizi aynı zamanda sona yaklaştırır.",
         "İnsan sık sık “Bu hafta geçsin”, “Yaz gelsin”, “Çocuk büyüsün” der. Geleceği çağırırız. Oysa gelen her yarın ömrümüzden bir günü de götürür.",
@@ -164,6 +174,8 @@
       "id": "durak-11-05-durak-kitabin-en-sert-sorusu",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "05. DURAK - Kitabın En Sert Sorusu",
+      "image": "/images/summary-art-90-chapter-05-life-worth-living-v1.webp",
+      "imageCaption": "Camus’nün sert sorusu, yaşamın tarafında kalacak dürüst bir cevap arar.",
       "paragraphs": [
         "**1. sahne - Neden bu kadar doğrudan?**\n\nCamus meseleyi uzaktan dolaşmak yerine hayatın kalbine girer.",
         "Kitap, yaşamaya değip değmediğini sorarak başlar. Bu cümle ilk kez okunduğunda kapıyı sertçe açar. Camus’nün amacı ölümü övmek değildir. Tam tersine, insanı yaşamdan vazgeçirebilecek düşünceyi saklanamayacağı kadar açık bir yere koymaktır.",
@@ -188,6 +200,8 @@
       "id": "durak-12-06-durak-kolay-cikislarin-cekiciligi",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "06. DURAK - Kolay Çıkışların Çekiciliği",
+      "image": "/images/summary-art-90-chapter-06-easy-exits-v1.webp",
+      "imageCaption": "Belirsizlik büyüdüğünde hazır cevapların aydınlık kapıları çekici görünür.",
       "paragraphs": [
         "**1. sahne - Boşluğu hemen doldurmak**\n\nİnsan belirsizliğe dayanamayınca ilk kesin cevaba sarılabilir.",
         "Bir kapı gıcırdadığında ne olduğunu bilmek isteriz. Bilmezsek zihnimiz hikâye kurar. Hayatın anlamı konusunda da böyleyiz.",
@@ -212,6 +226,8 @@
       "id": "durak-13-07-durak-aklin-ulastigi-duvar",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "07. DURAK - Aklın Ulaştığı Duvar",
+      "image": "/images/summary-art-90-chapter-07-reason-wall-v1.webp",
+      "imageCaption": "Harita yolu gösterebilir; neden yürümek gerektiğini söyleyemez.",
       "paragraphs": [
         "**1. sahne - Harita neden yetmiyor?**\n\nDünya hakkında çok şey bilmek, hayatın neden var olduğunu söylemeyebilir.",
         "Harita size dağın yüksekliğini, yolun uzunluğunu ve havayı gösterir. Fakat o dağa neden çıkmanız gerektiğini söylemez.",
@@ -236,6 +252,8 @@
       "id": "durak-14-08-durak-dusunurlerin-yaptigi-buyuk-sicrayis",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "08. DURAK - Düşünürlerin Yaptığı Büyük Sıçrayış",
+      "image": "/images/summary-art-90-chapter-08-philosophical-leap-v1.webp",
+      "imageCaption": "Camus, uçurum görüldükten sonra kesinliğe yapılan büyük sıçrayışı sorgular.",
       "paragraphs": [
         "**1. sahne - Uçurumun kenarında aynı başlangıç**\n\nCamus'nün tartıştığı düşünürler de dünyanın kolayca açıklanamadığını görür.",
         "Bu düşünürler saf ve rahat iyimserler değildir. Akıl ile dünya arasındaki çatlağı, kaygıyı, ölümü ve insanın sınırını onlar da ciddiye alır. Camus onlarla tam bu noktada yan yana yürür.",
@@ -260,6 +278,8 @@
       "id": "durak-15-09-durak-gerilimi-bozmadan-yasamak",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "09. DURAK - Gerilimi Bozmadan Yaşamak",
+      "image": "/images/summary-art-90-chapter-09-living-tension-v1.webp",
+      "imageCaption": "İnsanın sorusu ile dünyanın sessizliği arasındaki ip bırakılmaz.",
       "paragraphs": [
         "**1. sahne - İp kopmasın**\n\nSaçma, insanın sorusu ile dünyanın sessizliği birlikte kaldığı sürece yaşar.",
         "Bir halatı iki kişi karşılıklı çekiyor. Biri bırakırsa gerilim biter. Camus’nün düşüncesinde insanın anlam isteği bir uçta, dünyanın sessizliği öteki uçtadır.",
@@ -284,6 +304,8 @@
       "id": "durak-16-10-durak-gozleri-acik-tutmak",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "10. DURAK - Gözleri Açık Tutmak",
+      "image": "/images/summary-art-90-chapter-10-clarity-v1.webp",
+      "imageCaption": "Berraklık, bütün yolu değil görebildiğimiz kısmı dürüstçe kabul etmektir.",
       "paragraphs": [
         "**1. sahne - Sis dağılınca**\n\nBerraklık her şeyi çözmek değil, neyi bilmediğini de görebilmektir.",
         "Yoğun siste araba kullanırken hızınızı azaltırsınız. Yolun tamamını görmezsiniz ama gördüğünüz mesafeyi ciddiye alırsınız.",
@@ -308,6 +330,8 @@
       "id": "durak-17-11-durak-basini-egmemek",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "11. DURAK - Başını Eğmemek",
+      "image": "/images/summary-art-90-chapter-11-rebellion-v1.webp",
+      "imageCaption": "Dünyanın sessizliğine karşı verilen sakin cevap: Yine de yaşayacağım.",
       "paragraphs": [
         "**1. sahne - Sessiz bir hayır**\n\nBaşkaldırı her zaman meydanda bağırmak değildir.",
         "Camus’nün başkaldırısı önce içeride başlar. Dünya “Sana açıklama borçlu değilim” der. İnsan “Yine de yaşayacağım” diye cevap verir.",
@@ -332,6 +356,8 @@
       "id": "durak-18-12-durak-garanti-olmadan-ozgurluk",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "12. DURAK - Garanti Olmadan Özgürlük",
+      "image": "/images/summary-art-90-chapter-12-freedom-without-guarantee-v1.webp",
+      "imageCaption": "Hazır metin olmadığında insan kendi hareketini seçmek zorunda kalır.",
       "paragraphs": [
         "**1. sahne - Hazır senaryo yırtılınca**\n\nHayatın önceden yazılmış amacı yoksa insanın seçimi daha görünür olur.",
         "Bir tiyatroda size rol verilmiş ama metin verilmemiş olsun. İlk anda korkarsınız. Sonra sahnede ne söyleyeceğinizin size kaldığını fark edersiniz.",
@@ -356,6 +382,8 @@
       "id": "durak-19-13-durak-daha-cok-yasamak",
       "section": "BİRİNCİ KAPI - SAÇMA BİR AKIL YÜRÜTME",
       "title": "13. DURAK - Daha Çok Yaşamak",
+      "image": "/images/summary-art-90-chapter-13-passion-intensity-v1.webp",
+      "imageCaption": "Hayatın yoğunluğu, yalnız süresinde değil uyanık yaşanan anlarında bulunur.",
       "paragraphs": [
         "**1. sahne - Uzunluk mu, canlılık mı?**\n\nCamus hayatın değerini yalnız kaç yıl sürdüğüyle ölçmez.",
         "Bazı günler vardır, içine bir hafta sığar. Bazı aylar ise tek renk geçer. Camus’nün tutkusu, sürekli heyecan peşinde koşmak değildir.",
@@ -388,6 +416,8 @@
       "id": "durak-21-14-durak-hic-durmadan-asik-olan-adam",
       "section": "İKİNCİ KAPI - SAÇMA İNSAN",
       "title": "14. DURAK - Hiç Durmadan Âşık Olan Adam",
+      "image": "/images/summary-art-90-chapter-14-don-juan-v1.webp",
+      "imageCaption": "Her karşılaşma kendi zamanı içinde yaşanır; sonsuzluk sözüne dönüştürülmez.",
       "paragraphs": [
         "**1. sahne - Camus neden bir çapkını anlatıyor?**\n\nBu kişi ahlak örneği değil, tek sonsuz aşk yerine çok sayıda deneyimi seçen bir simgedir.",
         "Kitaptaki meşhur âşık, bir ilişkide sonsuzluk aramaz. Her karşılaşmayı kendi zamanı içinde yaşar. Camus onu kusursuz insan diye sunmaz.",
@@ -412,6 +442,8 @@
       "id": "durak-22-15-durak-sahnede-yuz-hayat",
       "section": "İKİNCİ KAPI - SAÇMA İNSAN",
       "title": "15. DURAK - Sahnede Yüz Hayat",
+      "image": "/images/summary-art-90-chapter-15-actor-many-lives-v1.webp",
+      "imageCaption": "Oyuncu, tek bir akşamda birbirinden farklı hayatların içine girer.",
       "paragraphs": [
         "**1. sahne - Perde açılıyor**\n\nOyuncu birkaç saat içinde bir insanın bütün ömrünü yaşar.",
         "Sahne karanlık. Işık yanıyor. Bir insan birazdan kral, dilenci ya da âşık olacak. İki saat sonra perde kapanacak.",
@@ -436,6 +468,8 @@
       "id": "durak-23-16-durak-dunyaya-karisan-insan",
       "section": "İKİNCİ KAPI - SAÇMA İNSAN",
       "title": "16. DURAK - Dünyaya Karışan İnsan",
+      "image": "/images/summary-art-90-chapter-16-action-v1.webp",
+      "imageCaption": "Son zaferin garantisi olmasa da insan kollarını sıvayıp dünyaya karışır.",
       "paragraphs": [
         "**1. sahne - Kolları sıvamak**\n\nBazı insanlar düşünceyi hareketin içinde sınar.",
         "Camus’nün eylem insanı dünyayı bütünüyle düzelteceğine inanmaz. Yine de kenarda durmaz.",
@@ -468,6 +502,8 @@
       "id": "durak-25-17-durak-yapan-ve-anlatan-insan",
       "section": "ÜÇÜNCÜ KAPI - SAÇMA YARATIM",
       "title": "17. DURAK - Yapan ve Anlatan İnsan",
+      "image": "/images/summary-art-90-chapter-17-creation-v1.webp",
+      "imageCaption": "Yaratmak dünyayı çözmek değil, karmaşanın içine ilk çizgiyi çekmektir.",
       "paragraphs": [
         "**1. sahne - Boş kâğıdın önünde**\n\nYaratmak dünyayı açıklamak değil, ona bir biçim vermektir.",
         "Bir ressam boş tuvale bakıyor. Evrenin sırrını çözmeyecek. Yine de ilk çizgiyi çekiyor.",
@@ -492,6 +528,8 @@
       "id": "durak-26-18-durak-ozgurlugunu-olumle-kanitlamak-isteyen-kahraman",
       "section": "ÜÇÜNCÜ KAPI - SAÇMA YARATIM",
       "title": "18. DURAK - Özgürlüğünü Ölümle Kanıtlamak İsteyen Kahraman",
+      "image": "/images/summary-art-90-chapter-18-kirilov-burden-v1.webp",
+      "imageCaption": "Soyut bir düşünce insanın omzuna bindiğinde gerçek ağırlığı ortaya çıkar.",
       "paragraphs": [
         "**1. sahne - Roman neden düşünceden daha canlıdır?**\n\nBir fikir, bir insanın korkusuna ve kararına girince gerçek ağırlığı görünür.",
         "Dostoyevski'nin Ecinniler romanındaki Kirilov, bir felsefe kitabının kuru örneği değildir. Korkar, düşünür, başkalarıyla konuşur ve kendi sonucunun yükünü taşır. Camus bu nedenle romana döner: Soyut bir düşüncenin insan hayatında ne yaptığını orada görebilir.",
@@ -516,6 +554,8 @@
       "id": "durak-27-19-durak-kumdan-kale-yapan-sanatci",
       "section": "ÜÇÜNCÜ KAPI - SAÇMA YARATIM",
       "title": "19. DURAK - Kumdan Kale Yapan Sanatçı",
+      "image": "/images/summary-art-90-chapter-19-impermanent-art-v1.webp",
+      "imageCaption": "Dalga gelecektir; yine de kumdan kaleyi özenle yapmak anlamlıdır.",
       "paragraphs": [
         "**1. sahne - Eser de ölecekse neden yapalım?**\n\nCamus yaratmanın değerini sonsuza kalma garantisine bağlamaz.",
         "Bir çocuk kıyıda kumdan kale yapar. Dalgaların geleceğini bilir. Bu bilgi ellerini durdurmaz; tam tersine yaptığı biçime daha dikkatli bakmasını sağlar. Camus'nün geçici eseri buna benzer.",
@@ -548,6 +588,8 @@
       "id": "durak-29-20-durak-tasi-iten-adamin-eski-hikayesi",
       "section": "DÖRDÜNCÜ KAPI - SİSİFOS'UN DAĞI",
       "title": "20. DURAK - Taşı İten Adamın Eski Hikâyesi",
+      "image": "/images/summary-art-90-chapter-20-sisyphus-climb-v1.webp",
+      "imageCaption": "Sisifos aynı ağır kayayı bitmeyen yokuşa yeniden sürer.",
       "paragraphs": [
         "**1. sahne - Ceza başlıyor**\n\nTanrılar Sisifos’u bitmeyen ve sonuçsuz bir işe mahkûm eder.",
         "Eski Yunan anlatısında kurnaz bir kral vardır. Ölümü kandırmaya, düzeni aşmaya çalışır. Sonunda cezası ağır olur.",
@@ -572,6 +614,8 @@
       "id": "durak-30-21-durak-dagdan-asagi-inerken",
       "section": "DÖRDÜNCÜ KAPI - SİSİFOS'UN DAĞI",
       "title": "21. DURAK - Dağdan Aşağı İnerken",
+      "image": "/images/summary-art-90-chapter-21-conscious-descent-v1.webp",
+      "imageCaption": "Taştan ayrıldığı iniş anında Sisifos’un bilinci yeniden konuşmaya başlar.",
       "paragraphs": [
         "**1. sahne - Eller boş, zihin açık**\n\nİniş sırasında Sisifos kısa süre taşından ayrılır.",
         "Yukarı çıkarken bütün bedeni kayaya bağlıdır. İter, terler, nefes alır. Düşünmeye yer kalmaz.",
@@ -596,6 +640,8 @@
       "id": "durak-31-22-durak-mutlu-sisifos-nasil-olur",
       "section": "DÖRDÜNCÜ KAPI - SİSİFOS'UN DAĞI",
       "title": "22. DURAK - Mutlu Sisifos Nasıl Olur?",
+      "image": "/images/summary-art-90-chapter-22-happy-sisyphus-v1.webp",
+      "imageCaption": "Mutluluk rahatlık değil, kaçmadan sahiplenilmiş bir hayat duygusudur.",
       "paragraphs": [
         "**1. sahne - Bu adam nasıl mutlu olabilir?**\n\nCamus’nün son sözü rahat mutluluk değil, sahiplenilmiş hayat duygusudur.",
         "Sisifos’un işi ağırdır. Cezası bitmez. Onu gülümseyen bir reklam yüzü gibi düşünmek yanlış olur.",
@@ -620,6 +666,8 @@
       "id": "durak-32-23-durak-kirkindan-sonra-kayaya-bakmak",
       "section": "DÖRDÜNCÜ KAPI - SİSİFOS'UN DAĞI",
       "title": "23. DURAK - Kırkından Sonra Kayaya Bakmak",
+      "image": "/images/summary-art-90-chapter-23-midlife-boulder-v1.webp",
+      "imageCaption": "Orta yaşta insan taşıdığı gündelik kayanın biçimini daha açık görür.",
       "paragraphs": [
         "**1. sahne - Yarım ömür duygusu**\n\nOrta yaş, insanın taşı ile arasındaki ilişkiyi değiştirebilir.",
         "Gençken birçok şey başlangıçtır. Kırktan sonra bazı yolların seçilmediği, bazı kapıların kapandığı daha görünür olur.",
@@ -652,6 +700,8 @@
       "id": "durak-34-24-durak-mahkeme-koridoru-ve-uzak-sato",
       "section": "BEŞİNCİ KAPI - KAFKA'NIN KORİDORLARI",
       "title": "24. DURAK - Mahkeme Koridoru ve Uzak Şato",
+      "image": "/images/summary-art-90-chapter-24-kafka-corridors-v1.webp",
+      "imageCaption": "Kurallar çoğalırken mahkeme koridoru ve uzaktaki şato sürekli geri çekilir.",
       "paragraphs": [
         "**1. sahne - Nedenini bilmediği davada yaşayan adam**\n\nDava romanında suçlama vardır, fakat açık ve anlaşılır bir gerekçe yoktur.",
         "Bir sabah insanın hayatına mahkeme girer. Görevliler, odalar ve işlemler vardır; fakat merkezdeki anlam sürekli kaçar. Kahraman kuralları öğrenmeye çalıştıkça koridorlar uzar. Camus burada saçmanın güçlü bir sahnesini görür.",

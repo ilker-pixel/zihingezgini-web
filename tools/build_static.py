@@ -505,7 +505,7 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
               <figcaption>{html.escape(chapter.get('imageCaption', ''))}</figcaption>
             </figure>"""
         takeaway = ""
-        if chapter.get("takeaway"):
+        if chapter.get("takeaway") and not has_chapter_artwork:
             takeaway = f'<aside class="reader-takeaway-card"><span class="takeaway-badge">Bölümün özü</span><p>“{html.escape(chapter["takeaway"])}”</p></aside>'
         section_label = ""
         if chapter.get("section"):
