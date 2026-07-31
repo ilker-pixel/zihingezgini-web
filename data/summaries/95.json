@@ -1,0 +1,361 @@
+{
+  "bookNo": 95,
+  "title": "Prens",
+  "author": "Niccolò Machiavelli",
+  "subtitle": "İktidarın nasıl kurulduğunu, neden çöktüğünü ve ahlak ile zorunluluk arasındaki karanlık gerilimi Rönesans İtalya'sının sahneleriyle anlatan rehber.",
+  "coverImage": "/images/summary-art-95-prens-v2.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/95-prens-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#774D3E",
+  "meta": {
+    "originalTitle": "Il Principe",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Prens çoğu zaman 'kötü olmanın el kitabı' diye anılır. Oysa kitap daha rahatsız edici bir şey yapar: Bir hükümdarın iyi niyetinden çok, davranışının devleti gerçekten koruyup korumadığına bakar. Machiavelli parçalanmış, istilaya açık ve sürekli ittifak değiştiren Rönesans İtalya'sında yazıyordu. Bu rehber onun kalıtsal ve yeni devletler, halk ile seçkinler, kendi ordusu, görünüş, korku, talih ve siyasi beceri üzerine bütün ana tezlerini sahnelerle anlatıyor. Aynı zamanda Prens'i kişisel ilişkilerde acımasızlığı haklı çıkaran reçete gibi kullanmanın yanlışlığını, yazarın cumhuriyetçi düşüncesini ve dönemin erkek egemen şiddet dilini de görünür kılıyor.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Project Gutenberg - Prens tam metin ve bölüm yapısı",
+      "url": "https://www.gutenberg.org/files/1232/1232-h/1232-h.htm"
+    },
+    {
+      "id": 2,
+      "title": "Project Gutenberg - Prens kitap sayfası",
+      "url": "https://www.gutenberg.org/ebooks/1232"
+    },
+    {
+      "id": 3,
+      "title": "Stanford Encyclopedia of Philosophy - Machiavelli, virtù, fortuna ve cumhuriyetçilik",
+      "url": "https://plato.stanford.edu/archives/fall2024/entries/machiavelli/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Prens'i okurken önce iki soruyu ayırmak gerekir: Machiavelli siyasette gerçekte ne olduğunu mu anlatıyor, yoksa hükümdara ne yapması gerektiğini mi söylüyor? Kitap iki işi sık sık birbirine yaklaştırır ve rahatsızlık tam burada doğar.",
+        "Metindeki 'prens' masal kahramanı değil, devletin tek yöneticisidir. 'Erdem' diye çevrilen virtù da yalnız ahlaki iyilik değildir; cesaret, esneklik, karar gücü, zamanlama ve koşullara biçim verme becerisini içerir.",
+        "Bu rehber cümleleri günümüz ilişkilerine reçete olarak taşımayacak. Devlet zorunun aile, arkadaşlık ve işyeri için normal davranış sayılması istismarı aklayabilir. Önce tarih sahnesini, sonra iddiayı, en son sınırını göreceğiz."
+      ]
+    },
+    {
+      "id": "durak-02-kirik-italya-haritasi",
+      "section": "BİRİNCİ KISIM · DEVLETİ KURMAK",
+      "title": "Kırık İtalya haritası",
+      "paragraphs": [
+        "Machiavelli'nin İtalya'sı tek bir devlet değildi. Floransa, Venedik, Milano, Papalık Devleti, Napoli ve daha küçük güçler rekabet ediyor; Fransa, İspanya ve Kutsal Roma İmparatorluğu müdahale ediyordu. Bugün dost olan yarın kapıya ordu getirebilirdi.",
+        "Machiavelli Floransa Cumhuriyeti'nde görev yaptı, elçiliklerde yöneticileri yakından gördü. Medici ailesi iktidara dönünce görevden alındı, hapsedildi ve siyaset dışına itildi. Prens bu yenilginin ardından 1513'te yazıldı.",
+        "Bir apartmanda yönetim her hafta el değiştirirken dışarıdan güçlü şirketlerin binayı paylaşmaya çalıştığını düşünün. Nezaket yetmez; borç, güvenlik, ittifak ve içerideki gruplar aynı anda yönetilmelidir. Kitabın sertliği böyle bir aciliyet duygusundan gelir.",
+        "Bu bağlam her cümleyi doğru yapmaz, fakat neden düzeni en yüksek iyi gibi gördüğünü açıklar. Machiavelli için dağılmış ülke yalnız siyasi kusur değil, yabancı güce açık yaradır.",
+        "Kırık harita kitabın arka planıdır: Güç üzerine düşünce huzurlu çalışma odasında değil, kaybedilmiş bir devletin enkazında doğar."
+      ]
+    },
+    {
+      "id": "durak-03-eski-ev-ile-yeni-ev-ayni-yonetilmez",
+      "section": "BİRİNCİ KISIM · DEVLETİ KURMAK",
+      "title": "Eski ev ile yeni ev aynı yönetilmez",
+      "paragraphs": [
+        "Kalıtsal hükümdarlıkta insanlar ailenin adını, törenini ve kurallarını bilir. Yönetici ağır bir hata yapmazsa alışkanlık ona destek olabilir. Yeni ele geçirilen devlette ise her karar karşılaştırılır ve eski düzenin özlemi canlıdır.",
+        "Yeni taşındığınız mahallede yıllardır çalışan bakkalı devraldığınızı düşünün. Rafları değiştirir, eski çalışanları çıkarır ve fiyatları yükseltirseniz yalnız bugünkü müşteriyi değil, anısını da karşınıza alırsınız. Yeni güç henüz alışkanlık üretmemiştir.",
+        "Machiavelli devlet türlerini ayırarak başlar çünkü tek reçete vermek istemez. Miras kalan ülke, yeni fetih, karma devlet, eski cumhuriyet ve dini yönetim farklı direnç taşır.",
+        "Bu sınıflandırmanın basit dersi hâlâ güçlüdür: Bir kurumun geçmişi bugünkü seçeneğin maliyetini belirler. Kağıt üzerindeki aynı değişiklik, iki yerde aynı tepkiyi doğurmaz.",
+        "Yönetici önce hangi eve girdiğini anlamalıdır. Kilit eskiyse yeni anahtarın parlaması işe yaramaz."
+      ]
+    },
+    {
+      "id": "durak-04-karma-devletin-iki-hafizasi",
+      "section": "BİRİNCİ KISIM · DEVLETİ KURMAK",
+      "title": "Karma devletin iki hafızası",
+      "paragraphs": [
+        "Bir hükümdar ülkesine yeni bir bölge eklediğinde ortaya karma devlet çıkar. Yeni halk, eski yöneticiden hoşnutsuz olduğu için kapıyı açmış olabilir; fakat yeni yönetim bütün beklentileri karşılayamaz. Değişimi isteyenler de kısa sürede hayal kırıklığı yaşayabilir.",
+        "Machiavelli dil, gelenek ve kurum benzerse eski hanedanı kaldırıp yerel düzeni büyük ölçüde korumayı önerir. Farklı bölgede ise yöneticinin orada bulunmasını, sorun büyümeden görmesini veya yerleşimler kurmasını tartışır.",
+        "Yeni patron uzaktan yalnız rapor okursa küçük kızgınlıklar geç fark edilir. Sahaya yakınlık bilgiyi hızlandırır; fakat işgal mantığı ve zorla yerleşim yerel halk için ağır adaletsizlik doğurabilir. Yazarın devlet gözü, maruz kalanların acısını çoğu kez ikincil görür.",
+        "Karma devlet iki hafızayla yaşar: Eski düzenin kaybı ve yeni düzenin verdiği söz. Başarısızlık, yalnız bugünkü hizmetle değil, bu iki karşılaştırmayla ölçülür.",
+        "Fetih haritada tek renk olabilir; insanların zihninde sınır çok daha uzun süre kalır."
+      ]
+    },
+    {
+      "id": "durak-05-kendi-kilicin-mi-odunc-zirh-mi",
+      "section": "BİRİNCİ KISIM · DEVLETİ KURMAK",
+      "title": "Kendi kılıcın mı, ödünç zırh mı?",
+      "paragraphs": [
+        "Machiavelli iktidarın kendi gücüyle mi, başkasının silahı veya lütfuyla mı kurulduğunu sorar. Başkasının ordusuyla yükselen kişi, zaferden sonra bile o güce bağımlıdır. Ödünç merdiven sahibi çekilince düşebilir.",
+        "Bir şirket bütün temel işini tek dış tedarikçiye bırakırsa kısa vadede hız kazanır. Tedarikçi fiyatı yükselttiğinde veya rakibe geçtiğinde şirketin adı kendine, kasları başkasına ait olur. Siyasi bağımlılık da buna benzer.",
+        "Kendi kaynaklarıyla yükselmek daha zor ve yavaştır. Fakat kurum, sadakat ve öğrenme içeride birikir. Machiavelli Musa, Romulus ve başka kurucu örneklerle fırsat kadar örgütleme becerisini vurgular.",
+        "'Kendi silahı' yalnız kaba kuvvet diye okunmamalıdır. Vergi toplama, yönetim bilgisi, halk desteği ve güvenilir kurum da bağımsız kapasitedir. Yalnız kişiye bağlı güç ise ölümünde dağılabilir.",
+        "Ödünç zırh parlak görünür, fakat bedeninize uymaz. Kitabın kalıcı uyarılarından biri kapasite ile gösterişi ayırmaktır."
+      ]
+    },
+    {
+      "id": "durak-06-virtu-iyi-cocuk-olmak-degil-kosula-bicim-vermek",
+      "section": "İKİNCİ KISIM · GÜCÜ KORUMAK",
+      "title": "Virtù: İyi çocuk olmak değil, koşula biçim vermek",
+      "paragraphs": [
+        "Machiavelli'nin virtù sözcüğü Türkçedeki erdemden daha sert ve geniştir. Liderin fırsatı görmesi, hızla karar vermesi, cesaret göstermesi ve yöntemini hava değişince değiştirebilmesi anlamına gelir.",
+        "Bir kaptan sakin denizde nazik rota izleyebilir; fırtınada aynı hareket yetersiz kalır. Sorun nazikliğin kötü olması değil, tek davranışın her havaya uymamasıdır. Machiavelli esnekliği başarı için merkezi görür.",
+        "İnsanlar kendilerine geçmişte başarı getiren tarza bağlanır. Tedbirli kişi fırsat anında ağır kalır, saldırgan kişi geri çekilmesi gereken yerde duvara çarpar. Talih değişir ama huy aynı kaldığında uyumsuzluk doğar.",
+        "Bu beceri ahlaki değerden bağımsız anlatıldığı için tehlikelidir. Etkili olmak iyi olmak demek değildir. Bir zorba da koşulları ustaca okuyabilir; sonuçta oluşan düzenin adil olup olmadığı ayrıca sorulmalıdır.",
+        "Virtù, taşı tek darbede kıran güçten çok hangi taşı, hangi açıyla ve hangi anda yontacağını bilmektir."
+      ]
+    },
+    {
+      "id": "durak-07-cesare-borgia-nin-parlak-ve-karanlik-laboratuvari",
+      "section": "İKİNCİ KISIM · GÜCÜ KORUMAK",
+      "title": "Cesare Borgia'nın parlak ve karanlık laboratuvarı",
+      "paragraphs": [
+        "Prens'in en unutulmaz kişisi Cesare Borgia'dır. Babası Papa VI. Alexander'ın desteğiyle Orta İtalya'da güç kazanır, rakiplerini bölüp etkisizleştirir ve düzensiz Romagna bölgesini kontrol altına almaya çalışır.",
+        "Borgia sert yönetici Remirro de Orco'yu düzen kurmak için kullanır, sonra halkın nefretini ondan ayırmak için onu acımasız biçimde ortadan kaldırır. Machiavelli bu sahneyi siyasi hesap ve görünüş yönetimi örneği olarak sunar.",
+        "Hikaye hayranlık kadar dehşet uyandırmalıdır. Bir insanı araç olarak kullanıp sonra halka gösteri için feda etmek, etkili görünse bile ahlaki cinayettir. Kitabı anlamak, yazarın soğuk değerlendirmesini onaylamak değildir.",
+        "Borgia gelecekteki papalık seçimini de hazırlamaya çalışır, fakat babasının ölümü ve kendi hastalığı planı bozar. Machiavelli'ye göre çoğu önlemi almış, yine de olağanüstü talih darbesine yenilmiştir.",
+        "Borgia satranç ustası gibidir; fakat tahta taş değil insanlardan oluşur. Bu ayrıntı, siyasi etkinliğin ahlaki maliyetini görünür tutar."
+      ]
+    },
+    {
+      "id": "durak-08-bir-kez-kullanilan-sertlik-her-gun-acilan-yara",
+      "section": "İKİNCİ KISIM · GÜCÜ KORUMAK",
+      "title": "Bir kez kullanılan sertlik, her gün açılan yara",
+      "paragraphs": [
+        "Machiavelli sertliğin iyi veya kötü kullanılmasından söz eder. 'İyi' sözcüğü burada ahlaki övgü değil, iktidarı koruma ölçüsüdür. Zorunlu görülen zararların başta ve bir defada, yararların ise zamanla verilmesini önerir.",
+        "Her hafta yeni ceza uygulanan mahallede insanlar yarın kimin hedef olacağını bilmez. Korku tek olaya değil, gündelik havaya dönüşür. Sürekli yara yönetimi istikrar değil, sessiz bir patlama üretir.",
+        "Bir defalık şiddetin de kurban için 'iyi' olmadığını açık tutmalıyız. Machiavelli yönetici gözünden toplumsal tepkiyi hesaplar; adalet, hak ve travma açısından değerlendirme daha geniş bir ahlak çerçevesi ister.",
+        "Yazarın sezgisi, belirsiz ve keyfi cezanın devleti çürüttüğüdür. Modern hukuk bunu farklı bir dille, önceden bilinen kural, ölçülülük ve bağımsız yargı gereğiyle sınırlar.",
+        "Yaranın kapanması için bıçağın durması gerekir. Fakat en iyi siyaset, önce bıçağın gerçekten zorunlu olup olmadığını sorgular."
+      ]
+    },
+    {
+      "id": "durak-09-halk-ile-seckinlerin-terazisi",
+      "section": "İKİNCİ KISIM · GÜCÜ KORUMAK",
+      "title": "Halk ile seçkinlerin terazisi",
+      "paragraphs": [
+        "Machiavelli her şehirde iki temel istek görür: Seçkinler yönetmek ve baskı kurmak ister; halk ise baskı görmemek ister. Sivil prens bu çatışmanın içinden, ya seçkinlerin ya halkın desteğiyle yükselir.",
+        "Seçkinlerin sayısı azdır ama kaynakları, bağlantıları ve yönetim tutkuları büyüktür. Halk kalabalıktır ve temel isteği daha sınırlıdır. Bu yüzden Machiavelli halk desteğini daha güvenilir temel sayma eğilimindedir.",
+        "Bir apartmanda birkaç büyük mülk sahibi yönetimi kontrol etmek, yüz kiracı ise huzur ve adil aidat ister. Yönetici yalnız güçlü azınlığa yaslanırsa çoğunluğun sessiz öfkesini biriktirir.",
+        "Halkı desteklemek demokrasi kurmakla aynı şey değildir; Prens yine tek yöneticiyi düşünür. Fakat iktidarın yalnız saray çevresinden değil, yönetilenlerin kabulünden beslendiğini görmesi önemlidir.",
+        "Terazi tamamen dengelenmez. Siyaset, farklı isteklerin kalıcı gerilimini yönetme işidir."
+      ]
+    },
+    {
+      "id": "durak-10-parali-askerin-bos-zirhi",
+      "section": "ÜÇÜNCÜ KISIM · SAVAŞ VE HAZIRLIK",
+      "title": "Paralı askerin boş zırhı",
+      "paragraphs": [
+        "İtalyan şehir devletleri sık sık paralı asker birliklerine dayanıyordu. Machiavelli onları çıkarcı, disiplinsiz ve tehlikeli bulur: Barışta devlete yük, savaşta kaçmaya hazır, zaferde ise yönetime tehdit olabilirler.",
+        "Paralı askerin en güçlü bağlılığı ücret sözleşmesinedir. Karşı taraf daha çok verirse veya savaş riski büyürse amaç ayrışabilir. Savunma gibi varlık meselesini tümüyle dışarıya vermek, kaderin anahtarını kiraya çıkarmaktır.",
+        "Yardımcı birlik daha da risklidir: Başka hükümdarın güçlü ordusu gelir, yenilirse siz kaybedersiniz; kazanırsa size hükmedebilir. Zafer bile bağımlılık üretir.",
+        "Modern devlet ile Rönesans ordusu aynı değildir. Yine de kritik altyapı, veri, enerji veya uzmanlığı tek dış aktöre bağlama sorusu bugün de tanıdıktır. Esneklik ile temel kapasite arasında denge gerekir.",
+        "Boş zırh uzaktan ordu gibi görünür. Yaklaştığınızda içinde sizin iradeniz değil, başkasının çıkarı vardır."
+      ]
+    },
+    {
+      "id": "durak-11-baris-gununde-savas-calismak",
+      "section": "ÜÇÜNCÜ KISIM · SAVAŞ VE HAZIRLIK",
+      "title": "Barış gününde savaş çalışmak",
+      "paragraphs": [
+        "Machiavelli prensin savaş sanatını ana işi sayar. Barış zamanında araziyi tanımasını, bedenini hazırlamasını, tarihi komutanların kararlarını incelemesini ister. Çünkü kriz geldiğinde öğrenmeye başlamak geçtir.",
+        "Yangın sırasında ilk kez tahliye planı yazılmaz. Tatbikat, harita ve sorumluluk dağılımı sakin günde yapılır. Kitabın askeri dili bugün afet, siber saldırı veya salgın hazırlığına daha barışçıl biçimde çevrilebilir.",
+        "Fakat her şeyi savaş gibi görmek de tehlikelidir. Muhalifi düşman, eleştiriyi saldırı sayan yönetim öğrenme kanallarını kapatır. Hazırlık, sürekli savaş psikolojisi yaratmak değildir.",
+        "Tarih okumak Machiavelli için örnek deposudur. Akıllı yönetici geçmişi kopyalamaz; benzer koşullarda hangi kararın neden çalıştığını inceler. Benzetmenin sınırını da bilmelidir.",
+        "Barış, hazırlığın zıddı değil fırsatıdır. Güvenli köprü fırtına başlamadan güçlendirilir."
+      ]
+    },
+    {
+      "id": "durak-12-sevilmek-mi-korkulmak-mi",
+      "section": "DÖRDÜNCÜ KISIM · GÖRÜNÜŞ VE İNSANLAR",
+      "title": "Sevilmek mi, korkulmak mı?",
+      "paragraphs": [
+        "Machiavelli ikisinin bir arada olmasının iyi olduğunu, fakat seçim zorunluysa korkulmanın daha güvenli olabileceğini söyler. İnsan sevgisinin çıkar değişince çözülebileceğini, ceza korkusunun daha öngörülebilir bağ kurduğunu düşünür.",
+        "Bu cümle kitabın en çok koparılan parçasıdır. Hemen ardından nefret edilmekten kaçınmayı şart koşar. Korku ile nefret aynı değildir; keyfi hakaret, mala ve onura saldırı iktidarı içeriden çürütür.",
+        "Yine de korkuyla yönetim ciddi sorun taşır. İnsanlar kötü haberi saklar, yaratıcılık azalır ve yönetici gerçek desteği sessizlik sanır. Modern kurumlar sürdürülebilir güveni kural, hesap verebilirlik ve katılımla kurmaya çalışır.",
+        "Ailede veya işyerinde bu cümleyi tehdit hakkı gibi kullanmak istismardır. Machiavelli'nin savaş içindeki devlet hesabı, kişisel ilişkide korkunun normal olduğu anlamına gelmez.",
+        "Korku hızlı itaat üretebilir; güven ise doğruyu söyleyebilen bir çevre üretir. Kitabın sorusu güvenliği, bizim ek sorumuz insan onurunu da içermelidir."
+      ]
+    },
+    {
+      "id": "durak-13-aslanin-gucu-tilkinin-gozu",
+      "section": "DÖRDÜNCÜ KISIM · GÖRÜNÜŞ VE İNSANLAR",
+      "title": "Aslanın gücü, tilkinin gözü",
+      "paragraphs": [
+        "Yönetici hem aslan hem tilki olmalıdır: Aslan kurtları korkutur ama tuzağı göremez; tilki tuzağı görür ama kurtları kaçıramaz. Güç ile kurnazlık birbirinin eksik yanını tamamlar.",
+        "Yalnız sert davranan kişi kandırılabilir, yalnız pazarlık yapan kişi açık saldırıda savunmasız kalabilir. İyi strateji tehdidin türünü ayırt etmeyi gerektirir. Her sorun çekiç görünüyorsa elde yalnız çekiç vardır.",
+        "Machiavelli sözün tutulmasını da sonuç açısından tartışır. Karşı taraf sözü bozduğunda ve koşullar değiştiğinde prensin bağlı kalmayabileceğini söyler. Bu, güvenin uzun vadeli değerini küçümseyebilir.",
+        "Sözlerin kolay bozulduğu sistemde herkes sözleşme, denetim ve silaha daha çok para harcar. Kısa vadeli tilki başarısı uzun vadede güven piyasasını yok edebilir. Kurumlar tam da kişisel kurnazlığı sınırlamak için vardır.",
+        "Aslan ve tilki canlı bir benzetmedir; eksik üçüncü hayvan belki hafızası güçlü fildir. İnsanlar aldatmayı unutmaz."
+      ]
+    },
+    {
+      "id": "durak-14-gorunmek-ile-olmak-arasindaki-maske",
+      "section": "DÖRDÜNCÜ KISIM · GÖRÜNÜŞ VE İNSANLAR",
+      "title": "Görünmek ile olmak arasındaki maske",
+      "paragraphs": [
+        "Machiavelli insanların çoğunun yöneticinin iç dünyasını değil, görünen davranış ve sonucu değerlendirdiğini söyler. Prens merhametli, sadık, dürüst ve dindar görünmeli; gerekirse tersini yapabilmelidir.",
+        "Bu öneri siyasetin sahne yönünü acımasızca açığa çıkarır. Tören, kıyafet, slogan ve fotoğraf yalnız süs değil, meşruiyet üretimidir. Uzakta yaşayan halk yöneticiyi çoğunlukla aracılı görüntülerden tanır.",
+        "Fakat görünüş gerçeği sonsuza dek örtemez. Politikanın sonuçları mutfak fiyatında, mahkeme kararında ve güvenlikte hissedilir. İletişim ile gerçek arasındaki mesafe büyüdükçe maskeyi taşımak pahalılaşır.",
+        "Modern medya görüntü yönetimini katladı, aynı zamanda kayıt ve karşı anlatı imkanını da artırdı. Bir fotoğraf güçlü olabilir; çelişen bin telefon görüntüsü maskeyi parçalayabilir.",
+        "Machiavelli'nin aynası rahatsız eder çünkü erdemin kendisiyle erdem görüntüsünün siyasi piyasada aynı değeri taşımadığını söyler. Okurun görevi bu farkı normalleştirmek değil, denetlenebilir kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-15-mala-ve-onura-dokunma",
+      "section": "DÖRDÜNCÜ KISIM · GÖRÜNÜŞ VE İNSANLAR",
+      "title": "Mala ve onura dokunma",
+      "paragraphs": [
+        "Machiavelli nefretin güçlü kaynakları arasında insanların malına ve aile onuruna saldırmayı sayar. İnsanların babalarının ölümünü mallarının kaybından daha çabuk unutabileceğini söyleyen karanlık abartısı, mülkiyetin siyasi ağırlığını vurgular.",
+        "Ev yalnız ekonomik varlık değildir; emek, güvenlik ve aile hafızasıdır. Keyfi el koyma, bugün zengin görünen bir kurbanın ötesinde herkese 'sıra bana gelebilir' mesajı verir. Yatırım ve sadakat çözülür.",
+        "Machiavelli özel hayatın sınırını da iktidar hesabıyla korur. Modern hak anlayışı ise insan onurunu yöneticinin çıkarından bağımsız değer sayar. Aynı davranışa farklı gerekçeyle karşı çıkılır.",
+        "Vergi ile keyfi yağma aynı şey değildir. Öngörülebilir, genel ve denetlenebilir kural siyasi topluluğun giderini paylaşabilir; kişinin düşmanına göre değişen el koyma korku üretir.",
+        "Korunan ev görüntüsü, devletin yalnız sınır değil gündelik güven duygusu olduğunu hatırlatır."
+      ]
+    },
+    {
+      "id": "durak-16-danisman-cemberi-ve-dalkavuk-tuzagi",
+      "section": "DÖRDÜNCÜ KISIM · GÖRÜNÜŞ VE İNSANLAR",
+      "title": "Danışman çemberi ve dalkavuk tuzağı",
+      "paragraphs": [
+        "Bir hükümdarın aklı, seçtiği danışmanlardan anlaşılır. Bilgili ve devlete bağlı kişiler çevresindeyse iyi yargı ihtimali artar; yalnız kendi çıkarını düşünen bakan, efendisini de zayıflatır.",
+        "Fakat sarayda kötü haber vermek tehlikeliyse herkes hoş cümle üretir. Yönetici övgüyü gerçeklik sanır, kararlar körleşir. Machiavelli dalkavuklardan kaçmak için belirli bilge kişilere doğruyu söyleme izni verilmesini önerir.",
+        "İzin yetmeyebilir. Lider, kötü haberi getiren kişiyi cezalandırıyorsa duvardaki 'açık kapı' yazısı kimseyi içeri sokmaz. Psikolojik güven davranışla kurulur.",
+        "Machiavelli son kararın prense ait kalmasını ister; danışman herkesin rüzgarıyla savrulmamalıdır. Fakat modern karmaşık toplumda bağımsız kurum ve özgür basın, tek kişinin seçtiği çemberden daha geniş düzeltme sağlar.",
+        "İyi danışman aynadır, makyajcı değil. Aynayı kırmak yüzü değiştirmez."
+      ]
+    },
+    {
+      "id": "durak-17-talih-tasan-bir-nehir-gibi",
+      "section": "BEŞİNCİ KISIM · TALİH VE SON",
+      "title": "Talih taşan bir nehir gibi",
+      "paragraphs": [
+        "Machiavelli talihi taşkın nehre benzetir. Sular kabardığında ovayı yıkar; fakat sakin zamanda set, kanal ve köprü hazırlanabilir. Şans her şeyi yönetmez, hazırlıksızlığın vereceği zararı büyütür.",
+        "Bu benzetme Borgia'nın öyküsünü açıklar. Becerisi çok sayıda taşı yerleştirmiştir, fakat papanın ani ölümü ve kendi hastalığı sel gibi gelir. Sonuç yalnız yetenek veya yalnız şans değildir.",
+        "İnsan başarıyı bütünüyle kendine, yenilgiyi bütünüyle talihe yazmaya eğilimlidir. Nehir görüntüsü iki kolay hikayeyi de bozar. Yağmuru durduramazsınız, fakat taşkın yatağına ev yapıp yapmamak seçiminizdir.",
+        "Machiavelli'nin talih hakkında kadınları aşağılayan, dönemin cinsiyetçi şiddet dilini kullanan benzetmeleri vardır. Bunları cilalamadan belirtmek gerekir; siyasi içgörü aşağılayıcı dili zorunlu kılmaz.",
+        "Talih kaprislidir, virtù hazırlıktır. Yine de en yüksek set bile her seli durdurmaz; siyasi alçakgönüllülük buradan başlar."
+      ]
+    },
+    {
+      "id": "durak-18-kitap-ahlaksizligi-mi-ogretiyor",
+      "section": "SINIRLAR VE BAŞKA MACHIAVELLI",
+      "title": "Kitap ahlaksızlığı mı öğretiyor?",
+      "paragraphs": [
+        "Prens ahlakı yok saymaz; ahlaki iyilik ile siyasi sonucun her zaman örtüşmediğini söyler. Merhamet görüntüsü büyük kargaşaya yol açabilir, sınırlı sertlik daha fazla ölümü önleyebilir iddiasını tartışır. Sorun, sonucu kimin ve nasıl ölçtüğüdür.",
+        "Yalnız niyetle yetinmemek değerlidir. Fakat 'devlet için gerekliydi' sözü denetimsiz bırakılırsa her zalim kendine mazeret bulur. Gerekli olan ile iktidara yararlı olan kolayca karışır.",
+        "Modern hukukta hak, yetki ayrılığı, seçim, özgür basın ve bağımsız yargı bu gerekçe tekelini sınırlar. Machiavelli'nin tek prensine bırakılan hesabı toplumun görünür tartışmasına açar.",
+        "Kitabı verimli okumak için iki sütun tutun: Eylemin kısa vadeli etkisi ve insanlara yüklediği hak ihlali. Sadece bir sütun siyasi saflık, sadece öteki siyasi körlük yaratabilir.",
+        "Prens bizi kötülüğe çağırmaktan çok, iyi adın kötü sonucu örtebildiği dünyayla yüzleştirir. Cevap ahlakı atmak değil, sonucu da ahlakın içine almaktır."
+      ]
+    },
+    {
+      "id": "durak-19-machiavelli-yalniz-prenslerin-yazari-degil",
+      "section": "SINIRLAR VE BAŞKA MACHIAVELLI",
+      "title": "Machiavelli yalnız prenslerin yazarı değil",
+      "paragraphs": [
+        "Machiavelli'nin Söylevler adlı geniş eserinde Roma Cumhuriyeti, yurttaş özgürlüğü, çatışan sınıflar ve karma yönetim üzerine düşünmesi Prens portresini değiştirir. Yazar yalnız tek adam yönetimini yücelten basit bir saray danışmanı değildir.",
+        "Bazı yorumcular Prens'i Medici ailesine iş başvurusu, bazıları İtalya'yı birleştirme çağrısı, bazıları iktidarın sırlarını halka açan teşhir metni olarak okur. Tek niyet üzerinde tam uzlaşma yoktur.",
+        "Cumhuriyetçi bağlam, halkın siyasal canlılığını ve kurumların tek liderden daha kalıcı oluşunu görünür kılar. Prens acil kurucu anı, Söylevler daha uzun özgürlük düzenini düşünür gibi okunabilir.",
+        "Bu nedenle 'Makyavelist' kelimesini yalnız hilekar insan anlamında kullanmak yazarın düşünce alanını daraltır. Onun asıl yeniliği siyaseti kendi sonuçları, çatışmaları ve kurumlarıyla ayrı bir inceleme alanına çevirmesidir."
+      ]
+    },
+    {
+      "id": "durak-20-donemin-kor-noktalari",
+      "section": "SINIRLAR VE BAŞKA MACHIAVELLI",
+      "title": "Dönemin kör noktaları",
+      "paragraphs": [
+        "Prens neredeyse bütünüyle erkek hükümdarlar, ordular, fetihler ve seçkin çevreler üzerinden konuşur. Kadınlar siyasi özne olarak az görünür; talih benzetmesinde aşağılayıcı şiddet dili kullanılır. Bu dil tarihsel diye zararsızlaşmaz.",
+        "Fethedilen halk çoğu zaman yönetilecek sorun, öldürülen rakip ise satranç taşı gibi anlatılır. Aşağıdan bakan tarih, aynı sahnelerde sürgün, açlık, yas ve kırılmış aile görür.",
+        "Kitabın gücü soğuk siyasi sonucu görmesidir; kör noktası insanların değerini bazen yalnız bu sonuca etkileri kadar görmesidir. Günümüz okuru etkinlik sorusunu hak, eşitlik ve katılım sorusuyla tamamlamalıdır.",
+        "Machiavelli'yi kendi yüzyılında konumlandırmak yargıyı kolaylaştırmak değil, hangi problemin ona ait, hangi kullanımın bize ait olduğunu ayırmaktır."
+      ]
+    },
+    {
+      "id": "durak-21-bir-dakikalik-harita",
+      "section": "SONUÇ",
+      "title": "Bir dakikalık harita",
+      "paragraphs": [
+        "Devletler aynı tür değildir: Kalıtsal, yeni, karma, sivil ve dini yönetim farklı direnç taşır. Yeni iktidar eski düzenin hafızasıyla uğraşır; başkasının lütfu ve ordusuyla yükselen kendi dayanağını kurmadıkça kırılgandır.",
+        "Virtù koşulu okuma ve yöntem değiştirme becerisi, fortuna ise denetlenemeyen talih payıdır. Kendi kapasitesi, halk desteği, hazırlık, doğru danışman ve nefret üretmeme gücü dayanıklılığı artırır. Aslan açık tehdidi, tilki tuzağı temsil eder.",
+        "Kitap iyi görünmekle iyi olmak, ahlaki niyetle siyasi sonuç arasındaki farkı açar. Fakat etkili olanı haklı saymak zorunda değiliz. Cumhuriyetçi eserleri ve dönemin kör noktalarıyla birlikte okunduğunda Prens bir zorbalık reçetesinden çok iktidarın tehlikeli anatomisi olur."
+      ]
+    },
+    {
+      "id": "durak-22-akilda-kalacak-bes-goruntu",
+      "section": "SONUÇ",
+      "title": "Akılda kalacak beş görüntü",
+      "paragraphs": [
+        "Kırık İtalya haritası: Sertliğin tarih sahnesi. Ödünç zırh: Bağımlı güç. Aslan ve tilki: Kuvvet ile kurnazlık. Danışman aynası: Kötü haberi duyabilmek. Taşan nehir: Talih ve hazırlık.",
+        "Bir siyasi iddiayı incelerken bu görüntülerle sorun: Hangi devlet türü konuşuluyor? Güç gerçekten kimin? Halkın desteği mi sessizliği mi var? Danışman doğruyu söyleyebiliyor mu? Şans payı başarı hikayesinden siliniyor mu?",
+        "Machiavelli'nin asıl rahatsız edici dersi, iktidarın güzel sözcüklerden bağımsız sonuçlar ürettiğidir. Bizim ek dersimiz, sonucun insan hakkından bağımsız değerlendirilemeyeceğidir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-kirik-italya-haritasi": {
+      "image": "/images/summary-art-95-chapter-01-fragmented-italy-v1.webp",
+      "imageCaption": "Parçalanmış ve dış güçlere açık Rönesans İtalya'sı, Prens'in sürekli güvenlik ve birlik arayışını açıklar."
+    },
+    "durak-03-eski-ev-ile-yeni-ev-ayni-yonetilmez": {
+      "image": "/images/summary-art-95-chapter-02-old-and-new-house-v1.webp",
+      "imageCaption": "Kalıtsal devlet alışkanlığın desteğini taşır; yeni devlet ise eski düzenin hafızası ve yeni beklentilerle aynı anda uğraşır."
+    },
+    "durak-04-karma-devletin-iki-hafizasi": {
+      "image": "/images/summary-art-95-chapter-03-mixed-principality-v1.webp",
+      "imageCaption": "Yeni katılan bölge, eski düzenin özlemiyle yeni yönetime bağlanan umudu birlikte taşır; fetih hafızayı hemen silmez."
+    },
+    "durak-05-kendi-kilicin-mi-odunc-zirh-mi": {
+      "image": "/images/summary-art-95-chapter-04-own-arms-v1.webp",
+      "imageCaption": "Başkasının gücüyle kazanılan iktidar ödünç zırh gibidir; hızlı korur ama sahibi vazgeçtiğinde bedeni savunmasız bırakır."
+    },
+    "durak-06-virtu-iyi-cocuk-olmak-degil-kosula-bicim-vermek": {
+      "image": "/images/summary-art-95-chapter-05-virtu-sculptor-v1.webp",
+      "imageCaption": "Virtù, sabit bir iyi huydan çok koşulu okuma, zamanı yakalama ve yöntemi değiştirme becerisidir."
+    },
+    "durak-07-cesare-borgia-nin-parlak-ve-karanlik-laboratuvari": {
+      "image": "/images/summary-art-95-chapter-06-borgia-chessboard-v1.webp",
+      "imageCaption": "Cesare Borgia güç kurma becerisinin örneğidir, fakat insanları araçlaştıran yöntemleri siyasi etkinlik ile ahlak arasındaki uçurumu gösterir."
+    },
+    "durak-08-bir-kez-kullanilan-sertlik-her-gun-acilan-yara": {
+      "image": "/images/summary-art-95-chapter-07-cruelty-scars-v1.webp",
+      "imageCaption": "Sürekli ve keyfi sertlik korkuyu gündelik havaya çevirir; siyasi hesap ile kurbanın ahlaki hakkı aynı ölçü değildir."
+    },
+    "durak-09-halk-ile-seckinlerin-terazisi": {
+      "image": "/images/summary-art-95-chapter-08-people-and-elites-v1.webp",
+      "imageCaption": "Seçkinler yönetmek, halk ezilmemek ister; prensin dayanıklılığı bu iki farklı talep arasındaki temele bağlıdır."
+    },
+    "durak-10-parali-askerin-bos-zirhi": {
+      "image": "/images/summary-art-95-chapter-09-mercenary-armor-v1.webp",
+      "imageCaption": "Paralı ve yardımcı ordular güç görüntüsü verir, fakat en kritik anda bağlılıklarının başka bir merkeze ait olduğu anlaşılabilir."
+    },
+    "durak-11-baris-gununde-savas-calismak": {
+      "image": "/images/summary-art-95-chapter-10-peace-training-v1.webp",
+      "imageCaption": "Krizde ilk kez öğrenmek geçtir; sakin zaman araziyi tanıma, tatbikat yapma ve geçmiş örnekleri sorgulama zamanıdır."
+    },
+    "durak-12-sevilmek-mi-korkulmak-mi": {
+      "image": "/images/summary-art-95-chapter-11-love-fear-balance-v1.webp",
+      "imageCaption": "Machiavelli korkunun sevgiden güvenilir olabileceğini savunur ama nefret sınırını koyar; modern bakış korkunun bilgi ve onur maliyetini de görür."
+    },
+    "durak-13-aslanin-gucu-tilkinin-gozu": {
+      "image": "/images/summary-art-95-chapter-12-lion-and-fox-v1.webp",
+      "imageCaption": "Aslan açık tehdide, tilki gizli tuzağa karşıdır; tek davranış biçimi değişen siyasi tehlikeleri yönetmeye yetmez."
+    },
+    "durak-14-gorunmek-ile-olmak-arasindaki-maske": {
+      "image": "/images/summary-art-95-chapter-13-public-mask-v1.webp",
+      "imageCaption": "Siyasi görünüş meşruiyet üretir, fakat maskeyle gündelik sonuç arasındaki mesafe büyüdükçe güven kırılır."
+    },
+    "durak-15-mala-ve-onura-dokunma": {
+      "image": "/images/summary-art-95-chapter-14-protected-home-v1.webp",
+      "imageCaption": "Keyfi biçimde mala ve özel onura dokunmak tek kurbanı değil, herkesin yarın duygusunu tehdit ederek nefreti büyütür."
+    },
+    "durak-16-danisman-cemberi-ve-dalkavuk-tuzagi": {
+      "image": "/images/summary-art-95-chapter-15-advisor-circle-v1.webp",
+      "imageCaption": "Yönetici hoş sözle çevrilirse gerçekliği kaybeder; iyi danışman iktidarın duymak istemediği haberi de güvenle taşıyabilmelidir."
+    },
+    "durak-17-talih-tasan-bir-nehir-gibi": {
+      "image": "/images/summary-art-95-chapter-16-fortune-river-v1.webp",
+      "imageCaption": "Talih taşan nehir gibidir; yağmuru seçemeyiz ama sakin zamanda set kurmak ve yerleşim yerini düşünmek elimizdedir."
+    }
+  }
+}
