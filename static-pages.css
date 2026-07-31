@@ -172,6 +172,38 @@
   margin-bottom: 3.5rem;
 }
 
+.static-summary .summary-hero-split.has-cover-art {
+  gap: clamp(2.5rem, 5vw, 5rem);
+  align-items: flex-start;
+}
+
+.static-summary .summary-hero-split.has-cover-art .summary-hero-left {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+.static-summary .summary-hero-split.has-cover-art .summary-hero-right {
+  width: clamp(220px, 22vw, 320px);
+  max-width: 320px;
+  flex: 0 0 clamp(220px, 22vw, 320px);
+  align-self: flex-start;
+  justify-content: flex-start;
+}
+
+.static-summary .summary-featured-img.summary-cover-art {
+  width: 100%;
+  height: auto;
+  max-height: none;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border: 1px solid rgba(31, 25, 18, 0.22);
+  border: 1px solid color-mix(in srgb, var(--v2-ink) 22%, transparent);
+  box-shadow:
+    0 18px 42px rgba(31, 25, 18, 0.18),
+    9px 10px 0 rgba(154, 99, 53, 0.09);
+  filter: none;
+}
+
 .static-summary .summary-book-author {
   color: var(--v2-accent);
   font: 600 0.74rem/1.5 var(--v2-sans);
@@ -218,6 +250,21 @@
 
 .static-summary .summary-download-btn:hover {
   background: var(--v2-accent-soft);
+}
+
+@media (max-width: 768px) {
+  .static-summary .summary-hero-split.has-cover-art {
+    gap: 2rem;
+    align-items: stretch;
+  }
+
+  .static-summary .summary-hero-split.has-cover-art .summary-hero-right {
+    width: min(70vw, 250px);
+    max-width: 250px;
+    flex: 0 0 auto;
+    align-self: center;
+    margin: 0 auto;
+  }
 }
 
 .summary-toc,
