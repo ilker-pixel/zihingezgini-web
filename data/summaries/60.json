@@ -1,0 +1,364 @@
+{
+  "bookNo": 60,
+  "title": "Sevme Sanatı",
+  "author": "Erich Fromm",
+  "subtitle": "Sevilmeyi beklemekten sevebilme yeteneğine geçişi; bakım, saygı, emek ve cesaret üzerinden anlatan sade ve eleştirel rehber.",
+  "coverImage": "/images/summary-art-60-sevme-sanati-v2.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/60-sevme-sanati-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#8A4F58",
+  "meta": {
+    "originalTitle": "The Art of Loving",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Erich Fromm aşkı, doğru kişiye rastlandığında kendiliğinden çalışan bir duygu olarak değil, öğrenilen ve bütün kişiliği isteyen bir yaşam sanatı olarak ele alır. Bu yüzden kitap sevgili bulma kılavuzu değildir. Anne sevgisinden kardeşçe sevgiye, kendini sevmekten modern toplumun ilişki pazarına kadar uzanan daha geniş bir soruya bakar: İnsan sevilme arzusunu aşarak gerçekten sevebilir mi? Bu rehber kitabın canlı omurgasını korurken 1950'lerin cinsiyet, aile ve cinsellik anlayışındaki eskimiş hükümleri açıkça ayırır. Amaç fedakarlık yarışına girmek değil; bakım, sorumluluk, saygı ve bilgiyi sınırlarla birlikte düşünmektir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "The Art of Loving - resmi yayınevi tanıtımı",
+      "url": "https://www.bloomsbury.com/us/art-of-loving-9780826412607/"
+    },
+    {
+      "id": 2,
+      "title": "Google Books - içerik yapısı ve bibliyografik bilgi",
+      "url": "https://books.google.com/books/about/The_Art_of_Loving.html?id=pM8MzzntBRcC"
+    },
+    {
+      "id": 3,
+      "title": "Erich Fromm'un sevgi kavramına psikobiyografik bakış",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13059089/"
+    },
+    {
+      "id": 4,
+      "title": "The Art of Loving üzerine varoluşçu, psikodinamik ve teolojik eleştiri",
+      "url": "https://theses.gla.ac.uk/80302/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Fromm'un temel hamlesi basittir: Çoğu insan sevme yeteneğini değil, nasıl sevileceğini düşünür. Daha çekici, başarılı veya ilginç olursa sevginin geleceğine inanır. Kitap soruyu ters çevirir: Benim sevme kapasitem ne durumda?",
+        "Bu ters çevirme güçlüdür, fakat yanlış kullanılırsa insanı her ilişki sorunu için kendini suçlamaya götürebilir. Sevgi tek kişinin ustalığıyla kurulmaz; karşılıklılık, güvenlik ve sınır gerekir. Şiddet veya sömürü karşısında daha çok sevmek çözüm değildir.",
+        "Özeti bir ilişki testi gibi değil, davranış aynası gibi okuyun. Her bölümde 'Bunu kimden bekliyorum?' kadar 'Bunu nasıl veriyorum ve nerede sınır koyuyorum?' sorusunu da tutun."
+      ]
+    },
+    {
+      "id": "durak-02-sevilmek-mi-sevmek-mi",
+      "section": "BİRİNCİ KISIM · SEVGİNİN TEORİSİ",
+      "title": "Sevilmek mi, sevmek mi?",
+      "paragraphs": [
+        "Bir mağaza vitrininin önünde duran insan, ürünün beğenilmesi için nasıl sunulduğunu düşünür. Fromm modern insanın kendine de böyle baktığını söyler: Daha iyi görünürsem, daha çok kazanırsam, doğru şeyleri söylersem sevilirim. Sevgi sorunu pazarlanabilir olma sorununa dönüşür.",
+        "Bu bakışta bütün dikkat dışarıdadır. Karşı taraf beni seçti mi, mesajıma ne kadar hızlı döndü, başkaları beni çekici buluyor mu? İnsan sevgi almaya odaklandıkça sevginin etkin tarafını kaçırır: dinlemek, emek vermek, tanımak ve ötekinin büyümesini istemek.",
+        "Sevilme ihtiyacı yanlış değildir. Bebekten yetişkine herkes görülmek ve kabul edilmek ister. Fromm'un itirazı, bütün ilişkiyi bu ihtiyacın etrafında kurmaktır. Sürekli alkış bekleyen kişi, karşısındakini insan değil ayna gibi kullanabilir.",
+        "Bir akşam eve gelen eşinizi düşünün. İlk soru 'Beni özledin mi?' olabilir. Sevme yönündeki soru ise 'Günün nasıl geçti, gerçekten nasılsın?'dır. İki soru da insanidir; denge, yalnız aynaya bakıp bakmadığımızı gösterir.",
+        "Kitabın kapısı burada açılır: Sevgi başımıza gelen güzel olay kadar, bizim dünyaya yönelttiğimiz bir yetenektir."
+      ]
+    },
+    {
+      "id": "durak-03-sanat-denince-neden-calisma-akla-gelir",
+      "section": "BİRİNCİ KISIM · SEVGİNİN TEORİSİ",
+      "title": "Sanat denince neden çalışma akla gelir?",
+      "paragraphs": [
+        "Kimse piyano çalmayı yalnız doğru piyanoyu bulma meselesi saymaz. Nota, tekrar, sabır ve dikkat gerektiğini kabul ederiz. Fromm'a göre sevgi de sanattır; fakat insanlar ilişkiyi doğru kişiyi bulunca otomatik çalışan bir cihaz gibi görür.",
+        "Sanat benzetmesi romantizmi öldürmez. Güzel bir müzik ilk heyecanı taşıyabilir, ama konseri sürdüren şey çalışılmış ustalıktır. İlişkide de ilk çekim ile yıllar sonra ötekini görebilme yeteneği aynı şey değildir.",
+        "Pratik demek yapay teknikler uygulamak değildir. Dikkatini dağıtmadan dinlemek, verdiği sözü tutmak, incittiğinde özür dilemek ve ötekinin değişmesine alan açmak tekrar edilen davranışlardır. Karakter bu tekrarların içinde şekillenir.",
+        "Bir marangoz tahtayı zorla kendi hayaline uydurursa kırar. Malzemenin damarını tanır. Sevgi de öteki insanı hazır kalıba sokmak yerine onun mizacını, geçmişini ve sınırlarını öğrenmeyi ister.",
+        "Sanatın güzel tarafı, yeteneğin sabit olmamasıdır. İnsan hatasını fark edip daha iyi sevmeyi öğrenebilir. Zor tarafı ise bunun yalnız niyetle gerçekleşmemesidir."
+      ]
+    },
+    {
+      "id": "durak-04-ayrilik-duygusu-kalabalikta-bile-yalniz-olmak",
+      "section": "BİRİNCİ KISIM · SEVGİNİN TEORİSİ",
+      "title": "Ayrılık duygusu: Kalabalıkta bile yalnız olmak",
+      "paragraphs": [
+        "Fromm insanın temel sıkıntısını ayrılık bilinciyle açıklar. Kendimizin başkasından ayrı olduğunu, tek başımıza karar verdiğimizi ve bir gün öleceğimizi biliriz. Bu farkındalık hem özgürlük hem ürperti getirir.",
+        "Kalabalık bir toplantıda herkesle konuşup yine de görülmediğinizi hissetmiş olabilirsiniz. Fiziksel yakınlık ayrılığı tek başına çözmez. İnsan anlaşılmak, bir bütüne katılmak ve kendini aşmak ister.",
+        "Bu ihtiyacı bastırmanın birçok yolu vardır. Kalabalığa körü körüne uymak, sürekli eğlenceye kaçmak, işe gömülmek veya bir ilişkiye yapışmak geçici birlik duygusu verebilir. Fakat benliği eriterek kurulan birlik, gerçek yakınlık değildir.",
+        "Olgun sevgi ilginç bir denge kurar: İki kişi bağlanır ama iki ayrı insan olarak kalır. Köprü iki kıyıyı birleştirir; kıyıları yok etmez. Sınır ortadan kalkarsa köprü değil bataklık oluşur.",
+        "Fromm'un sevgi teorisi bu nedenle yalnız romantik değildir. İnsan olmanın yalnızlık sorununa, özgürlüğü kaybetmeden bağ kurma cevabıdır."
+      ]
+    },
+    {
+      "id": "durak-05-olgun-sevgi-etkin-bir-guctur",
+      "section": "BİRİNCİ KISIM · SEVGİNİN TEORİSİ",
+      "title": "Olgun sevgi etkin bir güçtür",
+      "paragraphs": [
+        "Fromm sevgiyi edilgin biçimde 'düşmek' yerine etkin biçimde 'vermek' üzerinden anlatır. Buradaki vermek kendini tüketmek veya sürekli taviz vermek değildir. Canlılığını, ilgisini, bilgisini ve sevincini ilişkiye katmaktır.",
+        "Bir öğretmen öğrencinin cevabını onun yerine yazarsa yardım etmiş görünür ama gelişimini engeller. Gerçek verme, ötekinin kendi gücünü kullanmasına yardım eder. Sevgide de amaç bağımlı bir hayran üretmek değil, canlı bir insanın büyümesine eşlik etmektir.",
+        "Vermek, zenginliğin işaretidir derken Fromm paradan söz etmez. İçinde ilgi ve üretkenlik bulunan kişi, paylaşınca boşalmaz. Fakat bu fikir bakım emeğinin tek tarafa yüklendiği ilişkileri romantikleştirmemelidir.",
+        "Karşılıklılık her gün eşit dakika hesabı değildir. Hastalıkta biri daha çok taşır, başka zamanda roller değişir. Uzun vadede tek kişinin sürekli kaynak, diğerinin sürekli tüketici olduğu düzen sevgi değil sömürü olabilir.",
+        "Etkin sevginin ölçüsü yalnız sıcak duygu değil, ilişkinin iki tarafında daha fazla canlılık ve gerçeklik üretip üretmediğidir."
+      ]
+    },
+    {
+      "id": "durak-06-dort-ayak-bakim-sorumluluk-saygi-bilgi",
+      "section": "BİRİNCİ KISIM · SEVGİNİN TEORİSİ",
+      "title": "Dört ayak: Bakım, sorumluluk, saygı, bilgi",
+      "paragraphs": [
+        "Fromm sevgiyi dört ayaklı bir masa gibi kurar. Bakım yoksa sevgi sözde kalır. Bir bitkiyi sevdiğini söyleyen ama sulamayan kişi duygusunu davranışa çevirmemiştir. Bakım, ötekinin yaşamına somut ilgi göstermektir.",
+        "Sorumluluk, başkasının bütün yükünü almak değildir. İhtiyacına cevap verebilecek kadar uyanık olmaktır. Yetişkin ilişkisinde sorumluluk gönüllü ve karşılıklı olmalıdır; kontrol bahanesine dönüşmemelidir.",
+        "Saygı, ötekini benim istediğim kişiye çevirmemektir. Onu kendi yönü, seçimi ve sınırları olan ayrı bir insan olarak görmek demektir. 'Senin iyiliğin için' cümlesi saygı yoksa kolayca baskıya dönüşür.",
+        "Bilgi ise yüzeydeki rolü aşar. Eşinizin kahveyi nasıl içtiğini bilmek hoş ayrıntıdır; korktuğunda neden sustuğunu, hangi geçmişin onu etkilediğini anlamaya çalışmak daha derin bilgidir. Bu bilgi merakla gelir, sorgu memurluğuyla değil.",
+        "Masa ancak dört ayak birlikte durduğunda sağlamdır. Bakım saygısızsa boğar, sorumluluk bilgisizse yanlış yere koşar, bilgi bakımsızsa soğuk gözleme dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-anne-ve-baba-sevgisi-benzetmesinin-siniri",
+      "section": "İKİNCİ KISIM · SEVGİNİN BİÇİMLERİ",
+      "title": "Anne ve baba sevgisi benzetmesinin sınırı",
+      "paragraphs": [
+        "Fromm anne sevgisini koşulsuz kabul, baba sevgisini ise kural ve başarıyla ilişkilendirir. Bu şema kitabın en tanınan ama bugün en dikkatli okunması gereken bölümlerindendir. Döneminin cinsiyet rolleri aileyi iki sabit kutba ayırır.",
+        "Gerçek hayatta şefkat ve sınır herhangi bir ebeveynden gelebilir. Tek ebeveynli, geniş aileli, evlat edinilmiş veya eşcinsel ebeveynli aileler bu iki özelliği farklı biçimlerde taşır. Çocuğun ihtiyacı kadın ve erkek rolünün ezberi değil, güvenli kabul ile gelişmeyi destekleyen sınırın birleşimidir.",
+        "Benzetmenin işe yarayan çekirdeği şudur: İnsan yalnız var olduğu için değerli olduğunu hissetmek ister; aynı zamanda dünyada sorumluluk almayı ve sınırla yaşamayı öğrenir. Bu iki deneyim dengelenmediğinde ya koşullu değere ya da sınır tanımazlığa kayabilir.",
+        "Yetişkin ilişkilerinde eşten anne veya baba beklemek yük yaratır. Partner, çocuklukta eksik kalan her şeyi sınırsızca tamir etmekle görevli değildir. Yakınlık destek sunar, terapi ve ebeveynliğin bütün işlevlerini üstlenmez.",
+        "Fromm'un şemasını rol dağılımı değil, iki insani ihtiyaç olarak yeniden okumak daha adildir: Olduğun halinle kabul ve büyümeni isteyen dürüst sınır."
+      ]
+    },
+    {
+      "id": "durak-08-kardesce-sevgi-yakin-cevrenin-disina-tasmak",
+      "section": "İKİNCİ KISIM · SEVGİNİN BİÇİMLERİ",
+      "title": "Kardeşçe sevgi: Yakın çevrenin dışına taşmak",
+      "paragraphs": [
+        "Fromm için kardeşçe sevgi bütün sevgi biçimlerinin tabanıdır. Buradaki kardeşlik biyolojik akrabalık değil, başka insanda ortak insanlığı görebilmektir. Yalnız bana benzeyeni değil, ihtiyacı olan yabancıyı da özne saymaktır.",
+        "Apartmanda asansörde karşılaştığınız temizlik görevlisini görünmez saymak kolaydır. Adını sormak tek başına büyük sevgi değildir; onu hizmet işlevinden ibaret görmeyen bakışın başlangıcıdır. Saygı günlük karşılaşmalarda belli olur.",
+        "Kardeşçe sevgi acımadan farklıdır. Acıma yukarıdan aşağı bakabilir; dayanışma eşit değeri kabul eder. Yardım edilen kişi bizim iyilik hikayemizin dekoru değildir.",
+        "Bu sevgi soyut insanlık söylemine de dönüşebilir. Uzak kıtalardaki herkesi sevdiğini söyleyip evdeki yükü paylaşmamak kolaydır. Evrensel ilke, yakındaki somut davranışta sınanır.",
+        "Fromm sevgiyi özel çiftin duvarından çıkarır. İyi ilişki, iki kişinin dünyadan kaçtığı ada değil, dünyayla daha insani bağ kurduğu liman olmalıdır."
+      ]
+    },
+    {
+      "id": "durak-09-anac-sevgi-buyutmek-ve-birakabilmek",
+      "section": "İKİNCİ KISIM · SEVGİNİN BİÇİMLERİ",
+      "title": "Anaç sevgi: Büyütmek ve bırakabilmek",
+      "paragraphs": [
+        "Fromm anaç sevgiyi yaşamı koruma ve çocuğa yaşam sevincini aktarma gücü olarak anlatır. Yalnız süt vermek değil, dünyanın yaşanmaya değer olduğu duygusunu da vermektir. Bu nitelik biyolojik anneliğe veya tek bir cinsiyete ait değildir.",
+        "Bakımın büyük sınavı çocuğun ayrılmasına izin vermektir. Küçükken elinden tutulan kişi büyüdükçe kendi yolunu seçer. Ebeveyn çocuğu kendi başarısının uzantısı sayarsa sevgi bağa dönüşür.",
+        "Bahçıvan fidanı çekerek uzatamaz. Toprağı, suyu ve ışığı sağlar; büyümenin kendi ritmine saygı duyar. Çocuk yetiştirmede de koruma ile kontrol arasındaki çizgi buradadır.",
+        "Yetişkin ilişkilerinde sürekli kurtarıcı rolüne girmek anaç sevginin gölgesidir. Karşı tarafın sorumluluğunu alıp onu güçsüz bırakmak, bakım gibi görünse de bağımlılığı sürdürebilir.",
+        "Büyüten sevginin başarısı kendine bağlamak değil, bağ kopmadan ayrılığa dayanabilmektir."
+      ]
+    },
+    {
+      "id": "durak-10-erotik-sevgi-birlik-secim-ve-emek",
+      "section": "İKİNCİ KISIM · SEVGİNİN BİÇİMLERİ",
+      "title": "Erotik sevgi: Birlik, seçim ve emek",
+      "paragraphs": [
+        "Erotik sevgi bir kişiyle özel yakınlık kurma arzusudur. Başlangıçtaki yoğun çekim, iki yabancı arasındaki duvarların bir anda yıkıldığı hissini verir. Fromm bu ani birleşmenin kalıcı sevgi sanılmasına karşı uyarır.",
+        "İlk günlerde anlatılacak çok şey vardır. Geçmiş, alışkanlıklar ve hayaller paylaşılır. Zamanla yenilik azalınca bazı çiftler yakınlığın bittiğini düşünür. Oysa yüzeydeki bilgi tükendiğinde gerçek tanıma yeni başlayabilir.",
+        "Özel seçim, dünyadaki herkese aynı biçimde davranmamak demektir. Fakat partneri sahip olunan tek nesneye çevirmek değildir. Sadakat, denetim ve kıskançlıkla aynı şey değildir; ortak karar ve güven içerir.",
+        "Fromm erotik sevgiyi irade ve sözle de ilişkilendirir. Bu, duygusuz görev evliliği savunmak değildir. Duygunun dalgalandığı günlerde bile ilişkinin bakımını sürdürecek kararın önemini gösterir.",
+        "Birlik, iki kişinin bütün farklarını eritmesi değil, farkların içinde yeniden birbirini seçebilmesidir."
+      ]
+    },
+    {
+      "id": "durak-11-kendini-sevmek-bencillik-midir",
+      "section": "İKİNCİ KISIM · SEVGİNİN BİÇİMLERİ",
+      "title": "Kendini sevmek bencillik midir?",
+      "paragraphs": [
+        "Bir uçakta oksijen maskesini önce kendinize takmanız istenir. Bu öğüt başkasını önemsememek değildir; nefessiz kişinin yardım edemeyeceğini kabul eder. Fromm da kendini sevme ile bencilliği ayırır.",
+        "Kendini sevmek, kendi ihtiyaç ve sınırlarını başkasınınki kadar gerçek saymaktır. Sürekli yorgun olduğu halde herkese evet diyen kişi fedakar görünebilir; zamanla öfke ve kırgınlık biriktirebilir.",
+        "Bencillik ise yalnız kendi çıkarını görür. Fromm'a göre aşırı bencil kişi aslında kendisiyle de verimli bir ilişki kuramamış olabilir; iç boşluğu dışarıdan sürekli alma isteğiyle doldurur.",
+        "Kendine bakım da performans projesine dönüşebilir. Kusursuz beden, kusursuz ev ve kusursuz sakinlik peşinde koşmak özsaygıyı yeniden pazara bağlar. Kendini sevmek, eksik ve değişen halini de insan sayabilmektir.",
+        "Sağlıklı ölçü basittir: Kendinize gösterdiğiniz anlayış başkasının varlığını silmiyor, başkasına verdiğiniz bakım da sizi yok etmiyorsa iki yön birlikte çalışıyordur."
+      ]
+    },
+    {
+      "id": "durak-12-tanri-sevgisi-ve-en-yuksek-deger",
+      "section": "İKİNCİ KISIM · SEVGİNİN BİÇİMLERİ",
+      "title": "Tanrı sevgisi ve en yüksek değer",
+      "paragraphs": [
+        "Fromm farklı dinlerde Tanrı sevgisinin insanın olgunlaşma biçimleriyle birlikte değiştiğini tartışır. Korkulan otorite, koruyucu ebeveyn veya insanın içinde taşıdığı birlik ilkesi gibi farklı imgeler görür.",
+        "Bu bölüm inanan ve inanmayan okur için ortak bir soruya çevrilebilir: Hayatınızda en yüksek değeri neye veriyorsunuz? Para, başarı, ulus, aile, hakikat veya merhamet davranışlarınızı nasıl yönlendiriyor?",
+        "İnsan 'Ben hiçbir şeye tapmam' diyebilir ama takvimine bakıldığında bütün vaktini başarıya sunduğu görülebilir. Resmi inanç ile fiili bağlılık aynı olmayabilir.",
+        "Fromm otoriter din ile mistik birlik arayışını ayırır. Yine de geniş din tarihi birkaç gelişim basamağına indirgenemez. İnanç gelenekleri içlerinde hem baskı hem özgürleşme biçimleri taşır.",
+        "Bölümün kalıcı sorusu, sevginin yalnız kişisel duygu mu yoksa insanın bütün dünyaya yönelişi mi olduğudur."
+      ]
+    },
+    {
+      "id": "durak-13-iliski-pazari-iyi-bir-takas-aramak",
+      "section": "ÜÇÜNCÜ KISIM · TOPLUM VE SEVGİ",
+      "title": "İlişki pazarı: İyi bir takas aramak",
+      "paragraphs": [
+        "Fromm modern ilişkileri pazar mantığıyla karşılaştırır. İnsanlar kendi değer paketlerini sunar, alabilecekleri en iyi eşleşmeyi arar. Eğitim, görünüş, gelir ve toplumsal itibar görünmez fiyat etiketlerine dönüşebilir.",
+        "Bugün uygulamalar bu benzetmeyi daha görünür kılıyor. Parmağın bir hareketiyle yeni profil gelir. Seçenek bolluğu insanı özgürleştirebilir; aynı zamanda karşısındakini her an değiştirilebilir ürün gibi görmeye teşvik edebilir.",
+        "Pazar benzetmesi bütün ilişkileri açıklamaz. İnsanlar ekonomik koşullardan etkilenirken yine de şefkat, dayanışma ve beklenmedik bağlılık kurabilir. Toplum karakteri güçlüdür, kader değildir.",
+        "Sorun tercih yapmak değil, insanın değerini tercih edilirlikle eşitlemektir. Reddedilmek acıtır; fakat birinin seçmemesi bütün kişiliğin fiyatını belirlemez.",
+        "Fromm'un eleştirisi bugün şu soruyla canlı kalır: Karşımızdakini gerçekten tanıyor muyuz, yoksa özellik listesini mi karşılaştırıyoruz?"
+      ]
+    },
+    {
+      "id": "durak-14-askin-dagilmasi-neden-yalniz-ciftin-sucu-degil",
+      "section": "ÜÇÜNCÜ KISIM · TOPLUM VE SEVGİ",
+      "title": "Aşkın dağılması neden yalnız çiftin suçu değil?",
+      "paragraphs": [
+        "İki kişi akşam eve yorgun, borç kaygılı ve sürekli ulaşılabilir halde geliyorsa yakınlık için yalnız iyi niyet yetmeyebilir. Fromm sevgi güçlüğünü bireysel karakterin yanında toplumun çalışma ve tüketim düzeniyle bağlar.",
+        "Reklam sürekli yeni heyecan satar. İlişki sıradanlaştığında arıza varmış gibi hissedilir. Oysa gündelik sevgi çoğu zaman gösterişli değildir: ilaç almak, yük paylaşmak, aynı hikayeyi yeniden dinlemek gibi küçük işlerde yaşar.",
+        "Çalışma hayatı zamanı böler. Bakım emeği görünmez ve eşitsiz dağıldığında bir taraf romantizm eksikliğinden önce dinlenme eksikliği yaşar. Sevgi konuşması maddi koşulları görmelidir.",
+        "Bunun tersi de doğrudur: Toplumu suçlamak kişisel sorumluluğu yok etmez. Kırıcı dil, kaçınma ve denetim ekonomik sistemin arkasına saklanamaz. Yapı davranışı etkiler; davranış yine bizim alanımızdır.",
+        "İlişkinin sorunu bazen iki kişilik odada, bazen odanın kirasında ve çalışma saatinde bulunur. İyi okuma iki ölçeği birlikte tutar."
+      ]
+    },
+    {
+      "id": "durak-15-sahte-birlik-bicimleri",
+      "section": "ÜÇÜNCÜ KISIM · TOPLUM VE SEVGİ",
+      "title": "Sahte birlik biçimleri",
+      "paragraphs": [
+        "İki kişi hiç tartışmıyorsa çok uyumlu olabilir; biri sürekli susuyor da olabilir. Fromm, çatışmasız görünüm ile gerçek yakınlığı ayırır. Olgun çatışma yüzeyde gürültü çıkarabilir ama iki kişiyi daha görünür kılar.",
+        "Bir başka sahte birlik, ortak düşman üzerinden kurulur. Çift herkesi küçümser, yalnız birbirini doğru sayar. Bu yakınlık ilk başta güçlü görünür; dünyayla bağ kesildikçe kapalı devreye dönüşür.",
+        "Cinsel yakınlık da tek başına duygusal birliği garanti etmez. Bedensel yakınlık değerli olabilir, fakat korku, saygısızlık ve yalnızlığı otomatik çözmez. Aynı yatakta iki yabancı kalmak mümkündür.",
+        "Sosyal medyada kusursuz çift görüntüsü üretmek de ilişkinin kendisinden ayrı bir işe dönüşebilir. Fotoğrafın uyumu, evdeki emeğin adil dağıldığını söylemez.",
+        "Gerçek birlik, dışarıya nasıl göründüğünden çok iki insanın korkmadan gerçek olabilmesi ve birbirinin özgürlüğüne dayanabilmesiyle anlaşılır."
+      ]
+    },
+    {
+      "id": "durak-16-disiplin-sabir-ve-duzen",
+      "section": "DÖRDÜNCÜ KISIM · SEVGİNİN PRATİĞİ",
+      "title": "Disiplin, sabır ve düzen",
+      "paragraphs": [
+        "Fromm sevme sanatının disiplin istediğini söyler. Bu, ilişkiyi askeri programa çevirmek değil; yalnız canımız istediğinde değil, düzenli biçimde dikkat gösterebilmektir. Bitki ayda bir kova suyla değil, ihtiyacına uygun süreklilikle yaşar.",
+        "Sabır, değişimin hemen sonuç vermemesine dayanır. Bir konuşmada yılların alışkanlığı çözülmez. Özürden sonra güvenin dönmesi, yeni davranışın tekrar tekrar görülmesini isteyebilir.",
+        "Modern hayat hız ister. Mesaja hemen yanıt, soruna hemen çözüm, duyguda hemen rahatlama bekleriz. Sevgi bazen sonucu zorlamadan yanında kalabilme becerisidir.",
+        "Düzenin tehlikesi mekanikleşmedir. Her cuma çiçek almak güzel olabilir; yalnızca görevi tamamlamak için yapılınca karşı tarafın o gün neye ihtiyacı olduğunu kaçırabilir. Disiplin canlı dikkati desteklemeli, onun yerine geçmemelidir.",
+        "Ustalık büyük jestlerden önce küçük güvenilir tekrarlarla oluşur. Sevgi karakteri takvimde görünmeyen bu tekrarlar kurar."
+      ]
+    },
+    {
+      "id": "durak-17-yogunlasmak-ve-gercekten-dinlemek",
+      "section": "DÖRDÜNCÜ KISIM · SEVGİNİN PRATİĞİ",
+      "title": "Yoğunlaşmak ve gerçekten dinlemek",
+      "paragraphs": [
+        "Birini dinlerken cevabınızı hazırlıyor, telefona bakıyor veya eski tartışmayı düşünüyorsanız bedeniniz odada olsa da dikkatiniz dağınıktır. Fromm yoğunlaşmayı sevme sanatının merkezine koyar.",
+        "Yoğunlaşmak karşı tarafı sessizce onaylamak değildir. Söylediğini anlamaya çalışırken kendi görüşünüzü koruyabilirsiniz. Dinleme, teslimiyet değil temas kurma biçimidir.",
+        "Kısa bir deney yapılabilir: Beş dakika boyunca çözüm önermeden yalnız soru sorun. 'Bunu duyunca ne hissettin?' deyin. Birçok insanın tavsiye değil, önce anlaşılma istediği ortaya çıkar.",
+        "Kendini dinlemek de önemlidir. Bedendeki gerginlik, yükselen öfke veya evet derken gelen isteksizlik sınır hakkında bilgi verir. İç sesi bastıran kişi dışarıda dürüst olamaz.",
+        "Dikkat bugünün kıt kaynaklarından biridir. Birine bölünmemiş birkaç dakika vermek, pahalı hediyeden daha derin bir 'Buradasın ve seni görüyorum' mesajı taşıyabilir."
+      ]
+    },
+    {
+      "id": "durak-18-akilci-inanc-ve-cesaret",
+      "section": "DÖRDÜNCÜ KISIM · SEVGİNİN PRATİĞİ",
+      "title": "Akılcı inanç ve cesaret",
+      "paragraphs": [
+        "Sevgi garantisizdir. Karşı taraf değişebilir, ilişki bitebilir veya verdiğimiz emek istediğimiz sonucu üretmeyebilir. Fromm bu belirsizliğe rağmen bağ kurmayı cesaret olarak görür.",
+        "Akılcı inanç, kanıtsız iyimserlik değildir. Kendimizin ve ötekinin gelişme kapasitesine, geçmiş davranışlarla desteklenen güven duymaktır. Kör inanç işaretleri yok sayar; akılcı inanç onları görerek risk alır.",
+        "Bir arkadaşınıza kırıldığınızı söylemek küçük ama gerçek risktir. Susarsanız reddedilmezsiniz, fakat tanınma ihtimalini de kapatırsınız. Yakınlık savunmasızlık olmadan kurulmaz.",
+        "Cesaret sınır koymayı da içerir. 'Seni seviyorum, fakat bana böyle davranmana izin vermiyorum' cümlesi sevginin karşıtı değildir. Korkudan her şeye katlanmak, ilişkiyi dürüstlükten uzaklaştırır.",
+        "Sevgi sanatı başarısız olmayacağımıza inanmak değil; sonuç garanti değilken bile daha canlı, saygılı ve gerçek davranışı seçebilmektir."
+      ]
+    },
+    {
+      "id": "durak-19-kitabin-eskimis-ve-tartismali-taraflari",
+      "section": "SONUÇ",
+      "title": "Kitabın eskimiş ve tartışmalı tarafları",
+      "paragraphs": [
+        "Fromm'un erkek ve kadın kutupları, annelik ve babalık rolleri, eşcinselliğe ilişkin ifadeleri bugünün bilgisi ve eşitlik anlayışıyla sorunludur. Bunlar zamansız hakikat gibi değil, 1950'lerin sınırlı çerçevesi olarak görülmelidir.",
+        "Kitap bazen çok geniş insanlık hükümleri verir. Kültür, sınıf, travma, nöroçeşitlilik ve farklı ilişki biçimleri sevme deneyimini değiştirir. Tek bir olgunluk çizgisi herkesi aynı cetvelle ölçemez.",
+        "Yine de sevginin beceri, karakter ve toplumsal koşullarla ilişkili olduğu fikri canlıdır. En verimli okuma, eski kabuğu savunmak değil; bakım, saygı, bilgi ve özgürlük çekirdeğini daha kapsayıcı hale getirmektir."
+      ]
+    },
+    {
+      "id": "durak-20-sevgi-kendini-silmek-degildir",
+      "section": "SONUÇ",
+      "title": "Sevgi kendini silmek değildir",
+      "paragraphs": [
+        "Bu kitap kolayca 'Daha çok emek ver, her şeyi anlayışla karşıla' diye yanlış okunabilir. Oysa şiddet, aşağılama, sürekli manipülasyon veya korku varsa temel sorun sevgi tekniği değildir. Güvenlik ve destek önce gelir.",
+        "Sağlıklı sevgi iki insanın gerçekliğini taşır. Birinin ihtiyaçları sürekli yasa, diğerininki sürekli istisna olamaz. Sınır ilişkiyi cezalandırmak değil, hangi koşulda kalabileceğimizi açık etmektir.",
+        "Profesyonel destek gereken durumlarda kitap önerisi tedavi yerine geçmez. Sevme kapasitesi önemlidir, fakat herkesin yükünü tek başımıza iyileştirmek görevimiz değildir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-dakikalik-harita",
+      "section": "SONUÇ",
+      "title": "Bir dakikalık harita",
+      "paragraphs": [
+        "Fromm'a göre sevgi yalnız duygu değil, öğrenilen etkin bir güçtür. Bakım, sorumluluk, saygı ve bilgi birlikte çalışır. Kardeşçe sevgi insanlığı, anaç sevgi büyütüp bırakmayı, erotik sevgi özel seçimi, kendini sevme ise kendi değerini de korumayı anlatır.",
+        "Modern pazar insanı tercih edilen pakete çevirebilir. Çalışma baskısı ve tüketim kültürü yakınlığı zorlaştırır. Yine de kişisel davranış alanı kalır: dikkat, disiplin, sabır, dinleme, dürüstlük ve cesaret.",
+        "En dengeli cümle şudur: Sevmek kendini feda etmek değil, iki ayrı insanın canlılığını ve özgürlüğünü birlikte büyütme sanatıdır."
+      ]
+    },
+    {
+      "id": "durak-22-akilda-kalacak-bes-goruntu",
+      "section": "SONUÇ",
+      "title": "Akılda kalacak beş görüntü",
+      "paragraphs": [
+        "Ayna ve pencere: Sevilmek aynaya, sevmek ötekine bakar. Köprü: Yakınlık iki kıyıyı yok etmez. Dört ayaklı masa: Bakım, sorumluluk, saygı, bilgi. Bahçıvan: Büyütür ama çekerek uzatmaz. Oksijen maskesi: Kendine bakım bencillik değildir.",
+        "Bu görüntüler ilişkinin zor anında hızlı bir kontrol listesi olur. Şu anda ötekini gerçekten görüyor muyum? Onu değiştirmeye mi çalışıyorum? Kendi sınırımı saklıyor muyum? Davranışım iki tarafta canlılık mı, korku mu üretiyor?",
+        "Fromm'un kitabı doğru kişiyi vaat etmez. Daha zor ve daha değerli bir soru bırakır: Ben, sevginin gerektirdiği dikkat ve özgürlüğe ne kadar hazırım?"
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-sevilmek-mi-sevmek-mi": {
+      "image": "/images/summary-art-60-chapter-01-loving-vs-liked-v1.webp",
+      "imageCaption": "Sevilmeyi bekleyen kişi aynaya, sevmeyi öğrenen kişi karşısındaki insanın gerçekliğine bakar."
+    },
+    "durak-03-sanat-denince-neden-calisma-akla-gelir": {
+      "image": "/images/summary-art-60-chapter-02-love-workshop-v1.webp",
+      "imageCaption": "Sevgi hazır bir duygu değil; müzik ve zanaat gibi dikkat, tekrar ve karakter isteyen canlı bir pratiktir."
+    },
+    "durak-04-ayrilik-duygusu-kalabalikta-bile-yalniz-olmak": {
+      "image": "/images/summary-art-60-chapter-03-bridge-separation-v1.webp",
+      "imageCaption": "Olgun sevgi iki ayrı kıyı arasında köprü kurar; yakınlık için benliklerin yok olması gerekmez."
+    },
+    "durak-05-olgun-sevgi-etkin-bir-guctur": {
+      "image": "/images/summary-art-60-chapter-04-active-giving-v1.webp",
+      "imageCaption": "Olgun verme kendini silmek değil; ötekinin kendi gücüyle büyümesine canlılık ve emek katmaktır."
+    },
+    "durak-06-dort-ayak-bakim-sorumluluk-saygi-bilgi": {
+      "image": "/images/summary-art-60-chapter-05-four-legged-love-v1.webp",
+      "imageCaption": "Bakım, sorumluluk, saygı ve bilgi birlikte olduğunda sevgi dengeli ve taşıyıcı bir yapıya dönüşür."
+    },
+    "durak-07-anne-ve-baba-sevgisi-benzetmesinin-siniri": {
+      "image": "/images/summary-art-60-chapter-06-care-and-boundary-v1.webp",
+      "imageCaption": "Çocuğun ve yetişkinin ihtiyacı sabit cinsiyet rolleri değil; kabul ile geliştirici sınırın güvenli birleşimidir."
+    },
+    "durak-08-kardesce-sevgi-yakin-cevrenin-disina-tasmak": {
+      "image": "/images/summary-art-60-chapter-07-human-circle-v1.webp",
+      "imageCaption": "Kardeşçe sevgi benzerlik aramaz; başka insanda işlevin, sınıfın ve yabancılığın ötesinde ortak değeri görür."
+    },
+    "durak-09-anac-sevgi-buyutmek-ve-birakabilmek": {
+      "image": "/images/summary-art-60-chapter-08-growing-and-letting-go-v1.webp",
+      "imageCaption": "Büyüten sevgi korur ama sahiplenmez; fidanın kendi yönünde uzamasına ve bir gün ayrılmasına izin verir."
+    },
+    "durak-10-erotik-sevgi-birlik-secim-ve-emek": {
+      "image": "/images/summary-art-60-chapter-09-chosen-partnership-v1.webp",
+      "imageCaption": "Erotik sevgi ilk heyecanın ötesinde, iki ayrı insanın güven ve emekle birbirini yeniden seçmesidir."
+    },
+    "durak-11-kendini-sevmek-bencillik-midir": {
+      "image": "/images/summary-art-60-chapter-10-oxygen-mask-v1.webp",
+      "imageCaption": "Kendini sevmek başkasını unutmak değil; kendi ihtiyaç ve sınırlarını da aynı insanlık ölçüsünde gerçek saymaktır."
+    },
+    "durak-12-tanri-sevgisi-ve-en-yuksek-deger": {
+      "image": "/images/summary-art-60-chapter-11-highest-value-v1.webp",
+      "imageCaption": "Tanrı sevgisi tartışması, insanın hayatında neyi en yüksek değer yaptığı ve vaktini neye sunduğu sorusuna açılır."
+    },
+    "durak-13-iliski-pazari-iyi-bir-takas-aramak": {
+      "image": "/images/summary-art-60-chapter-12-relationship-market-v1.webp",
+      "imageCaption": "Pazar mantığı ilişkide insanı özellik paketine çevirebilir; seçim çoğalırken gerçek tanıma yüzeyselleşebilir."
+    },
+    "durak-14-askin-dagilmasi-neden-yalniz-ciftin-sucu-degil": {
+      "image": "/images/summary-art-60-chapter-13-tired-couple-v1.webp",
+      "imageCaption": "Yakınlık yalnız duygudan değil, zaman, bakım emeği, ekonomik baskı ve gündelik davranışların ortak düzeninden etkilenir."
+    },
+    "durak-16-disiplin-sabir-ve-duzen": {
+      "image": "/images/summary-art-60-chapter-14-patient-practice-v1.webp",
+      "imageCaption": "Sevgi ustalığı büyük jestten önce, dikkat ve güveni küçük ama düzenli davranışlarla yeniden kurar."
+    },
+    "durak-17-yogunlasmak-ve-gercekten-dinlemek": {
+      "image": "/images/summary-art-60-chapter-15-deep-listening-v1.webp",
+      "imageCaption": "Gerçek dinleme cevap hazırlamayı kısa süreliğine bırakıp ötekinin deneyimine bölünmemiş dikkat vermektir."
+    },
+    "durak-18-akilci-inanc-ve-cesaret": {
+      "image": "/images/summary-art-60-chapter-16-courageous-heart-v1.webp",
+      "imageCaption": "Sevginin cesareti kör güven değil; belirsizliği görerek dürüst konuşmak, bağ kurmak ve gerektiğinde sınır koymaktır."
+    }
+  }
+}

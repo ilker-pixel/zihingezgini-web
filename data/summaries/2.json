@@ -1,0 +1,358 @@
+{
+  "bookNo": 2,
+  "title": "Kozmos",
+  "author": "Carl Sagan",
+  "subtitle": "İnsanın kozmik adresini, yıldızlardan gelen maddesini ve bilginin merakla nasıl büyüdüğünü gündelik benzetmelerle anlatan görsel yolculuk.",
+  "coverImage": "/images/summary-art-2-kozmos-v2.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/2-kozmos-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#315B68",
+  "meta": {
+    "originalTitle": "Cosmos",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Carl Sagan gökyüzüne bakarken yalnız yıldızları anlatmaz. Bir fikrin nasıl doğduğunu, insanların yanlış yollara sapıp yeniden nasıl ölçmeye başladığını ve küçük bir gezegenin sakinlerinin evrendeki yerlerini öğrenirken neden daha sorumlu olması gerektiğini anlatır. Bu rehber kitabın on üç bölümlük büyük yürüyüşünü koruyor, 1980'den sonra değişen bilimsel ayrıntıları güncel bilgilerle ayırıyor ve her kavramı gündelik bir görüntüye bağlıyor. Amaç formül ezberlemek değil; evreni öğrenmenin insanın kendine bakışını nasıl değiştirdiğini hissetmektir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Cosmos - resmi yayınevi tanıtımı ve kapsamı",
+      "url": "https://www.penguinrandomhouse.com/books/159730/cosmos-by-carl-sagan/"
+    },
+    {
+      "id": 2,
+      "title": "NASA Science - Evren nedir ve yaşı",
+      "url": "https://science.nasa.gov/exoplanets/what-is-the-universe/"
+    },
+    {
+      "id": 3,
+      "title": "NASA Science - Erken evren",
+      "url": "https://science.nasa.gov/mission/webb/early-universe/"
+    },
+    {
+      "id": 4,
+      "title": "NASA Exoplanet Exploration - Gezegen sistemleri",
+      "url": "https://science.nasa.gov/exoplanets/"
+    },
+    {
+      "id": 5,
+      "title": "NASA Astrobiology - Yaşamın kökeni ve evrimi",
+      "url": "https://astrobiology.nasa.gov/about/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Kozmos bir ders kitabı gibi doğrusal ilerlemez. Astronomiden biyolojiye, eski İskenderiye'den uzay araçlarına sıçrar. Bu sıçramaların ortak sorusu şudur: İnsan, evren hakkında bildiğini nasıl öğrendi?",
+        "Sagan'ın bilimsel ayrıntılarının bir bölümü yazıldığı dönemin bilgisini taşır. Evrenin yaşı, gezegen sayıları ve gözlem araçları konusunda bugün daha ilerideyiz. Yine de kitabın asıl omurgası eskimedi: Merak, kuşku, kanıt ve kozmik ölçekte alçakgönüllülük.",
+        "Bu özet, yıldız adlarını ezberletmek yerine on altı sahne kuracak. Her sahne gökyüzündeki büyük fikri mutfak masasına, takvime, kütüphaneye veya yolculuğa yaklaştıracak."
+      ]
+    },
+    {
+      "id": "durak-02-kozmik-okyanusun-kiyisinda",
+      "section": "BİRİNCİ KISIM · KOZMİK ADRES",
+      "title": "Kozmik okyanusun kıyısında",
+      "paragraphs": [
+        "Gece deniz kenarında durduğunuzu düşünün. Önünüzdeki karanlık suyun sonunu göremezsiniz; yalnız kıyıya vuran birkaç dalgayı seçersiniz. Sagan için insanlık da kozmik okyanusun kıyısındadır. Bildiklerimiz kıyıdaki köpük kadar küçük, fakat o köpüğe bakarak okyanusun kurallarını anlamaya başlamış durumdayız.",
+        "Bu benzetme insanı değersizleştirmez. Tam tersine, küçücük bir beynin milyonlarca ışık yılı uzaktaki galaksilerin ne yaptığını anlayabilmesi olağanüstüdür. Evren çok büyük, insan ömrü çok kısa olabilir; merak bu iki ölçek arasında köprü kurar.",
+        "Bir teleskop yalnız uzağı büyüten dürbün değildir. Geçmişe bakma makinesidir. Güneş'i sekiz dakika önceki, Andromeda Galaksisi'ni yaklaşık iki buçuk milyon yıl önceki haliyle görürüz. Çünkü ışığın yolculuğu zaman alır.",
+        "Gökyüzüne bakmak bu yüzden eski bir fotoğraf albümünü açmaya benzer. Aynı anda farklı yaşlardaki sayfaları görürüz. En uzak ışık, evrenin çok genç olduğu dönemlerden gelir.",
+        "İlk hafıza görüntüsü kıyıda duran insandır: Ayağının altında küçük bir kara parçası, önünde sonu görünmeyen ama akılla araştırılabilen bir okyanus."
+      ]
+    },
+    {
+      "id": "durak-03-adresimizi-en-bastan-yazmak",
+      "section": "BİRİNCİ KISIM · KOZMİK ADRES",
+      "title": "Adresimizi en baştan yazmak",
+      "paragraphs": [
+        "Bir mektuba yalnız apartman numarası yazarsanız postacı onu bulamaz. Kozmik adres de katman katmandır: Dünya, Güneş Sistemi, Samanyolu, yerel galaksi grubu ve gözlenebilir evren. Her katman, alıştığımız büyüklüğü biraz daha küçültür.",
+        "Dünya, Güneş'in çevresindeki gezegenlerden yalnız biridir. Güneş de Samanyolu'ndaki yüz milyarlarca yıldızdan sıradan sayılabilecek bir tanesidir. Samanyolu ise evrendeki sayısız galaksiden biridir. Bu sıralama merkezde olduğumuz fikrini yavaşça söker.",
+        "Eski insanlar göğün kendileri için döndüğünü düşünmekte haksız değildi; gözün verdiği ilk izlenim budur. Sabah Güneş doğar, akşam batar. Bilim, ilk izlenimin üzerine ölçüm koyarak 'Belki hareket eden biziz' diyebilme cesaretidir.",
+        "Kozmik adresin güzel yanı, bizi evsiz bırakmamasıdır. Dünya daha küçük görünür ama daha kıymetli olur. Ulaşabildiğimiz, nefes alabildiğimiz ve bütün tarihimizin yaşandığı tek ortak evdir.",
+        "Sagan'ın büyük düşünce hareketi budur: Merkezden çıkarır, fakat anlamsızlığa atmaz. Sorumluluğu büyütür."
+      ]
+    },
+    {
+      "id": "durak-04-evreni-bir-yila-sikistirmak",
+      "section": "BİRİNCİ KISIM · KOZMİK ADRES",
+      "title": "Evreni bir yıla sıkıştırmak",
+      "paragraphs": [
+        "On üç milyar yılı aşkın zamanı zihinde tutmak zordur. Sagan evrenin bütün tarihini tek takvim yılına sıkıştırır. Büyük Patlama 1 Ocak'tır. Galaksiler ve yıldızlar aylar boyunca oluşur. Güneş Sistemi yılın son bölümünde belirir. İnsanlık ise 31 Aralık gecesinin son dakikalarında sahneye çıkar.",
+        "Bu takvimde yazılı tarih, yılın son saniyelerine sığar. Krallar, savaşlar, şehirler ve icatlar bize çok uzun görünür; kozmik ölçekte göz kırpması kadar kısadır. Takvim, insan emeğini küçültmekten çok böbürlenmenin süresini gösterir.",
+        "Bir şirketin yüz yıllık binasına bakıp 'hep buradaydı' diyebiliriz. Kozmik takvim ise binanın, şehrin ve türümüzün neredeyse az önce ortaya çıktığını söyler. Kalıcılık duygumuz ölçeğe bağlıdır.",
+        "Bugünkü ölçümlere göre evren yaklaşık 13,8 milyar yaşındadır. Sagan'ın kitabındaki sayılar dönemin verilerine göre farklılaşabilir; takvim yönteminin etkisi değişmez.",
+        "Akılda kalan görüntü, son saniyede kalemi eline alan insanlıktır. Önünde çok eski bir defter, elinde ise henüz birkaç satırlık tecrübe vardır."
+      ]
+    },
+    {
+      "id": "durak-05-iskenderiye-kutuphanesi-kaybolan-gelecek",
+      "section": "BİRİNCİ KISIM · KOZMİK ADRES",
+      "title": "İskenderiye Kütüphanesi: Kaybolan gelecek",
+      "paragraphs": [
+        "Sagan eski İskenderiye'yi yalnız geçmişin şehri olarak değil, bilginin başka türlü ilerleyebileceği bir kavşak olarak anlatır. Limana gelen metinlerin kopyalandığı, farklı dillerin ve fikirlerin yan yana geldiği büyük bir hafıza merkezi hayal eder.",
+        "Kütüphane, insan beyninin dışarı taşınmış hali gibidir. Tek kişinin ömrü kısa olabilir; yazı sayesinde bir düşünce başka yüzyıla aktarılır. Fakat kurumlar korunmazsa birikim kendiliğinden yaşamaz. Savaş, ihmal, dogma ve ekonomik çöküş rafları sessizleştirebilir.",
+        "Bir ailede büyükbabanın bildiği zanaat kimseye aktarılmazsa onunla birlikte kaybolur. Uygarlıkta da durum aynıdır. Bilgi yalnız keşfedilmez; kopyalanır, öğretilir, tartışılır ve korunur.",
+        "Sagan'ın İskenderiye anlatısı tarihçiler arasında ayrıntıları bakımından tartışılabilir. Kütüphanenin tek gecede yandığı basit hikaye gerçeği tam vermez. Ancak ana ders güçlüdür: Bilimsel ilerleme kırılgandır ve kuruma ihtiyaç duyar.",
+        "Bu yüzden her okul, arşiv ve özgür tartışma alanı geleceğe bırakılmış bir yangın söndürücü gibidir."
+      ]
+    },
+    {
+      "id": "durak-06-kepler-in-kusurlu-cemberi",
+      "section": "BİRİNCİ KISIM · KOZMİK ADRES",
+      "title": "Kepler'in kusurlu çemberi",
+      "paragraphs": [
+        "Yüzyıllar boyunca gökyüzüne kusursuz çember yakıştırıldı. Çember göze ve felsefeye güzel geliyordu. Johannes Kepler ise Mars'ın hareketini hesaplarken verinin bu güzelliğe uymadığını gördü. Küçük farkları yok saymak yerine yıllarca onlarla uğraştı ve yörüngelerin elips olduğunu kabul etti.",
+        "Bu, bilim tarihinin en insani sahnelerinden biridir. Elinizde sevdiğiniz bir fikir ve masada ona uymayan birkaç sayı vardır. Sayıları düzeltmek kolay, fikri düzeltmek zordur. Kepler sonunda göğün kendi estetiğini insanın estetiğinin önüne koydu.",
+        "Bir terzinin müşteriyi hazır kalıba zorlamak yerine kalıbı müşteriye göre değiştirmesi gibi, iyi teori de doğaya göre biçimlenir. Ölçümün değeri, fikri doğruladığında değil, yanlışlayabildiğinde büyür.",
+        "Kepler'in hayatı mistik inançlar, aile sıkıntıları ve büyük matematiksel sezgilerle doluydu. Bilim insanı kusursuz akıl makinesi değildir. Çelişkileri olan biri, yine de yönteme sadık kaldığı anda büyük bir düzeltme yapabilir.",
+        "Elips yalnız bir geometrik şekil değildir; gerçeğin hoşumuza gitmeyen küçük farkta saklanabileceğini hatırlatan işarettir."
+      ]
+    },
+    {
+      "id": "durak-07-elinizdeki-atomun-uzun-yolculugu",
+      "section": "İKİNCİ KISIM · YILDIZLAR VE GEZEGENLER",
+      "title": "Elinizdeki atomun uzun yolculuğu",
+      "paragraphs": [
+        "Masadaki bardağı tutan el, çok eski malzemeden yapılmıştır. Hidrojenin büyük bölümü evrenin ilk dönemlerinden, karbon ve oksijen gibi ağır elementler ise yıldızların içindeki nükleer fırınlardan gelir. İnsan bedeni şiir olsun diye değil, fiziksel olarak yıldız maddesidir.",
+        "Bir yıldız yaşamı boyunca hafif çekirdekleri birleştirir. Büyük yıldızların son aşamalarında ve patlamalarında daha ağır elementler oluşup uzaya saçılır. Sonraki yıldızlar, gezegenler ve canlılar bu zenginleşmiş buluttan doğar.",
+        "Bunu mahalle fırınına benzetebiliriz. İlk hamur yalnız birkaç malzemelidir. Her kuşak fırın çevreye yeni tatlar ve kırıntılar bırakır; sonraki hamur daha zengin olur. Güneş ve Dünya da önceki yıldız kuşaklarının mirasını taşır.",
+        "Bu bilgi soy ağacını genişletir. Akrabalığımız yalnız insanlar ve canlılarla değildir; bedenimiz galaksinin kimyasal tarihine bağlıdır.",
+        "Sagan bilimi burada hayranlıkla birleştirir. Mucizeyi doğa yasalarının karşısına koymaz; yasaların sıradan maddeyi düşünen canlıya dönüştürmesinde bulur."
+      ]
+    },
+    {
+      "id": "durak-08-yildizlarin-dogumu-ve-olumu",
+      "section": "İKİNCİ KISIM · YILDIZLAR VE GEZEGENLER",
+      "title": "Yıldızların doğumu ve ölümü",
+      "paragraphs": [
+        "Yıldızlar göğe çakılmış değişmez lambalar değildir. Gaz ve toz bulutları kendi çekimleri altında çöker, merkez ısınır ve nükleer tepkimeler başlar. Yıldız böyle doğar. Kütlesi, ne kadar hızlı yanacağını ve nasıl öleceğini büyük ölçüde belirler.",
+        "Büyük bir yakıt deposu her zaman uzun yol demek değildir. Çok büyük yıldızlar yakıtı çok hızlı tüketir. Küçük yıldızlar daha sakin yanabilir. Dev yıldızın gösterişli hayatı, kısa ama parlak bir harcamaya benzer.",
+        "Güneş orta yaşlı bir yıldızdır. Bir gün yakıt dengesi değişecek, şişecek ve sonunda dış katmanlarını bırakacaktır. Bu olay insan takviminde yakın değildir; yine de yıldızların da tarih içinde olduğunu gösterir.",
+        "Bir yıldızın ölümü çevresi için yalnız son değildir. Uzaya saçılan malzeme yeni bulutları, gezegenleri ve belki yaşamı besler. Kozmosta mezarlık ile doğumhane aynı maddeleri paylaşır.",
+        "Gece gördüğümüz ışıkların farklı renk ve parlaklıkları, yaşları ve sıcaklıkları hakkında ipucu verir. Gökyüzü sabit dekor değil, çok yavaş çekilmiş bir aile filmidir."
+      ]
+    },
+    {
+      "id": "durak-09-gunes-sistemi-bir-aile-albumu",
+      "section": "İKİNCİ KISIM · YILDIZLAR VE GEZEGENLER",
+      "title": "Güneş Sistemi bir aile albümü",
+      "paragraphs": [
+        "Gezegenleri tek tek ezberlemek yerine aynı ailede büyüyen farklı kardeşler gibi düşünün. Hepsi yaklaşık aynı gaz ve toz diskinden doğdu, fakat konumları, kütleleri ve geçirdikleri çarpışmalar onları çok farklı hale getirdi.",
+        "İç tarafta kayaç gezegenler, dışta büyük gaz ve buz devleri bulunur. Uydular, asteroitler ve kuyruklu yıldızlar da aile albümünün kenarında kalmış eski fotoğraflar gibidir. Oluşum döneminin izlerini taşırlar.",
+        "Uzay aracı bir gezegene yaklaştığında yalnız yeni manzara çekmez. Krater sayısı yüzeyin yaşını, atmosfer bileşimi iklim tarihini, manyetik alan ise iç yapıyı anlatır. Görüntü, ölçümle birlikte geçmişin belgesine dönüşür.",
+        "Sagan'ın döneminden sonra binlerce ötegezegen keşfedildi. Artık başka yıldızların çevresinde gezegen bulunup bulunmadığını değil, ne kadar çeşitli olduklarını soruyoruz. Güneş Sistemi tek örnek olmaktan çıktı.",
+        "Yine de ailemizin ayrıntılı tanıdığımız tek üyesi Dünya'dır. Uzak gezegenlerin keşfi, evimizin bakımını ertelemek için kaçış bileti değildir."
+      ]
+    },
+    {
+      "id": "durak-10-venus-un-serasi",
+      "section": "İKİNCİ KISIM · YILDIZLAR VE GEZEGENLER",
+      "title": "Venüs'ün serası",
+      "paragraphs": [
+        "Venüs büyüklük bakımından Dünya'ya benzer, fakat yüzeyi kurşunu eritecek kadar sıcaktır. Yoğun karbondioksit atmosferi ısıyı güçlü biçimde tutar. Sagan bu komşu dünyayı gezegen ikliminin nasıl başka bir yola sapabileceğini göstermek için kullanır.",
+        "Sera etkisi olmasaydı Dünya yaşanamayacak kadar soğuk olurdu. Sorun sera etkisinin varlığı değil, enerji dengesinin ne kadar değiştiğidir. Battaniye kışın hayat kurtarır; üst üste çok sayıda battaniye nefes aldırmaz.",
+        "Venüs, Dünya'nın geleceğinin bire bir resmi değildir. İki gezegenin suyu, atmosferi ve jeolojik tarihi farklıdır. Fakat atmosferin küçük bir dekor değil, yüzey koşullarını belirleyen etkin sistem olduğunu çarpıcı biçimde gösterir.",
+        "Bugünkü iklim bilimi Sagan'ın zamanından çok daha ayrıntılıdır. İnsan kaynaklı sera gazlarının Dünya'yı ısıttığı güçlü ölçümlerle bilinir. Venüs benzetmesi bilimsel farkları silmeden uyarı resmi olarak kullanılmalıdır.",
+        "Komşu gezegen bize şunu söyler: Bir dünyanın iklimi sonsuza kadar aynı kalacağına dair söz vermez."
+      ]
+    },
+    {
+      "id": "durak-11-mars-ta-gordugumuz-yuzler",
+      "section": "İKİNCİ KISIM · YILDIZLAR VE GEZEGENLER",
+      "title": "Mars'ta gördüğümüz yüzler",
+      "paragraphs": [
+        "İnsan zihni belirsiz çizgilerden anlam üretmeyi sever. Eski teleskoplarla Mars'a bakan bazı gözlemciler yüzeyde kanallar gördüğünü düşündü. Çizgiler, gelişmiş bir uygarlığın su yolları olarak anlatıldı. Daha iyi görüntüler geldiğinde bu düzenli ağ kayboldu.",
+        "Bu hikaye aptallığın değil, algının nasıl çalıştığının örneğidir. Bulutlarda hayvan, duvar lekesinde yüz görürüz. Beklenti, gözün boşluklarını tamamlar. Uzak ve bulanık bir gezegen, arzu için dev bir perdeye dönüşebilir.",
+        "Uzay araçları Mars'ın gerçekten ilginç olduğunu gösterdi: Kurumuş akarsu izleri, buz, eski su geçmişi ve karmaşık jeoloji. Hayali kanallar yok oldu ama daha sağlam sorular doğdu.",
+        "Bilimde yanlış bir fikrin çökmesi merakın sonu değildir. Çocukça cevap geri çekilir, daha iyi soru kalır. Mars'ta yaşam olup olmadığını hâlâ araştırıyoruz; henüz kesin kanıtımız yok.",
+        "Akılda kalacak ders, teleskoptaki ince çizgidir. Görmek ile gördüğümüzü yorumlamak arasına her zaman küçük bir boşluk koymak gerekir."
+      ]
+    },
+    {
+      "id": "durak-12-canliligin-ilk-kivilcimi",
+      "section": "ÜÇÜNCÜ KISIM · YAŞAM VE ZİHİN",
+      "title": "Canlılığın ilk kıvılcımı",
+      "paragraphs": [
+        "Dünya'nın genç döneminde okyanuslar, volkanlar, enerji kaynakları ve basit kimyasal maddeler vardı. Yaşamın tam olarak hangi yoldan başladığını bilmiyoruz. Fakat canlı maddenin doğaüstü ayrı bir malzemeden yapılmadığını, aynı kimyanın düzenlenmiş hali olduğunu biliyoruz.",
+        "Sagan laboratuvarda erken Dünya koşullarını taklit eden deneylere büyük önem verir. Basit gazlar ve enerji kullanılarak aminoasit gibi organik yapı taşlarının oluşabilmesi, yaşamın bütün yolunu açıklamaz; ilk basamağın doğa yasalarıyla mümkün olabileceğini gösterir.",
+        "Bir mutfakta un, su ve maya görmek ekmeğin kendiliğinden hazır olduğu anlamına gelmez. Malzeme, tarif, ortam ve zaman gerekir. Yaşamın kökeni araştırması da yapı taşından kendini kopyalayan sistemlere giden uzun köprüyü arar.",
+        "Bugün hidrotermal bacalar, sığ havuzlar, RNA benzeri moleküller ve başka senaryolar inceleniyor. Tek bir kesin hikaye yoktur. Bilmediğimiz boşluğu dürüstçe açık tutmak bilimin zayıflığı değil, çalışma alanıdır.",
+        "Kıvılcım görüntüsü bu nedenle tek bir şimşek değil, kimyanın çok uzun süre boyunca birçok yolu denediği büyük bir laboratuvardır."
+      ]
+    },
+    {
+      "id": "durak-13-dna-dort-harfle-yazilan-akrabalik",
+      "section": "ÜÇÜNCÜ KISIM · YAŞAM VE ZİHİN",
+      "title": "DNA: Dört harfle yazılan akrabalık",
+      "paragraphs": [
+        "Canlıların görünüşleri şaşırtıcı biçimde farklıdır; yine de kalıtım bilgisinin temel dili ortaktır. DNA'nın dört kimyasal harfi, bakteriden ağaca ve insana kadar yaşamın akrabalığını taşır. Farklı kitaplar aynı alfabe ve benzer ciltleme yöntemiyle yazılmış gibidir.",
+        "Evrim önceden çizilmiş merdiven değildir. Dallanıp budaklanan ağaçtır. İnsan tepe basamağına yerleştirilmiş nihai ürün değil, yaşayan dallardan biridir. Başka canlılarla ortak atalar paylaşır.",
+        "Doğal seçilim geleceği bilmez. O anda çoğalmaya katkı sağlayan özellikler yayılabilir. Çevre değişince dün yararlı olan bugün yük olabilir. Bu yüzden evrim kusursuz mühendis değil, elindeki parçaları yeniden kullanan tamircidir.",
+        "Sagan, yaşamın kozmik olasılıklarını düşünürken Dünya'daki birliği temel alır. Başka dünyalarda yaşam varsa aynı DNA'yı kullanmak zorunda değildir. Fakat enerji, bilgi ve kopyalama gibi ortak sorunlarla karşılaşması beklenir.",
+        "Dört harfli alfabe bizi doğadan ayırmaz. Bedenimizdeki her hücre, eski akrabalığın sessiz kaydını taşır."
+      ]
+    },
+    {
+      "id": "durak-14-beyin-icindeki-kucuk-kutuphane",
+      "section": "ÜÇÜNCÜ KISIM · YAŞAM VE ZİHİN",
+      "title": "Beyin içindeki küçük kütüphane",
+      "paragraphs": [
+        "İnsan beyni katman katman oluşmuş uzun evrim tarihini taşır. Sagan bu yapıyı eski bölümlerin üzerine yeni odalar eklenmiş bir kütüphaneye benzetir. Solunum ve temel dürtüler, duygular, planlama ve dil aynı binada birlikte çalışır.",
+        "Bu tür katman benzetmeleri öğreticidir ama beynin üç ayrı bağımsız parça halinde çalıştığı kaba şemalara dönüştürülmemelidir. Modern sinirbilim, bölgelerin yoğun ağlar halinde işbirliği yaptığını gösterir.",
+        "Beynin asıl olağanüstü yanı, evrenin kendi üzerine düşünmesini mümkün kılmasıdır. Yıldızlarda üretilmiş atomlar, bir kafatası içinde birleşip yıldızların yaşını hesaplar. Madde, kendine ayna tutar.",
+        "Fakat zeka otomatik bilgelik değildir. Aynı beyin teleskop ve aşı yapabildiği gibi propaganda ve silah da yapabilir. Bilgi gücü büyütür; yönünü değerler ve kurumlar belirler.",
+        "Kütüphanenin rafları dolu olabilir, ama hangi kitabı ne zaman açacağımız ayrı bir eğitim ister. Sagan'ın bilime ahlakı eklediği yer burasıdır."
+      ]
+    },
+    {
+      "id": "durak-15-isik-hizindaki-tren",
+      "section": "ÜÇÜNCÜ KISIM · YAŞAM VE ZİHİN",
+      "title": "Işık hızındaki tren",
+      "paragraphs": [
+        "Gündelik hayatta zaman herkes için aynı akıyormuş gibi görünür. Einstein'ın göreliliği, çok yüksek hızlarda ve güçlü kütle çekiminde bu ortak saatin ayrıldığını gösterir. Hareketli trenin saati ile perondaki saatin ölçümü aynı kalmak zorunda değildir.",
+        "Bunu gözle fark etmeyiz çünkü arabalarımız ışık hızına göre çok yavaştır. Fakat uyduların saatlerinde görelilik düzeltmeleri yapılmazsa konum sistemleri hızla hata biriktirir. En tuhaf teori cebimizdeki haritanın çalışmasına yardım eder.",
+        "Görelilik 'Her şey kişiye göre değişir' demek değildir. Tam tersine, gözlemciler arasındaki farkları kesin matematik kurallarıyla bağlar. Keyfilik değil, daha geniş bir düzen sunar.",
+        "Sagan zaman ve uzayı anlatırken hayal gücünü ölçümle birlikte yürütür. Düşünce deneyi, kanıtın yerine geçen hikaye değil, hangi ölçümün anlamlı olduğunu bulma aracıdır.",
+        "Işık hızındaki tren, sağduyunun evrenin tamamı için hazırlanmadığını hatırlatır. Sağduyu mahallede iyidir; kozmosta ölçüm ister."
+      ]
+    },
+    {
+      "id": "durak-16-kozmik-telefonda-kimse-var-mi",
+      "section": "DÖRDÜNCÜ KISIM · GELECEK VE SORUMLULUK",
+      "title": "Kozmik telefonda kimse var mı?",
+      "paragraphs": [
+        "Samanyolu'nda çok sayıda yıldız ve gezegen varsa başka zeki canlılar olabilir mi? Sagan bu soruya hevesle yaklaşır, ama cevap ile arzu arasındaki mesafeyi korur. Olasılık yüksek görünebilir; doğrulanmış sinyal olmadan 'varlar' diyemeyiz.",
+        "SETI çalışmaları gökyüzünü radyo ve başka işaretler için dinler. Bu, rastgele her paraziti uzaylı saymak değildir. Sinyalin tekrarlanması, doğal ve insani kaynakların elenmesi, bağımsız gözlem gibi sıkı kontroller gerekir.",
+        "Karanlık odada telefon beklemek gibi, sessizlik de yorum ister. Kimsenin olmaması, çok uzakta olmaları, kısa süre yayın yapmaları veya yanlış frekansta dinlememiz aynı sessizliği üretebilir.",
+        "Drake denklemi kesin sayı makinesi değildir. Bilmediğimiz çarpanları görünür hale getiren soru listesi gibidir: Kaç yıldız, kaç gezegen, yaşam ne kadar sık, teknoloji ne kadar uzun süre iz bırakıyor?",
+        "En önemli kazanç, cevap gelmeden de ortaya çıkar. Başka uygarlığı düşünmek, kendi uygarlığımızın ne kadar genç ve kırılgan olduğunu fark ettirir."
+      ]
+    },
+    {
+      "id": "durak-17-soluk-mavi-ev-ve-ortak-kader",
+      "section": "DÖRDÜNCÜ KISIM · GELECEK VE SORUMLULUK",
+      "title": "Soluk mavi ev ve ortak kader",
+      "paragraphs": [
+        "Uzaktan çekilmiş Dünya görüntüsünde ülkelerin sınırları görünmez. Bütün savaşlar, aşklar, pazarlar ve anılar küçük bir ışık noktasında yaşanmıştır. Sagan kozmik bakışı siyasi kaçış değil, ortak kaderi görünür kılan bir mercek olarak kullanır.",
+        "Kitabın yazıldığı dönemde nükleer savaş tehdidi anlatının merkezindeydi. Teknolojik olarak güçlü, duygusal olarak kabileci bir tür kendi evini yok edebilir. Aynı çelişki iklim, biyolojik riskler ve başka büyük teknolojilerde de sürer.",
+        "Kozmik ölçekte sınırlar önemsiz görünse de insanların yaşadığı adaletsizlik önemsiz değildir. 'Hepimiz aynı gezegendeyiz' cümlesi, bedeli kimin ödediğini saklamak için kullanılmamalıdır. Ortaklık eşit sorumluluk değil, ortak sonuç anlamına gelir.",
+        "Başka gezegenleri araştırmak Dünya'dan vazgeçmek değildir. Denizci yeni kıtaları merak ederken gemisindeki deliği de kapatmak zorundadır. Şimdilik yaşamı bildiğimiz tek liman burasıdır.",
+        "Soluk mavi nokta insanı küçültmez; kavgalarımızı küçültür ve koruma görevimizi büyütür."
+      ]
+    },
+    {
+      "id": "durak-18-bilimin-mumu-ve-iktidarin-golgesi",
+      "section": "DÖRDÜNCÜ KISIM · GELECEK VE SORUMLULUK",
+      "title": "Bilimin mumu ve iktidarın gölgesi",
+      "paragraphs": [
+        "Bilim insan işi olduğu için kurumların çıkarlarından, önyargılardan ve güç ilişkilerinden tamamen bağımsız değildir. Tarih, kötüye kullanılan araştırmalar ve dışlanan insanlarla doludur. Sagan'ın bilim sevgisi bu sorunları görmezden gelmek zorunda değildir.",
+        "Bilimi özel yapan, bilim insanının kusursuzluğu değil; iddianın eleştiriye, ölçüme ve düzeltmeye açık olmasıdır. Ancak bu düzeltme düzeni için özgür tartışma, şeffaf veri ve hesap verebilir kurum gerekir.",
+        "Kozmik hayranlık da bazen Dünya'daki politik sorunları sisleyebilir. Büyük evren karşısında her şey küçük denirse adalet talebi de küçültülebilir. Daha dengeli okuma, iki ölçeği birlikte taşır: Kozmosta küçüğüz, birbirimizin hayatında çok etkiliyiz.",
+        "Kitabın kalıcı gücü, bilginin duygudan arınmış olması değil; merak, şaşkınlık ve sorumluluğu aynı sayfada buluşturmasıdır."
+      ]
+    },
+    {
+      "id": "durak-19-1980-den-sonra-degisen-gokyuzu",
+      "section": "SONUÇ",
+      "title": "1980'den sonra değişen gökyüzü",
+      "paragraphs": [
+        "Kozmos yayımlandığından beri ötegezegenler keşfedildi, evrenin yaşına ilişkin ölçümler keskinleşti, uzay teleskopları çok erken galaksileri gözledi ve robot araçlar Güneş Sistemi'ni ayrıntılı biçimde gezdi. Bazı sayılar eskidi, merakın alanı genişledi.",
+        "Bu güncellemeler Sagan'ı yanlışlamaktan çok onun yöntemini sürdürür. Bilimsel kitap kutsal metin değildir. Yeni ölçüm geldiğinde kenarına not düşülür, bazı cümleler değiştirilir ve yeni sorular eklenir.",
+        "Okur için en iyi tutum, eski baskıdaki her ayrıntıyı savunmak veya kitabı bütünüyle çöpe atmak değildir. Ana fikri, tarihsel bağlamı ve güncel kanıtı ayrı raflarda tutmaktır."
+      ]
+    },
+    {
+      "id": "durak-20-bir-dakikalik-kozmik-harita",
+      "section": "SONUÇ",
+      "title": "Bir dakikalık kozmik harita",
+      "paragraphs": [
+        "Evren yaklaşık 13,8 milyar yıllık büyük bir tarihtir. Dünya, sıradan bir yıldızın çevresindeki küçük ama yaşam taşıdığı bilinen tek gezegendir. Bedenimiz yıldızlarda üretilmiş elementlerden, zihnimiz çok uzun bir evrimden gelir.",
+        "Bilgi; gözlem, ölçüm, hata ve düzeltme yoluyla büyür. Kepler'in elipsi, Mars kanalları ve İskenderiye'nin kırılgan rafları aynı dersi verir: Gerçek merak ister, ama merak kurum ve kuşku olmadan kolayca hikayeye dönüşür.",
+        "Kozmik bakışın son cümlesi kaçış değil sorumluluktur. Evren çok büyük olduğu için Dünya önemsiz değil; bildiğimiz bütün yaşam burada olduğu için eşsiz derecede korunmaya değerdir."
+      ]
+    },
+    {
+      "id": "durak-21-akilda-kalacak-bes-goruntu",
+      "section": "SONUÇ",
+      "title": "Akılda kalacak beş görüntü",
+      "paragraphs": [
+        "Kozmik kıyı: Bildiklerimiz büyük okyanusun kenarıdır. Uzun adres: Dünya merkez değil, evdir. Yılın son saniyesi: İnsanlık çok yenidir. Kepler'in elipsi: Veri güzel fikri düzeltebilir. Soluk mavi nokta: Ortak ev küçük ve kırılgandır.",
+        "Bu beş görüntü yüzlerce yıldız adından daha kullanışlıdır. Gökyüzüne baktığınızda yalnız uzak cisimleri değil, merakın tarihini ve kendi bedeninizin eski malzemesini hatırlarsınız.",
+        "Sagan'ın bıraktığı duygu yalnız hayranlık değildir. Evreni anlayabilen bir türün, kendi evini koruyabilecek kadar olgunlaşıp olgunlaşamayacağı sorusudur."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-kozmik-okyanusun-kiyisinda": {
+      "image": "/images/summary-art-2-chapter-01-cosmic-shore-v1.webp",
+      "imageCaption": "İnsanlık, uçsuz kozmik okyanusun kıyısında birkaç dalgadan bütün denizi anlamaya çalışan meraklı bir yolcudur."
+    },
+    "durak-03-adresimizi-en-bastan-yazmak": {
+      "image": "/images/summary-art-2-chapter-02-cosmic-address-v1.webp",
+      "imageCaption": "Kozmik adres her satırda genişler; Dünya küçülürken ortak evimizin değeri daha görünür hale gelir."
+    },
+    "durak-04-evreni-bir-yila-sikistirmak": {
+      "image": "/images/summary-art-2-chapter-03-cosmic-calendar-v1.webp",
+      "imageCaption": "Kozmik takvimde insanlık yılın son anlarında belirir; eski sandığımız tarih evren için henüz birkaç saniyedir."
+    },
+    "durak-05-iskenderiye-kutuphanesi-kaybolan-gelecek": {
+      "image": "/images/summary-art-2-chapter-04-alexandria-library-v1.webp",
+      "imageCaption": "Bilgi keşfedilmek kadar korunmak ve aktarılmak ister; kütüphane uygarlığın dışarıdaki hafızasıdır."
+    },
+    "durak-06-kepler-in-kusurlu-cemberi": {
+      "image": "/images/summary-art-2-chapter-05-kepler-ellipse-v1.webp",
+      "imageCaption": "Kepler güzel çemberi değil, inatçı veriyi seçti; elips gerçeğin küçük uyumsuzlukta saklanabileceğini gösterdi."
+    },
+    "durak-07-elinizdeki-atomun-uzun-yolculugu": {
+      "image": "/images/summary-art-2-chapter-06-stardust-hand-v1.webp",
+      "imageCaption": "Elimizdeki karbon ve oksijen, bizden önce yaşamış yıldızların fırınlarından geçerek bugüne ulaştı."
+    },
+    "durak-08-yildizlarin-dogumu-ve-olumu": {
+      "image": "/images/summary-art-2-chapter-07-stellar-life-v1.webp",
+      "imageCaption": "Yıldızlar doğar, yakıt tüketir ve ölür; sonları yeni dünyaların malzemesini hazırlayabilir."
+    },
+    "durak-09-gunes-sistemi-bir-aile-albumu": {
+      "image": "/images/summary-art-2-chapter-08-solar-family-v1.webp",
+      "imageCaption": "Gezegenler aynı başlangıç diskinden doğmuş farklı kardeşlerdir; yüzeyleri ortak geçmişin ayrı sonuçlarını taşır."
+    },
+    "durak-10-venus-un-serasi": {
+      "image": "/images/summary-art-2-chapter-09-venus-greenhouse-v1.webp",
+      "imageCaption": "Venüs, atmosferin bir gezegenin yüzeyini nasıl kökten değiştirebileceğini gösteren yakıcı bir komşudur."
+    },
+    "durak-11-mars-ta-gordugumuz-yuzler": {
+      "image": "/images/summary-art-2-chapter-10-mars-canals-v1.webp",
+      "imageCaption": "Mars kanalları, bulanık görüntünün beklentiyle birleşince nasıl kesin hikayeye dönüşebildiğini gösterir."
+    },
+    "durak-12-canliligin-ilk-kivilcimi": {
+      "image": "/images/summary-art-2-chapter-11-origin-lab-v1.webp",
+      "imageCaption": "Yaşamın başlangıcı tek bir sihirli an değil, erken Dünya kimyasının uzun süre sınadığı yolların açık sorusudur."
+    },
+    "durak-13-dna-dort-harfle-yazilan-akrabalik": {
+      "image": "/images/summary-art-2-chapter-12-dna-tree-v1.webp",
+      "imageCaption": "DNA'nın ortak alfabesi yaşamı merdiven değil, kökleri çok eskiye uzanan dallı bir ağaç olarak gösterir."
+    },
+    "durak-14-beyin-icindeki-kucuk-kutuphane": {
+      "image": "/images/summary-art-2-chapter-13-brain-library-v1.webp",
+      "imageCaption": "Beyin, evrim boyunca eklenmiş odaları olan bir kütüphane gibi çalışır; bilgi birikimi bilgelik garantisi değildir."
+    },
+    "durak-15-isik-hizindaki-tren": {
+      "image": "/images/summary-art-2-chapter-14-relativity-train-v1.webp",
+      "imageCaption": "Görelilik zamanı keyfi yapmaz; farklı hareket ve kütle çekimi koşullarındaki saatleri kesin kurallarla birbirine bağlar."
+    },
+    "durak-16-kozmik-telefonda-kimse-var-mi": {
+      "image": "/images/summary-art-2-chapter-15-seti-radio-v1.webp",
+      "imageCaption": "Kozmik sessizlik tek bir cevap değildir; dikkatli dinleme, arzuyu kanıttan ayıran uzun bir bekleyiştir."
+    },
+    "durak-17-soluk-mavi-ev-ve-ortak-kader": {
+      "image": "/images/summary-art-2-chapter-16-pale-blue-home-v1.webp",
+      "imageCaption": "Uzaktan bakınca sınırlar kaybolur; küçük ortak evimizin kırılganlığı ve onu koruma sorumluluğu belirginleşir."
+    }
+  }
+}

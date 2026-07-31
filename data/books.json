@@ -19,7 +19,9 @@
         "description": "Astronomiyi, bilimin tarihini ve evrendeki yerimizi anlatan şiirsel bir rasyonalizm klasiği.",
         "pubDate": "1980",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/2-kozmos/"
     },
     {
         "no": 3,
@@ -610,10 +612,12 @@
         "author": "Erich Fromm",
         "title": "Sevme Sanatı",
         "category": "Psikoloji & Felsefe",
-        "description": "Sevmeyi bir yetenek ve emek gerektiren bir sanat olarak ele alan klasik.  gerekir. Klasik felsefe, Stoacılık, Doğu felsefesi, İslam felsefesi ve mitolojik anlatılar bu karakter inşasını sağlar. No Kategori",
+        "description": "Sevmeyi yalnızca bir duygu değil; dikkat, sorumluluk, saygı ve emek isteyen öğrenilebilir bir sanat olarak ele alan klasik.",
         "pubDate": "1956",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/60-sevme-sanati/"
     },
     {
         "no": 61,
@@ -823,7 +827,9 @@
         "description": "Dünya mitlerindeki kahramanın yolculuğu şemasını kuran karşılaştırmalı mitoloji klasiği.",
         "pubDate": "1949",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/81-kahramanin-bin-yuzu/"
     },
     {
         "no": 82,
@@ -1451,7 +1457,9 @@
         "description": "Nadir ve öngörülemeyen olayların dünya tarihindeki rolünü ve tahmin sınırlarımızı inceleyen epistemoloji klasiği.",
         "pubDate": "2007",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/143-siyah-kugu/"
     },
     {
         "no": 144,
@@ -2457,7 +2465,9 @@
         "description": "Performans odaklı modern toplumda bireyin kendi kendinin sömürücüsü haline gelmesini ve tükenmişliği inceleyen eser.",
         "pubDate": "2010",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/243-yorgunluk-toplumu/"
     },
     {
         "no": 244,
