@@ -5,6 +5,8 @@
   "subtitle": "İnsanla en yakın hayvan akrabaları arasındaki küçük biyolojik farkların dil, kültür, fetih ve gezegen ölçeğinde güce nasıl dönüştüğünü anlatan sade rehber.",
   "coverImage": "/images/summary-art-11-ucuncu-sempanze-v2.webp",
   "coverStyle": "artwork",
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#29483A",
   "pdfUrl": "/data/pdfs/11-ucuncu-sempanze-ozeti.pdf",
   "pdfLabel": "31 sayfalık PDF'yi indir",
   "longForm": true,
@@ -68,6 +70,8 @@
       "id": "durak-07-01-durak-uc-sempanzenin-hikayesi",
       "section": "BİRİNCİ KISIM - SIRADAN BİR BÜYÜK MEMELİ",
       "title": "01. DURAK - Üç Şempanzenin Hikâyesi",
+      "image": "/images/summary-art-11-chapter-01-three-cousins-v1.webp",
+      "imageCaption": "Üç yakın kuzenin ortak kökü",
       "paragraphs": [
         "**1. sahne - Aile fotoğrafındaki üç kuzen**\n\nBir ailede üç kuzen çok farklı meslekler seçebilir; farklı yaşamlar ortak aile geçmişini silmez.",
         "Bir aile fotoğrafında yan yana duran üç kuzen düşünün. Yüzleri benziyor, yürüyüşleri farklı, hayatları ise bambaşka yerlere gitmiş. İnsan, şempanze ve bonobo arasındaki ilişki de buna benzer. İnsan yaşayan şempanzeden gelmedi; üç soy geçmişte yaşamış ortak bir ata topluluğundan ayrıldı. Diamond'ın 'üçüncü şempanze' sözü, insanı kafesin içine koymak için değil, soy ağacındaki yerimizi kibirden arındırarak görmek için seçilmiş çarpıcı bir etikettir.",
@@ -90,6 +94,8 @@
       "id": "durak-08-02-durak-buyuk-sicrama",
       "section": "BİRİNCİ KISIM - SIRADAN BİR BÜYÜK MEMELİ",
       "title": "02. DURAK - Büyük Sıçrama",
+      "image": "/images/summary-art-11-chapter-02-cultural-accumulation-v1.webp",
+      "imageCaption": "Kültürün katman katman birikimi",
       "paragraphs": [
         "**1. sahne - Bir gecede dolmayan alet çantası**\n\nUzun süre yavaş büyüyen bir şehir, ulaşım ağı kurulunca birden daha hızlı genişleyebilir.",
         "Eski bir mağaranın katmanlarında taş aletlerin yavaş yavaş çeşitlendiğini düşünün. Bir katmanda küçük bir yenilik, binlerce yıl sonra başka bir işaret, daha sonra uzak yerden taşınmış bir malzeme görülüyor. Eski 'büyük sıçrama' anlatısı insan kültürünün bir anda parladığını düşündürüyordu. Bugünkü resim daha yavaş ve dallıdır: Simgeler, karmaşık teknoloji ve uzun mesafeli ağlar farklı zamanlarda, farklı bölgelerde birikmiştir.",
@@ -117,6 +123,8 @@
       "id": "durak-10-03-durak-insan-cinselliginin-evrimi",
       "section": "İKİNCİ KISIM - GARİP YAŞAM DÖNGÜSÜ",
       "title": "03. DURAK - İnsan Cinselliğinin Evrimi",
+      "image": "/images/summary-art-11-chapter-03-long-childhood-v1.webp",
+      "imageCaption": "Uzun çocukluk ve ortak bakım",
       "paragraphs": [
         "**1. sahne - Yıllarca bakıma ihtiyaç duyan bebek**\n\nUzun bir çıraklık pahalıdır; fakat sonunda daha karmaşık bir işi yapabilen usta yetiştirir.",
         "Bir tay doğduktan kısa süre sonra ayağa kalkabilir. İnsan bebeği ise yıllarca başkasının bakımına, diline ve bilgisine muhtaçtır. Bu uzun bağımlılık ilk bakışta zayıflık gibi görünür. Fakat öğrenme için geniş zaman, beynin deneyimle biçimlenmesi ve çok sayıda yetişkinin bilgi aktarması açısından büyük bir fırsattır. İnsan yaşam döngüsünün tuhaflığı, kültürün beden içinde zaman kazanmasıdır.",
@@ -140,6 +148,8 @@
       "id": "durak-11-04-durak-aldatmanin-bilimi",
       "section": "İKİNCİ KISIM - GARİP YAŞAM DÖNGÜSÜ",
       "title": "04. DURAK - Aldatmanın Bilimi",
+      "image": "/images/summary-art-11-chapter-04-relationship-conflict-v1.webp",
+      "imageCaption": "Bağ, çatışma ve sorumluluk",
       "paragraphs": [
         "**1. sahne - Telefondaki bildirim ve eski duygu**\n\nBir çıkar çatışmasının neden çıktığını anlamak, anlaşmayı bozan kişiyi haklı çıkarmak değildir.",
         "Birinin telefonunda beklenmedik bir mesaj gördüğünüzü düşünün. Kalp hızlanabilir, zihin en kötü senaryoyu kurabilir. Kıskançlık gibi duygular eski bağ ve kayıp riskleriyle ilişkilendirilebilir. Fakat duygunun ortaya çıkması, yapılan her davranışı haklı kılmaz. İnsan düşünür, konuşur, sınır koyar ve hukuk kurar; biyolojik eğilim sorumluluğun yerine geçmez.",
@@ -160,6 +170,8 @@
       "id": "durak-12-05-durak-es-secimi",
       "section": "İKİNCİ KISIM - GARİP YAŞAM DÖNGÜSÜ",
       "title": "05. DURAK - Eş Seçimi",
+      "image": "/images/summary-art-11-chapter-05-mate-choice-v1.webp",
+      "imageCaption": "Eş seçimini ören birçok etken",
       "paragraphs": [
         "**1. sahne - Kalabalık odada değişen bakış**\n\nBir ev seçerken konum, fiyat, güvenlik ve kişisel zevk birlikte düşünülür; tek ölçü bütün kararı açıklamaz.",
         "Bir davette kimi insan sese, kimi mizaha, kimi güven veren davranışa, kimi ortak hayata bakar. Bir kişinin çekici bulduğu özellik başkası için önemsiz olabilir. Eş seçimi üzerine evrimsel araştırmalar ortalama eğilimler arar; gerçek ilişkiler ise bireyin geçmişi, bulunduğu toplum, fırsatları ve bilinçli tercihleriyle kurulur.",
@@ -181,6 +193,8 @@
       "id": "durak-13-06-durak-cinsel-secilim-ve-insan-cesitliligi",
       "section": "İKİNCİ KISIM - GARİP YAŞAM DÖNGÜSÜ",
       "title": "06. DURAK - Cinsel Seçilim ve İnsan Çeşitliliği",
+      "image": "/images/summary-art-11-chapter-06-human-diversity-v1.webp",
+      "imageCaption": "Güneş, çevre ve kesintisiz insan çeşitliliği",
       "paragraphs": [
         "**1. sahne - Güneş altında çalışan pigment**\n\nİş görüşmesinde etkileyici sunum avantaj sağlayabilir; fakat sunumun maliyeti ve güvenilirliği ayrıca değerlendirilir.",
         "Açık bir arazide güçlü güneş altında yaşayan topluluklarla daha az morötesi ışık alan bölgelerde yaşayanları düşünün. Ten rengi, güneş ışığıyla ilişkili seçilim baskıları içinde değişen melanin düzeylerinden etkilenir. Bu biyolojik çeşitlilik gerçektir; fakat insanları birkaç keskin 'ırk' kutusuna ayırmaz. Coğrafya boyunca özellikler çoğu kez yavaş geçişlerle değişir.",
@@ -201,6 +215,8 @@
       "id": "durak-14-07-durak-neden-yaslaniriz",
       "section": "İKİNCİ KISIM - GARİP YAŞAM DÖNGÜSÜ",
       "title": "07. DURAK - Neden Yaşlanırız?",
+      "image": "/images/summary-art-11-chapter-07-aging-repair-v1.webp",
+      "imageCaption": "Yaşlanan bedenin sınırlı onarım atölyesi",
       "paragraphs": [
         "**1. sahne - Sürekli çalışan ama sınırlı bütçeli tamir ekibi**\n\nBir ev sürekli onarılsa bile borular, çatı ve elektrik sistemi farklı hızlarda eskir; bakım ömrü uzatır ama sonsuz yapmaz.",
         "Bedeninizi gece gündüz çalışan bir tamir atölyesi gibi düşünün. Hücreler hasarı düzeltir, bağışıklık sistemi tehditleri izler, dokular yenilenir. Fakat enerji sınırsız değildir. Beden büyüme, üreme, bakım ve onarım arasında paylaştırma yapar. Doğal seçilim kusursuz ve ölümsüz beden tasarlamaz; üreme başarısını yeterince koruyan ödünleşmeler bırakır.",
@@ -229,6 +245,8 @@
       "id": "durak-16-08-durak-dile-giden-kopruler",
       "section": "ÜÇÜNCÜ KISIM - BENZERSİZ DEDİĞİMİZ İNSAN",
       "title": "08. DURAK - Dile Giden Köprüler",
+      "image": "/images/summary-art-11-chapter-08-language-bridge-v1.webp",
+      "imageCaption": "Sinyalden üretken dile uzanan köprü",
       "paragraphs": [
         "**1. sahne - Çocuğun kurallı yeni cümlesi**\n\nTrafik lambası açık bilgi verir ama yeni bir hikâye anlatamaz; iletişim ile üretken dil arasındaki fark buna benzer.",
         "Küçük bir çocuk daha önce hiç duymadığı bir cümle kurar. Yalnız ezberlediği sözleri tekrarlamamış, kelimeleri kurallara göre yeni biçimde birleştirmiştir. İnsan dilinin gücü burada yatar: Sınırlı seslerden sonsuz sayıda anlam üretmek, olmayan şeyleri anlatmak ve bilgiyi orada bulunmayan insanlara taşımak.",
@@ -250,6 +268,8 @@
       "id": "durak-17-09-durak-sanatin-hayvansal-kokleri",
       "section": "ÜÇÜNCÜ KISIM - BENZERSİZ DEDİĞİMİZ İNSAN",
       "title": "09. DURAK - Sanatın Hayvansal Kökleri",
+      "image": "/images/summary-art-11-chapter-09-roots-of-art-v1.webp",
+      "imageCaption": "Gösteriden ortak anlam yaratan sanata",
       "paragraphs": [
         "**1. sahne - Kuşun süslü çardağı ve mağaradaki el**\n\nBir çiçeğin renkli olmasıyla bir tablonun renkli olması benzer görünür; ama ortaya çıkış yolları ve anlamları farklıdır.",
         "Bazı kuşlar eş çekmek için renkli nesneler toplar ve gösterişli yapılar kurar. İnsan da görünmek, beğenilmek ve ustalığını göstermek ister. Diamond sanatın köklerinden birini bu gösteri davranışlarında arar. Fakat mağara duvarındaki el izi, yas törenindeki şarkı veya kimsenin görmediği günlük, sanatın yalnız eş seçimine indirgenemeyeceğini gösterir.",
@@ -270,6 +290,8 @@
       "id": "durak-18-10-durak-tarimin-karisik-mirasi",
       "section": "ÜÇÜNCÜ KISIM - BENZERSİZ DEDİĞİMİZ İNSAN",
       "title": "10. DURAK - Tarımın Karışık Mirası",
+      "image": "/images/summary-art-11-chapter-10-agriculture-legacy-v1.webp",
+      "imageCaption": "Dolu ambarın iki yüzü",
       "paragraphs": [
         "**1. sahne - Dolu ambar, yorgun omuz**\n\nBir mahalle pazarının büyüyüp sürekli dükkânlara dönüşmesi gibi, yiyecek toplama da bazı yerlerde aşamalı üretime döndü.",
         "Bir köyün ambarı dolduğunda geleceğe karşı güven artar. Daha çok insan beslenebilir, bazı kişiler zanaata, yönetime veya savaşa ayrılabilir. Aynı anda tarlada uzun çalışma, tek tip beslenme, kalabalık ve ürünün kontrolü yeni bedeller doğurur. Tarımın hikâyesi ilerleme ile kaybın aynı ambarın içinde durduğu karışık bir mirasdır.",
@@ -292,6 +314,8 @@
       "id": "durak-19-11-durak-sigara-alkol-ve-tehlikeli-maddeler",
       "section": "ÜÇÜNCÜ KISIM - BENZERSİZ DEDİĞİMİZ İNSAN",
       "title": "11. DURAK - Sigara, Alkol ve Tehlikeli Maddeler",
+      "image": "/images/summary-art-11-chapter-11-reward-system-v1.webp",
+      "imageCaption": "Eski ödül sisteminin modern maddelerce ele geçirilmesi",
       "paragraphs": [
         "**1. sahne - Beynin eski ödül düğmesi**\n\nAsansör hızlıca yukarı çıkarır; fakat sık ve kontrolsüz kullanım merdivenle kurulan dayanıklılığın yerini tutmaz.",
         "Aç bir hayvanın tatlı meyveyi bulduğunda yeniden araması yararlıdır. Beynin ödül sistemi, yaşama yardım eden davranışların tekrarlanmasını güçlendirebilir. Modern maddeler ise bu eski sistemi doğal ödüllerden çok daha hızlı ve yoğun biçimde uyarabilir. Sigara, alkol ve başka maddelerin çekiciliği yalnız 'kötü karar' cümlesiyle anlaşılamaz.",
@@ -312,6 +336,8 @@
       "id": "durak-20-12-durak-kalabalik-evrende-yalnizlik",
       "section": "ÜÇÜNCÜ KISIM - BENZERSİZ DEDİĞİMİZ İNSAN",
       "title": "12. DURAK - Kalabalık Evrende Yalnızlık",
+      "image": "/images/summary-art-11-chapter-12-silent-universe-v1.webp",
+      "imageCaption": "Sessiz gökyüzünde kanıt aramak",
       "paragraphs": [
         "**1. sahne - Sessiz gökyüzü**\n\nBüyük bir ormanda başka kuşları görmemek, ormanda kuş olmadığını kanıtlamaz; ama duyduğun her sesi de kuş sayamazsın.",
         "Gece milyonlarca yıldızı gördüğünüzde 'Bu kadar yerde hiç kimse yok mu?' diye sormak doğaldır. Gezegenlerin yaygın olduğunu artık biliyoruz; bazı dünyalarda su ve enerji için uygun koşullar bulunabilir. Fakat yaşama uygunluk, yaşamın gerçekten başladığı veya zeki canlıların ortaya çıktığı anlamına gelmez.",
@@ -341,6 +367,8 @@
       "id": "durak-22-13-durak-son-ilk-temaslar",
       "section": "DÖRDÜNCÜ KISIM - DÜNYA FATİHLERİ",
       "title": "13. DURAK - Son İlk Temaslar",
+      "image": "/images/summary-art-11-chapter-13-first-contact-v1.webp",
+      "imageCaption": "İlk temasın iki taraflı belirsizliği",
       "paragraphs": [
         "**1. sahne - Kıyıya yaklaşan yabancı tekne**\n\nEvinize hiç tanımadığınız, dilini bilmediğiniz ve sizden çok daha güçlü araçları olan bir grubun gelmesini düşünün.",
         "Ufukta ilk kez görülen bir tekne kıyıdaki insanlar için merak, korku veya ticaret umudu yaratabilir. Teknedeki insanlar ise kendilerini 'keşif yapan' taraf sayabilir. İlk temas dediğimiz olay iki taraf için aynı hikâye değildir. Uzun süre ayrı yaşamış toplumların karşılaşması dil, niyet, teknoloji ve özellikle hastalık bağışıklığı bakımından büyük eşitsizlik taşıyabilir.",
@@ -362,6 +390,8 @@
       "id": "durak-23-14-durak-rastlantisal-fatihler",
       "section": "DÖRDÜNCÜ KISIM - DÜNYA FATİHLERİ",
       "title": "14. DURAK - Rastlantısal Fatihler",
+      "image": "/images/summary-art-11-chapter-14-accidental-conquerors-v1.webp",
+      "imageCaption": "Fethi doğuştan üstünlük değil, koşulların birikimi açıklar",
       "paragraphs": [
         "**1. sahne - Kazananın sonradan yazdığı kader**\n\nİyi rüzgârla öne geçen tekne, denizcilerinin doğuştan daha değerli olduğunu kanıtlamaz.",
         "Bir savaşın sonucunu bildiğimizde kazanan tarafın üstünlüğünü başlangıçtan kaçınılmaz görmek kolaydır. Oysa yiyecek üretimi, nüfus, mikrop bağışıklığı, gemi, silah, siyasal örgütlenme, yerel ittifaklar ve rastlantı aynı anda rol oynar. Diamond bu birikmiş farkları coğrafya üzerinden açıklamaya çalışır; ama coğrafya insan kararlarının yerine geçmez.",
@@ -383,6 +413,8 @@
       "id": "durak-24-15-durak-atlar-diller-ve-tarih",
       "section": "DÖRDÜNCÜ KISIM - DÜNYA FATİHLERİ",
       "title": "15. DURAK - Atlar, Diller ve Tarih",
+      "image": "/images/summary-art-11-chapter-15-horses-history-v1.webp",
+      "imageCaption": "Eski dünyanın canlı motoru",
       "paragraphs": [
         "**1. sahne - Eski dünyanın canlı motoru**\n\nHızlı internet nasıl bilgi ve yönetim alanını genişletiyorsa, at da eski toplumların hareket ve haber ağını genişletti.",
         "Bir at, yalnız daha hızlı yolculuk demek değildir. Yük taşır, tarlayı çeker, haber ve asker götürür, uzak yerleşimleri aynı siyasal ağ içinde tutar. Modern motordan önce at bazı toplumların enerji, ulaşım ve savaş düzenini kökten değiştirmiştir. Fakat hayvanın varlığı tek başına imparatorluk yaratmaz; bakım bilgisi, yem, yol ve örgütlenme gerekir.",
@@ -403,6 +435,8 @@
       "id": "durak-25-16-durak-siyah-ve-beyaz",
       "section": "DÖRDÜNCÜ KISIM - DÜNYA FATİHLERİ",
       "title": "16. DURAK - Siyah ve Beyaz",
+      "image": "/images/summary-art-11-chapter-16-equal-capacity-v1.webp",
+      "imageCaption": "Aynı kapasite, farklı çevresel imkân",
       "paragraphs": [
         "**1. sahne - Aynı insan kapasitesi, farklı tarihsel imkân**\n\nAynı beceride iki çiftçi, biri verimli ovada diğeri kurak taşlıkta çalışırsa farklı ürün alır.",
         "Avustralya ile Yeni Gine'deki toplumları karşılaştırırken eski sömürge yazarları güç farkını biyolojik üstünlük diye okudu. Oysa yakın akraba toplulukların çok farklı çevre, nüfus yoğunluğu, ürün ve bağlantı koşullarında farklı teknolojiler geliştirmesi daha güçlü bir açıklamadır. İnsan kapasitesi aynı olabilir; tarihsel imkân ve zorunluluk değişebilir.",
@@ -430,6 +464,8 @@
       "id": "durak-27-17-durak-hic-yasanmamis-altin-cag",
       "section": "BEŞİNCİ KISIM - İLERLEMEYİ BİR GECEDE TERSİNE ÇEVİRMEK",
       "title": "17. DURAK - Hiç Yaşanmamış Altın Çağ",
+      "image": "/images/summary-art-11-chapter-17-no-golden-age-v1.webp",
+      "imageCaption": "Sanayi öncesinde de değişen doğa",
       "paragraphs": [
         "**1. sahne - Ayak basılmadan önce kuşlarla dolu ada**\n\nEski bir mahallenin daha sakin olması orada hiç kavga veya kirlilik olmadığı anlamına gelmez; ölçek ve araçlar farklıdır.",
         "İnsanların ulaştığı uzak bir adada büyük, uçamayan kuşların yuva yaptığını düşünün. Avcıdan kaçmayı öğrenmemiş bu canlılar kısa sürede kolay hedef olabilir. Yanında getirilen sıçanlar yumurtaları yiyebilir, ateş yaşam alanını değiştirebilir. İnsan etkisi sanayi bacasından çok önce başlamıştır. Bu gerçek geçmiş insanları şeytanlaştırmaz; doğayla daima kusursuz uyum içinde yaşadığımız altın çağ masalını sorgular.",
@@ -450,6 +486,8 @@
       "id": "durak-28-18-durak-yeni-dunya-da-hizli-yok-olus",
       "section": "BEŞİNCİ KISIM - İLERLEMEYİ BİR GECEDE TERSİNE ÇEVİRMEK",
       "title": "18. DURAK - Yeni Dünya'da Hızlı Yok Oluş",
+      "image": "/images/summary-art-11-chapter-18-megafauna-extinction-v1.webp",
+      "imageCaption": "Yok oluşta üst üste binen baskılar",
       "paragraphs": [
         "**1. sahne - Mızrak ucu ile değişen iklim arasında**\n\nBir şirket aynı ayda müşteri kaybı, yangın ve kötü yönetim yaşarsa iflası tek nedene bağlamak zorlaşır.",
         "Amerika'daki büyük memelilerin kaybını tek bir sahneye sıkıştırmak çekicidir: Yeni gelen avcı, mızrak ve yıkılan dev hayvan. Fakat iklim de hızla değişiyor, yaşam alanları dönüşüyor ve türlerin üreme hızları farklı oluyordu. Bilimsel tartışma bu yüzden sürer. İnsan avcılığı güçlü bir etken olabilir; her tür ve bölge için aynı oranı vermek zordur.",
@@ -468,6 +506,8 @@
       "id": "durak-29-19-durak-ikinci-bulut",
       "section": "BEŞİNCİ KISIM - İLERLEMEYİ BİR GECEDE TERSİNE ÇEVİRMEK",
       "title": "19. DURAK - İkinci Bulut",
+      "image": "/images/summary-art-11-chapter-19-two-clouds-v1.webp",
+      "imageCaption": "Nükleer ve ekolojik iki bulut",
       "paragraphs": [
         "**1. sahne - Gökyüzünde birbirine karışan iki bulut**\n\nBir binadaki yangın söndürülebilir; bütün şehrin aynı anda yanması yardım sisteminin kapasitesini aşar.",
         "Birinci bulut nükleer patlamanın yükselen mantarıdır: İnsanların birkaç karar içinde şehirleri ve geleceği yok edebilme gücü. İkinci bulut daha yavaş oluşur: iklim değişikliği, habitat kaybı, kirlilik ve türlerin azalması. Biri ani, diğeri birikimli görünür; ikisi de teknolojik gücün ortak karar ve denetim olmadan ne kadar tehlikeli olabileceğini gösterir.",
