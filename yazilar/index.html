@@ -27,8 +27,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/style.css?v=65">
   <link rel="stylesheet" href="/zihin-v2.css?v=4">
-  <link rel="stylesheet" href="/static-pages.css?v=3">
-  <script src="/static-page.js?v=2" defer></script>
+  <link rel="stylesheet" href="/static-pages.css?v=6">
+  <script src="/static-page.js?v=3" defer></script>
 </head>
 <body class="static-page ">
   <div class="paper-texture"></div>
@@ -52,15 +52,33 @@
     </header>
     <main class="site-content" id="main-content">
 
-      <section class="static-index">
+      <section class="static-index" data-section-search-collection="posts">
         <nav class="static-breadcrumb" aria-label="İçerik yolu"><a href="/">Başlangıç</a><span>›</span><span aria-current="page">Yazılar</span></nav>
         <header class="static-page-heading">
           <p class="section-kicker">Özgün üretimler</p>
           <h1>Defterden bütün kayıtlar</h1>
           <p>Felsefe, bilim, psikoloji ve gündelik hayata düşülmüş kişisel notlar.</p>
         </header>
+
+        <section class="section-search-panel" data-section-search data-search-scope="posts" data-search-total="29" aria-labelledby="posts-section-search-title">
+          <div class="section-search-copy">
+            <p class="section-search-eyebrow">Yalnızca bu bölüm</p>
+            <h2 id="posts-section-search-title">Yazılarda ara</h2>
+            <p>Yalnızca bu bölümdeki 29 kişisel yazı aranır; Okuma Haritası ve Araştırma Arşivi sonuçlara katılmaz.</p>
+          </div>
+          <form class="section-search-form" role="search">
+            <label class="section-search-label" for="posts-section-search">Yazılarda ara</label>
+            <div class="section-search-control">
+              <span aria-hidden="true">⌕</span>
+              <input id="posts-section-search" type="search" data-section-search-input placeholder="Başlık, konu veya kavram yaz" autocomplete="off" enterkeyhint="search">
+              <button type="button" data-section-search-clear hidden>Temizle</button>
+            </div>
+            <p class="section-search-status" data-section-search-status aria-live="polite">29 kayıt</p>
+          </form>
+          <p class="section-search-empty" data-section-search-empty hidden>Bu bölümde aramana uyan bir sonuç bulunamadı.</p>
+        </section>
         <div class="posts-grid static-post-grid">
-        <a class="post-card" href="/yazilar/dijital-dunyada-analog-kalmak-1/">
+        <a class="post-card" href="/yazilar/dijital-dunyada-analog-kalmak-1/" data-section-search-item data-search-text="Dijital Dünyada Analog Kalmak -1 Düşünce Son zamanlarda kafamı kurcalayan, hatta zaman zaman içimi burkan bir his var. Sizde de oluyor mu bilmiyorum; etrafımızı saran ve artık durdurulamaz bir hızla üzerimize gelen şu teknolojiden kaçıp uzaklaşma isteği. Bazen lise ve üniversite yıllarıma gidiyor aklım. Bilgiye ve hayata gerçekten dokunduğumuz, tabiri caizse “sürtünerek” yaşadığımız o analog zamanlara. Bugün her şey pürüzsüz. Bir bilgi mi lazım? Kütüphaneye gitmek, tozlu rafların arasında kitap karıştırmak yok. Tıklıyorsun, ekranından…">
           <div class="card-img-container"><img src="/images/dijital-dunyada-analog-kalmak-1-kapak.webp" class="card-img" loading="lazy" alt="Dijital Dünyada Analog Kalmak -1"></div>
           <div class="card-content">
             <span class="card-category">Düşünce</span>
@@ -68,7 +86,7 @@
             <time class="card-date" datetime="2026-07-26T22:13:58">26 Temmuz 2026</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/bir-defterden-notlar-hayati-hissederek-yasamak-uzerine/">
+        <a class="post-card" href="/yazilar/bir-defterden-notlar-hayati-hissederek-yasamak-uzerine/" data-section-search-item data-search-text="Defterimden Notlar: Hayatı Hissederek Yaşamak Üzerine Düşünce 27 Haziran. Sabah yataktan kalktığımda duyduğum o ilk kuş cıvıltısı. Banyoya gidip musluğu açtığımda, elimin suya değdiği o ilk soğuk an. Kapıyı açıp dışarı adım attığımda güneşin tenime dokunuşu... Bunlar çok basit şeyler gibi duruyor, değil mi? Ama asıl mesele, beynim henüz günün dertleriyle, ezberleriyle, otomatik pilotuyla devreye girmeden hemen önceki o kısa, saf karşılaşma anında gizli. Geçenlerde bu hissiyatın felsefedeki karşılığına, Fenomenoloji’ye daha yakından baktım. Başta bunu…">
           <div class="card-img-container"><img src="/images/notes_coffee_sketch_paper.webp" class="card-img" loading="lazy" alt="Defterimden Notlar: Hayatı Hissederek Yaşamak Üzerine"></div>
           <div class="card-content">
             <span class="card-category">Düşünce</span>
@@ -76,7 +94,7 @@
             <time class="card-date" datetime="2026-06-27T09:00:00">27 Haziran 2026</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/karl-marx-koleligin-yeni-adi/">
+        <a class="post-card" href="/yazilar/karl-marx-koleligin-yeni-adi/" data-section-search-item data-search-text="Karl Marx - KÖLELİĞİN YENİ ADI Felsefe O mezar taşına tapmayı bırakın! O devasa granit size yalan söylüyor. Siz beni devrimin peygamberi sanıyorsunuz... Oysa ben, karısının son gümüş kaşığını rehinciye satarken yakalanan o çaresiz babayım! Açlığa bir şekilde alışırsınız... Ama evlat acısına asla! Küçük kızım kollarımda son nefesini verdiğinde, cebimde ona bir tabut alacak param bile yoktu. Duyuyor musunuz? Dünyanın para akışını çözen adam, kızının ölü bedenini koyacak dört tahta parçası alamıyordu! Onu o ucuz sandığa koyduğum gün…">
           <div class="card-img-container"><img src="/images/karl-marx.png" class="card-img" loading="lazy" alt="Karl Marx - KÖLELİĞİN YENİ ADI"></div>
           <div class="card-content">
             <span class="card-category">Felsefe</span>
@@ -84,7 +102,7 @@
             <time class="card-date" datetime="2026-03-05T13:04:18">5 Mart 2026</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/soren-kierkegaard-inanc-sicramasi/">
+        <a class="post-card" href="/yazilar/soren-kierkegaard-inanc-sicramasi/" data-section-search-item data-search-text="Søren Kierkegaard - İnanç Sıçraması Felsefe Size “huzur” diye sattıkları o şey, ruhunuzun mezar taşıdır. O pürüzsüz hayatı, o başınızı ağrıtmayan cevapları istiyorsunuz, biliyorum. Ama bütün bunlar ruhu yavaş yavaş öldüren tatlı bir zehirdir. Ve bu zehrin adı Konfor’dur. Şunu asla unutmayın: Sizin o taptığınız Konfor, Tanrı’ya edilmiş en büyük hakarettir. Çünkü O sizi uyuşuk birer gölge olasınız diye değil, tutkulu ve özgür birer ruh olasınız diye yarattı. Konfor sizi korumuyor, yavaşça öldürüyor. Bunu gün içinde fark etmiyorsunuz. Sonra…">
           <div class="card-img-container"><img src="/images/kierkegaard.png" class="card-img" loading="lazy" alt="Søren Kierkegaard - İnanç Sıçraması"></div>
           <div class="card-content">
             <span class="card-category">Felsefe</span>
@@ -92,7 +110,7 @@
             <time class="card-date" datetime="2025-11-20T07:43:42">20 Kasım 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/arthur-schopenhauer-mutluluk-yalani/">
+        <a class="post-card" href="/yazilar/arthur-schopenhauer-mutluluk-yalani/" data-section-search-item data-search-text="Arthur Schopenhauer - Mutluluk Yalanı Felsefe Ben Arthur Schopenhauer. Frankfurt&#x27;ta, en sadık dostlarım olan köpeklerimle birlikte insanlığın o bitmek bilmez ahmakça gürültüsünden uzakta yaşadım. Üniversite kürsülerini dolduran o şarlatanlar, özellikle de Berlin&#x27;de kelimeleri geveleyip felsefeyi bir devlet memuriyetine çeviren Hegel denilen laf ebesinin anlattığı masalları dinleyip alkışlarken, ben size hakikatin kendisini, o çıplak ve acımasız yüzünü göstermeye geldim. Bana şöyle yüklendiler: &quot;Zenginsin. Babanın mirasıyla yaşadın. Çileci…">
           <div class="card-img-container"><img src="/images/schopenhauer.png" class="card-img" loading="lazy" alt="Arthur Schopenhauer - Mutluluk Yalanı"></div>
           <div class="card-content">
             <span class="card-category">Felsefe</span>
@@ -100,7 +118,7 @@
             <time class="card-date" datetime="2025-11-06T08:15:04">6 Kasım 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/471/">
+        <a class="post-card" href="/yazilar/471/" data-section-search-item data-search-text="Filozoflar Serisi #2 | Thomas Hobbes | Leviathan’ın Doğuşu Felsefe Filozoflar Serisi #2 | Thomas Hobbes | Leviathan’ın Doğuşu Yazarın Notu: Bu metin, Thomas Hobbes’un kendi kaleminden çıkmış bir yazı değildir. Tarihsel verilere ve filozofun kendi eserlerine dayanarak, onun bakış açısını birinci şahıs ağzından yansıtmayı amaçlayan yaratıcı bir yorumlama ve dramatizasyondur. Bu metnin video versiyonunu ve serinin diğer bölümlerini Zihin Gezgini YouTube kanalımda izleyebilirsiniz: YouTube Video Ben Thomas Hobbes. Doğum tarihim 1588. Annem beni dünyaya getirirken…">
           <div class="card-img-container"><img src="/images/hobbes.png" class="card-img" loading="lazy" alt="Filozoflar Serisi #2 | Thomas Hobbes | Leviathan’ın Doğuşu"></div>
           <div class="card-content">
             <span class="card-category">Felsefe</span>
@@ -108,7 +126,7 @@
             <time class="card-date" datetime="2025-11-04T15:48:19">4 Kasım 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/453/">
+        <a class="post-card" href="/yazilar/453/" data-section-search-item data-search-text="Filozoflar Serisi #1 | René Descartes: “Düşünüyorum, Öyleyse Varım” Felsefe Filozoflar Serisi #1 | René Descartes: “Düşünüyorum, Öyleyse Varım” Yazarın Notu: Bu metin, René Descartes’ın kendi kaleminden çıkmış bir yazı değildir. Tarihsel verilere ve filozofun kendi eserlerine dayanarak, onun bakış açısını birinci şahıs ağzından yansıtmayı amaçlayan yaratıcı bir yorumlama ve dramatizasyondur. Bu metnin video versiyonunu ve serinin diğer bölümlerini Zihin Gezgini YouTube kanalımda izleyebilirsiniz: YouTube Video Ben René Descartes. 1596’da Fransa’da doğdum. Çoğunuz beni…">
           <div class="card-img-container"><img src="/images/descartes.png" class="card-img" loading="lazy" alt="Filozoflar Serisi #1 | René Descartes: “Düşünüyorum, Öyleyse Varım”"></div>
           <div class="card-content">
             <span class="card-category">Felsefe</span>
@@ -116,7 +134,7 @@
             <time class="card-date" datetime="2025-10-25T00:59:35">25 Ekim 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/friedrich-hegel-aklin-kurnazligi-ve-diyalektik/">
+        <a class="post-card" href="/yazilar/friedrich-hegel-aklin-kurnazligi-ve-diyalektik/" data-section-search-item data-search-text="Friedrich Hegel - Aklın Kurnazlığı ve Diyalektik Felsefe Savaş, acı, kaos… Bütün bunların bir anlamı var mı? Çoğumuzun cevabı aynı: Hayır. Hayat anlamsız bir tesadüftür. Bense size tam tersini kanıtlamaya geldim. Gördüğünüz bu kaos, bir karıncanın kendi yuvasına bakışından farksızdır. O sadece anlamsız bir koşuşturma görür. Ama siz tepeye çıkıp baktığınızda gördüğünüz şey, kendi kavramını kuran bir düzendir. İşte ben insanlık tarihine o tepeden baktım. Ve size bütün felsefemin anahtarını tek cümlede veriyorum: Akla uygun olan gerçektir; gerçek olan…">
           <div class="card-img-container"><img src="/images/hegel.png" class="card-img" loading="lazy" alt="Friedrich Hegel - Aklın Kurnazlığı ve Diyalektik"></div>
           <div class="card-content">
             <span class="card-category">Felsefe</span>
@@ -124,7 +142,7 @@
             <time class="card-date" datetime="2025-10-23T09:16:10">23 Ekim 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/john-locke-tabula-rasa/">
+        <a class="post-card" href="/yazilar/john-locke-tabula-rasa/" data-section-search-item data-search-text="John Locke - Tabula Rasa Felsefe Hiç durup düşündünüz mü? Size her gün ne yapacağınızı söyleyen o kuralları kim, neden koyuyor? Maaşınızdan kesilen o vergilerle ne yapılıyor? Güç dediğimiz o görünmez ama her şeyi yöneten şey, aslında nedir? Ve en önemlisi, sizin bu oyundaki yeriniz ne? Eğer bu sorular aklınızın bir köşesinde dönüp duruyorsa, doğru yerdesiniz. Çünkü ben size, bu karmaşık görünen dünyanın adeta bir kullanma kılavuzunu sunmak için buradayım. Adımı belki duydunuz: John Locke. Yanına da genellikle ‘filozof’…">
           <div class="card-img-container"><img src="/images/locke.png" class="card-img" loading="lazy" alt="John Locke - Tabula Rasa"></div>
           <div class="card-content">
             <span class="card-category">Felsefe</span>
@@ -132,7 +150,7 @@
             <time class="card-date" datetime="2025-10-14T09:12:11">14 Ekim 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/david-hume-neden-sonuc-bir-masal-mi/">
+        <a class="post-card" href="/yazilar/david-hume-neden-sonuc-bir-masal-mi/" data-section-search-item data-search-text="David Hume - Neden-Sonuç Bir Masal mı? Felsefe Adım David Hume, ama siz bana sadece David deyin. Ben, aklın ve ticaretin cıvıl cıvıl olduğu Edinburgh&#x27;dan, İskoç Aydınlanması&#x27;nın kalbinden geliyorum. Beni lütfen Almanya&#x27;daki o meşhur Kant gibi, hayatı bir saat şaşmazlığında yaşayan, her gün aynı adımlarla aynı yolu yürüyen biri ya da Leibniz gibi her şeyin kusursuz bir ilahi plan olduğunu düşünen bir iyimser sanmayın. Ben hayattan keyif almayı seven, dost meclislerinde tavla oynamaktan, iyi bir şaraptan haz duyan, etten kemikten bir adamım…">
           <div class="card-img-container"><img src="/images/hume.png" class="card-img" loading="lazy" alt="David Hume - Neden-Sonuç Bir Masal mı?"></div>
           <div class="card-content">
             <span class="card-category">Felsefe</span>
@@ -140,7 +158,7 @@
             <time class="card-date" datetime="2025-10-03T09:30:23">3 Ekim 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/wilhelm-leibniz-newtonun-golgesinde-kalan-deha/">
+        <a class="post-card" href="/yazilar/wilhelm-leibniz-newtonun-golgesinde-kalan-deha/" data-section-search-item data-search-text="Wilhelm Leibniz - Newton&#x27;un Gölgesinde Kalan Deha Felsefe Ben Gottfried Wilhelm Leibniz. Kimileri beni filozof, kimileri matematikçi, kimileri diplomat bilir. Haklıdırlar: Benim için bilgi bölünmez bir bütündür. Matematikten siyasete, felsefeden mühendisliğe kadar her alanda aynı şeyi aradım: düzenin içindeki uyum. Önce evrenin doğasını düşündüm. Benden öncekiler maddenin bölünmez parçacıkları olduğunu söylediler. Ben ise farklı bir yol açtım. Dedim ki: Evren, monad adını verdiğim bölünmez, ruhsal birimlerden oluşur. Monadlar penceresizdir…">
           <div class="card-img-container"><img src="/images/leibniz.png" class="card-img" loading="lazy" alt="Wilhelm Leibniz - Newton&#x27;un Gölgesinde Kalan Deha"></div>
           <div class="card-content">
             <span class="card-category">Felsefe</span>
@@ -148,7 +166,7 @@
             <time class="card-date" datetime="2025-09-26T10:02:44">26 Eylül 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/443/">
+        <a class="post-card" href="/yazilar/443/" data-section-search-item data-search-text="Modern Çağ’da zaman kaybı Düşünce Modern Çağ’da zaman kaybı Instagram Reels’ler, TikTok’lar, bildirimler, akışlar… Zihnim sürekli uyarılıyor, ama hiçbir şey yer etmiyor. Her şey bir anlık, ama hiçbir şey kalıcı değil. Anlamlı bir başlangıç ve son olmayınca, beyin de olan biteni “anı” olarak kaydetmiyor. Ne oldu, ne zaman oldu, neden oldu? Hepsi birbirine karışıyor. Zamanı hatırlamak için önce yaşamak gerekir. Aslında bu sadece bir hissiyat değil. Nörolog Marc Wittmann diyor ki: “Eğer dikkatin dağınıksa, zaman hızla akıp gider…">
           <div class="card-img-container"><img src="/images/443_v2.png" class="card-img" loading="lazy" alt="Modern Çağ’da zaman kaybı"></div>
           <div class="card-content">
             <span class="card-category">Düşünce</span>
@@ -156,7 +174,7 @@
             <time class="card-date" datetime="2025-05-22T12:00:27">22 Mayıs 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/419/">
+        <a class="post-card" href="/yazilar/419/" data-section-search-item data-search-text="Stoacı Sessizlik, Zen Nefesi: Mindfulness ile Beyni Nasıl Resetleriz? Psikoloji Stoacı Sessizlik, Zen Nefesi: Mindfulness ile Beyni Nasıl Resetleriz? Gece Yarısı Duvar Saati Sırf o tık‑tak işkencesini duymamak için, saniyesi yağ gibi kayan sessiz bir duvar saati asardım odama — çocukken de yapmıştım, demek ki haklıymışım. İşte şimdi, apartman derin uykudayken yakaladığım o sükût anının kokusunu sözcüklere döküyorum; “Ah, biraz sessizlik Sessizlikte Nöron Fışkırması: Fare Laboratuvarının Fısıltısı 2013’teki o meşhur deney… Beş ayrı fare koğuşu kurdular: Sıradan kafes…">
 
           <div class="card-content">
             <span class="card-category">Psikoloji</span>
@@ -164,7 +182,7 @@
             <time class="card-date" datetime="2025-05-13T08:00:00">13 Mayıs 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/modern-kolelik-bildirim-sesine-tapinan-zihinler/">
+        <a class="post-card" href="/yazilar/modern-kolelik-bildirim-sesine-tapinan-zihinler/" data-section-search-item data-search-text="Modern Kölelik: Bildirim Sesine Tapınan Zihinler Düşünce Modern Kölelik: Bildirim Sesine Tapınan Zihinler Bazen kendime şu soruyu soruyorum: Eğer Epikür bugün yaşasaydı, TikTok’ta hesap açar mıydı? Belki açmazdı. Belki de açardı ama yalnızca bahçesindeki rüzgârla sallanan zeytin ağacını, iki dostun gülüşünü, bir kâse zeytin ve peynirin yanına yazdığı “bugün de huzurluyum” notunu paylaşırdı. Ama sonra gelen beğenilerle ne yapardı, bilmiyorum. Çünkü biz başka bir çağdayız. Bu çağda sade yaşamak, neredeyse sistem karşıtı bir eylem. Bildirimler bize…">
 
           <div class="card-content">
             <span class="card-category">Düşünce</span>
@@ -172,7 +190,7 @@
             <time class="card-date" datetime="2025-05-03T23:05:33">3 Mayıs 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/yapay-zeka-bilinc-kazanabilir-mi-gercek-mi-kurgu-mu/">
+        <a class="post-card" href="/yazilar/yapay-zeka-bilinc-kazanabilir-mi-gercek-mi-kurgu-mu/" data-section-search-item data-search-text="Yapay Zekâ Bilinç Kazanabilir mi? Gerçek mi, Kurgu mu? Bilim Bu yapay zekâlar… Gerçekten bir gün bilinçli olabilir mi? Bilmiyorum. Belki de asıl mesele bu zaten. Bilinç denen şeyin ne olduğunu biz bile tam bilmiyoruz ki. Ama içimden bir ses hep şunu fısıldıyor: Hayır, olamazlar. Ve ne kadar ilerlerse ilerlesin, ne kadar insana benzerse benzesin… içi hep boş kalacak. Bilinçmiş gibi yapan makineler Şimdi soruyorum: Bir robot sana bakıp “Lütfen beni kapatma” derse… bu gerçekten bir çığlık mıdır? Yoksa sadece çok iyi ezberlenmiş bir replik mi? Kalbini…">
 
           <div class="card-content">
             <span class="card-category">Bilim</span>
@@ -180,7 +198,7 @@
             <time class="card-date" datetime="2025-05-02T11:57:30">2 Mayıs 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya/">
+        <a class="post-card" href="/yazilar/tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya/" data-section-search-item data-search-text="Tutunamayanların 150 Yılı: Ütopyanın Gölgesinde Distopya Düşünce “Herkes birşeyler yapabilsin diye biz, bir şey yapmamak suretiyle, hep sizler için birşeyler yapmaya çalıştık.” —Tutunamayanlar, Oğuz Atay. Tutunamayanların Dünyası Nedir? Tutunamayanlar dünyası, Oğuz Atay’ın Tutunamayanlar romanında geçen, toplumsal normlara uyum sağlayamayan, içsel sorgulamalarla dolu bireylerin yaşadığı bir evrendir. Bu dünya, güç ve statü hırsından uzak, sanata ve düşünceye tutkuyla bağlı insanların yeridir. Rekabet yerine duygusallık, hiyerarşi yerine eşitlik hakimdir…">
           <div class="card-img-container"><img src="/images/tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya.webp" class="card-img" loading="lazy" alt="Tutunamayanların 150 Yılı: Ütopyanın Gölgesinde Distopya"></div>
           <div class="card-content">
             <span class="card-category">Düşünce</span>
@@ -188,7 +206,7 @@
             <time class="card-date" datetime="2025-03-06T11:48:09">6 Mart 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/daglar-ve-sanat-icsel-yolculugum/">
+        <a class="post-card" href="/yazilar/daglar-ve-sanat-icsel-yolculugum/" data-section-search-item data-search-text="Dağlar ve Sanat: İçsel Yolculuğum Düşünce Kışın ortasında, içimde, yenilemez bir yaz olduğunu fark ettim. Albert Camus, Veba Bu dağları ne zaman ve neden seçtiğimi sorgulamak yerine, hissettiklerime odaklanmayı tercih ediyorum. İlk trekking maceramda yaşadığım o iç coşku, beni adım adım farklı zirvelere sürükledi. Yaz-kış demeden dağa giden o yolda, her adımda biraz daha kendime döndüm. Zirvenin sessizliği, nefes nefese kalırken zihnimi arındırdı. Bedensel yorgunluğa rağmen ruhsal bir dinginlik oluştu. İşte bu paradoks, beni dağlara…">
           <div class="card-img-container"><img src="/images/daglar-ve-sanat-icsel-yolculugum.webp" class="card-img" loading="lazy" alt="Dağlar ve Sanat: İçsel Yolculuğum"></div>
           <div class="card-content">
             <span class="card-category">Düşünce</span>
@@ -196,7 +214,7 @@
             <time class="card-date" datetime="2025-03-04T17:52:50">4 Mart 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/derinlik-ve-sabir-auteur-sinemasinin-anlami/">
+        <a class="post-card" href="/yazilar/derinlik-ve-sabir-auteur-sinemasinin-anlami/" data-section-search-item data-search-text="53 Başyapıtla Auteur Sinemasına Yolculuk Düşünce &quot;Hayatın bir sanat olduğunu kabul eden bir insan beyni, bir süre sonra kalbinin yerini alır.&quot; – Oscar Wilde Bugün aklıma yine auteur sineması takıldı. Aslında her şey, Grok AI’nın bana hazırladığı 50 filmlik listeyle başladı. Listeyi görünce dedim ki “Evet, bu filmler tam da yönetmenin ruhunu, kişisel tarzını ortaya koyan, kendine özgü yapımlar.” İşin özünde ise “zaman, sabır ve derinlik” faktörleri var. Tıpkı bir romanı sindire sindire okuduğum gibi, bu filmleri de öyle izlemem gerekiyor. Bu…">
           <div class="card-img-container"><img src="/images/derinlik-ve-sabir-auteur-sinemasinin-anlami.webp" class="card-img" loading="lazy" alt="53 Başyapıtla Auteur Sinemasına Yolculuk"></div>
           <div class="card-content">
             <span class="card-category">Düşünce</span>
@@ -204,7 +222,7 @@
             <time class="card-date" datetime="2025-02-22T23:19:43">22 Şubat 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/soluk-mavi-noktanin-kuantum-dansi/">
+        <a class="post-card" href="/yazilar/soluk-mavi-noktanin-kuantum-dansi/" data-section-search-item data-search-text="Soluk Mavi Noktanın Kuantum Dansı Bilim Eğer ki Kuantum Mekaniği sizi derinden sarsmadıysa, Onu henüz anlamamışsınız demektir. Niels Bohr. Bugün, etrafıma bakıyorum ve her şeyin aslında ne kadar “kırılgan” olduğunu düşünmeden edemiyorum. “Kırılgan” diyorum ama elimi masaya vurduğumda hissettiğim o sertlik, atomların içindeki koskoca boşlukla tezat gibi görünüyor. Garip. Bu his, elektromanyetik kuvvetlerin bir mucizesi—ya da belki bir oyunu—sayesinde ortaya çıkıyor. Gerçeklik dediğim şey, bu kadar basit ama bir o kadar da inanılmaz bir…">
           <div class="card-img-container"><img src="/images/soluk-mavi-noktanin-kuantum-dansi.webp" class="card-img" loading="lazy" alt="Soluk Mavi Noktanın Kuantum Dansı"></div>
           <div class="card-content">
             <span class="card-category">Bilim</span>
@@ -212,7 +230,7 @@
             <time class="card-date" datetime="2025-02-21T22:10:30">21 Şubat 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/stadyumdaki-kelebek-etkisi-bir-islik-kaosu-tetikler-mi/">
+        <a class="post-card" href="/yazilar/stadyumdaki-kelebek-etkisi-bir-islik-kaosu-tetikler-mi/" data-section-search-item data-search-text="Stadyumdaki Kelebek Etkisi: Bir Islık Kaosu Tetikler mi? Bilim Hayat ancak geriye doğru anlaşılabilir; ama ileriye doğru yaşanmalıdır. – Søren Kierkegaard Kaos, Islıklar ve Belki de Bir Maç Bu sabah kaos teorisi aklıma takıldı. Kelebek etkisi de var tabii—bir kelebeğin kanat çırpması, kilometrelerce ötede bir fırtınaya yol açabilir. Metafor mu, gerçek mi, orasını bilim insanlarına bırakalım. Ama hayatın rastlantısallığını düşünmek için ilginç bir fikir. Mesela, geçen sene Galatasaray-Fenerbahçe maçında ben stadyumda olmasaydım, maç başka türlü biter miydi?…">
           <div class="card-img-container"><img src="/images/stadyumdaki-kelebek-etkisi-bir-islik-kaosu-tetikler-mi.webp" class="card-img" loading="lazy" alt="Stadyumdaki Kelebek Etkisi: Bir Islık Kaosu Tetikler mi?"></div>
           <div class="card-content">
             <span class="card-category">Bilim</span>
@@ -220,7 +238,7 @@
             <time class="card-date" datetime="2025-02-20T21:30:40">20 Şubat 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/spinozanin-evreni-mi-camusnun-kaosu-mu/">
+        <a class="post-card" href="/yazilar/spinozanin-evreni-mi-camusnun-kaosu-mu/" data-section-search-item data-search-text="Spinoza’nın Evreni mi, Camus’nün Kaosu mu? Felsefe “Kendi varoluşunun bir nedenini bulamayan şey, var değildir.” -Spinoza “ İnsan bilmediği şeyler hakkında daima abartılı düşüncelere kapılır .”- Albert Camus Kaosun İçinde Düzen, Düzenin İçinde Kaos Evrenin bir düzen içinde işlediğini söyleyenler var. Sebep-sonuç ilişkisi, her şeyin belirli bir plana göre ilerlediği fikri… Ama gerçekten böyle mi? Yoksa biz mi öyle görmek istiyoruz? Çünkü bazen her şey anlamlı ve mantıklı görünürken, bazen de tüm bu düzenin içinde kaosun yankılarını duyuyorum…">
           <div class="card-img-container"><img src="/images/spinozanin-evreni-mi-camusnun-kaosu-mu.webp" class="card-img" loading="lazy" alt="Spinoza’nın Evreni mi, Camus’nün Kaosu mu?"></div>
           <div class="card-content">
             <span class="card-category">Felsefe</span>
@@ -228,7 +246,7 @@
             <time class="card-date" datetime="2025-02-18T11:31:37">18 Şubat 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/do-major-akorunun-kuantum-yansimasi/">
+        <a class="post-card" href="/yazilar/do-major-akorunun-kuantum-yansimasi/" data-section-search-item data-search-text="Do Majör Akorunun Kuantum Yansıması Bilim Friedrich Nietzsche – “Müzik olmasaydı, hayat bir hatadan ibaret olurdu.” Tam olarak nereden aklıma geldi bilmiyorum ama akorlarla kuantum süperpozisyonunu birleştirmek istedim. Belki de müzikteki huzurun, kuantumdaki kaosla bir tezat oluşturması hoşuma gitti. Ya da belki de piyanonun başında bir akor çalarken, kuantum fiziğiyle kafayı bozmuş biri gibi hissettiğim için. Şimdi, Do majör akoru. Çalıyorsun: Do, Mi, Sol. Üçü birden duyuluyor. Ayrı ayrı değil, ama birlikte. Yeni bir karakter…">
           <div class="card-img-container"><img src="/images/do-major-akorunun-kuantum-yansimasi.webp" class="card-img" loading="lazy" alt="Do Majör Akorunun Kuantum Yansıması"></div>
           <div class="card-content">
             <span class="card-category">Bilim</span>
@@ -236,7 +254,7 @@
             <time class="card-date" datetime="2025-02-17T16:11:39">17 Şubat 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/guven-krizi-ekonomi-bir-inanc-sistemine-mi-dayaniyor/">
+        <a class="post-card" href="/yazilar/guven-krizi-ekonomi-bir-inanc-sistemine-mi-dayaniyor/" data-section-search-item data-search-text="Güven Krizi: Ekonomi Bir İnanç Sistemine mi Dayanıyor? Düşünce Kapitalizmin özü, yaratıcı yıkımdır. – Joseph Schumpeter Bu yazıyı neden yazıyorum bilmiyorum. Belki kapitalizmin köklerini anlamak , belki de Harari’nin anlatımında eksik bulduğum yerleri tamamlamak istiyorum. Peki, Büyük Buhran sadece bir ekonomik kriz miydi, yoksa kapitalizmin temel varsayımlarına meydan okuyan bir kırılma noktası mıydı? Finansal Güvenin Kırılganlığı Harari’ye göre kapitalizm büyük ölçüde güvene dayanır . İnsanlar, paranın değerli olduğuna inandıkları sürece ekonomi işler …">
           <div class="card-img-container"><img src="/images/guven-krizi-ekonomi-bir-inanc-sistemine-mi-dayaniyor.webp" class="card-img" loading="lazy" alt="Güven Krizi: Ekonomi Bir İnanç Sistemine mi Dayanıyor?"></div>
           <div class="card-content">
             <span class="card-category">Düşünce</span>
@@ -244,7 +262,7 @@
             <time class="card-date" datetime="2025-02-14T21:08:46">14 Şubat 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/bilim-yukseldi-peki-felsefe-nerede/">
+        <a class="post-card" href="/yazilar/bilim-yukseldi-peki-felsefe-nerede/" data-section-search-item data-search-text="Bilim Yükseldi, Peki Felsefe Nerede? Felsefe “İyi olmak kolaydır, zor olan adil olmaktır.” – Victor Hugo Modern Bilimin Yükselişiyle Felsefenin Değişen Rolü Şunu bir düşünelim: Bir zamanlar felsefe, hayatın en büyük sorularına yanıt arıyordu. Mantık, dilbilgisi ve retorik gibi alanlar eğitimin temel taşlarıydı. Orta Çağ’da teoloji, bilginin zirvesinde yer alıyordu. Ama sonra bilim sahneye çıktı. Francis Bacon’ın meşhur sözü var ya, “Bilgi güçtür,” işte o dönem tam da bunu yaşadı. Bacon’ın dediği gibi bilgi, sadece hakikati aramak için…">
           <div class="card-img-container"><img src="/images/bilim-yukseldi-peki-felsefe-nerede.webp" class="card-img" loading="lazy" alt="Bilim Yükseldi, Peki Felsefe Nerede?"></div>
           <div class="card-content">
             <span class="card-category">Felsefe</span>
@@ -252,7 +270,7 @@
             <time class="card-date" datetime="2025-02-14T19:40:28">14 Şubat 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/potosi-gumus-daginin-kanli-bedeli/">
+        <a class="post-card" href="/yazilar/potosi-gumus-daginin-kanli-bedeli/" data-section-search-item data-search-text="Potosi: Gümüş Dağının Kanlı Bedeli Düşünce İnsan özgür doğar, oysa her yerde zincire vurulmuştur. – Jean-Jacques Rousseau İspanyollar Güney Amerika’ya ulaştığında, muhtemelen böyle bir keşif yapacaklarını hayal bile etmemişlerdi. Bugünkü Bolivya sınırları içinde yer alan Potosi Dağı’nda devasa gümüş yatakları keşfedildiğinde, sadece yerel halkın değil, dünya ekonomisinin de kaderi değişti. Bir dağ düşün, neredeyse tamamı gümüşten oluşmuş gibi… Şaka değil, abartı hiç değil. Bu keşif, İspanyol İmparatorluğu’na servet yağdırdı. Öyle ki…">
           <div class="card-img-container"><img src="/images/potosi-gumus-daginin-kanli-bedeli.webp" class="card-img" loading="lazy" alt="Potosi: Gümüş Dağının Kanlı Bedeli"></div>
           <div class="card-content">
             <span class="card-category">Düşünce</span>
@@ -260,7 +278,7 @@
             <time class="card-date" datetime="2025-02-14T17:17:32">14 Şubat 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/limonun-tarihi-iskorbutu-nasil-yok-etti/">
+        <a class="post-card" href="/yazilar/limonun-tarihi-iskorbutu-nasil-yok-etti/" data-section-search-item data-search-text="Limonun Tarihi: İskorbütü Nasıl Yok Etti? Bilim Uygulamaya koymadıkça, bilgi değersizdir.” – Anton Çehov Bir zamanlar uzun deniz yolculuklarında denizciler kitleler halinde ölüyordu. Öyle ki 16. ve 18. yüzyıllar arasında iskorbüt denen gizemli bir hastalık yaklaşık 2 milyon denizcinin hayatına mal oldu. İnsanlar bunun neden olduğunu bilmiyordu. Ne denedilerse, adamlar dişlerini kaybediyor, vücutları yara içinde kalıyor, en sonunda ölüyorlardı. Sonra, 1747’de bir doktor, James Lind, bir deney yaptı. Denizcileri gruplara ayırdı ve farklı…">
           <div class="card-img-container"><img src="/images/limonun-tarihi-iskorbutu-nasil-yok-etti.webp" class="card-img" loading="lazy" alt="Limonun Tarihi: İskorbütü Nasıl Yok Etti?"></div>
           <div class="card-content">
             <span class="card-category">Bilim</span>
@@ -268,7 +286,7 @@
             <time class="card-date" datetime="2025-02-14T10:43:19">14 Şubat 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/yeni-eklenenler/">
+        <a class="post-card" href="/yazilar/yeni-eklenenler/" data-section-search-item data-search-text="Düşüncelerim Düşünce Burası, düşüncelerimin serbestçe aktığı, iç dünyamı kaydettiğim bir alan. Bazen bir konu üzerinde derinlemesine düşünmek, bazen de sadece aklımdan geçenleri not almak için buradayım. Bu bir günlük, bir anlatı ya da içsel bir sohbet olabilir. Günlük hayatta pek de paylaşmadığımız anlar vardır. Sabah kalkınca kahve yaparken, pencereden dışarı bakarken ya da yürürken aklımızdan geçenler… İşte burası, o anların yazıya döküldüğü yer. Mantıklı ya da mantıksız, derin ya da yüzeysel, önemli ya da…">
           <div class="card-img-container"><img src="/images/yeni-eklenenler.webp" class="card-img" loading="lazy" alt="Düşüncelerim"></div>
           <div class="card-content">
             <span class="card-category">Düşünce</span>
@@ -276,7 +294,7 @@
             <time class="card-date" datetime="2025-02-13T23:58:50">13 Şubat 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/frommun-dusunceleri-uzerine/">
+        <a class="post-card" href="/yazilar/frommun-dusunceleri-uzerine/" data-section-search-item data-search-text="Fromm’un Düşünceleri Üzerine Psikoloji İnsan Doğası ve Özgürlük “İnsanoğlu Yirminci yüzyılda yaşıyor olsa da; çoğu insanın beyni Taş devrinde yaşıyor.” Özgürlükten Kaçış, Erich Fromm Bugün aklıma Erich Fromm geldi. Onun düşüncelerini okuyunca, hayatımla ilgili bazı şeyleri tekrar değerlendirdim ve notlar aldım. Fromm, özgürlüğün harika ama sorumluluk dolu bir şey olduğunu söylüyor. Özgür olmak güzel; kendi seçimlerimizi yapabiliyoruz. Ancak bu, bazen yalnız kalma ve yabancılaşma hissi de getiriyor. Fromm özetle şunu söyler: İnsanlar…">
           <div class="card-img-container"><img src="/images/frommun-dusunceleri-uzerine.webp" class="card-img" loading="lazy" alt="Fromm’un Düşünceleri Üzerine"></div>
           <div class="card-content">
             <span class="card-category">Psikoloji</span>
@@ -284,7 +302,7 @@
             <time class="card-date" datetime="2025-02-13T23:39:56">13 Şubat 2025</time>
           </div>
         </a>
-        <a class="post-card" href="/yazilar/bosluk-asla-bos-degildir/">
+        <a class="post-card" href="/yazilar/bosluk-asla-bos-degildir/" data-section-search-item data-search-text="Boşluk Asla Boş Değildir Bilim “Kuantum fiziği kafanızı karıştırmadıysa, onu tam olarak anlamamışsınız demektir.” — Niels Bohr Kozmik Aşçı ve Kaynayan Çorba Evrenin doğuşunu bir aşçının devasa bir kazanı ateşe koymasına benzetelim. Önce her şey düzensiz, her şey iç içe, muazzam bir sıcaklık var. Kazanın içindeki malzemeler (madde and antimadde) çarpışıyor, bir kısmı yok olurken geriye bir şeyler kalıyor. Ama çorbanın asıl sırrı yalnızca içindeki malzemeler değil, kazanı karıştıran büyük kaşıkta saklı: kozmik genişleme. İşte…">
           <div class="card-img-container"><img src="/images/bosluk-asla-bos-degildir.webp" class="card-img" loading="lazy" alt="Boşluk Asla Boş Değildir"></div>
           <div class="card-content">
             <span class="card-category">Bilim</span>

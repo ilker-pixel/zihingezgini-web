@@ -132,6 +132,22 @@ def main() -> int:
     for book in json.loads((ROOT / "data/books.json").read_text(encoding="utf-8")):
         if book.get("hasSummary") and not local_target_exists(book.get("summaryUrl", "")):
             ERRORS.append(f"book #{book.get('no')} has no valid summaryUrl")
+
+    scoped_search_pages = {
+        "yazilar/index.html": len(json.loads((ROOT / "data/posts.json").read_text(encoding="utf-8"))),
+        "okuma-haritasi/index.html": len(json.loads((ROOT / "data/books.json").read_text(encoding="utf-8"))),
+        "arastirma-arsivi/index.html": len(json.loads((ROOT / "data/kutuphane_index.json").read_text(encoding="utf-8"))),
+    }
+    for relative, expected_items in scoped_search_pages.items():
+        source = (ROOT / relative).read_text(encoding="utf-8")
+        item_count = len(re.findall(r"\bdata-section-search-item\b", source))
+        if source.count("data-section-search-collection=") != 1:
+            ERRORS.append(f"{relative}: expected one scoped search collection")
+        if source.count("data-section-search data-search-scope=") != 1:
+            ERRORS.append(f"{relative}: expected one scoped search panel")
+        if item_count != expected_items:
+            ERRORS.append(f"{relative}: search indexes {item_count} items; expected {expected_items}")
+
     if "YOUR_GOOGLE_VERIFICATION_TOKEN_HERE" in (ROOT / "index.html").read_text(encoding="utf-8"):
         ERRORS.append("index.html still contains the verification placeholder")
     if re.search(r"new Date\(\)\.getTime\(\)", (ROOT / "app.js").read_text(encoding="utf-8")):

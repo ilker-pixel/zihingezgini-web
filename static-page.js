@@ -68,6 +68,81 @@
     });
   });
 
+  const normalizeSearchText = (value) => String(value ?? "")
+    .toLocaleLowerCase("tr-TR")
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/ı/g, "i")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  document.querySelectorAll("[data-section-search]").forEach((panel) => {
+    const collection = panel.closest("[data-section-search-collection]");
+    const form = panel.querySelector(".section-search-form");
+    const input = panel.querySelector("[data-section-search-input]");
+    const clearButton = panel.querySelector("[data-section-search-clear]");
+    const status = panel.querySelector("[data-section-search-status]");
+    const empty = panel.querySelector("[data-section-search-empty]");
+    if (!collection || !form || !input || !clearButton || !status || !empty) return;
+
+    const items = Array.from(collection.querySelectorAll("[data-section-search-item]"));
+    const groups = Array.from(collection.querySelectorAll("[data-section-search-group]"));
+    const groupLinks = Array.from(collection.querySelectorAll("[data-section-search-group-link]"));
+    const total = Number(panel.dataset.searchTotal) || items.length;
+
+    const updateAddress = (query) => {
+      const url = new URL(window.location.href);
+      if (query) url.searchParams.set("arama", query);
+      else url.searchParams.delete("arama");
+      window.history.replaceState({}, "", `${url.pathname}${url.search}${url.hash}`);
+    };
+
+    const applySectionSearch = ({ updateUrl = true } = {}) => {
+      const rawQuery = input.value.trim();
+      const tokens = normalizeSearchText(rawQuery).split(" ").filter(Boolean);
+      let visibleCount = 0;
+
+      items.forEach((item) => {
+        const haystack = normalizeSearchText(item.dataset.searchText);
+        const matches = tokens.length === 0 || tokens.every((token) => haystack.includes(token));
+        item.hidden = !matches;
+        if (matches) visibleCount += 1;
+      });
+
+      groups.forEach((group) => {
+        group.hidden = !Array.from(group.querySelectorAll("[data-section-search-item]")).some((item) => !item.hidden);
+      });
+      groupLinks.forEach((link) => {
+        const group = collection.querySelector(`#${link.dataset.sectionSearchGroupLink}`);
+        link.hidden = Boolean(group?.hidden);
+      });
+
+      const searching = tokens.length > 0;
+      collection.classList.toggle("is-searching", searching);
+      clearButton.hidden = !rawQuery;
+      empty.hidden = !(searching && visibleCount === 0);
+      status.textContent = searching
+        ? `${visibleCount} sonuç · ${total} kayıt içinde`
+        : `${total} kayıt`;
+      if (updateUrl) updateAddress(rawQuery);
+    };
+
+    form.addEventListener("submit", (event) => {
+      event.preventDefault();
+      applySectionSearch();
+    });
+    input.addEventListener("input", () => applySectionSearch());
+    clearButton.addEventListener("click", () => {
+      input.value = "";
+      applySectionSearch();
+      input.focus();
+    });
+
+    const initialQuery = new URL(window.location.href).searchParams.get("arama") || "";
+    if (initialQuery) input.value = initialQuery;
+    applySectionSearch({ updateUrl: false });
+  });
+
   const roadmapChecks = Array.from(document.querySelectorAll("[data-roadmap-book]"));
   if (roadmapChecks.length) {
     let readBooks = storage.get("zg_read_books", []);
