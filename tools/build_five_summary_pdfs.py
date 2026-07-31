@@ -134,9 +134,17 @@ class PdfBook:
         divider_pages = sum(1 for section in sections if section != "BAŞLANGIÇ")
         artwork_pages = len(self.chapter_art)
         note_pages = 0
-        for section, chapters in sections.items():
-            without_art = [chapter for chapter in chapters if chapter["id"] not in self.chapter_art]
-            note_pages += len(self.note_groups(without_art))
+        # Match the real reading order: an artwork page breaks a run of compact
+        # note chapters, so notes on its two sides cannot share one page.
+        for chapters in sections.values():
+            note_run: list[dict] = []
+            for chapter in chapters:
+                if chapter["id"] in self.chapter_art:
+                    note_pages += len(self.note_groups(note_run))
+                    note_run = []
+                else:
+                    note_run.append(chapter)
+            note_pages += len(self.note_groups(note_run))
         # Cover + opening + contents + section dividers + art chapters + text notes + sources.
         return 3 + divider_pages + artwork_pages + note_pages + 1
 
@@ -202,11 +210,16 @@ class PdfBook:
         c.setFillColor(self.ink)
         c.setFont("ZGArial-Bold", 12)
         c.drawString(47 * mm, 244 * mm, self.summary["author"].upper())
+        cover_title_width = 62 * mm
+        title_size = 27.0
+        longest_word = max(self.summary["title"].split(), key=len)
+        while pdfmetrics.stringWidth(longest_word, "ZGArial-Bold", title_size) > cover_title_width and title_size > 18:
+            title_size -= 0.5
         title_style = ParagraphStyle(
-            "CoverTitle", fontName="ZGArial-Bold", fontSize=27, leading=30.5,
+            "CoverTitle", fontName="ZGArial-Bold", fontSize=title_size, leading=title_size * 1.13,
             textColor=BODY, alignment=TA_LEFT,
         )
-        y = draw_rich(c, self.summary["title"], title_style, 47 * mm, 232 * mm, 62 * mm)
+        y = draw_rich(c, self.summary["title"], title_style, 47 * mm, 232 * mm, cover_title_width)
         c.setFillColor(MUTED)
         c.setFont("ZGArial", 10.2)
         c.drawString(47 * mm, y - 16 * mm, f"{self.total_pages} sayfalık görselleştirilmiş geniş özet")

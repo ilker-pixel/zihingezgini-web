@@ -1,0 +1,324 @@
+{
+  "bookNo": 99,
+  "title": "Özgürlük Üzerine",
+  "author": "John Stuart Mill",
+  "subtitle": "Çoğunluğun da bir zorba olabileceğini, yanlış fikrin bile hakikate hizmet edebileceğini ve yetişkin bireyin kendi hayat deneyine hangi sınırda karışılmaması gerektiğini günlük çatışmalarla anlatan özgürlük rehberi.",
+  "coverImage": "/images/summary-art-99-ozgurluk-uzerine-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/99-ozgurluk-uzerine-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#68506F",
+  "meta": {
+    "originalTitle": "On Liberty",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Çoğunluğun da bir zorba olabileceğini, yanlış fikrin bile hakikate hizmet edebileceğini ve yetişkin bireyin kendi hayat deneyine hangi sınırda karışılmaması gerektiğini günlük çatışmalarla anlatan özgürlük rehberi.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Project Gutenberg - On Liberty tam metni",
+      "url": "https://www.gutenberg.org/files/34901/34901-h/34901-h.htm"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - John Stuart Mill",
+      "url": "https://plato.stanford.edu/entries/mill/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Mill",
+      "url": "https://iep.utm.edu/milljs/"
+    },
+    {
+      "id": 4,
+      "title": "Liberty Fund - On Liberty",
+      "url": "https://oll.libertyfund.org/title/mill-on-liberty-and-the-subjection-of-women-1879-ed"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Mill irade özgürlüğünü değil toplumun birey üzerindeki meşru gücünü inceler. Soru şudur: Devlet veya çoğunluk bir yetişkinin davranışına ne zaman haklı olarak karışabilir?",
+        "Cevabı zarar ilkesidir, fakat zarar sözcüğü kolay değildir. Hakaret, ekonomik kayıp, risk, incinme ve ortak sorumluluk arasındaki sınırlar tartışma ister.",
+        "Kitap 1859'un erkek merkezli ve sömürgeci kabullerini taşır. Rehber güçlü özgürlük savını günümüz eşitlik ve güç sorunlarıyla birlikte sınayacak."
+      ]
+    },
+    {
+      "id": "durak-02-kral-gidince-zorbalik-bitmedi",
+      "section": "BİRİNCİ KISIM · ÇOĞUNLUĞUN GÖLGESİ",
+      "title": "Kral gidince zorbalık bitmedi",
+      "paragraphs": [
+        "Eski özgürlük mücadelesi hükümdarın gücünü sınırlamak üzerineydi. Demokrasi gelince halkın kendi kendini yönettiği ve artık baskı sorunu kalmadığı sanılabilirdi. Mill çoğunluğun azınlığa baskısını gösterir.",
+        "Apartman toplantısında yirmi kişi bir kişinin evinde hangi kitabı okuyacağına karar verirse oy çokluğu müdahaleyi doğru yapmaz.",
+        "Toplumsal zorbalık bazen yasadan daha derine işler. İş kaybı, dışlanma ve itibarsızlaştırma insanı resmi ceza olmadan susturabilir.",
+        "Özgürlük bu yüzden yalnız sandık ve anayasa değildir. Farklı yaşamın nefes alabileceği kültürel alan da gerekir."
+      ]
+    },
+    {
+      "id": "durak-03-zarar-ilkesi",
+      "section": "BİRİNCİ KISIM · ÇOĞUNLUĞUN GÖLGESİ",
+      "title": "Zarar ilkesi",
+      "paragraphs": [
+        "Mill'e göre medeni toplum bir yetişkine kendi iyiliği için zor kullanmamalıdır. Müdahalenin temel gerekçesi başkalarına zararı önlemektir.",
+        "Kask takmayan bisikletçi ağırlıkla kendi riskini alır; kalabalıkta tehlikeli hızla sürmek başkasını da riske sokar. Sınır davranışın etkisinde belirir.",
+        "Nasihat, ikna ve eleştiri serbesttir. Yasak ve ceza için daha yüksek eşik gerekir. Birinin seçimini beğenmemek zarar kanıtı değildir.",
+        "İlke pusuladır, otomatik hesap makinesi değil. Salgın, çevre kirliliği ve finansal risk gibi dağınık zararlar daha karmaşık uygulama gerektirir."
+      ]
+    },
+    {
+      "id": "durak-04-kendi-iyiligin-icin-seni-zorlamak",
+      "section": "BİRİNCİ KISIM · ÇOĞUNLUĞUN GÖLGESİ",
+      "title": "Kendi iyiliğin için seni zorlamak",
+      "paragraphs": [
+        "Paternalizm, yetişkini kendi iyiliği için zorlamaktır. Mill kişinin yanlış seçim yapma hakkını savunur; çünkü kendi hayatının acısını, değerini ve koşullarını en yakından o bilir.",
+        "Arkadaşınız kötü bulduğunuz mesleği seçebilir. Onu uyarabilirsiniz, diplomasını saklayıp kararını engellemek başka şeydir.",
+        "Bunun istisnaları bilgi ve özgürlük eksikliğinde ortaya çıkar. Çökmek üzere olan köprüye bilmeden yürüyen kişiyi durdurmak, seçimini ezmek değil gerekli bilgiyi ulaştırmaktır.",
+        "Bağımlılık, çocukluk ve ağır bilişsel bozulma gibi durumlar özerklik kapasitesini zor soruya çevirir. Mill'in sade ilkesi uygulamada dikkat ister."
+      ]
+    },
+    {
+      "id": "durak-05-susturulan-fikir-dogru-olabilir",
+      "section": "İKİNCİ KISIM · FİKİRLERİN PAZARI",
+      "title": "Susturulan fikir doğru olabilir",
+      "paragraphs": [
+        "Bir fikri susturursak yanlışlanabilir olduğumuzu unutmuş oluruz. Tarihte çoğunluk ve otorite defalarca yanılmıştır. Kesinlik hissi, yanılmazlık kanıtı değildir.",
+        "Mahkemede tek tanığı dinleyip hüküm vermek kolaydır. Karşı tanık rahatsız edici olsa bile olayın eksik yönünü gösterebilir.",
+        "Fikir yanlışsa bile konuşması doğru görüşün gerekçelerini sınar. Tartışılmayan hakikat canlı anlayıştan ezberlenmiş slogana dönüşür.",
+        "Mill'in güçlü iddiası budur: İfade özgürlüğü yalnız konuşanın hakkı değil, dinleyenin gerçeği arama imkanına aittir."
+      ]
+    },
+    {
+      "id": "durak-06-yanlis-fikirdeki-dogru-parca",
+      "section": "İKİNCİ KISIM · FİKİRLERİN PAZARI",
+      "title": "Yanlış fikirdeki doğru parça",
+      "paragraphs": [
+        "Çatışan görüşlerin biri tamamen doğru, diğeri tamamen yanlış olmayabilir. Her biri deneyimin başka parçasını taşıyabilir; tartışma daha geniş hakikati kurar.",
+        "İşyerinde biri hız, diğeri güvenlik ister. Tek taraf kazanırsa ya teslimat kaçar ya kaza riski büyür. Çözüm karşıtların taşıdığı gerçek ihtiyaçları birleştirir.",
+        "Mill özellikle siyasal kampların birbirinin kör noktasını düzelttiğini düşünür. Düzen ile ilerleme, eşitlik ile özgürlük tek kutupta tamamlanmayabilir.",
+        "Bu her orta yolun doğru olduğu anlamına gelmez. Kanıt bir tarafı açıkça destekleyebilir; yine de karşı görüşü anlamadan kararın sınırı görülmez."
+      ]
+    },
+    {
+      "id": "durak-07-olu-dogma-ile-yasayan-hakikat",
+      "section": "İKİNCİ KISIM · FİKİRLERİN PAZARI",
+      "title": "Ölü dogma ile yaşayan hakikat",
+      "paragraphs": [
+        "Bir inancı doğru olduğu için tartışmadan korumak, zamanla onun neden doğru olduğunu unutturur. İnsan cümleyi tekrarlar ama yeni duruma uygulayamaz.",
+        "Ezberlediği formülü sorunun biçimi değişince kullanamayan öğrenci gibi, toplum da sınanmayan ilkeleri taşıyamaz.",
+        "Karşı görüş hakikatin spor partneridir. İtiraz gerekçeyi zorlar, zayıf ifadeyi düzeltir ve inancı bilinçli seçime dönüştürür.",
+        "Mill için düşünce huzuru değil zihinsel canlılık önemlidir. Rahatsızlık bazen öğrenmenin fiyatıdır."
+      ]
+    },
+    {
+      "id": "durak-08-soz-ne-zaman-eyleme-donusur",
+      "section": "İKİNCİ KISIM · FİKİRLERİN PAZARI",
+      "title": "Söz ne zaman eyleme dönüşür?",
+      "paragraphs": [
+        "Mill aynı cümlenin bağlama göre farklı sonuç doğurabileceğini söyler. Tahıl tüccarlarının yoksulları aç bıraktığını gazetede yazmak ile öfkeli kalabalığın önünde tüccarın evini göstererek bağırmak aynı değildir.",
+        "Sözcük hava boşluğunda durmaz. Hedef, yakın tehlike, kalabalığın durumu ve konuşanın niyeti zarar ihtimalini değiştirir.",
+        "Bu ayrım ifade özgürlüğünün sınırsız ses çıkarma olmadığını gösterir. Doğrudan şiddet tehdidi, taciz ve kişisel hedef gösterme başkasının güvenliğini bozar.",
+        "Yine de belirsiz 'rahatsızlık' gerekçesi eleştiriyi susturmak için kullanılmamalıdır. Eşik somut ve açıklanabilir olmalıdır."
+      ]
+    },
+    {
+      "id": "durak-09-hayat-bir-deney-alanidir",
+      "section": "ÜÇÜNCÜ KISIM · BİREYSELLİK",
+      "title": "Hayat bir deney alanıdır",
+      "paragraphs": [
+        "Mill insanların farklı yaşam biçimlerini denemesini insan gelişiminin koşulu sayar. Herkese tek doğru elbise giydirmek karakteri köreltir.",
+        "Bir bahçede yalnız tek tohum yetiştirirseniz iklim değiştiğinde bütün ürün kaybolabilir. Çeşitli hayat deneyleri toplumun öğrenme yedekleridir.",
+        "Deneyin bedeli ağırlıkla deneyene ait olmalıdır. Başkasını rızası dışında malzeme yapmak özgürlük değildir.",
+        "Farklı yaşayan kişi yalnız kendisi için değil, başkalarının görmediği yeni imkanları gösterdiği için de toplumsal değer taşır."
+      ]
+    },
+    {
+      "id": "durak-10-karakter-secimle-buyur",
+      "section": "ÜÇÜNCÜ KISIM · BİREYSELLİK",
+      "title": "Karakter seçimle büyür",
+      "paragraphs": [
+        "Doğru kararın hazır listesiyle yaşayan kişi itaatkar olabilir, gelişmiş karakter sahibi olmayabilir. Muhakeme, tercih yaparak ve sonucunu taşıyarak güçlenir.",
+        "Spor salonunda başkasının kaldırdığı ağırlığı izlemek kas yapmaz. Ahlaki ve pratik yetiler de kişisel seçim olmadan gelişmez.",
+        "Bu yüzden iyi niyetli aşırı koruma insanı çocuklaştırabilir. Hata ihtimali özgürlüğün maliyetidir, fakat ağır ve geri döndürülemez risklerde bilgi ile güvenlik ağı gerekir.",
+        "Mill bireyselliği bencil keyif değil, insan kapasitesinin işlenmesi olarak görür."
+      ]
+    },
+    {
+      "id": "durak-11-gelenek-pusula-mi-zincir-mi",
+      "section": "ÜÇÜNCÜ KISIM · BİREYSELLİK",
+      "title": "Gelenek pusula mı zincir mi?",
+      "paragraphs": [
+        "Gelenek geçmiş kuşakların deneyimini taşır ve her şeyi sıfırdan keşfetme yükünü azaltır. Fakat kişi nedenini bilmeden uyguladığında yaşayan rehber zincire dönüşebilir.",
+        "Ailede herkes aynı mesleği seçmiş olabilir. Bu yol size de uygun olabilir; yalnız 'bizde böyledir' cümlesi uygunluğun kanıtı değildir.",
+        "Mill geleneği yakmayı değil sınamayı ister. Kendi koşulunuzda işe yarıyorsa bilinçli biçimde sahiplenirsiniz.",
+        "Özgünlük sırf farklı görünmek değildir. Kopya ile isyan arasında, düşünüp seçilmiş hayat vardır."
+      ]
+    },
+    {
+      "id": "durak-12-eksantrik-insanin-toplumsal-degeri",
+      "section": "ÜÇÜNCÜ KISIM · BİREYSELLİK",
+      "title": "Eksantrik insanın toplumsal değeri",
+      "paragraphs": [
+        "Toplumda güçlü karakter azaldıkça sıra dışılık kuşkuyla karşılanır. Mill eksantrikliğin bazen canlılık ve bağımsız düşünce işareti olduğunu savunur.",
+        "Mahallede yağmur suyu toplayan tuhaf komşu yıllar sonra kuraklıkta işe yarayan yöntemi göstermiş olabilir. İlk farklılık çoğu zaman gereksiz görünür.",
+        "Her tuhaflık değerli değildir; zarar ve kanıt yine ölçüdür. Fakat yalnız alışılmadık olduğu için bastırmak toplumu kendi yenilik laboratuvarından mahrum bırakır.",
+        "Hoşgörü yalnız sevdiğimiz çeşitlilik için değil anlamadığımız zararsız hayatlar için sınanır."
+      ]
+    },
+    {
+      "id": "durak-13-kendine-iliskin-ve-baskasina-iliskin-eylem",
+      "section": "DÖRDÜNCÜ KISIM · UYGULAMA",
+      "title": "Kendine ilişkin ve başkasına ilişkin eylem",
+      "paragraphs": [
+        "Mill bazı eylemleri ağırlıkla kişinin kendisini, bazılarını doğrudan başkalarını etkileyen alanlara ayırır. Gerçek hayatta sınır geçirgendir; borç, bakım yükümlülüğü ve kamu kaynakları bağlantı yaratır.",
+        "Gece yüksek sesle müzik dinlemek evde yalnızsanız kişisel tercih, duvarın öte yanında bebek uyurken başkasının alanına taşan etkidir.",
+        "Her dolaylı etki yasak gerekçesi olursa özgür alan kalmaz. Toplum somut, ciddi ve makul biçimde öngörülebilir zararı ayırt etmelidir.",
+        "İlke komşuluğu görünür kılar: Özgürlüğünüz vardır, fakat başkasının eşit özgürlüğüyle aynı koridorda yürür."
+      ]
+    },
+    {
+      "id": "durak-14-sozlesme-ve-yukumluluk",
+      "section": "DÖRDÜNCÜ KISIM · UYGULAMA",
+      "title": "Sözleşme ve yükümlülük",
+      "paragraphs": [
+        "Bir kişi özgürce söz verdiğinde eylemi artık yalnız kendisini ilgilendirmeyebilir. İş sözleşmesi, çocuk bakımı veya borç başkalarının planını o söze bağlar.",
+        "Arkadaşınıza havaalanına götürme sözü verip son anda keyfim değişti demek kişisel özgürlük değil, başkasına yüklenen maliyettir.",
+        "Yine de her söz sonsuza dek kölelik yaratmaz. Koşullar değişebilir, adaletsiz sözleşme ve güç eşitsizliği rızayı sakatlayabilir.",
+        "Mill özgürlüğü bağsızlık olarak değil, seçilmiş yükümlülüklerin sorumluluğuyla birlikte düşünür."
+      ]
+    },
+    {
+      "id": "durak-15-ticaret-risk-ve-duzenleme",
+      "section": "DÖRDÜNCÜ KISIM · UYGULAMA",
+      "title": "Ticaret, risk ve düzenleme",
+      "paragraphs": [
+        "Satıcı ile alıcı arasındaki ilişki başkasına etki ettiği için tamamen özel değildir. Sahte ürün, gizli tehlike ve bilgi eşitsizliği müdahaleyi haklı kılabilir.",
+        "Zehirli madde şeker paketi gibi satılıyorsa 'alıcı özgürce seçti' denemez. Etiket ve güvenlik standardı seçimi mümkün kılan altyapıdır.",
+        "Mill aşırı düzenlemenin yenilik ve kişisel sorumluluğu boğabileceğini de düşünür. Sorun kuralın varlığı değil amacıyla orantısıdır.",
+        "Bugün platformlar ve finansal ürünlerde aynı soru sürer: Bilgi verilmesi yeterli mi, yoksa tasarım insanın zayıflığını sistemli biçimde sömürüyor mu?"
+      ]
+    },
+    {
+      "id": "durak-16-egitim-ve-cocuklar",
+      "section": "DÖRDÜNCÜ KISIM · UYGULAMA",
+      "title": "Eğitim ve çocuklar",
+      "paragraphs": [
+        "Mill zarar ilkesini tam kapasite sahibi yetişkinlere uygular. Çocukların gelecekte özgür birey olabilmesi için eğitim ve korunma gerekir.",
+        "Yüzme bilmeyen çocuğu özgürlük adına derin suya bırakmak özerklik değil ihmaldir. Ama onu hayat boyu kıyıda tutmak da yetisini engeller.",
+        "Eğitimin devletçe sağlanmasını desteklerken tek tip devlet eğitiminin zihinleri aynı kalıba sokmasından çekinir. Ortak temel ile çoğul yöntem arasında denge arar.",
+        "Çocuğun bugünkü güvenliği ve yarının seçim kapasitesi aynı anda korunmalıdır."
+      ]
+    },
+    {
+      "id": "durak-17-mill-in-kor-noktalari",
+      "section": "SON DURAKLAR",
+      "title": "Mill'in kör noktaları",
+      "paragraphs": [
+        "Mill özgürlük ilkesini 'barbar' saydığı toplumlara tam uygulamaz ve sömürge yönetimini belli koşullarda savunur. Bu, evrensel özgürlük iddiasıyla ciddi çelişkidir.",
+        "Ayrıca maddi yoksulluk, cinsiyet ve işveren gücü seçimleri kağıt üzerinde özgür, gerçekte zorunlu hale getirebilir. Yalnız devlet müdahalesine bakmak özel iktidarı kaçırır.",
+        "Harriet Taylor Mill'in düşünsel katkısı uzun süre gölgede kalmıştır. Kitabın özgür bireyi, bakım ve bağımlılık ilişkileriyle daha zengin düşünülmelidir."
+      ]
+    },
+    {
+      "id": "durak-18-sosyal-medyada-fikir-pazari",
+      "section": "SON DURAKLAR",
+      "title": "Sosyal medyada fikir pazarı",
+      "paragraphs": [
+        "Mill karşıt fikirlerin çarpışmasının hakikati güçlendireceğini düşünür. Fakat bugünün platformları doğruyu değil dikkati ödüllendirebilir; öfke ve yalan hız avantajı kazanabilir.",
+        "Fikir pazarı iyi işlemek için erişim, güvenilir bilgi ve yanıt imkanına ihtiyaç duyar. Tek şirketin algoritması görünürlük kapısını kontrol ediyorsa pazar nötr değildir.",
+        "Çözüm kolay sansür de sınırsız dağıtım da değildir. Şeffaf kurallar, itiraz yolları ve medya okuryazarlığı özgür tartışmanın altyapısıdır."
+      ]
+    },
+    {
+      "id": "durak-19-gundelik-ozgurluk-kontrolu",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik özgürlük kontrolü",
+      "paragraphs": [
+        "Bir davranışı yasaklamak istediğinizde dört soru sorun: Somut zarar ne, kime, ne kadar yakın ve daha hafif çözüm var mı? Yalnız rahatsızlık veya ahlaki beğenmeme mi var?",
+        "Bir fikri susturmak istediğinizde onu çürütecek kanıtı ve dinleyenin karar hakkını düşünün. Tehdit ile eleştiriyi ayırın.",
+        "Kendi hayatınızda ise tek bir küçük deney seçin. Başkasına zarar vermeden size uygun yaşamı yalnız gelenek yüzünden ertelediğiniz yer neresi?"
+      ]
+    },
+    {
+      "id": "durak-20-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Yetişkin bireyin düşüncesi ve hayat deneyi, başkasına somut zarar vermediği sürece çoğunluğun beğenisine teslim edilemez; çünkü hakikat ve karakter ancak özgür sınamada gelişir.",
+        "Akılda kalacak görüntü farklı tohumların bahçesidir: Tek tip düzen temiz görünür, fakat toplumun öğrenme ve yenilenme gücü çeşitlilikte saklıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-kral-gidince-zorbalik-bitmedi": {
+      "image": "/images/summary-art-99-chapter-01-majority-shadow-v1.webp",
+      "imageCaption": "Oy çokluğu ortak kararı meşrulaştırabilir, fakat bir kişinin özel hayatına sınırsız girme hakkı vermez."
+    },
+    "durak-03-zarar-ilkesi": {
+      "image": "/images/summary-art-99-chapter-02-harm-boundary-v1.webp",
+      "imageCaption": "Kişisel risk ile başkasına taşan zarar arasındaki sınır, müdahalenin meşru olup olmadığını belirleyen pusuladır."
+    },
+    "durak-04-kendi-iyiligin-icin-seni-zorlamak": {
+      "image": "/images/summary-art-99-chapter-03-dangerous-bridge-v1.webp",
+      "imageCaption": "Tehlikeyi bilmeyeni köprüde durdurmak onun değerini seçmek değil, özgür karar için eksik bilgiyi tamamlamaktır."
+    },
+    "durak-05-susturulan-fikir-dogru-olabilir": {
+      "image": "/images/summary-art-99-chapter-04-silenced-witness-v1.webp",
+      "imageCaption": "Rahatsız edici tanığı susturmak yalnız onun sesini değil, dinleyenin gerçeğin eksik parçasına ulaşma imkanını da alır."
+    },
+    "durak-06-yanlis-fikirdeki-dogru-parca": {
+      "image": "/images/summary-art-99-chapter-05-two-lamps-v1.webp",
+      "imageCaption": "Karşıt görüşler aynı odanın farklı köşelerini aydınlatabilir; geniş görüntü iki ışığın sınanmasıyla oluşur."
+    },
+    "durak-07-olu-dogma-ile-yasayan-hakikat": {
+      "image": "/images/summary-art-99-chapter-06-living-truth-v1.webp",
+      "imageCaption": "İtiraz görmeyen doğru fikir kullanılmayan kas gibi zayıflar; tartışma gerekçeyi canlı tutar."
+    },
+    "durak-08-soz-ne-zaman-eyleme-donusur": {
+      "image": "/images/summary-art-99-chapter-07-words-in-crowd-v1.webp",
+      "imageCaption": "Aynı fikir makalede tartışma, öfkeli kalabalık önünde hedef gösterme olduğunda yakın zarar doğurabilir."
+    },
+    "durak-09-hayat-bir-deney-alanidir": {
+      "image": "/images/summary-art-99-chapter-08-many-seeds-v1.webp",
+      "imageCaption": "Farklı yaşam deneyleri tek ürünlü tarlaya karşı toplumun öğrenme ve dayanıklılık çeşitliliğini korur."
+    },
+    "durak-10-karakter-secimle-buyur": {
+      "image": "/images/summary-art-99-chapter-09-choice-muscle-v1.webp",
+      "imageCaption": "Karakter hazır doğruyu seyrederek değil, seçim yapıp sonucundan öğrenerek güçlenen bir kas gibidir."
+    },
+    "durak-11-gelenek-pusula-mi-zincir-mi": {
+      "image": "/images/summary-art-99-chapter-10-compass-and-chain-v1.webp",
+      "imageCaption": "Gelenek yön gösteren pusula olabilir; nedenini sormadan bağlanınca hareketi kısıtlayan zincire dönüşür."
+    },
+    "durak-12-eksantrik-insanin-toplumsal-degeri": {
+      "image": "/images/summary-art-99-chapter-11-unusual-neighbor-v1.webp",
+      "imageCaption": "Bugün tuhaf görünen zararsız deney, yarının ortak sorununa beklenmedik bir çözüm gösterebilir."
+    },
+    "durak-13-kendine-iliskin-ve-baskasina-iliskin-eylem": {
+      "image": "/images/summary-art-99-chapter-12-shared-wall-v1.webp",
+      "imageCaption": "Kişisel tercih ortak duvardan geçip başkasının uykusunu bozduğunda özgürlük alanları birbirine temas eder."
+    },
+    "durak-14-sozlesme-ve-yukumluluk": {
+      "image": "/images/summary-art-99-chapter-13-promise-rope-v1.webp",
+      "imageCaption": "Özgürce verilen söz başkasının planını size bağladığında seçim, yeni bir sorumluluk ipi oluşturur."
+    },
+    "durak-15-ticaret-risk-ve-duzenleme": {
+      "image": "/images/summary-art-99-chapter-14-market-label-v1.webp",
+      "imageCaption": "Doğru etiket ve güvenlik standardı seçimi yok etmez; alıcının gerçek seçim yapabilmesi için zemin kurar."
+    },
+    "durak-16-egitim-ve-cocuklar": {
+      "image": "/images/summary-art-99-chapter-15-learning-to-swim-v1.webp",
+      "imageCaption": "Çocuğu korumak onu sonsuza dek kıyıda tutmak değil, güvenli destekle kendi yüzme kapasitesini kurmaktır."
+    },
+    "durak-17-mill-in-kor-noktalari": {
+      "image": "/images/summary-art-99-chapter-16-liberty-blind-spots-v1.webp",
+      "imageCaption": "Özgürlük ilkesi sömürge, yoksulluk ve özel güç karşısındaki kör noktaları görülmeden gerçekten evrensel olamaz."
+    }
+  }
+}

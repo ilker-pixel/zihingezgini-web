@@ -1,0 +1,324 @@
+{
+  "bookNo": 18,
+  "title": "Sessiz Bahar",
+  "author": "Rachel Carson",
+  "subtitle": "Bir kasabanın kuş seslerini susturan görünmez kimyasallardan başlayıp tarım, su, toprak, beden, şirket ve kamu sorumluluğunu aynı canlı ağında buluşturan; çevre düşüncesini değiştirmiş araştırmacı anlatı.",
+  "coverImage": "/images/summary-art-18-sessiz-bahar-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/18-sessiz-bahar-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#667542",
+  "meta": {
+    "originalTitle": "Silent Spring",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir kasabanın kuş seslerini susturan görünmez kimyasallardan başlayıp tarım, su, toprak, beden, şirket ve kamu sorumluluğunu aynı canlı ağında buluşturan; çevre düşüncesini değiştirmiş araştırmacı anlatı.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Rachel Carson Council - Silent Spring",
+      "url": "https://www.rachelcarson.org/silent-spring"
+    },
+    {
+      "id": 2,
+      "title": "US EPA - DDT'nin kısa tarihi ve düzenlenmesi",
+      "url": "https://www.epa.gov/ingredients-used-pesticide-products/ddt-brief-history-and-status"
+    },
+    {
+      "id": 3,
+      "title": "US Fish and Wildlife Service - DDT ve yırtıcı kuşların toparlanması",
+      "url": "https://www.fws.gov/story/threats-birds-ddt"
+    },
+    {
+      "id": 4,
+      "title": "WHO - Vektör kontrolünde DDT değerlendirmesi",
+      "url": "https://www.who.int/publications/i/item/9789241572415"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Sessiz Bahar bütün kimyasalları şeytan ilan eden bir kitap değildir. Carson'ın hedefi, güçlü ve kalıcı zehirlerin etkileri anlaşılmadan geniş alanlara savrulması, zarar kanıtlarının küçümsenmesi ve halka seçim hakkı verilmemesidir.",
+        "Kitap 1962'nin bilgisiyle yazıldı. Bazı maddeler ve düzenlemeler değişti, fakat temel soru canlı kaldı: Bir teknolojinin kısa vadeli yararı, uzun vadeli ve dağınık bedellerinden nasıl ayrılır?",
+        "Rehber, Carson'ın bölüm yürüyüşünü izler; su, toprak, kuş, böcek ve insan bedenini ayrı dosyalar gibi değil birbirine açılan kapılar olarak anlatır."
+      ]
+    },
+    {
+      "id": "durak-02-yarin-icin-bir-masal",
+      "section": "BİRİNCİ KISIM · GÖRÜNMEZ YAĞMUR",
+      "title": "Yarın için bir masal",
+      "paragraphs": [
+        "Carson önce adı olmayan bir Amerikan kasabası kurar. Çiftlikler, bahçeler, balık dolu dereler ve ilkbaharda kuş sesleri vardır. Sonra açıklanamayan bir gölge iner; hayvanlar ölür, çocuklar hastalanır, bahar sessizleşir.",
+        "Bu kasaba haritada tek nokta değildir. Yazar, birçok gerçek yerde görülen olayları birleştirerek okura geleceğin provasını gösterir. Masalın cadısı yoktur; felaket insanların kendi uygulamalarından doğar.",
+        "Bir duman alarmını düşünün. Alarm size evin kesin yanacağını söylemez; kokuyu görmezden gelirseniz ne olabileceğini gösterir. Açılış bölümü de bilimsel kanıtların yerine geçmez, onları dinlemeye hazırlar.",
+        "Kuşsuz bahar görüntüsü kitabın hafıza kancasıdır. Sorunu tonlarca kimyasal adıyla değil, kaybolan bir sabah sesiyle hissederiz."
+      ]
+    },
+    {
+      "id": "durak-03-savas-laboratuvarindan-tarlaya",
+      "section": "BİRİNCİ KISIM · GÖRÜNMEZ YAĞMUR",
+      "title": "Savaş laboratuvarından tarlaya",
+      "paragraphs": [
+        "İkinci Dünya Savaşı sırasında geliştirilen sentetik kimyasallar, savaş sonrasında böceklerle mücadelede büyük umut yarattı. DDT gibi maddeler ucuz, etkili ve kalıcıydı. Tam da bu kalıcılık daha sonra sorunun merkezine yerleşti.",
+        "Bir çiviyi çok iyi çakan çekicin her sorunu çivi gibi göstermesi mümkündür. Bir böcek ilacı kısa vadede zararlıyı azaltınca daha geniş alan, daha yüksek doz ve daha sık uygulama kolayca normalleşir.",
+        "Carson doğanın kimyasal müdahaleye hazırlıksız olduğunu söyler. Yeni moleküller toprağa, suya ve yağ dokularına girer; uygulama bittikten sonra da yolculuğunu sürdürür.",
+        "Kitabın itirazı yeniliğe değil, kontrolsüz ölçeğe yönelir. Laboratuvarda etkili görünen ürün, milyonlarca canlı ve değişken çevreyle karşılaşınca başka sonuçlar doğurabilir."
+      ]
+    },
+    {
+      "id": "durak-04-iksir-denilen-zehir",
+      "section": "BİRİNCİ KISIM · GÖRÜNMEZ YAĞMUR",
+      "title": "İksir denilen zehir",
+      "paragraphs": [
+        "Ürünler halka mucize çözüm gibi sunulurken Carson sinir sistemini bozan, hormonlara ve hücre süreçlerine karışabilen etkileri anlatır. 'Böcek öldürücü' etiketi, maddenin yalnız hedef böceği tanıdığı yanılsamasını yaratır.",
+        "Bir apartmanın zilini çalmak yerine bütün elektrik hattına yüksek voltaj vermek gibi düşünün. Zararlı hedeflenir ama aynı biyolojik temel süreçleri kullanan başka canlılar da etkilenebilir.",
+        "Doz önemlidir, fakat maruz kalma yalnız tek büyük olay değildir. Küçük miktarlar besin zincirinde birikebilir; farklı maddeler birlikte beklenmedik etkiler gösterebilir.",
+        "Carson'ın dili zaman zaman serttir çünkü teknik terimlerin altında saklanan ahlaki tercihi görünür kılmak ister: Kimin tarlası korunuyor, kimin suyu ve bedeni risk alıyor?"
+      ]
+    },
+    {
+      "id": "durak-05-topragin-altindaki-sehir",
+      "section": "İKİNCİ KISIM · CANLI AĞ",
+      "title": "Toprağın altındaki şehir",
+      "paragraphs": [
+        "Toprak boş kahverengi madde değildir. Bakteriler, mantarlar, solucanlar ve küçük canlılar organik kalıntıları parçalar, besinleri döndürür ve köklerin yaşayacağı yapıyı kurar.",
+        "Bir şehrin çöpçülerini, su ekibini ve tamircilerini aynı gün ortadan kaldırdığınızı düşünün. Binalar ayakta görünür ama sistem içeriden çökmeye başlar. Toprak canlıları da tarlanın görünmeyen hizmet ağıdır.",
+        "Kalıcı kimyasallar üstten püskürtülse bile yağmurla aşağı iner, parçalanma hızını ve tür dengesini etkileyebilir. Sorun yalnız o yılın hasadı değil, toprağın sonraki yıllardaki üretkenliğidir.",
+        "Carson böylece 'zararlı böcek öldü mü?' sorusunu büyütür. Uygulama, ürünün dayandığı görünmez topluluğa ne yaptı?"
+      ]
+    },
+    {
+      "id": "durak-06-su-hicbir-seyi-yerinde-birakmaz",
+      "section": "İKİNCİ KISIM · CANLI AĞ",
+      "title": "Su hiçbir şeyi yerinde bırakmaz",
+      "paragraphs": [
+        "Tarlaya düşen kimyasal tarla sınırında durmaz. Yağmur onu dereye, göle ve yeraltı suyuna taşıyabilir. Suda yaşayan böcekler, balıklar ve onları yiyen kuşlar yeni bir maruz kalma zincirine girer.",
+        "Mutfakta yere dökülen boya su kanalına karıştığında artık tek odanın sorunu değildir. Su hareket eder, seyreltir ama aynı zamanda uzaklara taşır ve çökellerde biriktirebilir.",
+        "Carson'ın örneklerinde balık ölümleri bazen uygulamadan günler sonra veya kilometreler ötede belirir. Neden ile sonuç arasındaki mesafe sorumluluğu görünmez kılar.",
+        "Modern çevre yönetiminin havza yaklaşımı bu dersi taşır: Su, idari sınırları tanımaz. Bir belediyenin kararı aşağıdaki köyün içme suyuna dönüşebilir."
+      ]
+    },
+    {
+      "id": "durak-07-biriken-kucuk-dozlar",
+      "section": "İKİNCİ KISIM · CANLI AĞ",
+      "title": "Biriken küçük dozlar",
+      "paragraphs": [
+        "Bazı kalıcı maddeler canlı dokusunda kolayca parçalanmaz. Küçük su canlısı az miktar alır, onu çok sayıda yiyen balık daha fazlasını biriktirir, balığı yiyen kuşta yoğunluk daha da artar.",
+        "Her biri bir damla boya taşıyan yüz süngeri tek kovada sıkarsanız renk koyulaşır. Biyobirikim ve besin zincirinde yoğunlaşma da dağınık küçük miktarların üst basamakta birleşmesini anlatır.",
+        "DDT'nin parçalanma ürünü DDE, yırtıcı kuşlarda yumurta kabuğunun incelmesiyle ilişkilendirildi. Yetişkin kuş hemen ölmese bile gelecek kuşak kırılgan hale gelebilir.",
+        "Bu sahne risk hesabını değiştirir. Yalnız uygulama anındaki zehirlenmeyi değil, zaman içinde biriken ve üremeyi etkileyen sonuçları da izlemek gerekir."
+      ]
+    },
+    {
+      "id": "durak-08-kuslarin-kirilan-gelecegi",
+      "section": "İKİNCİ KISIM · CANLI AĞ",
+      "title": "Kuşların kırılan geleceği",
+      "paragraphs": [
+        "Carson kuş ölümlerini kitabın duygusal ve bilimsel merkezine taşır. İlaçlanan alanlarda böcek yiyen kuşlar zehirlenir, tohum yiyenler kaplanmış tohumlardan etkilenir, yırtıcılar kirlenmiş avı tüketir.",
+        "Bahçede ölü bir ardıç kuşu tek olay gibi görünebilir. Aynı desen farklı kasabalarda tekrarlandığında kişisel üzüntü kamu kanıtına dönüşür. Vatandaş gözlemleri araştırmacıların dikkatini çeker.",
+        "Kuşlar yalnız güzel ses değildir; böcekleri yer, tohum taşır ve ekosistemin durumunu haber verir. Sessizlik bir estetik kayıp kadar sistemin alarmıdır.",
+        "Kitabın etkisi burada anlatım gücünden gelir. Carson sayıları küçümsemez; sayının temsil ettiği yaşamı tekrar görünür kılar."
+      ]
+    },
+    {
+      "id": "durak-09-hedef-disindaki-dostlar",
+      "section": "ÜÇÜNCÜ KISIM · KONTROLÜN TERSİ",
+      "title": "Hedef dışındaki dostlar",
+      "paragraphs": [
+        "Bir zararlı böceği öldürmek için geniş etkili ilaç kullanıldığında arılar, uğur böcekleri ve zararlıyı yiyen yırtıcılar da kaybolabilir. Doğal denetim zayıflayınca yeni salgınlar ortaya çıkabilir.",
+        "Bahçedeki hırsızı yakalamak için bütün güvenlik görevlilerini de binadan çıkardığınızı düşünün. İlk anda sessizlik sağlanır, sonra korumasız yapı daha büyük soruna açılır.",
+        "Carson doğadaki dengeyi donmuş bir huzur hali olarak anlatmaz. Türler sürekli etkileşir; birini sertçe çekmek diğerlerinin sayısını değiştirir.",
+        "Bu yüzden başarı yalnız ilk haftadaki ölü böcek sayısıyla ölçülmemelidir. Bir yıl sonra ürün, tozlaşma, doğal düşmanlar ve yeni zararlılar birlikte değerlendirilmelidir."
+      ]
+    },
+    {
+      "id": "durak-10-direncin-donen-kapisi",
+      "section": "ÜÇÜNCÜ KISIM · KONTROLÜN TERSİ",
+      "title": "Direncin dönen kapısı",
+      "paragraphs": [
+        "Bir ilaç ilk uygulamada böceklerin çoğunu öldürür. Doğuştan daha dayanıklı az sayıdaki birey yaşar ve ürer. Sonraki kuşaklarda aynı ilaç daha az etkili olur; doz artırılır veya yeni kimyasal aranır.",
+        "Antibiyotik direncinde olduğu gibi ilaç böceğe eğitim vermez. Zaten bulunan farklılıklar arasından dayanıklı olanları seçer. Uygulama, kendi gelecekteki başarısızlığının koşulunu hazırlayabilir.",
+        "Bir kilidi her gece aynı anahtarla korumaya çalışırken yalnız o anahtarı aşan hırsızların kalması gibi, tek yönteme aşırı güven rakibi süzer.",
+        "Carson'ın uyarısı günceldir: Evrim durmaz. Mücadele programı değişken, hedefli ve doğal düşmanları koruyan bir düzen kurmazsa kimyasal koşu bandına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-ates-karincasina-karsi-bombardiman",
+      "section": "ÜÇÜNCÜ KISIM · KONTROLÜN TERSİ",
+      "title": "Ateş karıncasına karşı bombardıman",
+      "paragraphs": [
+        "Carson, ateş karıncasına karşı yürütülen geniş alanlı ilaçlama programlarını örnek verir. Büyük bütçe ve uçaklar güçlü müdahale görüntüsü yaratır, fakat hedefin zararı ile uygulamanın toplam bedeli orantılı olmayabilir.",
+        "Bir mutfakta birkaç karınca gördüğü için bütün evi zehirli sisle doldurmak hızlı görünür. Oysa evcil hayvan, yiyecek ve komşu da aynı havayı solur. Ölçek büyüdükçe yan etki büyür.",
+        "Kamu programlarında başarısızlığı kabul etmek zordur; yatırılan para ve itibar devam baskısı yaratır. Carson bilimsel kanıt kadar kurumların bu körlüğüne de dikkat çeker.",
+        "Ders yalnız geçmişe ait değildir. Büyük proje, etkileyici teknoloji ve acil söylem bir araya geldiğinde 'daha hedefli seçenek var mı?' sorusu özellikle önem kazanır."
+      ]
+    },
+    {
+      "id": "durak-12-insan-bedeni-de-agin-icinde",
+      "section": "ÜÇÜNCÜ KISIM · KONTROLÜN TERSİ",
+      "title": "İnsan bedeni de ağın içinde",
+      "paragraphs": [
+        "Carson çevreyi insanın dışındaki yeşil dekor olarak görmez. İçtiğimiz su, yediğimiz ürün ve soluduğumuz hava kimyasal yolculuğun devamıdır. Doğa zarar görürken insanın cam fanusta kalması mümkün değildir.",
+        "Vücudun karaciğer ve enzim sistemleri birçok maddeyi dönüştürür, fakat kapasite sınırsız değildir. Yağda çözünen kalıcı maddeler dokuda birikebilir; hassasiyet yaşa ve koşula göre değişebilir.",
+        "Kitaptaki kanser ve genetik hasar tartışmaları dönemin araştırmalarını yansıtır. Bugün her madde için risk ayrı ölçülür; 'kimyasal' kelimesi tek başına zehir demek değildir.",
+        "Carson'ın kalıcı katkısı maruz kalma hakkındaki sorudur: Bir ürün piyasaya çıkmadan önce güvenliği kim kanıtlamalı ve istemeyen kişi ortak hava ile sudan nasıl korunmalı?"
+      ]
+    },
+    {
+      "id": "durak-13-iki-zehrin-bilinmeyen-dansi",
+      "section": "DÖRDÜNCÜ KISIM · DEMOKRATİK SORU",
+      "title": "İki zehrin bilinmeyen dansı",
+      "paragraphs": [
+        "Düzenlemeler çoğu zaman tek maddeyi tek dozda inceler. Gerçek yaşamda insanlar farklı pestisitler, ilaçlar ve endüstriyel maddelerle zaman içinde karşılaşır. Birlikte etkiler basit toplam olmayabilir.",
+        "İki sakin müzisyenin aynı anda çalınca gürültü çıkarması gibi, maddeler aynı enzimi kullanabilir veya birbirinin parçalanmasını yavaşlatabilir. Bu olasılık belirsizliği büyütür.",
+        "Belirsizlik hiçbir şey yapmamak için mazeret de her şeyi yasaklamak için kanıt da değildir. Carson ihtiyatı, alternatifleri ve izlemeyi savunur.",
+        "Bugünün risk bilimi daha gelişmiş olsa da karışım sorunu tamamen çözülmüş değildir. Kitabın 'tek şişe' yerine yaşam boyu maruz kalma bakışı bu nedenle değerlidir."
+      ]
+    },
+    {
+      "id": "durak-14-bilgi-kimin-elinde",
+      "section": "DÖRDÜNCÜ KISIM · DEMOKRATİK SORU",
+      "title": "Bilgi kimin elinde?",
+      "paragraphs": [
+        "Carson şirket raporları, kamu uzmanları ve bağımsız araştırmacılar arasındaki güç farkını görünür kılar. Ürünü satan taraf veriyi üretirken zarar gören vatandaş çoğu zaman neye maruz kaldığını bile bilmez.",
+        "Bir mahkemede yalnız sanığın tuttuğu tanıkların konuştuğunu düşünün. Hepsi yalan söylemese bile eksik düzen güven yaratmaz. Bağımsız araştırma ve açık veri bu nedenle teknik ayrıntı değil demokrasi koşuludur.",
+        "Yazar kendisine yönelen duygusal, bilim dışı ve ilerleme düşmanı suçlamalarına belgelerle karşılık verdi. Tartışma, bilimin çıkar çatışmasından bağımsız yürümeyeceğini gösterdi.",
+        "Bugün de güven, yalnız 'uzmanlar böyle diyor' cümlesiyle kurulmaz. Yöntemin, finansmanın, belirsizliğin ve itiraz yollarının görünür olması gerekir."
+      ]
+    },
+    {
+      "id": "durak-15-baska-bir-yol-mumkun",
+      "section": "DÖRDÜNCÜ KISIM · DEMOKRATİK SORU",
+      "title": "Başka bir yol mümkün",
+      "paragraphs": [
+        "Carson kitabı yalnız felaketle bitirmez. Zararlının doğal düşmanlarını kullanma, erkek böcekleri kısırlaştırma, yaşam döngüsünün hassas anını hedefleme ve yalnız sorunlu bölgeye müdahale etme gibi seçenekleri anlatır.",
+        "Doktorun her hastaya aynı güçlü ilacı vermek yerine tanı koyması gibi, entegre mücadele de önce türü, eşiği ve ekosistemi tanır. Kimyasal gerekirse son ve hedefli araçlardan biri olur.",
+        "Alternatif yöntemler sabır ve yerel bilgi ister; gökyüzünden tek geçiş kadar gösterişli değildir. Fakat doğal denetimi koruduğu için uzun vadede daha dayanıklı olabilir.",
+        "Kitabın umudu teknoloji karşıtlığı değil, daha akıllı teknoloji ve alçakgönüllü yönetimdir. İnsan doğanın dışında komutan değil, sonuçlara dahil bir katılımcıdır."
+      ]
+    },
+    {
+      "id": "durak-16-kennedy-nin-masasina-ulasan-kitap",
+      "section": "DÖRDÜNCÜ KISIM · DEMOKRATİK SORU",
+      "title": "Kennedy'nin masasına ulaşan kitap",
+      "paragraphs": [
+        "Silent Spring yayımlandığında büyük tartışma yarattı. Başkan John F. Kennedy'nin bilim danışma kurulu pestisitleri inceledi; kamuoyu çevre risklerini ulusal mesele olarak konuşmaya başladı.",
+        "Tek kitap tek başına bütün kurumları kurmadı. Çevre hareketleri, bilim insanları, kuş gözlemcileri ve yurttaş örgütleri zaten çalışıyordu. Carson onların dağınık kanıtlarına ortak bir dil verdi.",
+        "ABD'de DDT'nin tarımsal kullanımı daha sonra yasaklandı ve yırtıcı kuşların toparlanması önemli başarı örneklerinden biri oldu. Dünyanın bazı bölgelerinde sıtma vektörü kontrolünde sınırlı DDT kullanımı ise risk ile yarar tartışmasının bağlama bağlı kaldığını gösterir.",
+        "Mirasın en dürüst anlatımı budur: Kitap sihirli düğme değildi; toplumsal yönü değiştiren güçlü bir kaldıraçtı."
+      ]
+    },
+    {
+      "id": "durak-17-carson-neyi-soylemedi",
+      "section": "SON DURAKLAR",
+      "title": "Carson neyi söylemedi?",
+      "paragraphs": [
+        "Yaygın efsanenin aksine Carson bütün pestisitlerin koşulsuz yasaklanmasını istemedi. Ayrım yapmadan, gereksiz ve geniş ölçekli kullanıma itiraz etti; biyolojik ve hedefli yöntemleri öne çıkardı.",
+        "DDT sıtma taşıyan sivrisineklere karşı bazı koşullarda halk sağlığı aracı olmuştur. Bu gerçek çevre zararlarını silmez; kararın hastalık yükü, direnç, uygulama biçimi ve alternatiflerle birlikte verilmesini gerektirir.",
+        "Kitabı doğru okumak iki kolay uçtan kaçınmaktır: 'Kimyasal her zaman kötüdür' ve 'ürün işe yarıyorsa yan etkisi önemsizdir.' Carson'ın asıl alanı bu iki slogan arasındaki sorumlu muhakemedir."
+      ]
+    },
+    {
+      "id": "durak-18-korku-ile-kanit-arasindaki-cizgi",
+      "section": "SON DURAKLAR",
+      "title": "Korku ile kanıt arasındaki çizgi",
+      "paragraphs": [
+        "Carson güçlü imgeler kullanır, fakat dayanağını vaka raporları ve araştırmalardan kurar. Yine de her tarihsel örnek bugünkü her pestisite doğrudan uygulanamaz. Madde, doz ve kullanım biçimi ayrı değerlendirilmelidir.",
+        "İhtiyat ilkesi bilinmeyen her şeyi yasaklama düğmesi değildir. Zararın ciddi ve geri döndürülemez olabileceği yerde kanıtın tamamlanmasını beklerken daha güvenli seçenek seçmektir.",
+        "Okur için iyi kontrol sorusu şudur: İddia hangi madde, hangi doz, hangi canlı ve hangi süre için geçerli? Bu ayrıntılar korkuyu bilgiye çevirir."
+      ]
+    },
+    {
+      "id": "durak-19-bugunun-market-rafinda-kitap",
+      "section": "SON DURAKLAR",
+      "title": "Bugünün market rafında kitap",
+      "paragraphs": [
+        "Bir ürün 'doğal' diye otomatik güvenli, sentetik diye otomatik tehlikeli değildir. Risk, tehlikenin yanında maruz kalma miktarı ve yoluyla belirlenir. Arsenik doğaldır ama güvenli değildir.",
+        "Tüketicinin tek başına bütün kimya laboratuvarını kurması beklenemez. Etiket, denetim, bağımsız araştırma ve şeffaf kurumlar kişisel seçimin altyapısıdır.",
+        "Carson'ın bugüne kalan davranışı, görünmez maliyeti sormaktır: Bu kolaylığın atığı nereye gidiyor, kim maruz kalıyor ve etkisi kaç yıl sürüyor?"
+      ]
+    },
+    {
+      "id": "durak-20-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Doğayı hedeflerden oluşan bir atış poligonu sanırsak attığımız kimyasal, su ve besin zinciri üzerinden dönüp bizi de bulur; akıllı kontrol canlı ağın bağlantılarını hesaba katar.",
+        "Akılda kalacak görüntü boş bir bahar sabahıdır. Sessizlik, yalnız kaybolmuş kuşların değil, görünmeyen kararların duyulur hale gelmiş sesidir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-yarin-icin-bir-masal": {
+      "image": "/images/summary-art-18-chapter-01-silent-town-v1.webp",
+      "imageCaption": "Carson'ın bileşik kasabasında kimyasal serpinti sonrası ilkbahar gelir ama kuşların sabah korosu geri dönmez."
+    },
+    "durak-03-savas-laboratuvarindan-tarlaya": {
+      "image": "/images/summary-art-18-chapter-02-war-to-field-v1.webp",
+      "imageCaption": "Savaş döneminin güçlü kimyasalları barışta tarım aracına dönüşürken kalıcılıkları görünmeyen bir çevre maliyeti yarattı."
+    },
+    "durak-04-iksir-denilen-zehir": {
+      "image": "/images/summary-art-18-chapter-03-elixir-bottle-v1.webp",
+      "imageCaption": "Böcek ilacı etiketi hedefi dar gösterse de kimyasal, ortak biyolojik süreçler nedeniyle başka canlılara da ulaşabilir."
+    },
+    "durak-05-topragin-altindaki-sehir": {
+      "image": "/images/summary-art-18-chapter-04-soil-city-v1.webp",
+      "imageCaption": "Toprağın altındaki bakteri, mantar ve solucan şehri tarlanın besin döngüsünü sessizce ayakta tutar."
+    },
+    "durak-06-su-hicbir-seyi-yerinde-birakmaz": {
+      "image": "/images/summary-art-18-chapter-05-moving-water-v1.webp",
+      "imageCaption": "Yağmur kimyasalı tarla sınırından çıkarıp dere, göl, çamur ve besin zinciri boyunca uzaklara taşır."
+    },
+    "durak-07-biriken-kucuk-dozlar": {
+      "image": "/images/summary-art-18-chapter-06-food-chain-v1.webp",
+      "imageCaption": "Dağınık küçük dozlar besin zincirinin üst basamaklarında birleşerek yırtıcı kuşların üremesini bozabilir."
+    },
+    "durak-08-kuslarin-kirilan-gelecegi": {
+      "image": "/images/summary-art-18-chapter-07-broken-egg-v1.webp",
+      "imageCaption": "İncelmiş kabuk yalnız bir yumurtanın kırılması değil, görünmez kimyasalın gelecek kuşağa uzanan izidir."
+    },
+    "durak-09-hedef-disindaki-dostlar": {
+      "image": "/images/summary-art-18-chapter-08-lost-pollinators-v1.webp",
+      "imageCaption": "Geniş etkili ilaç zararlıyla birlikte arı ve doğal avcıları da yok ederek tarlanın savunma ağını zayıflatabilir."
+    },
+    "durak-10-direncin-donen-kapisi": {
+      "image": "/images/summary-art-18-chapter-09-resistance-wheel-v1.webp",
+      "imageCaption": "İlaç hassas böcekleri elerken dayanıklı olanlar ürer; aynı çözüm zamanla kendi etkisini aşındırır."
+    },
+    "durak-11-ates-karincasina-karsi-bombardiman": {
+      "image": "/images/summary-art-18-chapter-10-aerial-spray-v1.webp",
+      "imageCaption": "Uçakla geniş alanı ilaçlamak güçlü görünür, fakat hedef küçükken yan etkilerin coğrafyası çok daha büyük olabilir."
+    },
+    "durak-12-insan-bedeni-de-agin-icinde": {
+      "image": "/images/summary-art-18-chapter-11-body-in-web-v1.webp",
+      "imageCaption": "İnsan bedeni çevrenin dışında değildir; su, yiyecek ve hava canlı ağın kimyasal izlerini içeri taşır."
+    },
+    "durak-13-iki-zehrin-bilinmeyen-dansi": {
+      "image": "/images/summary-art-18-chapter-12-chemical-dance-v1.webp",
+      "imageCaption": "Gerçek yaşamda maddeler tek tek değil karışım halinde karşılaşır; ortak etkileri basit toplamdan farklı olabilir."
+    },
+    "durak-14-bilgi-kimin-elinde": {
+      "image": "/images/summary-art-18-chapter-13-closed-files-v1.webp",
+      "imageCaption": "Çevre kararı güvenilir olmak için verinin, finansmanın ve belirsizliğin halka açık olduğu bir masa gerektirir."
+    },
+    "durak-15-baska-bir-yol-mumkun": {
+      "image": "/images/summary-art-18-chapter-14-targeted-control-v1.webp",
+      "imageCaption": "Hedef türü ve yaşam döngüsünü tanıyan yöntemler, bütün canlı ağı zehirlemeden sorunu azaltabilir."
+    },
+    "durak-16-kennedy-nin-masasina-ulasan-kitap": {
+      "image": "/images/summary-art-18-chapter-15-book-on-desk-v1.webp",
+      "imageCaption": "Carson'ın kitabı dağınık çevre kanıtlarını kamu tartışmasına taşıyan ve kurumları harekete geçiren bir kaldıraç oldu."
+    },
+    "durak-17-carson-neyi-soylemedi": {
+      "image": "/images/summary-art-18-chapter-16-balanced-scale-v1.webp",
+      "imageCaption": "Carson'ın savı bütün ilaçları tek kefeye koymak değil, yarar ile görünmeyen bedeli bağlama göre birlikte tartmaktır."
+    }
+  }
+}

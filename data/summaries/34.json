@@ -1,0 +1,346 @@
+{
+  "bookNo": 34,
+  "title": "Beden Kayıt Tutar",
+  "author": "Bessel van der Kolk",
+  "subtitle": "Travmanın yalnız geçmişte kalan kötü bir anı değil, alarm sistemi, beden duyusu, ilişki ve zaman hissinde süren bir iz olabileceğini; iyileşmenin güvenli bağ ve bedensel sahiplikle nasıl desteklenebileceğini anlatan dikkatli rehber.",
+  "coverImage": "/images/summary-art-34-beden-kayit-tutar-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/34-beden-kayit-tutar-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#7A4C54",
+  "meta": {
+    "originalTitle": "The Body Keeps the Score",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Travmanın yalnız geçmişte kalan kötü bir anı değil, alarm sistemi, beden duyusu, ilişki ve zaman hissinde süren bir iz olabileceğini; iyileşmenin güvenli bağ ve bedensel sahiplikle nasıl desteklenebileceğini anlatan dikkatli rehber.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Bessel van der Kolk - Resmi kitap sayfası",
+      "url": "https://www.besselvanderkolk.com/resources/the-body-keeps-the-score"
+    },
+    {
+      "id": 2,
+      "title": "US Department of Veterans Affairs - PTSD tedavileri",
+      "url": "https://www.ptsd.va.gov/understand_tx/tx_basics.asp"
+    },
+    {
+      "id": 3,
+      "title": "WHO - Travma sonrası stres bozukluğu",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/post-traumatic-stress-disorder"
+    },
+    {
+      "id": 4,
+      "title": "NICE - PTSD değerlendirme ve tedavi rehberi",
+      "url": "https://www.nice.org.uk/guidance/ng116"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-once-guvenlik-notu",
+      "section": "BAŞLANGIÇ",
+      "title": "Önce güvenlik notu",
+      "paragraphs": [
+        "Bu kitap travma yaşamış kişilerden ayrıntılı öyküler içerir. Zorlanırsanız bölümü atlamak, ara vermek veya güvendiğiniz biriyle konuşmak başarısızlık değildir. Rehber sahneleri gereksiz ayrıntıya girmeden aktarır.",
+        "Travma sözcüğü her üzüntünün eş anlamlısı değildir. Kişinin güvenlik, beden ve zaman algısını uzun süre bozan ezici yaşantılardan söz ediyoruz. Aynı olay herkeste aynı sonucu doğurmaz.",
+        "Kitap tedavi reçetesi değildir. Belirtiler yaşamı zorluyorsa ruh sağlığı uzmanının kişiye özel değerlendirmesi gerekir; özellikle kendine zarar düşüncesi veya acil tehlikede yerel acil destek aranmalıdır."
+      ]
+    },
+    {
+      "id": "durak-02-savas-bitse-de-beden-nobette",
+      "section": "BİRİNCİ KISIM · ALARMDA KALAN BEDEN",
+      "title": "Savaş bitse de beden nöbette",
+      "paragraphs": [
+        "Van der Kolk genç bir doktorken Vietnam gazileriyle çalışır. Askerler eve dönmüştür, fakat küçük bir ses, koku veya tartışma bedeni yeniden savaş alanına taşır. Takvim ilerler, sinir sistemi ilerlememiş gibi davranır.",
+        "Gece alarmı bozuk bir dükkanda düşünün. Hırsız gitmiştir ama perde sallandığında siren çalar. Sorun alarmın zayıf olması değil, tehlike eşiğinin fazlasıyla hassaslaşmasıdır.",
+        "Gazilerin öfkesi yalnız kötü karakter, uyuşukluğu yalnız isteksizlik olarak görüldüğünde asıl düzen kaçırılır. Uyku, dikkat, yakınlık ve beden tepkileri ortak bir geçmiş etrafında birleşir.",
+        "Kitabın ilk büyük dönüşü budur: 'Sana ne oldu?' sorusu, 'Sende ne yanlış?' sorusundan daha açıklayıcı olabilir."
+      ]
+    },
+    {
+      "id": "durak-03-tehlike-aninda-beynin-hizli-yolu",
+      "section": "BİRİNCİ KISIM · ALARMDA KALAN BEDEN",
+      "title": "Tehlike anında beynin hızlı yolu",
+      "paragraphs": [
+        "Beyin tehlike işaretini önce hızlı ve kaba biçimde değerlendirir. Bedenin savaşma, kaçma veya donma hazırlığı, bilinçli düşünceden önce başlayabilir. Kalp hızlanır, kaslar gerilir, dikkat daralır.",
+        "Yolda kıvrılmış hortumu bir an yılan sanmanız yararlı bir yanlış alarmdır. Önce sıçrar, sonra bakarsınız. Travmadan sonra bu hızlı sistem çok daha sık devreye girebilir.",
+        "Kişi mantıken güvende olduğunu bilse bile bedeni ikna olmayabilir. Bu çelişki 'neden kendime söz geçiremiyorum?' utancını büyütür.",
+        "Anlamak mazeret üretmek değildir. Tepkinin otomatik katmanını görmek, onu düzenlemek için beden, dikkat ve ilişki üzerinden yeni yollar denemeyi mümkün kılar."
+      ]
+    },
+    {
+      "id": "durak-04-ani-degil-yeniden-yasanan-simdi",
+      "section": "BİRİNCİ KISIM · ALARMDA KALAN BEDEN",
+      "title": "Anı değil, yeniden yaşanan şimdi",
+      "paragraphs": [
+        "Sıradan anı geçmiş zaman etiketi taşır. Travmatik anı ise parça parça görüntü, ses, koku veya beden duyusu halinde geri gelebilir. Kişi olayı hatırlamaktan çok yeniden içindeymiş gibi hisseder.",
+        "Eski bir film dosyasının klasöre kaydedilmediğini ve rastgele ekrana fırladığını düşünün. Zihin 'bu olmuştu' diyemez; görüntü 'şimdi oluyor' gücüyle belirir.",
+        "Bazı kişiler ayrıntıları yoğun biçimde yaşarken bazıları boşluk, kopukluk veya uyuşma hisseder. Unutma ve taşma aynı sistemin farklı korunma yolları olabilir.",
+        "İyileşmenin amaçlarından biri anıyı silmek değil, onu geçmişteki yerine yerleştirebilmektir. Olay hayat hikayesinin bölümü olur; bütün kitabın kapağı olmaktan çıkar."
+      ]
+    },
+    {
+      "id": "durak-05-donmak-da-hayatta-kalma-tepkisidir",
+      "section": "BİRİNCİ KISIM · ALARMDA KALAN BEDEN",
+      "title": "Donmak da hayatta kalma tepkisidir",
+      "paragraphs": [
+        "Tehlikede herkes savaşmaz veya kaçmaz. Kaçış mümkün görünmediğinde beden donabilir, hareketi ve duyuyu azaltabilir. Sonradan 'neden bir şey yapmadım?' diye kendini suçlayan kişi, otomatik korunma tepkisini irade eksikliği sanabilir.",
+        "Elektrik sistemi aşırı yükte sigortayı indirir. Ev karanlıkta kalır ama yangın riski azalır. Donma ve kopma da bazen dayanılmaz deneyimin şiddetini kısan acil sigorta gibi çalışır.",
+        "Olay bittikten sonra sigortanın sürekli kapalı kalması yaşamı daraltır. Kişi sevinç, yakınlık ve beden duyularından da uzaklaşabilir.",
+        "Bu tepkiyi anlamak utancı hafifletebilir. Geçmişte işe yarayan korunma, bugün yavaş ve güvenli biçimde yeniden ayarlanabilir."
+      ]
+    },
+    {
+      "id": "durak-06-bedenin-ic-haritasi",
+      "section": "İKİNCİ KISIM · HAFIZA VE BENLİK",
+      "title": "Bedenin iç haritası",
+      "paragraphs": [
+        "Açlık, nefes, kalp atışı, kas gerilimi ve sıcaklık gibi iç sinyalleri fark etme yeteneğine iç algı denir. Travma bu sinyalleri ya dayanılmaz gürültüye ya da hissedilmeyen sessizliğe çevirebilir.",
+        "Arabanın gösterge paneli ya sürekli kırmızı yanıyor ya da tamamen sönükse sürücü doğru karar veremez. Beden haritası da tehlike ile ihtiyaç arasındaki ayrımı zorlaştırabilir.",
+        "Kişi korkuyu 'midemde düğüm ve hızlı nefes' diye fark edebildiğinde, duygu adsız bir felaket olmaktan çıkar. Fakat bedene dönmek bazı kişiler için başta daha zorlayıcı olabilir.",
+        "Bu nedenle çalışma zorla değil, küçük dozlarda ve güvenli ilişkide ilerlemelidir. Hedef beden üzerinde yeniden merak ve seçim hissi kurmaktır."
+      ]
+    },
+    {
+      "id": "durak-07-ad-koymak-firtinayi-gormek",
+      "section": "İKİNCİ KISIM · HAFIZA VE BENLİK",
+      "title": "Ad koymak, fırtınayı görmek",
+      "paragraphs": [
+        "Yoğun duyguda konuşma ve düzenleme güçleşebilir. Kişi yalnız 'kötüyüm' derken bedeni birçok ayrı sinyal taşır. Duyguya ve duyuma ad vermek, deneyim ile benlik arasına küçük bir mesafe koyar.",
+        "Pencereden fırtınaya bakmakla fırtınanın içinde sürüklenmek farklıdır. 'Şu anda korku yükseliyor' cümlesi korkuyu yok etmez; onun gözlemcisini yeniden kurar.",
+        "Kitap dilin önemli ama tek başına yeterli olmadığını savunur. Travma söz öncesi ve bedensel katmanlarda saklanabilir; yalnız neden-sonuç anlatmak alarmı susturmayabilir.",
+        "Yine de güvenli anlatı dağınık parçaları zaman çizgisine bağlar. Söz ve beden rakip tedaviler değil, aynı hikayenin farklı kapılarıdır."
+      ]
+    },
+    {
+      "id": "durak-08-cocuklukta-gorunmeyen-deprem",
+      "section": "İKİNCİ KISIM · HAFIZA VE BENLİK",
+      "title": "Çocuklukta görünmeyen deprem",
+      "paragraphs": [
+        "Sürekli ihmal, şiddet veya öngörülemez bakım tek bir olaydan farklıdır. Çocuk güvenliğin ne olduğunu öğrenmeden büyür; tehlike istisna değil dünyanın temel kuralı gibi yerleşebilir.",
+        "Evin zemini her gün hafifçe sallanıyorsa çocuk düz yürümeyi değil dengede kalmak için sürekli kasılmayı öğrenir. Dışarıdaki sağlam zeminde bile beden eski hareketi sürdürebilir.",
+        "Kitap olumsuz çocukluk deneyimlerinin sağlık, bağımlılık ve ilişki sorunlarıyla bağlantısını vurgular. Bağlantı kader değildir; risk artışı bireyin geleceğini tek başına belirlemez.",
+        "Çocuğu yalnız davranış problemi olarak cezalandırmak, davranışın koruyucu işlevini kaçırabilir. Önce güven ve düzenleme, sonra beklenti ve sorumluluk daha sağlam yol sunar."
+      ]
+    },
+    {
+      "id": "durak-09-baglanma-baskasinin-sinir-sistemi",
+      "section": "İKİNCİ KISIM · HAFIZA VE BENLİK",
+      "title": "Bağlanma: Başkasının sinir sistemi",
+      "paragraphs": [
+        "Bebek kendi duygusunu tek başına düzenleyemez. Sakin ses, yüz ve dokunuş yetişkinin sinir sistemini ödünç verir. Güvenli bağ, tehlike sonrası yeniden sakinleşme yolunu öğretir.",
+        "İki metronomu aynı masaya koyunca zamanla birbirine yaklaşmaları gibi, insanlar da yüz, ses ve ritimle birbirini etkiler. Buna ortak düzenleme denebilir.",
+        "Bakım veren aynı zamanda tehlike kaynağıysa çocuk yaklaşma ile kaçma arasında kalır. Yakınlık istenir ve korkulur; yetişkin ilişkilerinde bu çelişki tekrar edebilir.",
+        "İyileştirici ilişki kusursuz ebeveyn kopyası değildir. Sınırları olan, öngörülebilir ve kişinin seçimini koruyan bir temas yeni deneyim sağlayabilir."
+      ]
+    },
+    {
+      "id": "durak-10-tani-etiketi-ile-hayat-hikayesi",
+      "section": "ÜÇÜNCÜ KISIM · İYİLEŞMENİN KAPILARI",
+      "title": "Tanı etiketi ile hayat hikayesi",
+      "paragraphs": [
+        "Depresyon, dikkat sorunu, bağımlılık veya kişilik etiketi belirtileri düzenleyebilir. Fakat tek kişinin birden çok tanı alması, alttaki travma örüntüsünün parçalar halinde görülmesine yol açabilir.",
+        "Duman, ısı ve öksürüğü üç ayrı arıza sayarken odadaki yangını kaçırmak gibi, belirti listesi bazen ortak kaynağı perdeleyebilir. Tersine her sorunu travmaya bağlamak da başka hastalıkları kaçırır.",
+        "Van der Kolk gelişimsel travma için daha bütünlüklü tanı tartışır. Bu öneri alanda kabul görmüş tek son söz değildir; tanı sistemleri yararları ve sınırlarıyla değişmeye devam eder.",
+        "En dengeli yaklaşım hem belirtiyi ciddiye alır hem yaşam öyküsünü sorar. Etiket kapıyı açabilir, insanın tamamı değildir."
+      ]
+    },
+    {
+      "id": "durak-11-guvenli-iliski-tedavinin-zemini",
+      "section": "ÜÇÜNCÜ KISIM · İYİLEŞMENİN KAPILARI",
+      "title": "Güvenli ilişki tedavinin zemini",
+      "paragraphs": [
+        "Travma çoğu zaman güven ihlali içerdiği için yardım ilişkisi yalnız teknik taşımaz. Kişinin sözüne inanılması, sınırlarına saygı duyulması ve ne olacağının açıklanması tedavinin kendisidir.",
+        "Kırılmış bir köprüden karşıya geçecek kişiye 'korkma' demek yetmez. Tahtaların tek tek sağlam olduğunu görmesi ve geri dönme hakkı bulunması gerekir.",
+        "Terapist her şeyi bilen kurtarıcı olduğunda eski güçsüzlük tekrarlanabilir. İşbirliği, seçenek ve izin, kontrol duygusunu kişiye geri verir.",
+        "Kitabın umutlu mesajı ilişkiseldir: İnsan başka insanlar içinde yaralanabilir, başka güvenli ilişkiler içinde yeniden bağlantı da kurabilir."
+      ]
+    },
+    {
+      "id": "durak-12-travmayi-anlatmak-ne-zaman-ise-yarar",
+      "section": "ÜÇÜNCÜ KISIM · İYİLEŞMENİN KAPILARI",
+      "title": "Travmayı anlatmak ne zaman işe yarar?",
+      "paragraphs": [
+        "Ayrıntılı anlatım bazı kişilerde anıyı düzenlemeye yardım eder, bazılarında ise hazırlık olmadan alarmı taşırır. Önce güvenlik ve duygu düzenleme becerileri gerekebilir.",
+        "Yüzme bilmeyen birini korkusunu aşsın diye derin suya atmak öğretim değildir. Havuz kenarında nefes, sığ su ve geri çıkma yolu gerekir.",
+        "Kanıta dayalı travma odaklı terapiler, kaçınılan anı ve anlamlarla yapılandırılmış biçimde çalışabilir. Süreç kişinin temposu ve uzman değerlendirmesiyle yürütülmelidir.",
+        "İyileşme susmak ile her ayrıntıyı tekrar etmek arasındaki zorunlu seçim değildir. Ne kadar, ne zaman ve kiminle anlatılacağı kişinin sahipliğinin parçasıdır."
+      ]
+    },
+    {
+      "id": "durak-13-emdr-ve-hareket-eden-dikkat",
+      "section": "ÜÇÜNCÜ KISIM · İYİLEŞMENİN KAPILARI",
+      "title": "EMDR ve hareket eden dikkat",
+      "paragraphs": [
+        "EMDR, travmatik anı üzerinde çalışırken iki taraflı göz hareketleri veya başka uyarımlar kullanır. Kitap bu yöntemin bazı hastalarda anının yükünü azaltabildiğini anlatır.",
+        "Sanki donmuş dosya açılırken kişi bir ayağını bugünün odasında tutar. Ama yöntemin nasıl çalıştığına dair açıklamalar tartışmalıdır; göz hareketinin özel katkısı ile yapılandırılmış maruz kalma ve dikkat süreçleri ayrıştırılmaya çalışılır.",
+        "Bir tedavinin yararlı bulunması, onun hakkındaki her teorinin doğru olduğu anlamına gelmez. Araştırma sonuçları, uygulayıcı eğitimi ve kişinin uygunluğu birlikte önemlidir.",
+        "Rehber burada reçete vermez. Travma tedavisinde uzmanlaşmış lisanslı profesyonelle seçenekleri konuşmak, internetten tekniği kendi kendine yoğun biçimde denemekten daha güvenlidir."
+      ]
+    },
+    {
+      "id": "durak-14-yoga-ve-bedene-geri-donmek",
+      "section": "ÜÇÜNCÜ KISIM · İYİLEŞMENİN KAPILARI",
+      "title": "Yoga ve bedene geri dönmek",
+      "paragraphs": [
+        "Kitap yoga, nefes ve yavaş hareketin beden duyularıyla güvenli temas kurmaya yardım edebileceğini savunur. Amaç performans veya esneklik değil, 'bu beden bana ait ve onu durdurabilirim' hissidir.",
+        "Uzun süre başkasının kullandığı bir eve geri dönmek gibi, kişi önce odaları kısa süre gezer. Hangi hareketin iyi geldiğini, hangisinin alarmı yükselttiğini fark eder.",
+        "Bedensel çalışmalar herkes için aynı değildir. Kapalı göz, belirli poz veya dokunma bazı kişileri tetikleyebilir. Travma duyarlı uygulama seçenek sunar ve hayır cevabını korur.",
+        "Bu yöntemler temel tedavinin yerine otomatik geçmez. Kanıt gücü yöntemden yönteme değişir; kişinin tıbbi durumu ve tercihi hesaba katılmalıdır."
+      ]
+    },
+    {
+      "id": "durak-15-tiyatroda-yeni-bir-son-denemek",
+      "section": "DÖRDÜNCÜ KISIM · YENİDEN SAHİPLENME",
+      "title": "Tiyatroda yeni bir son denemek",
+      "paragraphs": [
+        "Van der Kolk psikodrama ve tiyatronun bedeni, sesi ve ilişkiyi aynı anda devreye sokmasını önemser. Kişi yalnız geçmişi anlatmaz; sahnede yeni sınır ve tepki biçimlerini deneyebilir.",
+        "Hayatta donup kalan cümlenin provada tamamlandığını düşünün: 'Dur', 'yaklaşma' veya 'yardım et'. Olay değişmez, fakat beden pasif seyirci olmaktan çıkar.",
+        "Grup tanıklığı utancı azaltabilir. Başkalarının benzer tepkilerini görmek, kişinin kendini bozuk ve yalnız sanmasını zorlar.",
+        "Bunun da güvenli yönetilmesi gerekir. Sahne gösteri için değil sahipliği artırmak içindir; zorla canlandırma eski güçsüzlüğü tekrar edebilir."
+      ]
+    },
+    {
+      "id": "durak-16-norogeri-bildirim-aynadaki-beyin",
+      "section": "DÖRDÜNCÜ KISIM · YENİDEN SAHİPLENME",
+      "title": "Nörogeri bildirim: Aynadaki beyin",
+      "paragraphs": [
+        "Nörogeri bildirimde beyin etkinliğine ilişkin ölçüm ses veya görüntüyle kişiye geri verilir. Kişi belirli düzenleri değiştirmeyi zamanla öğrenmeye çalışır. Kitap yönteme umutla yaklaşır.",
+        "Kalp hızını ekranda görmek nefesi ayarlamaya yardım edebilir; nörogeri bildirim de beynin görünmeyen durumuna ayna tutmayı amaçlar. Ancak ölçüm ile anlam arasındaki yol daha karmaşıktır.",
+        "Kanıtlar bazı alanlarda umut verici olsa da yöntem standart travma tedavileri kadar kesin değildir. Protokoller, karşılaştırma grupları ve uzun dönem sonuçları konusunda daha fazla araştırma gerekir.",
+        "Yeni teknoloji etkileyici göründüğü için otomatik üstün sayılmamalıdır. Maliyet, erişim ve kanıt düzeyi açıkça konuşulmalıdır."
+      ]
+    },
+    {
+      "id": "durak-17-ic-aile-sistemleri-ve-parcalar",
+      "section": "DÖRDÜNCÜ KISIM · YENİDEN SAHİPLENME",
+      "title": "İç aile sistemleri ve parçalar",
+      "paragraphs": [
+        "Kitap, insanın içinde farklı görevler üstlenen parçalar varmış gibi çalışmayı anlatır. Öfkeli parça sınırı korur, uyuşan parça acıyı kısar, eleştiren parça reddedilmeden önce hazırlık yapar.",
+        "Bir şirketin kriz anında kurulmuş bölümleri barışta da yönetimi bırakmıyorsa işleyiş bozulur. Bölümleri kovmak yerine hangi felaketten koruduklarını anlamak yeni görevler buldurabilir.",
+        "Bu dil herkese uymak zorunda değildir ve kelimesi kelimesine ayrı kişilikler demek değildir. Deneyimi düzenleyen terapötik bir benzetmedir.",
+        "En değerli yönü iç savaşı azaltmasıdır. 'Neden kendimi sabote ediyorum?' yerine 'Bu tepki beni eskiden neden korudu?' sorusu merhamet ve sorumluluğu bir araya getirir."
+      ]
+    },
+    {
+      "id": "durak-18-toplumun-tuttugu-kayit",
+      "section": "DÖRDÜNCÜ KISIM · YENİDEN SAHİPLENME",
+      "title": "Toplumun tuttuğu kayıt",
+      "paragraphs": [
+        "Travma yalnız terapi odasının konusu değildir. Savaş, yoksulluk, ayrımcılık, aile şiddeti ve güvensiz okul düzeni alarmı tekrar üretir. Kişiyi tedavi edip tehlikeli koşula geri göndermek eksik kalır.",
+        "Sürekli su alan bodrumda yalnız pası boyamak gibi, belirtiyi azaltırken sızıntıyı görmezden gelemeyiz. Barınma, hukuk, eğitim ve sosyal destek sinir sisteminin çevresidir.",
+        "Çocukların davranışını yalnız cezayla yönetmek yerine güvenli yetişkin, hareket alanı ve öngörülebilir rutin sunmak koruyucu olabilir.",
+        "Kitap bireysel acının toplumsal bedelini görünür kılar. Önleme, en etkili ama en az dramatik travma tedavisidir."
+      ]
+    },
+    {
+      "id": "durak-19-kitabin-guclu-ve-tartismali-yani",
+      "section": "SON DURAKLAR",
+      "title": "Kitabın güçlü ve tartışmalı yanı",
+      "paragraphs": [
+        "Kitap travmayı beden, ilişki ve toplumla birlikte düşünerek milyonlarca okura kendini anlama dili verdi. Vaka öyküleri soyut bilgiyi canlı hale getirir.",
+        "Bununla birlikte bazı tedavilere duyduğu heyecan, kanıt gücünü olduğundan kesin gösterebilir. Nörobilim görüntüleri karmaşık deneyime kolay açıklama hissi verebilir; tek tarama bir kişinin hikayesini teşhis etmez.",
+        "Eleştirel okuma kitabın ana içgörüsünü atmak değildir. Umudu koruyup yöntemleri güncel klinik rehberler ve kişisel değerlendirmeyle tartmak daha güvenlidir."
+      ]
+    },
+    {
+      "id": "durak-20-travma-her-seyi-aciklamaz",
+      "section": "SON DURAKLAR",
+      "title": "Travma her şeyi açıklamaz",
+      "paragraphs": [
+        "Uyku sorunu, öfke, dikkat dağınıklığı veya bedensel ağrı birçok nedenden doğabilir. Travma olasılığını sormak değerlidir; her belirtiyi gizli travmanın kanıtı saymak tıbbi sorunları ve bugünkü koşulları kaçırabilir.",
+        "Aynı olay iki kişide farklı iz bırakabilir. Genetik, yaş, destek, olayın süresi ve sonrasındaki güvenlik sonucu etkiler. Dayanıklılık acının yokluğu değil, destekle yeniden düzen kurabilme kapasitesidir.",
+        "İyi değerlendirme hem hikayeyi dinler hem alternatif açıklamaları araştırır. Tek anahtar bütün kapıları açmaz."
+      ]
+    },
+    {
+      "id": "durak-21-yakinina-nasil-eslik-edilir",
+      "section": "SON DURAKLAR",
+      "title": "Yakınına nasıl eşlik edilir?",
+      "paragraphs": [
+        "Kişiyi ayrıntı anlatmaya zorlamayın. 'İstersen dinlerim' demek, 'unut artık' veya 'neden kaçmadın?' cümlelerinden daha güvenlidir. Seçim hakkını küçük konularda bile geri vermek önemlidir.",
+        "Sakinleşmesi için emir vermek yerine birlikte yavaşlamak, ayakların zemini hissetmesini önermek veya odadaki nesneleri saymak bazı kişilerde bugüne dönüşü destekleyebilir. Önce neyin iyi geldiğini sorun.",
+        "Destek verenin de sınırı vardır. Tek başına terapist olmaya çalışmak yerine profesyonel yardım ve kendi bakımını düşünmek ilişkiyi korur."
+      ]
+    },
+    {
+      "id": "durak-22-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Travma geçmişte bitmiş olayın beden ve ilişkide sürmesi olabilir; iyileşme ise güvenlik, tanıklık ve seçim duygusuyla kişinin kendi bedenine ve zamanına yeniden yerleşmesidir.",
+        "Akılda kalacak görüntü bozuk alarmdır. Ama alarm düşman değildir; bir zamanlar hayatı koruyan sistemin şimdi yeni koşullara göre nazikçe ayarlanması gerekir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-savas-bitse-de-beden-nobette": {
+      "image": "/images/summary-art-34-chapter-01-soldier-home-v1.webp",
+      "imageCaption": "Savaş alanı geride kalsa da ses ve kokular alarm sistemini bugünde yeniden harekete geçirebilir."
+    },
+    "durak-03-tehlike-aninda-beynin-hizli-yolu": {
+      "image": "/images/summary-art-34-chapter-02-false-alarm-v1.webp",
+      "imageCaption": "Travma sonrası hızlı alarm yolu sıradan bir hortumu bile yılan gibi algılayacak kadar hassaslaşabilir."
+    },
+    "durak-04-ani-degil-yeniden-yasanan-simdi": {
+      "image": "/images/summary-art-34-chapter-03-unfiled-film-v1.webp",
+      "imageCaption": "Travmatik parça geçmiş etiketi taşımadığında hatıra gibi değil, şimdide açılan bir film gibi yaşanabilir."
+    },
+    "durak-05-donmak-da-hayatta-kalma-tepkisidir": {
+      "image": "/images/summary-art-34-chapter-04-frozen-body-v1.webp",
+      "imageCaption": "Kaçış mümkün olmadığında donma, irade zayıflığı değil bedenin aşırı yükte indirdiği koruyucu sigorta olabilir."
+    },
+    "durak-06-bedenin-ic-haritasi": {
+      "image": "/images/summary-art-34-chapter-05-body-map-v1.webp",
+      "imageCaption": "İç beden sinyalleri güvenilir bir gösterge paneline dönüştükçe kişi alarm ile gerçek ihtiyacı ayırabilir."
+    },
+    "durak-07-ad-koymak-firtinayi-gormek": {
+      "image": "/images/summary-art-34-chapter-06-naming-storm-v1.webp",
+      "imageCaption": "Duyguya ad vermek fırtınayı bitirmez, fakat kişinin onun içinde kaybolmak yerine onu görmesine yardım eder."
+    },
+    "durak-08-cocuklukta-gorunmeyen-deprem": {
+      "image": "/images/summary-art-34-chapter-07-shaking-house-v1.webp",
+      "imageCaption": "Öngörülemez evde büyüyen çocuk, sağlam zemine çıktığında bile sürekli denge arayan bir beden taşıyabilir."
+    },
+    "durak-09-baglanma-baskasinin-sinir-sistemi": {
+      "image": "/images/summary-art-34-chapter-08-shared-rhythm-v1.webp",
+      "imageCaption": "Güvenli bir yüz ve ses, alarmdaki kişinin kendi sakin ritmini yeniden bulmasına yardımcı olan dış metronomdur."
+    },
+    "durak-10-tani-etiketi-ile-hayat-hikayesi": {
+      "image": "/images/summary-art-34-chapter-09-labels-and-story-v1.webp",
+      "imageCaption": "Tanı etiketleri belirtileri düzenler, fakat insanın yaşam hikayesindeki ortak yangını tek başına anlatmayabilir."
+    },
+    "durak-11-guvenli-iliski-tedavinin-zemini": {
+      "image": "/images/summary-art-34-chapter-10-repairing-bridge-v1.webp",
+      "imageCaption": "Güven, korkma emriyle değil sınırların, seçeneklerin ve sağlam tahtaların birlikte sınanmasıyla yeniden kurulur."
+    },
+    "durak-12-travmayi-anlatmak-ne-zaman-ise-yarar": {
+      "image": "/images/summary-art-34-chapter-11-shallow-water-v1.webp",
+      "imageCaption": "Travma anlatısı derin suya atlamak değil, güvenli çıkış ve düzenleme becerileriyle adım adım yüzmeyi öğrenmektir."
+    },
+    "durak-13-emdr-ve-hareket-eden-dikkat": {
+      "image": "/images/summary-art-34-chapter-12-moving-attention-v1.webp",
+      "imageCaption": "EMDR anı çalışırken dikkatin bir bölümünü bugünde tutar; yararı araştırılırken mekanizması tartışılmaya devam eder."
+    },
+    "durak-14-yoga-ve-bedene-geri-donmek": {
+      "image": "/images/summary-art-34-chapter-13-returning-home-v1.webp",
+      "imageCaption": "Yavaş hareket kişinin bedenini yeniden sahip olduğu bir ev gibi, seçim ve sınırlarla tanımasına yardım edebilir."
+    },
+    "durak-15-tiyatroda-yeni-bir-son-denemek": {
+      "image": "/images/summary-art-34-chapter-14-new-ending-stage-v1.webp",
+      "imageCaption": "Güvenli tiyatro provası geçmişi değiştirmez, fakat bedene yarım kalan sınır ve yardım hareketini tamamlama imkanı verir."
+    },
+    "durak-16-norogeri-bildirim-aynadaki-beyin": {
+      "image": "/images/summary-art-34-chapter-15-brain-mirror-v1.webp",
+      "imageCaption": "Nörogeri bildirim görünmeyen beyin düzenine ayna tutmayı amaçlar, ancak vaat ile kanıt arasındaki mesafe dikkatle izlenmelidir."
+    },
+    "durak-17-ic-aile-sistemleri-ve-parcalar": {
+      "image": "/images/summary-art-34-chapter-16-inner-team-v1.webp",
+      "imageCaption": "İç parçaları düşman değil eski kriz görevlerini sürdüren bir ekip gibi görmek, yeni iş bölümü kurmaya yardım edebilir."
+    }
+  }
+}

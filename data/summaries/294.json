@@ -1,0 +1,346 @@
+{
+  "bookNo": 294,
+  "title": "Algı Kapıları",
+  "author": "Aldous Huxley",
+  "subtitle": "Mescalin deneyinde çiçek, kumaş, mekan ve benlik algısının nasıl değiştiğini anlatan kısa ama etkili denemeyi sanat, mistisizm, beyin ve güncel güvenlik bilgisiyle; özendirmeden ve abartmadan açan rehber.",
+  "coverImage": "/images/summary-art-294-algi-kapilari-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/294-algi-kapilari-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#596D5B",
+  "meta": {
+    "originalTitle": "The Doors of Perception",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Mescalin deneyinde çiçek, kumaş, mekan ve benlik algısının nasıl değiştiğini anlatan kısa ama etkili denemeyi sanat, mistisizm, beyin ve güncel güvenlik bilgisiyle; özendirmeden ve abartmadan açan rehber.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Encyclopaedia Britannica - The Doors of Perception",
+      "url": "https://www.britannica.com/topic/The-Doors-of-Perception"
+    },
+    {
+      "id": 2,
+      "title": "NIDA - Psychedelic and Dissociative Drugs",
+      "url": "https://nida.nih.gov/research-topics/psychedelic-dissociative-drugs"
+    },
+    {
+      "id": 3,
+      "title": "NIH - Psikedelik araştırmalarında güvenlik",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3056407/"
+    },
+    {
+      "id": 4,
+      "title": "Johns Hopkins Center for Psychedelic Research",
+      "url": "https://hopkinspsychedelic.org/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-once-acik-guvenlik-notu",
+      "section": "BAŞLANGIÇ",
+      "title": "Önce açık güvenlik notu",
+      "paragraphs": [
+        "Bu rehber mescalin veya başka bir psikedelik maddeyi kullanma talimatı vermez ve özendirmez. Etkiler kişiye, doza, sağlık durumuna ve ortama göre değişebilir; yoğun korku, kaza ve psikiyatrik sorun riski vardır.",
+        "Huxley'nin 1953 deneyimi tıbbi gözetim altında yapılmış tek kişilik edebi tanıklıktır. Tek deney güvenlik veya tedavi kanıtı değildir.",
+        "Güncel araştırmalar kontrollü klinik ortamda olası yararları inceler. Bu, denetimsiz kullanımın aynı sonucu vereceği anlamına gelmez."
+      ]
+    },
+    {
+      "id": "durak-02-bir-bahar-sabahindaki-deney",
+      "section": "BİRİNCİ KISIM · DEĞİŞEN GÖRÜŞ",
+      "title": "Bir bahar sabahındaki deney",
+      "paragraphs": [
+        "Huxley psikiyatrist Humphry Osmond'un gözetiminde mescalin alır. Beklentisi renkli hayaller görmektir; karşılaştığı şey gündelik nesnelerin olağanüstü varlık yoğunluğudur.",
+        "Oturma odası laboratuvar ve sahne olur. Sorular sorulur, ses kaydı alınır ve Huxley çevresine bakar.",
+        "Bu bilimsel kontrollü deneyden çok yapılandırılmış gözlemdir. Beklenti, kişilik ve araştırmacıyla ilişki sonucu etkiler.",
+        "Kitabın gücü genellemeden önce birinci kişi deneyimini ayrıntılı dile çevirmesidir."
+      ]
+    },
+    {
+      "id": "durak-03-cicekler-yalniz-cicek-olmaktan-cikinca",
+      "section": "BİRİNCİ KISIM · DEĞİŞEN GÖRÜŞ",
+      "title": "Çiçekler yalnız çiçek olmaktan çıkınca",
+      "paragraphs": [
+        "Vazodaki çiçeklere bakarken onları tür ve fayda etiketiyle değil çıplak varoluş yoğunluğuyla gördüğünü anlatır. Renk ve biçim kendi başına yeterli görünür.",
+        "Normalde 'çiçek' deyip geçtiğimiz nesneye ressam gibi uzun bakınca damar, gölge ve kıvrım belirir. Mescalin bu seçici alışkanlığı radikal biçimde değiştirir.",
+        "Huxley deneyimi mistik 'olduğu gibi oluş' kavramına bağlar. Bu yorum deneyimin kendisinden ayrı felsefi adımdır.",
+        "Yoğunluk gerçeğin nihai hali mi, beynin başka düzeni mi? Kitap soruyu açık bıraksa da çoğu yerde metafiziğe yaklaşır."
+      ]
+    },
+    {
+      "id": "durak-04-pantolondaki-sonsuz-kivrimlar",
+      "section": "BİRİNCİ KISIM · DEĞİŞEN GÖRÜŞ",
+      "title": "Pantolondaki sonsuz kıvrımlar",
+      "paragraphs": [
+        "Huxley gri pantolonunun kumaş kıvrımlarına bakar ve eski ustaların resimlerindeki kumaşların neden büyüleyici olduğunu anladığını söyler.",
+        "Normal bakış kıyafeti 'giyilecek şey' diye hızla sınıflandırır. Değişen algı faydayı arka plana, ışık ile dokuyu öne alır.",
+        "Bir nesnenin pratik işlevini kaybetmeden estetik varlığını görmek sanatın da yaptığı şeydir.",
+        "Ancak yoğun dikkat her zaman yararlı değildir. Pantolon kıvrımında kaybolan kişi randevusuna yetişemez; algı seçimi yaşam için gereklidir."
+      ]
+    },
+    {
+      "id": "durak-05-mekan-ve-zamanin-degismesi",
+      "section": "BİRİNCİ KISIM · DEĞİŞEN GÖRÜŞ",
+      "title": "Mekan ve zamanın değişmesi",
+      "paragraphs": [
+        "Nesneler arasındaki mesafe alışılmış ölçüsünü kaybedebilir, zaman önemsiz veya geniş hissedilebilir. Saat aynı hızla ilerlerken yaşanan süre değişir.",
+        "Sıkıcı bekleyişte beş dakika uzun, sevilen uğraşta bir saat kısa gelir. Psikedelik deney bu esnekliği çok daha güçlü hale getirebilir.",
+        "Huxley sonsuz şimdiden söz eder. Plan ve geçmiş geri çekilince mevcut duyusal alan büyür.",
+        "Bu deney felsefi zamanın kanıtı değildir; beynin zaman hissini nasıl kurduğuna dair kişisel ipucudur."
+      ]
+    },
+    {
+      "id": "durak-06-benlik-sesi-kisildiginda",
+      "section": "BİRİNCİ KISIM · DEĞİŞEN GÖRÜŞ",
+      "title": "Benlik sesi kısıldığında",
+      "paragraphs": [
+        "Huxley gündelik benliğin öneminin azaldığını, nesnelerin kendi varlığıyla öne çıktığını anlatır. Kişisel kaygıların merkez tahtı boşalır.",
+        "Fotoğrafta sürekli kendi yüzünü izleyen pencere kapanınca oda fark edilir. Benlik filtresi çevreyi düzenleyen ama daraltan çerçeve olabilir.",
+        "Benlik çözülmesi huzur kadar korku da yaratabilir. Kontrol kaybı bazı kişiler için yoğun panik veya dağılma hissidir.",
+        "Huxley'nin olumlu deneyimi herkes için evrensel sonuç değildir."
+      ]
+    },
+    {
+      "id": "durak-07-beyin-azaltici-vana-mi",
+      "section": "İKİNCİ KISIM · ZİHİN VE SANAT",
+      "title": "Beyin azaltıcı vana mı?",
+      "paragraphs": [
+        "Huxley, Bergson ve Broad'dan etkilenerek beynin geniş bir gerçeklik zihnini hayatta kalmak için daralttığını öne sürer. Mescalin bu azaltıcı vanayı gevşetiyor olabilir.",
+        "Baraj kapağı bütün suyu bırakırsa şehir taşar; günlük zihin işe yarayan küçük akışı seçer. Filtre yaşamı mümkün kılar.",
+        "Bu etkileyici metafor yerleşmiş nörobilim teorisi değildir. Beynin sonsuz dış zihin akışını filtrelediğine dair doğrudan kanıt yoktur.",
+        "Modern araştırma algının seçici ve tahmine dayalı olduğunu destekler, fakat Huxley'nin metafizik sonucunu zorunlu kılmaz."
+      ]
+    },
+    {
+      "id": "durak-08-algi-neden-zaten-filtredir",
+      "section": "İKİNCİ KISIM · ZİHİN VE SANAT",
+      "title": "Algı neden zaten filtredir?",
+      "paragraphs": [
+        "Oda gözünüze milyonlarca ayrıntı sunar, siz kapı kolu ve aradığınız anahtarı seçersiniz. Dikkat görevle ilgili olanı öne çıkarır.",
+        "Beyin pasif kamera değil geçmiş deneyimle tahmin kuran düzenleyicidir. Aynı gölgeyi bağlama göre yüz veya leke görebiliriz.",
+        "Psikedelikler beyin ağları ve tahmin ağırlıklarını değiştirerek sıradan önem sıralamasını gevşetebilir; araştırma sürmektedir.",
+        "Daha çok ayrıntı otomatik olarak daha doğru gerçeklik değildir. Filtre azalınca gürültü de artabilir."
+      ]
+    },
+    {
+      "id": "durak-09-sanatcilar-kapiyi-nasil-aralar",
+      "section": "İKİNCİ KISIM · ZİHİN VE SANAT",
+      "title": "Sanatçılar kapıyı nasıl aralar?",
+      "paragraphs": [
+        "Huxley ressamların kumaş, mücevher, manzara ve yüzlerde gündelik faydanın ötesini gösterdiğini düşünür. Sanat kimyasal olmadan algı alışkanlığını sarsabilir.",
+        "Vermeer'in odası veya Van Gogh'un sandalyesi sıradan nesneyi yeni dikkatle kurar. Çerçeve, renk ve ritim seçici filtreyi değiştirir.",
+        "Sanatçı her zaman mistik gerçekliği görmüş değildir; tarih, teknik ve emek de eseri açıklar.",
+        "Yine de kitap sanat müzesini algı laboratuvarı olarak yeniden görmemizi sağlar."
+      ]
+    },
+    {
+      "id": "durak-10-mucevher-ve-vitray-neden-buyuler",
+      "section": "İKİNCİ KISIM · ZİHİN VE SANAT",
+      "title": "Mücevher ve vitray neden büyüler?",
+      "paragraphs": [
+        "Parlak taş, vitray ve altın ışığı yoğunlaştırır. Huxley bunların başka dünyaya açılan görsel deneyim sağladığını söyler.",
+        "Karanlık kilisede renkli cam günlük sokak ışığını dönüştürür; mimari dikkati kutsal anlam yönünde düzenler.",
+        "Lüks eşya ile mistik görüntü arasındaki bağ sınıf sorununu doğurur. Parlaklık zenginliğin gücünü de sergiler.",
+        "Estetik yoğunluk toplumsal bağlamdan bağımsız değildir; sarayın taşı ile hacının ışığı aynı anda görülebilir."
+      ]
+    },
+    {
+      "id": "durak-11-sizofreni-benzetmesinin-sorunu",
+      "section": "ÜÇÜNCÜ KISIM · MİSTİSİZM VE RİSK",
+      "title": "Şizofreni benzetmesinin sorunu",
+      "paragraphs": [
+        "Huxley bazı değişmiş algıları şizofreni deneyimiyle karşılaştırır. Döneminde yaygın olan bu yaklaşım bugün aşırı ve damgalayıcı bulunabilir.",
+        "Kısa süreli, seçilmiş ve destekli madde deneyimi ile istem dışı, uzun süreli psikoz aynı değildir. Kontrol ve işlev kaybı temel farktır.",
+        "Psikedelikler bazı kişilerde psikotik belirtileri tetikleyebilir; kişisel veya ailevi risk özellikle önemlidir.",
+        "Edebi benzerlik klinik eşitlik değildir. Güncel tıbbi bilgi romantik benzetmenin önüne geçmelidir."
+      ]
+    },
+    {
+      "id": "durak-12-mistik-deney-kanit-midir",
+      "section": "ÜÇÜNCÜ KISIM · MİSTİSİZM VE RİSK",
+      "title": "Mistik deney kanıt mıdır?",
+      "paragraphs": [
+        "Birlik, zamansızlık ve kutsallık hissi yaşayan kişi için son derece gerçek olabilir. Fakat yoğun kesinlik hissi dış dünyanın metafizik yapısını tek başına kanıtlamaz.",
+        "Rüyada da ikna edici anlam yaşayabiliriz. Deneyimin psikolojik değeri ile ontolojik iddia ayrı sorudur.",
+        "Huxley farklı dinlerde benzer deneyimler görür ve ortak çekirdek düşünür. Kültür, beklenti ve dil yaşantının biçimini etkileyebilir.",
+        "En dürüst tutum ne küçümsemek ne otomatik vahiy saymaktır; deneyimi ve iddiayı iki sütunda incelemektir."
+      ]
+    },
+    {
+      "id": "durak-13-cennet-ve-cehennem-ayni-kapida",
+      "section": "ÜÇÜNCÜ KISIM · MİSTİSİZM VE RİSK",
+      "title": "Cennet ve cehennem aynı kapıda",
+      "paragraphs": [
+        "Huxley sonraki denemelerinde değişmiş bilincin yalnız cennet gibi görüntüler değil korku, yalnızlık ve cehennem deneyimleri de açabileceğini anlatır.",
+        "Algı filtresi gevşediğinde bastırılmış korku da yoğunlaşabilir. Kapının arkasında ne olduğunu kişi tam seçemez.",
+        "Ortam, ruh hali ve destek sonucu etkiler; risk ortadan kalkmaz. Bedensel tehlike, etkileşim ve yasal durum ayrıca önemlidir.",
+        "Kitabın güzel dili deneyimin karanlık ihtimalini gizlememelidir."
+      ]
+    },
+    {
+      "id": "durak-14-set-ve-setting",
+      "section": "ÜÇÜNCÜ KISIM · MİSTİSİZM VE RİSK",
+      "title": "Set ve setting",
+      "paragraphs": [
+        "Kişinin beklentisi, ruh hali ve geçmişi 'set'; fiziksel ve sosyal çevre 'setting' diye anılır. Etki yalnız molekülden gelmez.",
+        "Aynı müzik güvenli odada sakin, tehdit altında korkutucu duyulabilir. Değişmiş algıda bağlamın etkisi büyür.",
+        "Klinik araştırmalar tarama, hazırlık, gözetim ve takip kullanır. Bunlar tedavinin dış süsü değil güvenliğin parçasıdır.",
+        "Bu bilgi evde uygulama reçetesi değildir; kontrolsüz kullanım ile araştırma sonucunun neden eşit olmadığını açıklar."
+      ]
+    },
+    {
+      "id": "durak-15-huxley-nin-iyimserligi",
+      "section": "DÖRDÜNCÜ KISIM · BUGÜNKÜ ARAŞTIRMA",
+      "title": "Huxley'nin iyimserliği",
+      "paragraphs": [
+        "Huxley uygun kullanımla insanların daha az benmerkezci ve daha açık olabileceğini umar. Tek deneyin toplumu dönüştürme gücüne yaklaşır.",
+        "Yoğun içgörü ertesi gün davranışa dönüşmeyebilir. Alışkanlık, ilişki ve kurumlar aynı kalırsa parlak anı hatıra olur.",
+        "Bugünkü araştırmalar deneyim sonrası entegrasyonun önemini vurgular. Değişim yalnız kapıyı açmak değil görüleni yaşama taşımaktır.",
+        "Kimyasal kısa yol, etik emeğin ve sosyal reformun yerine geçmez."
+      ]
+    },
+    {
+      "id": "durak-16-tedavi-arastirmalari-ne-soyluyor",
+      "section": "DÖRDÜNCÜ KISIM · BUGÜNKÜ ARAŞTIRMA",
+      "title": "Tedavi araştırmaları ne söylüyor?",
+      "paragraphs": [
+        "Psilosibin ve benzeri maddeler depresyon, bağımlılık ve yaşam sonu kaygısında kontrollü çalışmalarla araştırılıyor. Bazı sonuçlar umut vericidir.",
+        "Çalışmalar seçilmiş katılımcı, ölçülü doz, eğitimli ekip ve uzun destek içerir. Plasebo körlüğü ve beklenti etkisi araştırmayı zorlaştırır.",
+        "Umut verici, herkes için güvenli ve kesin tedavi demek değildir. Uzun dönem etki, karşılaştırma ve erişim soruları sürer.",
+        "Huxley'nin tanıklığı tarihsel esin olabilir, klinik kılavuz değildir."
+      ]
+    },
+    {
+      "id": "durak-17-mikrodoz-iddialari",
+      "section": "DÖRDÜNCÜ KISIM · BUGÜNKÜ ARAŞTIRMA",
+      "title": "Mikrodoz iddiaları",
+      "paragraphs": [
+        "Günümüzde çok düşük dozların yaratıcılık ve ruh halini artırdığı iddia edilir. Anketler olumlu deneyim bildirirken kontrollü çalışmalarda beklenti etkisi önemli olabilir.",
+        "Kişi aldığına inanarak daha dikkatli çalışabilir. Sonuç gerçek hissedilir, nedeni yalnız madde olmayabilir.",
+        "Uzun dönem güvenlik ve ilaç etkileşimleri yeterince açık değildir. Popülerlik kanıt gücü değildir.",
+        "Huxley'nin yüksek yoğunluklu deneyimini mikrodoz kültürüyle aynı şey saymak da tarihsel hatadır."
+      ]
+    },
+    {
+      "id": "durak-18-kimyasalsiz-algi-kapilari",
+      "section": "DÖRDÜNCÜ KISIM · BUGÜNKÜ ARAŞTIRMA",
+      "title": "Kimyasalsız algı kapıları",
+      "paragraphs": [
+        "Meditasyon, sanat, doğa, nefes, müzik ve yoğun dikkat gündelik sınıflandırmayı gevşetebilir. Etkileri psikedelikle aynı değildir, fakat algının alışkanlık olduğunu gösterir.",
+        "Bir nesneye beş dakika ad vermeden bakmak renk ve biçimi geri getirir. Müzede tek eser önünde kalmak hız filtresini yavaşlatır.",
+        "Bu yollar da herkes için tamamen risksiz değildir; yoğun uygulama bazı kişilerde zorlayıcı olabilir. Ölçü ve destek önemlidir.",
+        "Kitabın en güvenli mirası, dünyayı otomatik etiketlerin ötesinde yeniden görme merakıdır."
+      ]
+    },
+    {
+      "id": "durak-19-tek-deneyden-evren-teorisi",
+      "section": "SON DURAKLAR",
+      "title": "Tek deneyden evren teorisi",
+      "paragraphs": [
+        "Huxley kendi yoğun yaşantısından zihnin ve gerçekliğin yapısı hakkında geniş sonuçlar çıkarır. Edebi denemede bu cesaret etkileyicidir, bilimde ek kanıt ister.",
+        "Azaltıcı vana, sonsuz zihin ve ortak mistik çekirdek kanıtlanmış gerçekler değil yorum çerçeveleridir.",
+        "Kitabı değerli kılmak için her metafiziğini kabul etmek gerekmez. Algının seçici olduğunu güçlü biçimde hissettirir."
+      ]
+    },
+    {
+      "id": "durak-20-kulturel-etkisi-ve-yanlis-mirasi",
+      "section": "SON DURAKLAR",
+      "title": "Kültürel etkisi ve yanlış mirası",
+      "paragraphs": [
+        "Kitap 1960'ların karşı kültürünü ve The Doors grubunun adını etkiledi. Psikedelik deneyin sanatsal ve manevi imgesi genişledi.",
+        "Popüler miras çoğu zaman Huxley'nin gözetim, entelektüel hazırlık ve risk ayrıntısını atıp yalnız kapı açma heyecanını aldı.",
+        "Bir eserin kültürel etkisi yazarın kontrolünü aşar. Okur etkileyici imgeyi güncel güvenlik bilgisiyle dengelemelidir."
+      ]
+    },
+    {
+      "id": "durak-21-bes-dakikalik-gorme-alistirmasi",
+      "section": "SON DURAKLAR",
+      "title": "Beş dakikalık görme alıştırması",
+      "paragraphs": [
+        "Güvenli ve sıradan bir nesne seçin. Adını, fiyatını ve işlevini düşünmeden yalnız renk, kenar, gölge ve dokusuna beş dakika bakın.",
+        "Sonra normal dikkatin hangi ayrıntıları elediğini yazın. Filtrenin düşman değil işlevsel seçim olduğunu da hatırlayın.",
+        "Amaç değişmiş bilinç taklidi değil gündelik görmenin ne kadar hızlı sınıflandırdığını fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-22-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Huxley mescalin deneyinde gündelik benlik ve fayda filtresi gevşediğinde sıradan nesnelerin olağanüstü yoğun göründüğünü anlatır; bu tanıklık algıya açılan soru, güvenlik veya metafizik için son kanıt değildir.",
+        "Akılda kalacak görüntü pantolon kıvrımıdır: Her gün gördüğümüz şey değişmez, onu eleyen ve önem sırasına koyan zihin değiştiğinde dünya başka görünür."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-bir-bahar-sabahindaki-deney": {
+      "image": "/images/summary-art-294-chapter-01-spring-experiment-v1.webp",
+      "imageCaption": "Huxley'nin oturma odası, gözetim altında gündelik nesnelerin değişen algısını izlediği tek kişilik deney sahnesine dönüşür."
+    },
+    "durak-03-cicekler-yalniz-cicek-olmaktan-cikinca": {
+      "image": "/images/summary-art-294-chapter-02-intense-flowers-v1.webp",
+      "imageCaption": "Gündelik 'çiçek' etiketi geri çekildiğinde renk, damar ve biçim olağanüstü bir varlık yoğunluğu kazanır."
+    },
+    "durak-04-pantolondaki-sonsuz-kivrimlar": {
+      "image": "/images/summary-art-294-chapter-03-fabric-folds-v1.webp",
+      "imageCaption": "Sıradan kumaş işlev etiketi geri çekilince ışık, gölge ve kıvrımlardan oluşan zengin bir manzaraya dönüşür."
+    },
+    "durak-05-mekan-ve-zamanin-degismesi": {
+      "image": "/images/summary-art-294-chapter-04-expanded-time-v1.webp",
+      "imageCaption": "Saat değişmese de geçmiş ve gelecek geri çekildiğinde yaşanan şimdi geniş ve zamansız hissedilebilir."
+    },
+    "durak-06-benlik-sesi-kisildiginda": {
+      "image": "/images/summary-art-294-chapter-05-quiet-self-v1.webp",
+      "imageCaption": "Benlik sesi kısıldığında çevre daha geniş görünebilir; aynı çözülme başka kişide korku ve kontrol kaybı yaratabilir."
+    },
+    "durak-07-beyin-azaltici-vana-mi": {
+      "image": "/images/summary-art-294-chapter-06-reducing-valve-v1.webp",
+      "imageCaption": "Azaltıcı vana metaforu beynin yaşamak için algı akışını daralttığını söyler, fakat bilimsel kanıtlanmış model değildir."
+    },
+    "durak-08-algi-neden-zaten-filtredir": {
+      "image": "/images/summary-art-294-chapter-07-attention-filter-v1.webp",
+      "imageCaption": "Dikkat anahtar ararken odayı seçer; filtre gevşediğinde ayrıntı artar ama önem ve gürültü de birbirine karışabilir."
+    },
+    "durak-09-sanatcilar-kapiyi-nasil-aralar": {
+      "image": "/images/summary-art-294-chapter-08-art-opens-door-v1.webp",
+      "imageCaption": "Sanat gündelik nesnenin fayda etiketini geri çekip bakış alışkanlığında kimyasalsız bir kapı aralayabilir."
+    },
+    "durak-10-mucevher-ve-vitray-neden-buyuler": {
+      "image": "/images/summary-art-294-chapter-09-stained-glass-v1.webp",
+      "imageCaption": "Vitray gündelik ışığı dönüştürerek başka dünya hissi verir, aynı zamanda kurum ve zenginliğin gücünü taşır."
+    },
+    "durak-11-sizofreni-benzetmesinin-sorunu": {
+      "image": "/images/summary-art-294-chapter-10-different-experiences-v1.webp",
+      "imageCaption": "Seçilmiş kısa madde deneyimi ile istem dışı psikoz aynı kapı değildir; klinik farklar romantik benzetmeyle silinmemelidir."
+    },
+    "durak-12-mistik-deney-kanit-midir": {
+      "image": "/images/summary-art-294-chapter-11-mystical-certainty-v1.webp",
+      "imageCaption": "Mistik kesinlik deneyim olarak gerçek olabilir; dış dünyanın nihai yapısı hakkındaki iddia ayrıca gerekçe ister."
+    },
+    "durak-13-cennet-ve-cehennem-ayni-kapida": {
+      "image": "/images/summary-art-294-chapter-12-heaven-hell-door-v1.webp",
+      "imageCaption": "Aynı algı kapısı hayranlık kadar korku ve dağılma da açabilir; deneyimin yönü tam kontrol edilemez."
+    },
+    "durak-14-set-ve-setting": {
+      "image": "/images/summary-art-294-chapter-13-set-and-setting-v1.webp",
+      "imageCaption": "Molekülün etkisi kişinin zihinsel durumu ve çevresiyle birleşir; klinik destek sonucun ayrılmaz parçasıdır."
+    },
+    "durak-15-huxley-nin-iyimserligi": {
+      "image": "/images/summary-art-294-chapter-14-insight-to-life-v1.webp",
+      "imageCaption": "Yoğun içgörü gündelik alışkanlık ve ilişkilere çevrilmezse parlak ama etkisiz bir hatıra olarak kalabilir."
+    },
+    "durak-16-tedavi-arastirmalari-ne-soyluyor": {
+      "image": "/images/summary-art-294-chapter-15-clinical-research-v1.webp",
+      "imageCaption": "Umut verici klinik sonuçlar seçilmiş katılımcı ve yoğun destek içinde doğar; denetimsiz kullanıma doğrudan çevrilemez."
+    },
+    "durak-17-mikrodoz-iddialari": {
+      "image": "/images/summary-art-294-chapter-16-microdose-claims-v1.webp",
+      "imageCaption": "Mikrodoz deneyiminde madde, beklenti ve davranış değişikliği birbirine karışabilir; popüler anlatı kontrollü kanıt değildir."
+    }
+  }
+}

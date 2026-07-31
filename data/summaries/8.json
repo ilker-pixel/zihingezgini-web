@@ -1,0 +1,335 @@
+{
+  "bookNo": 8,
+  "title": "Gen Bencildir",
+  "author": "Richard Dawkins",
+  "subtitle": "Bedenlerimizi yöneten minik patronlardan söz etmeyen; doğal seçilime genin uzun ömürlü kopyaları açısından bakınca fedakarlık, aile, rekabet ve işbirliğinin nasıl yeni bir ışıkta göründüğünü anlatan sade rehber.",
+  "coverImage": "/images/summary-art-8-gen-bencildir-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/8-gen-bencildir-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#385D55",
+  "meta": {
+    "originalTitle": "The Selfish Gene",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bedenlerimizi yöneten minik patronlardan söz etmeyen; doğal seçilime genin uzun ömürlü kopyaları açısından bakınca fedakarlık, aile, rekabet ve işbirliğinin nasıl yeni bir ışıkta göründüğünü anlatan sade rehber.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Oxford University Press - The Selfish Gene",
+      "url": "https://www.oup.com.au/books/general-interest/biological-sciences/9780198788607"
+    },
+    {
+      "id": 2,
+      "title": "Google Books - The Selfish Gene içerik görünümü",
+      "url": "https://books.google.com/books/about/The_Selfish_Gene.html?id=Gwe0ict60PMC"
+    },
+    {
+      "id": 3,
+      "title": "Nature Education - Akraba seçilimi",
+      "url": "https://www.nature.com/scitable/knowledge/library/kin-selection-13216114/"
+    },
+    {
+      "id": 4,
+      "title": "Stanford Encyclopedia of Philosophy - Biyolojik özgecilik",
+      "url": "https://plato.stanford.edu/entries/altruism-biological/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Başlıktaki bencillik ahlaki bir suçlama değildir. Gen düşünemez, plan kuramaz ve kimseye kötülük yapmaya karar veremez. Dawkins bu sözcüğü, çevrede kendi kopyalarının sürmesine yol açan genlerin zamanla çoğalmasını akılda tutmak için kullanır.",
+        "Kitap canlıyı önemsiz saymaz. Tavşan, ağaç veya insan; genlerin etkileri, gelişim, çevre ve başka canlılarla ilişkilerinin buluştuğu karmaşık bir bütündür. Gen gözü, bu bütünün neden belirli biçimlere evrildiğini açıklayan bakışlardan yalnız biridir.",
+        "Rehber boyunca biyolojik açıklama ile insanın nasıl yaşaması gerektiği ayrılacak. Doğada bir davranışın evrilmiş olması onu iyi, kaçınılmaz veya örnek alınacak hale getirmez."
+      ]
+    },
+    {
+      "id": "durak-02-ilk-kopyacinin-uzun-golgesi",
+      "section": "BİRİNCİ KISIM · GENİN BAKIŞI",
+      "title": "İlk kopyacının uzun gölgesi",
+      "paragraphs": [
+        "Dawkins hikayeyi bugünkü hayvanlarla değil, yaşamdan önceki kimyasal dünyayla açar. Bazı moleküllerin çevredeki parçalardan kendine benzer kopyalar üretebildiğini düşünür. Kusursuz olmayan kopyalama, hem devamlılığı hem de farklılığı doğurur.",
+        "Bir fotokopi makinesi her bin sayfada küçük bir leke bıraksın. Leke sonraki kopyalarda da basılır ve bazı kopyalar kağıdın yıpranmasına daha dayanıklı olursa arşiv zamanla onlarla dolar. Seçilimin mantığı için niyet değil, kalıcılık farkı yeterlidir.",
+        "Bu başlangıç yaşamın kesin köken tarifi değildir; kitabın düşünce deneyidir. Asıl nokta şudur: Kendisini daha güvenilir, hızlı veya uygun koşullarda çoğaltan düzenler, çoğalamayanlara göre gelecekte daha çok temsil edilir.",
+        "İnsan bedenine kadar uzanan hikayenin ilk sahnesi böylece bir kahraman değil, tekrar eden bir desendir. Yaşamın sürekliliğini bireyin ömründen daha uzun kopya zincirleri taşır."
+      ]
+    },
+    {
+      "id": "durak-03-beden-bir-hayatta-kalma-makinesi-mi",
+      "section": "BİRİNCİ KISIM · GENİN BAKIŞI",
+      "title": "Beden bir hayatta kalma makinesi mi?",
+      "paragraphs": [
+        "Kitabın en çarpıcı benzetmesi bedeni genlerin hayatta kalma makinesi olarak görür. Bu, bedenin metal bir robot olduğu anlamına gelmez. Genlerin etkileriyle kurulmuş, çevreyi algılayan ve davranışı esnek biçimde ayarlayan canlı bir araçtan söz edilir.",
+        "Bir tarif defteri mutfağı tek başına yönetemez. Malzeme, aşçı, sıcaklık ve zaman olmadan tarif yalnız işarettir. Gen de hücre, gelişim ve çevre olmadan sonuç üretmez. Buna rağmen tarifteki değişiklik yemeğin kuşaklar boyunca tekrar eden yönünü etkileyebilir.",
+        "Birey ölür; gen kopyaları çocuklarda ve akrabalarda yoluna devam edebilir. Bu süre farkı, doğal seçilimin hesabını neden gen düzeyinde kurmanın yararlı olduğunu açıklar.",
+        "Benzetmenin sınırı önemlidir. İnsan, genlerinden gelen eğilimleri fark edebilir, kurum kurabilir ve kararlarını değiştirebilir. Açıklanmış olmak, uzaktan kumandayla yönetilmek değildir."
+      ]
+    },
+    {
+      "id": "durak-04-gen-aslinda-ne-kadar-buyuk",
+      "section": "BİRİNCİ KISIM · GENİN BAKIŞI",
+      "title": "Gen aslında ne kadar büyük?",
+      "paragraphs": [
+        "Dawkins geni yalnız göz rengi gibi tek bir özelliğin düğmesi olarak düşünmez. Seçilim açısından önemli olan, kopyalanırken yeterince uzun süre birlikte kalan ve sonuçlarıyla kendi aktarım olasılığını etkileyen DNA parçasıdır.",
+        "Bir gazetede sürekli birlikte basılan kısa bir cümle, sayfanın tamamından daha kararlı bir birim olabilir. Kromozomlar mayoz sırasında parçaları değiş tokuş ettiği için çok uzun DNA blokları kuşaklar boyunca aynı kalmaz; daha küçük bölümler daha sadık yolculuk eder.",
+        "Tek bir davranışın tek bir geni yoktur. Yuva kurmak, korkmak veya öğrenmek birçok genin, bedenin ve çevrenin ortak ürünüdür. Gen merkezli bakış, karmaşıklığı bir düğmeye indirmek değil, hangi kalıtsal farkın seçilimde sayıldığını sormaktır.",
+        "Bu ayrım manşetlerdeki 'şunun geni bulundu' sözlerine karşı iyi bir frendir. Gen çoğu zaman kader yazan mühür değil, büyük bir orkestradaki etkili ama bağımlı bir çalgıdır."
+      ]
+    },
+    {
+      "id": "durak-05-bencillikten-fedakarlik-nasil-cikar",
+      "section": "İKİNCİ KISIM · ÇATIŞMA VE YARDIM",
+      "title": "Bencillikten fedakarlık nasıl çıkar?",
+      "paragraphs": [
+        "Bir kuş yırtıcıyı görünce bağırır ve kendi yerini belli eder. İlk bakışta gen merkezli görüşe ters düşen bu davranış, uyarılanların yakın akraba olması halinde farklı görünür. Akrabalar aynı genlerin bir bölümünü paylaşır.",
+        "Bir evdeki iki yedek anahtarın farklı ceplerde olduğunu düşünün. Birini korumak, aynı kilidi açan öteki kopyanın geleceğini de koruyabilir. Bireyin maliyeti, akrabalarında bulunan ortak gen kopyalarının kazancıyla dengelenebilir.",
+        "Hamilton kuralının sade fikri şudur: Yardımın akrabaya sağladığı yarar, akrabalık derecesiyle birlikte yardım edenin maliyetini aşarsa böyle bir eğilim seçilimle yayılabilir. Bu, hayvanın kafasında hesap makinesi taşıdığı anlamına gelmez.",
+        "Fedakarlığın değerini küçültmek gerekmez. Kitap yalnızca bazı özgeci görünen davranışların evrimsel olarak nasıl mümkün olabildiğini açıklar; ahlaki iyiliğin bütün hikayesini bitirmez."
+      ]
+    },
+    {
+      "id": "durak-06-anne-cocuk-ve-gorunmeyen-pazarlik",
+      "section": "İKİNCİ KISIM · ÇATIŞMA VE YARDIM",
+      "title": "Anne, çocuk ve görünmeyen pazarlık",
+      "paragraphs": [
+        "Anne ile yavrunun çıkarı tamamen aynı değildir. Anne bütün çocuklarına kaynak ayırmak zorundadır; yavru ise kendisi için biraz daha fazlasını ister. Sütten kesilme kavgası bu küçük çıkar ayrımının gündelik sahnesidir.",
+        "Beş dilim pastayı üç çocuğa dağıtan ebeveyni düşünün. Her çocuk iki dilim isteyebilir, fakat ebeveyn yarını ve kardeşleri de hesaba katar. Sevgi gerçek olsa bile kaynak sınırlılığı pazarlığı ortadan kaldırmaz.",
+        "Dawkins ebeveyn yatırımını gen kopyalarının geleceği üzerinden inceler. Yavrunun ağlaması, ebeveynin yanıtı ve kardeş rekabeti, tek taraflı bir komut zinciri değil karşılıklı ayarlanan stratejiler olabilir.",
+        "Bu görüş insan ailesini soğuk muhasebeye indirgememelidir. Kültür, bilinç, bakım kurumları ve kişisel bağlılık biyolojik zeminin üstünde yeni imkanlar kurar. Yine de çatışma yaşandığında sevginin yok sayılmasına gerek olmadığını gösterir."
+      ]
+    },
+    {
+      "id": "durak-07-guguk-kusunun-sahte-siparisi",
+      "section": "İKİNCİ KISIM · ÇATIŞMA VE YARDIM",
+      "title": "Guguk kuşunun sahte siparişi",
+      "paragraphs": [
+        "Guguk kuşu yumurtasını başka türün yuvasına bırakabilir. Yavru çıktığında ev sahibinin yavrularını dışarı atar ve aç ağzıyla bütün bakımı kendine çeker. Bakım davranışı, onu tetikleyen işaretler taklit edildiğinde sömürülebilir.",
+        "Otomatik kapının insanı değil hareketi algılaması gibi, hayvan da her durumu uzun uzun düşünmek yerine güvenilir işaretlere yanıt verir. Çoğu zaman işe yarayan kural, sıra dışı bir hile karşısında şaşabilir.",
+        "Bu sahne evrimin kusursuz tasarım yapmadığını gösterir. Ev sahibi kuşun her yabancı yumurtayı ayırması da maliyetlidir; kendi yumurtasını yanlışlıkla atabilir. Savunma ile hile arasında bitmeyen bir yarış oluşur.",
+        "Doğadaki davranışları 'türün iyiliği' diye açıklamak bu nedenle yetmez. Aynı ekosistemde bir canlının stratejisi diğerinin bakım düzenini kendi kopyaları lehine çevirebilir."
+      ]
+    },
+    {
+      "id": "durak-08-sahinler-guvercinler-ve-denge",
+      "section": "İKİNCİ KISIM · ÇATIŞMA VE YARDIM",
+      "title": "Şahinler, güvercinler ve denge",
+      "paragraphs": [
+        "Maynard Smith'in oyununda şahin sertçe saldırır, güvercin ise gösteri yapar ama ciddi dövüşten kaçar. Herkes şahin olursa yaralanma maliyeti yükselir; herkes güvercin olursa saldırgan bir şahin büyük avantaj kazanır.",
+        "Dar bir sokakta bütün sürücüler zorla geçmeye çalışsa trafik kilitlenir. Herkes aşırı nazik olup sonsuza kadar beklerse ilk kural bozan ilerler. Sonuç, tek bir en iyi karakterden çok toplumdaki diğer davranışların oranına bağlıdır.",
+        "Evrimsel olarak kararlı strateji, yaygın olduğunda nadir bir rakibin kolayca istila edemediği davranış düzenidir. Strateji burada bilinçli plan değil, kalıtsal eğilim veya tekrar eden davranış kuralıdır.",
+        "Kitap böylece 'en saldırgan kazanır' klişesini bozar. Bazen temkin, bazen misilleme, bazen de davranışların karışımı kalıcı olur. Başarı, karşı karşıya geldiğiniz oyuncularla birlikte tanımlanır."
+      ]
+    },
+    {
+      "id": "durak-09-tutuklunun-ikilemi-ve-kisasa-kisas",
+      "section": "ÜÇÜNCÜ KISIM · İŞBİRLİĞİNİN YOLLARI",
+      "title": "Tutuklunun ikilemi ve kısasa kısas",
+      "paragraphs": [
+        "İki oyuncu işbirliği yaparsa ikisi de kazanır; biri diğerini satarsa hain daha çok alır; ikisi de satarsa ikisi de kötü sonuçla kalır. Tek karşılaşmada ihanet çekici görünür, tekrar eden oyunda ise gelecek gölgesi hesabı değiştirir.",
+        "Aynı komşudan yıllarca merdiven istemekle, bir daha görmeyeceğiniz yabancıdan istemek aynı değildir. Bugünkü kabalık yarın kapınızı kapatabilir. Tekrarlanan ilişkiler güvene ekonomik bir değer kazandırır.",
+        "Kitabın sonraki baskılarında öne çıkan kısasa kısas stratejisi ilk turda işbirliği yapar, sonra karşısındakinin önceki hamlesini tekrarlar. Ne safça iyidir ne de sonsuza dek kin tutar; hızlı karşılık verir ve barışa dönebilir.",
+        "Gerçek yaşam oyundan daha karışıktır. Hatalı anlamalar, güç farkı ve kurumlar vardır. Yine de model, gen merkezli seçilimin işbirliğini dışlamadığını berrak biçimde gösterir."
+      ]
+    },
+    {
+      "id": "durak-10-karsilikli-iyilik-neden-calisir",
+      "section": "ÜÇÜNCÜ KISIM · İŞBİRLİĞİNİN YOLLARI",
+      "title": "Karşılıklı iyilik neden çalışır?",
+      "paragraphs": [
+        "Vampir yarasaları av bulamadığında aç kalabilir. Bazı bireyler daha önce kendilerine yardım eden yoldaşlarla kan paylaşır. Yardımın maliyeti verene küçük, aç alıcıya sağladığı kazanç büyükse karşılıklılık gelişebilir.",
+        "Mahalle bakkalının veresiye defteri gibi, ilişki kusursuz muhasebe gerektirmez ama sürekli bedava alanı fark edecek kadar hafıza ister. Kimlik tanıma, tekrar karşılaşma ve hileciyi cezalandırma olmazsa sistem kolayca çöker.",
+        "Dawkins'in dünyasında iyilik gökten düşmez; belirli koşullarda dayanıklı hale gelir. Bu açıklama, yardımın içtenliğini ölçmez. Bir davranışın uzak evrimsel kökeni ile kişinin bugünkü duygusu aynı soru değildir.",
+        "Karşılıklılık bize kurumların önemini de düşündürür. İtibar, sözleşme ve şeffaflık geleceği görünür kılarak işbirliğini güçlendirebilir; anonimlik ve cezasızlık ise kısa vadeli sömürüyü cazip hale getirir."
+      ]
+    },
+    {
+      "id": "durak-11-sosyal-boceklerin-aile-sehri",
+      "section": "ÜÇÜNCÜ KISIM · İŞBİRLİĞİNİN YOLLARI",
+      "title": "Sosyal böceklerin aile şehri",
+      "paragraphs": [
+        "Arı ve karınca kolonilerinde birçok işçi kendi yavrusunu üretmeden kraliçenin yavrularına bakar. Bu büyük fedakarlık, akrabalık yapısı ve koloni yaşamının birlikte incelenmesiyle anlaşılır.",
+        "Bir apartmanın daireleri değil, bütün binası çoğalıyormuş gibi düşünün. İşçiler yiyecek toplar, savunur ve yavru büyütür; kraliçe üreme görevinde uzmanlaşır. Koloni, görev bölümü güçlü bir aile ağıdır.",
+        "Dawkins akrabalık hesabını önemli görür ama tek açıklama saymaz. Ekoloji, yuva yapısı ve koloni düzeyindeki düzen de sonucu etkiler. Modern tartışmalarda grup seçilimi ile kapsayıcı uyum yaklaşımları farklı ağırlıklar verir.",
+        "Böcek şehrini insan toplumu için siyasi reçete yapmak hatadır. İnsan işbirliği yalnız genetik akrabalıkla kurulmaz; yabancılar hukuk, ortak amaç ve ahlaki ilkeler çevresinde birlikte yaşayabilir."
+      ]
+    },
+    {
+      "id": "durak-12-cinsiyetlerin-cikar-hesabi",
+      "section": "ÜÇÜNCÜ KISIM · İŞBİRLİĞİNİN YOLLARI",
+      "title": "Cinsiyetlerin çıkar hesabı",
+      "paragraphs": [
+        "Yumurta büyük ve pahalı, sperm küçük ve bol olduğunda üreme yatırımları eşit başlamaz. Bu fark, eş seçimi, rekabet ve yavru bakımında farklı eğilimler oluşturabilir. Kitap bunları stratejik çatışma diliyle anlatır.",
+        "Bir ortaklıkta iki kişi farklı miktarda sermaye koyuyorsa risk ve seçicilikleri değişebilir. Fakat biyolojik yatırım, toplumdaki bütün kadın ve erkeklerin aynı davranacağı anlamına gelmez. Türler ve kültürler arasında geniş çeşitlilik vardır.",
+        "Dawkins'in bazı erken örnekleri bugünün okuruna fazla ikili ve kalıpçı gelebilir. Ebeveyn rolleri ekolojiye göre değişir; bireysel farklılık, cinsel seçilim ve toplumsal düzen basit bir şemaya sığmaz.",
+        "Yararlı ders, cinsiyetleri karakter kutularına koymak değil, bakımın maliyetini ve seçenekleri incelemektir. Kim neyi kaybediyor, hangi koşulda eş seçebiliyor ve çevre oyunu nasıl değiştiriyor?"
+      ]
+    },
+    {
+      "id": "durak-13-kusaklar-arasi-zaman-makinesi",
+      "section": "DÖRDÜNCÜ KISIM · KÜLTÜR VE SINIRLAR",
+      "title": "Kuşaklar arası zaman makinesi",
+      "paragraphs": [
+        "Bir gen bugünkü bedende geçmiş çevrelerin izlerini taşır. Seçilim geleceği görmez; geçmişte daha çok kopyalanan düzenler şimdi karşımızdadır. Çevre hızla değiştiğinde eski çözüm yeni soruna dönüşebilir.",
+        "Tatlı ve yağlı yiyeceğe güçlü istek, kıtlık koşullarında yararlı olabilirken market raflarının dolu olduğu şehirde sağlık yükü yaratabilir. Düğme aynı kalmış, oda değişmiştir.",
+        "Bu uyumsuzluk fikri her davranışa kolay hikaye uydurmak için kullanılmamalıdır. Geçmiş çevreyi, kalıtsallığı ve alternatif açıklamaları kanıtlamak gerekir. Güzel görünen evrim masalı tek başına veri değildir.",
+        "Yine de zaman makinesi bakışı, bedenin neden kusursuz olmadığını açıklar. Evrim bugünün mühendisi değil; geçmişin malzemesini yamayarak çalışan, geleceğe kör bir tamircidir."
+      ]
+    },
+    {
+      "id": "durak-14-mem-fikrin-kopyalanma-macerasi",
+      "section": "DÖRDÜNCÜ KISIM · KÜLTÜR VE SINIRLAR",
+      "title": "Mem: Fikrin kopyalanma macerası",
+      "paragraphs": [
+        "Dawkins kitabın sonunda kültürel kopyacılar için 'mem' sözcüğünü önerir. Bir melodi, slogan, moda veya dua zihinler arasında taklit yoluyla yayılabilir. Başarılı olması doğru ya da iyi olduğunu garanti etmez.",
+        "Telefonunuza yapışan kısa bir nakaratı düşünün. Bestecisini bilmeseniz de mırıldanır, başkasına geçirirsiniz. Kolay hatırlanma, duygu uyandırma ve tekrar fırsatı onun kültürel ömrünü uzatır.",
+        "Mem, gen kadar kesin sınırları olan yerleşmiş bir bilimsel birim değildir. Kültürel fikirler aktarılırken bilinçli biçimde değiştirilir, birbirine karışır ve kurumlar tarafından güçlendirilir. Benzetme aydınlatıcı olduğu kadar sınırlıdır.",
+        "İnternet çağında kavram yeni bir hayat kazandı. Fakat her viral içeriğe biyoloji etiketi yapıştırmak yerine, dikkat ekonomisi, platform tasarımı ve insan niyetini de hesaba katmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-15-uzatilmis-fenotip-bedenin-disindaki-etki",
+      "section": "DÖRDÜNCÜ KISIM · KÜLTÜR VE SINIRLAR",
+      "title": "Uzatılmış fenotip: Bedenin dışındaki etki",
+      "paragraphs": [
+        "Genin etkisi derinin bittiği yerde durmak zorunda değildir. Kunduzun barajı, kuşun yuvası veya parazitin konağında değiştirdiği davranış, genlerin çevrede bıraktığı sonuçlar olarak düşünülebilir.",
+        "Bir ustayı yalnız ellerine bakarak değil, yaptığı köprüye bakarak da tanırız. Benzer biçimde seçilim, bir canlının dış dünyada kurduğu ve kendi kopyalarının başarısını etkileyen yapılara uzanabilir.",
+        "Bu fikir genin uzaktan büyü yaptığı anlamına gelmez. Gen gelişimi etkiler, gelişim davranışı, davranış da çevreyi değiştirir. Nedensellik uzun bir zincirdir ve her halkada başka etkenler bulunur.",
+        "Bakış açısı ekolojik bağlantıları genişletir. Organizma ile çevreyi iki ayrı kutu yerine, birbirinin koşullarını dönüştüren bir süreç olarak görmeye yardım eder."
+      ]
+    },
+    {
+      "id": "durak-16-grup-secilimi-tartismasi",
+      "section": "DÖRDÜNCÜ KISIM · KÜLTÜR VE SINIRLAR",
+      "title": "Grup seçilimi tartışması",
+      "paragraphs": [
+        "Kitap, hayvanların çoğu zaman 'türün iyiliği' için davrandığı açıklamasına karşı çıkar. Bireye sürekli maliyet yükleyen bir özellik, onu taşımayan hileciler daha çok ürerse grup yararlı olsa bile zayıflayabilir.",
+        "Ortak kasaya herkes yüz lira koyunca mahalle parkı yapılacaktır. Bir kişi para vermeden parkı kullanabiliyorsa kısa vadede avantajlıdır. Denetim veya güçlü grup yapısı yoksa bedavacılık düzeni aşındırır.",
+        "Bugün çok düzeyli seçilim yaklaşımları, gen, birey ve grup düzeylerindeki süreçleri birlikte inceleyebilir. Tartışma çoğu zaman aynı olayı farklı muhasebe dilleriyle anlatmanın nerede daha açıklayıcı olduğuna döner.",
+        "Dawkins'in sert vurgusu önemli bir uyarı bırakır: 'Toplum için iyidir' demek, davranışın nasıl ortaya çıktığını açıklamaz. Maliyetin kimde, kazancın kimde ve aktarımın hangi düzeyde olduğunu göstermek gerekir."
+      ]
+    },
+    {
+      "id": "durak-17-gen-kader-degildir",
+      "section": "DÖRDÜNCÜ KISIM · KÜLTÜR VE SINIRLAR",
+      "title": "Gen kader değildir",
+      "paragraphs": [
+        "Genetik etkiyi değişmez yazgı sanmak kitabın en yaygın yanlış okumasıdır. Bir genin sonucu çevreye, diğer genlere, gelişime ve öğrenmeye bağlı olabilir. Boy uzunluğu kalıtsal olsa bile beslenme koşulları toplum ortalamasını değiştirir.",
+        "Bir iskambil destesinin dağılımı oyunun başlangıcını etkiler, fakat masadaki kurallar ve oyuncunun hamleleri sonucu da biçimlendirir. Elinizdeki kartlar önemlidir; oyunun tamamı değildir.",
+        "İnsan davranışında kültür, yasa ve özdenetim güçlü geri beslemeler kurar. Saldırganlığın evrimsel kökü olduğunu ileri sürmek saldırganlığı onaylamaz veya kaçınılmaz yapmaz.",
+        "Dawkins de insanların biyolojik kopyacıların çıkarlarına karşı gelebilen bir öngörü geliştirebildiğini vurgular. Doğayı anlamak, ona teslim olmak için değil seçenekleri görmek için kullanılabilir."
+      ]
+    },
+    {
+      "id": "durak-18-bencil-kelimesinin-tuzagi",
+      "section": "SON DURAKLAR",
+      "title": "Bencil kelimesinin tuzağı",
+      "paragraphs": [
+        "İnsan dilinde bencil sözü niyet, karakter ve kınama taşır. Molekül düzeyine geçirildiğinde kolayca yanlış anlaşılır. Bir gen yalnız sonuçları bakımından sanki kendi kopyasını koruyormuş gibi davranır.",
+        "Gazete başlığı bilimsel benzetmenin dipnotlarını siler. 'Bencil gen insanı bencil yapar' cümlesi kitabın savını tersine çevirir; aynı gen merkezli süreç yardım, bakım ve işbirliği de üretebilir.",
+        "Bu yüzden her bölümde iki soruyu ayırmak gerekir: Davranış hangi seçilim koşullarında yayılmış olabilir ve bugün bu davranışı ahlaken nasıl değerlendirmeliyiz? Birincinin cevabı ikincisini otomatik vermez."
+      ]
+    },
+    {
+      "id": "durak-19-kitabin-eskittigi-ve-eskimedigi-yerler",
+      "section": "SON DURAKLAR",
+      "title": "Kitabın eskittiği ve eskimediği yerler",
+      "paragraphs": [
+        "Moleküler genetik, gelişim biyolojisi, epigenetik ve çok düzeyli seçilim tartışmaları 1976'dan beri genişledi. Kitaptaki kimi örnekler sadeleştirilmiş, cinsiyet anlatıları ise dönemin kalıplarını fazla taşır.",
+        "Buna rağmen kalıcı araç güçlüdür: Evrimsel bir özelliği açıklarken kopyalanan kalıtsal farkı, maliyetleri ve alternatif stratejileri açıkça sormak. Bu bakış 'tür istedi, oldu' gibi kolay cümleleri zorlar.",
+        "En iyi okuma kitabı son söz değil, tartışma başlatan bir mercek olarak görür. Mercek bazı ayrıntıları büyütür; bütün manzarayı tek başına göstermez."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Bir davranış gördüğünüzde önce yakın nedeni sorun: Şimdi ne tetikledi? Sonra gelişim nedenini sorun: Bu beceri nasıl öğrenildi veya oluştu? En son evrimsel soruyu ekleyin: Benzer bir eğilim geçmişte hangi koşullarda aktarılmış olabilir?",
+        "Bu sıralama biyolojiyi her şeye yapıştırmayı engeller. İş arkadaşının kabalığını milyonlarca yıllık erkek rekabetiyle açıklamadan önce uykusuzluğu, iş düzenini ve kişisel sorumluluğu görürsünüz.",
+        "Kitabın en verimli mirası tek cevap değil, düzeyleri karıştırmayan meraktır. Genin bakışı güçlüdür; insan hayatı ise yalnız o bakıştan daha büyüktür."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Doğal seçilime gen kopyalarının uzun yolculuğundan bakınca rekabet kadar fedakarlık ve işbirliği de anlaşılır hale gelir; fakat bu açıklama insanın ahlaki kaderini yazmaz.",
+        "Akılda kalacak görüntü şudur: Kuşaklar boyunca aktarılan bir tarif, her yeni mutfakta farklı malzemelerle pişer. Tarif önemlidir, mutfak önemlidir ve aşçı da masada oturmaktadır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-ilk-kopyacinin-uzun-golgesi": {
+      "image": "/images/summary-art-8-chapter-01-first-replicator-v1.webp",
+      "imageCaption": "İlk kopyacı bilinçli bir canlı değil; kusurlu kopyalama sayesinde çeşitlenen, kalıcı bir kimyasal düzendir."
+    },
+    "durak-03-beden-bir-hayatta-kalma-makinesi-mi": {
+      "image": "/images/summary-art-8-chapter-02-living-machine-v1.webp",
+      "imageCaption": "Beden cansız robot değil; kalıtsal talimatların çevre ve gelişimle birlikte kurduğu esnek yaşam aracıdır."
+    },
+    "durak-04-gen-aslinda-ne-kadar-buyuk": {
+      "image": "/images/summary-art-8-chapter-03-gene-segment-v1.webp",
+      "imageCaption": "Seçilim birimi çoğu zaman tek özellik düğmesi değil, kuşaklar boyunca yeterince kararlı kopyalanan DNA bölümüdür."
+    },
+    "durak-05-bencillikten-fedakarlik-nasil-cikar": {
+      "image": "/images/summary-art-8-chapter-04-warning-bird-v1.webp",
+      "imageCaption": "Alarm veren kuşun bedeli, ortak genleri taşıyan yakınlarının daha çok yaşamasıyla evrimsel karşılık bulabilir."
+    },
+    "durak-06-anne-cocuk-ve-gorunmeyen-pazarlik": {
+      "image": "/images/summary-art-8-chapter-05-family-cake-v1.webp",
+      "imageCaption": "Ebeveyn ile yavru birbirini severken bile sınırlı kaynakların paylaşımında farklı çıkar noktalarına sahip olabilir."
+    },
+    "durak-07-guguk-kusunun-sahte-siparisi": {
+      "image": "/images/summary-art-8-chapter-06-cuckoo-nest-v1.webp",
+      "imageCaption": "Guguk yavrusu bakım işaretlerini taklit ederek başka kuşların emek düzenini kendi lehine kullanır."
+    },
+    "durak-08-sahinler-guvercinler-ve-denge": {
+      "image": "/images/summary-art-8-chapter-07-hawk-dove-v1.webp",
+      "imageCaption": "Şahin ile güvercin oyununda kazanç tek davranışa değil, rakiplerin oranına ve çatışmanın maliyetine bağlıdır."
+    },
+    "durak-09-tutuklunun-ikilemi-ve-kisasa-kisas": {
+      "image": "/images/summary-art-8-chapter-08-prisoners-dilemma-v1.webp",
+      "imageCaption": "Tekrarlanan karşılaşmalarda gelecekteki ilişki, kısa vadeli ihaneti pahalılaştırıp işbirliğine kapı açar."
+    },
+    "durak-10-karsilikli-iyilik-neden-calisir": {
+      "image": "/images/summary-art-8-chapter-09-sharing-bats-v1.webp",
+      "imageCaption": "Tekrar karşılaşan ve birbirini tanıyan canlılarda küçük bir yardım gelecekte karşılık bulduğu için kalıcı olabilir."
+    },
+    "durak-11-sosyal-boceklerin-aile-sehri": {
+      "image": "/images/summary-art-8-chapter-10-ant-city-v1.webp",
+      "imageCaption": "Sosyal böcek kolonisi yakın akrabalık, görev bölümü ve ortak yuvanın birleştiği olağanüstü bir aile şehridir."
+    },
+    "durak-12-cinsiyetlerin-cikar-hesabi": {
+      "image": "/images/summary-art-8-chapter-11-parental-investment-v1.webp",
+      "imageCaption": "Üreme hücrelerinin ve bakımın farklı maliyetleri eş seçimi ile ebeveyn yatırımındaki eğilimleri etkileyebilir."
+    },
+    "durak-13-kusaklar-arasi-zaman-makinesi": {
+      "image": "/images/summary-art-8-chapter-12-changed-room-v1.webp",
+      "imageCaption": "Geçmiş çevrede işe yarayan eğilim, dünya hızla değiştiğinde yeni odadaki eski bir düğme gibi sorun çıkarabilir."
+    },
+    "durak-14-mem-fikrin-kopyalanma-macerasi": {
+      "image": "/images/summary-art-8-chapter-13-viral-melody-v1.webp",
+      "imageCaption": "Bir melodi veya slogan, doğru olduğu için değil kolay hatırlandığı ve tekrarlandığı için kültürde çoğalabilir."
+    },
+    "durak-15-uzatilmis-fenotip-bedenin-disindaki-etki": {
+      "image": "/images/summary-art-8-chapter-14-beaver-dam-v1.webp",
+      "imageCaption": "Kunduzun barajı, genetik etkilerin davranış üzerinden bedenin dışına taşan sonuçlarını gösterir."
+    },
+    "durak-16-grup-secilimi-tartismasi": {
+      "image": "/images/summary-art-8-chapter-15-public-fund-v1.webp",
+      "imageCaption": "Ortak yarar tek başına yetmez; bedavacıların avantajı denetlenmezse gruba faydalı düzen aşınabilir."
+    },
+    "durak-17-gen-kader-degildir": {
+      "image": "/images/summary-art-8-chapter-16-cards-and-choices-v1.webp",
+      "imageCaption": "Genler başlangıç koşullarını etkileyen kartlar gibidir; çevre, kültür ve kararlar oyunun gidişini değiştirir."
+    }
+  }
+}

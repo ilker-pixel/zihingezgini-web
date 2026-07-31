@@ -1,0 +1,335 @@
+{
+  "bookNo": 38,
+  "title": "Dil İçgüdüsü",
+  "author": "Steven Pinker",
+  "subtitle": "Çocuğun birkaç yıl içinde kurallı konuşmayı nasıl başardığını, sözcüklerden cümleye ve beyinden evrime uzanan büyük bir savla açıklayan; dilin doğuştan gelen kapasite ile toplumsal öğrenmenin buluşması olduğunu tartışan rehber.",
+  "coverImage": "/images/summary-art-38-dil-icgudusu-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/38-dil-icgudusu-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4B6476",
+  "meta": {
+    "originalTitle": "The Language Instinct",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Çocuğun birkaç yıl içinde kurallı konuşmayı nasıl başardığını, sözcüklerden cümleye ve beyinden evrime uzanan büyük bir savla açıklayan; dilin doğuştan gelen kapasite ile toplumsal öğrenmenin buluşması olduğunu tartışan rehber.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Steven Pinker - The Language Instinct resmi tanıtımı",
+      "url": "https://stevenpinker.com/publications/books"
+    },
+    {
+      "id": 2,
+      "title": "MIT Press - Dil edinimi ve evrensel dilbilgisi tartışmaları",
+      "url": "https://mitpress.mit.edu/9780262539747/learnability-and-cognition/"
+    },
+    {
+      "id": 3,
+      "title": "Max Planck Institute - Dil çeşitliliği araştırmaları",
+      "url": "https://www.mpi.nl/research/research-databases"
+    },
+    {
+      "id": 4,
+      "title": "Royal Society - Dil evrimi üzerine araştırma çerçevesi",
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rstb.2014.0099"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Pinker 'içgüdü' derken bebeğin hazır cümlelerle doğduğunu söylemez. İnsan beyninin dil öğrenmeye özel biçimde yatkın olduğunu, çevredeki konuşmanın bu kapasiteyi belirli bir dile dönüştürdüğünü savunur.",
+        "Kitap güçlü bir görüş sunar; dilbilimde oybirliği yoktur. Doğuştan ne kadar yapı geldiği, genel öğrenme mekanizmalarının payı ve kültürel çeşitliliğin kapsamı bugün de tartışılır.",
+        "Rehber savı slogan olarak değil, kanıtları ve itirazlarıyla izleyecek. Çocuk hataları, işaret dilleri, beyin hasarı, sözdizimi ve evrim aynı masaya gelecek."
+      ]
+    },
+    {
+      "id": "durak-02-uc-yasindaki-dil-ustasi",
+      "section": "BİRİNCİ KISIM · ÇOCUĞUN MUCİZESİ",
+      "title": "Üç yaşındaki dil ustası",
+      "paragraphs": [
+        "Üç yaşındaki çocuk dilbilgisi dersi almadan daha önce duymadığı cümleler kurar. Yalnız ezberlediği kalıpları tekrarlamaz; sözcükleri yeni sırada birleştirir ve başkasının niyetini anlatır.",
+        "Bir yapbozun resmini hiç görmeden yüzlerce parçayı doğru ailelere ayırmak gibi, çocuk konuşma akışından sesleri, sözcükleri ve kuralları çıkarır. Üstelik yetişkinler çoğu hatayı sistemli biçimde düzeltmez.",
+        "Pinker için bu hız, beynin dil için hazırlanmış beklentileri olduğuna işarettir. Çevre malzemeyi verir; çocuk zihni malzemeyi rastgele değil belirli yollarla düzenler.",
+        "Karşı görüşler ise güçlü örüntü öğrenmenin, ortak dikkatin ve sosyal etkileşimin bu başarıyı açıklamada daha büyük payı olabileceğini söyler. Mucize tek kelimeyle çözülmüş değildir."
+      ]
+    },
+    {
+      "id": "durak-03-bir-cumlede-sonsuz-imkan",
+      "section": "BİRİNCİ KISIM · ÇOCUĞUN MUCİZESİ",
+      "title": "Bir cümlede sonsuz imkan",
+      "paragraphs": [
+        "Dil, sınırlı sayıda sözcük ve kuraldan sınırsız sayıda cümle kurabilir. 'Kedi uyudu' içine 'komşunun gördüğü' gibi bir yapı eklenebilir; sonra o yapının içine yenisi yerleşebilir.",
+        "Lego kutusundaki parça sayısı sınırlıdır, kurulabilecek evlerin sayısı değildir. Dilin üretkenliği de parçaların düzenli biçimde tekrar birleşebilmesinden gelir.",
+        "Bu özellik iletişimi hazır mesaj listesinden ayırır. Dün olmayan olay, yarınki plan veya hiç var olmamış ejderha aynı sistemle anlatılabilir.",
+        "Pinker dilin bu birleşim gücünü insan zihninin temel tasarımlarından biri sayar. Anlam, sözcük torbasından değil yapının içindeki ilişkilerden doğar."
+      ]
+    },
+    {
+      "id": "durak-04-cocugun-sevimli-hatasi",
+      "section": "BİRİNCİ KISIM · ÇOCUĞUN MUCİZESİ",
+      "title": "Çocuğun sevimli hatası",
+      "paragraphs": [
+        "Çocuk önce 'geldi' sözünü doğru kullanırken bir süre sonra 'gel-di' kuralını aşırı genelleyip düzensiz biçimi bozabilir. Bu gerileme aslında kural öğrendiğinin işaretidir.",
+        "Usta çırağın hazır masayı iyi kopyaladıktan sonra kendi ölçüsüyle ilk masada hata yapması gibi, çocuk ezberden üretime geçmiştir. Yanlış, zihindeki düzenin penceresidir.",
+        "Türkçede eklerin düzenli oluşu çocukların örüntüyü açık görmesini sağlar; yine de ses uyumu ve istisnalar öğrenilir. Her dil farklı yüzeyde aynı öğrenme sorusunu doğurur.",
+        "Bu örnek yetişkinin sürekli düzeltmesinin ana motor olmadığını gösterir. Çocuk duyduğu veriden aktif varsayım kurar ve zamanla istisnaları yerleştirir."
+      ]
+    },
+    {
+      "id": "durak-05-sozcuklerin-arasindaki-gorunmez-agac",
+      "section": "İKİNCİ KISIM · DİLİN MAKİNESİ",
+      "title": "Sözcüklerin arasındaki görünmez ağaç",
+      "paragraphs": [
+        "'Yaşlı adam ve kadın geldi' cümlesi, yaşlılığın yalnız adama mı ikisine mi ait olduğuna göre iki anlam taşır. Sözcük sırası aynı, zihindeki gruplaşma farklıdır.",
+        "Market poşetinde ürünleri yan yana koymakla raflara kategori halinde yerleştirmek aynı değildir. Sözdizimi sözcükleri düz sıradan çıkarıp iç içe öbeklere düzenler.",
+        "Dilbilimciler bu görünmez yapıyı ağaçlarla gösterir. Ağaç gerçek beyindeki çizim değildir; hangi parçanın hangisiyle bağlandığını açıklayan modeldir.",
+        "Cümleyi anlamak bu nedenle sözlük açmaktan fazlasıdır. Zihin milisaniyeler içinde olası yapıları kurar, bağlama göre birini seçer ve bazen bahçe yolunda yanılır."
+      ]
+    },
+    {
+      "id": "durak-06-bahce-yolunda-kaybolan-zihin",
+      "section": "İKİNCİ KISIM · DİLİN MAKİNESİ",
+      "title": "Bahçe yolunda kaybolan zihin",
+      "paragraphs": [
+        "Bazı cümleler ilk anda bizi yanlış yapıya götürür; son sözcük gelince başa dönmek zorunda kalırız. İngilizcedeki klasik örneklerde fiil sandığımız sözcük başka görev çıkar. Türkçede de noktalama veya vurgu belirsizliği benzer şaşkınlık yaratır.",
+        "Yol tabelası sizi kısa sokağa sokar, köşede çıkmazı görünce haritayı yeniden okursunuz. Cümle işleme sistemi de en olası analizi önce dener; yanlışsa düzeltir.",
+        "Bu hatalar anlama sürecinin pasif olmadığını gösterir. Zihin cümle tamamlanana kadar beklemez, her sözcükte tahmin kurar.",
+        "Pinker bu küçük tökezlemeleri dil mimarisinin izleri olarak kullanır. Hızlı sistem çoğu zaman görünmezdir; yanılınca mekanizmasını fark ederiz."
+      ]
+    },
+    {
+      "id": "durak-07-sozluk-kafamizda-nasil-durur",
+      "section": "İKİNCİ KISIM · DİLİN MAKİNESİ",
+      "title": "Sözlük kafamızda nasıl durur?",
+      "paragraphs": [
+        "Zihinsel sözlük yalnız anlam listesi değildir. Bir fiilin hangi ekleri aldığı, hangi ögelerle kullanılabildiği ve ses biçimi de kaydedilir. 'Vermek' genellikle veren, verilen şey ve alan kişi arasında bir yapı açar.",
+        "Tiyatrodaki rol kartı gibi, sözcük sahneye kaç oyuncu çağıracağını taşır. Sözdizimi bu rollerin cümledeki yerini düzenler.",
+        "Düzenli biçimler kural yoluyla, sık düzensiz biçimler bellekten gelebilir. Pinker sözcükler ve kurallar arasında çift sistem savunur; bağlantıcı modeller daha ortak bir öğrenme mekanizması önerebilir.",
+        "Tartışma yalnız dilbilgisi değildir. Zihnin sembolik kurallarla mı, örüntü ağlarıyla mı yoksa ikisinin karışımıyla mı çalıştığını sorgular."
+      ]
+    },
+    {
+      "id": "durak-08-ses-akisini-parcalara-bolmek",
+      "section": "İKİNCİ KISIM · DİLİN MAKİNESİ",
+      "title": "Ses akışını parçalara bölmek",
+      "paragraphs": [
+        "Konuşma yazıdaki gibi sözcükler arasında boşluk bırakmaz. Sesler birbirine karışır, konuşan hızlanır ve bazı heceleri yutar. Yine de dinleyici akışı anlamlı parçalara böler.",
+        "Bilmediğiniz dilde konuşma kesintisiz uğultu gibi gelir. Tanıdık dilde zihin olası sözcükleri, ses kurallarını ve bağlamı birlikte kullanarak görünmez aralıklar koyar.",
+        "Bebekler sık birlikte gelen heceleri izleyebilir; ritim ve vurgu sınır ipucu sağlar. Dil edinimi yalnız sözcük ezberinden önce ses istatistiklerini öğrenmeyle başlar.",
+        "Bu beceri güçlüdür ama yanılmaz değildir. Şarkı sözlerini yanlış duymamız, beynin belirsiz sesi tanıdık anlama doğru tamamladığını gösterir."
+      ]
+    },
+    {
+      "id": "durak-09-isaret-dili-de-tam-bir-dildir",
+      "section": "ÜÇÜNCÜ KISIM · BEYİN VE TOPLUM",
+      "title": "İşaret dili de tam bir dildir",
+      "paragraphs": [
+        "İşaret dilleri konuşulan dilin elle yazılmış kopyası değildir. Kendi sözcükleri, dilbilgisi ve anlatım imkanları vardır. El biçimi, konum, hareket ve yüz ifadesi anlam ayrımı yapabilir.",
+        "Ses kanalı kapanınca dil kapasitesi yok olmaz; başka bir bedensel kanalda örgütlenir. Bu, dili ağızdan çıkan sese eşitleyen önyargıyı kırar.",
+        "Sağır çocuk erişilebilir işaret dili ortamında doğal biçimde dil geliştirir. Dil girdisinden yoksun bırakılmak ise bilişsel ve sosyal gelişimde ağır bedeller yaratabilir.",
+        "İşaret dilleri Pinker'ın insan türüne özgü dil kapasitesi savına güçlü örnek sunar, fakat aynı zamanda dilin topluluk içinde doğup değiştiğini gösterir."
+      ]
+    },
+    {
+      "id": "durak-10-beyinde-tek-bir-dil-kutusu-yok",
+      "section": "ÜÇÜNCÜ KISIM · BEYİN VE TOPLUM",
+      "title": "Beyinde tek bir dil kutusu yok",
+      "paragraphs": [
+        "Beyin hasarı bazı kişilerde konuşma üretimini, bazılarında anlamayı veya sözcük bulmayı daha çok etkileyebilir. Broca ve Wernicke adları bu ayrımları anlatmada tarihsel rol oynar.",
+        "Fakat modern görüntüleme dili iki küçük kutuya sığdırmaz. Ses, hareket, anlam, bellek ve dikkat geniş ağlarda birlikte çalışır. Görev ve kişiye göre dağılım değişebilir.",
+        "Bir şehrin ulaşımı yalnız iki istasyondan ibaret olmadığı gibi, dil de bağlantılı bölgelerin dinamik işidir. Bir yol kapandığında bazen başka yollar kısmen görevi devralır.",
+        "Kitaptaki nöroloji, döneminin güçlü kanıtıdır ama bugünkü ayrıntılar daha zengindir. Basit beyin haritaları öğretici başlangıç, kötü bir son söz olabilir."
+      ]
+    },
+    {
+      "id": "durak-11-kritik-donem-penceresi",
+      "section": "ÜÇÜNCÜ KISIM · BEYİN VE TOPLUM",
+      "title": "Kritik dönem penceresi",
+      "paragraphs": [
+        "Çocuklar dili erken yaşta olağanüstü kolaylıkla edinir. Ergenlik sonrası yeni dil öğrenmek mümkündür, fakat anadili düzeyinde ses ve sezgi kazanmak çoğu kişi için zorlaşır.",
+        "Islak çamur şekli kolay alır; kurudukça değişim imkansız olmaz ama daha çok emek ister. Beyin gelişiminde bağlantıların esnekliği de zamanla farklılaşır.",
+        "Kritik dönem kesin kapanan tek gün değildir. Dilin ses, sözdizimi ve sözcük bölümleri farklı zaman çizgilerine sahip olabilir; maruz kalma miktarı ve motivasyon önemlidir.",
+        "En güçlü ders çocukların erken ve erişilebilir dile ihtiyacıdır. Bu özellikle sağır çocuklarda işaret diline zamanında erişim için hayati bir eğitim meselesidir."
+      ]
+    },
+    {
+      "id": "durak-12-diller-farkli-insan-kapasitesi-ortak",
+      "section": "ÜÇÜNCÜ KISIM · BEYİN VE TOPLUM",
+      "title": "Diller farklı, insan kapasitesi ortak",
+      "paragraphs": [
+        "Diller sözcük sırası, ses, ek ve anlam ayrımlarında büyük çeşitlilik gösterir. Türkçe bilgiyi eklerle paketlerken başka diller ayrı sözcük veya sıra kullanabilir.",
+        "Aynı evi taş, ahşap veya kerpiçle kurmak gibi, iletişim ihtiyaçları farklı malzemelerle çözülür. Ortaklık yüzey biçimlerinin aynı olması değildir.",
+        "Evrensel dilbilgisi savı, olası insan dillerinin sınırlarını doğuştan gelen yapının daralttığını öne sürer. Eleştirmenler bazı evrensellerin genel biliş, iletişim ve kültürel evrimden çıkabileceğini savunur.",
+        "Dünya dillerinin daha iyi belgelenmesi eski genellemeleri sınadı. Çeşitlilik, ortak kapasite fikrini yok etmez; ortaklığın nerede aranacağını daha dikkatli hale getirir."
+      ]
+    },
+    {
+      "id": "durak-13-dil-dusunceyi-hapseder-mi",
+      "section": "ÜÇÜNCÜ KISIM · BEYİN VE TOPLUM",
+      "title": "Dil düşünceyi hapseder mi?",
+      "paragraphs": [
+        "Bir dilde sözcük olmaması o düşüncenin imkansız olduğu anlamına gelmez. Yeni kavramları tarif eder, ödünç alır veya yeni sözcük üretiriz. Pinker düşüncenin yalnız iç konuşma olmadığını savunur.",
+        "Bebek ve hayvanlar sözcüksüz de nesne, sayı ve niyet hakkında bazı ayrımlar yapabilir. Ressam görüntü, müzisyen ses düzeniyle düşünebilir.",
+        "Öte yandan dil dikkat ve belleği etkileyebilir. Renk adları veya yön sistemleri, insanların bazı ayrımları daha hızlı fark etmesini sağlayabilir. Etki ile hapishane aynı şey değildir.",
+        "En dengeli sonuç şudur: Dil düşüncenin bütün sınırlarını çizmez, fakat sık kullandığımız yolları işaretleyen bir harita gibi algı ve hatırlamayı yönlendirebilir."
+      ]
+    },
+    {
+      "id": "durak-14-kreol-dilinin-dogusu",
+      "section": "DÖRDÜNCÜ KISIM · KÖKEN VE TARTIŞMA",
+      "title": "Kreol dilinin doğuşu",
+      "paragraphs": [
+        "Farklı dilleri konuşan yetişkinler zorunlu iletişimde sınırlı bir ortak sistem geliştirebilir. Çocuklar bu girdiyi ana dil olarak edinirken daha düzenli ve üretken bir kreol dili kurabilir.",
+        "Yarım kalmış bir kulübeyi devralan çocukların kat, merdiven ve odalar eklemesi gibi, yeni kuşak iletişim malzemesini daha zengin yapıya dönüştürür.",
+        "Pinker bu örnekleri doğuştan dil kurma kapasitesine kanıt sayar. Tarihçiler ve kreol uzmanları ise girdinin sanıldığından daha zengin, süreçlerin daha çeşitli olduğunu hatırlatır.",
+        "Örnek yine de dilin topluluk içinde hızla sistemleşebildiğini gösterir. Çocuk pasif alıcı değil, ortak düzenin kurucusudur."
+      ]
+    },
+    {
+      "id": "durak-15-dil-nasil-evrilmis-olabilir",
+      "section": "DÖRDÜNCÜ KISIM · KÖKEN VE TARTIŞMA",
+      "title": "Dil nasıl evrilmiş olabilir?",
+      "paragraphs": [
+        "Pinker dili doğal seçilimle şekillenmiş bir uyum olarak görür. Karmaşık sosyal bilgiyi paylaşan atalar plan, akrabalık ve tehlike hakkında avantaj kazanmış olabilir.",
+        "Gözün evriminde olduğu gibi dilin de tek sıçramayla doğması gerekmez. Ses denetimi, ortak dikkat, sembol kullanımı ve birleşim kapasitesi farklı aşamalarda güçlenebilir.",
+        "Fosilleşmeyen davranışın tarihini kanıtlamak zordur. Genler, beyin karşılaştırmaları, primat iletişimi ve arkeoloji parçalı ipuçları sunar; kesin senaryo yoktur.",
+        "Dilin yalnız seçilim ürünü mü, daha genel beyin büyümesinin yan etkisi mi olduğu tartışılır. Muhtemel tarih birden çok kapasitenin karşılıklı güçlenmesini içerir."
+      ]
+    },
+    {
+      "id": "durak-16-hayvanlar-neden-konusmuyor",
+      "section": "DÖRDÜNCÜ KISIM · KÖKEN VE TARTIŞMA",
+      "title": "Hayvanlar neden konuşmuyor?",
+      "paragraphs": [
+        "Arılar yön dansı yapar, kuşlar şarkı öğrenir, primatlar alarm çağrıları kullanır. Bu sistemler karmaşıktır, fakat insan dilindeki sınırsız birleşim ve uzak anlam çeşitliliğiyle aynı değildir.",
+        "Bir trafik lambası güçlü bilgi verir ama roman yazmaz. Az sayıda işaretin belirli durumlara bağlanması ile işaretleri iç içe geçirerek yeni önerme kurmak farklı kapasitelerdir.",
+        "Maymunlara işaret öğretme çalışmaları niyet ve sembol kullanımını gösterse de insan çocuğunun kendiliğinden gelişen dilbilgisi düzeyine ulaşıp ulaşmadıkları tartışmalıdır.",
+        "Karşılaştırma hayvan iletişimini küçültmemelidir. Farkın nerede olduğunu dikkatle sormak, hem insan dilinin özgünlüğünü hem diğer türlerin gerçek becerilerini daha iyi görür."
+      ]
+    },
+    {
+      "id": "durak-17-dil-polisi-ve-yasayan-dil",
+      "section": "DÖRDÜNCÜ KISIM · KÖKEN VE TARTIŞMA",
+      "title": "Dil polisi ve yaşayan dil",
+      "paragraphs": [
+        "İnsanlar sık sık gençlerin dili bozduğundan yakınır. Oysa diller her kuşakta ses, sözcük ve anlam değiştirir. Bugünün kuralı dünün yeniliği olabilir.",
+        "Resmi yazı standardı ortak iletişim için yararlıdır, fakat gündelik lehçeleri eksik zeka saymak yanlıştır. Her doğal lehçe karmaşık ve düzenli kurallara sahiptir.",
+        "Bir kişinin 'yanlış' biçimi topluluğunda tutarlıysa dilbilimci önce o kuralı anlamaya çalışır. Sosyal prestij, dilsel karmaşıklıkla aynı şey değildir.",
+        "Pinker'ın esprili itirazı dil bilgisini ezberlenen görgü kurallarından ayırır. Yine de bağlama uygun standart yazı öğrenmek kişinin kamusal imkanlarını artırabilir; betimleme ile eğitim düşman değildir."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-buyuk-iddiasi-nerede-zorlaniyor",
+      "section": "SON DURAKLAR",
+      "title": "Kitabın büyük iddiası nerede zorlanıyor?",
+      "paragraphs": [
+        "Pinker dilin doğuştan gelen özel bir modül olduğunu güçlü biçimde savunur. Kullanım temelli yaklaşımlar çocukların örüntü, benzetme, ortak niyet ve genel öğrenme becerileriyle daha fazlasını açıklayabileceğini söyler.",
+        "Dillerdeki çeşitlilik bazı katı evrensel iddiaları zorlamıştır. Beyin araştırmaları da tek, yalıtılmış dil organından çok başka bilişsel ağlarla iç içe sistemler gösterir.",
+        "Buna rağmen insan çocuğunun dil edinmeye olağanüstü hazırlanmış olduğu geniş ölçüde açıktır. Tartışma hazırlığın varlığından çok biçimi ve ne kadar dil-özel olduğundadır."
+      ]
+    },
+    {
+      "id": "durak-19-yapay-zeka-dil-biliyor-mu",
+      "section": "SON DURAKLAR",
+      "title": "Yapay zeka dil biliyor mu?",
+      "paragraphs": [
+        "Büyük dil modelleri dev metinlerden güçlü örüntüler öğrenip yeni cümleler kurabilir. Bu başarı, istatistiksel öğrenmenin kapasitesini Pinker döneminde hayal edilenden daha görünür hale getirdi.",
+        "Fakat akıcı cümle dünyada yaşamak, beden taşımak ve insan niyetine sahip olmakla aynı değildir. Modelin başarısı doğuştanlık tartışmasını tek başına bitirmez; eğitim verisi ve mimari de hazır yapıdır.",
+        "Yeni soru artık yalnız 'kural mı örüntü mü?' değildir. Farklı mimariler hangi veriyle neyi öğreniyor ve insan çocuğunun az veri, ortak dikkat ve beden deneyimiyle yaptığına ne kadar benziyor?"
+      ]
+    },
+    {
+      "id": "durak-20-cocuga-dil-icin-ne-gerekir",
+      "section": "SON DURAKLAR",
+      "title": "Çocuğa dil için ne gerekir?",
+      "paragraphs": [
+        "Çocuğun kusursuz dil dersi değil, bol ve karşılıklı iletişim ihtiyacı vardır. Ona konuşmak kadar verdiği işarete yanıt vermek, ortak nesneye bakmak, oyun ve hikaye kurmak önemlidir.",
+        "Ekrandan akan çok sözcük, canlı kişinin sırayla konuşmasıyla aynı değildir. Dil sosyal bir alışverişte anlam kazanır.",
+        "Hata düzeltmek yerine cümleyi doğal biçimde genişletmek daha sıcak yol olabilir. Çocuk 'kedi git' dediğinde 'evet, kedi bahçeye gitti' cevabı hem anlamı hem modeli korur."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İnsan çocuğu dili boş bir kaset gibi kopyalamaz; doğuştan gelen öğrenme yatkınlığı, toplumsal etkileşim ve belirli dilin örnekleri birleşerek sınırsız cümle kuran bir sistem yaratır.",
+        "Akılda kalacak görüntü Lego kutusudur: Parçalar çevreden gelir, fakat onları açık uçlu yapılara birleştirme gücü çocuğun zihninde çalışır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-uc-yasindaki-dil-ustasi": {
+      "image": "/images/summary-art-38-chapter-01-talking-child-v1.webp",
+      "imageCaption": "Çocuk duyduğu cümleleri kopyalamakla kalmaz; sınırlı örnekten daha önce söylenmemiş düzenli cümleler üretir."
+    },
+    "durak-03-bir-cumlede-sonsuz-imkan": {
+      "image": "/images/summary-art-38-chapter-02-language-lego-v1.webp",
+      "imageCaption": "Sınırlı sözcük ve kurallar Lego parçaları gibi tekrar birleşerek sayısız yeni cümle kurabilir."
+    },
+    "durak-04-cocugun-sevimli-hatasi": {
+      "image": "/images/summary-art-38-chapter-03-rule-error-v1.webp",
+      "imageCaption": "Çocuğun düzenli kuralı istisnaya uygulaması, ezberi kaybettiğini değil kendi dil düzenini kurduğunu gösterir."
+    },
+    "durak-05-sozcuklerin-arasindaki-gorunmez-agac": {
+      "image": "/images/summary-art-38-chapter-04-syntax-tree-v1.webp",
+      "imageCaption": "Aynı sözcük sırası farklı görünmez öbekler kurduğunda cümlenin anlamı da değişebilir."
+    },
+    "durak-06-bahce-yolunda-kaybolan-zihin": {
+      "image": "/images/summary-art-38-chapter-05-garden-path-v1.webp",
+      "imageCaption": "Cümleyi anlama sistemi en olası yola hızla girer; son sözcük çıkmazı gösterince yapıyı yeniden kurar."
+    },
+    "durak-07-sozluk-kafamizda-nasil-durur": {
+      "image": "/images/summary-art-38-chapter-06-mental-lexicon-v1.webp",
+      "imageCaption": "Zihinsel sözlük sözcüğün anlamıyla birlikte sesini, eklerini ve cümlede açacağı rolleri de taşır."
+    },
+    "durak-08-ses-akisini-parcalara-bolmek": {
+      "image": "/images/summary-art-38-chapter-07-speech-stream-v1.webp",
+      "imageCaption": "Konuşma kesintisiz bir ses nehri olsa da zihin istatistik, ritim ve anlamla içine sözcük sınırları çizer."
+    },
+    "durak-09-isaret-dili-de-tam-bir-dildir": {
+      "image": "/images/summary-art-38-chapter-08-sign-language-v1.webp",
+      "imageCaption": "İşaret dili sesin yedeği değil; bedenin görsel kanalında kurallı, üretken ve eksiksiz bir dildir."
+    },
+    "durak-10-beyinde-tek-bir-dil-kutusu-yok": {
+      "image": "/images/summary-art-38-chapter-09-language-network-v1.webp",
+      "imageCaption": "Dil iki beyin kutusundan değil ses, anlam, hareket ve bellek yollarının birlikte çalıştığı geniş ağdan doğar."
+    },
+    "durak-11-kritik-donem-penceresi": {
+      "image": "/images/summary-art-38-chapter-10-open-window-v1.webp",
+      "imageCaption": "Erken çocukluk dili kolay alan açık pencere gibidir; pencere daralsa da yetişkin öğrenmesi sona ermez."
+    },
+    "durak-12-diller-farkli-insan-kapasitesi-ortak": {
+      "image": "/images/summary-art-38-chapter-11-many-houses-v1.webp",
+      "imageCaption": "İnsan dilleri farklı malzemelerle kurulan evler kadar çeşitlidir; ortaklık yüzeyden çok öğrenme ve iletişim kapasitesinde aranır."
+    },
+    "durak-13-dil-dusunceyi-hapseder-mi": {
+      "image": "/images/summary-art-38-chapter-12-thought-map-v1.webp",
+      "imageCaption": "Dil düşünceyi kilitleyen hücre değil, bazı yolları belirginleştirip dikkati yönlendiren bir harita olabilir."
+    },
+    "durak-14-kreol-dilinin-dogusu": {
+      "image": "/images/summary-art-38-chapter-13-creole-building-v1.webp",
+      "imageCaption": "Çocuk kuşağı sınırlı ortak konuşma malzemesini daha düzenli ve üretken bir dil yapısına dönüştürebilir."
+    },
+    "durak-15-dil-nasil-evrilmis-olabilir": {
+      "image": "/images/summary-art-38-chapter-14-language-evolution-v1.webp",
+      "imageCaption": "Dil tek anda beliren armağan değil; ses, ortak dikkat ve sembol becerilerinin uzun evrimsel birleşimi olabilir."
+    },
+    "durak-16-hayvanlar-neden-konusmuyor": {
+      "image": "/images/summary-art-38-chapter-15-animal-signals-v1.webp",
+      "imageCaption": "Hayvan sinyalleri zengin bilgi taşıyabilir; insan dili ise sınırlı işaretleri açık uçlu yeni yapılara birleştirir."
+    },
+    "durak-17-dil-polisi-ve-yasayan-dil": {
+      "image": "/images/summary-art-38-chapter-16-living-language-v1.webp",
+      "imageCaption": "Yaşayan dil müze vitrini değil; topluluk içinde kurallı biçimde değişen, yeni dallar veren bir ağaçtır."
+    }
+  }
+}

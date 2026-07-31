@@ -1,0 +1,346 @@
+{
+  "bookNo": 238,
+  "title": "Hapishanenin Doğuşu",
+  "author": "Michel Foucault",
+  "subtitle": "Meydandaki işkenceden gözetlenen hücreye geçişi basit insanileşme hikayesi olarak değil, bedeni daha yararlı ve uysal kılan yeni bir iktidar teknolojisinin doğuşu olarak okuyan çarpıcı rehber.",
+  "coverImage": "/images/summary-art-238-hapishanenin-dogusu-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/238-hapishanenin-dogusu-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4E6062",
+  "meta": {
+    "originalTitle": "Surveiller et punir: Naissance de la prison",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Meydandaki işkenceden gözetlenen hücreye geçişi basit insanileşme hikayesi olarak değil, bedeni daha yararlı ve uysal kılan yeni bir iktidar teknolojisinin doğuşu olarak okuyan çarpıcı rehber.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Penguin Random House - Discipline and Punish",
+      "url": "https://www.penguinrandomhouse.com/books/55026/discipline-and-punish-by-michel-foucault-and-alan-sheridan/"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Michel Foucault",
+      "url": "https://plato.stanford.edu/entries/foucault/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Foucault",
+      "url": "https://iep.utm.edu/foucault/"
+    },
+    {
+      "id": 4,
+      "title": "Foucault.info - Panopticism",
+      "url": "https://foucault.info/documents/foucault.disciplineAndPunish.panOpticism/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Foucault hapishanenin iyi mi kötü mü olduğunu tek ahlaki cümleyle tartışmaz. Ceza biçimlerinin hangi bilgi, kurum ve beden teknikleriyle mümkün olduğunu tarihsel olarak inceler.",
+        "Panoptikon kitabın ünlü ama tek konusu değildir. İşkence, reform, asker, okul, sınav, normalleştirme ve hapishanenin başarısızlığı aynı zincirdedir.",
+        "Rehber iktidarı yalnız kötü hükümdar iradesi saymayacak; gündelik düzeneklerde çalışan, üretken ve karşı konabilir ilişkiler olarak açıklayacak."
+      ]
+    },
+    {
+      "id": "durak-02-damiens-in-parcalanan-bedeni",
+      "section": "BİRİNCİ KISIM · BEDENDEN RUHA",
+      "title": "Damiens'in parçalanan bedeni",
+      "paragraphs": [
+        "Kitap 1757'de kralı öldürmeye teşebbüs eden Damiens'in halka açık, ayrıntılı işkencesiyle başlar. Ceza hükümranın yaralanmış gücünü suçlunun bedeninde gösterir.",
+        "Meydan tiyatrosunda acı yalnız suçluya verilmez; halka kralın üstünlüğü seyrettirilir. Beden siyasi mesaj panosudur.",
+        "Fakat gösteri ters tepebilir. Kalabalık mahkuma acır, cellada öfkelenir veya isyana dönüşür. Hükümdarın zafer sahnesi denetimsizdir.",
+        "Foucault bu sert açılışı modern cezanın görünmezliğini karşılaştırmak için kullanır."
+      ]
+    },
+    {
+      "id": "durak-03-seksen-yil-sonra-sessiz-cizelge",
+      "section": "BİRİNCİ KISIM · BEDENDEN RUHA",
+      "title": "Seksen yıl sonra sessiz çizelge",
+      "paragraphs": [
+        "Kitabın ikinci belgesi genç mahkumların gününü dakika dakika düzenleyen cezaevi programıdır. Uyanma, çalışma, dua ve yemek sessiz kurala bağlanır.",
+        "Kanlı meydandan çizelgeye geçiş daha yumuşak görünür. Fakat iktidar yok olmamış, bedeni sürekli işleyen ayrıntılı düzene dönüşmüştür.",
+        "Bir kez döven güç yerine her gün oturuşu, zamanı ve alışkanlığı biçimlendiren güç gelir.",
+        "Foucault'nun sorusu 'ceza insancıl oldu mu?' kadar 'hangi yeni denetim daha etkili hale geldi?' sorusudur."
+      ]
+    },
+    {
+      "id": "durak-04-suctan-suclu-ruha",
+      "section": "BİRİNCİ KISIM · BEDENDEN RUHA",
+      "title": "Suçtan suçlu ruha",
+      "paragraphs": [
+        "Eski ceza belirli eyleme karşılık verirken modern mahkeme kişinin karakteri, geçmişi, tehlikeliliği ve düzeltilebilirliğini de yargılar.",
+        "'Ne yaptı?' sorusuna psikiyatrist, sosyal hizmet ve kriminoloji 'nasıl biri?' sorusunu ekler. Ceza ruhun bilimine açılır.",
+        "Bu bilgi daha uygun karar sağlayabilir, fakat cezanın sınırını belirsizleştirir. Gelecekte tehlikeli olma ihtimali bugünkü yaptırımı uzatabilir.",
+        "Foucault suçlu kimliğinin hukuk ile uzman bilginin ortak ürünü olduğunu gösterir."
+      ]
+    },
+    {
+      "id": "durak-05-reformcularin-ekonomik-cezasi",
+      "section": "BİRİNCİ KISIM · BEDENDEN RUHA",
+      "title": "Reformcuların ekonomik cezası",
+      "paragraphs": [
+        "On sekizinci yüzyıl reformcuları keyfi ve aşırı işkenceye karşı orantılı, düzenli cezalar önerir. Her suç toplumsal sözleşmeye zarar verir, ceza caydırıcı işaret olmalıdır.",
+        "Bir mağazadaki fiyat etiketi gibi, suçun cezası önceden bilinir ve hükümdarın öfkesinden bağımsızlaşır.",
+        "Amaç daha az değil daha iyi dağıtılmış cezadır. Yasadışı davranışların tamamına ulaşan düzenli ağ kurulur.",
+        "İnsanileşme gerçek olabilir, fakat aynı anda iktidarın hesaplı ve sürekli hale gelmesini görmek gerekir."
+      ]
+    },
+    {
+      "id": "durak-06-uysal-beden-nasil-uretilir",
+      "section": "İKİNCİ KISIM · DİSİPLİNİN ARAÇLARI",
+      "title": "Uysal beden nasıl üretilir?",
+      "paragraphs": [
+        "Disiplin bedeni hem daha yararlı hem daha itaatkar yapar. Asker daha hızlı ateş eder, öğrenci daha düzenli yazar, işçi hareketi ölçülü tekrarlar.",
+        "Hamur gibi ezmek yerine makine parçasını hassas ayarlamak düşünün. Beden yok edilmez; kapasitesi artırılır ve denetime bağlanır.",
+        "Foucault iktidarın yalnız yasaklamadığını burada gösterir. Beceri, verim ve bilgi üretirken özgürlüğü biçimlendirir.",
+        "Modern kurumların başarısı ve baskısı aynı teknik içinde bulunabilir."
+      ]
+    },
+    {
+      "id": "durak-07-mekanda-herkese-bir-yer",
+      "section": "İKİNCİ KISIM · DİSİPLİNİN ARAÇLARI",
+      "title": "Mekanda herkese bir yer",
+      "paragraphs": [
+        "Kışla, sınıf ve atölye kişileri sıraya, hücreye, masaya ve göreve dağıtır. Kim nerede belli olduğunda karşılaştırma ve gözetim kolaylaşır.",
+        "Açık pazarda kalabalığı izlemek zordur; numaralı masalarda devamsızlık ve hız anında görünür.",
+        "Mekan tarafsız kabuk değildir. Duvar, koridor ve oturma planı davranışı önceden düzenler.",
+        "Bugün açık ofis, turnike ve dijital konum sistemi aynı soruyu taşır: Yerleşim kimin görmesini ve kimin hareketini kolaylaştırıyor?"
+      ]
+    },
+    {
+      "id": "durak-08-zamanin-ince-parcalari",
+      "section": "İKİNCİ KISIM · DİSİPLİNİN ARAÇLARI",
+      "title": "Zamanın ince parçaları",
+      "paragraphs": [
+        "Disiplin günü saatlere, görevi hareketlere böler. İşin yalnız bitmesi değil nasıl ve ne kadar sürede yapıldığı ölçülür.",
+        "Ustanın serbest ritmi, kronometreyle standart harekete dönüşür. Boş saniye verimsizlik olarak görünür.",
+        "Bu düzen büyük koordinasyon sağlar; tren, hastane ve okul ortak zaman olmadan işlemez. Aynı zamanda bedenin ritmini dış çizelgeye bağlar.",
+        "Foucault ilerlemeyi inkar etmez, üretkenliğin hangi itaat tekniğiyle geldiğini sorar."
+      ]
+    },
+    {
+      "id": "durak-09-egzersiz-ve-basamak",
+      "section": "İKİNCİ KISIM · DİSİPLİNİN ARAÇLARI",
+      "title": "Egzersiz ve basamak",
+      "paragraphs": [
+        "Asker veya öğrenci kolay hareketten zora, sınıftan rütbeye ilerleyen seri egzersizlerle kurulur. Kişi yalnız değerlendirilmez, aşama aşama üretilir.",
+        "Piyano gamı tekrarı beceri kazandırır. Aynı teknik not, sıra ve ceza ile normal davranış ölçüsü de kurabilir.",
+        "Disiplin tek büyük emir değil küçük tekrarların toplamıdır. İnsan alışkanlık içinde biçimlenir.",
+        "Eğitim ile denetim bu yüzden kolay ayrılmaz; sorulması gereken hedef, söz hakkı ve ölçünün kimde olduğudur."
+      ]
+    },
+    {
+      "id": "durak-10-hiyerarsik-bakis",
+      "section": "İKİNCİ KISIM · DİSİPLİNİN ARAÇLARI",
+      "title": "Hiyerarşik bakış",
+      "paragraphs": [
+        "İyi disiplin sürekli görebilen bir bakış ister. Mimari, üst gözetmeni ve alt sıraları görünürlük içinde düzenler.",
+        "Fabrika penceresi ışık kadar ustabaşının bütün tezgahları görmesini sağlar. Görünür olmak davranışı değiştirir.",
+        "Gözetmen her an bakmasa bile bakabilme ihtimali düzen üretir. İktidar fiziksel müdahaleden önce olasılık olarak çalışır.",
+        "Günümüz kamera ve performans panelleri bu bakışı insan gözünün ötesine taşır."
+      ]
+    },
+    {
+      "id": "durak-11-normallestirici-ceza",
+      "section": "ÜÇÜNCÜ KISIM · PANOPTİKON",
+      "title": "Normalleştirici ceza",
+      "paragraphs": [
+        "Disiplin yalnız yasak eylemi cezalandırmaz; geç kalma, dağınıklık, düşük hız ve beklenenden sapmayı küçük yaptırımlarla düzeltir.",
+        "Hukuk hırsızlık oldu mu diye sorar, normalleştirme 'diğerlerinden ne kadar geridesin?' diye sorar.",
+        "Ödül ve ceza sıralama oluşturur. İyi öğrenci, riskli mahkum, verimli işçi gibi kimlikler ölçüden doğar.",
+        "Normal yararlı karşılaştırma olabilir, fakat farklılığı kusur haline getirirse görünmez baskı kurar."
+      ]
+    },
+    {
+      "id": "durak-12-sinavin-cift-yuzu",
+      "section": "ÜÇÜNCÜ KISIM · PANOPTİKON",
+      "title": "Sınavın çift yüzü",
+      "paragraphs": [
+        "Sınav gözetim ile bilgiyi birleştirir. Öğrenciye not verirken onun hakkında dosya üretir; birey karşılaştırılabilir vaka olur.",
+        "Doktor muayenesi yardım sağlar, aynı anda bedenleri sınıflandıran veri toplar. Bilmek ve yönetmek iç içe geçer.",
+        "Foucault bilgi sahte olduğu için değil, kurum içindeki güç ilişkisiyle üretildiği için bunu vurgular.",
+        "Sınavın adaleti sorunun kalitesi kadar kaydın kimde olduğu ve kişiyi ne kadar süre izlediğiyle ilgilidir."
+      ]
+    },
+    {
+      "id": "durak-13-panoptikon-gorunmeden-gormek",
+      "section": "ÜÇÜNCÜ KISIM · PANOPTİKON",
+      "title": "Panoptikon: Görünmeden görmek",
+      "paragraphs": [
+        "Bentham'ın tasarımında merkez kule çevredeki hücreleri görür, mahkum kulede biri olup olmadığını bilemez. Bu belirsizlik gözetimi kişinin içine taşır.",
+        "Kamera çalışıyor mu bilmediğiniz koridorda davranışınızı yine ayarlarsınız. Sürekli gerçek bakış yerine sürekli ihtimal yeterlidir.",
+        "Panoptikon belirli hapishane kadar iktidar diyagramıdır. Okul, hastane ve fabrika farklı amaçlarla aynı görünürlük mantığını kullanabilir.",
+        "Foucault modern toplumun her yerinin tek kule olduğunu söylemez; aktarılabilir bir tekniği gösterir."
+      ]
+    },
+    {
+      "id": "durak-14-veba-sehri-ve-cuzzamli",
+      "section": "ÜÇÜNCÜ KISIM · PANOPTİKON",
+      "title": "Veba şehri ve cüzzamlı",
+      "paragraphs": [
+        "Cüzzamlı toplum dışına atılır; veba şehrinde ise herkes evine kapatılır, kayıt ve yoklamayla tek tek izlenir. Dışlama ile ayrıntılı disiplin iki iktidar modelidir.",
+        "Biri kapının dışına çizgi çeker, diğeri içeride her odayı numaralar. Modern kurumlar ikisini birleştirebilir: Normal olmayanı ayırıp sürekli inceler.",
+        "Salgın önlemi hayat kurtarabilir. Foucault tıbbi gereği inkar etmez; acil düzenin nasıl kalıcı yönetim tekniğine dönüşebildiğini sorar.",
+        "Kriz sırasında kurulan veri ve yetkinin kriz sonrası kaderi demokratik sorudur."
+      ]
+    },
+    {
+      "id": "durak-15-hapishane-neden-hemen-yayildi",
+      "section": "DÖRDÜNCÜ KISIM · HAPİSHANE VE BUGÜN",
+      "title": "Hapishane neden hemen yayıldı?",
+      "paragraphs": [
+        "Hapishane özgürlüğü elinden aldığı için eşit ve ölçülebilir ceza gibi görünür. Ayrıca çalışma, eğitim ve gözetimle kişiyi dönüştürme vaadi taşır.",
+        "Para cezası zenginle yoksula eşit değildir; bir yıl zaman herkese aynı görünür. Oysa yaşam koşulları ve sonuçlar yine eşit değildir.",
+        "Hapishane disiplin tekniklerinin yoğunlaştığı kurumdur. Suçu yalnız ödetmek değil kişiyi düzeltmek ister.",
+        "Bu doğal ceza biçimi değildir; belirli tarihsel tekniklerin buluşmasıdır."
+      ]
+    },
+    {
+      "id": "durak-16-basarisizlik-mi-islev-mi",
+      "section": "DÖRDÜNCÜ KISIM · HAPİSHANE VE BUGÜN",
+      "title": "Başarısızlık mı, işlev mi?",
+      "paragraphs": [
+        "Hapishanenin suçu azaltmadığı, tekrar suça ve suçlu çevresine yol açtığı daha başından bilinir. Buna rağmen kurum sürer.",
+        "Sürekli aynı sonucu vermeyen makine neden atılmaz? Foucault görünür başarısızlığın başka işlev ürettiğini sorar.",
+        "Hapishane belirli bir 'suçlu' sınıfı ayırır, gözetilebilir hale getirir ve diğer yasa dışılık türlerinden dikkati uzaklaştırabilir.",
+        "Başarısızlık reform çağrılarını da besler; kurum kendi eleştirisiyle birlikte yeniden kurulur."
+      ]
+    },
+    {
+      "id": "durak-17-karceral-toplum",
+      "section": "DÖRDÜNCÜ KISIM · HAPİSHANE VE BUGÜN",
+      "title": "Karceral toplum",
+      "paragraphs": [
+        "Hapishane duvarları dışındaki okul, fabrika, kışla ve hastane aynı değildir. Fakat kayıt, sınav, sıra ve normalleştirme tekniklerini paylaşabilir.",
+        "Foucault toplumun bütünü hapishanedir demez; ceza mantığının geniş bir disiplin ağı içinde anlaşılması gerektiğini gösterir.",
+        "Çocuk davranış puanı, çalışan performans paneli ve risk skoru farklı amaçlarla benzer karşılaştırma düzeni kurar.",
+        "Kurumun yararı, tekniğin güç etkisini sorgulamamayı gerektirmez."
+      ]
+    },
+    {
+      "id": "durak-18-telefondaki-kucuk-kule",
+      "section": "DÖRDÜNCÜ KISIM · HAPİSHANE VE BUGÜN",
+      "title": "Telefondaki küçük kule",
+      "paragraphs": [
+        "Konum, tıklama, hız ve yüz verisi günümüz gözetimini merkez kuleden dağıtık platformlara taşır. Kişi yalnız izlenmez, tahmin edilir ve yönlendirilir.",
+        "Adım sayacı sağlık motivasyonu verirken sigorta veya işveren ölçüsüne dönüşebilir. Aynı veri bakım ve denetim arasında hareket eder.",
+        "Foucault'nun modeli dijital dünyayı tam açıklamaz; şirket, algoritma ve gönüllü paylaşım yeni boyutlardır.",
+        "Yine de görünürlük ile öz düzenleme bağlantısı güçlüdür: Puanı gören kişi kendini ölçünün dilinde yönetir."
+      ]
+    },
+    {
+      "id": "durak-19-foucault-nun-eksik-biraktiklari",
+      "section": "SON DURAKLAR",
+      "title": "Foucault'nun eksik bıraktıkları",
+      "paragraphs": [
+        "Kitap disiplinin yayılışını güçlü anlatır, fakat reformların gerçek acı azaltımını ve mahkumların direniş deneyimini bazen arka plana iter.",
+        "Fransa merkezli tarih başka ülkelerin ceza yollarına aynen uymaz. Irk, sömürge ve cinsiyet farkları daha geniş çalışma ister.",
+        "İktidarın her yerde görünmesi değişimin nereden geleceğini belirsizleştirebilir. Foucault direniş imkanı kabul eder, fakat bu kitap ayrıntılı program sunmaz."
+      ]
+    },
+    {
+      "id": "durak-20-disiplinin-yarari-olabilir-mi",
+      "section": "SON DURAKLAR",
+      "title": "Disiplinin yararı olabilir mi?",
+      "paragraphs": [
+        "Cerrahi hijyen, uçuş kontrol listesi ve okul rutini disiplin olmadan zarar görebilir. Sorun her düzenin baskı olması değildir.",
+        "Kontrol soruları şunlardır: Kuralın amacı açık mı, ölçülen kişi söz sahibi mi, veri itiraz edilebilir mi ve sapma otomatik kusur sayılıyor mu?",
+        "Foucault bizi düzeni reddetmeye değil masum görünen tekniğin güç yapısını incelemeye çağırır."
+      ]
+    },
+    {
+      "id": "durak-21-bir-kurumu-foucault-gibi-gezmek",
+      "section": "SON DURAKLAR",
+      "title": "Bir kurumu Foucault gibi gezmek",
+      "paragraphs": [
+        "Kapıdan girince kim görünür, kim görünmeden görür? Zaman nasıl bölünür, bedenler nereye yerleştirilir, hangi davranış kayda girer?",
+        "Sınav veya puan yalnız sonuç mu ölçüyor, kişi hakkında kalıcı kimlik mi üretiyor? Veriyi kim saklıyor ve nasıl itiraz edilir?",
+        "Duvar ve çizelge böylece iktidarın sessiz cümleleri olarak okunur."
+      ]
+    },
+    {
+      "id": "durak-22-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Modern ceza işkenceyi azaltırken iktidarı ortadan kaldırmadı; bedeni zaman, mekan, gözetim, sınav ve normalleştirmeyle sürekli biçimlendiren daha sessiz bir disiplin ağı kurdu.",
+        "Akılda kalacak görüntü boş gözetleme kulesidir: Orada göz olmasa bile görülme ihtimali insanı kendi gardiyanına çevirebilir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-damiens-in-parcalanan-bedeni": {
+      "image": "/images/summary-art-238-chapter-01-public-execution-v1.webp",
+      "imageCaption": "Halka açık işkence suçlunun bedeninde hükümdarın yaralanmış gücünü yeniden sahneleyen siyasi tiyatrodur."
+    },
+    "durak-03-seksen-yil-sonra-sessiz-cizelge": {
+      "image": "/images/summary-art-238-chapter-02-prison-timetable-v1.webp",
+      "imageCaption": "Meydandaki tek büyük şiddetin yerini mahkumun her dakikasını biçimlendiren sessiz ceza çizelgesi alır."
+    },
+    "durak-04-suctan-suclu-ruha": {
+      "image": "/images/summary-art-238-chapter-03-judged-soul-v1.webp",
+      "imageCaption": "Modern ceza yalnız eylemi değil uzman raporlarıyla kişinin karakterini ve gelecekteki tehlikesini de yargılar."
+    },
+    "durak-05-reformcularin-ekonomik-cezasi": {
+      "image": "/images/summary-art-238-chapter-04-penalty-signs-v1.webp",
+      "imageCaption": "Reformcu ceza hükümdarın öfkesini azaltırken suçlara önceden hesaplanmış ve toplum geneline yayılan işaretler koyar."
+    },
+    "durak-06-uysal-beden-nasil-uretilir": {
+      "image": "/images/summary-art-238-chapter-05-docile-body-v1.webp",
+      "imageCaption": "Disiplin bedeni kırıp atmaz; hareketini hassaslaştırırken onu yararlı ve kolay denetlenebilir hale getirir."
+    },
+    "durak-07-mekanda-herkese-bir-yer": {
+      "image": "/images/summary-art-238-chapter-06-ranked-space-v1.webp",
+      "imageCaption": "Numaralı yerler insanları yalnız barındırmaz; yoklama, karşılaştırma ve gözetimi mümkün kılan düzen kurar."
+    },
+    "durak-08-zamanin-ince-parcalari": {
+      "image": "/images/summary-art-238-chapter-07-fragmented-time-v1.webp",
+      "imageCaption": "Günün küçük zaman kutularına bölünmesi ortak üretimi hızlandırırken bedenin ritmini dış çizelgeye bağlar."
+    },
+    "durak-09-egzersiz-ve-basamak": {
+      "image": "/images/summary-art-238-chapter-08-graded-exercise-v1.webp",
+      "imageCaption": "Basamaklı egzersiz beceri üretirken kişiyi rütbe, not ve normal ilerleme çizgisi içinde şekillendirir."
+    },
+    "durak-10-hiyerarsik-bakis": {
+      "image": "/images/summary-art-238-chapter-09-hierarchical-gaze-v1.webp",
+      "imageCaption": "Her an bakılma ihtimali gözetmenin fiilen müdahale etmediği anlarda bile davranışı düzenleyebilir."
+    },
+    "durak-11-normallestirici-ceza": {
+      "image": "/images/summary-art-238-chapter-10-normalizing-curve-v1.webp",
+      "imageCaption": "Normalleştirme yasayı çiğnemeyi değil ortalamadan sapmayı ölçerek kişileri iyi, geri veya riskli diye sıralar."
+    },
+    "durak-12-sinavin-cift-yuzu": {
+      "image": "/images/summary-art-238-chapter-11-exam-file-v1.webp",
+      "imageCaption": "Sınav kişiyi ölçerken onun hakkında kalıcı dosya üretir; bilgi ve yönetim aynı masada birleşir."
+    },
+    "durak-13-panoptikon-gorunmeden-gormek": {
+      "image": "/images/summary-art-238-chapter-12-panopticon-v1.webp",
+      "imageCaption": "Merkez kulede göz olup olmadığı bilinmediğinde mahkum gözetimi kendi davranışına yerleştirir."
+    },
+    "durak-14-veba-sehri-ve-cuzzamli": {
+      "image": "/images/summary-art-238-chapter-13-plague-grid-v1.webp",
+      "imageCaption": "Veba düzeni insanları dışarı atmak yerine ev ve kayıt hücrelerinde tek tek görünür hale getirir."
+    },
+    "durak-15-hapishane-neden-hemen-yayildi": {
+      "image": "/images/summary-art-238-chapter-14-measured-time-v1.webp",
+      "imageCaption": "Hapishane özgürlüğü zaman birimiyle ölçerek eşit ceza görüntüsü verir, fakat hayatlar üzerindeki sonuç eşit olmayabilir."
+    },
+    "durak-16-basarisizlik-mi-islev-mi": {
+      "image": "/images/summary-art-238-chapter-15-failing-machine-v1.webp",
+      "imageCaption": "Suçu azaltmadığı söylenen hapishanenin sürmesi, görünür amaç dışında hangi işlevleri ürettiğini sormayı gerektirir."
+    },
+    "durak-17-karceral-toplum": {
+      "image": "/images/summary-art-238-chapter-16-carceral-network-v1.webp",
+      "imageCaption": "Okul, fabrika ve hastane hapishane değildir, fakat kayıt ve normalleştirme teknikleri kurumlar arasında dolaşabilir."
+    }
+  }
+}

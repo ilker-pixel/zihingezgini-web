@@ -1,0 +1,335 @@
+{
+  "bookNo": 182,
+  "title": "Felsefi Soruşturmalar",
+  "author": "Ludwig Wittgenstein",
+  "subtitle": "Sözcüklerin gizli özünü aramak yerine günlük kullanımına bakmayı; dil oyunları, aile benzerliği, kural izleme, özel dil ve zihin kavramları üzerinden felsefi düğümleri çözmeyi öğreten sıra dışı rehber.",
+  "coverImage": "/images/summary-art-182-felsefi-sorusturmalar-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/182-felsefi-sorusturmalar-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#5A6071",
+  "meta": {
+    "originalTitle": "Philosophische Untersuchungen",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Sözcüklerin gizli özünü aramak yerine günlük kullanımına bakmayı; dil oyunları, aile benzerliği, kural izleme, özel dil ve zihin kavramları üzerinden felsefi düğümleri çözmeyi öğreten sıra dışı rehber.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Wiley - Philosophical Investigations resmi sayfası",
+      "url": "https://www.wiley-vch.de/en/areas-interest/humanities-social-sciences/philosophy-12pl/historical-western-philosophy-12pl4/wittgenstein-12pl45/philosophical-investigations-978-1-4051-5928-9"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Wittgenstein",
+      "url": "https://plato.stanford.edu/entries/wittgenstein/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Wittgenstein",
+      "url": "https://iep.utm.edu/wittgenstein/"
+    },
+    {
+      "id": 4,
+      "title": "Routledge - Guidebook to Philosophical Investigations",
+      "url": "https://www.routledge.com/The-Routledge-Guidebook-to-Wittgensteins-Philosophical-Investigations/McGinn/p/book/9780415452564"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Felsefi Soruşturmalar baştan sona tek kanıt kuran ders kitabı değildir. Kısa paragraflar, sorular, hayali konuşmalar ve örneklerle okurun düşünme alışkanlığını değiştirir.",
+        "Wittgenstein teori kurmaktan çok dilin bizi büyülediği yerleri gösterir. Felsefi sorun bazen yeni bilgiyle değil kullandığımız kelimenin yollarını görerek çözülür.",
+        "Rehber her ünlü sözü bağlamında tutacak; 'anlam kullanımdır' ifadesini her kelime için katı tanım yapmayacak."
+      ]
+    },
+    {
+      "id": "durak-02-augustinus-un-dil-resmi",
+      "section": "BİRİNCİ KISIM · DİLİN ÇEŞİTLİ İŞLERİ",
+      "title": "Augustinus'un dil resmi",
+      "paragraphs": [
+        "Kitap, çocuğun yetişkinlerin nesne gösterip ad söylemesiyle dil öğrendiği resimle açılır. Bu resimde her sözcük bir nesnenin adı, cümle adlar dizisidir.",
+        "Market listesinde 'elma, ekmek, süt' için model iyi çalışır. Ama 've', 'belki', 'acı', 'oyun' veya 'yarın' hangi nesnenin adıdır?",
+        "Wittgenstein modelin yanlış değil dar olduğunu gösterir. Bir dil işlevini bütün dil sanınca sahte sorunlar doğar.",
+        "Felsefi terapi ilk adımda şunu sorar: Elinizdeki resim hangi örnekleri görünmez kılıyor?"
+      ]
+    },
+    {
+      "id": "durak-03-insaatcilarin-kucuk-dili",
+      "section": "BİRİNCİ KISIM · DİLİN ÇEŞİTLİ İŞLERİ",
+      "title": "İnşaatçıların küçük dili",
+      "paragraphs": [
+        "Bir işçi 'blok', 'sütun', 'döşeme' diye bağırır, diğeri doğru taşı getirir. Sözcük burada nesne adı kadar emirdir; anlam ortak işteki görevinden doğar.",
+        "Mutfakta 'tuz!' demek sözlük cümlesi değil uzat, getir veya eksik anlamına gelebilir. Bağlam kelimeye eylem verir.",
+        "Wittgenstein böyle küçük dil oyunları kurarak karmaşık dilin farklı kullanım parçalarını görünür kılar.",
+        "Dil yalnız dünyayı betimlemez; sorar, şaka yapar, söz verir, dua eder, ölçer ve teselli eder."
+      ]
+    },
+    {
+      "id": "durak-04-anlam-kullanimda-yasar",
+      "section": "BİRİNCİ KISIM · DİLİN ÇEŞİTLİ İŞLERİ",
+      "title": "Anlam kullanımda yaşar",
+      "paragraphs": [
+        "Bir kelimenin anlamını yalnız kafadaki görüntü veya sözlük açıklamasıyla değil, dilde nasıl kullanıldığıyla ararız. Para da kağıdından çok alışverişteki rolüyle paradır.",
+        "'Oyun' kelimesini çocuk oyunu, futbol ve kart oyununda kullanırız. Hepsinde ortak tek öz bulamasak da kullanım yollarını biliriz.",
+        "Kullanım keyfi değildir. Topluluk, bağlam ve öğrenilmiş kurallar hangi hamlenin yerinde olduğunu belirler.",
+        "Sözcük alet çantasındaki alet gibidir; biçiminden önce hangi işte nasıl tutulduğuna bakın."
+      ]
+    },
+    {
+      "id": "durak-05-aile-benzerligi",
+      "section": "BİRİNCİ KISIM · DİLİN ÇEŞİTLİ İŞLERİ",
+      "title": "Aile benzerliği",
+      "paragraphs": [
+        "Oyunların hepsinde eğlence, rekabet veya kural ortak değildir. Bazıları yalnız, bazıları kazanan olmadan oynanır. Yine de birbirine çapraz benzerliklerle bağlıdır.",
+        "Aile fotoğrafında herkesin aynı burnu yoktur; birinde göz, diğerinde gülüş, başkasında yürüyüş benzer. Tek özellik değil örtüşen ağ aileyi tanıtır.",
+        "Bir kavramın sınırı bulanık diye işe yaramaz olmaz. 'Şehir' nerede biter sorusu zor olsa da şehir kelimesini kullanırız.",
+        "Felsefe her kavram için gizli ortak öz istemeyi bıraktığında gerçek kullanım çeşitliliğini görür."
+      ]
+    },
+    {
+      "id": "durak-06-yasam-bicimi",
+      "section": "İKİNCİ KISIM · KURAL VE TOPLULUK",
+      "title": "Yaşam biçimi",
+      "paragraphs": [
+        "Dil oyunu havada duran kod değildir; insanların çalışma, kutlama, bakım, eğitim ve çatışma pratiklerine gömülüdür. Wittgenstein buna yaşam biçimi der.",
+        "'Geçmiş olsun' cümlesinin anlamı yalnız sözcüklerde değil hastalık, ziyaret ve nezaket kurumundadır.",
+        "Tamamen yabancı yaşam biçiminde aynı işareti çevirsek bile neyin şaka, emir veya ayıp olduğunu kaçırabiliriz.",
+        "Anlamak sözlüğe ek olarak ortak dünyada nasıl hareket edildiğini öğrenmektir."
+      ]
+    },
+    {
+      "id": "durak-07-kural-yolu-tek-basina-cizmez",
+      "section": "İKİNCİ KISIM · KURAL VE TOPLULUK",
+      "title": "Kural yolu tek başına çizmez",
+      "paragraphs": [
+        "Bir sayı dizisini '2, 4, 6, 8' diye sürdürün. Kuralı artı iki sayarsınız, fakat geçmiş örneklerle uyumlu başka karmaşık kurallar da uydurulabilir.",
+        "Yazılı tarif 'kısık ateş' der; yeni aşçı ocağın ve yemeğin içinde bunun ne olduğunu uygulamayla öğrenir.",
+        "Her kuralı açıklamak için yeni kural istersek sonsuz gerileme çıkar. Bir yerde topluluğun yerleşmiş uygulaması açıklamayı durdurur.",
+        "Kural izlemek özel yorum seçmek değil, eğitimle edinilmiş ortak pratiğe katılmaktır."
+      ]
+    },
+    {
+      "id": "durak-08-bir-kez-dogru-yapmak-yetmez",
+      "section": "İKİNCİ KISIM · KURAL VE TOPLULUK",
+      "title": "Bir kez doğru yapmak yetmez",
+      "paragraphs": [
+        "Tek davranışın kurala uygun olması tesadüf olabilir. Kural izlemek tekrar edilebilir ölçü ve doğru-yanlış ayrımı gerektirir.",
+        "Bir okçu bir kez hedefi gözleri kapalı vurabilir; bu nişan alma tekniğini bildiğini göstermez.",
+        "Kişinin 'ben böyle yorumladım' demesi her kullanımı doğru yapmaz. Dil oyununun toplumsal kontrolü vardır.",
+        "Wittgenstein anlamı tamamen özel zihinden çıkarıp kamusal öğrenme ve düzeltme alanına yerleştirir."
+      ]
+    },
+    {
+      "id": "durak-09-ozel-dil-mumkun-mu",
+      "section": "İKİNCİ KISIM · KURAL VE TOPLULUK",
+      "title": "Özel dil mümkün mü?",
+      "paragraphs": [
+        "Yalnız benim erişebildiğim iç duyuma her geldiğinde 'S' yazdığımı düşünün. Doğru kullandığımı kontrol edecek bağımsız ölçü yoksa doğru görünmesi ile doğru olması ayrılmaz.",
+        "Her gün kendi terazinizin doğru olduğunu yine aynı teraziyle sınamak gibi, özel işaret kendi ölçüsünü kuramaz.",
+        "Bu, acının gerçek olmadığı veya başkasının acımı benim kadar bildiği anlamına gelmez. Acı dilinin kullanımını yüz, davranış, yardım ve öğrenme içinde ediniriz.",
+        "İç deneyim özeldir; onu anlamlı dilde ifade etmenin ölçüsü kamusal yaşamdan gelir."
+      ]
+    },
+    {
+      "id": "durak-10-kutudaki-bocek",
+      "section": "ÜÇÜNCÜ KISIM · ZİHİN KAVRAMLARI",
+      "title": "Kutudaki böcek",
+      "paragraphs": [
+        "Herkesin kutusunda yalnız kendisinin gördüğü bir şey var ve herkes ona böcek diyor olsun. Kutuların içi farklı, hatta boş olabilir; kelimenin kamusal kullanımı bundan etkilenmez.",
+        "'Böcek' sözcüğünün işlevi gizli nesnenin resmiyle değil konuşmadaki yeriyle belirlenir. Gizli şey açıklama çarkında boşa döner.",
+        "Benzetme bilincin önemsiz olduğunu söylemez. İç nesneyi dil anlamının tek temeli yapmanın sorununu gösterir.",
+        "Zihni açıklarken kafanın içindeki hayali nesneleri çoğaltmak yerine kavramların kullanımına bakarız."
+      ]
+    },
+    {
+      "id": "durak-11-acimi-nereden-biliyorum",
+      "section": "ÜÇÜNCÜ KISIM · ZİHİN KAVRAMLARI",
+      "title": "Acımı nereden biliyorum?",
+      "paragraphs": [
+        "Kendi acımı gözlemleyip kanıt toplayarak bilmem; acı içindeyimdir. Başkasının acısını ise davranış, söz ve durumdan anlarım.",
+        "Doktor 'acı çektiğinden emin misin?' diye kanıt istemez, yerini ve şiddetini sorar. Birinci kişi cümlesi rapordan çok ifadedir.",
+        "Bu dilbilgisi farkını unutunca kendi zihnimize dış nesne gibi bakıp sonsuz kesinlik ararız.",
+        "Wittgenstein felsefi düğümü psikolojik deneyle değil, 'bilmek' kelimesinin farklı işlevleriyle çözer."
+      ]
+    },
+    {
+      "id": "durak-12-ic-surec-dis-olcu-ister",
+      "section": "ÜÇÜNCÜ KISIM · ZİHİN KAVRAMLARI",
+      "title": "İç süreç dış ölçü ister",
+      "paragraphs": [
+        "Anlamak, niyet etmek veya hatırlamak içsel olay olabilir, fakat bu kavramları hangi durumda kullandığımız dış ölçülere bağlıdır.",
+        "Öğrenci 'anladım' der ve yeni problemi çözer. Çözüm, gizli anlama parıltısının değil becerinin ölçüsüdür.",
+        "İç süreç yok demek davranışçılık olurdu. Wittgenstein iç olanın kavramdaki rolünü yanlış kurmamamızı ister.",
+        "Zihni görünmez makine gibi tasarlamak yerine insanın bütün davranış ve yaşam bağlamını görürüz."
+      ]
+    },
+    {
+      "id": "durak-13-okuma-makinesi-yanilsamasi",
+      "section": "ÜÇÜNCÜ KISIM · ZİHİN KAVRAMLARI",
+      "title": "Okuma makinesi yanılsaması",
+      "paragraphs": [
+        "Bir kişi metni akıcı okur, diğeri harfleri tek tek söyler. Okumanın başladığı tek iç anı veya zihinsel dişliyi bulmak isteriz.",
+        "Oysa okuma farklı bağlamlarda eğitim, hız, hata düzeltme ve anlamayla kurulan yetiler ailesidir. Gizli tek süreç aramak kavramı daraltır.",
+        "Piyanistin notayı takip etmesi ile çocuğun hecelemesi aynı ailede farklı örneklerdir.",
+        "Wittgenstein mekanizma sorusunu yasaklamaz; nöroloji süreçleri inceler. Felsefenin yaptığı, 'okuma' kelimesinin tek mekanizma adı olmadığını göstermektir."
+      ]
+    },
+    {
+      "id": "durak-14-felsefi-sinek-siseden-nasil-cikar",
+      "section": "DÖRDÜNCÜ KISIM · FELSEFİ TERAPİ",
+      "title": "Felsefi sinek şişeden nasıl çıkar?",
+      "paragraphs": [
+        "Wittgenstein felsefenin amacını sineğe şişeden çıkış yolunu göstermek diye anlatır. Sinek camı görmez, aynı yere çarpar; sorun dış dünyada değil hareket resmindedir.",
+        "Zihin 'içeride nesne', zaman 'akan madde', anlam 'kelimenin taşıdığı paket' diye düşünülünce belirli sorular kaçınılmaz görünür.",
+        "Kavramın farklı kullanımını göstermek camın kenarını görünür yapar. Yeni teori değil, eski büyünün çözülmesi gelir.",
+        "Felsefi huzur bütün merakı bitirmek değil sahte zorunluluğu ortadan kaldırmaktır."
+      ]
+    },
+    {
+      "id": "durak-15-dil-tatile-ciktiginda",
+      "section": "DÖRDÜNCÜ KISIM · FELSEFİ TERAPİ",
+      "title": "Dil tatile çıktığında",
+      "paragraphs": [
+        "Felsefi sorunlar kelimeler günlük işinden koparıldığında doğar der Wittgenstein. 'Zaman nedir?' sorusu zaman kelimesini ölçme, bekleme ve hatırlama kullanımlarından ayırabilir.",
+        "Çekici vitrinde döndürüp 'çekicin özü nedir?' diye sormak yerine çivide, sökmede ve düzeltmede nasıl kullanıldığına bakın.",
+        "Gündelik dil her zaman kusursuz değildir, fakat kavramın evini gösterir. Filozof kelimeyi boş arazide çalıştırmaya zorlamamalıdır.",
+        "Soruyu yok etmek yerine onu gerçek kullanım örnekleriyle yeniden kurarız."
+      ]
+    },
+    {
+      "id": "durak-16-aciklama-bir-yerde-biter",
+      "section": "DÖRDÜNCÜ KISIM · FELSEFİ TERAPİ",
+      "title": "Açıklama bir yerde biter",
+      "paragraphs": [
+        "Her gerekçenin arkasına yeni gerekçe istersek sonsuza gideriz. Bir yerde 'yaptığımız şey bu' diyen yerleşmiş uygulamaya ulaşırız.",
+        "Satrançta filin çapraz gitmesini neden diye sorup tarihini açıklayabilirsiniz; oyunun içinde son cevap kuralın nasıl öğretildiği ve uygulandığıdır.",
+        "Bu kör itaat değildir. Uygulamalar eleştirilebilir; eleştiri de başka ölçü ve yaşam amaçları içinde yapılır.",
+        "Wittgenstein zeminsiz kesinlik arzusunu sınırlar. Dil havada değil insan eyleminin kayasında durur."
+      ]
+    },
+    {
+      "id": "durak-17-tractatus-tan-donus",
+      "section": "DÖRDÜNCÜ KISIM · FELSEFİ TERAPİ",
+      "title": "Tractatus'tan dönüş",
+      "paragraphs": [
+        "Genç Wittgenstein dili dünyanın mantıksal resmini kuran daha tek biçimli yapı olarak görmüştü. Soruşturmalar bu idealin günlük dil çeşitliliğini kaçırdığını gösterir.",
+        "Tek raylı tren modeli yerine yollar, patikalar, meydanlar ve oyun alanları olan şehir gelir.",
+        "Bu tamamen geçmişi reddetmek değildir; dil ile dünya ilişkisi ilgisi sürer. Fakat tek öz yerine çoğul kullanım öne çıkar.",
+        "Filozofun kendi eski kitabını eleştirmesi düşünsel cesaretin kitabın biçimine dönüşmesidir."
+      ]
+    },
+    {
+      "id": "durak-18-kullanim-her-seyi-hakli-cikarir-mi",
+      "section": "SON DURAKLAR",
+      "title": "Kullanım her şeyi haklı çıkarır mı?",
+      "paragraphs": [
+        "Bir kelimenin toplumda kullanılması o kullanımın ahlaken doğru olduğunu göstermez. Ayrımcı söz de yerleşmiş olabilir; anlam açıklaması eleştirinin yerine geçmez.",
+        "Wittgenstein dilin nasıl işlediğini betimler. Hangi yaşam biçimini seçmemiz gerektiği için ek ahlaki ve siyasi gerekçeler gerekir.",
+        "Ayrıca yeni bilimsel kavramlar günlük dilden uzaklaşabilir. Kullanım yaklaşımı onları dışlamaz; laboratuvar da kendi eğitimli dil oyununu kurar."
+      ]
+    },
+    {
+      "id": "durak-19-topluluk-bireyi-ezer-mi",
+      "section": "SON DURAKLAR",
+      "title": "Topluluk bireyi ezer mi?",
+      "paragraphs": [
+        "Anlamın kamusal ölçüye dayanması bireyin hiç yenilik yapamayacağı anlamına gelmez. Yeni kullanım anlaşılır bağlar kurarsa toplulukta yerleşebilir.",
+        "Şair kelimeyi beklenmedik yerde kullanır, fakat etki eski yolları tamamen unutmadığı için duyulur.",
+        "Özel deneyim korunur; yalnız anlamı tek kişinin denetimsiz işaretine bağlamak reddedilir."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-kavram-sorusturmasi",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik kavram soruşturması",
+      "paragraphs": [
+        "Sizi kilitleyen bir kelime seçin: başarı, gerçek, zeka veya özgürlük. Tek tanım aramak yerine beş farklı cümlede nasıl kullanıldığını yazın.",
+        "Hangi örnekler aile benzerliği taşıyor, hangi kullanım başka dil oyununa ait? Sorununuz kelimenin tek öz taşımaması yüzünden mi büyüyor?",
+        "Bu alıştırma cevap vermezse bile camın nerede olduğunu gösterir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Felsefi düğümlerin çoğu sözcükleri günlük yaşam oyunlarından koparıp tek gizli öz aradığımızda doğar; kullanım çeşitliliğini görmek düşünceyi yeniden hareket ettirir.",
+        "Akılda kalacak görüntü alet çantasıdır: Bütün kelimeler aynı çekiç değildir ve hangi işi yaptıklarına bakmadan biçimlerinden anlam çıkaramayız."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-augustinus-un-dil-resmi": {
+      "image": "/images/summary-art-182-chapter-01-label-picture-v1.webp",
+      "imageCaption": "Her sözcüğü nesne etiketi sayan dil resmi alışveriş listesinde çalışır, fakat dilin bütün işlerini açıklayamaz."
+    },
+    "durak-03-insaatcilarin-kucuk-dili": {
+      "image": "/images/summary-art-182-chapter-02-builders-language-v1.webp",
+      "imageCaption": "İnşaat alanında 'blok' sözü etiket değil ortak iş içinde taşı getiren bir hamledir."
+    },
+    "durak-04-anlam-kullanimda-yasar": {
+      "image": "/images/summary-art-182-chapter-03-word-toolbox-v1.webp",
+      "imageCaption": "Sözcükler aynı biçimde duran etiketler değil, farklı dil işlerinde kullanılan aletler gibi anlam kazanır."
+    },
+    "durak-05-aile-benzerligi": {
+      "image": "/images/summary-art-182-chapter-04-family-photos-v1.webp",
+      "imageCaption": "Tek ortak yüz özelliği olmadan örtüşen göz, gülüş ve yürüyüş benzerlikleri aileyi birbirine bağlar."
+    },
+    "durak-06-yasam-bicimi": {
+      "image": "/images/summary-art-182-chapter-05-form-of-life-v1.webp",
+      "imageCaption": "Sözün anlamı yalnız sözlükte değil hastalık, ziyaret ve bakım gibi paylaşılan yaşam pratiklerinde yerleşir."
+    },
+    "durak-07-kural-yolu-tek-basina-cizmez": {
+      "image": "/images/summary-art-182-chapter-06-number-rule-v1.webp",
+      "imageCaption": "Geçmiş sayı dizisi tek başına gelecekteki hamleyi zorunlu kılmaz; kural ortak uygulamada yön kazanır."
+    },
+    "durak-08-bir-kez-dogru-yapmak-yetmez": {
+      "image": "/images/summary-art-182-chapter-07-lucky-arrow-v1.webp",
+      "imageCaption": "Tek isabet kural bilgisi değildir; doğru kullanım tekrar, eğitim ve düzeltilebilir ölçü gerektirir."
+    },
+    "durak-09-ozel-dil-mumkun-mu": {
+      "image": "/images/summary-art-182-chapter-08-private-diary-mark-v1.webp",
+      "imageCaption": "Yalnız sahibinin eriştiği işaret doğru kullanımı yine kendisiyle ölçerse, doğruluk ile doğru sanma ayrımı kaybolur."
+    },
+    "durak-10-kutudaki-bocek": {
+      "image": "/images/summary-art-182-chapter-09-beetle-box-v1.webp",
+      "imageCaption": "Kutudaki gizli böcek ne olursa olsun kelimenin ortak anlamı konuşmadaki kamusal işlevinden doğar."
+    },
+    "durak-11-acimi-nereden-biliyorum": {
+      "image": "/images/summary-art-182-chapter-10-pain-expression-v1.webp",
+      "imageCaption": "Kendi acım kanıtla keşfettiğim nesne değil yaşadığım durumdur; başkasının acısı ortak ifadelerden anlaşılır."
+    },
+    "durak-12-ic-surec-dis-olcu-ister": {
+      "image": "/images/summary-art-182-chapter-11-understanding-test-v1.webp",
+      "imageCaption": "Anlama içte parlayan özel nesne değil, yeni durumda ne yapabildiğimizle ölçülen canlı bir beceridir."
+    },
+    "durak-13-okuma-makinesi-yanilsamasi": {
+      "image": "/images/summary-art-182-chapter-12-reading-family-v1.webp",
+      "imageCaption": "Akıcı okuma, heceleme ve nota takibi tek gizli dişlinin değil örtüşen beceriler ailesinin üyeleridir."
+    },
+    "durak-14-felsefi-sinek-siseden-nasil-cikar": {
+      "image": "/images/summary-art-182-chapter-13-fly-bottle-v1.webp",
+      "imageCaption": "Sinek görünmez cama aynı yerden çarpar; dil resmi fark edilince felsefi çıkış yolu açılabilir."
+    },
+    "durak-15-dil-tatile-ciktiginda": {
+      "image": "/images/summary-art-182-chapter-14-word-on-holiday-v1.webp",
+      "imageCaption": "Kelime günlük işinden tatile çıkınca boşlukta dönmeye başlar; onu kullanım evine geri getirmek düğümü çözer."
+    },
+    "durak-16-aciklama-bir-yerde-biter": {
+      "image": "/images/summary-art-182-chapter-15-bedrock-practice-v1.webp",
+      "imageCaption": "Gerekçe zinciri sonunda insanların birlikte yaptığı ve öğrettiği uygulamanın kayasına dayanır."
+    },
+    "durak-17-tractatus-tan-donus": {
+      "image": "/images/summary-art-182-chapter-16-one-rail-to-city-v1.webp",
+      "imageCaption": "Tek mantık rayı yerini farklı işlere giden sokak ve patikalardan oluşan yaşayan dil şehrine bırakır."
+    }
+  }
+}
