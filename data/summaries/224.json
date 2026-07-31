@@ -5,6 +5,110 @@
   "subtitle": "Bir toplumu tek fotoğrafa sıkıştırmanın bilgiye, kültüre ve yönetme gücüne nasıl dönüştüğünü gündelik örneklerle anlatan sade rehber.",
   "coverImage": "/images/summary-art-224-oryantalizm-v2.webp",
   "coverStyle": "artwork",
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#315A66",
+  "chapterArtworks": {
+    "durak-07-01-durak-oryantalizmin-uc-anlami": {
+      "image": "/images/summary-art-224-chapter-01-three-meanings-v1.webp",
+      "imageCaption": "Aynı toplum akademi, gezi ve yönetim dosyalarında farklı amaçlarla ama ortak kalıplarla temsil edilebilir."
+    },
+    "durak-08-02-durak-dogu-bati-ikiligi": {
+      "image": "/images/summary-art-224-chapter-02-east-west-binary-v1.webp",
+      "imageCaption": "Dünyayı iki çekmeceye zorlayan Doğu-Batı ikiliği, insanların çeşitliliğini dışarı taşırır."
+    },
+    "durak-09-03-durak-temsil": {
+      "image": "/images/summary-art-224-chapter-03-representation-frame-v1.webp",
+      "imageCaption": "Kadraj içindeki görüntü gerçek olabilir; temsilin gücü, dışarıda bıraktıklarında saklıdır."
+    },
+    "durak-10-04-durak-soylem": {
+      "image": "/images/summary-art-224-chapter-04-discourse-stencil-v1.webp",
+      "imageCaption": "Eski arşivdeki kalıp, yeni haberi aynı hikâyenin içine çekebilir."
+    },
+    "durak-11-05-durak-bilgi-ve-guc": {
+      "image": "/images/summary-art-224-chapter-05-knowledge-power-v1.webp",
+      "imageCaption": "Harita ve sınıflandırma yalnız bilgi üretmez; vergi, denetim ve yönetim gücüne dönüşebilir."
+    },
+    "durak-12-06-durak-ozculuk": {
+      "image": "/images/summary-art-224-chapter-06-essentialism-stamp-v1.webp",
+      "imageCaption": "Tek kişide görülen özelliği milyonlara damgalamak, insanları değişmez bir öze indirger."
+    },
+    "durak-13-07-durak-hayali-cografya": {
+      "image": "/images/summary-art-224-chapter-07-imaginative-geography-v1.webp",
+      "imageCaption": "Hayalî sınır, kesintisiz coğrafyayı 'bizim güvenli yerimiz' ve 'onların karanlık yeri' diye böler."
+    },
+    "durak-14-08-durak-gizli-ve-acik-oryantalizm": {
+      "image": "/images/summary-art-224-chapter-08-latent-manifest-v1.webp",
+      "imageCaption": "Açık küçümseme kaybolsa bile görünmez ipler insanı 'zamansız' bir kuklaya çevirebilir."
+    },
+    "durak-15-09-durak-kurumlar-agi": {
+      "image": "/images/summary-art-224-chapter-09-institution-network-v1.webp",
+      "imageCaption": "Müze, okul, medya ve devlet aynı imgeyi birbirine aktarınca kalıp kişiden uzun yaşar."
+    },
+    "durak-17-10-durak-dilbilim-ve-siniflandirma": {
+      "image": "/images/summary-art-224-chapter-10-philology-ranking-v1.webp",
+      "imageCaption": "Dili kaydetmek bilgi üretir; konuşan insanları basamaklara dizmek hiyerarşi kurar."
+    },
+    "durak-18-11-durak-gezi-yazisi": {
+      "image": "/images/summary-art-224-chapter-11-travel-writing-v1.webp",
+      "imageCaption": "Dar bir balkondan görülen birkaç saat, bütün ülkenin ruhu sanılabilir."
+    },
+    "durak-19-12-durak-edebiyat-ve-roman": {
+      "image": "/images/summary-art-224-chapter-12-literature-stage-v1.webp",
+      "imageCaption": "Yabancı ülke kahramanın sahnesine, orada yaşayan insanlar dekoruna dönüşebilir."
+    },
+    "durak-20-13-durak-resim-ve-gorsel-kultur": {
+      "image": "/images/summary-art-224-chapter-13-visual-culture-v1.webp",
+      "imageCaption": "Hiç görülmemiş bir hayal, resmin etkisiyle gerçek hayatın penceresi sanılabilir."
+    },
+    "durak-21-14-durak-napolyon-un-misir-seferi": {
+      "image": "/images/summary-art-224-chapter-14-napoleon-egypt-v1.webp",
+      "imageCaption": "Mısır seferinde asker, haritacı, bilim insanı ve matbaa aynı projenin içinde yürüdü."
+    },
+    "durak-22-15-durak-britanya-ve-fransa-imparatorluklari": {
+      "image": "/images/summary-art-224-chapter-15-british-french-empires-v1.webp",
+      "imageCaption": "İmparatorluk, topun yanında nüfus sayımı, okul, hukuk ve haritayla da yönetti."
+    },
+    "durak-23-16-durak-egzotiklik-ve-cinsellik": {
+      "image": "/images/summary-art-224-chapter-16-exotic-gaze-v1.webp",
+      "imageCaption": "Egzotik bakış, insanı kendisi konuşan özne olmaktan çıkarıp seyirlik nesneye dönüştürebilir."
+    },
+    "durak-24-17-durak-sessizlik-ve-kimin-konustugu": {
+      "image": "/images/summary-art-224-chapter-17-empty-chair-voice-v1.webp",
+      "imageCaption": "Bir toplum saatlerce konuşulurken o toplumdan kimsenin masada olmaması bilginin sınırını gösterir."
+    },
+    "durak-26-18-durak-direnis-ve-karsi-temsil": {
+      "image": "/images/summary-art-224-chapter-18-counter-representation-v1.webp",
+      "imageCaption": "Kamera içeriden dönünce tek kalıbın arkasındaki sınıf, kuşak ve hayat çeşitliliği görünür olur."
+    },
+    "durak-27-19-durak-postkolonyal-calismalar": {
+      "image": "/images/summary-art-224-chapter-19-postcolonial-reading-v1.webp",
+      "imageCaption": "Aynı demiryolu, imparatorluk merkezinden başarı; işçi ve köylü açısından başka bir tarih anlatabilir."
+    },
+    "durak-28-20-durak-medya-ve-ortadogu-kaliplari": {
+      "image": "/images/summary-art-224-chapter-20-media-middle-east-v1.webp",
+      "imageCaption": "Savaş, petrol ve din ekranı doldururken milyonlarca insanın sıradan hayatı kadraj dışında kalabilir."
+    },
+    "durak-29-21-durak-ic-oryantalizm-ve-kendini-sunma": {
+      "image": "/images/summary-art-224-chapter-21-internal-orientalism-v1.webp",
+      "imageCaption": "Bir toplum kendi şehrini satmak için dışarıdaki egzotik kalıbı içeriden yeniden üretebilir."
+    },
+    "durak-30-22-durak-said-e-yoneltilen-elestiriler": {
+      "image": "/images/summary-art-224-chapter-22-critiques-of-said-v1.webp",
+      "imageCaption": "Said'in haritası güçlüdür; eleştiri, eksik yolları eklerken ana soruyu koruyabilir."
+    },
+    "durak-31-23-durak-kulturu-elestirirken-yeni-kalip-uretmemek": {
+      "image": "/images/summary-art-224-chapter-23-reverse-essentialism-v1.webp",
+      "imageCaption": "Kalıbı ters yöne çevirmek kalıbı yok etmez; 'bütün Batılılar aynıdır' sözü de özcülüktür."
+    },
+    "durak-32-24-durak-dijital-platformlar-ve-yapay-zeka": {
+      "image": "/images/summary-art-224-chapter-24-ai-stereotypes-v1.webp",
+      "imageCaption": "Yapay zekâ, internetteki eşitsiz arşivi yeni ve tarafsız görünen görüntüler olarak paketleyebilir."
+    },
+    "durak-33-25-durak-kitabin-kalici-mirasi": {
+      "image": "/images/summary-art-224-chapter-25-lasting-legacy-v1.webp",
+      "imageCaption": "Said'in mirası kesin hükümden önce sorar: Kaynak ne, kadraj dışında kim var, anlatılanlar nasıl cevap veriyor?"
+    }
+  },
   "pdfUrl": "/data/pdfs/224-oryantalizm-ozeti.pdf",
   "pdfLabel": "26 sayfalık PDF'yi indir",
   "longForm": true,
