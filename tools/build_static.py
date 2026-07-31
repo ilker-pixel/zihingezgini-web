@@ -182,6 +182,7 @@ def page_shell(
     page_type: str = "website",
     body_class: str = "",
     noindex: bool = False,
+    static_css_version: int = 3,
 ) -> str:
     canonical = f"{SITE_URL}{path}"
     image_url = absolute_asset(image)
@@ -219,7 +220,7 @@ def page_shell(
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/style.css?v=65">
   <link rel="stylesheet" href="/zihin-v2.css?v=4">
-  <link rel="stylesheet" href="/static-pages.css?v=3">
+  <link rel="stylesheet" href="/static-pages.css?v={static_css_version}">
   <script src="/static-page.js?v=2" defer></script>
 </head>
 <body class="static-page {html.escape(body_class)}">
@@ -475,6 +476,9 @@ def markdown_inline(value: str) -> str:
 
 def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
     path = summary_path(summary)
+    is_cover_artwork = summary.get("coverStyle") == "artwork"
+    hero_class = " has-cover-art" if is_cover_artwork else ""
+    cover_class = " summary-cover-art" if is_cover_artwork else ""
     chapters = []
     for chapter in summary.get("chapters", []):
         paragraphs = "".join(
@@ -546,7 +550,7 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
     body = f"""
       <article class="summary-reader-container static-summary{' is-long-form' if summary.get('longForm') else ''}">
         {breadcrumb([("Başlangıç", "/"), ("Okuma Haritası", "/okuma-haritasi/"), (summary['title'], path)])}
-        <header class="summary-hero-split">
+        <header class="summary-hero-split{hero_class}">
           <div class="summary-hero-left">
             <span class="summary-meta-book-no">#{summary.get('bookNo')}</span>
             <h1 class="summary-book-title">{html.escape(summary['title'])}</h1>
@@ -558,7 +562,7 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
               <div><strong>Tarih:</strong> {html.escape(meta.get('date', ''))}</div>
             </div>{pdf_link}
           </div>
-          <div class="summary-hero-right"><img src="{html.escape(summary.get('coverImage', '/images/thinking_man_sketch.png'), quote=True)}" class="summary-featured-img" alt="{html.escape(summary['title'], quote=True)}"></div>
+          <div class="summary-hero-right"><img src="{html.escape(summary.get('coverImage', '/images/thinking_man_sketch.png'), quote=True)}" class="summary-featured-img{cover_class}" alt="{html.escape(summary['title'], quote=True)}"></div>
         </header>
         <div class="summary-intro-box"><h2>Giriş</h2><p>{summary.get('intro', '')}</p></div>{toc}
         <div class="summary-chapters-list">{''.join(chapters)}</div>{sources}
@@ -588,6 +592,7 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
         schema=schema,
         page_type="article",
         body_class="summary-page",
+        static_css_version=4 if is_cover_artwork else 3,
     )
 
 
