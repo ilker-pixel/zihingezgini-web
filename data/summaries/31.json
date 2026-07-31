@@ -1,0 +1,366 @@
+{
+  "bookNo": 31,
+  "title": "Niçin Uyuruz?",
+  "author": "Matthew Walker",
+  "subtitle": "Uykunun görünmez gece vardiyasını, rüyaları ve modern hayatın uykuya açtığı savaşı gündelik örneklerle anlatan sade ve eleştirel rehber.",
+  "coverImage": "/images/summary-art-31-nicin-uyuruz-v2.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/31-nicin-uyuruz-ozeti.pdf",
+  "pdfLabel": "25–50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#355A78",
+  "meta": {
+    "originalTitle": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+    "compiler": "Zihin Gezgini · Yapay zekâ destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Uyumak, günün fişini çekmek değildir. Beyin ve beden gece boyunca sırayla temizlik yapar, anıları düzenler, duyguların sesini kısar ve ertesi günün ayarlarını hazırlar. Matthew Walker'ın kitabı bu görünmez vardiyayı büyük bir heyecanla anlatır. Bu rehber kitabın dört parçalı yolunu koruyor; fakat korkutucu oranları ve kesin nedensellik iddialarını bugünkü kanıtlarla karıştırmıyor. Amaç, saati takıntıyla izlemek değil, uykunun neden ciddiye alınması gereken canlı bir süreç olduğunu anlamaktır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Why We Sleep – resmî yayınevi sayfası ve bölüm yapısı",
+      "url": "https://www.simonandschuster.com/books/Why-We-Sleep/Matthew-Walker/9781501144325"
+    },
+    {
+      "id": 2,
+      "title": "NHLBI – uyku evreleri",
+      "url": "https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep"
+    },
+    {
+      "id": 3,
+      "title": "AASM ve SRS – yetişkinler için uyku süresi uzlaşı metni",
+      "url": "https://aasm.org/seven-or-more-hours-of-sleep-per-night-a-health-necessity-for-adults"
+    },
+    {
+      "id": 4,
+      "title": "NICHD – uykuda ne olur?",
+      "url": "https://www.nichd.nih.gov/health/topics/sleep/conditioninfo/Pages/what-happens.aspx"
+    },
+    {
+      "id": 5,
+      "title": "NINDS – Understanding Sleep",
+      "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf"
+    },
+    {
+      "id": 6,
+      "title": "Why We Sleep üzerine ayrıntılı eleştirel inceleme",
+      "url": "https://guzey.com/books/why-we-sleep/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Walker uykuyu, sağlığın kenarında duran küçük bir alışkanlık olmaktan çıkarıp hayatın ortasına getirir. Kitabın gücü budur. Okur bir gecenin içinde yalnız dinlenme değil, farklı evreleri ve görevleri olan canlı bir düzen görmeye başlar.",
+        "Fakat popüler bilimde güçlü benzetme ile kesin kanıt aynı şey değildir. Kitaptaki bazı sayılar, grafik kullanımları ve tek bir araştırmadan çıkarılan büyük hükümler eleştirilmiştir. Bu özet ana mekanizmaları anlatırken ilişki ile neden-sonuç arasındaki farkı koruyacak.",
+        "Son hedef kusursuz uyuyan bir makineye dönüşmek değil. Kendi ritmini, gündüz uyanıklığını ve uzun süren sorunlarda profesyonel destek ihtiyacını fark eden daha sakin bir okur olmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-gece-kapanan-dukkan-degil-calisan-sehir",
+      "section": "BİRİNCİ KISIM · UYKU NEDİR?",
+      "title": "Gece kapanan dükkân değil, çalışan şehir",
+      "paragraphs": [
+        "Saat gece yarısını geçtiğinde sokaklar boşalır. Dışarıdan bakınca şehir durmuş gibidir. Oysa fırınlar hamur hazırlar, temizlik ekipleri çalışır, hastaneler nöbet tutar. Uyuyan beden de böyledir: Bilinçli hareket azalırken içeride farklı ekipler devreye girer.",
+        "Kitabın temel itirazı, uykuyu uyanıklığın eksik hâli saymamızadır. Evrim, canlıyı saatlerce çevreye karşı savunmasız bırakıyorsa, bu pahalı davranışın önemli işler yapması beklenir. Uykunun tek bir görevi yoktur; bir İsviçre çakısı gibi birçok işi aynı zaman diliminde yürütür.",
+        "Bir telefonu yalnız ekran karardığı için kapalı sanmak ne kadar eksikse, uyuyan beyni de sessiz sanmak o kadar eksiktir. Ölçüm cihazları, gecenin farklı bölümlerinde farklı elektriksel örüntüler gösterir. Nabız, kas tonu, solunum ve hormonlar da aynı kalmaz.",
+        "Bu bakış gündelik bir yanılgıyı düzeltir. Yatakta sekiz saat geçirmek ile sekiz saat uyumak aynı değildir. Uykunun süresi kadar düzeni, kesintiye uğrayıp uğramadığı ve kişinin gündüz nasıl hissettiği de önem taşır.",
+        "Akılda kalacak görüntü, gece vardiyasındaki şehirdir. Işıklar azalmıştır ama iş bitmemiştir; yalnız görev değişmiştir."
+      ]
+    },
+    {
+      "id": "durak-03-iki-saat-gunes-saati-ve-uyku-kumu",
+      "section": "BİRİNCİ KISIM · UYKU NEDİR?",
+      "title": "İki saat: Güneş saati ve uyku kumu",
+      "paragraphs": [
+        "Akşam koltukta gözleri kapanan biri, yatağa geçince neden birden açılabilir? Çünkü uyku isteğini tek bir düğme yönetmez. Walker iki sistemi yan yana koyar: Yaklaşık yirmi dört saatlik iç saat ve uyanık kaldıkça biriken uyku basıncı.",
+        "İç saat, ışık başta olmak üzere çevreden ipucu alır. Sabah ışığı bedenin gündüz programını öne çıkarır; akşam karanlığı geceye hazırlanmasına yardım eder. İnsanlar aynı fabrikadan çıkmış saatler değildir. Kimisi erken, kimisi geç saatlerde daha canlıdır; yaş da bu eğilimi değiştirir.",
+        "Uyku basıncını kum saatine benzetebiliriz. Sabah üst hazne boştur. Gün ilerledikçe adenosin denen kimyasal habercinin etkisi artar ve kum aşağı dolar. Uyuyunca basınç azalır. Öğleden sonraki kısa çöküş ise yalnız bu kumla değil, iç saatin günlük dalgasıyla da ilgilidir.",
+        "İki sistem bazen birbirini çeker, bazen iter. Gece yarısı çok yorulmuş olsak bile parlak ışık ve hareket bizi açık tutabilir. Sabah alarm çaldığında basınç azalmış olsa da iç saat hâlâ gece programında kalmış olabilir.",
+        "Bu yüzden uyku yalnız irade meselesi değildir. 'Erken yat' öğüdü, saati sürekli geçe ayarlanmış bir gence veya gece vardiyasında çalışan birine yeterli açıklama sunmaz. Önce hangi saatin kiminle kavga ettiğini görmek gerekir."
+      ]
+    },
+    {
+      "id": "durak-04-kahvenin-yaptigi-sey-enerji-vermek-mi",
+      "section": "BİRİNCİ KISIM · UYKU NEDİR?",
+      "title": "Kahvenin yaptığı şey enerji vermek mi?",
+      "paragraphs": [
+        "Öğleden sonra içilen kahve, bedene yeni enerji dökmez. Daha çok, yorgunluk haberini taşıyan adenosinin bazı alıcılara ulaşmasını geçici olarak engeller. Benzin deposu dolmamıştır; yalnız gösterge panelindeki uyarı ışığının üzeri kapatılmıştır.",
+        "Kafeinin etkisi kişiden kişiye değişir ve saatlerce sürebilir. Bir insan akşam kahvesinden sonra kolayca uyuduğunu söyleyebilir; bu, uykunun mimarisinin hiç etkilenmediğini kanıtlamaz. Öte yandan herkes için tek bir kesin yasak saati vermek de doğru değildir.",
+        "Melatonin başka bir yanlış anlaşılmanın merkezindedir. Bu hormon bir bayıltma ilacı gibi uyku üretmez; daha çok karanlığın başladığını bildiren gece habercisidir. Uçakla saat dilimi değiştirince yeni yere uyum sağlamada bu işaretin zamanı önem kazanır.",
+        "Jet lag, kol saatinin değil beden saatinin geride kalmasıdır. İstanbul'dan New York'a vardığınızda duvardaki saat akşamı gösterirken karaciğeriniz, bağırsaklarınız ve beyniniz başka bir saati yaşamaya devam edebilir. Uyum birkaç gün ister.",
+        "Buradaki pratik ders kahveyi şeytan ilan etmek değildir. Fincanın hangi saatte geldiğini, geceyi ne kadar etkilediğini ve ertesi gün yeni kahve ihtiyacına dönüşüp dönüşmediğini fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-05-gecenin-dalgalari-hafiften-derine-derinden-ruyaya",
+      "section": "BİRİNCİ KISIM · UYKU NEDİR?",
+      "title": "Gecenin dalgaları: Hafiften derine, derinden rüyaya",
+      "paragraphs": [
+        "Uyku tek renk bir karanlık değildir. Gece boyunca hızlı göz hareketlerinin görülmediği NREM evreleri ile REM uykusu arasında döneriz. Bir döngü çoğu yetişkinde kabaca seksen ile yüz dakika sürer ve gecede birkaç kez tekrarlanır.",
+        "İlk evre, kıyıdan tekneye adım atmak gibidir; kolayca geri döneriz. İkinci evrede uyku belirginleşir. Derin NREM uykusunda beyin dalgaları yavaşlar, uyandırılmak zorlaşır. Sabahın ilk bölümünde bu derin uyku daha çok yer kaplar.",
+        "Gecenin ilerleyen kısmında REM dönemleri uzar. Beyin etkin görünür, canlı rüyalar sıklaşır, büyük kasların hareketi baskılanır. Sanki film gösterilirken salonun kapıları kilitlenmiştir; beden rüyanın her hareketini dışarı taşımaktan korunur.",
+        "Bir gecenin başını veya sonunu sürekli kesmek aynı sonucu doğurmayabilir. Çok erken kalkmak, sabaha doğru yoğunlaşan REM uykusundan daha fazla çalabilir. Buna rağmen her evreyi tek bir göreve kilitlemek de bilimsel olarak fazla basittir; bellek gibi işlerde birden çok evre birlikte rol oynar.",
+        "Gecenin akılda kalacak resmi bir merdiven değil, tekrar tekrar kıyıya vuran dalgadır. Aynı denize gireriz ama her dalga başka bir ritim taşır."
+      ]
+    },
+    {
+      "id": "durak-06-yunus-yarim-beyinle-uyurken-insan-neden-yataga-ihtiyac-duyar",
+      "section": "BİRİNCİ KISIM · UYKU NEDİR?",
+      "title": "Yunus yarım beyinle uyurken insan neden yatağa ihtiyaç duyar?",
+      "paragraphs": [
+        "Hayvanlar uyku konusunda inanılmaz çözümler geliştirmiştir. Yunus gibi bazı deniz memelileri beynin bir yarısını uyuturken öteki yarısıyla yüzmeye ve nefes almaya devam edebilir. Göçmen kuşlar tehlikeli zamanlarda uykuyu küçük parçalara bölebilir.",
+        "Bu çeşitlilik, 'doğru uyku biçimi' diye bütün canlılara uygulanacak tek bir şablon olmadığını gösterir. Avcı olmak, av olmak, yiyeceğe ulaşmak, yavru korumak ve beden büyüklüğü uykunun süresini ve biçimini etkileyebilir.",
+        "İnsan uykusunun ilginç yanlarından biri, yere yakın güvenli yatakların REM uykusunu artırmış olabileceği fikridir. Ateş, grup hâlinde korunma ve uygun bir uyku yeri, beynin gece programına daha fazla alan açmış olabilir. Bu, ilgi çekici bir evrimsel açıklamadır; geçmişi doğrudan seyredemediğimiz için dikkatle ele alınmalıdır.",
+        "Bir zürafa ile yarasayı yalnız kaç saat uyuduklarıyla karşılaştırmak, iki şehri yalnız nüfusuna göre tanımaya benzer. Uykunun nerede, nasıl ve ne kadar parçalı olduğu da önemlidir.",
+        "Kitabın bu bölümünden kalan şaşkınlık şudur: Uyku doğada tek tip bir teslimiyet değil, yaşam koşullarına göre şekil değiştiren eski bir çözümdür."
+      ]
+    },
+    {
+      "id": "durak-07-bebekten-yasliliga-degisen-gece",
+      "section": "BİRİNCİ KISIM · UYKU NEDİR?",
+      "title": "Bebekten yaşlılığa değişen gece",
+      "paragraphs": [
+        "Yeni doğan bir bebeğin uykusu, yetişkinin düzgün gecesine benzemez. Kısa parçalar hâlinde gelir, gün ile gece henüz net ayrılmamıştır. Çocuklukta derin uyku güçlenir; ergenlikte iç saat daha geçe kayar. Sabah çok erken başlayan okul, gencin biyolojisiyle kavga edebilir.",
+        "Bu noktada tembellik suçlaması özellikle yanıltıcıdır. Gece geç saatlere kadar açık kalan ergen, yalnız telefon yüzünden değil, saatinin doğal kayması yüzünden de erken uyuyamayabilir. Ekran ve sosyal hayat bu kaymayı büyütebilir ama hikâyenin tamamı değildir.",
+        "Yetişkinlikte uyku gereksinimi bir gecede kaybolmaz. Yaş ilerledikçe uyku daha hafif ve parçalı olabilir, erken yatıp erken kalkma eğilimi artabilir. 'Yaşlıların az uykuya ihtiyacı var' cümlesi, uyuma fırsatı ile gerçek ihtiyaç arasındaki farkı örter.",
+        "Kırkından sonra birçok insan gece uyanmalarını başarısızlık gibi görür. Oysa kısa uyanmalar tek başına felaket değildir. Asıl soru tekrar uykuya dönüp dönemediği, gündüz uyanıklığın nasıl olduğu ve horlama, nefes durması, huzursuz bacak gibi belirtilerin bulunup bulunmadığıdır.",
+        "Hayat boyu değişen uyku, sabit bir sınav puanı değil, yaşa ve koşula göre yeniden ayarlanan bir ev programıdır."
+      ]
+    },
+    {
+      "id": "durak-08-beynin-gece-arsivcisi",
+      "section": "İKİNCİ KISIM · UYKU NE İŞE YARAR?",
+      "title": "Beynin gece arşivcisi",
+      "paragraphs": [
+        "Bir gün içinde onlarca isim, yüz, yol ve hareket öğreniriz. Hepsini aynı çekmeceye atarsak sabah karmaşa çıkar. Uyku, beynin arşivcisi gibi çalışır: Bazı izleri güçlendirir, bazılarını eski bilgilerle bağlar, önemsiz ayrıntıların bir bölümünü geriye iter.",
+        "Öğrenmeden önce uyku da önemlidir. Çok uykusuz bir beyin yeni bilgiyi kaydetmekte zorlanabilir. Fotoğraf makinesinin kartı dolu değildir belki; fakat odak sistemi şaşmış ve el titremeye başlamıştır. Derste gözünüz açık olsa bile kayıt kalitesi düşebilir.",
+        "Öğrenmeden sonraki uyku, yeni izin daha dayanıklı hâle gelmesine yardım eder. Parmakla bir dizi tuşa basmak, yeni bir kelimeyi hatırlamak veya bir mekânın yolunu öğrenmek aynı tür bellek değildir; farklı uyku özellikleri bu işlere farklı katkılar verebilir.",
+        "Walker bu alanı güçlü ve net bir hikâyeyle anlatır. Güncel araştırma ise 'bütün anıları şu evre saklar' gibi tek cümlelik formüllerden kaçınır. NREM, REM, kısa uyanmalar ve önceki öğrenmenin niteliği birlikte düşünülür.",
+        "En sade sonuç şudur: Çalışmayı uzatmak için uykuyu kesmek, ertesi gün kullanacağınız kütüphanenin raflarını gece boyunca devirmek olabilir."
+      ]
+    },
+    {
+      "id": "durak-09-uykusuz-beynin-buyuttugu-kucuk-mesele",
+      "section": "İKİNCİ KISIM · UYKU NE İŞE YARAR?",
+      "title": "Uykusuz beynin büyüttüğü küçük mesele",
+      "paragraphs": [
+        "Az uyuduğunuz bir sabah, mutfakta bırakılmış bir bardak normalden büyük bir saygısızlık gibi görünebilir. Sorun bardakta değildir. Uykusuzluk, duygusal alarm sisteminin sesini yükseltirken onu dengeleyen ön bölgelerin çalışmasını zorlaştırabilir.",
+        "Bu nedenle yorgun insan yalnız daha huysuz olmaz; yüz ifadelerini, belirsiz mesajları ve riskleri farklı okuyabilir. Patronun kısa e-postası tehdit, eşin sessizliği reddedilme, trafikteki küçük gecikme kişisel saldırı gibi hissedilebilir.",
+        "İlginç olan, uykusuzluğun yalnız olumsuz duyguyu artırmamasıdır. Bazı durumlarda ödül arayışı ve düşünmeden hareket etme de güçlenebilir. Gece yarısı gereksiz alışveriş veya ertesi gün pişman olunacak mesaj, yorgun beynin daralan fren mesafesine örnek olabilir.",
+        "Bundan 'her kötü kararın nedeni uykudur' sonucu çıkmaz. İnsan davranışı ilişki, para, hastalık ve geçmiş deneyim gibi birçok etken taşır. Uyku, bu orkestradaki güçlü çalgılardan biridir; tek başına bütün müziği çalmaz.",
+        "Pratik hafıza kancası şudur: Çok yorgunken çözülmesi gereken büyük konuşmayı mümkünse erteleyin. Mesele değişmeyebilir ama ona bakan beynin ışığı değişir."
+      ]
+    },
+    {
+      "id": "durak-10-bedenin-tamir-defteri",
+      "section": "İKİNCİ KISIM · UYKU NE İŞE YARAR?",
+      "title": "Bedenin tamir defteri",
+      "paragraphs": [
+        "Uyku yalnız beynin işi değildir. Bağışıklık sistemi, metabolizma, iştahı etkileyen sinyaller, kan basıncı ve hormon düzeni gece ritmiyle bağlantılıdır. Sürekli kısa veya parçalı uyku, bu sistemlerin uyumunu bozabilen etkenlerden biridir.",
+        "Walker kalp hastalığı, diyabet, kilo artışı, enfeksiyon ve kanser gibi başlıkları sert bir dille yan yana getirir. Burada önemli bir ayrım vardır: Kısa uyuyan gruplarda bir hastalığın daha sık görülmesi, tek nedenin uyku olduğunu kendiliğinden kanıtlamaz. Hastalık da uykuyu bozabilir; iş, yoksulluk, stres ve ilaçlar iki tarafı birlikte etkileyebilir.",
+        "Yine de laboratuvar deneyleri ve uzun dönemli gözlemler, kronik yetersiz uykunun masum bir alışkanlık olmadığını destekler. Beden, geceyi bedava boşluk saymaz. Düzenli olarak uyku borcu biriktirmek, bakım zamanını sürekli ertelenen bir araca benzer.",
+        "Hafta sonu uzun uyumak bir miktar toparlanma sağlayabilir; fakat bütün haftanın etkisini sihirli biçimde silen banka işlemi değildir. Üstelik çok geç kalkmak pazar gecesi iç saati yeniden kaydırabilir.",
+        "Bu bölüm korku üretmek için değil, uykuyu beslenme ve hareket kadar temel bir sağlık davranışı olarak görmek için okunmalı. Belirti veya hastalık varsa çözüm yalnız erken yatmak değil, nedeni değerlendirmektir."
+      ]
+    },
+    {
+      "id": "durak-11-mikrouyku-acik-gozlerin-kayip-saniyeleri",
+      "section": "İKİNCİ KISIM · UYKU NE İŞE YARAR?",
+      "title": "Mikrouyku: Açık gözlerin kayıp saniyeleri",
+      "paragraphs": [
+        "Direksiyon başındaki sürücünün gözleri açık olabilir ama beyin birkaç saniyeliğine çevreden kopabilir. Mikrouyku denen bu kısa boşluk, uzun bir yolun en tehlikeli anıdır. Saatte doksan kilometreyle giden araç birkaç saniyede onlarca metreyi sürücüsüz geçer.",
+        "Uykusuzluğun sinsi tarafı, kişinin kendi bozulmasını tam ölçememesidir. Birkaç kötü geceden sonra yeni hâline alışır ve 'Ben böyle de çalışıyorum' der. Oysa dikkat testleri tepki süresinin ve hata sayısının kötüleştiğini gösterebilir.",
+        "Bir gecelik tam uykusuzluk ile haftalarca her gece biraz az uyumak farklı deneyimlerdir. Kitap, küçük eksiklerin birikebileceğini vurgular. Bu birikim herkes için aynı hızda ve aynı sonuçla ilerlemez; yine de öznel güvenilirlik iyi bir ölçüm değildir.",
+        "Kahve, yüksek sesli müzik veya camı açmak kısa süre uyanıklık hissi verebilir. Bunlar uyku ihtiyacını ortadan kaldırmaz. Özellikle araç kullanırken bastırılamayan esneme, şerit kaçırma ve son kilometreleri hatırlamama ciddi uyarılardır.",
+        "Akılda kalan cümle şudur: Uykulu beyin, kendi hakemliğini iyi yapamaz. Güvenlik gerektiren işlerde 'kendimi iyi hissediyorum' tek başına yeterli değildir."
+      ]
+    },
+    {
+      "id": "durak-12-ruya-sinemasi-neden-bu-kadar-gercek-gelir",
+      "section": "ÜÇÜNCÜ KISIM · RÜYALAR",
+      "title": "Rüya sineması neden bu kadar gerçek gelir?",
+      "paragraphs": [
+        "Rüyada yıllardır görmediğiniz biri mutfağa girebilir, tavan denize dönüşebilir ve siz bunları uzun süre sorgulamayabilirsiniz. REM uykusunda duygusal ve görsel ağlar canlı çalışırken mantıksal denetimin bazı parçaları gündüzdeki kadar baskın değildir.",
+        "Rüya yalnız REM'e ait değildir; başka evrelerden uyandırılan insanlar da zihinsel yaşantılar anlatabilir. Ancak canlı, hikâyeli ve tuhaf rüyalar REM dönemlerinde daha sık hatırlanır. Sabahın sonundaki REM uzadığı için alarmı ertelediğiniz dakikalar bazen yoğun bir rüya getirir.",
+        "Kasların büyük bölümündeki geçici hareketsizlik, rüyayı bedende oynamamızı önler. Bu kilit bazı bozukluklarda tam çalışmadığında kişi rüyadaki hareketleri dışarı taşıyabilir. Böyle bir durum eğlenceli bir tuhaflık değil, değerlendirilmesi gereken bir belirti olabilir.",
+        "Rüyaların tek ve kesin bir anlam sözlüğü yoktur. Diş düşmesi herkes için aynı gizli mesajı taşımaz. Rüya, yakın yaşantılardan, duygulardan ve eski anılardan parçaları alışılmadık biçimde birleştirebilir.",
+        "Rüyayı gece sineması diye hatırlayın; yönetmen tanıdık malzemeyi kullanır ama kurgu kurallarına uymak zorunda değildir."
+      ]
+    },
+    {
+      "id": "durak-13-gece-terapisti-mi-duygu-karistiricisi-mi",
+      "section": "ÜÇÜNCÜ KISIM · RÜYALAR",
+      "title": "Gece terapisti mi, duygu karıştırıcısı mı?",
+      "paragraphs": [
+        "Walker REM uykusunu, duygusal anıyı olayın keskin kimyasından ayıran bir gece terapistine benzetir. Zor olay kalır ama ertesi gün aynı bedensel alarmı yaratmayabilir. Bu düşünce etkileyicidir ve bazı araştırmalarla uyumludur; bütün travmalar için otomatik tedavi gibi anlaşılmamalıdır.",
+        "Kötü bir günün ardından 'bir uyuyayım, geçer' dememizin biyolojik bir karşılığı olabilir. Uyku, anıyı başka anılarla yeniden ilişkilendirir ve duygusal tepkinin ayarına katkı sağlar. Fakat kabus, depresyon veya travma sonrası stres bozukluğunda gece tam tersine acıyı tekrar eden bir alana dönüşebilir.",
+        "Rüyaların yaratıcı tarafı da bu gevşek bağlardan doğabilir. Beyin, gündüz yan yana getirmediğimiz fikirleri aynı sahneye taşır. Bir müzisyenin melodi, bir bilim insanının benzetme, sıradan bir insanın çözüm bulması mümkündür; fakat her parlak fikir rüyadan gelmez.",
+        "En iyi kullanım, yastığın yanına mucize bekleyerek oturmak değil, zor bir probleme çalıştıktan sonra uykuya yer açmaktır. Sabah gelen bağlantı, gece boyunca görünmez bir yeniden düzenlemenin ürünü olabilir.",
+        "Bu bölümün dengeli özeti: Uyku duygu ve yaratıcılığa yardım eden bir ortamdır; tek başına psikoterapi veya ilham makinesi değildir."
+      ]
+    },
+    {
+      "id": "durak-14-gece-gelenler-uykusuzluk-apne-ve-baska-bozukluklar",
+      "section": "DÖRDÜNCÜ KISIM · MODERN HAYAT",
+      "title": "Gece gelenler: Uykusuzluk, apne ve başka bozukluklar",
+      "paragraphs": [
+        "Uykusuzluk yalnız 'uyuyamıyorum' cümlesi değildir. Uykuya dalma, uykuyu sürdürme veya çok erken uyanma sorunu gündüz yaşamını etkiliyorsa ve uzun sürüyorsa değerlendirme gerekir. Yatakta geçirilen tek kötü gece tanı değildir.",
+        "Uyku apnesinde üst hava yolu tekrar tekrar kapanabilir. Kişi saatlerce yatakta kalsa da uyku bölünür; yüksek horlama, nefes durmasının fark edilmesi, sabah baş ağrısı ve gündüz uyuklama görülebilir. Horlama her zaman apne demek değildir ama nefes kesilmesi önemlidir.",
+        "Narkolepsi, uyku-uyanıklık sınırlarının beklenmedik biçimde karıştığı nörolojik bir durumdur. Bazı kişilerde güçlü duyguyla kas gücü aniden azalabilir. Bu tabloyu 'tembellik' diye yorumlamak, biyolojik bir hastalığa ahlak notu vermektir.",
+        "Uyurgezerlik, gece terörü, huzursuz bacak ve REM davranış bozukluğu gibi sorunlar farklı evrelerden ve mekanizmalardan doğar. İnternetteki tek bir belirti listesiyle kendi kendine tanı koymak bu yüzden yanıltıcıdır.",
+        "Kitabın en yararlı mesajlarından biri, kötü uykunun karakter kusuru olmadığıdır. Süren sorun, uygun değerlendirme ve tedaviyle ele alınabilecek bir sağlık meselesidir."
+      ]
+    },
+    {
+      "id": "durak-15-ekran-alkol-sicak-oda-uykuyu-kim-sabote-ediyor",
+      "section": "DÖRDÜNCÜ KISIM · MODERN HAYAT",
+      "title": "Ekran, alkol, sıcak oda: Uykuyu kim sabote ediyor?",
+      "paragraphs": [
+        "Modern gecede güneş battıktan sonra da gündüzü sürdürüyoruz. Parlak ışık iç saati geciktirebilir; ekrandaki içerik zihni uyanık tutabilir. Sorun yalnız mavi ışık değildir. Mesajlaşma, haber, oyun ve 'bir bölüm daha' kararı da yatağın saatini yer.",
+        "Alkol hızlı uykuya dalmayı kolaylaştırıyor gibi görünebilir. Fakat bu doğal uyku ile aynı şey değildir; geceyi parçalayabilir, horlamayı ve solunum sorunlarını artırabilir, REM düzenini değiştirebilir. Bayılmaya yakın gevşeme, kaliteli uyku garantisi değildir.",
+        "Beden uyku öncesi çekirdek sıcaklığını düşürmeye hazırlanır. Bu yüzden çok sıcak oda zorlayıcı olabilir. Ilık duşun yardımcı olabilmesi ilk bakışta çelişkili görünür; deriye giden kan ve sonrasındaki ısı kaybı bedenin soğumasını destekleyebilir.",
+        "Gürültüye 'alıştığını' söyleyen biri her sesi hatırlamayabilir. Yine de beden kısa uyanmalar ve stres tepkileri gösterebilir. Öte yandan mutlak sessizlik arayışı da kaygıyı büyütebilir. Hedef laboratuvar değil, sürdürülebilir bir ortamdır.",
+        "Uykuyu sabote eden tek suçlu telefon değildir. Geç mesai, bakım sorumluluğu, vardiya, ağrı, kaygı ve ev koşulları kişisel iradenin çok ötesinde belirleyicidir."
+      ]
+    },
+    {
+      "id": "durak-16-uyku-ilaci-ile-uyku-terapisi-ayni-kapi-degil",
+      "section": "DÖRDÜNCÜ KISIM · MODERN HAYAT",
+      "title": "Uyku ilacı ile uyku terapisi aynı kapı değil",
+      "paragraphs": [
+        "Bir uyku ilacı kişiyi sersemletebilir veya uykuya geçişi kolaylaştırabilir; ancak oluşturduğu durum doğal uykunun bütün özelliklerini birebir kopyalamaz. İlaçların yararı, riski ve süresi kişiye göre değerlendirilmelidir. Kitaptan alınacak sonuç reçeteyi kendi başına bırakmak değildir.",
+        "Kronik uykusuzluk için en güçlü yaklaşımlardan biri bilişsel davranışçı terapidir. Kişi yalnız 'rahatla' öğüdü almaz. Yatak ile uyanıklık arasındaki yanlış bağı çözmek, uyku fırsatını düzenlemek, felaket düşüncelerini ele almak ve sürdürülebilir alışkanlık kurmak üzerinde çalışır.",
+        "Uykusuz insan genellikle yatağa daha erken girip daha uzun kalır. İyi niyetli bu hareket, yatağı saatler süren mücadele alanına çevirebilir. Terapi bazen tam tersine yatağı yeniden yalnız uyku ile eşleştirmeye çalışır.",
+        "Takip cihazları yararlı ipuçları verebilir ama tıbbi uyku laboratuvarı değildir. Her sabah uygulamadaki yüzdeye bakıp endişelenmek, 'kusursuz uyku' takıntısı yaratabilir ve uykuyu daha da zorlaştırabilir.",
+        "Buradaki ölçü basittir: Araç, daha iyi yaşamanıza yardım ediyor mu; yoksa bütün gün uykunuzu düşünmenize mi neden oluyor? Tedavi de teknoloji de insanın hizmetinde kalmalıdır."
+      ]
+    },
+    {
+      "id": "durak-17-okul-hastane-ve-isyeri-neden-uykuyu-kisisel-sorun-sayamaz",
+      "section": "DÖRDÜNCÜ KISIM · MODERN HAYAT",
+      "title": "Okul, hastane ve işyeri neden uykuyu kişisel sorun sayamaz?",
+      "paragraphs": [
+        "Bir doktor yirmi dört saatlik nöbetin sonunda hata yaptığında yalnız iradesini sorgulamak eksiktir. Sistem, insan beyninin sınırlarını görmezden gelmiş olabilir. Aynı durum gece vardiyasındaki işçi, sabah karanlığında okula giden genç ve uzun yol şoförü için de geçerlidir.",
+        "Walker uyku kaybını toplumsal bir tasarım sorunu olarak görür. Erken okul saatleri ergen saatine ters düşebilir. Hastanelerde aşırı uzun nöbetler hasta güvenliğini etkileyebilir. İşyerinde geç saate kadar çevrimiçi kalmak bağlılık göstergesi sayılabilir.",
+        "Bireye 'telefonu bırak' demek ucuzdur; vardiya çizelgesini, ulaşımı, çocuk bakımını ve çalışma kültürünü değiştirmek zordur. Oysa uyku eşitsizliği de vardır. Sessiz, serin ve güvenli odası olmayan insanın biyoloji dersiyle çözülmeyecek sorunları bulunur.",
+        "Toplumsal çözüm tek bir büyük yasa değildir. Daha akıllı nöbet düzeni, dinlenme araları, esnek başlangıç saati, ışık tasarımı ve uykulu araç kullanımına karşı eğitim birlikte çalışabilir.",
+        "Uykuyu kamusal mesele saymak, herkesin aynı saatte yatması demek değildir. İnsan bedeninin sınırlarını okulun ve işin tasarımına dâhil etmek demektir."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-tartismali-yani-korku-ne-zaman-kanitin-onune-gecer",
+      "section": "DÖRDÜNCÜ KISIM · MODERN HAYAT",
+      "title": "Kitabın tartışmalı yanı: Korku ne zaman kanıtın önüne geçer?",
+      "paragraphs": [
+        "Niçin Uyuruz? okuru sarsmak için güçlü cümleler kullanır. Bu anlatım, uykuyu önemsemeyen bir kültürde etkili olmuştur. Fakat bazı eleştirmenler kitapta hatalı aktarılan sayılar, seçici grafikler ve gözlemsel ilişkilerden fazla kesin sonuçlar çıkarıldığını göstermiştir.",
+        "Örneğin kısa uyku ile bir hastalık arasında ilişki bulmak önemlidir ama 'az uyku bu hastalığı kesin yaratır' demek için yeterli olmayabilir. Yaş, çalışma düzeni, mevcut hastalık ve ekonomik koşullar hem uykuyu hem sonucu etkileyebilir.",
+        "Tartışmayı iki uçtan kurtarmak gerekir. Kitapta hata bulunması uykunun önemsiz olduğunu kanıtlamaz. Uykunun önemli olması da kitaptaki her oranı doğru yapmaz. Bilimsel düşünme tam burada başlar: Ana fikri korurken ayrıntıyı sınamak.",
+        "Sağlıklı yetişkinler için düzenli olarak en az yedi saat uyku önerisi uzman uzlaşılarında yer alır; bireysel gereksinim değişebilir. Tek bir sihirli sayı yerine gündüz uyanıklığı, düzen, sağlık durumu ve yaşam evresi birlikte değerlendirilmelidir.",
+        "Kitabın en iyi mirası korkuyla yatağa kaçmak değil, uykuyu ciddiye almaktır. En iyi düzeltmesi ise bunu kesinlik gösterisi yapmadan söyleyebilmektir."
+      ]
+    },
+    {
+      "id": "durak-19-on-iki-maddelik-recete-yerine-yasayan-bir-aksam",
+      "section": "SONUÇ",
+      "title": "On iki maddelik reçete yerine yaşayan bir akşam",
+      "paragraphs": [
+        "Saat 21.30. Evdeki ışık biraz azalıyor. Telefon tamamen yasaklanmıyor ama yatak odasından uzaklaşıyor. Ertesi sabah aynı saate yakın kalkılacak. Kahvenin son fincanı öğleden sonra içilmiş. Bu sahne, mükemmel bir uyku töreninden daha gerçekçidir.",
+        "Düzenli kalkış saati iç saate güçlü bir çıpa verir. Sabah gün ışığı, gündüz hareket, akşam daha düşük ışık ve serin bir oda bu çıpayı destekler. Yatmadan hemen önce büyük öğün, yoğun alkol ve uyarıcı içerik bazı insanlarda işi zorlaştırır.",
+        "Uyku gelmiyorsa saati sürekli kontrol etmek kaygıyı büyütür. Uzun süre uyanık kalındığında loş ışıkta sakin bir etkinliğe geçip uykululuk dönünce yatağa gelmek, yatağı mücadele alanı olmaktan çıkarabilir.",
+        "Bu öneriler tıbbi tanı veya kişiye özel tedavi değildir. Haftalarca süren uykusuzluk, şiddetli gündüz uykululuğu, nefes kesilmesi, olağandışı hareketler veya güvenlik riski varsa uzman değerlendirmesi gerekir.",
+        "Başarı, her gece aynı uygulama puanını almak değildir. Daha dinç uyanmak, gün içinde daha güvenli ve sakin olmak, kötü geceden sonra paniğe kapılmadan ritme geri dönebilmektir."
+      ]
+    },
+    {
+      "id": "durak-20-bir-dakikalik-harita",
+      "section": "SONUÇ",
+      "title": "Bir dakikalık harita",
+      "paragraphs": [
+        "Uyku, pasif kapanma değil etkin bir gece programıdır. İç saat ile uyku basıncı ne zaman uyuyacağımızı birlikte belirler. NREM ve REM evreleri gece boyunca sırayla gelir; bellek, duygu, beden sağlığı ve dikkat bu düzenle ilişkilidir.",
+        "Rüyalar beynin tuhaf gece kurgularıdır; yaratıcılık ve duygusal işlemeye katkı sağlayabilir ama gizli anlam sözlüğü değildir. Uykusuzluk, apne ve başka bozukluklar aynı şikâyetin farklı nedenleri olabilir. Modern hayatın ışığı ve çalışma saatleri kişisel tercihten fazlasını etkiler.",
+        "Kitabı okurken iki cümleyi birlikte tutun: Uykuyu küçümsemeyin. Korkutucu bir sayı gördüğünüzde kanıtın ne söylediğini ayrıca sorun."
+      ]
+    },
+    {
+      "id": "durak-21-kirkindan-sonra-akilda-kalacak-bes-goruntu",
+      "section": "SONUÇ",
+      "title": "Kırkından sonra akılda kalacak beş görüntü",
+      "paragraphs": [
+        "Gece vardiyasındaki şehir: Beden uyurken çalışır. İki saat: İç ritim ile uyku basıncı pazarlık eder. Dalgalı deniz: NREM ve REM gece boyunca tekrarlar. Beynin arşivcisi: Anılar uyku içinde düzenlenir. Açık gözlü sürücüsüz araç: Mikrouyku güveni bir anda boşa çıkarabilir.",
+        "Bu beş görüntü, onlarca terimi ezberlemekten daha kullanışlıdır. Bir sonraki kötü gecede kendinizi suçlamak yerine hangi saatin, hangi ortamın veya hangi sağlık sorununun devrede olabileceğini düşünürsünüz.",
+        "En önemlisi, uyku hayatın rakibi değildir. Ertesi gün daha dikkatli, daha dengeli ve daha meraklı yaşayabilmek için gecenin yaptığı görünmez hazırlıktır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-gece-kapanan-dukkan-degil-calisan-sehir": {
+      "image": "/images/summary-art-31-chapter-01-night-city-v1.webp",
+      "imageCaption": "Uyku, ışıkları sönmüş bir şehir değil; farklı ekiplerin çalıştığı görünmez bir gece vardiyasıdır."
+    },
+    "durak-03-iki-saat-gunes-saati-ve-uyku-kumu": {
+      "image": "/images/summary-art-31-chapter-02-two-clocks-v1.webp",
+      "imageCaption": "Uykuyu, iç saat ile gün boyunca biriken uyku basıncının birlikte çalışması belirler."
+    },
+    "durak-04-kahvenin-yaptigi-sey-enerji-vermek-mi": {
+      "image": "/images/summary-art-31-chapter-03-coffee-clock-v1.webp",
+      "imageCaption": "Kafein yorgunluğu yok etmez; bir süreliğine yorgunluk mesajının önüne perde çeker."
+    },
+    "durak-05-gecenin-dalgalari-hafiften-derine-derinden-ruyaya": {
+      "image": "/images/summary-art-31-chapter-04-sleep-waves-v1.webp",
+      "imageCaption": "Gece, NREM ve REM uykusunun birbirini izlediği birkaç dalgadan oluşur."
+    },
+    "durak-06-yunus-yarim-beyinle-uyurken-insan-neden-yataga-ihtiyac-duyar": {
+      "image": "/images/summary-art-31-chapter-05-half-brain-dolphin-v1.webp",
+      "imageCaption": "Hayvanların uykusu, çevreye ve yaşama biçimine göre şaşırtıcı çözümler geliştirir."
+    },
+    "durak-07-bebekten-yasliliga-degisen-gece": {
+      "image": "/images/summary-art-31-chapter-06-lifespan-bed-v1.webp",
+      "imageCaption": "Bebeklikten yaşlılığa uyku süresi, zamanı ve derinliği aynı kalmaz."
+    },
+    "durak-08-beynin-gece-arsivcisi": {
+      "image": "/images/summary-art-31-chapter-07-memory-archive-v1.webp",
+      "imageCaption": "Uyku, günün dağınık izlerini seçen, bağlayan ve daha kalıcı hâle getiren bir arşivci gibi çalışır."
+    },
+    "durak-09-uykusuz-beynin-buyuttugu-kucuk-mesele": {
+      "image": "/images/summary-art-31-chapter-08-emotional-alarm-v1.webp",
+      "imageCaption": "Uykusuzluk küçük olayların duygusal sesini büyütüp kararların fren mesafesini uzatabilir."
+    },
+    "durak-10-bedenin-tamir-defteri": {
+      "image": "/images/summary-art-31-chapter-09-body-repair-v1.webp",
+      "imageCaption": "Gece, bağışıklık, metabolizma ve dolaşımın ortak ritim içinde bakım yaptığı bir zaman dilimidir."
+    },
+    "durak-11-mikrouyku-acik-gozlerin-kayip-saniyeleri": {
+      "image": "/images/summary-art-31-chapter-10-microsleep-road-v1.webp",
+      "imageCaption": "Mikrouyku sırasında araç ilerlerken beynin çevreyle bağlantısı birkaç tehlikeli saniye kesilebilir."
+    },
+    "durak-12-ruya-sinemasi-neden-bu-kadar-gercek-gelir": {
+      "image": "/images/summary-art-31-chapter-11-dream-cinema-v1.webp",
+      "imageCaption": "Rüya sineması, tanıdık insanları ve mekânları gündüz mantığına uymayan bir kurguya dönüştürebilir."
+    },
+    "durak-13-gece-terapisti-mi-duygu-karistiricisi-mi": {
+      "image": "/images/summary-art-31-chapter-12-dream-therapy-v1.webp",
+      "imageCaption": "Uyku duygusal anıları yeniden işlerken uzak fikirler arasında beklenmedik köprüler kurabilir."
+    },
+    "durak-14-gece-gelenler-uykusuzluk-apne-ve-baska-bozukluklar": {
+      "image": "/images/summary-art-31-chapter-13-sleep-clinic-v1.webp",
+      "imageCaption": "Aynı 'kötü uyku' şikâyetinin arkasında birbirinden farklı ve değerlendirilebilir bozukluklar bulunabilir."
+    },
+    "durak-15-ekran-alkol-sicak-oda-uykuyu-kim-sabote-ediyor": {
+      "image": "/images/summary-art-31-chapter-14-modern-saboteurs-v1.webp",
+      "imageCaption": "Parlak ekran, geç saat, alkol ve sıcak ortam aynı gece düzeninin farklı yerlerini bozabilir."
+    },
+    "durak-16-uyku-ilaci-ile-uyku-terapisi-ayni-kapi-degil": {
+      "image": "/images/summary-art-31-chapter-15-therapy-door-v1.webp",
+      "imageCaption": "Uyku ilacı, davranışçı terapi ve takip cihazı aynı amaç için kullanılan ama aynı işi yapmayan araçlardır."
+    },
+    "durak-17-okul-hastane-ve-isyeri-neden-uykuyu-kisisel-sorun-sayamaz": {
+      "image": "/images/summary-art-31-chapter-16-society-clock-v1.webp",
+      "imageCaption": "Okul ve çalışma saatleri biyolojik sınırları yok saydığında uyku kaybı kişisel olmaktan çıkar."
+    }
+  }
+}
