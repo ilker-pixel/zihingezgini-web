@@ -1,0 +1,324 @@
+{
+  "bookNo": 92,
+  "title": "Mukaddime",
+  "author": "İbn Haldun",
+  "subtitle": "Tarihi hükümdarların isim dizisi olmaktan çıkarıp göçebe dayanışması, şehir rahatlığı, vergi, emek, eğitim ve iktidarın tekrar eden hareketleriyle açıklamaya çalışan 14. yüzyıl dehasının büyük laboratuvarına sade giriş.",
+  "coverImage": "/images/summary-art-92-mukaddime-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/92-mukaddime-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#77583F",
+  "meta": {
+    "originalTitle": "Al-Muqaddimah",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Tarihi hükümdarların isim dizisi olmaktan çıkarıp göçebe dayanışması, şehir rahatlığı, vergi, emek, eğitim ve iktidarın tekrar eden hareketleriyle açıklamaya çalışan 14. yüzyıl dehasının büyük laboratuvarına sade giriş.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Encyclopaedia Britannica - Ibn Khaldun",
+      "url": "https://www.britannica.com/biography/Ibn-Khaldun"
+    },
+    {
+      "id": 2,
+      "title": "Muslim Philosophy - Muqaddimah metni",
+      "url": "https://www.muslimphilosophy.com/ik/Muqaddimah/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Ibn Khaldun",
+      "url": "https://iep.utm.edu/ibn-khaldun/"
+    },
+    {
+      "id": 4,
+      "title": "UNESCO - Ibn Khaldun ve düşünsel mirası",
+      "url": "https://en.unesco.org/courier/2019-4/ibn-khaldun-historian-future"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Mukaddime aslında büyük bir dünya tarihinin girişidir, fakat giriş eserin en ünlü kısmına dönüşmüştür. İbn Haldun haberleri doğrulama, toplumların nasıl kurulduğu ve devletlerin neden zayıfladığı üzerine genel bir bilim tasarlar.",
+        "Metin 14. yüzyılın Kuzey Afrika ve İslam dünyasında doğmuştur. Evrensel görünen kimi yargıları çağının coğrafya, cinsiyet ve kölelik kabullerini taşır.",
+        "Rehber onu modern sosyolojiyi tek başına icat eden kahin yapmayacak; olağanüstü yöntemini, isabetli sezgilerini ve tarihsel sınırlarını birlikte gösterecek."
+      ]
+    },
+    {
+      "id": "durak-02-saraydan-cole-uzanan-hayat",
+      "section": "BİRİNCİ KISIM · TARİHİ SINAMAK",
+      "title": "Saraydan çöle uzanan hayat",
+      "paragraphs": [
+        "İbn Haldun yönetici ailelerle çalıştı, hapse girdi, diplomasi yaptı, kabilelerle görüştü ve şehirlerin el değiştirmesini gördü. Teorisi kitaplık sessizliğinden değil siyasi çalkantının içinden çıktı.",
+        "Bir hakem hem soyunma odasını hem tribünü hem yönetim masasını görürse oyunun yalnız kurallardan ibaret olmadığını anlar. İbn Haldun da iktidarın görünen unvanı ile onu taşıyan bağları ayırdı.",
+        "Timur'la görüşmesi, tarih yazarının incelediği güçle yüz yüze geldiği simgesel andır. O yalnız eski hikayeleri derlemez, yaşayan toplumu gözler.",
+        "Bu hareketli hayat teorisine temkin verir: Devletler kalıcı görünür, fakat onları kuran insanlar ve dayanışmalar değişir."
+      ]
+    },
+    {
+      "id": "durak-03-her-habere-inanma",
+      "section": "BİRİNCİ KISIM · TARİHİ SINAMAK",
+      "title": "Her habere inanma",
+      "paragraphs": [
+        "Tarihçiler imkansız ordu sayıları, abartılı servetler ve övgü dolu saray hikayeleri aktarabilir. İbn Haldun bir haberin yalnız zincirine değil, toplum düzeninde mümkün olup olmadığına bakar.",
+        "Nüfusu on bin olan kasabada yüz bin askerin aylarca beslendiği yazıyorsa hesap yapın. Su, yol, vergi ve yiyecek bu iddiayı taşıyor mu?",
+        "Bu yöntem günümüz doğrulamasına şaşırtıcı biçimde benzer. Kaynak kim, çıkarı ne, başka kanıt var mı ve olay gerçek dünyanın sınırlarına uyuyor mu?",
+        "Tarihin ilk görevi güzel hikayeyi tekrar etmek değil, olabilirlik testinden geçirmektir."
+      ]
+    },
+    {
+      "id": "durak-04-umran-insanlarin-birlikte-yasama-bilimi",
+      "section": "BİRİNCİ KISIM · TARİHİ SINAMAK",
+      "title": "Umran: İnsanların birlikte yaşama bilimi",
+      "paragraphs": [
+        "İbn Haldun toplum için umran kavramını kullanır. İnsan tek başına yiyecek, savunma ve üretim ihtiyaçlarını karşılayamaz; işbirliği zorunludur.",
+        "Bir ekmekte çiftçi, değirmenci, fırıncı, taş ustası ve taşıyıcının emeği birleşir. Sofradaki basit dilim görünmez bir toplumsal örgüttür.",
+        "İşbirliği güç üretir, güç de yönetim ihtiyacı doğurur. Çünkü aynı insanlar birbirine yardım edebilirken birbirine saldırabilir.",
+        "Umran hem maddi üretimi hem gelenek, eğitim ve iktidarı kapsar. Tarihi anlamak için insan tabiatı kadar birlikte yaşama biçimine bakmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-05-asabiyet-birlikte-hareket-etme-bagi",
+      "section": "İKİNCİ KISIM · DEVLETİN DÖNGÜSÜ",
+      "title": "Asabiyet: Birlikte hareket etme bağı",
+      "paragraphs": [
+        "Asabiyet yalnız akrabalık veya milliyetçilik değildir. Bir grubun birbirini savunmasını, ortak risk almasını ve tek beden gibi hareket etmesini sağlayan dayanışma gücüdür.",
+        "Yangında birbirini tanıyan mahalleli kovaları elden ele daha hızlı geçirir. Yalnız komut değil güven ve ortak kader hareket yaratır.",
+        "Akrabalık bağı güçlü başlangıç olabilir, fakat ittifak, koruma ve ortak inanç da asabiyeti genişletebilir. Din dağınık grupları daha büyük amaç çevresinde birleştirebilir.",
+        "İbn Haldun için devletin ilk yakıtı kılıçtan önce bu bağdır. Ordu, vergi ve saray daha sonra kurulur."
+      ]
+    },
+    {
+      "id": "durak-06-gocebe-sertligi-sehir-rahatligi",
+      "section": "İKİNCİ KISIM · DEVLETİN DÖNGÜSÜ",
+      "title": "Göçebe sertliği, şehir rahatlığı",
+      "paragraphs": [
+        "Çöl ve kır yaşamı az kaynak, tehlike ve karşılıklı bağımlılık yüzünden dayanıklılık ile asabiyeti güçlendirebilir. Şehir ise iş bölümü, sanat ve rahatlık üretir.",
+        "Kamp yapan ekip herkesin çadırını ve suyunu düşünür; otele geçince hizmet satın alınır ve ortak iş azalır. Rahatlık kötülük değildir, bağın kullanılma biçimini değiştirir.",
+        "İbn Haldun bedevi ile yerleşik ayrımını ahlaki ırk sınıflaması değil, yaşam biçimi karşılaştırması olarak kurar. Yine de genellemeleri her topluma uymayabilir.",
+        "Şehir uygarlığın zirvesi ve zayıflama riskinin aynı yeridir: İncelik artarken kurucu dayanışma gevşeyebilir."
+      ]
+    },
+    {
+      "id": "durak-07-hanedan-nasil-kurulur",
+      "section": "İKİNCİ KISIM · DEVLETİN DÖNGÜSÜ",
+      "title": "Hanedan nasıl kurulur?",
+      "paragraphs": [
+        "Güçlü asabiyete sahip grup dağınık rakipleri aşar, yönetimi ele geçirir ve düzen kurar. İlk kuşak yoksunluğu hatırlar, savaş ve paylaşım alışkanlığını taşır.",
+        "Aile şirketinin kurucusu depoda çalışır, müşteriyi tanır ve ekiple aynı sofraya oturur. Yetki ile emek arasındaki mesafe küçüktür.",
+        "Devletin başarısı yalnız liderin zekası değildir. Onu taşıyan grubun fedakarlığı, ekonomik imkanlar ve rakiplerin durumu birlikte belirler.",
+        "İbn Haldun kahraman tarihini böyle toplumsal mekanizmaya çevirir. Tahtın altında görünmeyen bir omuzlar topluluğu vardır."
+      ]
+    },
+    {
+      "id": "durak-08-bes-kusagin-gevseyen-yayi",
+      "section": "İKİNCİ KISIM · DEVLETİN DÖNGÜSÜ",
+      "title": "Beş kuşağın gevşeyen yayı",
+      "paragraphs": [
+        "Kurucu kuşak mücadeleyi yaşar. Sonraki kuşak başarıyı öğrenir ama bedelini daha az hisseder. Daha sonra saray, lüks ve aracılar yönetici ile halk arasına girer.",
+        "Bahçeyi kuran dede toprağı bilir, baba işi yönetir, torun yalnız meyvenin masaya geldiğini görürse bakım bilgisi kaybolabilir.",
+        "İbn Haldun döngüyü kesin saat gibi vermez. Kuşak sayısı ve süreç koşullara göre değişir; ana fikir kurucu dayanışmanın mirasla otomatik aktarılmamasıdır.",
+        "Kurumlar kişisel hafıza kaybını telafi edebilirse ömür uzayabilir. Şeffaflık ve yetenek seçimi, saray körlüğüne karşı modern cevaplar sunar."
+      ]
+    },
+    {
+      "id": "durak-09-luks-neden-yalniz-zevk-degildir",
+      "section": "İKİNCİ KISIM · DEVLETİN DÖNGÜSÜ",
+      "title": "Lüks neden yalnız zevk değildir?",
+      "paragraphs": [
+        "Lüks arttıkça sarayın masrafı, vergi ihtiyacı ve gösteriş rekabeti büyür. Yönetici çevresi halkın gündelik hayatından uzaklaşır ve sadakati parayla satın almaya çalışır.",
+        "Başta aynı çadırda kalan ekip, sonra kat kat güvenlik kapılarının arkasında yaşarsa kötü haberi duyamaz. Konfor bilgi akışını kesebilir.",
+        "İbn Haldun yoksulluğu kutsamaz; şehir sanatı ve bilimi mümkün kılar. Sorun rahatlığın üretimden ve sorumluluktan kopmasıdır.",
+        "Lüks, ekonomik kalem kadar siyasi sinyaldir: Yönetimin asabiyet yerine masrafla ayakta durmaya başladığını gösterir."
+      ]
+    },
+    {
+      "id": "durak-10-vergiyi-artirinca-gelir-neden-dusebilir",
+      "section": "ÜÇÜNCÜ KISIM · EMEK VE ŞEHİR",
+      "title": "Vergiyi artırınca gelir neden düşebilir?",
+      "paragraphs": [
+        "Hanedanın başında vergi düşük, çalışma isteği ve ticaret canlı olabilir. Harcama büyüdükçe oranlar artar; üretici kazancın çoğunu kaybedeceğini düşünürse yatırım azalır ve vergi tabanı daralır.",
+        "Pazarcının her satışından dokuz elma alınırsa ertesi hafta tezgah açmayabilir. Oranı yükseltmek kasa gelirini otomatik yükseltmez.",
+        "Bu gözlem daha sonra modern vergi tartışmalarında ünlü oldu. Fakat İbn Haldun her vergi indiriminin geliri artıracağını söylemez; başlangıç koşulu ve kamu ihtiyacı önemlidir.",
+        "Asıl ders davranışsal tepkidir. İnsanlar kural karşısında sabit taş değil, kararını değiştiren aktörlerdir."
+      ]
+    },
+    {
+      "id": "durak-11-emek-degeri-nasil-buyutur",
+      "section": "ÜÇÜNCÜ KISIM · EMEK VE ŞEHİR",
+      "title": "Emek değeri nasıl büyütür?",
+      "paragraphs": [
+        "Doğadaki ham madde insan emeği ve becerisiyle kullanılır hale gelir. Taş, ustanın bilgisiyle eve; yün, dokumacının işiyle kumaşa dönüşür.",
+        "Bir fincanın fiyatında kil kadar şekil verme, fırın, taşıma ve pazar düzeni vardır. Değer toplumsal iş bölümünde katmanlanır.",
+        "İbn Haldun kazanç ve geçim arasında emek bağını vurgular, fakat modern emek değer teorisini tam haliyle kurmuş değildir. Onu sonraki düşünürlerin aynısı yapmak tarihsel farkı siler.",
+        "Yine de servetin sandıkta duran altın değil, üretim yapan insan ve şehir kapasitesi olduğunu güçlü biçimde görür."
+      ]
+    },
+    {
+      "id": "durak-12-is-bolumu-sehri-buyutur",
+      "section": "ÜÇÜNCÜ KISIM · EMEK VE ŞEHİR",
+      "title": "İş bölümü şehri büyütür",
+      "paragraphs": [
+        "Tek kişinin yalnız geçimine yetecek emeği, insanlar uzmanlaşınca fazlalık üretebilir. Artık ürün nüfusu, zanaatı, eğitimi ve pazarı besler.",
+        "Herkes kendi ayakkabısını yapmaya çalışırsa gün biter. Usta ayakkabıcı yüz kişiye hizmet eder, diğerleri kendi işinde uzmanlaşır.",
+        "Şehir büyüdükçe ince meslekler ve sanatlar doğar. Fakat bu zenginlik güvenli yol, hukuk ve talebe bağlıdır.",
+        "İbn Haldun ekonomik canlılığı yalnız para miktarıyla değil, insanların birbirine bağlanan üretken becerileriyle açıklar."
+      ]
+    },
+    {
+      "id": "durak-13-fiyatin-icinde-sehir-vardir",
+      "section": "ÜÇÜNCÜ KISIM · EMEK VE ŞEHİR",
+      "title": "Fiyatın içinde şehir vardır",
+      "paragraphs": [
+        "Malın fiyatı talep, kıtlık, vergi, ücret ve taşıma koşullarına göre değişir. Büyük şehirde temel gıda ucuzlayabilirken lüks hizmet pahalılaşabilir.",
+        "Aynı domates kurak köyde, liman şehrinde ve kuşatma altındaki kentte başka fiyat taşır. Fiyat yalnız nesnenin içinde duran özellik değildir.",
+        "Devlet piyasaya keyfi müdahale ettiğinde üretici çekilebilir; fakat güvenlik ve adil düzen olmadan pazar da çalışmaz. İbn Haldun basit devlet yokluğu savunmaz.",
+        "Ekonomi, siyasi istikrar ve toplumsal güvenle birlikte hareket eder. Bozuk para üzerindeki hükümdar resmi, arkasındaki kuruma duyulan inancı temsil eder."
+      ]
+    },
+    {
+      "id": "durak-14-egitimde-sertlik-ne-uretir",
+      "section": "DÖRDÜNCÜ KISIM · BİLGİ VE SINIR",
+      "title": "Eğitimde sertlik ne üretir?",
+      "paragraphs": [
+        "İbn Haldun aşırı sert eğitimin öğrenciyi yalancı, korkak ve kurnaz yapabileceğini söyler. Sürekli cezadan kaçan çocuk gerçeği değil yetişkinin görmek istediği yüzü göstermeyi öğrenir.",
+        "Her hata için bağırılan sınıfta sessizlik başarı sanılır, merak ölür. Öğrenci soruyu çözmek yerine cezayı nasıl önleyeceğini hesaplar.",
+        "Öğretim basitten karmaşığa, tekrar ve anlayışla ilerlemelidir. Ağır metni bir anda yüklemek zihni geliştirmek yerine bunaltabilir.",
+        "Bu gözlem, kitabın en sıcak ve güncel sayfalarındandır. Bilgi zorla doldurulan çuval değil, aşama aşama kurulan beceridir."
+      ]
+    },
+    {
+      "id": "durak-15-bilimler-neden-sehirde-gelisir",
+      "section": "DÖRDÜNCÜ KISIM · BİLGİ VE SINIR",
+      "title": "Bilimler neden şehirde gelişir?",
+      "paragraphs": [
+        "Bilim için boş zaman, öğretmen, kitap, kurum ve öğrenci zinciri gerekir. Bunlar ancak üretim fazlası ve istikrarlı şehir yaşamıyla uzun süre korunabilir.",
+        "Tek bir dahinin defteri yetmez; kütüphane, kopyacı, tartışma ve sonraki kuşak gerekir. Bilgi de iş bölümü içinde yaşar.",
+        "Şehir çöktüğünde binalarla birlikte eğitim geleneği de dağılır. Bir kitabın kaybı değil, onu okuyacak dil ve yöntem zincirinin kopması asıl yıkımdır.",
+        "İbn Haldun kültürü süs değil, ekonomik ve siyasi altyapıya bağlı canlı kurum olarak görür."
+      ]
+    },
+    {
+      "id": "durak-16-cografya-ve-iklim-aciklamalari",
+      "section": "DÖRDÜNCÜ KISIM · BİLGİ VE SINIR",
+      "title": "Coğrafya ve iklim açıklamaları",
+      "paragraphs": [
+        "İbn Haldun iklim, beslenme ve coğrafyanın toplumlara etkisini tartışır. Çevrenin yaşam biçimini etkilediğini görmesi değerlidir, fakat bazı insan grupları hakkındaki genellemeleri bugün bilimsel ve ahlaki olarak kabul edilemez.",
+        "Çevre etkisi kader değildir. Aynı iklimde farklı kurumlar ve tarihler oluşabilir; insan kültürü çevreyi de dönüştürür.",
+        "Tarihsel metni dürüst okumak, parlak fikirleri alıp önyargılı bölümleri gizlemek değildir. Büyük düşünürler çağlarının sınırlarını taşıyabilir.",
+        "Bu bölüm bize yöntemi yazarına da uygulamayı öğretir: İddia toplum düzeninde ve kanıtta gerçekten mümkün mü?"
+      ]
+    },
+    {
+      "id": "durak-17-dongu-kader-midir",
+      "section": "SON DURAKLAR",
+      "title": "Döngü kader midir?",
+      "paragraphs": [
+        "Devletlerin yükselip zayıflaması İbn Haldun'da güçlü örüntüdür, fakat her devlet aynı sayıda kuşakla aynı sona gitmez. Kurumlar, teknoloji ve dış dünya döngüyü değiştirebilir.",
+        "Aile şirketi profesyonel yönetim, açık hesap ve yenilenmiş ortak amaçla kurucunun hafızasını kuruma çevirebilir. Döngü uyarıdır, takvim değildir.",
+        "Teorinin gücü tekrar eden riskleri göstermesidir: Güç merkezileşir, masraf büyür, dayanışma zayıflar ve yeni kenar gruplar yükselir."
+      ]
+    },
+    {
+      "id": "durak-18-modern-kelimeleri-geriye-yapistirmamak",
+      "section": "SON DURAKLAR",
+      "title": "Modern kelimeleri geriye yapıştırmamak",
+      "paragraphs": [
+        "İbn Haldun'a sosyolojinin, ekonominin veya Laffer eğrisinin mucidi demek ilgi çekicidir ama benzerlikleri abartabilir. O kendi dini, hukuki ve tarihsel dünyasında başka sorularla çalışır.",
+        "Öncülük değeri, bugünkü teoriyi eksiksiz söylemesinde değil toplumsal neden arama cesaretindedir. Hükümdarın karakteri yerine vergi, üretim ve dayanışmayı inceler.",
+        "Onu gerçekten onurlandırmak, heykel yapmak değil iddialarını kendi yöntemiyle sınamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-bugunun-kurumuna-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Bugünün kurumuna üç soru",
+      "paragraphs": [
+        "Bu kurumu gerçekten birlikte tutan asabiyet nedir: Korku, çıkar, güven veya ortak amaç? Kurucu kuşaktan hangi bilgi kayboldu? Masraf ile üretkenlik arasındaki denge nasıl değişti?",
+        "Sonra kötü haberin yöneticiye ulaşıp ulaşmadığını sorun. Saray kapıları çoğaldıkça raporlar güzelleşebilir.",
+        "Son olarak sayıları olabilirlik testine sokun. Büyük hedefin insan, zaman ve kaynak hesabı var mı? Mukaddime'nin yöntemi bu üç soruda yaşamaya devam eder."
+      ]
+    },
+    {
+      "id": "durak-20-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Tarih yalnız büyük adamların iradesiyle değil, toplumları birlikte hareket ettiren dayanışma, üretim, vergi ve kurumların zamanla değişen dengesiyle akar.",
+        "Akılda kalacak görüntü sarayın altındaki omuzlardır: Taht görünür, onu taşıyan asabiyet ve emek görünmez; omuzlar çekilince altın koltuk havada kalamaz."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-saraydan-cole-uzanan-hayat": {
+      "image": "/images/summary-art-92-chapter-01-court-and-desert-v1.webp",
+      "imageCaption": "Saray, kabile ve savaş arasında dolaşan İbn Haldun iktidarın vitrinini ve görünmeyen dayanaklarını birlikte gördü."
+    },
+    "durak-03-her-habere-inanma": {
+      "image": "/images/summary-art-92-chapter-02-impossible-army-v1.webp",
+      "imageCaption": "Büyük sayıların görkemine kapılmadan nüfus, yiyecek ve yol hesabı yapmak tarih haberini gerçeklikte sınar."
+    },
+    "durak-04-umran-insanlarin-birlikte-yasama-bilimi": {
+      "image": "/images/summary-art-92-chapter-03-bread-network-v1.webp",
+      "imageCaption": "Bir ekmek dilimi bile birçok meslek ve güven ilişkisini birleştiren görünmez toplum ağının ürünüdür."
+    },
+    "durak-05-asabiyet-birlikte-hareket-etme-bagi": {
+      "image": "/images/summary-art-92-chapter-04-bucket-chain-v1.webp",
+      "imageCaption": "Asabiyet, yangında kovayı elden ele geçirten ortak güven gibi grubun tek hareket üretmesini sağlar."
+    },
+    "durak-06-gocebe-sertligi-sehir-rahatligi": {
+      "image": "/images/summary-art-92-chapter-05-camp-and-city-v1.webp",
+      "imageCaption": "Kamp ortak emeği zorunlu kılarken şehir hizmet ve incelik üretir; rahatlık dayanışmanın biçimini değiştirir."
+    },
+    "durak-07-hanedan-nasil-kurulur": {
+      "image": "/images/summary-art-92-chapter-06-founding-generation-v1.webp",
+      "imageCaption": "İlk kuşağın devleti tek kahramanın değil, ortak risk ve emeği taşıyan dayanışma grubunun omuzlarında yükselir."
+    },
+    "durak-08-bes-kusagin-gevseyen-yayi": {
+      "image": "/images/summary-art-92-chapter-07-generational-bow-v1.webp",
+      "imageCaption": "Kurucu kuşağın gerdiği dayanışma yayı, bedeli yaşamayan kuşaklarda bakım görmezse yavaşça gevşer."
+    },
+    "durak-09-luks-neden-yalniz-zevk-degildir": {
+      "image": "/images/summary-art-92-chapter-08-palace-gates-v1.webp",
+      "imageCaption": "Sarayın çoğalan kapıları konfor kadar halktan ve kötü haberden uzaklaşan yönetimin işaretidir."
+    },
+    "durak-10-vergiyi-artirinca-gelir-neden-dusebilir": {
+      "image": "/images/summary-art-92-chapter-09-tax-market-v1.webp",
+      "imageCaption": "Pazarcının kazancının çoğu alınırsa oran yükselse bile tezgahlar kapanır ve toplam gelir daralabilir."
+    },
+    "durak-11-emek-degeri-nasil-buyutur": {
+      "image": "/images/summary-art-92-chapter-10-clay-to-cup-v1.webp",
+      "imageCaption": "Kil tek başına fincan değildir; emek, beceri, ateş ve pazar düzeni ham maddeye kullanılır değer ekler."
+    },
+    "durak-12-is-bolumu-sehri-buyutur": {
+      "image": "/images/summary-art-92-chapter-11-craft-city-v1.webp",
+      "imageCaption": "Uzmanlaşan zanaatlar birbirine bağlandığında tek tek emeğin ötesinde şehir ölçeğinde üretkenlik doğar."
+    },
+    "durak-13-fiyatin-icinde-sehir-vardir": {
+      "image": "/images/summary-art-92-chapter-12-many-prices-v1.webp",
+      "imageCaption": "Aynı malın fiyatı kıtlık, yol, vergi ve güven koşullarıyla değişir; etikette bütün şehrin düzeni saklıdır."
+    },
+    "durak-14-egitimde-sertlik-ne-uretir": {
+      "image": "/images/summary-art-92-chapter-13-harsh-classroom-v1.webp",
+      "imageCaption": "Sert eğitim çocuğa hakikati değil cezadan kaçacak yüzü öğretir; korku sessizlik üretir, anlayış değil."
+    },
+    "durak-15-bilimler-neden-sehirde-gelisir": {
+      "image": "/images/summary-art-92-chapter-14-knowledge-chain-v1.webp",
+      "imageCaption": "Bilim tek dahinin kıvılcımıyla değil, öğretmen, kitap, kurum ve kuşakların koruduğu uzun bir zincirle yaşar."
+    },
+    "durak-16-cografya-ve-iklim-aciklamalari": {
+      "image": "/images/summary-art-92-chapter-15-climate-map-v1.webp",
+      "imageCaption": "Çevre yaşam biçimini etkileyebilir, fakat toplumları tek renge boyayan kader haritası olamaz."
+    },
+    "durak-17-dongu-kader-midir": {
+      "image": "/images/summary-art-92-chapter-16-cycle-not-clock-v1.webp",
+      "imageCaption": "Devlet döngüsü kesin saat değil, dayanışma ve kurumlar zayıfladığında yaklaşan riskleri gösteren bir uyarı çemberidir."
+    }
+  }
+}

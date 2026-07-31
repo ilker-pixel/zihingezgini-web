@@ -1,0 +1,335 @@
+{
+  "bookNo": 121,
+  "title": "Meditasyonlar",
+  "author": "René Descartes",
+  "subtitle": "Şüpheyi her şeyi yıkmak için değil sağlam bir temel bulmak için kullanan; rüya, aldatıcı cin, düşünen benlik, Tanrı ve dış dünya üzerinden altı günlük zihinsel yolculuğu gündelik örneklerle açan rehber.",
+  "coverImage": "/images/summary-art-121-meditasyonlar-descartes-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/121-meditasyonlar-descartes-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#52667A",
+  "meta": {
+    "originalTitle": "Meditationes de Prima Philosophia",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Şüpheyi her şeyi yıkmak için değil sağlam bir temel bulmak için kullanan; rüya, aldatıcı cin, düşünen benlik, Tanrı ve dış dünya üzerinden altı günlük zihinsel yolculuğu gündelik örneklerle açan rehber.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Cambridge - Meditations on First Philosophy içeriği",
+      "url": "https://www.cambridge.org/highereducation/books/the-philosophical-writings-of-descartes/618B16C4C0116CBB0B39211F93E2BCB3/meditations-on-first-philosophy/5F229195B38C9D9C78CCF46DFC393283"
+    },
+    {
+      "id": 2,
+      "title": "Toronto Metropolitan University - Kamusal alan metni",
+      "url": "https://pressbooks.library.torontomu.ca/meditationsonfirstphilosophy/"
+    },
+    {
+      "id": 3,
+      "title": "Stanford Encyclopedia of Philosophy - Descartes",
+      "url": "https://plato.stanford.edu/entries/descartes/"
+    },
+    {
+      "id": 4,
+      "title": "Early Modern Texts - Meditations",
+      "url": "https://www.earlymoderntexts.com/assets/pdfs/descartes1641_1.pdf"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Descartes altı meditasyonu altı ayrı zihinsel gün gibi kurar. Amaç her sabah bir önceki adımı hatırlayıp şüphenin içinden kesinliğe doğru ilerlemektir.",
+        "Metin 'her şey yalandır' sonucuna varmaz. Geçici ve yöntemli şüphe kullanır: Sağlam bina için eğri temeli söküp güvenilir nokta arar.",
+        "Tanrı kanıtları ve zihin-beden ayrımı kitabın merkezindedir, fakat en çok tartışılan yerleridir. Rehber argümanı anlaşılır kuracak, eleştirileri gizlemeyecek."
+      ]
+    },
+    {
+      "id": "durak-02-eski-evin-temelini-sokmek",
+      "section": "BİRİNCİ KISIM · ŞÜPHENİN MERDİVENİ",
+      "title": "Eski evin temelini sökmek",
+      "paragraphs": [
+        "Descartes gençliğinden beri doğru sandığı birçok fikrin yanlış çıktığını fark eder. Üstüne kurulan inançlar da sallanıyorsa tek tek duvar boyamak yetmez; temele dönmek gerekir.",
+        "Eğri zemindeki kitaplığı her ay düzeltmek yerine zemini ölçmek gibi, bütün bilgi kaynaklarını sınamaya karar verir.",
+        "Her inancı ayrı ayrı kanıtlamak imkansızdır. Bunun yerine inançları besleyen duyular ve akıl yürütme gibi kökleri test eder.",
+        "Yöntem gündelik kuşkuculuk değil kontrollü düşünce deneyidir. Alışverişe giderken dünyanın varlığını sorgulamaz; felsefi temeli ararken askıya alır."
+      ]
+    },
+    {
+      "id": "durak-03-duyular-bazen-aldatir",
+      "section": "BİRİNCİ KISIM · ŞÜPHENİN MERDİVENİ",
+      "title": "Duyular bazen aldatır",
+      "paragraphs": [
+        "Uzak kule yuvarlak görünürken yakından köşeli çıkabilir. Suya giren çubuk kırılmış gibi görünür. Duyular en azından bazı koşullarda yanılır.",
+        "Bir kez yanlış adres veren navigasyonu tamamen çöpe atmayız, fakat kritik yol ayrımında ek kontrol yaparız. Descartes daha sert davranır: Kesin temel için bazen yanılan kaynağı yeterli bulmaz.",
+        "Yakındaki elleri ve ateşi görmenin daha güvenilir olduğu söylenebilir. Bu itiraz onu bir sonraki, daha geniş şüpheye taşır.",
+        "Duyuların yanılması onların işe yaramadığını değil mutlak kesinlik sağlamadığını gösterir."
+      ]
+    },
+    {
+      "id": "durak-04-su-an-ruyada-olabilir-misin",
+      "section": "BİRİNCİ KISIM · ŞÜPHENİN MERDİVENİ",
+      "title": "Şu an rüyada olabilir misin?",
+      "paragraphs": [
+        "Rüyada masa, beden ve oda gerçek görünür. Uyandığınızda sahnenin zihinde kurulduğunu anlarsınız. Şimdi uyanık olduğunuzu kesin olarak ayıran işaret var mı?",
+        "Rüya savı her an gerçekten rüyada olduğumuzu söylemez. Duyusal deneyimin kendi başına dış dünyayı mutlak garanti etmediğini gösterir.",
+        "Rüyadaki ejderha bile renk, şekil ve uzam gibi daha basit parçalardan kurulmuş olabilir. Bu yüzden matematiksel doğrular şüpheden kurtulacak gibi görünür.",
+        "Descartes şüphe merdivenini yükseltir: Önce tek algı, sonra bütün sahne sorgulanır."
+      ]
+    },
+    {
+      "id": "durak-05-aldatici-cin-ve-son-suphe",
+      "section": "BİRİNCİ KISIM · ŞÜPHENİN MERDİVENİ",
+      "title": "Aldatıcı cin ve son şüphe",
+      "paragraphs": [
+        "Descartes çok güçlü bir aldatıcının en basit hesapta bile zihnini yanıltığını hayal eder. Bu bir varlık inancı değil, şüpheyi son sınırına taşıyan araçtır.",
+        "Bilgisayardaki bütün girişleri değiştiren kötü amaçlı yazılım düşünün. Ekran, klavye ve hesap aynı sistemden geçiyorsa hangi çıktıya güveneceksiniz?",
+        "Bu hipotez matematiği bile geçici olarak askıya alır. Okur artık tutunacak hiçbir şey kalmadığını hisseder.",
+        "Tam bu boşlukta Descartes, aldatılabilmek için bile var olması gereken bir şeyi bulur: Şüphe eden etkinliğin kendisi."
+      ]
+    },
+    {
+      "id": "durak-06-dusunuyorum-oyleyse-varim",
+      "section": "İKİNCİ KISIM · DÜŞÜNEN BEN",
+      "title": "Düşünüyorum, öyleyse varım",
+      "paragraphs": [
+        "Aldatıcı beni her konuda yanıltabilir, fakat yanıltılan bir etkinlik olmadan aldatma gerçekleşmez. Şüphe ettiğim anda en azından düşünen bir şey olarak varlığım kesindir.",
+        "Bir odadaki bütün eşyalar sahte olabilir; 'şu anda kuşku var' olgusu kuşkunun içinde doğrulanır. Kanıt dışarıdan değil eylemin kendisinden gelir.",
+        "Cogito uzun bir kıyas değildir. 'Düşünen her şey vardır, ben düşünüyorum' hesabından önce, düşünme anında yakalanan doğrudan kesinliktir.",
+        "Bu kesinlik sürekli kimlik veya beden hakkında henüz çok şey söylemez. İlk sağlam taş küçüktür: Düşündüğüm sürece varım."
+      ]
+    },
+    {
+      "id": "durak-07-ben-neyim",
+      "section": "İKİNCİ KISIM · DÜŞÜNEN BEN",
+      "title": "Ben neyim?",
+      "paragraphs": [
+        "Descartes bedenin varlığını henüz geri kazanmamıştır. Kendini şüphe eden, anlayan, isteyen, hayal eden ve duyan bir düşünce etkinliği olarak tanır.",
+        "Telefonun dış kasası hakkında her şeyden kuşku duyarken ekranda işlem sürdüğünü bilmek gibi, işleyen zihin bedenden önce kesinleşir.",
+        "Buradan zihin ile bedenin ayrı tözler olduğu sonucu daha sonra kurulacaktır. Cogito tek başına ayrılığı tamamlamaz.",
+        "Benliği yalnız düşünceye bağlamak bedenlenmiş deneyimi küçümseyebilir. Modern felsefe ve bilim, zihnin beden ile çevreye sıkı bağını vurgular."
+      ]
+    },
+    {
+      "id": "durak-08-balmumu-parcasi",
+      "section": "İKİNCİ KISIM · DÜŞÜNEN BEN",
+      "title": "Balmumu parçası",
+      "paragraphs": [
+        "Yeni balmumu bal kokar, serttir ve belirli biçimdedir. Ateşe yaklaşınca kokusu, rengi, şekli ve dokusu değişir; yine de aynı balmumu olduğunu söyleriz.",
+        "Duyular her özelliği değişmiş gösterdiğine göre nesnenin sürekliliğini yalnız duyuyla tanımıyoruz. Zihin onun değişebilir uzamlı bir şey olduğunu kavrıyor.",
+        "Bu örnek aklın algıdaki rolünü gösterir. Görmek pasif fotoğraf çekmek değil, değişim içinde nesne tanımaktır.",
+        "Eleştirmenler bunun zihni bedenden bağımsız kanıtlamadığını söyler. Yine de algının yorum içeren etkinlik olduğunu canlı biçimde açar."
+      ]
+    },
+    {
+      "id": "durak-09-acik-ve-secik-fikir-olcusu",
+      "section": "İKİNCİ KISIM · DÜŞÜNEN BEN",
+      "title": "Açık ve seçik fikir ölçüsü",
+      "paragraphs": [
+        "Cogito'nun kesinliğini veren şey, Descartes'a göre açık ve seçik kavranmasıdır. Açık fikir zihnin önündedir; seçik fikir başkasıyla karışmaz.",
+        "Temiz camdan görünen tek nesne gibi, düşünce bulanıklık taşımadan belirir. Fakat bu ölçünün güvenilirliği Tanrı kanıtına bağlanınca daire itirazı doğar.",
+        "Bir fikrin size çok açık gelmesi doğru olduğunu garanti etmeyebilir. Önyargılar da apaçık hissedilebilir; ortak sınama gerekir.",
+        "Descartes kişisel kesinlik hissinden daha sıkı bir akıl ölçüsü arar, fakat ölçüyü temellendirmek kitabın zor düğümüdür."
+      ]
+    },
+    {
+      "id": "durak-10-sonsuzluk-fikri-nereden-geldi",
+      "section": "ÜÇÜNCÜ KISIM · DÜNYAYI GERİ KURMAK",
+      "title": "Sonsuzluk fikri nereden geldi?",
+      "paragraphs": [
+        "Descartes sınırlı ve kusurlu kendisinde sonsuz, kusursuz varlık fikrinin bulunduğunu söyler. Nedende en az sonuç kadar gerçeklik olmalıysa bu fikrin kaynağı kendisinden üstün olmalıdır.",
+        "Boş bardağın kendi başına okyanus fikri üretemeyeceği benzetmesi çekicidir. Descartes buradan Tanrı'nın varlığına gider.",
+        "Eleştirmenler sonsuzluğu sonlunun sınırını kaldırarak kurabileceğimizi ve fikirdeki içerik için dış varlık gerekmediğini savunur.",
+        "Argümanın ikna gücü ne olursa olsun kitabın mimarisinde görevi büyüktür: İyi Tanrı sistemli aldatmanın önünü kesecektir."
+      ]
+    },
+    {
+      "id": "durak-11-tanri-aldatir-mi",
+      "section": "ÜÇÜNCÜ KISIM · DÜNYAYI GERİ KURMAK",
+      "title": "Tanrı aldatır mı?",
+      "paragraphs": [
+        "Kusursuz varlık aldatıcı olamaz, çünkü aldatma eksikliktir der Descartes. Böylece doğru kullandığımız açık ve seçik düşüncelerin sürekli hileye uğramadığına güven kazanır.",
+        "Bankanın ana sistemi güvenilir olunca tek tek işlemleri kontrol etmek anlam kazanır. Tanrı, Descartes'ın bilgi bankasındaki güven sertifikasıdır.",
+        "Burada ünlü Kartezyen daire eleştirisi çıkar: Açık ve seçik fikirle Tanrı kanıtlanır, sonra Tanrı açık ve seçik fikri güvenceye alırsa kanıt dönüyor mu?",
+        "Descartes farklı anlarda kesinlik ayrımıyla yanıt vermeye çalışır; tartışma bugün de metnin kırılma noktasıdır."
+      ]
+    },
+    {
+      "id": "durak-12-hata-neden-var",
+      "section": "ÜÇÜNCÜ KISIM · DÜNYAYI GERİ KURMAK",
+      "title": "Hata neden var?",
+      "paragraphs": [
+        "İyi Tanrı bizi yaratmışsa neden yanılırız? Descartes anlayışımızın sınırlı, irademizin ise verilen kanıtın ötesine uzanabildiğini söyler.",
+        "Fener yalnız birkaç metreyi aydınlatırken koşarak karanlığa giderseniz çukura düşersiniz. Sorun ışığın verdiği alanda değil hükmün onun ötesine geçmesindedir.",
+        "Hata bir nesne değil yanlış kullanım eksikliğidir. Açık kanıt yoksa yargıyı askıya almak özgür iradenin doğru kullanımıdır.",
+        "Gündelik ders güçlüdür: Bilmediğini söylemek düşüncenin durması değil, yanlış kesinliğin önlenmesidir."
+      ]
+    },
+    {
+      "id": "durak-13-ucgen-ve-varlik-kaniti",
+      "section": "ÜÇÜNCÜ KISIM · DÜNYAYI GERİ KURMAK",
+      "title": "Üçgen ve varlık kanıtı",
+      "paragraphs": [
+        "Beşinci meditasyonda Descartes üçgenin iç açılarının özüne bağlı olması gibi, varlığın da kusursuz Tanrı'nın özüne ait olduğunu savunur.",
+        "Üç köşesi olmayan üçgen düşünülemez; Descartes var olmayan kusursuz varlığın da çelişki olduğunu ileri sürer.",
+        "Kant'ın daha sonraki ünlü itirazı varlığın bir özellik olmadığıdır. Hayali yüz altın ile gerçek yüz altının kavramı aynı, cebinizdeki sonucu farklıdır.",
+        "Ontolojik kanıt kısa olduğu için kolay değildir. Kavramdan gerçek varlığa geçişin mümkün olup olmadığını sınar."
+      ]
+    },
+    {
+      "id": "durak-14-dis-dunya-geri-donuyor",
+      "section": "ÜÇÜNCÜ KISIM · DÜNYAYI GERİ KURMAK",
+      "title": "Dış dünya geri dönüyor",
+      "paragraphs": [
+        "İnsanda duyusal fikirleri kendi isteği dışında alma eğilimi vardır. İyi Tanrı bizi sürekli yanıltmayacağına göre bu fikirlerin kaynağı maddi dünya olmalıdır.",
+        "Kapıya her gün siz istemeden paket geliyorsa dışarıda bir gönderici olduğu sonucuna varırsınız. Yine de paketin üstündeki resim içeriği tam göstermeyebilir.",
+        "Descartes dış dünyanın varlığını geri kazanır, fakat duyuların her niteliği nesnede olduğu gibi verdiğini söylemez. Ölçü, şekil ve hareket daha temel kabul edilir.",
+        "Şüphe yolculuğu başladığı masaya döner, fakat artık masa alışkanlıkla değil argümanla kabul edilmiştir."
+      ]
+    },
+    {
+      "id": "durak-15-zihin-ile-beden-gercekten-ayri-mi",
+      "section": "DÖRDÜNCÜ KISIM · BEDEN VE GÜNÜMÜZ",
+      "title": "Zihin ile beden gerçekten ayrı mı?",
+      "paragraphs": [
+        "Zihin düşünen, uzamsız şey; beden uzamlı, düşünmeyen şey olarak açık ve seçik kavranabiliyorsa birbirinden ayrılabilir der Descartes.",
+        "Yazılım ile donanım benzetmesi ilk anda yardımcıdır: Aynı işlev farklı maddede çalışabilir gibi görünür. Fakat insan zihni bedensiz çalışan program olduğuna dair kanıt değildir.",
+        "Ayrılık kişisel ölümsüzlük ve modern zihin felsefesi için büyük etki yarattı. Aynı zamanda zihnin bedeni nasıl hareket ettirdiği etkileşim sorununu doğurdu.",
+        "Bugünkü sinirbilim zihinsel süreçlerin beyin hasarı, hormon ve beden durumuyla güçlü bağını gösterir; katı ikicilik ciddi zorluk taşır."
+      ]
+    },
+    {
+      "id": "durak-16-hayalet-uzuv-ve-beden-birligi",
+      "section": "DÖRDÜNCÜ KISIM · BEDEN VE GÜNÜMÜZ",
+      "title": "Hayalet uzuv ve beden birliği",
+      "paragraphs": [
+        "Descartes insanın bedeninde kaptanın gemide bulunması gibi yalnız gözlemci olmadığını söyler. Açlık, acı ve susuzluk zihin ile bedenin sıkı birleşimini gösterir.",
+        "Ayağı kesilen kişinin hayalet ağrı duyması, sinir yollarının zihne yanlış yer bildirimi yapabileceğini gösterir. Duygu gerçek, işaret edilen uzuv yoktur.",
+        "Bu örnek duyuların amacı kesin bilim vermek değil bedeni korumak olabilir. Sistem çoğu zaman işe yarar, özel durumda yanılır.",
+        "Descartes'ın beden birliği kabulü, kaba 'zihin hayalet, beden makine' özetinden daha karmaşıktır."
+      ]
+    },
+    {
+      "id": "durak-17-suphe-ile-komplo-arasindaki-fark",
+      "section": "DÖRDÜNCÜ KISIM · BEDEN VE GÜNÜMÜZ",
+      "title": "Şüphe ile komplo arasındaki fark",
+      "paragraphs": [
+        "Descartes kanıtı güçlendirmek için kendi inançlarını geçici sınar. Komplo düşüncesi ise karşı kanıtı da komplonun parçası sayarak kendini kapatabilir.",
+        "Bilimsel şüphe hangi kanıtla fikrini değiştireceğini söyler. Sınırsız kuşku hiçbir cevabı kabul etmez ve araştırmayı durdurur.",
+        "Aldatıcı cin internet çağında simülasyon ve sahte görüntü tartışmalarına benzer, fakat Descartes orada yaşamayı amaçlamaz; çıkış arar.",
+        "Sağlıklı yöntem şudur: Kaynağı kontrol et, alternatif açıklama kur, doğrulama eşiği belirle ve yeterli kanıtta geçici karar ver."
+      ]
+    },
+    {
+      "id": "durak-18-descartes-in-buyuk-kazanci",
+      "section": "SON DURAKLAR",
+      "title": "Descartes'ın büyük kazancı",
+      "paragraphs": [
+        "Kitabın bütün kanıtları ikna etmese bile birinci kişi deneyiminin kesinlik arayışındaki rolünü değiştirdi. Bilginin öznesi modern felsefenin merkezine geldi.",
+        "Yöntem, otoriteyi tekrar etmek yerine gerekçeyi kişinin kendi aklında yeniden kurmasını ister. Bu, bilimsel devrim çağının güçlü ruhudur.",
+        "Aynı hareket benliği dünyadan fazla ayırma riski taşır. Zihin yalnız içerideki seyirci değil, dil, beden ve başkalarıyla ilişkide gelişir."
+      ]
+    },
+    {
+      "id": "durak-19-tanri-kaniti-olmadan-ne-kalir",
+      "section": "SON DURAKLAR",
+      "title": "Tanrı kanıtı olmadan ne kalır?",
+      "paragraphs": [
+        "Birçok çağdaş okur Descartes'ın Tanrı kanıtlarını kabul etmez, fakat cogito, rüya savı ve hata analizi önemini korur. Kitabın mimarisinde ise Tanrı çıkarılırsa dış dünya güven zincirinde boşluk oluşur.",
+        "Sonraki filozoflar bu boşluğu deneyim, olasılık, dil ve ortak doğrulamayla farklı biçimde doldurmaya çalıştı.",
+        "Meditasyonlar bu yüzden bitmiş bina değil, yüzyıllar süren tartışmanın temel kazısıdır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-descartes-alistirmasi",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik Descartes alıştırması",
+      "paragraphs": [
+        "Kesin sandığınız bir iddiayı seçin. Bilgi kaynağı ne, hangi koşulda yanılır, hangi kanıt fikrinizi değiştirir? Sonra olgu ile yorumunuzu ayırın.",
+        "Her şeyi birden şüpheye atmayın. Yöntemli kuşku sınırlı süre ve amaç taşır; aksi halde karar veremez hale getirir.",
+        "Son olarak 'bilmiyorum' alanını işaretleyin. Yargıyı askıya almak, zihnin feneri yetişene kadar iradeyi bekletmektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Her inancı şüpheyle söktüğümüzde bile şüphe eden düşüncenin varlığı kalır; Descartes bu ilk taştan Tanrı, dünya ve beden bilgisini yeniden kurmaya çalışır.",
+        "Akılda kalacak görüntü eski evdir: Temel sökülür, ilk sağlam taş cogito olur, fakat üst katların bazı bağlantıları hala tartışmalıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-eski-evin-temelini-sokmek": {
+      "image": "/images/summary-art-121-chapter-01-old-foundation-v1.webp",
+      "imageCaption": "Descartes eğri duvarları tek tek düzeltmek yerine bütün inanç binasının temelini sınamaya karar verir."
+    },
+    "durak-03-duyular-bazen-aldatir": {
+      "image": "/images/summary-art-121-chapter-02-bent-stick-v1.webp",
+      "imageCaption": "Suda kırık görünen düz çubuk duyuların işe yaramazlığını değil, kesinlik için tek başına yetmediğini gösterir."
+    },
+    "durak-04-su-an-ruyada-olabilir-misin": {
+      "image": "/images/summary-art-121-chapter-03-dream-room-v1.webp",
+      "imageCaption": "Rüya gerçek bir oda gibi hissedebildiğine göre, duyusal sahne kendi gerçekliğini tek başına mühürleyemez."
+    },
+    "durak-05-aldatici-cin-ve-son-suphe": {
+      "image": "/images/summary-art-121-chapter-04-deceiver-system-v1.webp",
+      "imageCaption": "Her çıktıyı değiştiren hayali aldatıcı, şüpheyi duyulardan matematiğe kadar en son sınıra taşır."
+    },
+    "durak-06-dusunuyorum-oyleyse-varim": {
+      "image": "/images/summary-art-121-chapter-05-first-stone-v1.webp",
+      "imageCaption": "Bütün sahne şüpheli olsa bile şüphe eylemi, o anda düşünen varlığın ilk sağlam taşı olur."
+    },
+    "durak-07-ben-neyim": {
+      "image": "/images/summary-art-121-chapter-06-thinking-flame-v1.webp",
+      "imageCaption": "Beden şüphedeyken bile kuşku, isteme ve hayal etme etkinliği sönmeyen bir düşünce alevi olarak kalır."
+    },
+    "durak-08-balmumu-parcasi": {
+      "image": "/images/summary-art-121-chapter-07-melting-wax-v1.webp",
+      "imageCaption": "Balmumunun bütün duyusal özellikleri değişse de zihin onu aynı değişebilir nesne olarak tanır."
+    },
+    "durak-09-acik-ve-secik-fikir-olcusu": {
+      "image": "/images/summary-art-121-chapter-08-clear-window-v1.webp",
+      "imageCaption": "Açık ve seçik fikir temiz penceredeki nesne gibi görünür, fakat pencerenin güvenilirliği ayrıca temellendirilmelidir."
+    },
+    "durak-10-sonsuzluk-fikri-nereden-geldi": {
+      "image": "/images/summary-art-121-chapter-09-cup-and-ocean-v1.webp",
+      "imageCaption": "Descartes sınırlı zihindeki sonsuzluk fikrini boş bardakta beliren okyanusa benzeterek kaynağını sorgular."
+    },
+    "durak-11-tanri-aldatir-mi": {
+      "image": "/images/summary-art-121-chapter-10-trust-certificate-v1.webp",
+      "imageCaption": "İyi Tanrı bilgi sisteminin güven sertifikası olur, fakat sertifikanın hangi ölçüyle doğrulandığı daire tartışmasını doğurur."
+    },
+    "durak-12-hata-neden-var": {
+      "image": "/images/summary-art-121-chapter-11-lantern-limit-v1.webp",
+      "imageCaption": "Anlayışın feneri sınırlıyken irade karanlığa koşarsa hata doğar; yargıyı bekletmek düşmeyi önler."
+    },
+    "durak-13-ucgen-ve-varlik-kaniti": {
+      "image": "/images/summary-art-121-chapter-12-triangle-existence-v1.webp",
+      "imageCaption": "Descartes varlığı kusursuz Tanrı kavramına üç köşenin üçgene ait olduğu kadar zorunlu bağlamaya çalışır."
+    },
+    "durak-14-dis-dunya-geri-donuyor": {
+      "image": "/images/summary-art-121-chapter-13-returned-table-v1.webp",
+      "imageCaption": "Descartes şüpheyle kaybettiği masaya geri döner; dış dünya artık alışkanlığın değil kurduğu güven zincirinin sonucudur."
+    },
+    "durak-15-zihin-ile-beden-gercekten-ayri-mi": {
+      "image": "/images/summary-art-121-chapter-14-mind-body-bridge-v1.webp",
+      "imageCaption": "Zihin ile bedeni iki ayrı kıyı yapmak, aralarındaki etkileşimin hangi köprüden geçtiği sorununu doğurur."
+    },
+    "durak-16-hayalet-uzuv-ve-beden-birligi": {
+      "image": "/images/summary-art-121-chapter-15-phantom-limb-v1.webp",
+      "imageCaption": "Hayalet uzuv ağrısı deneyimin gerçekliğiyle onun işaret ettiği beden parçasının doğruluğunu birbirinden ayırır."
+    },
+    "durak-17-suphe-ile-komplo-arasindaki-fark": {
+      "image": "/images/summary-art-121-chapter-16-open-doubt-v1.webp",
+      "imageCaption": "Yöntemli şüphe hangi kanıtla duracağını bilir; kapalı komplo her cevabı yeni kuşkuya çevirir."
+    }
+  }
+}

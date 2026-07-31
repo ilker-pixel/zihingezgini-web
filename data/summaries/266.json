@@ -1,0 +1,357 @@
+{
+  "bookNo": 266,
+  "title": "Böyle Buyurdu Zerdüşt",
+  "author": "Friedrich Nietzsche",
+  "subtitle": "Dağdan insanlara inen Zerdüşt'ün tanrının ölümü, üstinsan, sürü, beden, yaratma, güç istenci ve ebedi dönüşle yüzleştiği şiirsel yolculuğu karakterleri ve sahneleri kaybetmeden sadeleştiren rehber.",
+  "coverImage": "/images/summary-art-266-boyle-buyurdu-zerdust-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/266-boyle-buyurdu-zerdust-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6E4C3D",
+  "meta": {
+    "originalTitle": "Also sprach Zarathustra",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Dağdan insanlara inen Zerdüşt'ün tanrının ölümü, üstinsan, sürü, beden, yaratma, güç istenci ve ebedi dönüşle yüzleştiği şiirsel yolculuğu karakterleri ve sahneleri kaybetmeden sadeleştiren rehber.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Project Gutenberg - Thus Spake Zarathustra tam metni",
+      "url": "https://www.gutenberg.org/files/1998/1998-h/1998-h.htm"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Nietzsche",
+      "url": "https://plato.stanford.edu/entries/nietzsche/"
+    },
+    {
+      "id": 3,
+      "title": "Cambridge - Thus Spoke Zarathustra içindekiler",
+      "url": "https://assets.cambridge.org/97805218/41719/toc/9780521841719_toc.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Internet Encyclopedia of Philosophy - Nietzsche",
+      "url": "https://iep.utm.edu/nietzsche/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Böyle Buyurdu Zerdüşt roman, şiir, vaaz parodisi ve felsefi deneydir. Zerdüşt her zaman Nietzsche'nin doğrudan sözcüsü değildir; karakter yanılır, yalnız kalır ve kendi öğretisiyle sınanır.",
+        "Üstinsan biyolojik ırk veya siyasi efendi değildir. Eski değerlerin yıkıldığı dünyada kendi hayatına yaratıcı biçim verme ideali olarak okunmalıdır.",
+        "Rehber olay yolunu koruyacak ve eserin Nazi ideolojisiyle sonradan çarpıtılmasını açıkça ayıracak."
+      ]
+    },
+    {
+      "id": "durak-02-dagdaki-on-yil",
+      "section": "BİRİNCİ KISIM · İNİŞ VE İLK ÖĞRETİ",
+      "title": "Dağdaki on yıl",
+      "paragraphs": [
+        "Zerdüşt otuz yaşında dağa çekilir, on yıl yalnız yaşar ve bilgeliği taşınca güneş gibi vermek için insanlara inmeye karar verir.",
+        "Dolu bardak paylaşılmadığında ağırlığa dönüşür. Bilgelik tek başına saklanan hazine değil ilişki içinde sınanan şeydir.",
+        "Güneşe 'aydınlatacağın kimse olmasa mutluluğun ne olurdu?' diye sorar. Veren de alıcıya ihtiyaç duyar.",
+        "İniş kitabın temel hareketidir: Yüksekte bulunan fikir pazar yerinde, dostlukta ve hayal kırıklığında denenmelidir."
+      ]
+    },
+    {
+      "id": "durak-03-aziz-ile-tanrinin-olumu",
+      "section": "BİRİNCİ KISIM · İNİŞ VE İLK ÖĞRETİ",
+      "title": "Aziz ile tanrının ölümü",
+      "paragraphs": [
+        "Ormanda yaşayan yaşlı aziz hala Tanrı'ya şarkı söyler. Zerdüşt ayrıldıktan sonra onun Tanrı'nın öldüğünü duymamasına şaşar.",
+        "Tanrının ölümü gökyüzündeki varlığın biyolojik ölümü değil, Batı'nın ortak ahlaki ve anlam temelinin güvenilirliğini kaybetmesidir.",
+        "Eski pusula çalışmazken yönsüzlük ve yeni değer yaratma sorumluluğu doğar. Yalnız inançsızlık değil kültürel depremdir.",
+        "Nietzsche bu ölümü basit zafer diye kutlamaz; boşluğu nihilizmin doldurabileceğini görür."
+      ]
+    },
+    {
+      "id": "durak-04-pazar-yerinde-ustinsan",
+      "section": "BİRİNCİ KISIM · İNİŞ VE İLK ÖĞRETİ",
+      "title": "Pazar yerinde üstinsan",
+      "paragraphs": [
+        "Zerdüşt halka insanın aşılması gereken bir köprü olduğunu söyler. Üstinsan hazır tür değil, kendini dönüştürme ve dünyaya evet deme hedefidir.",
+        "Tohum ağaca dönüşürken tohumu küçümsemez; içindeki imkanı aşar. İnsan da mevcut alışkanlığını son biçim saymamalıdır.",
+        "Kalabalık öğretiden çok ip cambazını bekler ve Zerdüşt'le alay eder. Büyük kavram kamusal gösteride anlaşılmaz kalır.",
+        "Üstinsanı başkalarını ezme ruhsatı yapmak metnin öz yaratım ve kendini aşma yönünü tersine çevirir."
+      ]
+    },
+    {
+      "id": "durak-05-son-insanin-rahat-hapishanesi",
+      "section": "BİRİNCİ KISIM · İNİŞ VE İLK ÖĞRETİ",
+      "title": "Son insanın rahat hapishanesi",
+      "paragraphs": [
+        "Kalabalık üstinsan yerine son insanı ister. Son insan risk, büyük tutku ve yaratım istemez; küçük hazlar ve güvenli konforla yetinir.",
+        "Her akşam aynı eğlence, hiçbir güçlü evet veya hayır yoktur. Acı azaltılmış, imkan da küçülmüştür.",
+        "Nietzsche rahatlığı bütünüyle kötü saymaz; hayatın tek amacı olduğunda insanın ufkunu daralttığını gösterir.",
+        "Bugünün sonsuz akış ve kişiselleştirilmiş konfor dünyası son insan görüntüsünü rahatsız edici biçimde günceller."
+      ]
+    },
+    {
+      "id": "durak-06-ip-cambazinin-dususu",
+      "section": "BİRİNCİ KISIM · İNİŞ VE İLK ÖĞRETİ",
+      "title": "İp cambazının düşüşü",
+      "paragraphs": [
+        "Üstinsan ile son insan konuşması sırasında ip cambazı kuleler arasında yürür. Soytarı onu korkutur, cambaz düşer ve ölür. Zerdüşt yanında kalır.",
+        "İnsan hayvan ile aşılma imkanı arasındaki iptir; altındaki uçurum başarısızlık ve nihilizmdir.",
+        "Kalabalık gösteri bitince dağılır. Zerdüşt büyük insanlık yerine tek ölen insana karşı sorumlulukla karşılaşır.",
+        "Sahne felsefeyi bedene indirir: Aşılma sloganı gerçek düşme ve ölüm riskini taşır."
+      ]
+    },
+    {
+      "id": "durak-07-uc-donusum-deve-aslan-cocuk",
+      "section": "İKİNCİ KISIM · DEĞERLERİ YARATMAK",
+      "title": "Üç dönüşüm: Deve, aslan, çocuk",
+      "paragraphs": [
+        "Ruh önce deve gibi ağır görevleri yüklenir ve dayanıklılık kazanır. Sonra aslan olur, 'yapmalısın' ejderhasına karşı özgürlük için hayır der.",
+        "Ama aslan yeni değer yaratamaz; yalnız zinciri kırar. Çocuk unutma, oyun ve kutsal evet ile yeni başlangıç kurar.",
+        "Bir sanatçı önce geleneği öğrenir, sonra ustasına karşı çıkar, en son yalnız tepki vermeden kendi dilini yaratır.",
+        "Özgürlük yükten kaçmak değil, disiplin ve isyandan geçerek yaratıcı evete ulaşmaktır."
+      ]
+    },
+    {
+      "id": "durak-08-bedenini-kucumseyenler",
+      "section": "İKİNCİ KISIM · DEĞERLERİ YARATMAK",
+      "title": "Bedenini küçümseyenler",
+      "paragraphs": [
+        "Zerdüşt bedeni ruhun aşağı hapishanesi sayanlara karşı çıkar. Benlik yalnız akıl değil, duyu, dürtü ve bedenin büyük aklıdır.",
+        "Karar verdiğinizi sanırken uykusuzluk, korku ve beden ritmi düşüncenizi biçimlendirir. Zihin gövdesiz komutan değildir.",
+        "Bu beden vurgusu kaba hazcılık değildir. Beden yaratma ve değer vermenin koşuludur.",
+        "Kendini küçümseyen ahlak yaşamı öte dünya adına değersizleştirirse nihilizmi besler."
+      ]
+    },
+    {
+      "id": "durak-09-bin-bir-amac",
+      "section": "İKİNCİ KISIM · DEĞERLERİ YARATMAK",
+      "title": "Bin bir amaç",
+      "paragraphs": [
+        "Toplumlar iyi ve kötü cetvellerini kendileri yaratır; savaşçı halk cesareti, tüccar halk güveni yüceltebilir. Değerler gökten hazır düşmez.",
+        "Aynı davranış bir kültürde onur, diğerinde ayıp olabilir. Bu fark her değerin eşit olduğu anlamına gelmez; yaratılmışlığını gösterir.",
+        "Tanrının ölümü sonrası görev yalnız eski cetveli kırmak değil hayatı güçlendiren yeni ölçü kurmaktır.",
+        "Değer yaratmak keyfi canının istediğini yapmak değil sonucu bütün hayatıyla üstlenmektir."
+      ]
+    },
+    {
+      "id": "durak-10-pazar-yerindeki-sinekler",
+      "section": "İKİNCİ KISIM · DEĞERLERİ YARATMAK",
+      "title": "Pazar yerindeki sinekler",
+      "paragraphs": [
+        "Zerdüşt şöhret ve küçük saldırıların pazar yerinden uzak durmayı öğütler. Kalabalık yaratıcıyı överken aynı anda ısırır ve ölçüsüne çeker.",
+        "Sosyal medyada her yorumla kavga eden kişi eserini başkalarının küçük tepkisine teslim eder.",
+        "Yalnızlık kibirli kaçış değil yeni düşüncenin gürültüden korunma alanı olabilir.",
+        "Ama sürekli dağda kalmak da sınanmayı engeller. Zerdüşt'ün hareketi yalnızlık ile dönüş arasında gidip gelir."
+      ]
+    },
+    {
+      "id": "durak-11-dost-ve-dusman",
+      "section": "İKİNCİ KISIM · DEĞERLERİ YARATMAK",
+      "title": "Dost ve düşman",
+      "paragraphs": [
+        "Nietzsche'nin dostluğu rahat onay değil birbirini daha yükseğe çağıran gerilimdir. Gerçek dost bazen iyi bir düşman gibi karşı koyar.",
+        "Her fikrinize evet diyen kişi aynadır; gerekçenizi zorlayan dost kasınızı geliştirir.",
+        "Bu dil kötü ilişkiyi romantikleştirmek için kullanılmamalıdır. Şiddet ve aşağılama gelişim değil zarar üretir.",
+        "Değerli karşı koyuş karşılıklı saygı ve kişinin kendi yolunu güçlendirmesiyle ölçülür."
+      ]
+    },
+    {
+      "id": "durak-12-guc-istenci-yalniz-iktidar-mi",
+      "section": "ÜÇÜNCÜ KISIM · EN AĞIR DÜŞÜNCE",
+      "title": "Güç istenci yalnız iktidar mı?",
+      "paragraphs": [
+        "Zerdüşt'te yaşam kendini aşan, biçim veren ve dirençle büyüyen güç olarak anlatılır. Güç istenci yalnız başkasını yönetme arzusu değildir.",
+        "Müzisyen zor eseri çalışırken kendi kapasitesini örgütler. Bahçıvan bitkiye biçim verirken çevreyle yaratıcı ilişki kurar.",
+        "Kavram Nietzsche'nin notlarında farklı anlamlar taşır ve kız kardeşinin derlediği sonraki kitapla yanlış biçimde tek sistem yapılmıştır.",
+        "Gücü tahakküm diye okumak metni faşist slogana açar; kendini aşma ve yaratma boyutu merkezde tutulmalıdır."
+      ]
+    },
+    {
+      "id": "durak-13-ebedi-donusun-kapisi",
+      "section": "ÜÇÜNCÜ KISIM · EN AĞIR DÜŞÜNCE",
+      "title": "Ebedi dönüşün kapısı",
+      "paragraphs": [
+        "Zerdüşt bir geçitte biri geçmişe, biri geleceğe uzanan iki sonsuz yol düşünür. Bütün anların tekrar dönmesi ihtimali en ağır düşünce olarak belirir.",
+        "Hayatınızı sonsuz kez aynı ayrıntıyla yaşayacağınız söylense bunu lanet mi, armağan mı sayardınız?",
+        "Ebedi dönüş kozmolojik teori veya yaşamı sınayan düşünce deneyi olarak yorumlanır. Kitap kesin teknik açıklama vermez.",
+        "Ölçü gelecekte ödül değil bu hayatı tekrar isteyebilecek kadar sahiplenmektir."
+      ]
+    },
+    {
+      "id": "durak-14-coban-ve-yilan",
+      "section": "ÜÇÜNCÜ KISIM · EN AĞIR DÜŞÜNCE",
+      "title": "Çoban ve yılan",
+      "paragraphs": [
+        "Zerdüşt bir çobanın boğazına yılan girdiğini görür. Çobana yılanın başını ısırmasını söyler; çoban kurtulup insanüstü bir kahkahayla ayağa kalkar.",
+        "Yılan Zerdüşt'ün boğucu ebedi dönüş düşüncesi olabilir. Ondan kaçmak değil onu ısırıp içselleştirmek dönüşüm yaratır.",
+        "Korku dışarıdan çıkarılacak nesne değil kendi evetinizle değiştirilecek yük haline gelir.",
+        "Sahne şiddetli ve semboliktir; tek doğru açıklamaya kapanmaz. Etkisi kavramdan önce bedene ulaşır."
+      ]
+    },
+    {
+      "id": "durak-15-gece-sarkisi-ve-verenin-yalnizligi",
+      "section": "ÜÇÜNCÜ KISIM · EN AĞIR DÜŞÜNCE",
+      "title": "Gece şarkısı ve verenin yalnızlığı",
+      "paragraphs": [
+        "Zerdüşt ışık saçan ama ışık alamayan güneş gibi kendi vericiliğinin yalnızlığını söyler. Sürekli öğretmen olmak karşılıklılığı kaybettirir.",
+        "Herkese destek veren kişinin yardım istemeyi unutması gibi, güç görüntüsü ihtiyaçların görünmesini engelleyebilir.",
+        "Nietzsche'nin kahramanı yalnız zafer sesi değildir; kıskançlık, özlem ve yorgunluk taşır.",
+        "Kendi değerini yaratmak başkasına ihtiyaç duymamak demek değildir."
+      ]
+    },
+    {
+      "id": "durak-16-cuce-soytari-ve-agirlik-ruhu",
+      "section": "ÜÇÜNCÜ KISIM · EN AĞIR DÜŞÜNCE",
+      "title": "Cüce, soytarı ve ağırlık ruhu",
+      "paragraphs": [
+        "Zerdüşt'ün cücesi her yükselişi aşağı çeken alaycı ağırlıktır. Soytarı tehlikeli sıçrayışla başkasını düşürür. Karakterler iç sesler ve kültürel güçler gibi çalışır.",
+        "Yeni fikre 'zaten her şey boş' diyen ses eleştiri değil başlamayı engelleyen ağırlık olabilir.",
+        "Nietzsche hafifliği yüzeysellik değil ağır kaderi dansla taşıma gücü olarak över.",
+        "Ciddiyetin her zaman derinlik, kahkahanın her zaman kaçış olmadığını gösterir."
+      ]
+    },
+    {
+      "id": "durak-17-yuksek-insanlar-magarada",
+      "section": "DÖRDÜNCÜ KISIM · YANLIŞ OKUMALAR",
+      "title": "Yüksek insanlar mağarada",
+      "paragraphs": [
+        "Son bölümlerde kral, papa, büyücü, en çirkin insan ve başka 'yüksek insanlar' Zerdüşt'ün mağarasına gelir. Eski değerleri aşmış ama yeniye ulaşamamış ara tiplerdir.",
+        "Diploması bitmiş ama mesleğini bulamamış mezun gibi, eski evden çıkmış ve yeni evi kuramamışlardır.",
+        "Zerdüşt onları teselli eder, fakat üstinsan saymaz. Yüksek olmak son durak değil geçiştir.",
+        "Kitap kahraman topluluğunu bile parodi ve kahkahayla sınar."
+      ]
+    },
+    {
+      "id": "durak-18-esek-bayrami",
+      "section": "DÖRDÜNCÜ KISIM · YANLIŞ OKUMALAR",
+      "title": "Eşek bayramı",
+      "paragraphs": [
+        "Mağaradakiler bir eşeğe tapınmaya başlar. Eski Tanrı'nın boşluğu yeni ve komik putla hemen dolar. İnanç biçimi değişir, ihtiyaç sürer.",
+        "Bir ideolojiyi bırakıp sorgulamadan başka lidere bağlanmak eşeğin önünde diz çökmeye benzer.",
+        "Zerdüşt öfkelenir, sonra kahkaha ve kutlamanın iyileştirici yönünü de görür. Sahne yalnız alay değildir.",
+        "Değer yaratmanın tehlikesi, eski itaati yeni logoyla tekrar etmektir."
+      ]
+    },
+    {
+      "id": "durak-19-kartal-ve-yilan",
+      "section": "DÖRDÜNCÜ KISIM · YANLIŞ OKUMALAR",
+      "title": "Kartal ve yılan",
+      "paragraphs": [
+        "Zerdüşt'ün hayvanları kartal ile yılandır: yükseklik ve gurur, toprak bilgeliği ve döngü. Birlikte tek taraflı kahramanlığı dengelerler.",
+        "Yalnız yükselen kartal toprağı, yalnız sürünen yılan ufku kaybedebilir. Zerdüşt iki hareketi bir arada taşır.",
+        "Hayvanlar ebedi dönüşü Zerdüşt'ten önce dile getirir, fakat onun kişisel dehşetini tam yaşamaz. Bilmek ile bedende üstlenmek farklıdır.",
+        "Kitabın imgeleri kavramları tanımlamak yerine aralarında hareket alanı açar."
+      ]
+    },
+    {
+      "id": "durak-20-nazizmle-kurulan-sahte-bag",
+      "section": "SON DURAKLAR",
+      "title": "Nazizmle kurulan sahte bağ",
+      "paragraphs": [
+        "Nietzsche Alman milliyetçiliğini ve antisemitizmi eleştirmişti. Ölümünden sonra kız kardeşi Elisabeth yazılarını seçip düzenleyerek Nazi yorumuna uygun bir görüntü kurdu.",
+        "Üstinsan biyolojik üstün ırk, güç istenci totaliter fetih programı değildir. Metnin sert ve hiyerarşik dili kötüye kullanıma açık olsa da bu eşitleme yanlıştır.",
+        "Düşünürü aklamak için her sorunlu cümleyi silmek de gerekmez. Demokrasi ve eşitlik karşıtı yönleri eleştirel okunmalıdır."
+      ]
+    },
+    {
+      "id": "durak-21-kadinlar-hakkindaki-sorunlu-sozler",
+      "section": "SON DURAKLAR",
+      "title": "Kadınlar hakkındaki sorunlu sözler",
+      "paragraphs": [
+        "Kitapta kadınlar hakkında küçümseyici, stereotip ve rahatsız edici bölümler bulunur. Bunları yalnız ironi diyerek geçmek metnin tarihsel cinsiyetçiliğini gizleyebilir.",
+        "Zerdüşt karakterinin sözü ile Nietzsche'nin görüşü ayrımı yorum gerektirir, fakat okurun eleştirisini iptal etmez.",
+        "Kendini aşma çağrısı, kadınları başkasının gelişim aracı yapan dilin de aşılmasını gerektirir."
+      ]
+    },
+    {
+      "id": "durak-22-bir-ebedi-donus-alistirmasi",
+      "section": "SON DURAKLAR",
+      "title": "Bir ebedi dönüş alıştırması",
+      "paragraphs": [
+        "Bugünkü bir seçimi sonsuz kez tekrar edeceğiniz varsayımıyla düşünün. Bu, her şeyi sevmek zorunda olduğunuz anlamına gelmez; hangi hayat parçasının değişim istediğini keskinleştirir.",
+        "Sonra deve, aslan ve çocuk aşamalarını sorun: Hangi disiplini öğrenmeniz, hangi buyruğa hayır demeniz ve hangi yeni eveti yaratmanız gerekiyor?",
+        "Alıştırma büyük kahramanlık değil küçük hayat biçimi için kullanılabilir."
+      ]
+    },
+    {
+      "id": "durak-23-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Eski Tanrı ve değerler güvenini kaybettiğinde insan ya son insanın rahatlığına çekilir ya da deve, aslan ve çocuk dönüşümünden geçerek bu hayatı tekrar isteyebileceği yeni değerler yaratır.",
+        "Akılda kalacak görüntü iptir: İnsan tamamlanmış son değil, hayvan ile yaratıcı aşılma arasında düşme riskini taşıyan bir geçittir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-dagdaki-on-yil": {
+      "image": "/images/summary-art-266-chapter-01-mountain-descent-v1.webp",
+      "imageCaption": "On yıl dağda biriken bilgelik, ancak insanlara doğru inip paylaşım ve dirençle sınandığında canlı hale gelir."
+    },
+    "durak-03-aziz-ile-tanrinin-olumu": {
+      "image": "/images/summary-art-266-chapter-02-dead-compass-v1.webp",
+      "imageCaption": "Tanrının ölümü eski anlam pusulasının çalışmaması ve insanın yeni yön yaratma yüküyle kalmasıdır."
+    },
+    "durak-04-pazar-yerinde-ustinsan": {
+      "image": "/images/summary-art-266-chapter-03-bridge-overman-v1.webp",
+      "imageCaption": "Üstinsan başkalarının üstünde efendi değil, insanın kendi verilmiş değerlerini aşmaya yöneldiği açık köprüdür."
+    },
+    "durak-05-son-insanin-rahat-hapishanesi": {
+      "image": "/images/summary-art-266-chapter-04-last-man-v1.webp",
+      "imageCaption": "Son insan acıdan kaçarken büyük yaratım ve risk imkanını da bırakıp rahat ama dar bir hayat seçer."
+    },
+    "durak-06-ip-cambazinin-dususu": {
+      "image": "/images/summary-art-266-chapter-05-tightrope-fall-v1.webp",
+      "imageCaption": "İnsan köprü olmak isterken uçurum ve düşme riski taşır; Zerdüşt soyut öğretinin yanında gerçek ölümü görür."
+    },
+    "durak-07-uc-donusum-deve-aslan-cocuk": {
+      "image": "/images/summary-art-266-chapter-06-camel-lion-child-v1.webp",
+      "imageCaption": "Ruh yük taşıyan deveden hayır diyen aslana, oradan yeni oyun ve değer kuran çocuğa dönüşür."
+    },
+    "durak-08-bedenini-kucumseyenler": {
+      "image": "/images/summary-art-266-chapter-07-body-wisdom-v1.webp",
+      "imageCaption": "Beden aklın taşıdığı yük değil, duygu ve düşüncenin içinden doğduğu büyük canlı zekadır."
+    },
+    "durak-09-bin-bir-amac": {
+      "image": "/images/summary-art-266-chapter-08-many-value-tablets-v1.webp",
+      "imageCaption": "Halklar farklı iyi ve kötü levhaları yapar; yeni değer yaratmak eski taşı kırmaktan daha ağır sorumluluktur."
+    },
+    "durak-10-pazar-yerindeki-sinekler": {
+      "image": "/images/summary-art-266-chapter-09-market-flies-v1.webp",
+      "imageCaption": "Pazarın küçük övgü ve sokmaları yaratıcı dikkati parçalayabilir; yalnızlık eserin korunma odası olur."
+    },
+    "durak-11-dost-ve-dusman": {
+      "image": "/images/summary-art-266-chapter-10-worthy-friend-v1.webp",
+      "imageCaption": "İyi dost yalnız onaylamaz; saygılı karşı koyuşla kişinin kendi düşünce ve gücünü daha yüksek sınar."
+    },
+    "durak-12-guc-istenci-yalniz-iktidar-mi": {
+      "image": "/images/summary-art-266-chapter-11-creative-power-v1.webp",
+      "imageCaption": "Güç istenci yalnız başkasına hükmetmek değil, direnç içinde kendi kapasitesine biçim veren yaratıcı enerji olabilir."
+    },
+    "durak-13-ebedi-donusun-kapisi": {
+      "image": "/images/summary-art-266-chapter-12-eternal-gateway-v1.webp",
+      "imageCaption": "Geçmiş ve gelecek yollarının buluştuğu kapı, bu anı sonsuz kez istemeye hazır olup olmadığımızı sorar."
+    },
+    "durak-14-coban-ve-yilan": {
+      "image": "/images/summary-art-266-chapter-13-shepherd-serpent-v1.webp",
+      "imageCaption": "Çoban boğucu yılanı ısırdığında en ağır düşünce kurbanı olmaktan onu dönüştüren kişiye geçer."
+    },
+    "durak-16-cuce-soytari-ve-agirlik-ruhu": {
+      "image": "/images/summary-art-266-chapter-14-spirit-of-gravity-v1.webp",
+      "imageCaption": "Ağırlık ruhu her yükselişi alayla aşağı çeker; yaratıcı hafiflik ağır hayatı inkar etmeden onunla dans eder."
+    },
+    "durak-17-yuksek-insanlar-magarada": {
+      "image": "/images/summary-art-266-chapter-15-higher-men-cave-v1.webp",
+      "imageCaption": "Yüksek insanlar eski değerlerden çıkmış ama yenisini yaratamamış, mağarada bekleyen geçiş figürleridir."
+    },
+    "durak-18-esek-bayrami": {
+      "image": "/images/summary-art-266-chapter-16-donkey-festival-v1.webp",
+      "imageCaption": "Eski put yıkılınca boşluk hemen yeni ve komik bir putla dolabilir; itaat yalnız logosunu değiştirir."
+    }
+  }
+}

@@ -91,7 +91,9 @@
         "description": "Gen-merkezli evrim görüşünü popülerleştiren bilişsel biyoloji klasiği.",
         "pubDate": "1976",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/8-gen-bencildir/"
     },
     {
         "no": 9,
@@ -195,7 +197,9 @@
         "description": "Pestisitlerin doğaya verdiği zararları anlatarak modern çevre hareketini başlatan tarihi eser.",
         "pubDate": "1962",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/18-sessiz-bahar/"
     },
     {
         "no": 19,
@@ -357,7 +361,9 @@
         "description": "Travmanın sinir sistemindeki ve bedendeki izlerini modern nörobiyolojik verilerle kanıtlayan eser.",
         "pubDate": "2014",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/34-beden-kayit-tutar/"
     },
     {
         "no": 35,
@@ -399,7 +405,9 @@
         "description": "Dilin insan beyninin evrimsel bir adaptasyonu olduğunu savunan öncü çalışma.",
         "pubDate": "1994",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/38-dil-icgudusu/"
     },
     {
         "no": 39,
@@ -631,7 +639,9 @@
         "description": "Roma İmparatoru'nun kişisel disiplin, doğaya uyum ve geçicilik üzerine tuttuğu Stoacı günlük.",
         "pubDate": "180",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/61-kendime-dusunceler/"
     },
     {
         "no": 62,
@@ -721,7 +731,9 @@
         "description": "Yol (Tao) ve erdem (Te) üzerine yazılmış, çabasız eylem (wu wei) ilkesini sunan klasik.",
         "pubDate": "MÖ 4. Yüzyıl",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/70-tao-te-ching/"
     },
     {
         "no": 71,
@@ -947,7 +959,9 @@
         "description": "Asabiyet kavramı ve medeniyetlerin yükseliş-çöküş döngülerini açıklayan sosyolojinin öncüsü.",
         "pubDate": "1377",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/92-mukaddime/"
     },
     {
         "no": 93,
@@ -1019,7 +1033,9 @@
         "description": "Bireysel özgürlüğün sınırlarını 'başkasına zarar vermeme' ilkesiyle çizen faydacı klasik.",
         "pubDate": "1859",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/99-ozgurluk-uzerine/"
     },
     {
         "no": 100,
@@ -1239,7 +1255,9 @@
         "description": "Metodik şüphecilik ve 'Düşünüyorum, öyleyse varım' (Cogito) önermesini kuran rasyonalist klasik.",
         "pubDate": "1641",
         "evre": 5,
-        "link": "/yazilar/453/"
+        "link": "/yazilar/453/",
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/121-meditasyonlar/"
     },
     {
         "no": 122,
@@ -1411,7 +1429,9 @@
         "description": "Bilimin doğrusal ilerlemediğini, paradigmalar arası devrimsel sıçramalarla (paradigma kayması) değiştiğini gösteren klasik.",
         "pubDate": "1962",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/138-bilimsel-devrimlerin-yapisi/"
     },
     {
         "no": 139,
@@ -1545,7 +1565,9 @@
         "description": "Serbest piyasa, iş bölümü ve görünmez el kavramlarını sunan iktisadın kurucu eseri.",
         "pubDate": "1776",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/151-uluslarin-zenginligi/"
     },
     {
         "no": 152,
@@ -1605,7 +1627,9 @@
         "description": "Paranın icadından önce borç ve kredi ilişkilerinin toplumsal yapıyı nasıl şekillendirdiğini gösteren eser.",
         "pubDate": "2011",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/157-borc-ilk-5000-yil/"
     },
     {
         "no": 158,
@@ -1857,7 +1881,9 @@
         "description": "Dil oyunları ve anlamın kullanımda olduğu fikriyle kendi ilk felsefesini yapıçözen şaheser.",
         "pubDate": "1953",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/182-felsefi-sorusturmalar/"
     },
     {
         "no": 183,
@@ -1989,7 +2015,9 @@
         "description": "Görsel medyanın kamusal tartışmaları nasıl eğlenceye dönüştürdüğünü ve bilgiyi değersizleştirdiğini inceleyen klasik.",
         "pubDate": "1985",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/195-televizyon-olduruyor/"
     },
     {
         "no": 196,
@@ -2149,7 +2177,9 @@
         "description": "Fotoğraf çekme eyleminin iktidar, gözetim ve gerçekliği estetikleştirme boyutlarını inceleyen denemeler.",
         "pubDate": "1977",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/211-fotograf-uzerine/"
     },
     {
         "no": 212,
@@ -2201,7 +2231,9 @@
         "description": "'Kadın doğulmaz, kadın olunur' teziyle toplumsal cinsiyet rollerinin inşasını inceleyen feminist klasik.",
         "pubDate": "1949",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/216-ikinci-cins/"
     },
     {
         "no": 217,
@@ -2423,7 +2455,9 @@
         "description": "Modern iktidarın bedenleri terbiye etmek, gözetlemek (panoptikon) ve disipline etmek için kullandığı kurumsal mekanizmaları deşifre eden şaheser.",
         "pubDate": "1975",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/238-hapishanenin-dogusu/"
     },
     {
         "no": 239,
@@ -2485,7 +2519,9 @@
         "description": "Popüler Tarih İnsan türünün bilişsel kurgular yaratarak dünyayı nasıl domine ettiğini anlatan popüler tarih.",
         "pubDate": "2011",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/244-sapiens-hayvanlardan-tanrilara/"
     },
     {
         "no": 245,
@@ -2707,7 +2743,9 @@
         "description": "Üstinsan, bengi dönüş ve güç istenci kavramlarını şiirsel dille sunan felsefi yapıt.",
         "pubDate": "1883",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/266-boyle-buyurdu-zerdust/"
     },
     {
         "no": 267,
@@ -2993,7 +3031,9 @@
         "description": "Sinirbilim, mistik deneyim ve algı kapılarının kimyasal yollarla açılmasının insan bilinci üzerindeki etkilerini inceleyen felsefi deneme.",
         "pubDate": "1954",
         "evre": 10,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/294-algi-kapilari/"
     },
     {
         "no": 295,

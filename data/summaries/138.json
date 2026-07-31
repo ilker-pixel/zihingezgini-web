@@ -1,0 +1,324 @@
+{
+  "bookNo": 138,
+  "title": "Bilimsel Devrimlerin Yapısı",
+  "author": "Thomas S. Kuhn",
+  "subtitle": "Bilimin yalnız gerçeğe eklenen tuğlalardan değil, ortak örnekler altında çözülen bulmacalardan, büyüyen aykırılıklardan ve dünyayı farklı görmeye başlayan topluluklardan ilerlediğini anlatan paradigma rehberi.",
+  "coverImage": "/images/summary-art-138-bilimsel-devrimlerin-yapisi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/138-bilimsel-devrimlerin-yapisi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#5C6250",
+  "meta": {
+    "originalTitle": "The Structure of Scientific Revolutions",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bilimin yalnız gerçeğe eklenen tuğlalardan değil, ortak örnekler altında çözülen bulmacalardan, büyüyen aykırılıklardan ve dünyayı farklı görmeye başlayan topluluklardan ilerlediğini anlatan paradigma rehberi.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "University of Chicago Press - The Structure of Scientific Revolutions",
+      "url": "https://press.uchicago.edu/ucp/books/book/chicago/S/bo13179781.html"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Thomas Kuhn",
+      "url": "https://plato.stanford.edu/entries/thomas-kuhn/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Scientific Change",
+      "url": "https://iep.utm.edu/sci-change/"
+    },
+    {
+      "id": 4,
+      "title": "Encyclopaedia Britannica - Paradigm shift",
+      "url": "https://www.britannica.com/science/paradigm-shift"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Kuhn bilimin akıldışı olduğunu söylemez. Bilim insanlarının hangi soruyu önemli, hangi çözümü kabul edilebilir gördüğünü ortak eğitim ve örneklerin şekillendirdiğini anlatır.",
+        "Paradigma kelimesi kitapta birden çok anlam taşır. Sonraki baskıda Kuhn bunu disipliner matris ve örnek problem çözümleriyle netleştirmeye çalıştı.",
+        "Rehber 'paradigma değişti' sözünü moda sloganından kurtarıp normal bilim, aykırılık, kriz, devrim ve karşılaştırılamazlık zincirine yerleştirecek."
+      ]
+    },
+    {
+      "id": "durak-02-ders-kitabindaki-duz-cizgi",
+      "section": "BİRİNCİ KISIM · NORMAL BİLİM",
+      "title": "Ders kitabındaki düz çizgi",
+      "paragraphs": [
+        "Bilim ders kitapları geçmişi bugünkü doğruya giden düz yol gibi anlatır. Yanlış teoriler kenarda bırakılır, başarılı sonuçlar sanki aynı hedefe yürüyormuş gibi sıralanır.",
+        "Bir şehrin yalnız bugünkü ana caddesini gösterip yıkılan mahalleleri silerseniz geçmiş planlı görünür. Bilim tarihi de kazanan kavramlarla yeniden yazılabilir.",
+        "Kuhn eski bilim insanlarını bugünkü sorulara eksik cevap veren kişiler gibi değil, kendi kavramsal dünyalarında çalışan araştırmacılar olarak okumayı önerir.",
+        "Tarih böyle bakılınca bilgi birikiminin yanında yön değişimleri ve kopuşlar görünür hale gelir."
+      ]
+    },
+    {
+      "id": "durak-03-paradigma-nedir",
+      "section": "BİRİNCİ KISIM · NORMAL BİLİM",
+      "title": "Paradigma nedir?",
+      "paragraphs": [
+        "Paradigma bir alandaki bilim insanlarının paylaştığı büyük teori, yöntem, değer ve örnek çözümler bütünüdür. Neyin problem sayılacağını ve iyi cevabın nasıl görüneceğini belirler.",
+        "Satranç öğrenen çocuk yalnız kuralları değil usta oyunlarını inceleyerek hangi hamlenin anlamlı olduğunu kavrar. Bilim öğrencisi de örnek problemler çözer.",
+        "Newton mekaniği denklem kadar ölçüm alışkanlığı ve kabul edilebilir açıklama biçimi sunar. Aynı veri başka paradigma içinde başka soruya dönüşebilir.",
+        "Paradigma göz bağı değildir; verimli araştırma için ortak zemin sağlar. Her gün temeli tartışmak yerine ayrıntılı bulmacalar çözülür."
+      ]
+    },
+    {
+      "id": "durak-04-normal-bilim-bir-bulmaca-atolyesi",
+      "section": "BİRİNCİ KISIM · NORMAL BİLİM",
+      "title": "Normal bilim bir bulmaca atölyesi",
+      "paragraphs": [
+        "Normal bilim büyük teoriyi her deneyde devirmeye çalışmaz. Paradigmanın doğru çalıştığını varsayıp ölçümleri hassaslaştırır, sabitleri bulur ve yeni alanlara uygular.",
+        "Sudoku çözerken kuralları sorgulamaz, verilen düzen içinde doğru sayıyı ararsınız. Çözüm çıkmazsa önce kendi hatanızdan şüphe edersiniz.",
+        "Bu tutuculuk kötü değildir. Ortak çerçeve olmadan uzun ve ayrıntılı çalışma yapılamaz. Bilimin olağan başarısının büyük kısmı bu sabırlı atölyede doğar.",
+        "Fakat aynı bağlılık aykırılıkları uzun süre küçük teknik sorun olarak görmeye de yol açar."
+      ]
+    },
+    {
+      "id": "durak-05-kuralsiz-ustalik",
+      "section": "BİRİNCİ KISIM · NORMAL BİLİM",
+      "title": "Kuralsız ustalık",
+      "paragraphs": [
+        "Bilim insanları her karar için açık yöntem kitabı kullanmaz. Eğitimde gördükleri örnekler, benzer yeni durumlarda nasıl davranacaklarını öğretir.",
+        "Usta doktor her hastayı tek algoritmayla görmez; yıllar içinde örneklerden oluşan bir sezgi geliştirir. Bu sezgi gizem değil eğitimle biçimlenmiş örüntü tanımadır.",
+        "Kuhn bu yüzden bilimi yalnız mantık kuralları listesine indirgemez. Topluluğun paylaştığı uygulama bilgisi önemlidir.",
+        "Bunun riski dışarıdan eleştirinin zorlaşmasıdır. Ne sayılacağını bilen içeridekiler aynı zamanda kör noktayı paylaşabilir."
+      ]
+    },
+    {
+      "id": "durak-06-aykirilik-cekmeceye-sigmayan-sonuc",
+      "section": "İKİNCİ KISIM · KRİZİN DOĞUŞU",
+      "title": "Aykırılık: Çekmeceye sığmayan sonuç",
+      "paragraphs": [
+        "Deney sonucu paradigmanın beklediği yere oturmadığında aykırılık doğar. İlk tepki teoriyi atmak değil cihazı, hesabı veya özel koşulu kontrol etmektir.",
+        "Terazi bir gün yanlış gösterirse yerçekimi teorisini değiştirmezsiniz; pili ve zemini incelersiniz. Bu makul direnç bilimi her gürültüde savrulmaktan korur.",
+        "Bazı aykırılıklar yıllarca çözülmeden kalabilir. Paradigma başka alanlarda güçlü sonuç veriyorsa topluluk sabreder.",
+        "Aykırılığın önemi yalnız büyüklüğüne değil alanın temel beklentisine dokunup dokunmadığına bağlıdır."
+      ]
+    },
+    {
+      "id": "durak-07-kriz-ne-zaman-baslar",
+      "section": "İKİNCİ KISIM · KRİZİN DOĞUŞU",
+      "title": "Kriz ne zaman başlar?",
+      "paragraphs": [
+        "Temel aykırılıklar çoğalır, çözüm girişimleri dağılır ve genç araştırmacılar alternatif çerçeveler denerse normal güven gevşer. Alanın kuralları yeniden tartışmaya açılır.",
+        "Aynı tamircinin her gün başka parçayı değiştirdiği ama motorun çalışmadığı araçta, sorun tek parça değil model olabilir.",
+        "Kriz sırasında farklı okullar ve felsefi tartışmalar artar. Daha önce sessiz kabul edilen kavramlar görünür hale gelir.",
+        "Yine de kriz otomatik devrim yaratmaz. Eski paradigma açık kusurlarına rağmen rakipsizse yaşamaya devam edebilir."
+      ]
+    },
+    {
+      "id": "durak-08-kopernik-gogu-neden-hareket-ettirdi",
+      "section": "İKİNCİ KISIM · KRİZİN DOĞUŞU",
+      "title": "Kopernik göğü neden hareket ettirdi?",
+      "paragraphs": [
+        "Batlamyus sistemi gezegen konumlarını karmaşık ek dairelerle açıklıyordu. Kopernik Güneş merkezli düzen önerdi, fakat ilk hesapları her bakımdan hemen daha doğru ve kolay değildi.",
+        "Mobilyaları taşımak yerine odanın merkezini değiştirmek gibi, Dünya gözlemci tahtından bir gezegene dönüştü. Aynı gökyüzü yeni ilişkilerle görüldü.",
+        "Kepler'in elipsleri, Galileo'nun gözlemleri ve Newton'un mekaniği yeni sistemin gücünü zamanla büyüttü. Devrim tek gecelik fikir değil kuşaklar süren yeniden kurmadır.",
+        "Kuhn için yeni paradigma yalnız eski veriye başka cevap vermez; hangi verinin önemli olduğunu da değiştirir."
+      ]
+    },
+    {
+      "id": "durak-09-oksijen-mi-filojiston-mu",
+      "section": "İKİNCİ KISIM · KRİZİN DOĞUŞU",
+      "title": "Oksijen mi, filojiston mu?",
+      "paragraphs": [
+        "Yanma eskiden maddeden filojiston adlı ilkenin çıkmasıyla açıklanıyordu. Lavoisier ölçüm ve yeni kavramlarla yanmayı oksijenle birleşme olarak yeniden kurdu.",
+        "Bir muhasebeci eksilen para ararken diğeri ağırlığın arttığını fark eder. Ne ölçtüğünüz, olayın hikayesini değiştirir.",
+        "Yeni dil element, bileşik ve kütle hesabını farklı düzenledi. Eski kelimeleri yeni sözlükte bire bir çevirmek zorlaştı.",
+        "Devrim yalnız yeni madde keşfi değil kimyasal dünyanın sınıflandırılma biçimindeki dönüşümdü."
+      ]
+    },
+    {
+      "id": "durak-10-yeni-paradigma-nasil-secilir",
+      "section": "ÜÇÜNCÜ KISIM · DEVRİM",
+      "title": "Yeni paradigma nasıl seçilir?",
+      "paragraphs": [
+        "Rakip paradigmaları tek bir tarafsız kural hemen sıralamayabilir. Doğruluk, kapsam, sadelik, verimlilik ve yeni problem açma gücü birlikte değerlendirilir.",
+        "İki şehir planından biri bugünkü trafiği iyi çözer, diğeri gelecekte büyümeye alan açar. Hangi değere ne ağırlık verileceği bilim insanları arasında değişebilir.",
+        "Kuhn seçimde ikna, örnek başarı ve topluluk güveninin rolünü vurgular. Bu, kanıtın önemsiz olduğu anlamına gelmez; kanıt değerlerle yorumlanır.",
+        "Yeni paradigma yeterli sayıda araştırmacıya çözebileceği verimli bulmacalar gösterdiğinde devrim kök salar."
+      ]
+    },
+    {
+      "id": "durak-11-dunya-degisti-mi-bakis-mi",
+      "section": "ÜÇÜNCÜ KISIM · DEVRİM",
+      "title": "Dünya değişti mi, bakış mı?",
+      "paragraphs": [
+        "Devrim sonrası bilim insanı aynı laboratuvarda çalışır, fakat nesneleri başka ilişkiler içinde görür. Kuhn bunu ördek-tavşan gibi algı değişimine benzetir.",
+        "Gökyüzündeki parlak nokta bir paradigma içinde gezegen, diğerinde farklı hareket düzeninin üyesidir. Veri tamamen çıplak gelmez.",
+        "Kuhn dış dünyanın zihne göre sihirle değiştiğini söylemez. Gözlem dili, araç ve beklentinin dünyayı nasıl parçaladığını vurgular.",
+        "Bu ifade en çok yanlış anlaşılan yerdir. Bilim insanı keyfine göre gerçeklik yaratmaz; farklı çerçeve aynı direnen dünyayla başka deneyler kurar."
+      ]
+    },
+    {
+      "id": "durak-12-karsilastirilamazlik-ne-demek",
+      "section": "ÜÇÜNCÜ KISIM · DEVRİM",
+      "title": "Karşılaştırılamazlık ne demek?",
+      "paragraphs": [
+        "Rakip paradigmalar bazı temel terimleri farklı anlamda kullanır, farklı sorunları önemli sayar ve farklı ölçüler uygular. Tam ortak cetvel bulmak güçleşir.",
+        "Farklı para birimleri yalnız kurla değil, alınabilen mallarla da değişiyorsa tek sayı karşılaştırmayı bitirmez. Çeviri mümkündür ama kayıpsız olmayabilir.",
+        "Karşılaştırılamazlık iletişimin imkansızlığı veya her görüşün eşitliği değildir. Bilim insanları kanıt sunar, fakat tartışma bütünüyle nötr dilde yapılmaz.",
+        "Kuhn sonraki yazılarında kavramı daha sınırlı, yerel anlam farklılıkları olarak netleştirdi."
+      ]
+    },
+    {
+      "id": "durak-13-bilim-insanlari-neden-direnc-gosterir",
+      "section": "ÜÇÜNCÜ KISIM · DEVRİM",
+      "title": "Bilim insanları neden direnç gösterir?",
+      "paragraphs": [
+        "Eski paradigmaya bağlılık yalnız yaşlıların inadı değildir. Araştırmacı yıllarca araç, dil ve başarı biriktirmiştir; yeni çerçevenin henüz çözemediği sorunları görür.",
+        "Usta haritacıya bütün koordinat sistemini değiştir dediğinizde geçmiş işinin çevrilebilmesi gerekir. Geçiş gerçek maliyet taşır.",
+        "Direnç yeni fikrin ciddi sınanmasını sağlar. Her yenilik alkışlansaydı bilim moda akımlarına dağılırdı.",
+        "Fakat kuşak değişimi bazen dönüşümü hızlandırır; gençler eski yatırımın yükünü daha az taşır ve yeni bulmacalarda yetişir."
+      ]
+    },
+    {
+      "id": "durak-14-ders-kitaplari-devrimi-nasil-gizler",
+      "section": "DÖRDÜNCÜ KISIM · YANLIŞ OKUMALAR",
+      "title": "Ders kitapları devrimi nasıl gizler?",
+      "paragraphs": [
+        "Yeni paradigma yerleşince ders kitapları alanı baştan yazar. Eski bilim insanları bugünkü kavramların erken ve eksik kullanıcıları gibi gösterilir.",
+        "Kazanan takım sezon özetini yalnız golleriyle hazırlarsa tereddütler ve kaybedilen maçlar görünmez. Sonuç kaçınılmaz sanılır.",
+        "Bu yeniden yazım eğitim için verimlidir; öğrenci her tarihsel çıkmazı tekrar yaşamaz. Fakat bilimin insan, tartışmalı ve değişebilir yönünü saklar.",
+        "Kuhn'un kitabı ders kitabının arka odasını açar. Bilim gücünü hatasızlıktan değil hatalarla kurumsal biçimde uğraşabilmesinden alır."
+      ]
+    },
+    {
+      "id": "durak-15-paradigma-her-fikir-degisimi-degildir",
+      "section": "DÖRDÜNCÜ KISIM · YANLIŞ OKUMALAR",
+      "title": "Paradigma her fikir değişimi değildir",
+      "paragraphs": [
+        "Bir şirketin logosunu yenilemesi veya kişinin kahve markasını değiştirmesi paradigma devrimi değildir. Kavram, alanın temel problem, yöntem ve örnek düzeninin dönüşümünü anlatır.",
+        "Moda dilde kelime etkileyici değişimin eş anlamına dönüştü. Bu kullanım kitabın aykırılık, kriz ve topluluk boyutunu siler.",
+        "Gerçek kontrol sorusu şudur: Yeni görüş yalnız cevabı mı değiştirdi, yoksa hangi sorunun anlamlı ve hangi kanıtın geçerli olduğunu da mı?",
+        "Kavramı dar tutmak onun açıklama gücünü korur."
+      ]
+    },
+    {
+      "id": "durak-16-kuhn-relativist-miydi",
+      "section": "DÖRDÜNCÜ KISIM · YANLIŞ OKUMALAR",
+      "title": "Kuhn relativist miydi?",
+      "paragraphs": [
+        "Eleştirmenler paradigmalar arasında tarafsız ölçü yoksa bilimin ilerlemesinin yalnız kalabalık tercihi olacağını söyledi. Kuhn bunu reddetti.",
+        "Yeni teoriler genellikle daha çok ve daha hassas problem çözer. İlerleme vardır; fakat tek, tarihten bağımsız doğruya ne kadar yaklaşıldığını ölçen cetvel yoktur.",
+        "Darwinci benzetmeyle bilimsel gelişim bir hedefe önceden çizilmiş yürüyüşten çok çevrede daha iyi problem çözen dalların seçilmesine benzer.",
+        "Bu yaklaşım gerçekliğin önemsizliği değil, ilerleme dilinin daha alçakgönüllü kurulmasıdır."
+      ]
+    },
+    {
+      "id": "durak-17-devrim-disinda-birikim-yok-mu",
+      "section": "SON DURAKLAR",
+      "title": "Devrim dışında birikim yok mu?",
+      "paragraphs": [
+        "Kuhn'un çarpıcı devrim anlatısı normal bilimin büyük birikimini gölgede bırakabilir. Ölçüm hassasiyeti, araç ve veri kuşaklar boyunca gerçekten birikir.",
+        "Ayrıca bilimler aynı ölçüde paradigma yapısına sahip olmayabilir. Fizik tarihinden çıkarılan model biyoloji, tıp veya sosyal bilimlere aynen uymayabilir.",
+        "Kitap en iyi bütün bilimlerin yasası değil, bilimsel değişimin ihmal edilen topluluk ve tarih boyutunu gösteren güçlü model olarak okunur."
+      ]
+    },
+    {
+      "id": "durak-18-bilim-ve-toplum",
+      "section": "SON DURAKLAR",
+      "title": "Bilim ve toplum",
+      "paragraphs": [
+        "Kuhn topluluğun rolünü gösterdi diye sonuçların siyasi oylamayla belirlendiğini söylemez. Dünya deneyde direnç gösterir, cihazlar sonuç üretir ve tahminler başarısız olabilir.",
+        "Yine de fon, kurum, eğitim ve itibar hangi problemlerin çalışılacağını etkiler. Bilim toplumsal kurumdur; bu onu otomatik olarak güvenilmez yapmaz.",
+        "Daha iyi bilim, bu etkileri gizlemek yerine yöntem, veri ve eleştiri kanallarını görünür kılar."
+      ]
+    },
+    {
+      "id": "durak-19-bir-aykiriligi-nasil-dusunmeli",
+      "section": "SON DURAKLAR",
+      "title": "Bir aykırılığı nasıl düşünmeli?",
+      "paragraphs": [
+        "Beklenmeyen sonuç gördüğünüzde hemen devrim ilan etmeyin. Önce ölçümü, tekrarı ve alternatif açıklamayı kontrol edin. Sonucun paradigmanın temel noktasına dokunup dokunmadığını sorun.",
+        "Aynı zamanda sırf çerçeve başarılı diye aykırılığı sonsuza dek çekmeceye atmayın. Hangi koşulda kriz sayılacağını önceden belirtmek dürüstlüktür.",
+        "Kuhn'un dengesi budur: Bilim hem çerçeveye sadakat hem gerektiğinde çerçeveyi değiştirme kapasitesiyle çalışır."
+      ]
+    },
+    {
+      "id": "durak-20-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Bilim çoğu zaman ortak paradigma içinde bulmaca çözer; temel aykırılıklar krize dönüştüğünde yeni paradigma yalnız cevapları değil, soruları ve dünyayı görme biçimini de değiştirir.",
+        "Akılda kalacak görüntü ördek-tavşandır: Çizgiler aynı kalır, fakat topluluk yeni düzeni gördüğünde eski görüntüye basitçe bir parça eklenmiş olmaz."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-ders-kitabindaki-duz-cizgi": {
+      "image": "/images/summary-art-138-chapter-01-straight-textbook-v1.webp",
+      "imageCaption": "Ders kitabının düz caddesi bugünkü sonuca uymayan eski yolları silerek bilim tarihini olduğundan pürüzsüz gösterebilir."
+    },
+    "durak-03-paradigma-nedir": {
+      "image": "/images/summary-art-138-chapter-02-shared-puzzle-box-v1.webp",
+      "imageCaption": "Paradigma bilim topluluğuna hangi parçaların önemli ve tamamlanmış resmin nasıl olması gerektiğini gösteren ortak kutudur."
+    },
+    "durak-04-normal-bilim-bir-bulmaca-atolyesi": {
+      "image": "/images/summary-art-138-chapter-03-puzzle-workshop-v1.webp",
+      "imageCaption": "Normal bilim ortak kuralları devirmekten çok, onların açtığı ayrıntılı ve zor bulmacaları çözerek ilerler."
+    },
+    "durak-05-kuralsiz-ustalik": {
+      "image": "/images/summary-art-138-chapter-04-apprentice-scientist-v1.webp",
+      "imageCaption": "Bilim çırağı yalnız kural ezberlemez; örnek çözerek topluluğun sessiz problem görme becerisini edinir."
+    },
+    "durak-06-aykirilik-cekmeceye-sigmayan-sonuc": {
+      "image": "/images/summary-art-138-chapter-05-wrong-drawer-v1.webp",
+      "imageCaption": "Beklenmeyen sonuç önce bozuk terazi gibi incelenir; her aykırılık teoriyi hemen devirecek deprem değildir."
+    },
+    "durak-07-kriz-ne-zaman-baslar": {
+      "image": "/images/summary-art-138-chapter-06-failing-engine-v1.webp",
+      "imageCaption": "Tek tek onarımlar temel arızayı çözmeyince araştırmacılar parçadan önce motor modelini tartışmaya başlar."
+    },
+    "durak-08-kopernik-gogu-neden-hareket-ettirdi": {
+      "image": "/images/summary-art-138-chapter-07-moving-center-v1.webp",
+      "imageCaption": "Kopernik aynı gökyüzündeki mobilyaları değil, odanın merkezini değiştirerek Dünya'nın yerini yeniden tanımladı."
+    },
+    "durak-09-oksijen-mi-filojiston-mu": {
+      "image": "/images/summary-art-138-chapter-08-burning-scale-v1.webp",
+      "imageCaption": "Yanma olayı aynı kalırken ölçüm ve kavram düzeni değişti; çıkan öz yerine oksijenle birleşme görüldü."
+    },
+    "durak-10-yeni-paradigma-nasil-secilir": {
+      "image": "/images/summary-art-138-chapter-09-two-city-plans-v1.webp",
+      "imageCaption": "Rakip paradigmalar doğruluk yanında kapsam, sadelik ve gelecekte açtıkları araştırma yollarıyla karşılaştırılır."
+    },
+    "durak-11-dunya-degisti-mi-bakis-mi": {
+      "image": "/images/summary-art-138-chapter-10-duck-rabbit-v1.webp",
+      "imageCaption": "Aynı çizgiler ördek veya tavşan olarak örgütlenebilir; paradigma verinin hangi nesne olarak görüldüğünü etkiler."
+    },
+    "durak-12-karsilastirilamazlik-ne-demek": {
+      "image": "/images/summary-art-138-chapter-11-different-rulers-v1.webp",
+      "imageCaption": "Rakip paradigmalar farklı cetveller kullandığında karşılaştırma sona ermez, fakat tek ölçü bütün farkı kapatmaz."
+    },
+    "durak-13-bilim-insanlari-neden-direnc-gosterir": {
+      "image": "/images/summary-art-138-chapter-12-old-map-new-grid-v1.webp",
+      "imageCaption": "Eski haritada ustalaşmış araştırmacı için yeni koordinat sistemi yalnız fikir değil, bütün mesleki yatırımın dönüşümüdür."
+    },
+    "durak-14-ders-kitaplari-devrimi-nasil-gizler": {
+      "image": "/images/summary-art-138-chapter-13-rewritten-history-v1.webp",
+      "imageCaption": "Yeni ders kitabı zafer yolunu düzleştirirken devrimin tereddütlerini, çıkmazlarını ve alternatiflerini arka odada bırakır."
+    },
+    "durak-15-paradigma-her-fikir-degisimi-degildir": {
+      "image": "/images/summary-art-138-chapter-14-not-every-change-v1.webp",
+      "imageCaption": "Yeni renk veya slogan değil, bir alanın soru ve kanıt düzeninin dönüşmesi paradigma değişimidir."
+    },
+    "durak-16-kuhn-relativist-miydi": {
+      "image": "/images/summary-art-138-chapter-15-branching-progress-v1.webp",
+      "imageCaption": "Bilim önceden çizilmiş tek merdiven yerine daha çok problem çözen dalların seçildiği bir gelişim ağacı olabilir."
+    },
+    "durak-17-devrim-disinda-birikim-yok-mu": {
+      "image": "/images/summary-art-138-chapter-16-revolution-and-accumulation-v1.webp",
+      "imageCaption": "Bilimsel gelişim devrimlerle yön değiştirirken normal bilimin ölçü, araç ve veri birikimini de yanında taşır."
+    }
+  }
+}

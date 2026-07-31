@@ -1,0 +1,335 @@
+{
+  "bookNo": 157,
+  "title": "Borç: İlk 5000 Yıl",
+  "author": "David Graeber",
+  "subtitle": "Paranın takastan doğduğu basit masalı tersine çevirip borcu ahlak, şiddet, devlet, pazar ve insan ilişkilerinin merkezine koyan; tabletlerden kredi kartına uzanan beş bin yıllık kışkırtıcı tarih.",
+  "coverImage": "/images/summary-art-157-borc-ilk-5000-yil-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/157-borc-ilk-5000-yil-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#7B553E",
+  "meta": {
+    "originalTitle": "Debt: The First 5,000 Years",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Paranın takastan doğduğu basit masalı tersine çevirip borcu ahlak, şiddet, devlet, pazar ve insan ilişkilerinin merkezine koyan; tabletlerden kredi kartına uzanan beş bin yıllık kışkırtıcı tarih.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "David Graeber resmi sitesi - Debt",
+      "url": "https://davidgraeber.org/books/debt-the-first-5000-years/"
+    },
+    {
+      "id": 2,
+      "title": "David Graeber - Debt makalesi",
+      "url": "https://davidgraeber.org/articles/debt-the-first-five-thousand-years/"
+    },
+    {
+      "id": 3,
+      "title": "IMF - Paranın tarihi ve kredi tartışması",
+      "url": "https://www.imf.org/external/pubs/ft/fandd/2012/09/basics.htm"
+    },
+    {
+      "id": 4,
+      "title": "Bank of England - Money in the modern economy",
+      "url": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-in-the-modern-economy-an-introduction"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Graeber geniş tarih ve antropolojiyi tek büyük savda birleştirir: Ekonomik borç, ahlaki yükümlülük ve siyasi güç birbirinden ayrı değildir. Kitap kesin kronoloji kadar alışılmış hikayeleri sarsmayı amaçlar.",
+        "Bazı tarihçiler ayrıntılarını ve dönem genellemelerini eleştirmiştir. Rehber ana örüntüyü aktarırken kışkırtıcı iddiayı kanıtlanmış tek yasa gibi sunmayacak.",
+        "Borç alanı suçlamak veya borcu ödememeyi öğütlemek amaç değildir. Hangi borcun meşru, hangi ilişkinin zorla sayıya çevrilmiş olduğunu sormaktır."
+      ]
+    },
+    {
+      "id": "durak-02-takastan-para-dogdu-masali",
+      "section": "BİRİNCİ KISIM · BORCUN AHLAKI",
+      "title": "Takastan para doğdu masalı",
+      "paragraphs": [
+        "Klasik hikayede köylü ayakkabısını verip buğday almak ister, fakat karşı taraf ayakkabı istemez. Takas zorluğu parayı, para da krediyi doğurur.",
+        "Graeber antropologların saf takasla yaşayan toplum örneği bulmadığını vurgular. Köy içinde insanlar 'bugün benden, sonra senden' diye açık hesap yaşar.",
+        "Komşunuzdan iki yumurta alırken her seferinde anında eşdeğer vermezsiniz. İlişki ve hafıza kredi işlevi görür.",
+        "Takas daha çok yabancılar veya para düzeni çöktüğünde görülebilir. Paranın tek köken masalı böylece ters döner."
+      ]
+    },
+    {
+      "id": "durak-03-borc-ile-soz-arasindaki-fark",
+      "section": "BİRİNCİ KISIM · BORCUN AHLAKI",
+      "title": "Borç ile söz arasındaki fark",
+      "paragraphs": [
+        "Her yükümlülük borç değildir. Arkadaşınıza hayatını kurtardığı için borçlu hissedebilirsiniz, fakat bunu kaç lirayla kapatacağınız anlamsızdır.",
+        "Borç, yükümlülüğün sayı ve vade ile ölçülebilir hale gelmesidir. Tam da bu kesinlik ilişkiyi devredilebilir ve zorla tahsil edilebilir yapar.",
+        "Bir iyiliğe teşekkür bağı kurarken, senet alacaklı ile borçluyu eşitsiz konuma koyabilir. Sayı tarafsız görünür ama arkasında hukuk ve güç vardır.",
+        "Graeber ahlak dilindeki borç, suç, günah ve kefaret bağlarını bu dönüşüm üzerinden okur."
+      ]
+    },
+    {
+      "id": "durak-04-borc-mutlaka-odenmeli-mi",
+      "section": "BİRİNCİ KISIM · BORCUN AHLAKI",
+      "title": "Borç mutlaka ödenmeli mi?",
+      "paragraphs": [
+        "'İnsan borcunu ödemeli' güçlü ahlaki cümledir. Fakat bütün borçlar ödense kredi sistemi biter; ayrıca yağmacıya verilen zorunlu söz ile eşit sözleşme aynı değildir.",
+        "Tefeci aç aileye imkansız faizle para vermişse kağıt imzalıdır, fakat ilişkinin adaleti yalnız imzada bitmez.",
+        "Graeber kimin kime ne borçlu olduğunun tarih boyunca iktidarla belirlendiğini gösterir. Devlet borcu siler, köylünün borcunu tahsil edebilir.",
+        "Soru ödeme ahlakını yok etmek değil, borcun hangi koşulda doğduğunu hesaba katmaktır."
+      ]
+    },
+    {
+      "id": "durak-05-insan-ekonomileri",
+      "section": "BİRİNCİ KISIM · BORCUN AHLAKI",
+      "title": "İnsan ekonomileri",
+      "paragraphs": [
+        "Graeber bazı toplumlarda değişimin nesne biriktirmekten çok insan ilişkileri kurduğunu söyler. Evlilik hediyesi kadının fiyatı değil aileler arası bağın işaretidir.",
+        "Düğünde takılan altın daha sonra başka düğünde geri döner. Defter vardır ama amaç kâr değil ilişkilerin devamıdır.",
+        "İnsan hayatı tam eşdeğere çevrilemez. Tazminat kaybı satın almaz; topluluğun sorumluluğunu tanır.",
+        "Para bu alanlara girdiğinde ölçüm kolaylığı, insanı nesne gibi hesaplama tehlikesi taşır."
+      ]
+    },
+    {
+      "id": "durak-06-mezopotamya-nin-kil-tabletleri",
+      "section": "İKİNCİ KISIM · PARA VE ŞİDDET",
+      "title": "Mezopotamya'nın kil tabletleri",
+      "paragraphs": [
+        "İlk yazılı kayıtların önemli kısmı tapınak ve saray hesaplarıdır. Arpa, gümüş ve emek borçları kil tabletlere yazılır. Para madeni sikke olmadan önce hesap birimi olarak yaşar.",
+        "Bakkal defterindeki lira, kasada o anda banknot olmasa da borcu ölçer. Mezopotamya gümüş birimi de çoğu işlemde tartılı metal dolaşmadan hesap görebilir.",
+        "Hasat kötü olduğunda köylü borçlanır, faiz büyür ve aile üyelerini hizmete vermek zorunda kalabilir. Borç toplumsal çözülme yaratır.",
+        "Hükümdarların dönemsel borç afları ekonomiyi ve özgür yurttaş tabanını sıfırlamaya çalışır."
+      ]
+    },
+    {
+      "id": "durak-07-jubile-borcu-sifirlamak",
+      "section": "İKİNCİ KISIM · PARA VE ŞİDDET",
+      "title": "Jübile: Borcu sıfırlamak",
+      "paragraphs": [
+        "Eski Yakın Doğu hükümdarları bazı kişisel borçları siler, borç kölelerini serbest bırakır ve toprağı geri verebilirdi. Amaç yalnız merhamet değil düzenin çökmesini önlemekti.",
+        "Monopoly oyununda bütün arsalar tek kişide toplandığında oyun teknik olarak sürer ama kimse hareket edemez. Tahtayı sıfırlamak oyuncuları geri getirir.",
+        "Modern borç affı aynı koşullara sahip değildir; banka, tasarruf sahibi ve kamu dengeleri vardır. Yine de borcun doğal ve ebedi hak değil siyasi kurum olduğunu gösterir.",
+        "Hangi borcun silineceği her dönemde güç mücadelesidir."
+      ]
+    },
+    {
+      "id": "durak-08-sikke-ile-asker-ayni-yolda",
+      "section": "İKİNCİ KISIM · PARA VE ŞİDDET",
+      "title": "Sikke ile asker aynı yolda",
+      "paragraphs": [
+        "Graeber madeni paranın yayılmasını büyük ordular ve devlet vergileriyle ilişkilendirir. Devlet askere sikke verir, halktan vergiyi aynı sikkeyle ister; halk askere mal satarak sikke edinir.",
+        "Kışlaya yakın pazarda ortak ödeme aracı hızla yerleşir. Vergi, paraya talep yaratır.",
+        "Altın ve gümüş anonimdir; yabancılar arasında kişisel güven olmadan el değiştirir. Savaş ve köle ticareti bu taşınabilir değeri besleyebilir.",
+        "Para yalnız barışçı takas kolaylığı değil, devlet ve şiddet ağının da ürünü olabilir."
+      ]
+    },
+    {
+      "id": "durak-09-kolelik-ve-insanin-fiyati",
+      "section": "İKİNCİ KISIM · PARA VE ŞİDDET",
+      "title": "Kölelik ve insanın fiyatı",
+      "paragraphs": [
+        "Savaş esiri toplumsal bağlarından koparılıp satılabilir nesneye dönüşür. Graeber için kölelik insan ekonomisinin piyasa tarafından parçalanmasının uç örneğidir.",
+        "Bir kişinin adı, ailesi ve sözü silinip yalnız bedeni fiyatlanır. Sayı, şiddetin izini tarafsız işlem gibi gösterebilir.",
+        "Tarih boyunca borç köleliği de aileleri bu sınıra itmiştir. Borçlu kişi sözleşmede insan, tahsilde teminat haline gelir.",
+        "Modern özgür emek kölelikle aynı değildir, fakat insan zamanının fiyatlandırılması tartışmasını miras alır."
+      ]
+    },
+    {
+      "id": "durak-10-siddet-hesabi-neden-basitlestirir",
+      "section": "İKİNCİ KISIM · PARA VE ŞİDDET",
+      "title": "Şiddet hesabı neden basitleştirir?",
+      "paragraphs": [
+        "Eşit olmayan ilişkide ayrıntılı insan bağını görmezden gelmek için zor gerekir. Fatih, aldığı toprağın eski sözlerini tek sayı ve vergi tablosuna çevirebilir.",
+        "Bir mahalleyi haritada boş arsa gibi boyamak, orada yaşayanların hikayesini siler. Cetvel kolaylaşır çünkü itiraz bastırılmıştır.",
+        "Graeber piyasanın her zaman şiddet olduğunu söylemez. Tam ölçülebilir, kişisiz değişimin tarihsel olarak zorla açılmış alanlarda büyüyebildiğini gösterir.",
+        "Ekonomik sayının arkasındaki toplumsal kopuşu sormak kitabın temel alışkanlığıdır."
+      ]
+    },
+    {
+      "id": "durak-11-ortacagda-kredi-dunyasi",
+      "section": "ÜÇÜNCÜ KISIM · BEŞ BİN YILLIK SALINIM",
+      "title": "Ortaçağda kredi dünyası",
+      "paragraphs": [
+        "Büyük imparatorlukların çözülmesiyle sikke dolaşımı bazı yerlerde azalır, yerel kredi ve güven ağları öne çıkar. Para yok olmaz; hesap olarak yaşamaya devam eder.",
+        "Pazar esnafı birbirine gün sonunda metal ödemek yerine borçları karşılıklı mahsup edebilir. Para çantadan çok defterde dolaşır.",
+        "Dini gelenekler faiz, tefecilik ve adil fiyat üzerine kurallar geliştirir. Ekonomi ahlaktan ayrı alan sayılmaz.",
+        "Graeber tarih ritmini sikke dönemleri ile kredi dönemlerinin salınımı olarak anlatır; gerçek coğrafya bundan daha çeşitli olabilir."
+      ]
+    },
+    {
+      "id": "durak-12-din-gunah-ve-kefaret-dili",
+      "section": "ÜÇÜNCÜ KISIM · BEŞ BİN YILLIK SALINIM",
+      "title": "Din, günah ve kefaret dili",
+      "paragraphs": [
+        "Birçok dilde borç ile suç veya günah arasında yakınlık vardır. İnsan Tanrı'ya, atalara veya topluma ödenemez borç taşıdığı hissiyle yaşar.",
+        "Hayat armağansa bedeli nedir? Ödenemeyen borç suçluluk üretebilir; ritüel, kurban veya bağış hesabı kapatma yolu sunar.",
+        "Graeber dini yalnız ekonomi kopyası saymaz. Karşılıklı olarak borç dili ahlakı, ahlak dili ekonomik yükümlülüğü biçimlendirir.",
+        "Modern 'başarısız borçlu' utancı da mali durumu kişisel değer hükmüne çevirebilir."
+      ]
+    },
+    {
+      "id": "durak-13-kapitalist-kredi-makinesi",
+      "section": "ÜÇÜNCÜ KISIM · BEŞ BİN YILLIK SALINIM",
+      "title": "Kapitalist kredi makinesi",
+      "paragraphs": [
+        "Modern banka kredisi gelecekteki emeği bugünkü paraya çevirir. Şirket ve devlet borçlanarak yatırım yapar; büyüme gelecekteki gelirin borcu karşılayacağı beklentisine dayanır.",
+        "Henüz yapılmamış ev için kredi açılır, inşaat başlar ve yıllar sürecek çalışma bugünün duvarına dönüşür.",
+        "Kredi üretken kapasite açabilir, aynı zamanda geleceği alacaklıya bağlar. Büyüme durduğunda borç yükü sertleşir.",
+        "Para yalnız mevcut zenginliğin jetonu değil, geleceğe ilişkin toplumsal sözleşmedir."
+      ]
+    },
+    {
+      "id": "durak-14-devlet-borcu-ve-ozel-borc",
+      "section": "ÜÇÜNCÜ KISIM · BEŞ BİN YILLIK SALINIM",
+      "title": "Devlet borcu ve özel borç",
+      "paragraphs": [
+        "Büyük devlet ve şirket borçları yeniden yapılandırılabilirken küçük borçluya ahlaki sorumluluk hatırlatılır. Graeber bu çifte standardı sorgular.",
+        "Banka batınca sistemik risk, aile batınca kişisel hata denmesi gücün ahlak dilini nasıl dağıttığını gösterir.",
+        "Her kurtarma haksız, her tahsil yanlış değildir. Fakat kuralın kim için esnediği meşruiyetin merkezindedir.",
+        "Borç ahlakını eşit uygulamak, alacaklının risk ve sorumluluğunu da hesaba katmayı gerektirir."
+      ]
+    },
+    {
+      "id": "durak-15-1971-sonrasi-isaret-para",
+      "section": "DÖRDÜNCÜ KISIM · BUGÜN",
+      "title": "1971 sonrası işaret para",
+      "paragraphs": [
+        "Doların altınla resmi bağı kesildiğinde dünya parası daha açık biçimde devlet ve kredi güvenine dayandı. Graeber bunu yeni bir sanal para döneminin işareti sayar.",
+        "Bankadaki bakiye kasada adınıza ayrılmış banknot destesi değildir. Banka kredisi verildiğinde yeni mevduat yaratabilir; para büyük ölçüde hesap kaydıdır.",
+        "Sanal olması gerçek olmadığı anlamına gelmez. Vergi, hukuk ve üretim ağı işarete güç verir.",
+        "Dijital ödeme eski kil tabletin uzak akrabasıdır: Toplumsal borç ortak defterde yaşar."
+      ]
+    },
+    {
+      "id": "durak-16-kredi-kartindaki-gorunmez-iliski",
+      "section": "DÖRDÜNCÜ KISIM · BUGÜN",
+      "title": "Kredi kartındaki görünmez ilişki",
+      "paragraphs": [
+        "Kartla tek dokunuş alışverişi zahmetsiz gösterir. Arka planda banka, işyeri, ağ şirketi, faiz, ücret ve risk puanı çalışır.",
+        "Nakit acısı görünmeyince gelecek gelir kolay harcanır. Tasarım ekonomik olduğu kadar psikolojiktir.",
+        "Borçlu yalnız para almaz; davranışı ölçülür, sınıflandırılır ve gelecekteki erişimi belirlenir. Kredi skoru yeni itibar defteridir.",
+        "Graeber'in yöntemi kartı şeytanlaştırmak değil, kolay yüzeyin altındaki kurum ve güç ilişkisini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-17-borc-affi-adil-midir",
+      "section": "DÖRDÜNCÜ KISIM · BUGÜN",
+      "title": "Borç affı adil midir?",
+      "paragraphs": [
+        "Af borçluyu rahatlatır, fakat düzenli ödeyenin veya küçük tasarruf sahibinin hakkı ne olacak? Modern toplumda sonuçlar eski jübileden daha karmaşıktır.",
+        "Öte yandan ödenemeyeceği baştan belli borcu sürdürmek üretimi, aileyi ve toplumsal katılımı kilitleyebilir. İflas hukuku bu yüzden ekonomik sıfırlama sağlar.",
+        "Adil çözüm borcun kaynağını, alacaklının riskini, kamusal maliyeti ve gelecekte aynı sorunu önleyecek kuralları birlikte tartar.",
+        "Graeber kesin teknik plan yerine ahlaki hayal gücünü açar: Bütün alacaklar insan hayatından daha kutsal değildir."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-elestirilen-yerleri",
+      "section": "SON DURAKLAR",
+      "title": "Kitabın eleştirilen yerleri",
+      "paragraphs": [
+        "Graeber beş bin yılı tek ciltte dolaşırken dönemler ve coğrafyalar arasında büyük sıçramalar yapar. Bazı uzmanlar kaynak kullanımını, borç-sikke salınımını ve takas anlatısının hedefini fazla genelleyici bulur.",
+        "Antropolojik örnekler ekonomik bütünlüğü temsil etmeyebilir; modern iktisat da paranın tek çizgili takas kökenini bütünüyle savunmaz.",
+        "Yine de kitap güçlü bir düzeltme yapar: Parayı toplum dışı doğal nesne değil tarihsel kurum olarak görür."
+      ]
+    },
+    {
+      "id": "durak-19-borc-ile-ahlaki-ayirmadan-dusunmek",
+      "section": "SON DURAKLAR",
+      "title": "Borç ile ahlakı ayırmadan düşünmek",
+      "paragraphs": [
+        "Bir borcu değerlendirirken yalnız miktarı değil rızayı, bilgi eşitliğini, faizi, riski ve zorunluluğu sorun. Alacaklı hangi kaybı üstlenmiş, hangi güvenceden yararlanmış?",
+        "Aynı zamanda söz vermenin güven için değerini koruyun. Bütün borcu zulüm saymak işbirliğinin zaman köprüsünü yıkar.",
+        "Denge, sözü ciddiye alırken insanı rakama indirgememektir."
+      ]
+    },
+    {
+      "id": "durak-20-evinizdeki-uc-borc",
+      "section": "SON DURAKLAR",
+      "title": "Evinizdeki üç borç",
+      "paragraphs": [
+        "Parasal borcu, ilişki borcunu ve toplumsal borcu ayrı yazın. Bankaya taksit, dosta iyilik, önceki kuşağın kurduğu altyapı aynı kelimeyi taşısa da aynı biçimde ödenmez.",
+        "Hangisi sayıyla kapanır, hangisi karşılıklılık ister, hangisi sonraki kişiye aktaracağınız sorumluluktur?",
+        "Bu ayrım suçluluk sisini dağıtır ve gerçek yükümlülüğü daha dürüst kılar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Borç paradan önce gelen insan yükümlülüğünün sayı ve vadeye çevrilmiş halidir; bu yüzden her borç sözleşmesinin arkasında ahlak, devlet, şiddet ve kimin hesabının silinebileceği sorusu vardır.",
+        "Akılda kalacak görüntü kil tablet ile kredi kartıdır: Teknoloji değişir, fakat ortak defterin kurallarını kimin yazdığı belirleyici kalır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-takastan-para-dogdu-masali": {
+      "image": "/images/summary-art-157-chapter-01-barter-myth-v1.webp",
+      "imageCaption": "Yakın toplulukta değişim anlık takastan çok hafıza ve gelecekte karşılık beklentisi taşıyan açık hesap olabilir."
+    },
+    "durak-03-borc-ile-soz-arasindaki-fark": {
+      "image": "/images/summary-art-157-chapter-02-promise-ledger-v1.webp",
+      "imageCaption": "Açık uçlu insan yükümlülüğü sayı ve vadeye çevrilince devredilebilen, tahsil edilebilen borca dönüşür."
+    },
+    "durak-04-borc-mutlaka-odenmeli-mi": {
+      "image": "/images/summary-art-157-chapter-03-unequal-contract-v1.webp",
+      "imageCaption": "İmzalı sözleşme borcu ölçer, fakat açlık ve güç eşitsizliği altında doğan ilişkinin adaletini tek başına kanıtlamaz."
+    },
+    "durak-05-insan-ekonomileri": {
+      "image": "/images/summary-art-157-chapter-04-wedding-gifts-v1.webp",
+      "imageCaption": "Düğün hediyesi mal alışverişinden çok aileler arasında zaman içinde dolaşan ilişki ve sorumluluk işaretidir."
+    },
+    "durak-06-mezopotamya-nin-kil-tabletleri": {
+      "image": "/images/summary-art-157-chapter-05-clay-tablet-v1.webp",
+      "imageCaption": "Kil tablet para sikkesinden önce arpa, gümüş ve emek borçlarını ortak hesap diliyle kaydetti."
+    },
+    "durak-07-jubile-borcu-sifirlamak": {
+      "image": "/images/summary-art-157-chapter-06-debt-jubilee-v1.webp",
+      "imageCaption": "Borç affı yalnız iyilik değil, toplumun bütün toprağının ve emeğinin alacaklılarda kilitlenmesini önleyen sıfırlama olabilir."
+    },
+    "durak-08-sikke-ile-asker-ayni-yolda": {
+      "image": "/images/summary-art-157-chapter-07-coin-and-soldier-v1.webp",
+      "imageCaption": "Devlet askere sikke verip vergiyi sikkeyle isteyince kışla çevresinde para kullanan pazar kendiliğinden büyür."
+    },
+    "durak-09-kolelik-ve-insanin-fiyati": {
+      "image": "/images/summary-art-157-chapter-08-broken-name-v1.webp",
+      "imageCaption": "Kölelik insanı aile ve toplum bağlarından koparıp adı yerine fiyatı olan taşınabilir nesneye çevirir."
+    },
+    "durak-10-siddet-hesabi-neden-basitlestirir": {
+      "image": "/images/summary-art-157-chapter-09-violent-ledger-v1.webp",
+      "imageCaption": "Şiddet karmaşık insan bağlarını susturduğunda toprak ve emek kolayca tek sütunlu hesap tablosuna dönüşür."
+    },
+    "durak-11-ortacagda-kredi-dunyasi": {
+      "image": "/images/summary-art-157-chapter-10-credit-market-v1.webp",
+      "imageCaption": "Metal para azalsa bile esnafın karşılıklı defteri ve güveni değişimi sürdüren kredi parası yaratabilir."
+    },
+    "durak-12-din-gunah-ve-kefaret-dili": {
+      "image": "/images/summary-art-157-chapter-11-moral-debt-v1.webp",
+      "imageCaption": "Ödenemeyen manevi borç fikri ekonomik yükümlülüğü suç, günah ve kefaret diliyle birbirine bağlar."
+    },
+    "durak-13-kapitalist-kredi-makinesi": {
+      "image": "/images/summary-art-157-chapter-12-future-mortgage-v1.webp",
+      "imageCaption": "Kredi henüz kazanılmamış gelecekteki emeği bugünün evine, fabrikasına veya devlet harcamasına çevirir."
+    },
+    "durak-14-devlet-borcu-ve-ozel-borc": {
+      "image": "/images/summary-art-157-chapter-13-double-standard-v1.webp",
+      "imageCaption": "Büyük borçluya sistem, küçüğe ahlak dersi verilmesi borç kurallarının güçle birlikte esnediğini gösterir."
+    },
+    "durak-15-1971-sonrasi-isaret-para": {
+      "image": "/images/summary-art-157-chapter-14-digital-tablet-v1.webp",
+      "imageCaption": "Kil tablet ile banka ekranı farklı teknolojiler olsa da para çoğu zaman ortak defterdeki toplumsal alacak kaydıdır."
+    },
+    "durak-16-kredi-kartindaki-gorunmez-iliski": {
+      "image": "/images/summary-art-157-chapter-15-credit-card-network-v1.webp",
+      "imageCaption": "Kartın tek dokunuşunun altında faiz, veri, puanlama ve gelecekteki emek hakkında geniş bir ilişki ağı çalışır."
+    },
+    "durak-17-borc-affi-adil-midir": {
+      "image": "/images/summary-art-157-chapter-16-debt-reset-scale-v1.webp",
+      "imageCaption": "Borç affı borçlu, alacaklı ve toplumun geleceğini aynı terazide tartmayı gerektiren siyasi bir sıfırlamadır."
+    }
+  }
+}

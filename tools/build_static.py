@@ -535,10 +535,10 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
         image = ""
         if chapter_image:
             image_class = " chapter-artwork" if has_chapter_artwork else ""
+            visible_caption = "" if has_chapter_artwork else f"\n              <figcaption>{html.escape(chapter_image_caption)}</figcaption>"
             image = f"""
             <figure class="reader-chapter-img-box{image_class}">
-              <img src="{html.escape(chapter_image, quote=True)}" class="reader-chapter-img" loading="lazy" alt="{html.escape(chapter_image_caption)}">
-              <figcaption>{html.escape(chapter_image_caption)}</figcaption>
+              <img src="{html.escape(chapter_image, quote=True)}" class="reader-chapter-img" loading="lazy" alt="{html.escape(chapter_image_caption)}">{visible_caption}
             </figure>"""
         takeaway = ""
         if chapter.get("takeaway") and not has_chapter_artwork:

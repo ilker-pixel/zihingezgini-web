@@ -1,0 +1,335 @@
+{
+  "bookNo": 195,
+  "title": "Televizyon Öldürüyor",
+  "author": "Neil Postman",
+  "subtitle": "Bir toplumun ne konuştuğunu yalnız sansürün değil konuştuğu aracın biçimlendirdiğini; siyaset, haber, din ve eğitimin televizyon ekranında neden gösteriye dönüştüğünü anlatan medya eleştirisini telefon çağına taşıyan rehber.",
+  "coverImage": "/images/summary-art-195-televizyon-olduruyor-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/195-televizyon-olduruyor-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6C4D48",
+  "meta": {
+    "originalTitle": "Amusing Ourselves to Death",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir toplumun ne konuştuğunu yalnız sansürün değil konuştuğu aracın biçimlendirdiğini; siyaset, haber, din ve eğitimin televizyon ekranında neden gösteriye dönüştüğünü anlatan medya eleştirisini telefon çağına taşıyan rehber.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Penguin Random House - Amusing Ourselves to Death",
+      "url": "https://www.penguinrandomhouse.com/books/297276/amusing-ourselves-to-death-by-neil-postman/"
+    },
+    {
+      "id": 2,
+      "title": "Neil Postman resmi arşivi",
+      "url": "https://neilpostman.org/"
+    },
+    {
+      "id": 3,
+      "title": "Library of Congress - Televizyon ve kamusal söylem",
+      "url": "https://www.loc.gov/programs/national-film-preservation-board/resources/television/"
+    },
+    {
+      "id": 4,
+      "title": "Pew Research Center - Haber tüketimi",
+      "url": "https://www.pewresearch.org/topic/news-habits-media/news-platforms-sources/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Türkçe başlık serttir; özgün başlık 'Kendimizi Ölesiye Eğlendirmek' anlamına gelir. Postman televizyonun insan öldürdüğünü değil kamusal düşünceyi eğlence biçimine çevirdiğini savunur.",
+        "Kitap 1985 ABD televizyonuna bakar. İnternet ve sosyal medya yoktur, fakat araç biçiminin düşünceyi nasıl yönlendirdiği sorusu daha da günceldir.",
+        "Rehber ekranı şeytanlaştırmayacak; Postman'ın güçlü sezgisini veri, erişim ve yeni medya farklarıyla sınayacak."
+      ]
+    },
+    {
+      "id": "durak-02-orwell-mi-huxley-mi",
+      "section": "BİRİNCİ KISIM · ARAÇ DÜŞÜNCEYİ BİÇİMLENDİRİR",
+      "title": "Orwell mi Huxley mi?",
+      "paragraphs": [
+        "Orwell gerçeğin yasaklandığı, kitapların yakıldığı ve insanların acıyla yönetildiği dünyadan korkuyordu. Huxley ise gerçeğin ilgisizlikte boğulduğu, kimsenin kitap okumak istemediği haz toplumunu hayal etti.",
+        "Postman Amerika'nın Huxley'e yaklaştığını söyler. Sansürcü kapıyı kilitlemeden de sürekli eğlence ciddi düşünceyi masadan kaldırabilir.",
+        "Kütüphane açıkken kimse uzun metne dikkat veremiyorsa özgür erişim tek başına yetmez. Dikkat kamusal kaynaktır.",
+        "Kitabın alarmı budur: Bizi baskılayan şeye direnebiliriz; sevdiğimiz oyalanmanın yönetimini fark etmek daha zordur."
+      ]
+    },
+    {
+      "id": "durak-03-arac-yalniz-boru-degildir",
+      "section": "BİRİNCİ KISIM · ARAÇ DÜŞÜNCEYİ BİÇİMLENDİRİR",
+      "title": "Araç yalnız boru değildir",
+      "paragraphs": [
+        "Bir iletişim aracı aynı mesajı nötr biçimde taşımaz. Dumanla felsefe kitabı anlatamaz, televizyonda sessiz uzun kanıt izleyici kaybedebilir.",
+        "Şişe suyun tadını, miktarını ve içme hızını etkiler. Medya da hangi içeriğin kolay üretileceğini ve inanılır görüneceğini biçimlendirir.",
+        "Postman bunu medya metaforu olarak düşünür: Saat zamanı, yazı hakikati, televizyon kamusal görünürlüğü başka ölçülere bağlar.",
+        "Bu teknolojik kader değildir; insanlar aracı düzenleyebilir. Fakat biçimin eğilimini görmeden içerik düzeltmek eksik kalır."
+      ]
+    },
+    {
+      "id": "durak-04-tipografinin-agir-zamani",
+      "section": "BİRİNCİ KISIM · ARAÇ DÜŞÜNCEYİ BİÇİMLENDİRİR",
+      "title": "Tipografinin ağır zamanı",
+      "paragraphs": [
+        "Basılı kültür uzun cümle, sırayla ilerleyen kanıt ve okuyucunun geri dönmesine imkan verir. On dokuzuncu yüzyıl dinleyicileri saatler süren siyasi tartışmaları takip edebiliyordu.",
+        "Kitap masada bekler; okur durur, not alır ve önceki sayfaya döner. Tempo okurun kısmen kontrolündedir.",
+        "Postman bu dönemi romantikleştirir. Okuryazarlık eşit dağılmamış, gazeteler her zaman ciddi olmamıştır. Yine de baskının akıl yürütmeye elverişli yönünü gösterir.",
+        "Araç belirli zihin alışkanlığını teşvik eder: Sabır, bağlantı ve çelişki takibi."
+      ]
+    },
+    {
+      "id": "durak-05-telgraf-baglami-kopariyor",
+      "section": "BİRİNCİ KISIM · ARAÇ DÜŞÜNCEYİ BİÇİMLENDİRİR",
+      "title": "Telgraf bağlamı koparıyor",
+      "paragraphs": [
+        "Telgraf uzak bilgiyi hızla taşır, fakat çoğu haber alıcının eylemiyle bağlantısızdır. Bugün öğrenilen olay yarın yenisiyle yer değiştirir.",
+        "Bin kilometre ötede küçük bir skandalı anında bilirsiniz, yan sokaktaki kararı kaçırırsınız. Bilgi miktarı artarken kullanım bağı azalır.",
+        "Fotoğraf olayı kanıttan çok çarpıcı görüntüye bağlar. Telgrafın hızına fotoğrafın etkisi eklenince televizyonun zemini oluşur.",
+        "Postman için sorun uzak bilgiden haberdar olmak değil, bağlamsız parçaların bilgi sanılmasıdır."
+      ]
+    },
+    {
+      "id": "durak-06-simdi-bunu-birakip-otekine-geciyoruz",
+      "section": "İKİNCİ KISIM · HER ŞEY GÖSTERİ",
+      "title": "Şimdi bunu bırakıp ötekine geçiyoruz",
+      "paragraphs": [
+        "Televizyon haberinde savaş görüntüsünden reklama, cinayetten hava durumuna aynı sunucu tonu ve kısa geçişle gidilir. Olayların ağırlığı ortak akışta düzleşir.",
+        "Bir cenaze konuşmasının ortasında deterjan şarkısı çalmak uygunsuz olurdu. Ekran akışı bu uyumsuzluğu normalleştirir.",
+        "İzleyicinin önceki haberi düşünmesi için sessizlik yoktur. Yeni görüntü eskisini kovar; tepki duygu düzeyinde kalır.",
+        "Postman'ın ünlü 'şimdi bunu' eleştirisi parçalanmış dikkat ve bağlamsızlığın dilidir."
+      ]
+    },
+    {
+      "id": "durak-07-haber-neden-yuz-ister",
+      "section": "İKİNCİ KISIM · HER ŞEY GÖSTERİ",
+      "title": "Haber neden yüz ister?",
+      "paragraphs": [
+        "Televizyonda haber sunucusunun görünüşü, sesi ve güven veren kişiliği içeriğin kanıtı kadar önem kazanır. Hakikat iyi performansla karışır.",
+        "Doktor rolündeki oyuncu ekranda sakin görünür diye tıbbi iddiası doğru olmaz. Fakat görüntü sözden önce duygusal güven üretir.",
+        "Kısa süre ve reklam arası karmaşık belirsizliği taşımaz. Kesin cümle ile çarpıcı görüntü ödüllenir.",
+        "Postman haberi gereksiz saymaz; televizyon biçiminin hangi haber türünü seçtiğini sorgular."
+      ]
+    },
+    {
+      "id": "durak-08-siyaset-otuz-saniyeye-sigarsa",
+      "section": "İKİNCİ KISIM · HER ŞEY GÖSTERİ",
+      "title": "Siyaset otuz saniyeye sığarsa",
+      "paragraphs": [
+        "Televizyon reklamı adayın programını değil akılda kalıcı imgesini satar. Seçmen yurttaştan izleyiciye, tartışma marka yarışına dönüşebilir.",
+        "Bir vergi planını otuz saniyede anlatmak zordur; rakibin kötü fotoğrafını göstermek kolaydır. Araç kolay olanı seçime taşır.",
+        "Görüntü politikada her zaman vardı, fakat televizyon sürekli performansı merkezi hale getirir. Adayın saç kesimi bütçe hesabıyla aynı ekranda yarışır.",
+        "Demokrasi bilgi kadar dikkat süresi ve tartışma biçimine dayanır."
+      ]
+    },
+    {
+      "id": "durak-09-din-gosteriye-donusunce",
+      "section": "İKİNCİ KISIM · HER ŞEY GÖSTERİ",
+      "title": "Din gösteriye dönüşünce",
+      "paragraphs": [
+        "Dini törenin kutsallığı mekan, cemaat, sessizlik ve gelenekle kurulur. Televizyon vaizi aynı ekranı komedi ve reklamla paylaşınca biçim değişir.",
+        "İzleyici kanalı tek tuşla değiştirebilir; vaaz dikkati tutmak için sahne performansına yaklaşır. Kutsal deneyim tüketici seçimine girer.",
+        "Postman inancı değil televizyon ortamının onu nasıl yeniden biçimlendirdiğini eleştirir.",
+        "Aynı soru eğitim ve kültür için de geçerlidir: Görünür olmak uğruna araç neyi feda ettiriyor?"
+      ]
+    },
+    {
+      "id": "durak-10-egitim-eglence-olmak-zorunda-mi",
+      "section": "ÜÇÜNCÜ KISIM · EKRANDAN TELEFONA",
+      "title": "Eğitim eğlence olmak zorunda mı?",
+      "paragraphs": [
+        "Televizyon öğretimi çocuğa ön koşul, çaba ve devam gerektirmeyen ders sunabilir. Her bölüm kendi başına anlaşılır, kafa karışıklığı ve sınav yoktur.",
+        "Gerçek öğrenme bazen sıkılma, tekrar ve yanlış yapma ister. Her dakika eğlence beklentisi zor konuyla kalma kasını zayıflatabilir.",
+        "Görsel anlatım güçlü öğretim aracı olabilir; tehlike eğitim değerini yalnız izlenme zevkiyle ölçmektir.",
+        "İyi ders merak uyandırır ama öğrenciyi yalnız müşteri memnuniyetine indirgemez."
+      ]
+    },
+    {
+      "id": "durak-11-televizyon-bizi-aptal-mi-yapar",
+      "section": "ÜÇÜNCÜ KISIM · EKRANDAN TELEFONA",
+      "title": "Televizyon bizi aptal mı yapar?",
+      "paragraphs": [
+        "Postman bireysel zekaya hakaret etmez. En zeki kişi bile ortamın hız, görüntü ve eğlence beklentisine göre konuşmak zorunda kalabilir.",
+        "Bir profesörün beş saniyelik cevap vermesi istenirse konu basitleşir; sorun profesörün kapasitesi değil kabın hacmidir.",
+        "İzleyici de ekran dışında uzun kitap okuyabilir. Araç tek başına kader değildir.",
+        "Eleştiri toplumsal ölçektedir: Kamusal kurumlar aynı biçime uyduğunda hangi düşünceler sistemli olarak görünmez olur?"
+      ]
+    },
+    {
+      "id": "durak-12-telefon-ekraninda-simdi-bunu",
+      "section": "ÜÇÜNCÜ KISIM · EKRANDAN TELEFONA",
+      "title": "Telefon ekranında 'şimdi bunu'",
+      "paragraphs": [
+        "Sosyal medya Postman'ın parçalı akışını kişiselleştirir. Savaş, kedi videosu, reklam ve arkadaş fotoğrafı aynı başparmak hareketinde birbirini izler.",
+        "Televizyon programını yapımcı seçerken algoritma sizin durma ve öfkelenme davranışınızı ölçer. Eğlence artık geri bildirimli dikkat makinesidir.",
+        "Kullanıcı yalnız pasif izleyici değildir; üretir, yorumlar ve örgütlenir. Bu yeni imkan Postman'ın tek yönlü ekran modelini aşar.",
+        "Yine de biçim sorusu kalır: Hangi içerik paylaşılmaya, hangisi yavaşça unutulmaya daha yatkın?"
+      ]
+    },
+    {
+      "id": "durak-13-algoritma-neyi-odullendirir",
+      "section": "ÜÇÜNCÜ KISIM · EKRANDAN TELEFONA",
+      "title": "Algoritma neyi ödüllendirir?",
+      "paragraphs": [
+        "Platformun geliri ekranda geçirilen zamana bağlıysa sakin ve tamamlanmış bilgi yerine öfke, korku ve merak boşluğu avantaj kazanabilir.",
+        "Pazarda en yüksek sesli satıcı sürekli öne alınırsa kaliteli ama sessiz ürün görünmez kalır. Algoritma kamusal meydanın yer dağıtıcısıdır.",
+        "Bu dağıtım tarafsız matematik değildir; şirket amacı ve kullanıcı davranışı koda dönüşür.",
+        "Medya okuryazarlığı yalnız yalanı tanımak değil görünürlüğün ekonomik teşvikini anlamaktır."
+      ]
+    },
+    {
+      "id": "durak-14-goruntu-her-zaman-yuzeysel-degildir",
+      "section": "ÜÇÜNCÜ KISIM · EKRANDAN TELEFONA",
+      "title": "Görüntü her zaman yüzeysel değildir",
+      "paragraphs": [
+        "Belgesel, canlı tanıklık ve görsel açıklama yazının veremediği deneyim sunabilir. Ay'a iniş veya savaş görüntüsü ortak hafızayı değiştirmiştir.",
+        "Sorun görüntünün varlığı değil, görüntünün kanıt ve bağlamın yerine geçirilmesidir. İyi görsel düşünceyi açar, kötü kullanım düşünceyi kapatır.",
+        "Postman baskıya duyduğu sevgiyle televizyonun yaratıcı imkanlarını küçümseyebilir. Her araç içinde karşı biçimler üretilebilir.",
+        "Eleştirel izleyici görüntüden kaçmaz; arkasındaki tarih, seçim ve montajı sorar."
+      ]
+    },
+    {
+      "id": "durak-15-cozum-televizyonu-kapatmak-mi",
+      "section": "DÖRDÜNCÜ KISIM · DİKKATİ GERİ ALMAK",
+      "title": "Çözüm televizyonu kapatmak mı?",
+      "paragraphs": [
+        "Postman kolay teknik çözüm sunmaz. Sorun tek cihaz değil toplumun hakikati eğlence ölçüsüyle değerlendirmesidir.",
+        "Bir akşam ekranı kapatmak dikkati dinlendirir, fakat siyaset ve eğitimin gösteri düzenini değiştirmez. Kurumların biçim tasarımı gerekir.",
+        "Uzun söyleşi, reklamsız kamusal yayın, şeffaf algoritma ve medya eğitimi araç içinde başka alışkanlıklar kurabilir.",
+        "İlk adım ortamı görünür kılmaktır. Suyun içindeki balık gibi, medya biçimini fark etmeden seçtiğimizi sanırız."
+      ]
+    },
+    {
+      "id": "durak-16-haber-diyeti-degil-haber-mutfagi",
+      "section": "DÖRDÜNCÜ KISIM · DİKKATİ GERİ ALMAK",
+      "title": "Haber diyeti değil haber mutfağı",
+      "paragraphs": [
+        "Yalnız daha az haber tüketmek değil, haberin nasıl üretildiğini bilmek gerekir. Kaynak, bağlam, düzeltme ve çıkar zincirini görünür yapan yayın seçin.",
+        "Atıştırmalık akış yerine belirli saatte birkaç uzun analiz okumak, parçaları aynı masada birleştirir.",
+        "Her haber için 'Bu bilgiyle ne yapabilirim, hangi geçmişi bilmem gerekiyor?' sorusu bağlamı geri getirir.",
+        "Amaç dünyadan kaçmak değil bilgi ile eylem arasında tekrar köprü kurmaktır."
+      ]
+    },
+    {
+      "id": "durak-17-ekran-tasariminda-surtunme",
+      "section": "DÖRDÜNCÜ KISIM · DİKKATİ GERİ ALMAK",
+      "title": "Ekran tasarımında sürtünme",
+      "paragraphs": [
+        "Otomatik oynatma ve sonsuz kaydırma durmayı zorlaştırır. Bilinçli sürtünme, bölüm sonunda kapanma, bildirim sınırı ve okuma listesi seçimi geri verebilir.",
+        "Markette kasaya şeker koymak davranışı yönlendirir; telefonda varsayılan ayar da öyledir. Kişisel irade tasarımdan bağımsız değildir.",
+        "Kurumlar kullanıcıya zaman raporu, kronolojik akış ve veri seçeneği sunabilir. Tasarımın ahlaki sorumluluğu vardır.",
+        "Dikkati korumak yalnız bireyin disiplin ödevi değil kamusal düzenleme sorusudur."
+      ]
+    },
+    {
+      "id": "durak-18-postman-in-nostaljisi",
+      "section": "SON DURAKLAR",
+      "title": "Postman'ın nostaljisi",
+      "paragraphs": [
+        "Kitap basılı Amerika'yı akılcı tartışma çağı olarak idealize eder. Propaganda, sansasyon, dışlanmış gruplar ve düşük okuryazarlık bu resmi karmaşıklaştırır.",
+        "Televizyon da ortak kültür, eğitim ve görünürlük sağlamıştır. Sorunları araç biçimi kadar sahiplik ve siyasi ekonomi üretir.",
+        "Yine de nostalji eleştirisi temel soruyu ortadan kaldırmaz: Kamusal söylem hangi biçim altında hangi zihinsel alışkanlığı kazanıyor?"
+      ]
+    },
+    {
+      "id": "durak-19-eglence-dusman-degildir",
+      "section": "SON DURAKLAR",
+      "title": "Eğlence düşman değildir",
+      "paragraphs": [
+        "İnsan oyun, mizah ve dinlenme olmadan yaşayamaz. Postman'ın hedefi eğlencenin varlığı değil her alanın tek ölçüsü haline gelmesidir.",
+        "Bir bilim anlatısı keyifli olabilir; sorun, zor gerçek eğlenceli değil diye elendiğinde doğar.",
+        "Sağlıklı medya diyeti hem neşe hem sabır taşır. Tatlı yasaklanmaz, bütün öğün olmaz."
+      ]
+    },
+    {
+      "id": "durak-20-yirmi-dakikalik-deney",
+      "section": "SON DURAKLAR",
+      "title": "Yirmi dakikalık deney",
+      "paragraphs": [
+        "Akışta yirmi dakika geçirdikten sonra gördüğünüz beş şeyi yazın. Hangisinin kaynağını, bağlamını ve sonucunu hatırlıyorsunuz?",
+        "Sonra aynı sürede tek uzun metin okuyun ve üç bağlantı çıkarın. Hangi araç sizde nasıl bir düşünce izi bıraktı?",
+        "Deney ekranı mahkum etmez; kendi dikkatinizin farklı kaplarda nasıl davrandığını görünür kılar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Özgür toplumda hakikat yalnız sansürle değil, her kamusal konunun hızlı, görüntülü ve eğlenceli olmak zorunda kaldığı bir ortamda ciddiyetini kaybederek de yok olabilir.",
+        "Akılda kalacak görüntü haberden reklama geçiştir: Ekran bir saniyede unutur; yurttaşın görevi bağlamı ve ağırlığı yeniden kurmaktır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-orwell-mi-huxley-mi": {
+      "image": "/images/summary-art-195-chapter-01-orwell-huxley-v1.webp",
+      "imageCaption": "Gerçek yalnız yasakla değil, sonsuz eğlence içinde ilgisiz hale gelerek de kamusal hayattan kaybolabilir."
+    },
+    "durak-03-arac-yalniz-boru-degildir": {
+      "image": "/images/summary-art-195-chapter-02-message-container-v1.webp",
+      "imageCaption": "İletişim aracı nötr boru değil, hangi mesajın kolay akacağını belirleyen biçimli bir kaptır."
+    },
+    "durak-04-tipografinin-agir-zamani": {
+      "image": "/images/summary-art-195-chapter-03-slow-print-v1.webp",
+      "imageCaption": "Basılı sayfa okuyucuya durma, geri dönme ve uzun kanıtın halkalarını kendi temposunda izleme imkanı verir."
+    },
+    "durak-05-telgraf-baglami-kopariyor": {
+      "image": "/images/summary-art-195-chapter-04-telegraph-fragments-v1.webp",
+      "imageCaption": "Telgraf uzak olay parçalarını hızla getirirken onları açıklayan bağlam ve alıcının eylem imkanını geride bırakabilir."
+    },
+    "durak-06-simdi-bunu-birakip-otekine-geciyoruz": {
+      "image": "/images/summary-art-195-chapter-05-news-to-ad-v1.webp",
+      "imageCaption": "Savaş görüntüsünden reklama tek geçiş, olayların ahlaki ağırlığını aynı eğlence akışında düzleştirebilir."
+    },
+    "durak-07-haber-neden-yuz-ister": {
+      "image": "/images/summary-art-195-chapter-06-trusted-face-v1.webp",
+      "imageCaption": "Ekranda güven veren yüz, kanıtın yerini almadan önce habere duygusal doğruluk hissi verebilir."
+    },
+    "durak-08-siyaset-otuz-saniyeye-sigarsa": {
+      "image": "/images/summary-art-195-chapter-07-campaign-commercial-v1.webp",
+      "imageCaption": "Siyasi program uzun açıklama isterken kısa reklam adayları fikirden çok marka ve görüntü olarak yarıştırır."
+    },
+    "durak-09-din-gosteriye-donusunce": {
+      "image": "/images/summary-art-195-chapter-08-televised-pulpit-v1.webp",
+      "imageCaption": "Kutsal tören reklam ve eğlenceyle aynı ekranı paylaşınca dikkat rekabeti içeriğin biçimini değiştirir."
+    },
+    "durak-10-egitim-eglence-olmak-zorunda-mi": {
+      "image": "/images/summary-art-195-chapter-09-learning-effort-v1.webp",
+      "imageCaption": "Görsel merak kapıyı açabilir, fakat öğrenme tekrar, hata ve zor soruyla kalma emeğini yine ister."
+    },
+    "durak-11-televizyon-bizi-aptal-mi-yapar": {
+      "image": "/images/summary-art-195-chapter-10-small-container-v1.webp",
+      "imageCaption": "Karmaşık düşünce küçük zaman kabına sıkıştırıldığında kayıp kişinin zekasından değil ortamın hacminden doğar."
+    },
+    "durak-12-telefon-ekraninda-simdi-bunu": {
+      "image": "/images/summary-art-195-chapter-11-infinite-scroll-v1.webp",
+      "imageCaption": "Sonsuz akış savaş, reklam ve eğlenceyi aynı başparmak hareketinde bağlamsız komşulara dönüştürür."
+    },
+    "durak-13-algoritma-neyi-odullendirir": {
+      "image": "/images/summary-art-195-chapter-12-algorithm-market-v1.webp",
+      "imageCaption": "Dikkat pazarında algoritma en doğru sesi değil kullanıcıyı en uzun tutan sesi meydanın önüne çıkarabilir."
+    },
+    "durak-14-goruntu-her-zaman-yuzeysel-degildir": {
+      "image": "/images/summary-art-195-chapter-13-deep-image-v1.webp",
+      "imageCaption": "Görüntü düşüncenin düşmanı değildir; bağlam ve kanıtla birleştiğinde görünmeyeni güçlü biçimde öğretebilir."
+    },
+    "durak-15-cozum-televizyonu-kapatmak-mi": {
+      "image": "/images/summary-art-195-chapter-14-fish-sees-water-v1.webp",
+      "imageCaption": "Medya ortamını fark etmek, içinde yüzen balığın ilk kez suyu görmesi gibi seçim alanı açar."
+    },
+    "durak-16-haber-diyeti-degil-haber-mutfagi": {
+      "image": "/images/summary-art-195-chapter-15-news-kitchen-v1.webp",
+      "imageCaption": "Haber atıştırmalık akış değil kaynak, tarih ve eylem bağıyla hazırlanan düşünce mutfağı olabilir."
+    },
+    "durak-17-ekran-tasariminda-surtunme": {
+      "image": "/images/summary-art-195-chapter-16-designed-friction-v1.webp",
+      "imageCaption": "Otomatik akışa eklenen durma noktaları kullanıcıya dikkatin yönünü yeniden seçebileceği sürtünme verir."
+    }
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "bookNo": 244,
+  "title": "Sapiens: Hayvanlardan Tanrılara",
+  "author": "Yuval Noah Harari",
+  "subtitle": "Önemsiz bir Afrika primatının ortak hikayeler kurarak gezegene hükmetmesini; bilişsel, tarımsal ve bilimsel devrimler boyunca para, imparatorluk, din, mutluluk ve gelecek sorularıyla anlatan geniş tarihin sade ve eleştirel rehberi.",
+  "coverImage": "/images/summary-art-244-sapiens-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/244-sapiens-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6D6346",
+  "meta": {
+    "originalTitle": "Sapiens: A Brief History of Humankind",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Temmuz 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Önemsiz bir Afrika primatının ortak hikayeler kurarak gezegene hükmetmesini; bilişsel, tarımsal ve bilimsel devrimler boyunca para, imparatorluk, din, mutluluk ve gelecek sorularıyla anlatan geniş tarihin sade ve eleştirel rehberi.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Yuval Noah Harari - Sapiens resmi sayfası",
+      "url": "https://www.ynharari.com/book/sapiens/"
+    },
+    {
+      "id": 2,
+      "title": "Smithsonian Human Origins - İnsan evrimi",
+      "url": "https://humanorigins.si.edu/evidence"
+    },
+    {
+      "id": 3,
+      "title": "Nature Education - Tarımın kökenleri",
+      "url": "https://www.nature.com/scitable/knowledge/library/the-development-of-agriculture-10026280/"
+    },
+    {
+      "id": 4,
+      "title": "Our World in Data - Uzun dönem insanlık verileri",
+      "url": "https://ourworldindata.org/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Sapiens yaklaşık yetmiş bin yılı tek ciltte anlatır. Bu ölçek berrak büyük desenler verir, ayrıntı ve bilimsel anlaşmazlıkları kaçırabilir.",
+        "Harari canlı, kesin ve kışkırtıcı cümleler kurar. Rehber kitabın savını korurken bazı açıklamaların kanıtlanmış sonuç değil yorum olduğunu işaretleyecek.",
+        "Eser dört eksende ilerler: Bilişsel devrim, tarım devrimi, insanlığın birleşmesi ve bilimsel devrim. Mutluluk ile gelecek bu tarihin terazisidir."
+      ]
+    },
+    {
+      "id": "durak-02-bir-zamanlar-bircok-insan-turu",
+      "section": "BİRİNCİ KISIM · BİLİŞSEL DEVRİM",
+      "title": "Bir zamanlar birçok insan türü",
+      "paragraphs": [
+        "Bugün insan deyince tek tür düşünürüz. Oysa geçmişte Neandertal, Denisovalı ve başka insan toplulukları aynı dünyada yaşadı.",
+        "Aile ağacında yalnız kalan son dal kendini ağacın tamamı sanabilir. Fosil ve DNA diğer dalların gerçekliğini geri getirir.",
+        "Sapiens bazı gruplarla çiftleşti; bugünkü insanlarda bu akrabaların gen izleri bulunur. Yer değiştirme ve yok oluşun payı bölgelere göre değişir.",
+        "Harari'nin açılışı insanı yaratılışın tek basamağı değil evrimsel çalılığın hayatta kalan dalı yapar."
+      ]
+    },
+    {
+      "id": "durak-03-dedikodu-neden-buyuk-guctur",
+      "section": "BİRİNCİ KISIM · BİLİŞSEL DEVRİM",
+      "title": "Dedikodu neden büyük güçtür?",
+      "paragraphs": [
+        "Dil yalnız aslanın yerini bildirmek için değil, gruptaki kimin güvenilir olduğunu konuşmak için de kullanılır. Sosyal bilgi işbirliğini büyütür.",
+        "Yirmi kişilik ekipte herkesi doğrudan tanırsınız; yüzlerce kişide itibar hikayeleri gerekir. Dedikodu toplumsal kredi raporu gibi çalışır.",
+        "Bu sistem yalan ve dışlama da üretebilir. Dil güven kurarken itibar silahına dönüşebilir.",
+        "Harari bilişsel devrimi yaklaşık yetmiş bin yıl önce yeni dil ve hayal gücü kapasitesiyle ilişkilendirir; tarih ve nedenler bilimsel tartışmaya açıktır."
+      ]
+    },
+    {
+      "id": "durak-04-var-olmayan-seylere-birlikte-inanmak",
+      "section": "BİRİNCİ KISIM · BİLİŞSEL DEVRİM",
+      "title": "Var olmayan şeylere birlikte inanmak",
+      "paragraphs": [
+        "Şirket, devlet, para ve insan hakkı taş veya ağaç gibi fiziksel nesne değildir; birçok insanın paylaştığı kurallar içinde gerçek etki üretir.",
+        "Bir banknot kağıttır, fakat milyonlarca kişi aynı hikayeyi kabul ettiği için yemek ve emekle değişir. Ortak inanç sahte demek değildir.",
+        "Harari bu hayali düzenlerin büyük yabancı grupları esnek biçimde birleştirdiğini savunur. Arılar büyük koloni kurar ama kurallarını hızlı değiştiremez.",
+        "İnsan üstünlüğünün anahtarı yalnız bireysel zeka değil paylaşılan kurgu etrafında örgütlenebilme gücüdür."
+      ]
+    },
+    {
+      "id": "durak-05-avci-toplayicinin-zengin-bilgisi",
+      "section": "BİRİNCİ KISIM · BİLİŞSEL DEVRİM",
+      "title": "Avcı toplayıcının zengin bilgisi",
+      "paragraphs": [
+        "Avcı toplayıcı küçük gruplar bitki, hayvan, mevsim ve arazi hakkında geniş bilgi taşır. Günleri bugünkü iş saatinden farklı ritimlerde olabilir.",
+        "Market listesi bilen şehirli, çevresindeki yüz yenebilir bitkiyi ayıramayabilir. Uzmanlık biçimi değişmiştir.",
+        "Harari bazı avcı yaşamlarını görece sağlıklı ve çeşitli gösterebilir, fakat gruplar arasında şiddet, beslenme ve emek büyük fark taşır.",
+        "Geçmişi cennet veya sefalet diye tek renge boyamadan, kaybedilen bilgi ve kazanılan güvenliği birlikte düşünmek gerekir."
+      ]
+    },
+    {
+      "id": "durak-06-buyuk-hayvanlarin-kaybi",
+      "section": "BİRİNCİ KISIM · BİLİŞSEL DEVRİM",
+      "title": "Büyük hayvanların kaybı",
+      "paragraphs": [
+        "Sapiens yeni kıtalara ulaştığında büyük hayvan türlerinin yok oluşuyla zaman bakımından çakışmalar görülür. Avcılık, iklim ve üreme hızı birlikte etkili olabilir.",
+        "Az yavrulayan dev hayvan için yılda birkaç ek ölüm bile kuşaklar içinde nüfusu çökertir. İnsan etkisi ilk sanayi bacasından çok önce başlamış olabilir.",
+        "Harari insanı ekolojik seri katil diye sert adlandırır. İfade dikkat çeker, her kıtadaki neden payı aynı kesinlikte değildir.",
+        "Ders, doğayla uyumlu masum geçmiş efsanesini sınamaktır."
+      ]
+    },
+    {
+      "id": "durak-07-bugday-insani-evcillestirdi-mi",
+      "section": "İKİNCİ KISIM · TARIM VE DÜZEN",
+      "title": "Buğday insanı evcilleştirdi mi?",
+      "paragraphs": [
+        "Tarım daha çok yiyecek üretti, fakat bireyin daha iyi beslendiğini veya az çalıştığını garanti etmedi. Harari kışkırtıcı biçimde insanın buğdayı değil buğdayın insanı evcilleştirdiğini söyler.",
+        "İnsan ormanı temizledi, taş taşıdı, suladı ve tarlanın yanında yaşadı; buğday dünya alanını büyüttü. Tür başarısı ile birey refahı ayrıldı.",
+        "Nüfus arttıkça eski yaşama dönmek zorlaştı. Fazla yiyecek daha çok ağız yarattı ve lüks tuzağı oluştu.",
+        "Tarım tek anda ve her yerde felaket değildi; süreç, ürün ve toplumlar farklıydı. Ama ilerleme eşittir mutluluk varsayımını sarsar."
+      ]
+    },
+    {
+      "id": "durak-08-luks-tuzagi",
+      "section": "İKİNCİ KISIM · TARIM VE DÜZEN",
+      "title": "Lüks tuzağı",
+      "paragraphs": [
+        "Yeni kolaylık önce hayatı rahatlatır, sonra standart hale gelir ve geri dönüş imkansızlaşır. Daha çok ürün daha çok çocuk ve daha çok iş doğurabilir.",
+        "E-posta mektubu hızlandırdı, sonra herkes anında cevap bekledi. Kazanılan zaman yeni mesajlarla doldu.",
+        "Harari tarımın bu tuzağa büyük örnek olduğunu söyler. Birey küçük kararlarla ilerler, kimse toplam sonucu seçmez.",
+        "Teknolojiyi değerlendirirken ilk fayda yanında yeni bağımlılık ve beklentiyi de sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-09-hayali-duzenin-tas-binalari",
+      "section": "İKİNCİ KISIM · TARIM VE DÜZEN",
+      "title": "Hayali düzenin taş binaları",
+      "paragraphs": [
+        "Büyük toplumlar yasa, din ve hiyerarşi hikayeleriyle örgütlenir. Hammurabi eşitsiz sınıfları, Amerikan Bağımsızlık Bildirgesi eşit bireyleri doğal sayar.",
+        "İki metin farklı düzen kurar; ikisi de biyolojiden doğrudan okunmaz. İnsanların birlikte kabul ettiği normlardır.",
+        "Hayali düzen zihinde kalmaz. Saray, mahalle, okul ve kıyafet olarak taşa ve bedene yerleşir.",
+        "Bir düzenin yapılmış olması kolayca değişeceği anlamına gelmez. Milyonların beklentisi onu katı gerçekliğe dönüştürür."
+      ]
+    },
+    {
+      "id": "durak-10-yazi-ve-sayilarin-hafizasi",
+      "section": "İKİNCİ KISIM · TARIM VE DÜZEN",
+      "title": "Yazı ve sayıların hafızası",
+      "paragraphs": [
+        "Küçük grup borç ve akrabalığı hatırlayabilir; büyük krallık vergi, tarla ve nüfusu kayıtla yönetir. Yazı insan beyninin dış hafızası olur.",
+        "Tablet bir çiftçiyi isimden çok arpa miktarı ve borç satırı olarak görür. Bürokrasi kişiyi veri kategorisine çevirir.",
+        "Kayıt büyük sulama ve dağıtım sağlar, aynı anda sınıflandırma gücü kurar. Yazı yalnız edebiyatın değil verginin de aracıdır.",
+        "Bugünkü veri tabanı bu mantığı büyütür: Sistem yalnız kaydedebildiği kişiyi görebilir."
+      ]
+    },
+    {
+      "id": "durak-11-hiyerarsi-nasil-dogal-gorunur",
+      "section": "İKİNCİ KISIM · TARIM VE DÜZEN",
+      "title": "Hiyerarşi nasıl doğal görünür?",
+      "paragraphs": [
+        "Toplumlar zengin-yoksul, özgür-köle, kadın-erkek ayrımlarını doğa veya tanrı iradesi diye açıklayabilir. Tarihsel düzen değişmez gerçek gibi sunulur.",
+        "Merdiveni yapanlar üst basamağın daha değerli olduğunu söyler; sonra yükseklik değerin kanıtı sayılır.",
+        "Harari hiyerarşilerin bazı biyolojik farkları kullanabileceğini, fakat ayrıntılı rol ve değerin kültürel olduğunu vurgular.",
+        "Doğallaştırmayı görmek eşitsizliği tek hamlede çözmez, eleştirinin ilk kapısını açar."
+      ]
+    },
+    {
+      "id": "durak-12-para-en-evrensel-guven",
+      "section": "ÜÇÜNCÜ KISIM · İNSANLIĞIN BİRLEŞMESİ",
+      "title": "Para en evrensel güven",
+      "paragraphs": [
+        "Birbirinin dinine ve diline güvenmeyen insanlar aynı parayı kabul edebilir. Para nesneye değil başkalarının da kabul edeceğine duyulan güvene dayanır.",
+        "Tüccar banknotu yemek için değil yarın başkasına verebileceği için alır. Güven kişisel değil ağsaldır.",
+        "Para esnek işbirliği sağlar, fakat her değeri fiyata çevirebilir. Orman kutsal yerden kereste tutarına dönüşebilir.",
+        "Harari parayı ahlaksız değil güçlü ve çift yüzlü ortak hikaye olarak görür."
+      ]
+    },
+    {
+      "id": "durak-13-imparatorluk-yalniz-zor-mu",
+      "section": "ÜÇÜNCÜ KISIM · İNSANLIĞIN BİRLEŞMESİ",
+      "title": "İmparatorluk yalnız zor mu?",
+      "paragraphs": [
+        "İmparatorluk fetih ve sömürü taşır, aynı zamanda hukuk, dil, yol ve kültürleri geniş alanda birleştirir. Bugünkü kimlikler çoğu kez eski imparatorluk karışımlarından doğmuştur.",
+        "Fatihin yolunda asker kadar tüccar ve fikir de hareket eder. Mağdur toplum bile zamanla imparatorluk dilini kendi kültürünün parçası yapabilir.",
+        "Bu karmaşıklık şiddeti aklamaz. Kültürel miras fethin rıza ile olduğu anlamına gelmez.",
+        "Harari saf kültür fikrini sarsar; tarih karışım ve güçle kurulmuştur."
+      ]
+    },
+    {
+      "id": "durak-14-din-ortak-duzen-kurar",
+      "section": "ÜÇÜNCÜ KISIM · İNSANLIĞIN BİRLEŞMESİ",
+      "title": "Din ortak düzen kurar",
+      "paragraphs": [
+        "Din insanüstü düzene inanarak davranış normları kurar. Yerel ruhlardan evrensel tanrılara geçiş büyük toplumları ortak ahlakta birleştirebilir.",
+        "Harari liberalizm ve komünizm gibi modern ideolojileri de insanüstü değer düzenleri açısından dine benzetir. Bu geniş tanım tartışmalıdır.",
+        "Din yalnız inanç listesi değil ritüel, topluluk ve deneyimdir. Tek işleve indirgemek çeşitliliği kaçırır.",
+        "Kitabın amacı doğruluk hükmünden çok büyük işbirliğini nasıl taşıdığını göstermektir."
+      ]
+    },
+    {
+      "id": "durak-15-bilgisizligi-kesfetmek",
+      "section": "DÖRDÜNCÜ KISIM · BİLİM VE GELECEK",
+      "title": "Bilgisizliği keşfetmek",
+      "paragraphs": [
+        "Modern bilim 'bilmiyoruz' diyerek başlar. Haritalardaki boş alanlar canavar resmiyle değil araştırma çağrısıyla doldurulur.",
+        "Bilgisizliği kabul etmek zayıflık değil yeni gözlem ve matematik yöntemine yatırım gerekçesidir.",
+        "Bilim tek başına hangi hedefin iyi olduğunu söylemez; imparatorluk ve sermaye hedef, kaynak ve kullanım sağlar.",
+        "Bilimsel devrim bilgi kadar bilgi-iktidar ortaklığıdır."
+      ]
+    },
+    {
+      "id": "durak-16-bilim-imparatorluk-ve-harita",
+      "section": "DÖRDÜNCÜ KISIM · BİLİM VE GELECEK",
+      "title": "Bilim, imparatorluk ve harita",
+      "paragraphs": [
+        "Avrupalı seferler asker, tüccar ve bilim insanını aynı gemide taşıdı. Yeni bitki, dil ve coğrafya bilgisi fetih kapasitesini artırdı.",
+        "Harita keşif aracı ve yönetim aracıdır. Ölçülen toprak vergiye, sınıra ve mülke daha kolay çevrilir.",
+        "Bilim yalnız sömürge ürünü değildir, fakat bazı disiplinlerin kaynak ve koleksiyonları imparatorlukla büyümüştür.",
+        "Bilginin doğruluğu ile üretildiği güç koşulunu birlikte incelemek gerekir."
+      ]
+    },
+    {
+      "id": "durak-17-kredi-buyumeyi-nasil-hizlandirdi",
+      "section": "DÖRDÜNCÜ KISIM · BİLİM VE GELECEK",
+      "title": "Kredi büyümeyi nasıl hızlandırdı?",
+      "paragraphs": [
+        "Gelecekte üretimin artacağına güvenen yatırımcı bugünkü projeye kredi verir. Kâr yeniden yatırıma döner ve ekonomik pasta büyüyebilir.",
+        "Henüz müşteri gelmemiş fırın krediyle ocak alır; gelecek ekmek bugünün makinesini finanse eder.",
+        "Büyüme yaşam standardını yükseltir, fakat kaynak tüketimi ve eşitsizlik yaratabilir. Sonsuz büyümenin ekolojik sınırı vardır.",
+        "Harari kapitalizmi inanç ve kurum sistemi olarak okur; başarıları yanında sürekli büyüme zorunluluğunu sorgular."
+      ]
+    },
+    {
+      "id": "durak-18-hayvanlarin-gorunmeyen-bedeli",
+      "section": "DÖRDÜNCÜ KISIM · BİLİM VE GELECEK",
+      "title": "Hayvanların görünmeyen bedeli",
+      "paragraphs": [
+        "Sanayi tarımı milyarlarca hayvanı yüksek verim için dar sistemlerde yetiştirir. Tür olarak tavuk çoğalır, birey olarak tavuğun yaşamı kötüleşebilir.",
+        "Harari tarih başarısını gen kopyası sayısıyla ölçmenin ahlaki yetersizliğini gösterir. Çok olmak iyi yaşamak değildir.",
+        "İnsan refahı da ucuz etin arkasındaki acıyı görünmez kılabilir. Hayvan duyarlılığı tarih hesabına girmelidir.",
+        "Bu bölüm kitabın en güçlü ahlaki çağrılarından biridir."
+      ]
+    },
+    {
+      "id": "durak-19-daha-guclu-daha-mutlu-mu",
+      "section": "DÖRDÜNCÜ KISIM · BİLİM VE GELECEK",
+      "title": "Daha güçlü, daha mutlu mu?",
+      "paragraphs": [
+        "İnsanlık enerji, sağlık ve üretimde büyük güç kazandı. Harari bu ilerlemenin öznel mutluluğu aynı oranda artırıp artırmadığını sorar.",
+        "Yeni rahatlık beklenti standardını yükseltir. Dünün lüksü bugünün zorunluluğu olur ve kıyas duygusu sonucu etkiler.",
+        "Mutluluk biyokimya, anlam, ilişki ve beklentiyle bağlıdır; tek tarihsel ölçüye indirgenemez. Bu bölümde Harari farklı görüşleri yan yana getirir.",
+        "Tarihin başarısını yalnız imparatorluk büyüklüğü veya milli gelirle ölçmek yaşayan kişinin deneyimini kaçırır."
+      ]
+    },
+    {
+      "id": "durak-20-tanrilar-yaratmaya-yaklasmak",
+      "section": "DÖRDÜNCÜ KISIM · BİLİM VE GELECEK",
+      "title": "Tanrılar yaratmaya yaklaşmak",
+      "paragraphs": [
+        "Gen mühendisliği, yapay organlar ve bilgisayar sistemleri doğal seçilimin sınırlarını değiştirebilir. Sapiens kendi beden ve zihin tasarımına müdahale ediyor.",
+        "Sorun yalnız ne yapabileceğimiz değil ne istememiz gerektiğidir. Gücü artan ama arzusunu anlamayan insan tehlikelidir.",
+        "Harari geleceği kesin tahmin etmez; tarih kitabını etik soruyla bitirir. Yeni insan türleri ve eşitsizlik olasılığına dikkat çeker.",
+        "Teknoloji kader değildir. Araştırma, erişim ve sınır kararları bugünkü siyasi seçimlerdir."
+      ]
+    },
+    {
+      "id": "durak-21-sapiens-in-elestirilen-buyuk-cumleleri",
+      "section": "SON DURAKLAR",
+      "title": "Sapiens'in eleştirilen büyük cümleleri",
+      "paragraphs": [
+        "Bilişsel devrimin tarihi, tarımın herkese tuzak oluşu ve imparatorlukların birleştirici rolü uzmanlar arasında daha karmaşıktır. Harari bazen tartışmalı görüşü kesin sonuç gibi yazar.",
+        "Büyük tarih ayrıntıyı feda ederek desen kurar. Tek örnek bütün kıtayı temsil edemez; arkeolojik kanıt değişmeye devam eder.",
+        "Kitap başlangıç haritası olarak güçlü, son akademik kaynak olarak yetersizdir. Her büyük sav ek okumayla sınanmalıdır."
+      ]
+    },
+    {
+      "id": "durak-22-hayali-demek-yalan-demek-degildir",
+      "section": "SON DURAKLAR",
+      "title": "Hayali demek yalan demek değildir",
+      "paragraphs": [
+        "İnsan haklarına ortak kurgu demek değersiz oldukları anlamına gelmez. Tersine fiziksel doğada hazır bulunmadıkları için onları kurum ve eylemle korumak gerekir.",
+        "Köprü de insan yapımıdır ama gerçektir ve hayat taşır. Yapılmış düzenler sonuçları bakımından güçlüdür.",
+        "Harari'nin dili bazen ahlaki değerleri yalnız hikaye gibi duyurabilir. Ortak köken ile gerekçelendirilmiş değer ayrılmalıdır."
+      ]
+    },
+    {
+      "id": "durak-23-bir-gunluk-sapiens-haritasi",
+      "section": "SON DURAKLAR",
+      "title": "Bir günlük Sapiens haritası",
+      "paragraphs": [
+        "Cüzdanınızdaki para, işyerinizdeki şirket, kimlik kartındaki devlet ve takvimdeki hafta hangi ortak hikayelere dayanıyor?",
+        "Sonra bu hikayelerin hangi bina, yazılım ve alışkanlıkla maddileştiğini bulun. İnanmayı bıraksanız tek başınıza değişir mi?",
+        "Bu alıştırma toplumsal gerçekliği küçültmez; nasıl kurulduğunu ve nereden değişebileceğini gösterir."
+      ]
+    },
+    {
+      "id": "durak-24-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Homo sapiens gezegene tek tek daha güçlü olduğu için değil, para, devlet ve din gibi ortak hikayeler çevresinde çok sayıda yabancıyla esnek işbirliği kurabildiği için hükmetti.",
+        "Akılda kalacak görüntü ortak haritadır: Kağıt fiziksel, sınır hayalidir; milyonlar ona göre hareket ettiğinde ikisi birlikte tarih yapar."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-bir-zamanlar-bircok-insan-turu": {
+      "image": "/images/summary-art-244-chapter-01-many-humans-v1.webp",
+      "imageCaption": "Homo sapiens geçmişte tek insan değildi; bugün yalnız kalan dal, eski insan çalılığının tamamı değildir."
+    },
+    "durak-03-dedikodu-neden-buyuk-guctur": {
+      "image": "/images/summary-art-244-chapter-02-campfire-gossip-v1.webp",
+      "imageCaption": "Ateş başındaki sosyal hikayeler kimin güvenilir olduğunu taşıyarak doğrudan tanışmanın ötesinde işbirliği kurabilir."
+    },
+    "durak-04-var-olmayan-seylere-birlikte-inanmak": {
+      "image": "/images/summary-art-244-chapter-03-shared-fiction-v1.webp",
+      "imageCaption": "Banknot ve devlet ortak hikaye olduğu için etkisiz değil; milyonlar aynı kurala göre davrandığı için güçlüdür."
+    },
+    "durak-05-avci-toplayicinin-zengin-bilgisi": {
+      "image": "/images/summary-art-244-chapter-04-forager-knowledge-v1.webp",
+      "imageCaption": "Avcı toplayıcının çevre bilgisi kitapta değil yüzlerce bitki, iz ve mevsimi bedenle tanımakta saklıdır."
+    },
+    "durak-06-buyuk-hayvanlarin-kaybi": {
+      "image": "/images/summary-art-244-chapter-05-megafauna-loss-v1.webp",
+      "imageCaption": "Yavaş üreyen büyük hayvanlarda küçük av baskısı bile kuşaklar boyunca geri dönülmez kayıp yaratabilir."
+    },
+    "durak-07-bugday-insani-evcillestirdi-mi": {
+      "image": "/images/summary-art-244-chapter-06-wheat-domesticates-v1.webp",
+      "imageCaption": "Buğdayın alanı büyürken insanın çalışma yükü de arttı; tür ölçeğindeki başarı bireyin refahı olmayabilir."
+    },
+    "durak-09-hayali-duzenin-tas-binalari": {
+      "image": "/images/summary-art-244-chapter-07-imagined-order-v1.webp",
+      "imageCaption": "Ortak hukuk hikayesi yalnız kağıtta kalmaz; şehir planı, okul ve beden davranışı olarak maddi dünyaya yerleşir."
+    },
+    "durak-10-yazi-ve-sayilarin-hafizasi": {
+      "image": "/images/summary-art-244-chapter-08-written-memory-v1.webp",
+      "imageCaption": "Yazı büyük topluma dış hafıza verirken kişiyi vergi, tarla ve borç satırlarına dönüştüren bürokrasi kurar."
+    },
+    "durak-12-para-en-evrensel-guven": {
+      "image": "/images/summary-art-244-chapter-09-universal-money-v1.webp",
+      "imageCaption": "Para yabancıların birbirine değil, ağdaki herkesin yarın aynı işareti kabul edeceğine güvenmesini sağlar."
+    },
+    "durak-13-imparatorluk-yalniz-zor-mu": {
+      "image": "/images/summary-art-244-chapter-10-imperial-road-v1.webp",
+      "imageCaption": "İmparatorluk yolu zorla açılırken asker, mal, dil ve fikirleri birlikte taşıyan kalıcı karışımlar üretir."
+    },
+    "durak-14-din-ortak-duzen-kurar": {
+      "image": "/images/summary-art-244-chapter-11-shared-ritual-v1.webp",
+      "imageCaption": "Ortak ritüel yabancıları aynı ahlaki düzenin üyeleri yaparak büyük ölçekli güven ve kimlik kurabilir."
+    },
+    "durak-15-bilgisizligi-kesfetmek": {
+      "image": "/images/summary-art-244-chapter-12-blank-map-v1.webp",
+      "imageCaption": "Haritadaki boşluğu bilginin sonu değil araştırma çağrısı saymak modern bilimin güçlü başlangıcıdır."
+    },
+    "durak-16-bilim-imparatorluk-ve-harita": {
+      "image": "/images/summary-art-244-chapter-13-science-empire-ship-v1.webp",
+      "imageCaption": "Keşif gemisi bilgi, ticaret ve fetih amaçlarını aynı güvertede taşıyarak haritayı iktidar aracına dönüştürebilir."
+    },
+    "durak-18-hayvanlarin-gorunmeyen-bedeli": {
+      "image": "/images/summary-art-244-chapter-14-factory-animals-v1.webp",
+      "imageCaption": "Bir türün sayıca çoğalması, dar üretim sistemindeki bireylerin iyi yaşadığı anlamına gelmez."
+    },
+    "durak-19-daha-guclu-daha-mutlu-mu": {
+      "image": "/images/summary-art-244-chapter-15-power-happiness-scale-v1.webp",
+      "imageCaption": "İnsanlığın güç terazisi yükselirken günlük mutluluk aynı hızda artmayabilir; başarı ölçüsü yeniden sorulmalıdır."
+    },
+    "durak-20-tanrilar-yaratmaya-yaklasmak": {
+      "image": "/images/summary-art-244-chapter-16-human-design-v1.webp",
+      "imageCaption": "Beden ve zekayı tasarlama gücü büyüdükçe insanlığın ne isteyeceği sorusu teknik imkan kadar önemli hale gelir."
+    }
+  }
+}
