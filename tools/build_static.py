@@ -492,17 +492,20 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
     cover_class = " summary-cover-art" if is_cover_artwork else ""
     chapters = []
     for chapter in summary.get("chapters", []):
+        chapter_artwork = summary.get("chapterArtworks", {}).get(chapter.get("id", ""), {})
+        chapter_image = chapter.get("image") or chapter_artwork.get("image")
+        chapter_image_caption = chapter.get("imageCaption") or chapter_artwork.get("imageCaption", "")
         paragraphs = "".join(
             f'<p class="reader-paragraph">{markdown_inline(paragraph)}</p>'
             for paragraph in chapter.get("paragraphs", [])
         )
         image = ""
-        if chapter.get("image"):
+        if chapter_image:
             image_class = " chapter-artwork" if has_chapter_artwork else ""
             image = f"""
             <figure class="reader-chapter-img-box{image_class}">
-              <img src="{html.escape(chapter['image'], quote=True)}" class="reader-chapter-img" loading="lazy" alt="{html.escape(chapter.get('imageCaption', ''))}">
-              <figcaption>{html.escape(chapter.get('imageCaption', ''))}</figcaption>
+              <img src="{html.escape(chapter_image, quote=True)}" class="reader-chapter-img" loading="lazy" alt="{html.escape(chapter_image_caption)}">
+              <figcaption>{html.escape(chapter_image_caption)}</figcaption>
             </figure>"""
         takeaway = ""
         if chapter.get("takeaway") and not has_chapter_artwork:
