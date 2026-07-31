@@ -138,6 +138,20 @@
   padding: 1rem 0;
 }
 
+.static-roadmap .book-item-row.has-summary {
+  cursor: pointer;
+}
+
+.static-roadmap .book-summary-title-link {
+  color: inherit;
+  text-decoration-color: color-mix(in srgb, var(--v2-accent) 55%, transparent);
+  text-decoration-thickness: 1px;
+}
+
+.static-roadmap .book-summary-title-link:hover {
+  color: var(--v2-accent);
+}
+
 .static-roadmap .book-item-row.is-read {
   opacity: 0.58;
 }

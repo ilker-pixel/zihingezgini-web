@@ -183,6 +183,7 @@ def page_shell(
     body_class: str = "",
     noindex: bool = False,
     static_css_version: int = 3,
+    static_js_version: int = 2,
 ) -> str:
     canonical = f"{SITE_URL}{path}"
     image_url = absolute_asset(image)
@@ -221,7 +222,7 @@ def page_shell(
   <link rel="stylesheet" href="/style.css?v=65">
   <link rel="stylesheet" href="/zihin-v2.css?v=4">
   <link rel="stylesheet" href="/static-pages.css?v={static_css_version}">
-  <script src="/static-page.js?v=2" defer></script>
+  <script src="/static-page.js?v={static_js_version}" defer></script>
 </head>
 <body class="static-page {html.escape(body_class)}">
   <div class="paper-texture"></div>
@@ -399,14 +400,19 @@ def render_roadmap(books: list[dict[str, Any]], summary_urls: dict[int, str]) ->
         rows = []
         for book in [item for item in books if item.get("evre") == evre]:
             summary = ""
-            if book.get("no") in summary_urls:
-                summary = f'<a class="book-summary-btn" href="{summary_urls[book["no"]]}">Özeti oku</a>'
+            summary_url = summary_urls.get(book.get("no"))
+            if summary_url:
+                summary = f'<a class="book-summary-btn" href="{summary_url}">Özeti oku</a>'
             title_text = str(book.get("title", ""))
             title = html.escape(title_text)
-            if book.get("link"):
+            if summary_url:
+                title = f'<a class="book-title-link book-summary-title-link" href="{summary_url}">{title}</a>'
+            elif book.get("link"):
                 title = f'<a href="{html.escape(book["link"], quote=True)}" rel="noopener">{title}</a>'
+            row_classes = "book-item-row has-summary" if summary_url else "book-item-row"
+            row_link_attrs = f' data-summary-href="{summary_url}"' if summary_url else ""
             rows.append(f"""
-            <article class="book-item-row" id="kitap-{book.get('no')}">
+            <article class="{row_classes}" id="kitap-{book.get('no')}"{row_link_attrs}>
               <div class="book-check-col">
                 <input type="checkbox" data-roadmap-book="{book.get('no')}" aria-label="{html.escape(title_text, quote=True)} okundu">
               </div>
@@ -465,6 +471,7 @@ def render_roadmap(books: list[dict[str, Any]], summary_urls: dict[int, str]) ->
         active="roadmap",
         schema=schema,
         body_class="roadmap-page",
+        static_js_version=3,
     )
 
 
