@@ -246,8 +246,9 @@ class PdfBook:
         c.line(23 * mm, 242 * mm, 187 * mm, 242 * mm)
 
         cover_path = ROOT / self.summary["coverImage"].lstrip("/")
+        image_bottom = 158 * mm
         image = RLImage(str(self.pdf_asset(cover_path, cover=True)), width=48 * mm, height=72 * mm)
-        image.drawOn(c, 139 * mm, 158 * mm)
+        image.drawOn(c, 139 * mm, image_bottom)
         y = draw_rich(c, self.summary["intro"], self.styles["intro"], 23 * mm, 232 * mm, 108 * mm)
 
         first = self.summary["chapters"][0]
@@ -255,9 +256,14 @@ class PdfBook:
             "OpeningTitle", fontName="ZGArial-Bold", fontSize=15.5,
             leading=18.5, textColor=self.ink,
         )
-        y = draw_rich(c, first["title"], opening_title, 23 * mm, y - 8 * mm, 164 * mm) - 3 * mm
+        # The opening chapter uses the full text width. Keep its first line below
+        # both the narrow intro column and the cover image so neither can overlap.
+        chapter_top = min(y - 8 * mm, image_bottom - 8 * mm)
+        y = draw_rich(c, first["title"], opening_title, 23 * mm, chapter_top, 164 * mm) - 3 * mm
         for paragraph in first["paragraphs"]:
             y = draw_rich(c, paragraph, self.styles["body_small"], 23 * mm, y, 164 * mm) - 3.5
+        if y < 42 * mm:
+            raise RuntimeError(f"Opening page overflow in book {self.summary['bookNo']}")
 
         c.setFillColor(self.ink)
         c.setFont("ZGArial-Bold", 10)
