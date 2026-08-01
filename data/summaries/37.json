@@ -1,0 +1,335 @@
+{
+  "bookNo": 37,
+  "title": "Descartes'ın Yanılgısı",
+  "author": "Antonio Damasio",
+  "subtitle": "Akıl ile duyguyu rakip sayan eski resmi, karar veremeyen nöroloji hastalarının hayatları üzerinden tersine çeviren; beden sinyallerinin iyi düşünmenin pusulası olduğunu gösteren bir sinirbilim klasiği.",
+  "coverImage": "/images/summary-cover-37-descartesin-yanilgisi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/37-descartesin-yanilgisi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6C4F48",
+  "meta": {
+    "originalTitle": "Descartes' Error: Emotion, Reason, and the Human Brain",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Elliot mantık testlerinde başarılıydı ama hangi dosyaya önce bakacağını seçemiyor, bütün gün ayrıntılarda kayboluyordu. Zekâsı yerindeydi; zarar gören şey duygusal değer biçme kapasitesiydi. Damasio bu vakadan hareketle, duygusuz aklın daha temiz değil çoğu zaman daha çaresiz olduğunu anlatır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Penguin Random House - Descartes' Error",
+      "url": "https://www.penguinrandomhouse.com/books/297609/descartes-error-by-antonio-damasio/9780143036227/"
+    },
+    {
+      "id": 2,
+      "title": "Library of Congress - Descartes' Error",
+      "url": "https://www.loc.gov/item/94028473/"
+    },
+    {
+      "id": 3,
+      "title": "USC Brain and Creativity Institute - Antonio Damasio",
+      "url": "https://dornsife.usc.edu/bci/antonio-damasio/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Akıl ile duyguyu rakip sayan eski resmi, karar veremeyen nöroloji hastalarının hayatları üzerinden tersine çeviren; beden sinyallerinin iyi düşünmenin pusulası olduğunu gösteren bir sinirbilim klasiği.",
+        "Kitap klinik vakalarla kuramsal bir model arasında gider. Vaka anlatıları etkileyicidir ama tek hasta bütün insan zihnini kanıtlamaz; somatik belirteç hipotezinin sonraki deneylerle nasıl desteklendiği ve nerede tartışıldığı birlikte düşünülmelidir.",
+        "Bu rehber, Antonio Damasio tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-phineas-gage-in-degisen-hayati",
+      "section": "BİRİNCİ KISIM · VAKALAR",
+      "title": "Phineas Gage'in değişen hayatı",
+      "paragraphs": [
+        "Demiryolu ustası Phineas Gage'in kafatasından geçen demir çubuk dilini ve hareketini yok etmedi; fakat planlama, toplumsal ölçü ve karakterinde büyük değişiklikler olduğu anlatıldı. Ön alın bölgesi ile yaşam yönetimi arasındaki bağ görünür oldu. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Bir şirketin bütün makineleri çalışır ama hangi siparişin önce yapılacağına karar veren yönetim odası dağılırsa üretim yine aksar. Gage vakası beynin yalnız ayrı beceriler değil hayatın bütününü düzenleyen ağlar taşıdığını düşündürür.",
+        "Gage hakkındaki bazı popüler öyküler tarihsel kayıttan daha dramatiktir ve sonraki yaşamında belli ölçüde toparlanma olmuştur. Efsane ile belgelenmiş bulguyu ayırmak gerekir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Nörolojik bir vakayı kişilik masalına çevirmeden lezyonun yeri, zaman içindeki iyileşme ve sosyal çevreyi birlikte değerlendirin."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Phineas Gage'in değişen hayatı” başlığının yalnız kendi örneğini değil Descartes'ın Yanılgısı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-elliot-neden-karar-veremiyordu",
+      "section": "BİRİNCİ KISIM · KAYIP PUSULA",
+      "title": "Elliot neden karar veremiyordu?",
+      "paragraphs": [
+        "Ön alın bölgesindeki tümör ameliyatından sonra Elliot zeki, bilgili ve mantıklı görünüyordu; fakat işini, evliliğini ve parasını koruyacak gündelik kararları veremiyordu. Seçeneklere duygu değeri bindiremiyordu. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Bir randevu için onlarca tarih arasındaki hava, trafik ve program olasılıklarını sonsuza dek hesaplayan ama hiçbirini seçemeyen kişi düşünün. Kusur bilgi eksikliği değil, seçenekleri önem sırasına koyan ağırlığın kaybıdır.",
+        "Elliot tek vaka değildir ama örneklem sınırlıdır. Karar bozukluğu motivasyon, dikkat ve sosyal işaretleri okumadaki başka güçlüklerle de ilişkilidir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir kararda daha çok bilgi toplamaya devam ettiğiniz halde ilerleyemiyorsanız, hangi seçeneğin sizin için ne hissettirdiğini ve hangi değeri koruduğunu sorun."
+      ]
+    },
+    {
+      "id": "durak-04-akil-ile-duygu-neden-rakip-degildir",
+      "section": "İKİNCİ KISIM · ESKİ AYRIM",
+      "title": "Akıl ile duygu neden rakip değildir?",
+      "paragraphs": [
+        "Batı düşüncesinde iyi karar sıklıkla duygudan arınmış hesap olarak resmedilir. Damasio, duygunun aklı bozabildiğini kabul eder ama uygun duygusal sinyal olmadan aklın seçenek denizinde yön bulamadığını gösterir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Market rafında iki ürün arasında fiyat, sağlık, tat, çevre ve alışkanlık hesapları sonsuza uzayabilir. Küçük bir tercih duygusu aramayı kesip eyleme geçmemizi sağlar.",
+        "Her duygu iyi rehber değildir; panik risk hesabını çarpıtabilir, öfke karşı kanıtı kapatabilir. Tez duyguyu tahta çıkarmak değil, düzenlenmiş duygu ile aklın ortaklığını kurmaktır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Önemli kararda duyguyu susturmaya çalışmak yerine hangi beden sinyalinin geçmiş deneyimden uyarı taşıdığını ve hangisinin anlık gürültü olduğunu ayırın."
+      ]
+    },
+    {
+      "id": "durak-05-beyin-bedenden-ayri-dusunmez",
+      "section": "İKİNCİ KISIM · BEDEN HARİTASI",
+      "title": "Beyin bedenden ayrı düşünmez",
+      "paragraphs": [
+        "Beyin kalp, bağırsak, kas, hormon ve iç organ durumlarını sürekli izler. Zihin yalnız kafatası içindeki hesap değil, yaşayan bedenin değişen durumlarıyla kurulan süreçtir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Ateşli hastayken gelecek karanlık, dinlenmişken aynı sorun çözülebilir görünebilir. Dış dünya değişmese de beynin karar verdiği bedensel zemin değişmiştir.",
+        "Bedenin önemini söylemek zihni yalnız hormonlara indirgemek değildir. Dil, kültür ve ilişki de beden-beyin döngüsünün anlamını biçimlendirir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir tartışmada kendi düşüncenizi mutlak gerçek saymadan önce açlık, ağrı, nefes ve yorgunluk durumunun değerlendirmeye ne kattığını yoklayın."
+      ]
+    },
+    {
+      "id": "durak-06-somatik-belirtec-nedir",
+      "section": "ÜÇÜNCÜ KISIM · HIZLI İŞARET",
+      "title": "Somatik belirteç nedir?",
+      "paragraphs": [
+        "Geçmişte iyi ya da kötü sonuçla eşleşen seçenekler, benzer durum tekrarlandığında bedensel bir işaret uyandırabilir. Somatik belirteç bütün hesabı yapmaz; bazı yolları hızla tehlikeli ya da umut verici diye öne çıkarır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Daha önce dolandırıldığınız bir teklifin cümlelerini yeni satış konuşmasında duyunca mideniz sıkışabilir. Ayrıntıyı bilinçli hatırlamadan önce beden 'buraya dikkat' der.",
+        "Somatik belirteç gizemli altıncı his değildir; yanlış öğrenme ve önyargı da bedene işaret bırakabilir. Sinyal araştırma çağrısıdır, kesin hüküm değildir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "İçinize doğan uyarıyı ne körlemesine izleyin ne küçümseyin; hangi geçmiş benzerliğin onu ürettiğini ve mevcut kanıtla uyup uymadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-07-beden-dongusu-ve-sanki-dongusu",
+      "section": "ÜÇÜNCÜ KISIM · SİMÜLASYON",
+      "title": "Beden döngüsü ve 'sanki' döngüsü",
+      "paragraphs": [
+        "Duygu sırasında beyin bedeni gerçekten değiştirip bu değişimi okuyabilir; bazen de bedeni bütünüyle değiştirmeden ilgili beden haritasını hızlıca canlandırabilir. Damasio ikinci yola 'sanki beden döngüsü' der. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Korku filminde gerçek tehlike yoktur ama beden gerilir. Çok tanıdık bir tehlikeyi düşünürken beyin tam koşuyu başlatmadan koşacakmış gibi bir beden resmi kurabilir.",
+        "Bu modelin sinirsel ayrıntıları zaman içinde gelişmiştir ve tek bir devreye indirgenemez. Simülasyon kavramı her sezgiyi doğrulayan açıklama haline getirilmemelidir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir olay daha olmadan bedeninizde provasını yaşadığınızda, bunun hazırlık sağladığı yerle gereksiz yıprattığı yeri ayırmaya çalışın."
+      ]
+    },
+    {
+      "id": "durak-08-duygu-ile-his-ayni-sey-mi",
+      "section": "DÖRDÜNCÜ KISIM · DENEYİM",
+      "title": "Duygu ile his aynı şey mi?",
+      "paragraphs": [
+        "Damasio duygu sözcüğünü bedensel ve davranışsal değişim örüntüsü, his sözcüğünü ise bu değişimin zihinde deneyimlenmesi için kullanır. Beden önce düzenlenebilir, kişi sonra korktuğunu fark edebilir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Sokakta ani fren sesinde sıçrar, kalbiniz hızlanır ve ancak bir an sonra 'çok korktum' dersiniz. Beden cevabı ile bilinçli hikâye aynı anda başlamayabilir.",
+        "Günlük dil bu ayrımı sabit kullanmaz ve sinirbilimde terimler yazardan yazara değişir. Kavramları sözlük kavgası için değil süreç basamaklarını görmek için kullanmak gerekir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Yoğun anda hemen neden aramak yerine önce bedensel değişimi, sonra verdiğiniz adı, sonra anlattığınız hikâyeyi ayrı ayrı not edin."
+      ]
+    },
+    {
+      "id": "durak-09-birincil-ve-ikincil-duygular",
+      "section": "DÖRDÜNCÜ KISIM · ÖĞRENME",
+      "title": "Birincil ve ikincil duygular",
+      "paragraphs": [
+        "Birincil duygular doğuştan gelen hızlı tepki örüntülerine, ikincil duygular ise kişisel deneyim ve sosyal öğrenmeyle karmaşık durumlara bağlanan tepkilere işaret eder. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Yüksek sesten irkilmek hızlı hazırlıktır; yıllar önceki utanç verici toplantıyı hatırlayınca yüzün kızarması, öğrenilmiş sosyal anlamın bedeni harekete geçirmesidir.",
+        "Keskin iki kutu yerine iç içe geçmiş gelişim süreci düşünmek daha uygundur. Doğuştan hazırlıklar deneyimle değişir, kültürel duygular da bedensel temele dayanır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Kendinizde çok güçlü sosyal bir duygunun hangi ilk olaylarla, hangi aile diliyle ve hangi tekrarlarla kurulduğunu merak edin."
+      ]
+    },
+    {
+      "id": "durak-10-iowa-kumar-masasi-ne-gosterdi",
+      "section": "BEŞİNCİ KISIM · DENEY",
+      "title": "Iowa kumar masası ne gösterdi?",
+      "paragraphs": [
+        "Iowa Kumar Görevi'nde sağlıklı kişiler kötü desteleri açıkça açıklamadan önce bedensel uyarı geliştirebilirken bazı ön alın hasarlı hastalar zararlı seçimleri sürdürdü. Bu sonuç somatik belirteç hipotezini destekledi. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Dört desteden kart çekiyorsunuz; bazıları büyük kazanç verip daha büyük kayıp çıkarıyor. Eliniz terlemeye başlıyor ama henüz hangi destenin kötü olduğunu kelimelerle söyleyemiyorsunuz.",
+        "Görevin tekrar çalışmaları ve yorumları tartışmalıdır; bilinçli bilgi sanıldığından erken olabilir, görev belirsizlik öğrenmesini de ölçer. Tek deney bütün kuram değildir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Risk oyunlarında bedensel uyarının yararlı olabileceğini kabul ederken, gerçek finans kararında veri ve taban oranını da mutlaka ekleyin."
+      ]
+    },
+    {
+      "id": "durak-11-on-alin-korteksi-yasam-duzenler",
+      "section": "BEŞİNCİ KISIM · AĞLAR",
+      "title": "Ön alın korteksi yaşam düzenler",
+      "paragraphs": [
+        "Ventromedial ön alın bölgeleri duyusal bilgi, beden durumu, bellek ve gelecekteki sonuçları bir araya getiren ağ düğümleridir. Hasar, tek bir zekâ puanını değil gerçek hayatta öncelik kurmayı bozabilir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Mutfakta bütün malzemeler ve tarifler vardır; fakat hangi yemeğin ne zaman başlayacağını koordine eden aşçı yoksa sofraya hiçbir şey zamanında gelmez.",
+        "Beyin bölgeleri tek görevli kutular değildir; bağlantılar ve ağlar önemlidir. Aynı belirti farklı hasar yollarından, aynı hasar farklı kişilerde başka sonuçlardan doğabilir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Beyin görüntüsünde parlayan tek noktayı 'karar merkezi' diye sunan haberlere, ağ bağlantısı ve görev tasarımı sorularıyla yaklaşın."
+      ]
+    },
+    {
+      "id": "durak-12-akil-gelecegi-bedenle-prova-eder",
+      "section": "ALTINCI KISIM · KARAR",
+      "title": "Akıl geleceği bedenle prova eder",
+      "paragraphs": [
+        "Karar vermek yalnız mevcut ödülü hesaplamak değil, olası geleceği canlandırıp onun bedensel değerini şimdiden hissetmektir. İnsan uzun denklem kurmadan bazı kötü yolları böyle eleyebilir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "İki iş teklifinin maaşı benzer olabilir; birini düşündüğünüzde sürekli sıkışma, diğerinde merak oluşur. Bu hisler çalışma saatleri, geçmiş patronlar ve aile ihtiyacı gibi bilgilerin sıkıştırılmış toplamı olabilir.",
+        "Beden hissi bazen statü önyargısını ya da tanıdık olana bağımlılığı taşır. Gelecek provasını dış veri ve başka insanların bakışıyla düzeltmek gerekir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Büyük seçimde seçenekleri yalnız artı-eksi listesine değil, bir yıl sonraki sıradan gününüzü ayrıntılı hayal ederek bedensel tepkiye de açın."
+      ]
+    },
+    {
+      "id": "durak-13-homeostazdan-toplumsal-duyguya",
+      "section": "ALTINCI KISIM · YAŞAMI KORUMAK",
+      "title": "Homeostazdan toplumsal duyguya",
+      "paragraphs": [
+        "Basit organizmalar bile yaşamı sürdüren dengeler kurar. Damasio, duygu ve aklın bu eski düzenleme tarihinin karmaşık devamı olduğunu; sosyal kuralların da bedenlerin birlikte yaşama sorununa cevap verdiğini düşünür. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Susuz kalan beden su arar; dışlanan insan ilişki arar. İki ihtiyaç aynı değildir ama ikisi de yaşamın sürdürülebilir koşullarını yeniden kurmaya yönelir.",
+        "Biyolojik köken ahlaki doğruluk sağlamaz; evrimden 'öyleyse böyle davranmalıyız' sonucu çıkmaz. Toplumsal değerler tartışma ve kurum ister. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir kurumun verim hedefini değerlendirirken insanların güven, dinlenme ve aidiyet gibi yaşam düzenleme ihtiyaçlarını nasıl etkilediğini sorun."
+      ]
+    },
+    {
+      "id": "durak-14-descartes-in-asil-yanilgisi",
+      "section": "YEDİNCİ KISIM · ZİHİN-BEDEN",
+      "title": "Descartes'ın asıl yanılgısı",
+      "paragraphs": [
+        "Damasio'nun hedefi Descartes'ın bütün felsefesi değil, düşünen zihni bedenden ayrılabilir saf töz gibi görme mirasıdır. Akıl yaşayan bedenin tarihi ve ihtiyaçları dışında çalışmaz. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Bilgisayardaki yazılımı başka cihaza taşımak kolaydır; insan zihnini ise hormonundan, iç organından, gelişiminden ve ilişkilerinden ayırdığınızda aynı kişi kalacağı garanti değildir.",
+        "Descartes'ın metinleri popüler ikilikten daha karmaşıktır ve bedensel tutkuları önemser. Kitap başlığındaki filozof tarihsel bir sembol olarak biraz kabalaştırılmış olabilir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Yapay zekâ tartışmasında yalnız bilgi işlem gücünün insan benzeri anlayış için yeterli olup olmadığını, beden ve kırılganlığın ne kattığını düşünün."
+      ]
+    },
+    {
+      "id": "durak-15-duygu-olmadan-ahlak-olur-mu",
+      "section": "YEDİNCİ KISIM · TOPLUMSAL KARAR",
+      "title": "Duygu olmadan ahlak olur mu?",
+      "paragraphs": [
+        "Başkalarının acısına karşı bedensel tepki, utanç, suçluluk ve şefkat toplumsal kararın hızlı değer işaretleridir. Salt kural bilgisi, gerçek durumda kimi koruyacağımızı her zaman belirlemez. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Bir kişi yardım kuralını ezbere bilir ama karşısındaki yüzün korkusunu hiç önemsemiyorsa doğru cümleyi söyleyip yanlış anda çekip gidebilir.",
+        "Empati de taraflıdır; yakınımıza yoğun, uzaktakine zayıf çalışabilir. Adalet duyguyu kurum ve ilkeyle genişletmeye ihtiyaç duyar. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir ahlaki kararda hem kuralın herkese uygulanabilirliğini hem etkilenen kişinin yaşadığı somut bedeli birlikte hesaba katın."
+      ]
+    },
+    {
+      "id": "durak-16-beden-bilgisi-tipta-ne-degistirir",
+      "section": "SEKİZİNCİ KISIM · KLİNİK",
+      "title": "Beden bilgisi tıpta ne değiştirir?",
+      "paragraphs": [
+        "Nörolojik değerlendirme hastanın bellek ve dil testleri kadar gündelik kararlarını, ilişkilerini ve bedensel sinyallere verdiği anlamı da incelemelidir. Laboratuvarda normal puan hayatın normal yürüdüğü anlamına gelmez. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Elliot test odasında başarılı olup iş yaşamında dağılıyordu. Yalnız kâğıt testine bakan hekim, hastanın gerçek mutfakta yemeği neden bitiremediğini kaçırabilir.",
+        "Klinik hikâye mahremiyet, aile anlatısı ve kültür içerir; doktorun yorumu tek gerçek değildir. Standart test ile ekolojik gözlem birlikte gerekir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir sağlık sorununda 'sonuçlar normal' denildiğinde, günlük hayatta hangi işlevin hâlâ bozulduğunu somut sahnelerle anlatmanın önemini hatırlayın."
+      ]
+    },
+    {
+      "id": "durak-17-yapay-zeka-bedensiz-akil-mi",
+      "section": "SEKİZİNCİ KISIM · BUGÜN",
+      "title": "Yapay zekâ bedensiz akıl mı?",
+      "paragraphs": [
+        "Damasio'nun yaklaşımı, çok iyi hesap yapan bir sistemin insan gibi değer biçmesi için beden, ihtiyaç ve kırılganlık gerekip gerekmediğini gündeme getirir. Zekâ puanı ile yaşama bağlı önem aynı şey olmayabilir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Bir program milyonlarca rota hesaplar ama yağmurda üşümez, kaybolmaktan korkmaz ve eve varmayı özlemez. Hedefi dışarıdan verilmedikçe yollar arasında kendiliğinden değer farkı oluşmaz.",
+        "Makinelerin mutlaka biyolojik beden taşıması gerektiği kanıtlanmış değildir; yapay düzenleme sistemleri ve öğrenilmiş hedefler farklı çözüm sunabilir. Benzetme açık sorudur. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir yapay zekânın ikna edici duygu dili kullanmasını gerçek beden deneyimi ve ahlaki sorumluluk kanıtı saymadan hangi geri bildirimle değer öğrendiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Damasio 'duygular her zaman doğrudur, mantığa gerek yoktur' demez. Asıl sav, akılcı kararın seçenekleri önem sırasına koymak için bedensel-duygusal değer sinyallerine ihtiyaç duyduğu; bu sinyallerin de kanıt ve düşünmeyle düzenlenmesi gerektiğidir.",
+        "Descartes'ın Yanılgısı tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Antonio Damasio ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap nörobilim ile gündelik karar arasında etkili bir köprü kurmuş, somatik belirteç hipotezi geniş araştırma programı doğurmuştur. Iowa Kumar Görevi'nin yorumu, bilinçli bilginin zamanı ve bazı klinik genellemeler ise tartışılmış; hipotezin güçlü ama tek ve kapanmış açıklama olmadığı vurgulanmıştır.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Descartes'ın Yanılgısı için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Descartes'ın Yanılgısı için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu seçeneğe bedenim hangi değeri veriyor ve bu işaret hangi geçmişten geliyor? Daha fazla hesap gerçekten yeni bilgi mi getiriyor, yoksa karar pusulam mı kilitlendi? Duygusal sinyali hangi dış kanıtla sınayabilirim?",
+        "Bu sorular Descartes'ın Yanılgısı için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Descartes'ın Yanılgısı üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İyi düşünmek duyguyu susturmak değildir; yaşayan bedenin geçmiş deneyimden ürettiği değer işaretlerini akıl ve kanıtla birlikte kullanarak seçenekler arasında yön bulmaktır.",
+        "Akılda kalacak son görüntü, beyin ile kalp arasında uzanan ve karanlık bir kavşakta yön gösteren sıcak renkli bir pusuladır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Descartes'ın Yanılgısı adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-phineas-gage-in-degisen-hayati": {
+      "image": "/images/summary-art-37-chapter-01-phineas-gage-v1.webp",
+      "imageCaption": "Demir çubuğun ardında sağlam kalan beceriler ve dağılan yaşam planı, ön alın bölgesinin rolünü gösterir."
+    },
+    "durak-03-elliot-neden-karar-veremiyordu": {
+      "image": "/images/summary-art-37-chapter-02-elliot-crossroads-v1.webp",
+      "imageCaption": "Sonsuz tabelalı kavşakta pusulasız duran insan, duygusal ağırlık olmadan kararın kilitlenmesini anlatır."
+    },
+    "durak-04-akil-ile-duygu-neden-rakip-degildir": {
+      "image": "/images/summary-art-37-chapter-03-reason-emotion-bridge-v1.webp",
+      "imageCaption": "Ayrı kıyılardaki akıl ve duyguyu bağlayan köprü, iyi kararın ortaklığını simgeler."
+    },
+    "durak-05-beyin-bedenden-ayri-dusunmez": {
+      "image": "/images/summary-art-37-chapter-04-body-brain-map-v1.webp",
+      "imageCaption": "Kalp, bağırsak ve beyini birbirine bağlayan canlı harita, zihnin bedensel temelini gösterir."
+    },
+    "durak-06-somatik-belirtec-nedir": {
+      "image": "/images/summary-art-37-chapter-05-somatic-marker-v1.webp",
+      "imageCaption": "Yol ayrımında bedenden yükselen kırmızı işaret, geçmiş sonucun seçeneğe hızlı ağırlık vermesini simgeler."
+    },
+    "durak-07-beden-dongusu-ve-sanki-dongusu": {
+      "image": "/images/summary-art-37-chapter-06-as-if-loop-v1.webp",
+      "imageCaption": "Gerçek beden yolu ile beynin kısa simülasyon yolu, iki duygusal döngüyü gösterir."
+    },
+    "durak-08-duygu-ile-his-ayni-sey-mi": {
+      "image": "/images/summary-art-37-chapter-07-emotion-feeling-layers-v1.webp",
+      "imageCaption": "Bedensel dalganın bilinçli duygu sözcüğüne yükselmesi, duygu ve his katmanlarını anlatır."
+    },
+    "durak-09-birincil-ve-ikincil-duygular": {
+      "image": "/images/summary-art-37-chapter-08-primary-secondary-v1.webp",
+      "imageCaption": "İlkel alarm dalgasının üzerine işlenen sosyal desenler, birincil ve öğrenilmiş duyguların ilişkisini gösterir."
+    },
+    "durak-10-iowa-kumar-masasi-ne-gosterdi": {
+      "image": "/images/summary-art-37-chapter-09-iowa-decks-v1.webp",
+      "imageCaption": "Dört kart destesinin önünde terleyen el, bilinçli açıklamadan önce oluşan risk işaretini gösterir."
+    },
+    "durak-11-on-alin-korteksi-yasam-duzenler": {
+      "image": "/images/summary-art-37-chapter-10-prefrontal-conductor-v1.webp",
+      "imageCaption": "Farklı beyin ve beden seslerini yöneten orkestra şefi, ön alın ağlarının koordinasyon rolünü gösterir."
+    },
+    "durak-12-akil-gelecegi-bedenle-prova-eder": {
+      "image": "/images/summary-art-37-chapter-11-future-simulation-v1.webp",
+      "imageCaption": "İki gelecek yolunu bedensel renklerle prova eden zihin, kararın simülasyon yönünü anlatır."
+    },
+    "durak-13-homeostazdan-toplumsal-duyguya": {
+      "image": "/images/summary-art-37-chapter-12-homeostasis-to-society-v1.webp",
+      "imageCaption": "Hücre dengesinden insan topluluğuna genişleyen halkalar, yaşam düzenlemenin katmanlarını gösterir."
+    },
+    "durak-14-descartes-in-asil-yanilgisi": {
+      "image": "/images/summary-art-37-chapter-13-mind-body-split-v1.webp",
+      "imageCaption": "Havada asılı zihin ile yaşayan beden arasındaki kopuk köprü, Kartezyen ayrımın sorununu simgeler."
+    },
+    "durak-15-duygu-olmadan-ahlak-olur-mu": {
+      "image": "/images/summary-art-37-chapter-14-moral-feeling-v1.webp",
+      "imageCaption": "Kural kitabı ile atan kalbin aynı terazide durması, ahlaki kararın çift kaynağını gösterir."
+    },
+    "durak-16-beden-bilgisi-tipta-ne-degistirir": {
+      "image": "/images/summary-art-37-chapter-15-clinic-real-life-v1.webp",
+      "imageCaption": "Test masası ile dağılmış gündelik yaşamı yan yana gösteren görüntü, klinik ölçümün sınırını anlatır."
+    },
+    "durak-17-yapay-zeka-bedensiz-akil-mi": {
+      "image": "/images/summary-art-37-chapter-16-embodied-ai-v1.webp",
+      "imageCaption": "Soğuk hesap makinesi ile kırılgan canlı beden arasındaki ışıklı köprü, bedensiz zekâ sorusunu gösterir."
+    }
+  }
+}

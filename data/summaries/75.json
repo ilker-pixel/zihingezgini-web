@@ -1,0 +1,350 @@
+{
+  "bookNo": 75,
+  "title": "Konuşmalar",
+  "author": "Konfüçyüs",
+  "subtitle": "İyi yönetimi cezadan önce örnek karakterde, insanlığı büyük nutuklardan önce gündelik ilişkide, öğrenmeyi bilgi toplamaktan önce kendini dönüştüren tekrar ve düşünmede arayan kısa konuşmalar bütünü.",
+  "coverImage": "/images/summary-cover-75-konusmalar-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/75-konusmalar-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#685F49",
+  "meta": {
+    "originalTitle": "Lunyu (Analects)",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Konfüçyüs bir sistem kitabı yazmadı; öğrencileriyle sorular, kısa cevaplar ve gündelik sahneler bıraktı. Bu parçalar iyi insanın nasıl konuştuğunu, öğrendiğini, ailesi ve toplumu içinde nasıl güvenilir hale geldiğini yavaş yavaş gösteren bir karakter mozaiğidir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Chinese Text Project - Analects",
+      "url": "https://ctext.org/analects"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Confucius",
+      "url": "https://plato.stanford.edu/entries/confucius/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Confucius",
+      "url": "https://iep.utm.edu/confucius/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "İyi yönetimi cezadan önce örnek karakterde, insanlığı büyük nutuklardan önce gündelik ilişkide, öğrenmeyi bilgi toplamaktan önce kendini dönüştüren tekrar ve düşünmede arayan kısa konuşmalar bütünü.",
+        "Metin Konfüçyüs'ün ölümünden sonra kuşaklar içinde derlenmiştir; tek sesli modern kitap gibi okunmamalıdır. Kavramların ilişki içindeki anlamını korurken hiyerarşi, ataerkillik ve tarihsel düzen sınırlarını da görünür tutmak gerekir.",
+        "Bu rehber, Konfüçyüs tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-ogrenmek-ve-zamaninda-uygulamak",
+      "section": "BİRİNCİ KISIM · ÖĞRENME",
+      "title": "Öğrenmek ve zamanında uygulamak",
+      "paragraphs": [
+        "Metin öğrenilen şeyi zaman zaman uygulamanın sevinciyle açılır. Bilgi depoda duran mal değil, davranışa dönüp tekrarlandıkça karakteri biçimlendiren etkinliktir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Nezaket üzerine kitap okuyup evde ilk sabırsızlıkta bağırmak, müzik notasını ezberleyip enstrümana dokunmamaya benzer.",
+        "Uygulama kör itaat değildir; Konfüçyüs öğrenme ile düşünmenin birbirine ihtiyaç duyduğunu söyler. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Okuduğunuz bir fikri özetlemek yerine bugün tek bir ilişkide nasıl davranışa çevireceğinizi belirleyin."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Öğrenmek ve zamanında uygulamak” başlığının yalnız kendi örneğini değil Konuşmalar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-ren-insanligin-iliskide-acilmasi",
+      "section": "BİRİNCİ KISIM · İNSANLIK",
+      "title": "Ren: insanlığın ilişkide açılması",
+      "paragraphs": [
+        "Ren merhamet, insanlık ve başkasını ciddiye alan karakter gibi çevrilebilir. Tek tanıma kapanmaz; kişi ebeveyn, dost, yönetici ve yabancıyla ilişkisinde bunu gerçekleştirir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Yaşlı komşunun poşetini taşımak küçük görünür; fakat onu engel değil ortak dünyanın üyesi sayan bakış ren'in gündelik yüzüdür.",
+        "Yakın ilişkiye ağırlık vermek dışarıdakileri ihmal riski taşır. Modern eşitlik, insanlık dairesini soy ve statünün ötesine genişletir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir kararın yalnız size değil, görünmeyen en kırılgan kişiye nasıl göründüğünü düşünün."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Ren: insanlığın ilişkide açılması” başlığının yalnız kendi örneğini değil Konuşmalar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-li-bos-toren-degil-davranis-bicimi",
+      "section": "İKİNCİ KISIM · RİTÜEL",
+      "title": "Li: boş tören değil davranış biçimi",
+      "paragraphs": [
+        "Li selamdan cenazeye, yemek düzeninden devlet törenine uzanan uygun davranış kalıplarıdır. Duyguyu bastırmak yerine ona ortak ve ölçülü bir biçim verir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Cenazede ne söyleyeceğimizi bilemeyince tören bizi taşır; sessizlik, sıra ve ortak hareket dağılmış acıya kap sağlar.",
+        "Ritüel içtenliksiz yapılırsa kabuk olur ve hiyerarşiyi dondurabilir. Konfüçyüs biçim ile insanlık ruhunun birleşmesini ister. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Ailede tekrarlanan bir geleneğin kimi yakınlaştırdığını, kimi susturduğunu ve hangi duyguyu taşıdığını sorun."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Li: boş tören değil davranış biçimi” başlığının yalnız kendi örneğini değil Konuşmalar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-junzi-soylu-dogmak-degil-olgunlasmak",
+      "section": "İKİNCİ KISIM · ÖRNEK KİŞİ",
+      "title": "Junzi: soylu doğmak değil olgunlaşmak",
+      "paragraphs": [
+        "Junzi eski aristokrat unvanından ahlaki örnek insana dönüşür. Doğumdan çok öğrenme, ölçü, sözünde durma ve ortak iyiyi gözetme belirleyicidir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Krizde önce kendine ayrıcalık ayırmayan yönetici, unvanından bağımsız olarak örnek kişinin güvenini üretir.",
+        "Metin yine eğitimli erkek seçkin dünyasında kalır; erdem idealini herkesin erişimine açmak modern yorumun görevidir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir lideri parlak sözünden önce hata anında kime öncelik verdiğiyle değerlendirin."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Junzi: soylu doğmak değil olgunlaşmak” başlığının yalnız kendi örneğini değil Konuşmalar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-kucuk-insan-yalniz-fakir-degildir",
+      "section": "İKİNCİ KISIM · ÇIKAR",
+      "title": "Küçük insan yalnız fakir değildir",
+      "paragraphs": [
+        "Xiaoren diye anılan küçük insan statü olarak aşağıda değil, kısa vadeli çıkarı ve görüntüyü ortak iyinin önüne koyan kişidir. Karşıtlık sınıftan çok karakter yönüdür. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Toplantıda her görüşünü patronun yüzüne göre değiştiren kişi bilgili olabilir ama güvenilir değildir.",
+        "Bu ikilik insanları kolayca etiketleme riski taşır. Herkes bazı anlarda dar çıkara, bazı anlarda geniş sorumluluğa yönelir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Kendinize 'kim küçük insan?' diye değil, bu kararda hangi küçük çıkarın görüşümü daralttığını sorun."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Küçük insan yalnız fakir değildir” başlığının yalnız kendi örneğini değil Konuşmalar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-ana-babaya-saygi-ne-demektir",
+      "section": "ÜÇÜNCÜ KISIM · AİLE",
+      "title": "Ana-babaya saygı ne demektir?",
+      "paragraphs": [
+        "Xiao aile içinde bakım, minnet ve devamlılık sorumluluğudur. Konfüçyüs yalnız beslemenin yetmediğini, saygılı ilişki gerektiğini söyler. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Yaşlı ebeveyne para göndermek ama sözünü hiç dinlememek bakımın maddi tarafını karşılar, insanlık tarafını eksik bırakabilir.",
+        "Aile itaati istismar ve ataerkilliği örtebilir. Metinde çocuğun saygılı biçimde itiraz etmesine de yer vardır; modern sınırlar daha açık olmalıdır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bakım görevinde sevgi, gerçek kapasite ve zarar verici talep arasındaki sınırı dürüstçe konuşun."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Ana-babaya saygı ne demektir?” başlığının yalnız kendi örneğini değil Konuşmalar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-kendine-istemedigini-baskasina-yapma",
+      "section": "ÜÇÜNCÜ KISIM · KARŞILIKLILIK",
+      "title": "Kendine istemediğini başkasına yapma",
+      "paragraphs": [
+        "Konfüçyüs'ün shu ilkesi, kendi konumundan çıkıp eylemin başkasına nasıl geleceğini düşünmeyi ister. Ahlak büyük kuramdan önce ilişkisel ölçü kazanır. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Gece gürültüsünü kendiniz komşudan duymak istemiyorsanız, müziğinizin duvardan geçtiğini hesaba katarsınız.",
+        "Başkası sizinle aynı istek ve koşullara sahip olmayabilir. Karşılıklılık empatiyle ve gerçek dinlemeyle tamamlanmalıdır. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir kuralı uygulamadan önce hem yer değiştirme testi yapın hem karşıdakine neye ihtiyacı olduğunu sorun."
+      ]
+    },
+    {
+      "id": "durak-09-sozden-once-davranis",
+      "section": "DÖRDÜNCÜ KISIM · GÜVEN",
+      "title": "Sözden önce davranış",
+      "paragraphs": [
+        "Örnek kişi sözlerinde ölçülü, davranışında hızlıdır; yapamadığı şeyi büyük cümlelerle vaat etmez. Güven tekrarlanan eylemden doğar. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Her hafta 'yarın gönderiyorum' diyen kişi sonunda doğru teslim etse bile ilişkiyi yıpratır; küçük gecikmeler karakter işareti olur.",
+        "Suskunluk her zaman erdem değildir; haksızlık karşısında açık söz gerekir. Ölçü, sözün eylemle desteklenmesidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Yeni vaat vermeden önce eski sözlerinizin hangisinin hâlâ açık olduğunu kontrol edin."
+      ]
+    },
+    {
+      "id": "durak-10-adlari-duzeltmek-neden-siyasi",
+      "section": "DÖRDÜNCÜ KISIM · ADLAR",
+      "title": "Adları düzeltmek neden siyasi?",
+      "paragraphs": [
+        "Adların düzeltilmesi, unvan ile davranışın uyuşmasını ister: yönetici gerçekten yönetici gibi, baba gerçekten baba gibi sorumluluk taşımalıdır. Sözcük bozulursa görev beklentisi de bulanır. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Kendine 'danışman' diyen kişi yalnız satış yapıyorsa ad güven üretip başka iş görür. Tabela ile eylem arasındaki fark toplumsal düzeni aşındırır.",
+        "Sabit rol adları toplumsal değişimi ve kimlik çeşitliliğini bastırabilir. İlke, dili dondurmak değil hesap verebilirliği korumak olarak okunmalıdır. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir kurumun parlak unvanını çıkarıp gerçekte kimi, nasıl etkilediğini sade fiillerle yazın."
+      ]
+    },
+    {
+      "id": "durak-11-erdemle-yonetmek",
+      "section": "BEŞİNCİ KISIM · SİYASET",
+      "title": "Erdemle yönetmek",
+      "paragraphs": [
+        "Yönetici yalnız ceza ile düzen kurarsa insanlar yakalanmamaya çalışır; örnek erdem ve uygun ritüel ise utanma ve iç ölçü geliştirebilir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Kuralı kendisi çiğneyen müdür daha çok kamera takar; sıraya kendisi uyan müdür davranışın topluluk normu olmasına yardım eder.",
+        "Örnek liderlik hukuk ve denetimin yerine geçmez. İyi niyetli hükümdara bağımlı sistem suistimale açıktır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir yöneticinin karakteri kadar onu sınırlayan şeffaf kural ve hesap verme mekanizmasını da arayın."
+      ]
+    },
+    {
+      "id": "durak-12-ceza-davranisi-egitim-karakteri-degistirir",
+      "section": "BEŞİNCİ KISIM · EĞİTİM",
+      "title": "Ceza davranışı, eğitim karakteri değiştirir",
+      "paragraphs": [
+        "Dış ceza insanı görünüşte uyumlu kılabilir; öğrenme ve ritüel ise neden doğru davranacağını içselleştirmesine yardım eder. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Kamera varken çöp atmayan kişi kamera yokken atabilir; ortak alanı kendi evi gibi gören kişi denetim olmadan da dikkat eder.",
+        "İçselleştirme toplumsal baskı ve utanç üretme riskini taşır. Eleştirel düşünme olmadan eğitim itaat olabilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir kural ihlalinde yalnız cezayı artırmak yerine hangi alışkanlık ve anlamın eksik kaldığını sorun."
+      ]
+    },
+    {
+      "id": "durak-13-muzik-ve-siir-karakteri-nasil-egitir",
+      "section": "ALTINCI KISIM · DUYGU EĞİTİMİ",
+      "title": "Müzik ve şiir karakteri nasıl eğitir?",
+      "paragraphs": [
+        "Konfüçyüs şiir, müzik ve ritüeli duyguların incelmesi ve ortak uyum için gerekli görür. İnsan yalnız emirle değil ritim ve örnekle öğrenir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Bir topluluk aynı şarkıyı söylediğinde nefes ve zaman ortaklaşır; bu bedensel uyum konuşmadan aidiyet üretir.",
+        "Ortak sanat milliyetçi tek sesliliğe dönüşebilir. Uyum farklı seslerin silinmesi değil ilişki kurması olmalıdır. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Okulda sanatın sınav dışı süs değil, dikkat ve birlikte yaşama eğitimi olduğunu düşünün."
+      ]
+    },
+    {
+      "id": "durak-14-zenginlik-ve-yoksullukta-olcu",
+      "section": "ALTINCI KISIM · ONUR",
+      "title": "Zenginlik ve yoksullukta ölçü",
+      "paragraphs": [
+        "Konfüçyüs doğru yoldan gelmeyen zenginlik ve unvanı geçici bulut sayar; yoksullukta bile öğrenme ve neşeyi koruyan öğrencisi Yan Hui'yi över. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Küçük evde çalışmasını sürdüren kişi, pahalı makam uğruna sözünü değiştiren kişiden daha özgür olabilir.",
+        "Yoksulluğu romantikleştirmek tehlikelidir; maddi yoksunluk sağlık ve eğitim imkânını gerçekten yok eder. Erdem adaletsizliği mazur göstermez. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Kazancın miktarı kadar hangi ilişki ve taviz karşılığında geldiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-15-gelenek-aktarmak-mi-yeniden-kurmak-mi",
+      "section": "YEDİNCİ KISIM · GEÇMİŞ",
+      "title": "Gelenek aktarmak mı yeniden kurmak mı?",
+      "paragraphs": [
+        "Konfüçyüs kendini icatçıdan çok eski Zhou düzeninin aktarıcısı sayar. Geçmiş, bugünün ahlaki dağınıklığını ölçmek için örnek deposudur. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Büyükannenin tarifini aynen korumak aile bağını taşır; malzeme değiştiğinde ölçüyü uyarlamak tarifi öldürmez.",
+        "Altın çağ özlemi geçmişteki baskı ve dışlamayı görünmezleştirebilir. Yaşayan gelenek eleştiri ve değişim ister. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir geleneği korurken hangi değeri taşıdığını ve hangi eski güç ilişkisini gereksiz yere sürdürdüğünü ayırın."
+      ]
+    },
+    {
+      "id": "durak-16-hata-gorunce-kendine-donmek",
+      "section": "YEDİNCİ KISIM · ÖZ ELEŞTİRİ",
+      "title": "Hata görünce kendine dönmek",
+      "paragraphs": [
+        "Erdemli kişi başkasındaki kusuru yalnız kınama fırsatı değil, kendi davranışını inceleme aynası olarak kullanır. Öğrenme utanmadan düzeltme kapasitesidir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Geç kalan arkadaşa kızarken kendi cevapsız mesajlarınızı hatırlamak suçu eşitlemez; yargının ölçüsünü dürüstleştirir.",
+        "Sürekli kendini suçlamak adaletsizliğe itirazı susturabilir. Öz eleştiri sorumluluk paylaşımını silmemelidir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir eleştiriyi dile getirmeden önce aynı ölçünün sizin hayatınızdaki en yakın karşılığını düşünün."
+      ]
+    },
+    {
+      "id": "durak-17-uyum-aynilasmak-degildir",
+      "section": "SEKİZİNCİ KISIM · BÜTÜN",
+      "title": "Uyum aynılaşmak değildir",
+      "paragraphs": [
+        "Konfüçyüs örnek kişinin uyum aradığını ama körce aynılaşmadığını söyler. İyi toplulukta farklı roller ve görüşler ortak ölçü içinde birbirini tamamlar. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Çorba yalnız tuzdan oluşmaz; farklı tatlar birbirini bastırmadan bütün kurar. Herkesin aynı cümleyi tekrarlaması uyum değil sessizlik olabilir.",
+        "Hiyerarşik düzen uyum adıyla muhalefeti bastırabilir. Modern okuma eşit söz hakkını merkeze eklemelidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Toplantıda hızlı uzlaşma olduğunda gerçekten ortak gerekçe mi, yoksa itiraz etmekten çekinen kişiler mi bulunduğunu sorun."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Konuşmalar yalnız büyüklere itaat ve eski törenleri aynen sürdürme kitabı değildir. İlişkisel görev, örnek liderlik, öz eleştiri ve insanlık merkezindedir; yine de metnin hiyerarşik ve ataerkil sınırları modern eşitlikle düzeltilmelidir.",
+        "Konuşmalar tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Konfüçyüs ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser Doğu Asya eğitim ve siyaset kültürünü derinden biçimlendirmiş, karakter ve örnek yönetim anlayışıyla canlı kalmıştır. Katı sınavcılık, aile itaati ve devlet hiyerarşisine araç edildiği dönemler eleştirilmiş; metnin çoğul, konuşmalı yapısının tek dogmaya indirgenemeyeceği vurgulanmıştır.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Konuşmalar için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Konuşmalar için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Sözüm davranışımla uyuyor mu? Bu ilişkide ritüelin taşıdığı insani değer ne, kimi dışarıda bırakıyor? Liderden beklediğim örneği kendi küçük rolümde ne kadar gösteriyorum?",
+        "Bu sorular Konuşmalar için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Konuşmalar üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İyi toplum yalnız ceza ve emirle kurulmaz; öğrenmeyi davranışa çeviren, ilişkilerde insanlığı gözeten, ad ile görevi uyumlu kılan örnek karakterlerin günlük tekrarlarıyla kurulur.",
+        "Akılda kalacak son görüntü, eski bir parşömenden çıkıp aile, okul ve yönetime dallanan sıcak renkli bambu yoludur. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Konuşmalar adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-ogrenmek-ve-zamaninda-uygulamak": {
+      "image": "/images/summary-art-75-chapter-01-learning-practice-v1.webp",
+      "imageCaption": "Kitap sayfasından günlük harekete uzanan fırça izi, öğrenmenin uygulamayla tamamlanmasını gösterir."
+    },
+    "durak-03-ren-insanligin-iliskide-acilmasi": {
+      "image": "/images/summary-art-75-chapter-02-ren-circle-v1.webp",
+      "imageCaption": "Bir insandan aileye ve yabancıya genişleyen sıcak halkalar, ren'in ilişkisel insanlığını gösterir."
+    },
+    "durak-04-li-bos-toren-degil-davranis-bicimi": {
+      "image": "/images/summary-art-75-chapter-03-ritual-vessel-v1.webp",
+      "imageCaption": "Dağınık duyguyu taşıyan sade tören kabı, li'nin düzenleyici rolünü gösterir."
+    },
+    "durak-05-junzi-soylu-dogmak-degil-olgunlasmak": {
+      "image": "/images/summary-art-75-chapter-04-junzi-lantern-v1.webp",
+      "imageCaption": "Soy armasını bırakıp elinde fener taşıyan kişi, junzi'nin ahlaki dönüşümünü simgeler."
+    },
+    "durak-06-kucuk-insan-yalniz-fakir-degildir": {
+      "image": "/images/summary-art-75-chapter-05-small-interest-v1.webp",
+      "imageCaption": "Büyük ortak haritaya sırtını dönüp küçük aynaya bakan kişi, dar çıkarı gösterir."
+    },
+    "durak-07-ana-babaya-saygi-ne-demektir": {
+      "image": "/images/summary-art-75-chapter-06-filial-care-v1.webp",
+      "imageCaption": "İki kuşağın birbirine su verdiği ağaç, aile bakımının karşılıklı köklerini gösterir."
+    },
+    "durak-08-kendine-istemedigini-baskasina-yapma": {
+      "image": "/images/summary-art-75-chapter-07-reciprocity-bridge-v1.webp",
+      "imageCaption": "İki kişinin yer değiştirdiği köprü, karşılıklılık ilkesini gösterir."
+    },
+    "durak-09-sozden-once-davranis": {
+      "image": "/images/summary-art-75-chapter-08-words-deeds-v1.webp",
+      "imageCaption": "Hafif söz bulutu ile ağır ayak izi, davranışın güven kurmadaki ağırlığını gösterir."
+    },
+    "durak-10-adlari-duzeltmek-neden-siyasi": {
+      "image": "/images/summary-art-75-chapter-09-rectifying-names-v1.webp",
+      "imageCaption": "Eğri tabelayı gerçek işle hizalayan el, adların düzeltilmesini simgeler."
+    },
+    "durak-11-erdemle-yonetmek": {
+      "image": "/images/summary-art-75-chapter-10-virtue-government-v1.webp",
+      "imageCaption": "Önde düzgün yürüyen lider ile onu izleyen topluluk, örnekle yönetimin gücünü gösterir."
+    },
+    "durak-12-ceza-davranisi-egitim-karakteri-degistirir": {
+      "image": "/images/summary-art-75-chapter-11-law-and-character-v1.webp",
+      "imageCaption": "Kamera gölgesi ile içeriden yanan küçük ışık, ceza ve karakter eğitimi farkını gösterir."
+    },
+    "durak-13-muzik-ve-siir-karakteri-nasil-egitir": {
+      "image": "/images/summary-art-75-chapter-12-music-harmony-v1.webp",
+      "imageCaption": "Farklı çalgıların tek ezgide buluşması, duygu ve toplumsal uyumu simgeler."
+    },
+    "durak-14-zenginlik-ve-yoksullukta-olcu": {
+      "image": "/images/summary-art-75-chapter-13-wealth-cloud-v1.webp",
+      "imageCaption": "Geçici altın bulutun altında sağlam duran sade masa, onur ile servet ayrımını gösterir."
+    },
+    "durak-15-gelenek-aktarmak-mi-yeniden-kurmak-mi": {
+      "image": "/images/summary-art-75-chapter-14-living-tradition-v1.webp",
+      "imageCaption": "Eski parşömenden yeni filize uzanan çizgi, geleneğin aktarım ve değişimini gösterir."
+    },
+    "durak-16-hata-gorunce-kendine-donmek": {
+      "image": "/images/summary-art-75-chapter-15-self-mirror-v1.webp",
+      "imageCaption": "Başkası işaret edilirken içe dönen küçük ayna, öz eleştiri alışkanlığını gösterir."
+    },
+    "durak-17-uyum-aynilasmak-degildir": {
+      "image": "/images/summary-art-75-chapter-16-harmony-difference-v1.webp",
+      "imageCaption": "Farklı renklerin tek desende kaybolmadan birleşmesi, uyum ile aynılaşma farkını gösterir."
+    }
+  }
+}
