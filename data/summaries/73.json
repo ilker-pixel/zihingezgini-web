@@ -1,0 +1,348 @@
+{
+  "bookNo": 73,
+  "title": "Dhammapada",
+  "author": "Buda",
+  "subtitle": "Zihnin öfke, arzu ve dikkatsizlikle nasıl acı ürettiğini; uyanıklık, şefkat ve pratik yol aracılığıyla nasıl özgürleşebileceğini kısa dizelerle anlatan Budist bilgelik klasiği.",
+  "coverImage": "/images/summary-cover-73-dhammapada-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/73-dhammapada-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#B06E32",
+  "meta": {
+    "originalTitle": "Dhammapada / Sayings of the Dhamma",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Biri sizi sabah trafikte sıkıştırdığında araba çoktan uzaklaşır, fakat tartışma zihninizde saatlerce devam edebilir. Dhammapada dış olayı değil ona tutunarak büyüyen iç ateşi görmeye çağırır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "SuttaCentral - Dhammapada",
+      "url": "https://suttacentral.net/edition/dhp/en/sujato"
+    },
+    {
+      "id": 2,
+      "title": "SuttaCentral - Dhammapada introduction",
+      "url": "https://suttacentral.net/edition/dhp/en/sujato/introduction"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Zihnin öfke, arzu ve dikkatsizlikle nasıl acı ürettiğini; uyanıklık, şefkat ve pratik yol aracılığıyla nasıl özgürleşebileceğini kısa dizelerle anlatan Budist bilgelik klasiği.",
+        "Metin 423 dizeden ve 26 tematik bölümden oluşur. Buradaki rehber dizeleri birebir çevirmek yerine ana düşünceyi gündelik sahnelerle açıklar. Öğretiyi pasif kadercilik değil dikkat, etik ve zihinsel eğitim yolu olarak okumak gerekir.",
+        "Bu rehber, Buda tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-zihin-onden-gider",
+      "section": "BİRİNCİ KISIM · ZİHİN",
+      "title": "Zihin önden gider",
+      "paragraphs": [
+        "Dhammapada deneyimin düşünce ve niyetle biçimlendiğini vurgular. Aynı olay kinle beslendiğinde başka, berrak niyetle karşılandığında başka sonuç üretir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Yağmuru biri mahvolan piknik, çiftçi bereket olarak yaşar; damlalar aynı, zihnin kurduğu dünya farklıdır.",
+        "Bu düşünce dış koşulların önemsiz olduğu veya mağdurun acısını kendi düşüncesiyle yarattığı anlamına gelmez. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir rahatsızlıkta olay ile zihnin eklediği yorum zincirini ayırın."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Zihin önden gider” başlığının yalnız kendi örneğini değil Dhammapada boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-kin-kini-bitirmez",
+      "section": "BİRİNCİ KISIM · İKİLİKLER",
+      "title": "Kin kini bitirmez",
+      "paragraphs": [
+        "Öfkeye aynı öfkeyle cevap vermek kısa süre güç hissi verse de düşmanlık döngüsünü besler. Kin ancak intikam mantığı bırakıldığında sönebilir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Apartmanda yüksek ses kavgası her gece daha sert karşılıklarla büyür; biri konuşma saati önerince döngü ilk kez değişir.",
+        "Şiddetsiz cevap sınır koymamak değildir. Güvenlik ve adalet, kin üretmeden de korunabilir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Hak arama ile karşı tarafın acı çekmesini isteme duygusunu ayırın."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Kin kini bitirmez” başlığının yalnız kendi örneğini değil Dhammapada boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-uyaniklik-olumsuzluk-yolu",
+      "section": "İKİNCİ KISIM · DİKKAT",
+      "title": "Uyanıklık ölümsüzlük yolu",
+      "paragraphs": [
+        "Uyanıklık, hayatı otomatik alışkanlıkla kaçırmamak ve eylemin sonucunu görebilmektir. Dikkatsiz kişi bedenen yaşarken kendi kararlarının yönünü fark etmez. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Telefonu açıp bir dakika bakmak isteyen kişi yarım saat sonra neden girdiğini unutabilir.",
+        "Sürekli tetikte olmak kaygı değildir. Uyanıklık yargısız fark ediş ve doğru zamanda eylemdir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Günde bir alışkanlığı başlamadan, sürerken ve bittikten sonra bilinçli olarak gözleyin."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Uyanıklık ölümsüzlük yolu” başlığının yalnız kendi örneğini değil Dhammapada boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-maymun-gibi-sicrayan-zihin",
+      "section": "İKİNCİ KISIM · DİKKAT",
+      "title": "Maymun gibi sıçrayan zihin",
+      "paragraphs": [
+        "Zihin hoş olandan hoş olmayana, geçmişten geleceğe hızla atlar. Eğitim onu zorla dondurmak değil dağıldığını görüp seçilen yere tekrar getirmektir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Kitap okurken bir mesaj sesiyle alışverişe, oradan eski tartışmaya geçen düşünce birkaç saniyede üç dünya dolaşır.",
+        "Düşüncenin dağılması ahlaki başarısızlık değildir. Geri dönme hareketi eğitimin kendisidir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Dikkatin koptuğunu fark ettiğiniz anı yenilgi değil dönüş noktası sayın."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Maymun gibi sıçrayan zihin” başlığının yalnız kendi örneğini değil Dhammapada boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-cicegi-toplarken-sel-gelir",
+      "section": "ÜÇÜNCÜ KISIM · FANİLİK",
+      "title": "Çiçeği toplarken sel gelir",
+      "paragraphs": [
+        "Haz ve plan peşinde çevredeki değişimi görmeyen kişi, ölüm ve kayıp gerçeğine hazırlıksız yakalanır. Çiçek benzetmesi güzel şeylere düşman değil onlara kalıcıymış gibi tutunmaya uyarıdır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Tatil fotoğrafını kusursuzlaştırmaya çalışan kişi yanındaki insanla geçen gerçek saati kaçırabilir.",
+        "Fanilik düşüncesi yaşam sevincini söndürmek zorunda değildir; tam tersine geçici anın değerini keskinleştirir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bugün önemsiz ertelediğiniz bir ilişkinin sonsuz olmadığını hatırlayın."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Çiçeği toplarken sel gelir” başlığının yalnız kendi örneğini değil Dhammapada boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-aptalligin-sessiz-bicimi",
+      "section": "ÜÇÜNCÜ KISIM · BİLGELİK",
+      "title": "Aptallığın sessiz biçimi",
+      "paragraphs": [
+        "Metindeki aptal yalnız az bilgi sahibi kişi değildir; bilmediğini bilmeyen ve sonucuna bakmadan kendini haklı sanandır. Bilgeliğin ilk işareti sınırı fark etmektir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Haritayı yanlış okuyan kişi yardım istemezse bütün grubu uzaklaştırır; hatayı kabul etmek yön bilgisinden önce gelir.",
+        "Bu dili insanları küçümsemek için kullanmak öğretinin özüne ters düşer. Amaç başkasını etiketlemek değil kendi körlüğünü görmektir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Kesin konuştuğunuz bir konuda sizi fikrinizden döndürecek kanıtı yazın."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Aptallığın sessiz biçimi” başlığının yalnız kendi örneğini değil Dhammapada boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-bilgeyle-karsilasmanin-rahatsizligi",
+      "section": "ÜÇÜNCÜ KISIM · BİLGELİK",
+      "title": "Bilgeyle karşılaşmanın rahatsızlığı",
+      "paragraphs": [
+        "Gerçek dost yalnız hoş söz söylemez; hatayı gösteren kişi gizli hazineye işaret edebilir. Öğrenmek egonun kısa süreli rahatsızlığını taşımayı gerektirir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Antrenör koşu biçiminizi eleştirince gurur incinir ama sakatlığı önleyebilir.",
+        "Her sert eleştiri bilgelik değildir. Niyet, bilgi ve düzeltilebilir öneri aranmalıdır. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Eleştiride canınızı acıtan tonla işe yarayan içeriği ayrı değerlendirin."
+      ],
+      "extraParagraphs": [
+        "Bu fikri gerçek bir sınamaya sokmak için, “Bilgeyle karşılaşmanın rahatsızlığı” başlığının yalnız kendi örneğini değil Dhammapada boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-bin-bos-soz-yerine-bir-yararli-soz",
+      "section": "DÖRDÜNCÜ KISIM · ÖLÇÜ",
+      "title": "Bin boş söz yerine bir yararlı söz",
+      "paragraphs": [
+        "Metin miktardan çok dönüştürücü doğruluğu önemser. Çok konuşmak veya çok ritüel yapmak, tek bir açık görüş ve eylemin yerini tutmaz. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Saatlerce sağlıklı yaşam videosu izlemek, akşam on dakikalık yürüyüş kadar bedeni değiştirmeyebilir.",
+        "Kısa sözün etkili olması basit sloganın her zaman doğru olduğu anlamına gelmez. Derinlik bazen uzun emek ister. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Topladığınız bilgi içinde davranışa çevrilecek tek cümleyi seçin."
+      ]
+    },
+    {
+      "id": "durak-10-kotuluk-damla-damla-dolar",
+      "section": "DÖRDÜNCÜ KISIM · EYLEM",
+      "title": "Kötülük damla damla dolar",
+      "paragraphs": [
+        "Küçük zararı önemsiz saymak alışkanlık yoluyla büyük sonuç üretir. Aynı biçimde küçük iyi eylemler de zamanla karakteri ve çevreyi değiştirir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Her gün yere atılan tek plastik şişe kişiye küçük görünür; bin kişinin alışkanlığı dereyi doldurur.",
+        "Sonuç birikimi niyeti önemsiz yapmaz; kazara zarar ile bilinçli tekrar farklı değerlendirilir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "'Bir kereden ne olur?' dediğiniz davranışın toplu tekrarını hayal edin."
+      ]
+    },
+    {
+      "id": "durak-11-siddetin-karsisinda-kendini-gormek",
+      "section": "DÖRDÜNCÜ KISIM · ŞEFKAT",
+      "title": "Şiddetin karşısında kendini görmek",
+      "paragraphs": [
+        "Bütün canlıların acıdan kaçıp yaşamı sevdiğini hatırlamak, başkasına vurmayı kendi korkumuzla ilişkilendirir. Şefkat benzer kırılganlığı fark etmektir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Korkmuş köpeğe yaklaşırken onun ısırığını yalnız saldırı değil kendini koruma çabası olarak görmek davranışı değiştirir.",
+        "Şefkat tehlikeli davranışı serbest bırakmak değildir. Zararı durdurmak bazen kesin sınır ister. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir çatışmada karşı tarafın korkusunu anlamayı, davranışını onaylamaktan ayırın."
+      ]
+    },
+    {
+      "id": "durak-12-yaslanan-bedenin-aynasi",
+      "section": "BEŞİNCİ KISIM · ZAMAN",
+      "title": "Yaşlanan bedenin aynası",
+      "paragraphs": [
+        "Gençlik ve sağlık kalıcı değilken yalnız bedene ve görünüşe tutunmak kaçınılmaz değişimi düşman yapar. Yaşlılık gerçeği öncelikleri berraklaştırabilir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Dolapta artık olmayan bedene göre saklanan kıyafet, değişimi kabul etmemenin sessiz yüküne dönüşür.",
+        "Bedeni geçici görmek bakımı bırakmak değildir. Sağlığı korumak ile sonsuz gençlik talebi ayrıdır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bedenin değişimine öfke yerine bugün yapabildiği şeyi fark edin."
+      ]
+    },
+    {
+      "id": "durak-13-kendi-kendinin-siginagi",
+      "section": "BEŞİNCİ KISIM · SORUMLULUK",
+      "title": "Kendi kendinin sığınağı",
+      "paragraphs": [
+        "Öğretmen yolu gösterebilir ama yürüyüşü kişinin dikkat ve eylemi yapar. Dış otoriteye körce sığınmak yerine deneyimi sınamak ve disiplini üstlenmek gerekir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Doktor egzersiz planı verir; kası geliştiren reçetenin kâğıdı değil hastanın tekrarıdır.",
+        "Kendi sığınağın olmak topluluk ve öğretmeni reddetmek değildir. Budist yol sangha ve rehberliği de önemser. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir değişimde tavsiye toplamayı bırakıp yapacağınız en küçük tekrarı belirleyin."
+      ]
+    },
+    {
+      "id": "durak-14-dunya-bir-serap-mi",
+      "section": "BEŞİNCİ KISIM · GÖRÜŞ",
+      "title": "Dünya bir serap mı?",
+      "paragraphs": [
+        "Dünya deneyimini köpük ve serap gibi görmek hiçbir şey yok demek değil, şeyleri sabit ve bağımsız sanmanın yanılgısını fark etmektir. Olaylar koşullara bağlı ve değişkendir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Gökkuşağı gerçektir ama tutulup saklanamaz; ışık, su ve bakış açısı değişince kaybolur.",
+        "Geçicilik gündelik gerçekliği inkâr etmez. Borç, acı ve söz verilen iş koşullu olsa da sonuç taşır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir sorunu değişmez kimlik yerine onu sürdüren koşullar ağı olarak görün."
+      ]
+    },
+    {
+      "id": "durak-15-mutluluk-sahip-olmakta-mi",
+      "section": "ALTINCI KISIM · HUZUR",
+      "title": "Mutluluk sahip olmakta mı?",
+      "paragraphs": [
+        "Dhammapada huzuru arzunun her istediğini elde etmesinde değil, arzunun zihni sürükleme gücünün azalmasında arar. Düşmanlık içermeyen yaşam, dış zaferden daha güvenlidir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Yeni telefon sevinci kısa sürer ve daha yenisi görünür; arkadaşla sakin yürüyüş karşılaştırma ateşini beslemez.",
+        "Arzunun bütünü kötü değildir. Açlık, merak ve adalet isteği eyleme yön verebilir; sorun kör tutunmadır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir isteğin karşılanınca gerçekten doyup doymadığını birkaç gün sonra yeniden gözleyin."
+      ]
+    },
+    {
+      "id": "durak-16-ofkeyi-ofkesizlikle-yenmek",
+      "section": "ALTINCI KISIM · DUYGU",
+      "title": "Öfkeyi öfkesizlikle yenmek",
+      "paragraphs": [
+        "Öfkeye boyun eğmemek onu bastırmak değil beden ve düşüncede yükselişini görüp zarar vermeyen cevap seçmektir. Cömertlik ve doğruluk karşıt alışkanlığı güçlendirir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Mesaja kızgınken hemen cevap vermek yerine yürüyüp dönmek, duyguyu inkâr etmeden ateşin dili ele geçirmesini önler.",
+        "Haklı öfke adaletsizliği görünür kılabilir. Hedef, enerjiyi kişiyi yok etmeye değil sorunu değiştirmeye yöneltmektir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Öfke anında cevap süresini uzatan fiziksel bir alışkanlık kurun."
+      ]
+    },
+    {
+      "id": "durak-17-sekiz-katli-yolun-gundelik-yuzu",
+      "section": "ALTINCI KISIM · YOL",
+      "title": "Sekiz katlı yolun gündelik yüzü",
+      "paragraphs": [
+        "Doğru görüş, niyet, söz, eylem, geçim, çaba, farkındalık ve yoğunlaşma birbirini destekleyen bir eğitim bütünüdür. Yalnız meditasyon veya yalnız iyi niyet yeterli değildir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Temiz su isteyen kişi kaynağı anlamalı, kirletmemeli, komşusuyla doğru konuşmalı ve bakım işini düzenli sürdürmelidir.",
+        "'Doğru' sözü tek bir katı reçete gibi değil acıyı azaltan, yanılsamayı açan uygunluk olarak düşünülmelidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bugün yolun hangi halkasının zayıf olduğunu ve ötekileri nasıl etkilediğini bulun."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Dhammapada acının yalnız düşünceden doğduğunu, dış dünyaya karşı pasif kalmayı veya bütün arzuları mekanik biçimde bastırmayı öğretmez. Etik davranış, dikkat ve bilgelikle tutunmanın ürettiği gereksiz acıyı azaltan pratik bir yol sunar.",
+        "Dhammapada tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Buda ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Dhammapada Budist dünyanın en çok okunan metinlerinden biridir; kısa ve güçlü dizeleri farklı geleneklerde yorumlanmıştır. Dizeleri tarihsel bağlamdan koparıp kişisel gelişim sloganına çevirmek, karma ve keşişlik bağlamını silmek yaygın eleştiridir.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Dhammapada için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Dhammapada için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Olay bittiği hâlde zihnim hangi hikâyeyi sürdürüyor? Bu küçük alışkanlık bin kez tekrarlansa ne olur? Şefkat gösterirken hangi sınırı korumalıyım?",
+        "Bu sorular Dhammapada için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Dhammapada üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Zihin deneyimin yönünü belirler; dikkat, etik ve bilgelikle eğitildiğinde öfke ve tutunmanın büyüttüğü acı azalır, insan dünyaya daha berrak ve şefkatli cevap verebilir.",
+        "Akılda kalacak son görüntü, bulanık su üstünde açan turuncu lotus çiçeğinin yapraklarında öfke ateşinin sakin bir yola dönüşmesidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Dhammapada adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-zihin-onden-gider": {
+      "image": "/images/summary-art-73-chapter-01-zihin-onden-gider-v1.webp",
+      "imageCaption": "Zihin önden gider fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-03-kin-kini-bitirmez": {
+      "image": "/images/summary-art-73-chapter-02-kin-kini-bitirmez-v1.webp",
+      "imageCaption": "Kin kini bitirmez fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-04-uyaniklik-olumsuzluk-yolu": {
+      "image": "/images/summary-art-73-chapter-03-uyaniklik-olumsuzluk-yolu-v1.webp",
+      "imageCaption": "Uyanıklık ölümsüzlük yolu fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-05-maymun-gibi-sicrayan-zihin": {
+      "image": "/images/summary-art-73-chapter-04-maymun-gibi-sicrayan-zihin-v1.webp",
+      "imageCaption": "Maymun gibi sıçrayan zihin fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-06-cicegi-toplarken-sel-gelir": {
+      "image": "/images/summary-art-73-chapter-05-cicegi-toplarken-sel-gelir-v1.webp",
+      "imageCaption": "Çiçeği toplarken sel gelir fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-07-aptalligin-sessiz-bicimi": {
+      "image": "/images/summary-art-73-chapter-06-aptalligin-sessiz-bicimi-v1.webp",
+      "imageCaption": "Aptallığın sessiz biçimi fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-08-bilgeyle-karsilasmanin-rahatsizligi": {
+      "image": "/images/summary-art-73-chapter-07-bilgeyle-karsilasmanin-rahatsizligi-v1.webp",
+      "imageCaption": "Bilgeyle karşılaşmanın rahatsızlığı fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-09-bin-bos-soz-yerine-bir-yararli-soz": {
+      "image": "/images/summary-art-73-chapter-08-bin-bos-soz-yerine-bir-yararli-soz-v1.webp",
+      "imageCaption": "Bin boş söz yerine bir yararlı söz fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-10-kotuluk-damla-damla-dolar": {
+      "image": "/images/summary-art-73-chapter-09-kotuluk-damla-damla-dolar-v1.webp",
+      "imageCaption": "Kötülük damla damla dolar fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-11-siddetin-karsisinda-kendini-gormek": {
+      "image": "/images/summary-art-73-chapter-10-siddetin-karsisinda-kendini-gormek-v1.webp",
+      "imageCaption": "Şiddetin karşısında kendini görmek fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-12-yaslanan-bedenin-aynasi": {
+      "image": "/images/summary-art-73-chapter-11-yaslanan-bedenin-aynasi-v1.webp",
+      "imageCaption": "Yaşlanan bedenin aynası fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-13-kendi-kendinin-siginagi": {
+      "image": "/images/summary-art-73-chapter-12-kendi-kendinin-siginagi-v1.webp",
+      "imageCaption": "Kendi kendinin sığınağı fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-14-dunya-bir-serap-mi": {
+      "image": "/images/summary-art-73-chapter-13-dunya-bir-serap-mi-v1.webp",
+      "imageCaption": "Dünya bir serap mı? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-15-mutluluk-sahip-olmakta-mi": {
+      "image": "/images/summary-art-73-chapter-14-mutluluk-sahip-olmakta-mi-v1.webp",
+      "imageCaption": "Mutluluk sahip olmakta mı? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-16-ofkeyi-ofkesizlikle-yenmek": {
+      "image": "/images/summary-art-73-chapter-15-ofkeyi-ofkesizlikle-yenmek-v1.webp",
+      "imageCaption": "Öfkeyi öfkesizlikle yenmek fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-17-sekiz-katli-yolun-gundelik-yuzu": {
+      "image": "/images/summary-art-73-chapter-16-sekiz-katli-yolun-gundelik-yuzu-v1.webp",
+      "imageCaption": "Sekiz katlı yolun gündelik yüzü fikrini somutlaştıran simgesel sahne."
+    }
+  }
+}

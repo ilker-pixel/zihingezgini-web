@@ -1,0 +1,348 @@
+{
+  "bookNo": 65,
+  "title": "Ünlü Yunanlıların ve Romalıların Yaşamları",
+  "author": "Plutarkhos",
+  "subtitle": "Yunan ve Romalı önderleri ikili aynalarda karşılaştırarak tarihin büyük savaşlarından çok karakterin küçük anlarda nasıl ortaya çıktığını gösteren canlı biyografi galerisi.",
+  "coverImage": "/images/summary-cover-65-paralel-yasamlar-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/65-paralel-yasamlar-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#8B6244",
+  "meta": {
+    "originalTitle": "Parallel Lives / Bioi Paralleloi",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Plutarkhos için bir komutanın sofrasında söylediği tek cümle bazen kazandığı üç savaştan daha açıklayıcıdır. Çünkü tarih olayların listesini verir, küçük davranış ise insanın güç eline geçtiğinde kim olduğunu ele verir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Perseus - Plutarch Parallel Lives list",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aentry%3Dplutarchus-bio-1"
+    },
+    {
+      "id": 2,
+      "title": "Perseus - Alexander, chapter 1",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0243%3Achapter%3D1"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Yunan ve Romalı önderleri ikili aynalarda karşılaştırarak tarihin büyük savaşlarından çok karakterin küçük anlarda nasıl ortaya çıktığını gösteren canlı biyografi galerisi.",
+        "Eser modern anlamda tarafsız biyografi değildir. Plutarkhos ahlaki portre çizer, rivayetleri ve konuşmaları kullanır, Yunan ile Romalıyı bir çift halinde karşılaştırır. Öyküleri hem insan doğası aynası hem tarihsel kaynak olarak dikkatle okumak gerekir.",
+        "Bu rehber, Plutarkhos tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-tarih-degil-karakter-portresi",
+      "section": "BİRİNCİ KISIM · YÖNTEM",
+      "title": "Tarih değil karakter portresi",
+      "paragraphs": [
+        "Plutarkhos bütün olayları eksiksiz anlatmak yerine karakteri açan küçük işaretleri seçer. Büyük zafer şansla gelebilir; öfke anındaki söz veya yenilgideki tutum insanı daha çıplak gösterir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "İşyerinde müdürün sunumu değil çay döken görevliye davranışı, gücü nasıl taşıdığını daha iyi anlatabilir.",
+        "Küçük anekdotlar seçilmiş ve süslenmiş olabilir. Onları kamera kaydı değil ahlaki portre malzemesi saymak gerekir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir lideri yalnız sonuçla değil baskı altındaki küçük davranışla değerlendirin."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Tarih değil karakter portresi” başlığının yalnız kendi örneğini değil Ünlü Yunanlıların ve Romalıların Yaşamları boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-neden-yunanli-ile-romali-eslesir",
+      "section": "BİRİNCİ KISIM · YÖNTEM",
+      "title": "Neden Yunanlı ile Romalı eşleşir?",
+      "paragraphs": [
+        "Her çift benzer rol veya kader taşıyan bir Yunan ve Romalıyı yan yana koyar. Farklı toplumlarda aynı hırsın, erdemin veya kusurun nasıl başka sonuç verdiği görünür. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "İki okul müdürü aynı bütçeyle çalışır; biri güven kurar, diğeri korku. Karşılaştırma koşul ve karakteri ayırmaya yardım eder.",
+        "Eşleşmeler her zaman kusursuz değildir ve kültürleri tek kişiye indirger. Plutarkhos'un amacı deney düzeneği değil düşünce aynasıdır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "İki kişiyi karşılaştırırken benzer görev kadar farklı tarihsel koşulu da yazın."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Neden Yunanlı ile Romalı eşleşir?” başlığının yalnız kendi örneğini değil Ünlü Yunanlıların ve Romalıların Yaşamları boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-theseus-ve-romulus-kurucu-kahraman",
+      "section": "İKİNCİ KISIM · KURUCULAR",
+      "title": "Theseus ve Romulus: kurucu kahraman",
+      "paragraphs": [
+        "Atina'nın Theseus'u ile Roma'nın Romulus'u şehir kurucu efsaneler olarak eşleşir. Plutarkhos, toplumu birleştiren kahramanlığın aile şiddeti ve iktidar hırsıyla nasıl gölgelenebildiğini gösterir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Dağınık köyleri tek kentte toplayan lider düzen kurar; aynı güç rakibini ve hatta akrabasını ortadan kaldırma bahanesine dönüşebilir.",
+        "Efsane ile tarih iç içedir. Erken dönem anlatıları kesin biyografik veri gibi kullanılmamalıdır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Kurucu hikâyenin topluma hangi değeri öğrettiğini ve hangi şiddeti örttüğünü sorun."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Theseus ve Romulus: kurucu kahraman” başlığının yalnız kendi örneğini değil Ünlü Yunanlıların ve Romalıların Yaşamları boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-lykurgos-ve-numa-yasa-ile-terbiye",
+      "section": "İKİNCİ KISIM · YASA",
+      "title": "Lykurgos ve Numa: yasa ile terbiye",
+      "paragraphs": [
+        "Sparta'nın Lykurgos'u sert ortak disiplinle, Roma'nın Numa'sı din ve barış törenleriyle yurttaş biçimlendirir. Yasa yalnız ceza değil alışkanlık ve karakter eğitimidir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Bir okul yalnız yasak levhasıyla değil her gün tekrarlanan sıra, paylaşım ve törenlerle davranış üretir.",
+        "Sparta düzenini hayranlıkla anlatmak kölelik ve bireysel baskıyı gizleyebilir. Numa anlatısı da büyük ölçüde efsanedir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir kurumun yazılı kuralından çok tekrarlanan alışkanlığının kimi yetiştirdiğine bakın."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Lykurgos ve Numa: yasa ile terbiye” başlığının yalnız kendi örneğini değil Ünlü Yunanlıların ve Romalıların Yaşamları boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-solon-ve-publicola-iktidari-sinirlamak",
+      "section": "İKİNCİ KISIM · YASA",
+      "title": "Solon ve Publicola: iktidarı sınırlamak",
+      "paragraphs": [
+        "Solon borç krizi içindeki Atina'da uzlaşma, Publicola krallık sonrası Roma'da cumhuriyetçi güven arar. İyi yasa tek tarafın tam zaferi değil kalıcı çatışmayı yönetme çabasıdır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Borçlu ile alacaklının ikisini de tamamen memnun etmeyen ama iç savaşı önleyen düzenleme, başarısızlık değil denge olabilir.",
+        "Uzlaşma her zaman adil değildir; güçsüz tarafın temel hakkı pazarlık konusu yapılabilir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir reformu yalnız hızlı memnuniyetle değil çatışmayı hangi kuralla sürdürülebilir kıldığıyla ölçün."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Solon ve Publicola: iktidarı sınırlamak” başlığının yalnız kendi örneğini değil Ünlü Yunanlıların ve Romalıların Yaşamları boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-themistokles-ve-camillus-kurtarici-hirs",
+      "section": "ÜÇÜNCÜ KISIM · SAVAŞ",
+      "title": "Themistokles ve Camillus: kurtarıcı hırs",
+      "paragraphs": [
+        "İki komutan şehirlerini büyük tehlikeden kurtarır, fakat başarıları gurur, sürgün ve yurttaşlarla gerilim taşır. Kamusal yarar ile kişisel şöhret aynı eylemde birleşebilir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Yangını söndüren kişi alkış bekleyebilir; alkış gelmeyince öfkelenmesi yaptığı iyiliği silmez ama karakterin başka yanını açar.",
+        "Komutan anekdotları zafer kazananların bakışından aktarılır; sıradan asker ve düşman görünmez kalır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir kahramanlık hikâyesinde ortak emeği ve liderin kişisel kazancını ayırın."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Themistokles ve Camillus: kurtarıcı hırs” başlığının yalnız kendi örneğini değil Ünlü Yunanlıların ve Romalıların Yaşamları boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-perikles-ve-fabius-sabir-siyaseti",
+      "section": "ÜÇÜNCÜ KISIM · SAVAŞ",
+      "title": "Perikles ve Fabius: sabır siyaseti",
+      "paragraphs": [
+        "Perikles uzun vadeli strateji ve kamu sözüyle, Fabius ise Hannibal karşısında geciktirme taktiğiyle sabrın siyasi değerini gösterir. Kalabalık hızlı zafer isterken beklemek cesaret olabilir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Rakibin güçlü olduğu gün saldırmayan antrenör korkak görünür; sezonu koruyan plan sonradan anlaşılır.",
+        "Bekleme bazen bilgelik değil sorumluluktan kaçıştır. Ölçü, açık amaç ve değişen koşula verilen cevaptır. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir gecikmenin hangi bilgiye ve hedefe dayandığını sorun."
+      ],
+      "extraParagraphs": [
+        "Bu fikri gerçek bir sınamaya sokmak için, “Perikles ve Fabius: sabır siyaseti” başlığının yalnız kendi örneğini değil Ünlü Yunanlıların ve Romalıların Yaşamları boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-alkibiades-ve-coriolanus-yetenek-yetmez",
+      "section": "ÜÇÜNCÜ KISIM · HIRS",
+      "title": "Alkibiades ve Coriolanus: yetenek yetmez",
+      "paragraphs": [
+        "İki parlak savaşçı gurur, kırgınlık ve halkla çatışma yüzünden kendi şehirlerine zarar verir. Büyük yetenek karakter kusurunu büyüterek daha tehlikeli sonuç yaratabilir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Şirketin en yetenekli çalışanı eleştiri kabul etmez ve rakibe geçip sırları kullanırsa becerisi kurumu iki kez yaralar.",
+        "Halkla çatışmayı yalnız kişisel kibir açıklamaz; sınıf ve kurum gerilimleri de önemlidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir yeteneği ödüllendirirken işbirliği ve sınır kabul etme kapasitesini de değerlendirin."
+      ]
+    },
+    {
+      "id": "durak-10-aristides-ve-cato-dogrulugun-sertligi",
+      "section": "DÖRDÜNCÜ KISIM · ERDEM",
+      "title": "Aristides ve Cato: doğruluğun sertliği",
+      "paragraphs": [
+        "Aristides adalet, Yaşlı Cato tutumluluk ve eski erdemlerle tanınır. Plutarkhos erdemin güven verdiğini, fakat katılaşınca değişime ve merhamete kapanabileceğini de gösterir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Her dosyada aynı kuralı uygulayan yönetici dürüsttür; olağanüstü hastalık durumunu görmezse adalet mekanikleşir.",
+        "Antik erdem anlayışı kölelik ve patriyarka içinde kurulmuştur; evrensel ölçü diye doğrudan alınamaz. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir ilkenin tutarlılığıyla duruma duyarlılığı arasında denge arayın."
+      ]
+    },
+    {
+      "id": "durak-11-nicias-ve-crassus-zenginlik-ile-korku",
+      "section": "DÖRDÜNCÜ KISIM · YENİLGİ",
+      "title": "Nicias ve Crassus: zenginlik ile korku",
+      "paragraphs": [
+        "Nicias aşırı çekingenlik ve batıl korkuyla, Crassus servet ve şöhret açlığıyla felakete ilerler. Ters karakterler aynı sonuçta, ölçüsüz kararda buluşur. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Biri fırsatı kaçırmaktan korkup hiç karar vermez, diğeri geri kalmamak için hazırlıksız yatırım yapar; ikisi de ölçüyü kaybeder.",
+        "Yenilgiyi yalnız karaktere bağlamak lojistik ve siyasi koşulları küçültür. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Kararda baskın korkunun sizi hareketsiz mi, aceleci mi yaptığını belirleyin."
+      ]
+    },
+    {
+      "id": "durak-12-iskender-ve-caesar-siniri-olmayan-buyukluk",
+      "section": "DÖRDÜNCÜ KISIM · İMPARATORLAR",
+      "title": "İskender ve Caesar: sınırı olmayan büyüklük",
+      "paragraphs": [
+        "İskender ile Caesar olağanüstü hız, cömertlik ve strateji taşırken durmayı bilmeyen iktidar arzusunu da sergiler. Başarı yeni sınır değil yeni açlık üretir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Her hedefi aşan girişimci şirketini büyütür ama artık neden büyüdüğünü soramaz; zafer alışkanlığa dönüşür.",
+        "Antik kaynaklar büyük adam merkezlidir; fethedilen halkların acısı portrede yeterince görünmez. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Başarı ölçüsüne 'nerede duracak?' sorusunu ekleyin."
+      ]
+    },
+    {
+      "id": "durak-13-demosthenes-ve-cicero-sozun-cesareti",
+      "section": "BEŞİNCİ KISIM · SÖZ",
+      "title": "Demosthenes ve Cicero: sözün cesareti",
+      "paragraphs": [
+        "İki hatip cumhuriyet krizinde konuşmanın gücünü ve sınırını yaşar. Söz kamuoyunu kurabilir, fakat askeri güç ve kişisel korku karşısında tek başına yetmeyebilir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Toplantıda doğru uyarıyı yapan kişi karar değişmezse başarısız görünür; yine de gelecekte hesabın ve hafızanın zeminini kurar.",
+        "Güzel konuşmayı doğrulukla eşitlemek tehlikelidir. Hitabet aynı ustalıkla yanıltabilir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir konuşmada üsluptan önce önerinin kanıtını ve bedelini inceleyin."
+      ]
+    },
+    {
+      "id": "durak-14-cato-ve-phokion-ilkeye-sadakat",
+      "section": "BEŞİNCİ KISIM · CUMHURİYET",
+      "title": "Cato ve Phokion: ilkeye sadakat",
+      "paragraphs": [
+        "Genç Cato ile Phokion popüler olmayan ilkelere bağlı kalır. Plutarkhos kalabalığa direnmenin onurunu, fakat uzlaşmazlığın siyaseti felce uğratma riskini birlikte düşündürür. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Herkes kolay çözümü alkışlarken bütçe açığını söyleyen kişi yalnız kalabilir; hiç pazarlık yapmazsa gerekli reform da çıkmayabilir.",
+        "Sonucu bildiğimiz için kahramanları fazla tutarlı okumak kolaydır. Onlar da sınırlı bilgiyle karar verdi. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "İlkenin özünü koruyup yöntemini değiştirebileceğiniz yeri arayın."
+      ]
+    },
+    {
+      "id": "durak-15-anekdot-neden-akilda-kalir",
+      "section": "ALTINCI KISIM · ANLATI",
+      "title": "Anekdot neden akılda kalır?",
+      "paragraphs": [
+        "Plutarkhos karakteri canlı sahneyle verir; okur soyut 'kibir' tanımından çok atı ehlileştiren çocuk veya ağlayan komutan görüntüsünü hatırlar. Anekdot ahlak düşüncesini duyguya bağlar. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Çocuğa 'cömert ol' demek yerine son ekmeğini paylaşan yolcuyu anlatmak davranışın bedelini görünür kılar.",
+        "Akılda kalıcılık doğruluk değildir. İyi hikâye zayıf kanıtı güçlü hissettirebilir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir anekdotun neyi kanıtladığını ve yalnız neyi örneklediğini ayırın."
+      ]
+    },
+    {
+      "id": "durak-16-kader-mi-karakter-mi",
+      "section": "ALTINCI KISIM · YARGI",
+      "title": "Kader mi karakter mi?",
+      "paragraphs": [
+        "Yaşamlar sürekli şans ile karakteri karşılaştırır. Fırtına, hastalık ve savaş sonucu değiştirir; fakat insanın şansa verdiği cevap karakterini görünür kılar. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Aynı işten çıkarılma biri için dayanışma, diğeri için intikam yolu olabilir; olay ortak, cevap farklıdır.",
+        "Karakter vurgusu yapısal eşitsizliği kişisel kusura çevirmemelidir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir başarı veya çöküşte kontrol edilen seçimlerle kontrol dışı koşulları ayrı yazın."
+      ]
+    },
+    {
+      "id": "durak-17-iki-aynada-kendini-gormek",
+      "section": "ALTINCI KISIM · SONUÇ",
+      "title": "İki aynada kendini görmek",
+      "paragraphs": [
+        "Plutarkhos'un karşılaştırmaları okuru kahraman seçmeye değil kendi karışık karakterini görmeye çağırır. Aynı kişide cesaret, kibir, cömertlik ve hırs farklı zamanlarda öne çıkabilir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "İki portreye bakarken 'hangisi daha büyük?' yerine 'ben hangi durumda hangisine benziyorum?' sorusu kişisel aynayı açar.",
+        "Antik seçkin erkekleri insanlığın tamamı saymak eksiktir. Kadınlar, köleler ve sıradan yurttaşların bakışı ayrıca aranmalıdır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir biyografiden slogan değil kendi davranışınız için sınanabilir bir soru çıkarın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Plutarkhos bütün anekdotları kesin tarih diye sunan modern arşivci değildir. Yaşamları ahlaki karşılaştırma olarak kurar; büyük kişinin karakterini küçük sahnelerden okur. Bu yüzden anlatı hem güçlü insan gözlemi hem dikkat isteyen tarihsel kaynaktır.",
+        "Ünlü Yunanlıların ve Romalıların Yaşamları tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Plutarkhos ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Parallel Lives yüzyıllarca siyasetçi, yazar ve eğitimcileri etkiledi; Shakespeare dahil birçok sanatçıya malzeme verdi. Büyük erkek ve erdem merkezli bakışı, kaynak kullanımı ve efsane ile tarihi karıştırması eleştirilse de karakter anlatısındaki canlılığı sürer.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Ünlü Yunanlıların ve Romalıların Yaşamları için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Ünlü Yunanlıların ve Romalıların Yaşamları için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu küçük davranış hangi karakter eğilimini açıyor? Sonuçta şansın payı ne? Liderin büyüklük hikâyesinde kim görünmez kalıyor?",
+        "Bu sorular Ünlü Yunanlıların ve Romalıların Yaşamları için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Ünlü Yunanlıların ve Romalıların Yaşamları üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Tarih yalnız savaş ve yasa değildir; güç, korku ve şans karşısında tekrar eden küçük seçimler karakteri, karakter de toplumların yönünü biçimlendirir.",
+        "Akılda kalacak son görüntü, Yunan ve Roma sütunları arasındaki çift bronz aynada aynı insan yüzünün erdem ve hırs olarak iki farklı ifadeye bölünmesidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Ünlü Yunanlıların ve Romalıların Yaşamları adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-tarih-degil-karakter-portresi": {
+      "image": "/images/summary-art-65-chapter-01-tarih-degil-karakter-portresi-v1.webp",
+      "imageCaption": "Tarih değil karakter portresi fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-03-neden-yunanli-ile-romali-eslesir": {
+      "image": "/images/summary-art-65-chapter-02-neden-yunanli-ile-romali-eslesir-v1.webp",
+      "imageCaption": "Neden Yunanlı ile Romalı eşleşir? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-04-theseus-ve-romulus-kurucu-kahraman": {
+      "image": "/images/summary-art-65-chapter-03-theseus-ve-romulus-kurucu-kahraman-v1.webp",
+      "imageCaption": "Theseus ve Romulus: kurucu kahraman fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-05-lykurgos-ve-numa-yasa-ile-terbiye": {
+      "image": "/images/summary-art-65-chapter-04-lykurgos-ve-numa-yasa-ile-terbiye-v1.webp",
+      "imageCaption": "Lykurgos ve Numa: yasa ile terbiye fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-06-solon-ve-publicola-iktidari-sinirlamak": {
+      "image": "/images/summary-art-65-chapter-05-solon-ve-publicola-iktidari-sinirlamak-v1.webp",
+      "imageCaption": "Solon ve Publicola: iktidarı sınırlamak fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-07-themistokles-ve-camillus-kurtarici-hirs": {
+      "image": "/images/summary-art-65-chapter-06-themistokles-ve-camillus-kurtarici-hirs-v1.webp",
+      "imageCaption": "Themistokles ve Camillus: kurtarıcı hırs fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-08-perikles-ve-fabius-sabir-siyaseti": {
+      "image": "/images/summary-art-65-chapter-07-perikles-ve-fabius-sabir-siyaseti-v1.webp",
+      "imageCaption": "Perikles ve Fabius: sabır siyaseti fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-09-alkibiades-ve-coriolanus-yetenek-yetmez": {
+      "image": "/images/summary-art-65-chapter-08-alkibiades-ve-coriolanus-yetenek-yetmez-v1.webp",
+      "imageCaption": "Alkibiades ve Coriolanus: yetenek yetmez fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-10-aristides-ve-cato-dogrulugun-sertligi": {
+      "image": "/images/summary-art-65-chapter-09-aristides-ve-cato-dogrulugun-sertligi-v1.webp",
+      "imageCaption": "Aristides ve Cato: doğruluğun sertliği fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-11-nicias-ve-crassus-zenginlik-ile-korku": {
+      "image": "/images/summary-art-65-chapter-10-nicias-ve-crassus-zenginlik-ile-korku-v1.webp",
+      "imageCaption": "Nicias ve Crassus: zenginlik ile korku fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-12-iskender-ve-caesar-siniri-olmayan-buyukluk": {
+      "image": "/images/summary-art-65-chapter-11-iskender-ve-caesar-siniri-olmayan-buyukluk-v1.webp",
+      "imageCaption": "İskender ve Caesar: sınırı olmayan büyüklük fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-13-demosthenes-ve-cicero-sozun-cesareti": {
+      "image": "/images/summary-art-65-chapter-12-demosthenes-ve-cicero-sozun-cesareti-v1.webp",
+      "imageCaption": "Demosthenes ve Cicero: sözün cesareti fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-14-cato-ve-phokion-ilkeye-sadakat": {
+      "image": "/images/summary-art-65-chapter-13-cato-ve-phokion-ilkeye-sadakat-v1.webp",
+      "imageCaption": "Cato ve Phokion: ilkeye sadakat fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-15-anekdot-neden-akilda-kalir": {
+      "image": "/images/summary-art-65-chapter-14-anekdot-neden-akilda-kalir-v1.webp",
+      "imageCaption": "Anekdot neden akılda kalır? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-16-kader-mi-karakter-mi": {
+      "image": "/images/summary-art-65-chapter-15-kader-mi-karakter-mi-v1.webp",
+      "imageCaption": "Kader mi karakter mi? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-17-iki-aynada-kendini-gormek": {
+      "image": "/images/summary-art-65-chapter-16-iki-aynada-kendini-gormek-v1.webp",
+      "imageCaption": "İki aynada kendini görmek fikrini somutlaştıran simgesel sahne."
+    }
+  }
+}
