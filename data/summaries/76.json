@@ -1,0 +1,342 @@
+{
+  "bookNo": 76,
+  "title": "Bhagavad Gita",
+  "author": "Vyasa",
+  "subtitle": "Savaş alanında çöken Arjuna ile arabacısı Krishna arasındaki konuşmadan yola çıkarak görev, eylem, benlik, bilgi, adanmışlık ve özgürleşme yollarını bir araya getiren klasik Hint metni.",
+  "coverImage": "/images/summary-cover-76-bhagavad-gita-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/76-bhagavad-gita-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#9A5C2F",
+  "meta": {
+    "originalTitle": "Bhagavadgītā",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Arjuna yayı elinden bırakır. Karşı orduda öğretmenlerini, kuzenlerini ve dostlarını görür; kazanmak artık zafer gibi gelmez. Tam bu ahlaki felç anında Krishna ona kaçmasını değil, eylemin niyetiyle sonucunu ve geçici bedenle kalıcı benlik arasındaki farkı düşünmesini söyler.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "IIT Kanpur - Gita Supersite",
+      "url": "https://www.gitasupersite.iitk.ac.in/"
+    },
+    {
+      "id": 2,
+      "title": "IIT Kanpur - About Gita Supersite",
+      "url": "https://www.gitasupersite.iitk.ac.in/node/5"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Savaş alanında çöken Arjuna ile arabacısı Krishna arasındaki konuşmadan yola çıkarak görev, eylem, benlik, bilgi, adanmışlık ve özgürleşme yollarını bir araya getiren klasik Hint metni.",
+        "Gita, Mahabharata destanının savaş öncesi konuşmasıdır ve farklı geleneklerce farklı yorumlanır. Onu basit bir 'savaş emri' veya tek bir mezhebin özeti yerine karma, bilgi ve adanmışlık yollarını gerilim içinde birleştiren şiirsel-felsefi metin olarak okumak gerekir.",
+        "Bu rehber, Vyasa tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-arjuna-nin-cokusu",
+      "section": "BİRİNCİ KISIM · SAVAŞ ALANINDA DURMAK",
+      "title": "Arjuna'nın çöküşü",
+      "paragraphs": [
+        "Arjuna akrabalarını öldürmenin aileyi, geleneği ve kendi vicdanını yıkacağını düşünerek savaşamıyor; kriz korkaklık değil çatışan görevlerin ağırlığıdır. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Cerrahın ameliyat masasında sevdiği kişiyi görüp elinin titremesi gibi, teknik görev ahlaki bağla çarpışır.",
+        "Yazar güçlü bir karşıtlık kurar, fakat gerçek hayat iki kutup arasında birçok ara ton taşır. arjuna'nın çöküşü bu tonları silmek için değil, görünür kılmak için kullanılmalıdır. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir haber okurken arjuna'nın çöküşü başlığını aklınıza getirin; görünen olayın arkasındaki kuralı, teşviki ve sessiz kalan kişiyi ayrı ayrı arayın."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Arjuna'nın çöküşü” başlığının yalnız kendi örneğini değil Bhagavad Gita boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-beden-degisir-atman-surer",
+      "section": "BİRİNCİ KISIM · BENLİK",
+      "title": "Beden değişir, atman sürer",
+      "paragraphs": [
+        "Krishna doğan ve ölen beden ile yok olmayan atman arasında ayrım kurar; ölüm korkusunu bütünüyle gerçekliğin sonu saymamayı öğretir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "İnsan çocukluk bedenini kaybetmiştir ama kendini aynı yaşamın devamı sayar; metin bu sürekliliği daha derin bir düzeye taşır.",
+        "Bu bölümdeki tarihsel sahne bugünün birebir kopyası değildir. beden değişir, atman sürer benzerliği kadar dönemler arasındaki farkları da hesaba kattığımızda gerçek bir düşünme aracına dönüşür. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir tartışmada beden değişir, atman sürer kavramını karşı tarafa yapıştırmadan önce kendi davranışınızda aynı mekanizmanın daha küçük bir örneğini bulun."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Beden değişir, atman sürer” başlığının yalnız kendi örneğini değil Bhagavad Gita boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-dharma-rolun-icindeki-gorev",
+      "section": "BİRİNCİ KISIM · GÖREV",
+      "title": "Dharma: rolün içindeki görev",
+      "paragraphs": [
+        "Kişinin toplumsal ve kozmik düzende taşıdığı dharma, zor olsa da başkasının parlak görevini taklit etmekten daha sahicidir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Yangında öğretmenin işi itfaiyeci rolünü oynamak değil çocukları güvenli sıraya sokmaktır; görev bağlamdan doğar.",
+        "Betimleme ile onay birbirine karıştırılmamalıdır. Kitap dharma: rolün içindeki görev düzeninin nasıl çalıştığını gösterirken, bunun ahlaken doğru olduğunu söylemiş olmaz. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bölümü hayata taşımanın en sade yolu, dharma: rolün içindeki görev için 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir sahneye uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Dharma: rolün içindeki görev” başlığının yalnız kendi örneğini değil Bhagavad Gita boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-eylemden-kacmak-da-eylemdir",
+      "section": "İKİNCİ KISIM · KARMA YOGASI",
+      "title": "Eylemden kaçmak da eylemdir",
+      "paragraphs": [
+        "İnsan bedeniyle yaşarken tüm eylemi bırakamaz; geri çekilmek bile sonuç üreten seçimdir. Sorun eylem değil bağlanma biçimidir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Toplantıda haksız karar karşısında susan kişi hiçbir şey yapmadığını sanır ama sessizliği kararı güçlendirir.",
+        "Kavramın sınırı özellikle önemlidir: eylemden kaçmak da eylemdir bazı olaylarda merkezdeyken bazılarında yalnız küçük bir etkendir. Ölçüyü bağlam belirler. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bugünkü teknolojiler sahneyi değiştirmiş olabilir. Yine de eylemden kaçmak da eylemdir içindeki güç, korku, umut veya alışkanlık ilişkisini yeni araçların içinde yeniden arayın."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Eylemden kaçmak da eylemdir” başlığının yalnız kendi örneğini değil Bhagavad Gita boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-meyveye-baglanmadan-calismak",
+      "section": "İKİNCİ KISIM · KARMA YOGASI",
+      "title": "Meyveye bağlanmadan çalışmak",
+      "paragraphs": [
+        "Karma yoga sonucu umursamamak değil, doğru çabayı yalnız ödül ve ün için yapmamaktır; sonuç bütünüyle kişinin kontrolünde değildir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Bahçıvan toprağı hazırlar ve sular, fakat yağmuru emredemez; emeğini yapar, hasadı mutlak sahiplik sanmaz.",
+        "Burada anlatılan mekanizma kaçınılmaz bir kader gibi okunmamalıdır. Koşullar, kurumlar ve insanların tepkileri değiştiğinde meyveye bağlanmadan çalışmak bambaşka sonuçlar verebilir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir kurumun açıklamasını dinlerken meyveye bağlanmadan çalışmak açısından söylenen amaç ile ortaya çıkan gerçek sonucu karşılaştırın."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Meyveye bağlanmadan çalışmak” başlığının yalnız kendi örneğini değil Bhagavad Gita boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-esit-zihin-hali",
+      "section": "İKİNCİ KISIM · DENGE",
+      "title": "Eşit zihin hali",
+      "paragraphs": [
+        "Başarı ve başarısızlık karşısında bütünüyle savrulmayan denge, eylemi korku ve kibirden arındırır. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Sınav sonucu iyi geldiğinde kendini tanrı, kötü geldiğinde hiç saymayan öğrenci öğrenme işini sonuca teslim eder.",
+        "Yazar güçlü bir karşıtlık kurar, fakat gerçek hayat iki kutup arasında birçok ara ton taşır. eşit zihin hali bu tonları silmek için değil, görünür kılmak için kullanılmalıdır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir haber okurken eşit zihin hali başlığını aklınıza getirin; görünen olayın arkasındaki kuralı, teşviki ve sessiz kalan kişiyi ayrı ayrı arayın."
+      ]
+    },
+    {
+      "id": "durak-08-duyular-ve-dizginler",
+      "section": "ÜÇÜNCÜ KISIM · ZİHİN EĞİTİMİ",
+      "title": "Duyular ve dizginler",
+      "paragraphs": [
+        "Duyu nesneleri sürekli arzu ve öfke zinciri başlatabilir; onları bastırmak değil, dikkat ve ayrım gücüyle yönlendirmek gerekir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Aç değilken ekrandaki yemek görüntüsü isteği, engellenen istek öfkeyi, öfke acele kararı doğurabilir.",
+        "Kitabın yazıldığı dönem seçilen kelimeleri ve örnekleri etkiler. duyular ve dizginler bugün okunurken daha yeni bilgilerle sınanmalı, ama açtığı temel soru kaybedilmemelidir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Çevrenizdeki sıradan bir nesneye duyular ve dizginler merceğiyle bakın; o nesneyi mümkün kılan insanları, zamanı ve sistemi izleyin."
+      ]
+    },
+    {
+      "id": "durak-09-bilgi-yolu",
+      "section": "ÜÇÜNCÜ KISIM · JNANA",
+      "title": "Bilgi yolu",
+      "paragraphs": [
+        "Bilgi yogası değişen doğa, eylem ve beden ile onları bilen daha derin bilinç arasındaki ayrımı görmeye çalışır. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Sahnedeki roller değişirken seyirci oyunun farkında kalır; metin insanı yalnız rolüne indirgememeyi ister.",
+        "Bir olayın ardından kurulan düzgün hikâye, yaşanırken var olan belirsizliği gizleyebilir. bilgi yolu geriye dönük kolaycılığa karşı dikkatle okunmalıdır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir hafta boyunca bilgi yolu fikrinin küçük örneklerini not edin; kavramın gerçekten açıklayıcı mı, yoksa yalnız kulağa etkileyici mi geldiği ortaya çıkar."
+      ]
+    },
+    {
+      "id": "durak-10-meditasyon-ve-daginik-maymun-zihin",
+      "section": "ÜÇÜNCÜ KISIM · DHYANA",
+      "title": "Meditasyon ve dağınık maymun zihin",
+      "paragraphs": [
+        "Arjuna zihnin rüzgâr kadar zor tutulduğunu söyler; Krishna düzenli pratik ve bağsızlıkla dikkatin tekrar tekrar geri getirilebileceğini anlatır. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Nefese dönen kişi düşünce gelmediği için değil, her kaçışta sertçe yargılamadan geri dönebildiği için çalışır.",
+        "Yazar güçlü bir karşıtlık kurar, fakat gerçek hayat iki kutup arasında birçok ara ton taşır. meditasyon ve dağınık maymun zihin bu tonları silmek için değil, görünür kılmak için kullanılmalıdır. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir haber okurken meditasyon ve dağınık maymun zihin başlığını aklınıza getirin; görünen olayın arkasındaki kuralı, teşviki ve sessiz kalan kişiyi ayrı ayrı arayın."
+      ]
+    },
+    {
+      "id": "durak-11-uc-guna",
+      "section": "DÖRDÜNCÜ KISIM · DOĞANIN NİTELİKLERİ",
+      "title": "Üç guna",
+      "paragraphs": [
+        "Sattva açıklık ve uyum, rajas hareket ve tutku, tamas ağırlık ve karanlık olarak doğanın ve davranışın karışan üç niteliğini anlatır. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Aynı işi biri berrak dikkatle, biri övgü hırsıyla, biri uyuşuk zorunlulukla yapabilir; dış hareket aynı, iç düzen farklıdır.",
+        "Kitap okuru etkileyici sonuçlara hızla götürür; yine de üç guna için kanıt, yorum ve değer yargısını ayrı ayrı tutmak gerekir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir seçim yaparken üç guna fikrinin size hangi görünmez varsayımı fark ettirdiğini tek cümleyle yazın."
+      ]
+    },
+    {
+      "id": "durak-12-adanmislik-yolu",
+      "section": "DÖRDÜNCÜ KISIM · BHAKTI",
+      "title": "Adanmışlık yolu",
+      "paragraphs": [
+        "Bhakti, benliği yalnız kendi başarısına kapatmayan sevgi ve teslimiyet yoludur; Krishna'ya yönelen bağlılık eylemi daha büyük bütüne sunar. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Anne çocuğuna yaptığı bakımı madalya hesabıyla ölçmez; adanmışlık çabayı değersiz değil daha geniş anlamlı kılar.",
+        "Kitap okuru etkileyici sonuçlara hızla götürür; yine de adanmışlık yolu için kanıt, yorum ve değer yargısını ayrı ayrı tutmak gerekir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir seçim yaparken adanmışlık yolu fikrinin size hangi görünmez varsayımı fark ettirdiğini tek cümleyle yazın."
+      ]
+    },
+    {
+      "id": "durak-13-evrensel-bicimin-gorulmesi",
+      "section": "DÖRDÜNCÜ KISIM · KOZMİK GÖRÜŞ",
+      "title": "Evrensel biçimin görülmesi",
+      "paragraphs": [
+        "Krishna Arjuna'ya yaratma ve yok etmenin aynı korkunç bütün içinde bulunduğu evrensel biçimi gösterir; tanrısal gerçeklik yalnız sakin güzellik değildir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Gece göğünün güzelliğiyle yıldızların patlayarak oluştuğunu aynı anda görmek, hayranlıkla dehşeti birleştirir.",
+        "Bu bölümdeki tarihsel sahne bugünün birebir kopyası değildir. evrensel biçimin görülmesi benzerliği kadar dönemler arasındaki farkları da hesaba kattığımızda gerçek bir düşünme aracına dönüşür. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir tartışmada evrensel biçimin görülmesi kavramını karşı tarafa yapıştırmadan önce kendi davranışınızda aynı mekanizmanın daha küçük bir örneğini bulun."
+      ]
+    },
+    {
+      "id": "durak-14-tanrisal-ve-seytani-egilimler",
+      "section": "BEŞİNCİ KISIM · KARAKTER",
+      "title": "Tanrısal ve şeytani eğilimler",
+      "paragraphs": [
+        "Korkusuzluk, özdenetim ve doğruluk özgürleşmeye; kibir, öfke ve doymaz arzu bağlanmaya götüren karakter yönleri olarak karşılaştırılır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Yetki sahibi kişi eleştiriyi dinlediğinde güç hizmete, her itirazı düşman saydığında güç korkuya dönüşür.",
+        "Burada anlatılan mekanizma kaçınılmaz bir kader gibi okunmamalıdır. Koşullar, kurumlar ve insanların tepkileri değiştiğinde tanrısal ve şeytani eğilimler bambaşka sonuçlar verebilir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir kurumun açıklamasını dinlerken tanrısal ve şeytani eğilimler açısından söylenen amaç ile ortaya çıkan gerçek sonucu karşılaştırın."
+      ]
+    },
+    {
+      "id": "durak-15-inanc-insani-bicimlendirir",
+      "section": "BEŞİNCİ KISIM · İNANÇ",
+      "title": "İnanç insanı biçimlendirir",
+      "paragraphs": [
+        "İnsanın inancı yalnız söylediği cümle değil, neye değer verdiğini ve neyi tekrar tekrar yaptığını biçimlendiren yönelimdir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Sağlığa inandığını söyleyip bütün gün bedenini ihmal eden kişinin gerçek bağlılığı sözünden çok alışkanlığında görünür.",
+        "Bir olayın ardından kurulan düzgün hikâye, yaşanırken var olan belirsizliği gizleyebilir. i̇nanç insanı biçimlendirir geriye dönük kolaycılığa karşı dikkatle okunmalıdır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir hafta boyunca i̇nanç insanı biçimlendirir fikrinin küçük örneklerini not edin; kavramın gerçekten açıklayıcı mı, yoksa yalnız kulağa etkileyici mi geldiği ortaya çıkar."
+      ]
+    },
+    {
+      "id": "durak-16-olum-ani-ve-yasam-aliskanligi",
+      "section": "BEŞİNCİ KISIM · ZAMAN",
+      "title": "Ölüm anı ve yaşam alışkanlığı",
+      "paragraphs": [
+        "Metin son düşüncenin önemini vurgular; fakat ölüm anındaki yönelim, hayat boyunca eğitilen dikkat ve bağlılıktan ayrı değildir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Acil durumda insan yeni karakter icat etmekten çok yıllarca çalıştığı alışkanlığa döner.",
+        "Betimleme ile onay birbirine karıştırılmamalıdır. Kitap ölüm anı ve yaşam alışkanlığı düzeninin nasıl çalıştığını gösterirken, bunun ahlaken doğru olduğunu söylemiş olmaz. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bölümü hayata taşımanın en sade yolu, ölüm anı ve yaşam alışkanlığı için 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir sahneye uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-17-birden-cok-yol-tek-donusum",
+      "section": "BEŞİNCİ KISIM · SONUÇ",
+      "title": "Birden çok yol, tek dönüşüm",
+      "paragraphs": [
+        "Gita eylem, bilgi, meditasyon ve adanmışlığı birbirini dışlayan yollar yerine farklı insan eğilimlerini dönüştüren birleşik disiplinler olarak sunar. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Dağa çıkan patikalar farklı olabilir; yürüyüş, harita bilgisi, nefes ve güven aynı yolculukta birbirine ihtiyaç duyar.",
+        "Kitap okuru etkileyici sonuçlara hızla götürür; yine de birden çok yol, tek dönüşüm için kanıt, yorum ve değer yargısını ayrı ayrı tutmak gerekir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir seçim yaparken birden çok yol, tek dönüşüm fikrinin size hangi görünmez varsayımı fark ettirdiğini tek cümleyle yazın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Gita yalnız 'emre uy ve savaş' kitabı değildir; Arjuna'nın ahlaki itirazını ciddiye alır ve eylemin niyetini, benlik anlayışını, görevini ve bağlanmasını dönüştürmeye çalışır. Yine de savaş bağlamı ve toplumsal görev anlayışı eleştirel tartışma gerektirir.",
+        "Bhagavad Gita tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Vyasa ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Metin Vedanta geleneklerinde farklı biçimlerde yorumlandı; eylem, bilgi veya adanmışlığa verilen ağırlık değişti. Gandhi onu içsel mücadele ve bağsız eylem için okurken, başkaları savaş ve kast görevini meşrulaştırma tehlikesine dikkat çekti.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Bhagavad Gita için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Bhagavad Gita için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Eylemi sonuç ve alkış için mi yapıyorum? Kaçınmam da sonuç üretiyor mu? Görev dediğim şey vicdanla mı, yalnız toplumsal baskıyla mı kuruluyor?",
+        "Bu sorular Bhagavad Gita için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Bhagavad Gita üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Özgürlük eylemsizlikte değil; değişen sonuçlara körü körüne bağlanmadan, benliği daha geniş gerçeklik içinde görerek doğru eylemi bilgi, dikkat ve adanmışlıkla yapabilmektedir.",
+        "Akılda kalacak son görüntü, savaş alanında duran altın bir araba, bırakılmış yay ve gökyüzünde sayısız yıldız, canlı ve zaman çarkına dönüşen Krishna siluetidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Bhagavad Gita adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-arjuna-nin-cokusu": {
+      "image": "/images/summary-art-76-chapter-01-arjuna-nin-cokusu-v1.webp",
+      "imageCaption": "Arjuna'nın çöküşü fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-03-beden-degisir-atman-surer": {
+      "image": "/images/summary-art-76-chapter-02-beden-degisir-atman-surer-v1.webp",
+      "imageCaption": "Beden değişir, atman sürer fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-04-dharma-rolun-icindeki-gorev": {
+      "image": "/images/summary-art-76-chapter-03-dharma-rolun-icindeki-gorev-v1.webp",
+      "imageCaption": "Dharma: rolün içindeki görev fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-05-eylemden-kacmak-da-eylemdir": {
+      "image": "/images/summary-art-76-chapter-04-eylemden-kacmak-da-eylemdir-v1.webp",
+      "imageCaption": "Eylemden kaçmak da eylemdir fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-06-meyveye-baglanmadan-calismak": {
+      "image": "/images/summary-art-76-chapter-05-meyveye-baglanmadan-calismak-v1.webp",
+      "imageCaption": "Meyveye bağlanmadan çalışmak fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-07-esit-zihin-hali": {
+      "image": "/images/summary-art-76-chapter-06-esit-zihin-hali-v1.webp",
+      "imageCaption": "Eşit zihin hali fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-08-duyular-ve-dizginler": {
+      "image": "/images/summary-art-76-chapter-07-duyular-ve-dizginler-v1.webp",
+      "imageCaption": "Duyular ve dizginler fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-09-bilgi-yolu": {
+      "image": "/images/summary-art-76-chapter-08-bilgi-yolu-v1.webp",
+      "imageCaption": "Bilgi yolu fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-10-meditasyon-ve-daginik-maymun-zihin": {
+      "image": "/images/summary-art-76-chapter-09-meditasyon-ve-daginik-maymun-zihin-v1.webp",
+      "imageCaption": "Meditasyon ve dağınık maymun zihin fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-11-uc-guna": {
+      "image": "/images/summary-art-76-chapter-10-uc-guna-v1.webp",
+      "imageCaption": "Üç guna fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-12-adanmislik-yolu": {
+      "image": "/images/summary-art-76-chapter-11-adanmislik-yolu-v1.webp",
+      "imageCaption": "Adanmışlık yolu fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-13-evrensel-bicimin-gorulmesi": {
+      "image": "/images/summary-art-76-chapter-12-evrensel-bicimin-gorulmesi-v1.webp",
+      "imageCaption": "Evrensel biçimin görülmesi fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-14-tanrisal-ve-seytani-egilimler": {
+      "image": "/images/summary-art-76-chapter-13-tanrisal-ve-seytani-egilimler-v1.webp",
+      "imageCaption": "Tanrısal ve şeytani eğilimler fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-15-inanc-insani-bicimlendirir": {
+      "image": "/images/summary-art-76-chapter-14-inanc-insani-bicimlendirir-v1.webp",
+      "imageCaption": "İnanç insanı biçimlendirir fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-16-olum-ani-ve-yasam-aliskanligi": {
+      "image": "/images/summary-art-76-chapter-15-olum-ani-ve-yasam-aliskanligi-v1.webp",
+      "imageCaption": "Ölüm anı ve yaşam alışkanlığı fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-17-birden-cok-yol-tek-donusum": {
+      "image": "/images/summary-art-76-chapter-16-birden-cok-yol-tek-donusum-v1.webp",
+      "imageCaption": "Birden çok yol, tek dönüşüm fikrini tek bakışta hatırlatan simgesel sahne."
+    }
+  }
+}

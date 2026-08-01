@@ -1,0 +1,342 @@
+{
+  "bookNo": 98,
+  "title": "Toplum Sözleşmesi",
+  "author": "Jean-Jacques Rousseau",
+  "subtitle": "İnsanların başkasının efendisi olmadan birlikte nasıl yasa koyabileceğini; genel irade, egemenlik, hükümet, yurttaşlık ve özgürlük arasındaki tehlikeli denge üzerinden araştıran siyaset klasiği.",
+  "coverImage": "/images/summary-cover-98-toplum-sozlesmesi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/98-toplum-sozlesmesi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#49667A",
+  "meta": {
+    "originalTitle": "Du contrat social",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Rousseau'nun sorusu 'devlet neden güçlüdür?' değil, 'güce ne zaman itaat borcumuz olur?' sorusudur. Bir haydut silahıyla cüzdanınızı alabilir; gücü vardır ama hakkı yoktur. Meşru düzen, herkesin boyun eğdiği yasanın aynı zamanda herkesin ortak eseri olmasını ister.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Project Gutenberg - The Social Contract",
+      "url": "https://www.gutenberg.org/ebooks/46333"
+    },
+    {
+      "id": 2,
+      "title": "Online Library of Liberty - The Social Contract",
+      "url": "https://oll.libertyfund.org/titles/rousseau-the-social-contract-and-discourses"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "İnsanların başkasının efendisi olmadan birlikte nasıl yasa koyabileceğini; genel irade, egemenlik, hükümet, yurttaşlık ve özgürlük arasındaki tehlikeli denge üzerinden araştıran siyaset klasiği.",
+        "Genel irade bütün insanların o anki isteklerinin toplamı değildir. Ortak yararı hedefleyen yurttaş iradesidir; fakat bunu kimin yorumlayacağı sorusu kitabın hem gücü hem tehlikesidir. Metni özgürlük vaadiyle zorlayıcı siyaset ihtimalini birlikte görerek okumak gerekir.",
+        "Bu rehber, Jean-Jacques Rousseau tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-insan-ozgur-dogar-zincire-vurulur",
+      "section": "BİRİNCİ KİTAP · MEŞRU DÜZEN",
+      "title": "İnsan özgür doğar, zincire vurulur",
+      "paragraphs": [
+        "Toplumsal bağımlılık her yerde bulunur; mesele zinciri yok saymak değil hangi bağın haklı ve özgürlükle uyumlu olabileceğini açıklamaktır. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Apartman kuralına uymak zorundasınız; fakat kuralı yalnız ev sahibi koyuyorsa itaat ile ortak yönetim aynı değildir.",
+        "Burada anlatılan mekanizma kaçınılmaz bir kader gibi okunmamalıdır. Koşullar, kurumlar ve insanların tepkileri değiştiğinde i̇nsan özgür doğar, zincire vurulur bambaşka sonuçlar verebilir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir kurumun açıklamasını dinlerken i̇nsan özgür doğar, zincire vurulur açısından söylenen amaç ile ortaya çıkan gerçek sonucu karşılaştırın."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “İnsan özgür doğar, zincire vurulur” başlığının yalnız kendi örneğini değil Toplum Sözleşmesi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-aile-devletin-modeli-degildir",
+      "section": "BİRİNCİ KİTAP · DOĞAL OTORİTE",
+      "title": "Aile devletin modeli değildir",
+      "paragraphs": [
+        "Çocuğun aileye bağımlılığı geçici ihtiyaçtan doğar; yetişkinler arasında doğal baba otoritesini siyasi egemenliğe taşımak meşruiyet üretmez. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Doktor hastayı iyileşene kadar yönlendirebilir; bu geçici bakım ona ömür boyu efendilik hakkı vermez.",
+        "Bu örnek iddiayı anlaşılır kılar ama tek başına kanıtlamaz. aile devletin modeli değildir için farklı dönemlerden ve toplumlardan karşı örnekler aramak düşünceyi daha sağlam hale getirir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Kamusal bir karar değerlendirilirken aile devletin modeli değildir yalnız ortalama sonucu değil, bedeli kimin ödediğini ve kimin söz sahibi olduğunu sormayı gerektirir."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Aile devletin modeli değildir” başlığının yalnız kendi örneğini değil Toplum Sözleşmesi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-en-guclunun-hakki-olmaz",
+      "section": "BİRİNCİ KİTAP · GÜÇ VE HAK",
+      "title": "En güçlünün hakkı olmaz",
+      "paragraphs": [
+        "Zor kullanabilmek itaat yükümlülüğü yaratmaz; güç hak olsaydı daha güçlü gelen her an eski hakkı silebilirdi. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Kabadayı sıranızı alabilir ama kas gücü onu kuyruğun meşru yöneticisi yapmaz.",
+        "Bir olayın ardından kurulan düzgün hikâye, yaşanırken var olan belirsizliği gizleyebilir. en güçlünün hakkı olmaz geriye dönük kolaycılığa karşı dikkatle okunmalıdır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir hafta boyunca en güçlünün hakkı olmaz fikrinin küçük örneklerini not edin; kavramın gerçekten açıklayıcı mı, yoksa yalnız kulağa etkileyici mi geldiği ortaya çıkar."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “En güçlünün hakkı olmaz” başlığının yalnız kendi örneğini değil Toplum Sözleşmesi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-kendini-kole-olarak-veremezsin",
+      "section": "BİRİNCİ KİTAP · ÖZGÜRLÜK",
+      "title": "Kendini köle olarak veremezsin",
+      "paragraphs": [
+        "Bir kişinin bütün özgürlüğünü geri dönülmez biçimde başkasına devretmesi sözleşmeyi anlamsızlaştırır; karşılıksız mutlak teslimiyet hak doğurmaz. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Boş kâğıda sonsuza kadar her emre uyacağınızı yazmak, gelecekteki iradenizi ve sorumluluğunuzu yok sayar.",
+        "Benzetme akılda kalıcıdır fakat gerçek dünyanın yerini tutmaz. kendini köle olarak veremezsin fikrini kullanırken benzetmenin nerede bittiğini ayrıca görmek gerekir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Sosyal medyada kesin bir hüküm gördüğünüzde kendini köle olarak veremezsin için hangi kanıtın eksik olduğunu sormak, heyecan verici fakat yanlış genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Kendini köle olarak veremezsin” başlığının yalnız kendi örneğini değil Toplum Sözleşmesi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-herkes-kendini-butune-verir",
+      "section": "BİRİNCİ KİTAP · SÖZLEŞME",
+      "title": "Herkes kendini bütüne verir",
+      "paragraphs": [
+        "Toplum sözleşmesinde herkes haklarını ortak bütüne aynı koşulla verdiği için kimse özel bir efendiye teslim olmaz; kolektif kişi, halk doğar. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Mahalle yolunu herkes eşit kuralla ortak yönetime bırakırsa tek komşu kapıyı kendi çıkarına kapatamaz.",
+        "Yazar güçlü bir karşıtlık kurar, fakat gerçek hayat iki kutup arasında birçok ara ton taşır. herkes kendini bütüne verir bu tonları silmek için değil, görünür kılmak için kullanılmalıdır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir haber okurken herkes kendini bütüne verir başlığını aklınıza getirin; görünen olayın arkasındaki kuralı, teşviki ve sessiz kalan kişiyi ayrı ayrı arayın."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Herkes kendini bütüne verir” başlığının yalnız kendi örneğini değil Toplum Sözleşmesi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-genel-irade-nedir",
+      "section": "İKİNCİ KİTAP · ORTAK YARAR",
+      "title": "Genel irade nedir?",
+      "paragraphs": [
+        "Genel irade kişisel tercihlerin toplamı değil, yurttaşların ortak çıkar hakkında verdikleri hükümdür; özel grupların pazarlığından farklıdır. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Herkes kendi sokağına park ister, fakat bütün kent için ambulans yolunun açık kalmasını ortak yarar sayabilir.",
+        "Kavramın sınırı özellikle önemlidir: genel irade nedir? bazı olaylarda merkezdeyken bazılarında yalnız küçük bir etkendir. Ölçüyü bağlam belirler. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bugünkü teknolojiler sahneyi değiştirmiş olabilir. Yine de genel irade nedir? içindeki güç, korku, umut veya alışkanlık ilişkisini yeni araçların içinde yeniden arayın."
+      ]
+    },
+    {
+      "id": "durak-08-insan-her-zaman-dogruyu-gormez",
+      "section": "İKİNCİ KİTAP · YANILMA",
+      "title": "İnsan her zaman doğruyu görmez",
+      "paragraphs": [
+        "Genel irade ortak yararı hedefler ama halk yanlış bilgi, hizip ve kısa çıkar yüzünden neyin ortak yarar olduğunu yanlış değerlendirebilir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Kirli suyun kaynağı gizlenirse halk dürüstçe oy verir ama yanlış fabrikayı kapatır.",
+        "Kitabın yazıldığı dönem seçilen kelimeleri ve örnekleri etkiler. i̇nsan her zaman doğruyu görmez bugün okunurken daha yeni bilgilerle sınanmalı, ama açtığı temel soru kaybedilmemelidir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Çevrenizdeki sıradan bir nesneye i̇nsan her zaman doğruyu görmez merceğiyle bakın; o nesneyi mümkün kılan insanları, zamanı ve sistemi izleyin."
+      ]
+    },
+    {
+      "id": "durak-09-egemenlik-devredilemez",
+      "section": "İKİNCİ KİTAP · EGEMENLİK",
+      "title": "Egemenlik devredilemez",
+      "paragraphs": [
+        "Yasama iradesi halkın ortak özelliğidir; temsilciye bütünüyle satılırsa halk egemen olmaktan çıkar. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Birine sizin yerinize düşünme yetkisi verebilirsiniz ama onun gelecekteki her kararını önceden kendi iradeniz ilan edemezsiniz.",
+        "Bir olayın ardından kurulan düzgün hikâye, yaşanırken var olan belirsizliği gizleyebilir. egemenlik devredilemez geriye dönük kolaycılığa karşı dikkatle okunmalıdır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir hafta boyunca egemenlik devredilemez fikrinin küçük örneklerini not edin; kavramın gerçekten açıklayıcı mı, yoksa yalnız kulağa etkileyici mi geldiği ortaya çıkar."
+      ]
+    },
+    {
+      "id": "durak-10-yasa-herkese-genel-bakar",
+      "section": "İKİNCİ KİTAP · YASA",
+      "title": "Yasa herkese genel bakar",
+      "paragraphs": [
+        "Gerçek yasa belirli kişiyi hedefleyen emir değil, genel topluluğa genel konuda uygulanan kuraldır. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "‘Ahmet ceza ödesin’ yasa değildir; aynı ihlali yapan herkes için önceden konmuş ceza yasadır.",
+        "Yazarın dili yer yer kesin olsa da sonuç olasılıklar dünyasında işler. yasa herkese genel bakar konusunda belirsizlik payını korumak, fikri zayıflatmak değil dürüstleştirmektir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Kendinize şu küçük deneyi verin: yasa herkese genel bakar etkisini azaltan tek bir kural değişse insanların davranışı nasıl farklılaşırdı?"
+      ]
+    },
+    {
+      "id": "durak-11-yasa-koyucu-bilmecesi",
+      "section": "İKİNCİ KİTAP · KURUCU",
+      "title": "Yasa koyucu bilmecesi",
+      "paragraphs": [
+        "Halkın henüz görmediği uzun vadeli düzeni tasarlayan yasa koyucu büyük akıl ister, fakat egemen olmamalı ve yasayı halka zorla sahiplenmemelidir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Mimar güvenli bina çizer ama evde kimin yaşayacağına ve günlük kurallara tek başına karar veremez.",
+        "Karşı çıkanların itirazı çoğu zaman ana soruya değil, iddianın genişliğine yönelir. yasa koyucu bilmecesi en verimli biçimde, neyi açıkladığı kadar neyi açıklamadığı da söylenince anlaşılır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bugün benzer bir durumla karşılaştığınızda, önce yasa koyucu bilmecesi fikrinin hangi somut ayrıntıda göründüğünü ve kimin hayatını değiştirdiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-12-her-topluma-ayni-beden-olmaz",
+      "section": "ÜÇÜNCÜ KİTAP · ÖLÇEK",
+      "title": "Her topluma aynı beden olmaz",
+      "paragraphs": [
+        "Toprak, nüfus, ekonomi ve alışkanlıklar hükümet biçimini etkiler; küçük şehirle büyük ülke aynı katılım düzenini kolayca taşıyamaz. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "On kişilik kooperatif her kararı birlikte alabilir; on milyon kişinin her gün aynı odada toplanması mümkün değildir.",
+        "Betimleme ile onay birbirine karıştırılmamalıdır. Kitap her topluma aynı beden olmaz düzeninin nasıl çalıştığını gösterirken, bunun ahlaken doğru olduğunu söylemiş olmaz. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bölümü hayata taşımanın en sade yolu, her topluma aynı beden olmaz için 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir sahneye uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-13-egemen-ile-hukumet-farklidir",
+      "section": "ÜÇÜNCÜ KİTAP · UYGULAMA",
+      "title": "Egemen ile hükümet farklıdır",
+      "paragraphs": [
+        "Halk yasa koyan egemendir, hükümet bu yasaları uygulayan aracıdır; araç kendini efendi sayarsa sözleşme bozulur. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Site sakinleri bütçeyi belirler, yönetici ödemeleri yapar; yönetici bütçeyi kendi malı gibi değiştirirse rolünü aşar.",
+        "Betimleme ile onay birbirine karıştırılmamalıdır. Kitap egemen ile hükümet farklıdır düzeninin nasıl çalıştığını gösterirken, bunun ahlaken doğru olduğunu söylemiş olmaz. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bölümü hayata taşımanın en sade yolu, egemen ile hükümet farklıdır için 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir sahneye uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-14-demokrasi-aristokrasi-monarsi",
+      "section": "ÜÇÜNCÜ KİTAP · HÜKÜMETLER",
+      "title": "Demokrasi aristokrasi monarşi",
+      "paragraphs": [
+        "Rousseau hükümet biçimlerini uygulayıcı sayısına göre inceler; her birinin ölçeğe ve koşula göre avantajı ve bozulma riski vardır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Tek kaptan hızlı karar verir ama yanlışında gemiyi sürükler; kalabalık kurul çok ses duyar ama fırtınada yavaş kalabilir.",
+        "Kitap okuru etkileyici sonuçlara hızla götürür; yine de demokrasi aristokrasi monarşi için kanıt, yorum ve değer yargısını ayrı ayrı tutmak gerekir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir seçim yaparken demokrasi aristokrasi monarşi fikrinin size hangi görünmez varsayımı fark ettirdiğini tek cümleyle yazın."
+      ]
+    },
+    {
+      "id": "durak-15-hizipler-genel-iradeyi-orter",
+      "section": "DÖRDÜNCÜ KİTAP · OYLAMA",
+      "title": "Hizipler genel iradeyi örter",
+      "paragraphs": [
+        "Güçlü birlikler yurttaşların bağımsız hükmünü kendi blok çıkarına bağladığında oy toplamı ortak yararı göstermeyebilir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Mahalle toplantısına herkes tek tek değil iki baskın şirketin çalışanı olarak gelirse sonuç halkın değil blokların pazarlığı olur.",
+        "Yazar güçlü bir karşıtlık kurar, fakat gerçek hayat iki kutup arasında birçok ara ton taşır. hizipler genel iradeyi örter bu tonları silmek için değil, görünür kılmak için kullanılmalıdır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir haber okurken hizipler genel iradeyi örter başlığını aklınıza getirin; görünen olayın arkasındaki kuralı, teşviki ve sessiz kalan kişiyi ayrı ayrı arayın."
+      ]
+    },
+    {
+      "id": "durak-16-ozgur-olmaya-zorlamak",
+      "section": "DÖRDÜNCÜ KİTAP · TEHLİKELİ CÜMLE",
+      "title": "Özgür olmaya zorlamak",
+      "paragraphs": [
+        "Ortak yasayı kabul edip yararından faydalanan kişinin kurala uymaya zorlanmasını Rousseau özgürlükle bağdaştırır; cümle otoriter yorum için açık tehlike taşır. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Herkes kırmızı ışık kuralına katıldıysa ihlal edenin durdurulması ortak özgürlüğü korur; fakat iktidar her emrini 'gerçek özgürlük' ilan edebilir.",
+        "Karşı çıkanların itirazı çoğu zaman ana soruya değil, iddianın genişliğine yönelir. özgür olmaya zorlamak en verimli biçimde, neyi açıkladığı kadar neyi açıklamadığı da söylenince anlaşılır. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bugün benzer bir durumla karşılaştığınızda, önce özgür olmaya zorlamak fikrinin hangi somut ayrıntıda göründüğünü ve kimin hayatını değiştirdiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-17-sivil-din",
+      "section": "DÖRDÜNCÜ KİTAP · BAĞLILIK",
+      "title": "Sivil din",
+      "paragraphs": [
+        "Devletin yurttaşları birbirine bağlayan sade ortak inançlara ihtiyaç duyabileceğini söyler; hoşgörüsüz dini siyasetin düşmanı sayarken inanç sınırı koyması çelişki yaratır. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Anayasaya ve birbirinin hakkına bağlılık ortak zemin olabilir; yöneticiyi kutsallaştırmak ise eleştiriyi ihanet yapar.",
+        "Burada anlatılan mekanizma kaçınılmaz bir kader gibi okunmamalıdır. Koşullar, kurumlar ve insanların tepkileri değiştiğinde sivil din bambaşka sonuçlar verebilir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir kurumun açıklamasını dinlerken sivil din açısından söylenen amaç ile ortaya çıkan gerçek sonucu karşılaştırın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Genel irade çoğunluğun her istediği veya liderin 'halk adına' söylediği şey değildir. Ortak yarara yönelen, genel yasa biçiminde ortaya çıkan yurttaş iradesidir; yanlış bilgi ve hizip onu örtebilir.",
+        "Toplum Sözleşmesi tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Jean-Jacques Rousseau ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser halk egemenliği ve cumhuriyetçi özgürlük için temel kaynak oldu. Savunucuları yurttaşın kendi yasasına itaatini özgürlüğün güçlü tanımı sayarken, eleştirmenler genel irade ve 'özgür olmaya zorlama' dilinin muhalefeti bastırmaya açılabileceğini vurguladı.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Toplum Sözleşmesi için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Toplum Sözleşmesi için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu emir güçten mi haktan mı geliyor? Kural herkese genel mi uygulanıyor? Ortak yarar adı altında hangi grubun çıkarı gizleniyor?",
+        "Bu sorular Toplum Sözleşmesi için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Toplum Sözleşmesi üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Meşru siyasal düzen, hiç kimsenin başka bir kişinin özel efendisi olmadığı; herkesin uymak zorunda olduğu genel yasayı yurttaş olarak birlikte kurduğu düzendir.",
+        "Akılda kalacak son görüntü, kırılmış zincirlerin dairesel bir halk meclisine, ortadaki boş tahtın ise herkesin tuttuğu ortak yasa kitabına dönüştüğü mavi bir şehir meydanıdır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Toplum Sözleşmesi adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-insan-ozgur-dogar-zincire-vurulur": {
+      "image": "/images/summary-art-98-chapter-01-insan-ozgur-dogar-zincire-vurulur-v1.webp",
+      "imageCaption": "İnsan özgür doğar, zincire vurulur fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-03-aile-devletin-modeli-degildir": {
+      "image": "/images/summary-art-98-chapter-02-aile-devletin-modeli-degildir-v1.webp",
+      "imageCaption": "Aile devletin modeli değildir fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-04-en-guclunun-hakki-olmaz": {
+      "image": "/images/summary-art-98-chapter-03-en-guclunun-hakki-olmaz-v1.webp",
+      "imageCaption": "En güçlünün hakkı olmaz fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-05-kendini-kole-olarak-veremezsin": {
+      "image": "/images/summary-art-98-chapter-04-kendini-kole-olarak-veremezsin-v1.webp",
+      "imageCaption": "Kendini köle olarak veremezsin fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-06-herkes-kendini-butune-verir": {
+      "image": "/images/summary-art-98-chapter-05-herkes-kendini-butune-verir-v1.webp",
+      "imageCaption": "Herkes kendini bütüne verir fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-07-genel-irade-nedir": {
+      "image": "/images/summary-art-98-chapter-06-genel-irade-nedir-v1.webp",
+      "imageCaption": "Genel irade nedir? fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-08-insan-her-zaman-dogruyu-gormez": {
+      "image": "/images/summary-art-98-chapter-07-insan-her-zaman-dogruyu-gormez-v1.webp",
+      "imageCaption": "İnsan her zaman doğruyu görmez fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-09-egemenlik-devredilemez": {
+      "image": "/images/summary-art-98-chapter-08-egemenlik-devredilemez-v1.webp",
+      "imageCaption": "Egemenlik devredilemez fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-10-yasa-herkese-genel-bakar": {
+      "image": "/images/summary-art-98-chapter-09-yasa-herkese-genel-bakar-v1.webp",
+      "imageCaption": "Yasa herkese genel bakar fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-11-yasa-koyucu-bilmecesi": {
+      "image": "/images/summary-art-98-chapter-10-yasa-koyucu-bilmecesi-v1.webp",
+      "imageCaption": "Yasa koyucu bilmecesi fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-12-her-topluma-ayni-beden-olmaz": {
+      "image": "/images/summary-art-98-chapter-11-her-topluma-ayni-beden-olmaz-v1.webp",
+      "imageCaption": "Her topluma aynı beden olmaz fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-13-egemen-ile-hukumet-farklidir": {
+      "image": "/images/summary-art-98-chapter-12-egemen-ile-hukumet-farklidir-v1.webp",
+      "imageCaption": "Egemen ile hükümet farklıdır fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-14-demokrasi-aristokrasi-monarsi": {
+      "image": "/images/summary-art-98-chapter-13-demokrasi-aristokrasi-monarsi-v1.webp",
+      "imageCaption": "Demokrasi aristokrasi monarşi fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-15-hizipler-genel-iradeyi-orter": {
+      "image": "/images/summary-art-98-chapter-14-hizipler-genel-iradeyi-orter-v1.webp",
+      "imageCaption": "Hizipler genel iradeyi örter fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-16-ozgur-olmaya-zorlamak": {
+      "image": "/images/summary-art-98-chapter-15-ozgur-olmaya-zorlamak-v1.webp",
+      "imageCaption": "Özgür olmaya zorlamak fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-17-sivil-din": {
+      "image": "/images/summary-art-98-chapter-16-sivil-din-v1.webp",
+      "imageCaption": "Sivil din fikrini tek bakışta hatırlatan simgesel sahne."
+    }
+  }
+}

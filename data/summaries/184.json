@@ -1,0 +1,339 @@
+{
+  "bookNo": 184,
+  "title": "Dil ve Zihin",
+  "author": "Noam Chomsky",
+  "subtitle": "Çocukların az ve kusurlu veriden son derece karmaşık dil bilgisine nasıl ulaştığını sorarak davranışçılığa meydan okuyan; dili insan zihninin biyolojik ve yaratıcı kapasitesine açılan pencere sayan eser.",
+  "coverImage": "/images/summary-cover-184-dil-ve-zihin-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/184-dil-ve-zihin-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4F547F",
+  "meta": {
+    "originalTitle": "Language and Mind",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir çocuk daha önce hiç duymadığı cümleyi kurar ve onu da ilk kez duyduğunuz halde anlarsınız. Kimse ona sonsuz cümle listesini öğretmemiştir. Chomsky için bu sıradan mucize, zihnin yalnız taklit eden boş bir kutu değil, dili üretmeye hazır örgütlü bir sistem olduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Cambridge University Press - Language and Mind contents",
+      "url": "https://www.cambridge.org/core/books/abs/language-and-mind/contents/75E3A9CA0057886DA5023514A68808D5"
+    },
+    {
+      "id": 2,
+      "title": "Cambridge University Press - Language and Mind frontmatter",
+      "url": "https://assets.cambridge.org/052185/8194/frontmatter/0521858194_frontmatter.htm"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Çocukların az ve kusurlu veriden son derece karmaşık dil bilgisine nasıl ulaştığını sorarak davranışçılığa meydan okuyan; dili insan zihninin biyolojik ve yaratıcı kapasitesine açılan pencere sayan eser.",
+        "Kitap Chomsky'nin farklı dönemlerdeki konuşma ve denemelerini bir araya getirir. 'Evrensel dilbilgisi bütün diller aynı cümleleri kullanır' demek değildir; çocuk zihninin hangi tür dil düzenini hızla öğrenebileceğini sınırlayan ortak biyolojik kapasiteyi anlatır.",
+        "Bu rehber, Noam Chomsky tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-dilin-zihne-actigi-pencere",
+      "section": "BİRİNCİ KISIM · TARİH",
+      "title": "Dilin zihne açtığı pencere",
+      "paragraphs": [
+        "Dil yalnız iletişim aracı değil insan zihninin hangi yapıları kurabildiğini gösteren özel araştırma alanıdır. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Teleskop uzak yıldızı, dilbilgisi görünmeyen zihinsel düzeni dolaylı olarak gösterir.",
+        "Kavramın sınırı özellikle önemlidir: dilin zihne açtığı pencere bazı olaylarda merkezdeyken bazılarında yalnız küçük bir etkendir. Ölçüyü bağlam belirler. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bugünkü teknolojiler sahneyi değiştirmiş olabilir. Yine de dilin zihne açtığı pencere içindeki güç, korku, umut veya alışkanlık ilişkisini yeni araçların içinde yeniden arayın."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Dilin zihne açtığı pencere” başlığının yalnız kendi örneğini değil Dil ve Zihin boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-descartes-ve-yaratici-dil",
+      "section": "BİRİNCİ KISIM · TARİH",
+      "title": "Descartes ve yaratıcı dil",
+      "paragraphs": [
+        "Rasyonalist gelenek insanın sınırlı araçlarla yeni ve duruma uygun sınırsız ifadeler üretmesini mekanik tepkiyle açıklanamaz buldu. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Papağan kalıbı tekrarlar; çocuk 'mor fil buzdolabında şarkı söylüyor' gibi hiç öğretilmemiş cümleyi anlayabilir.",
+        "Yazarın dili yer yer kesin olsa da sonuç olasılıklar dünyasında işler. descartes ve yaratıcı dil konusunda belirsizlik payını korumak, fikri zayıflatmak değil dürüstleştirmektir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Kendinize şu küçük deneyi verin: descartes ve yaratıcı dil etkisini azaltan tek bir kural değişse insanların davranışı nasıl farklılaşırdı?"
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Descartes ve yaratıcı dil” başlığının yalnız kendi örneğini değil Dil ve Zihin boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-davranisciliga-itiraz",
+      "section": "BİRİNCİ KISIM · DEVRİM",
+      "title": "Davranışçılığa itiraz",
+      "paragraphs": [
+        "Dil öğrenimini ödül, ceza ve taklit zinciriyle açıklamak çocukların duymadığı yapıları üretmesini ve hataların düzenliliğini açıklamakta yetersiz kalır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Çocuk 'geldim' örneğini taklit etse bile 'yaptım' kuralını yeni fiile uygular; yalnız kaydı çalmaz.",
+        "Karşı çıkanların itirazı çoğu zaman ana soruya değil, iddianın genişliğine yönelir. davranışçılığa itiraz en verimli biçimde, neyi açıkladığı kadar neyi açıklamadığı da söylenince anlaşılır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bugün benzer bir durumla karşılaştığınızda, önce davranışçılığa itiraz fikrinin hangi somut ayrıntıda göründüğünü ve kimin hayatını değiştirdiğini sorun."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Davranışçılığa itiraz” başlığının yalnız kendi örneğini değil Dil ve Zihin boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-edinc-ve-edim",
+      "section": "İKİNCİ KISIM · İÇ BİLGİ",
+      "title": "Edinç ve edim",
+      "paragraphs": [
+        "Edinç konuşurun dil sistemi hakkındaki örtük bilgisi, edim ise yorgunluk, bellek ve dikkat altında bu bilgiyi gerçek konuşmada kullanmasıdır. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "İyi piyanist sahnede heyecandan yanlış nota basınca müzik bilgisini bütünüyle kaybetmiş olmaz.",
+        "Kitap okuru etkileyici sonuçlara hızla götürür; yine de edinç ve edim için kanıt, yorum ve değer yargısını ayrı ayrı tutmak gerekir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir seçim yaparken edinç ve edim fikrinin size hangi görünmez varsayımı fark ettirdiğini tek cümleyle yazın."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Edinç ve edim” başlığının yalnız kendi örneğini değil Dil ve Zihin boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-uyaran-yoksullugu",
+      "section": "İKİNCİ KISIM · ÇOCUK",
+      "title": "Uyaran yoksulluğu",
+      "paragraphs": [
+        "Çocuğa ulaşan konuşma eksik ve dağınık olsa da çocuk hangi cümlelerin mümkün olduğunu ayrıntılı biçimde öğrenir; girdi tek başına açık ders kitabı değildir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Kimse çocuğa yapmaması gereken bütün dil hatalarının listesini vermez, yine de birçok tuhaf yapıyı kendiliğinden reddeder.",
+        "Yazarın dili yer yer kesin olsa da sonuç olasılıklar dünyasında işler. uyaran yoksulluğu konusunda belirsizlik payını korumak, fikri zayıflatmak değil dürüstleştirmektir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Kendinize şu küçük deneyi verin: uyaran yoksulluğu etkisini azaltan tek bir kural değişse insanların davranışı nasıl farklılaşırdı?"
+      ]
+    },
+    {
+      "id": "durak-07-evrensel-dilbilgisi",
+      "section": "İKİNCİ KISIM · DOĞUŞTAN KAPASİTE",
+      "title": "Evrensel dilbilgisi",
+      "paragraphs": [
+        "İnsan beyninin olası dil yapıları hakkında başlangıç kısıtları taşıdığı varsayımı, hızlı ve benzer edinimi açıklamayı amaçlar. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Çilingir her şekle dönüşen balmumu değil belirli anahtar ailelerini tanıyacak hassas düzenek kullanır.",
+        "Burada anlatılan mekanizma kaçınılmaz bir kader gibi okunmamalıdır. Koşullar, kurumlar ve insanların tepkileri değiştiğinde evrensel dilbilgisi bambaşka sonuçlar verebilir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir kurumun açıklamasını dinlerken evrensel dilbilgisi açısından söylenen amaç ile ortaya çıkan gerçek sonucu karşılaştırın."
+      ]
+    },
+    {
+      "id": "durak-08-uretici-dilbilgisi",
+      "section": "İKİNCİ KISIM · KURALLAR",
+      "title": "Üretici dilbilgisi",
+      "paragraphs": [
+        "Dilbilgisi yalnız doğru cümleleri listelemez; sonlu ilke ve işlemlerle sınırsız yapıyı üreten sistemi tarif etmeye çalışır. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Birkaç lego bağlantı kuralı sayısız farklı ev kurabilir; evlerin listesinden daha açıklayıcı olan yapım düzenidir.",
+        "Kitap okuru etkileyici sonuçlara hızla götürür; yine de üretici dilbilgisi için kanıt, yorum ve değer yargısını ayrı ayrı tutmak gerekir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir seçim yaparken üretici dilbilgisi fikrinin size hangi görünmez varsayımı fark ettirdiğini tek cümleyle yazın."
+      ]
+    },
+    {
+      "id": "durak-09-derin-iliski-ve-yuzey-bicimi",
+      "section": "ÜÇÜNCÜ KISIM · YAPI",
+      "title": "Derin ilişki ve yüzey biçimi",
+      "paragraphs": [
+        "Farklı görünen cümleler benzer temel ilişkiler taşıyabilir, benzer kelime dizileri ise farklı anlam yapısına sahip olabilir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "‘Ali kapıyı açtı’ ile ‘Kapı Ali tarafından açıldı’ yüzeyde farklı, roller bakımından yakındır.",
+        "Bu bölümdeki tarihsel sahne bugünün birebir kopyası değildir. derin ilişki ve yüzey biçimi benzerliği kadar dönemler arasındaki farkları da hesaba kattığımızda gerçek bir düşünme aracına dönüşür. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir tartışmada derin ilişki ve yüzey biçimi kavramını karşı tarafa yapıştırmadan önce kendi davranışınızda aynı mekanizmanın daha küçük bir örneğini bulun."
+      ]
+    },
+    {
+      "id": "durak-10-donusumler",
+      "section": "ÜÇÜNCÜ KISIM · YAPI",
+      "title": "Dönüşümler",
+      "paragraphs": [
+        "Soru, edilgen veya yan cümle gibi biçimler arasında sistemli ilişkiler kuran işlemler, konuşurun görünmeyen bilgisinin parçasıdır. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "‘Ayşe geldi’ cümlesinden ‘Ayşe geldi mi?’ üretmek kelimeleri rastgele karıştırmak değil düzenli dönüşümdür.",
+        "Kitap okuru etkileyici sonuçlara hızla götürür; yine de dönüşümler için kanıt, yorum ve değer yargısını ayrı ayrı tutmak gerekir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir seçim yaparken dönüşümler fikrinin size hangi görünmez varsayımı fark ettirdiğini tek cümleyle yazın."
+      ]
+    },
+    {
+      "id": "durak-11-bicim-ile-anlam",
+      "section": "ÜÇÜNCÜ KISIM · YORUM",
+      "title": "Biçim ile anlam",
+      "paragraphs": [
+        "Ses dizisi ile anlam arasında doğrudan kelime sözlüğünden daha zengin yapısal aracılık vardır; cümlenin kuruluşu kimin ne yaptığını belirler. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "‘Köpek adamı ısırdı’ ile ‘Adam köpeği ısırdı’ aynı kelimeleri taşır ama yapı rolleri ters çevirir.",
+        "Burada anlatılan mekanizma kaçınılmaz bir kader gibi okunmamalıdır. Koşullar, kurumlar ve insanların tepkileri değiştiğinde biçim ile anlam bambaşka sonuçlar verebilir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir kurumun açıklamasını dinlerken biçim ile anlam açısından söylenen amaç ile ortaya çıkan gerçek sonucu karşılaştırın."
+      ]
+    },
+    {
+      "id": "durak-12-dil-kullanimi-kurallardan-fazladir",
+      "section": "ÜÇÜNCÜ KISIM · YARATICILIK",
+      "title": "Dil kullanımı kurallardan fazladır",
+      "paragraphs": [
+        "Dilbilgisi mümkün biçimi açıklar, fakat kişinin hangi durumda ne söyleyeceğini niyet, bilgi ve toplumsal bağlam belirler. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "‘Pencere açık’ cümlesi hava bilgisi, rica veya sitem olabilir; yapı tek başına konuşma amacını bitirmez.",
+        "Kitap okuru etkileyici sonuçlara hızla götürür; yine de dil kullanımı kurallardan fazladır için kanıt, yorum ve değer yargısını ayrı ayrı tutmak gerekir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir seçim yaparken dil kullanımı kurallardan fazladır fikrinin size hangi görünmez varsayımı fark ettirdiğini tek cümleyle yazın."
+      ]
+    },
+    {
+      "id": "durak-13-ic-dil-ve-dis-dil",
+      "section": "DÖRDÜNCÜ KISIM · ZİHİN",
+      "title": "İç dil ve dış dil",
+      "paragraphs": [
+        "Chomsky dili dışarıdaki ortak cümle yığını yerine bireyin zihnindeki üretici sistem olarak ele alır; toplumsal dil başka bir inceleme düzeyidir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Kütüphanedeki bütün Türkçe kitaplar bir çocuğun Türkçe bilgisinin kendisi değildir.",
+        "Kavramın sınırı özellikle önemlidir: i̇ç dil ve dış dil bazı olaylarda merkezdeyken bazılarında yalnız küçük bir etkendir. Ölçüyü bağlam belirler. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bugünkü teknolojiler sahneyi değiştirmiş olabilir. Yine de i̇ç dil ve dış dil içindeki güç, korku, umut veya alışkanlık ilişkisini yeni araçların içinde yeniden arayın."
+      ]
+    },
+    {
+      "id": "durak-14-biyodilbilim",
+      "section": "DÖRDÜNCÜ KISIM · BİYOLOJİ",
+      "title": "Biyodilbilim",
+      "paragraphs": [
+        "Dil kapasitesi kültürel ürün olsa da onu mümkün kılan beyin sistemi insan biyolojisinin parçasıdır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Kuş şarkısı çevreden öğrenilebilir, fakat her hayvan aynı eğitimle aynı ses sistemini kuramaz.",
+        "Benzetme akılda kalıcıdır fakat gerçek dünyanın yerini tutmaz. biyodilbilim fikrini kullanırken benzetmenin nerede bittiğini ayrıca görmek gerekir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Sosyal medyada kesin bir hüküm gördüğünüzde biyodilbilim için hangi kanıtın eksik olduğunu sormak, heyecan verici fakat yanlış genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-15-kritik-donem",
+      "section": "DÖRDÜNCÜ KISIM · GELİŞİM",
+      "title": "Kritik dönem",
+      "paragraphs": [
+        "Dil ediniminin çocuklukta daha doğal ve tam olması biyolojik gelişim zamanlamasının önemini düşündürür. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Küçük çocuk aksanı fark etmeden alırken yetişkin yıllarca çalışsa da bazı sesleri zor ayırabilir.",
+        "Bu bölümdeki tarihsel sahne bugünün birebir kopyası değildir. kritik dönem benzerliği kadar dönemler arasındaki farkları da hesaba kattığımızda gerçek bir düşünme aracına dönüşür. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir tartışmada kritik dönem kavramını karşı tarafa yapıştırmadan önce kendi davranışınızda aynı mekanizmanın daha küçük bir örneğini bulun."
+      ]
+    },
+    {
+      "id": "durak-16-dil-ve-dusunce-ayni-mi",
+      "section": "BEŞİNCİ KISIM · FELSEFE",
+      "title": "Dil ve düşünce aynı mı?",
+      "paragraphs": [
+        "Dil düşünceyi ifade ve düzenlemede güçlüdür fakat bütün kavrayışı kelimelere indirgemek görsel, duygusal ve pratik zekâyı kaçırır. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Yüzü tanıyıp adını bulamamak, tanıma düşüncesinin kelimeden tamamen aynı olmadığını gösterir.",
+        "Burada anlatılan mekanizma kaçınılmaz bir kader gibi okunmamalıdır. Koşullar, kurumlar ve insanların tepkileri değiştiğinde dil ve düşünce aynı mı? bambaşka sonuçlar verebilir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir kurumun açıklamasını dinlerken dil ve düşünce aynı mı? açısından söylenen amaç ile ortaya çıkan gerçek sonucu karşılaştırın."
+      ]
+    },
+    {
+      "id": "durak-17-kuramin-acik-kalan-yerleri",
+      "section": "BEŞİNCİ KISIM · TARTIŞMA",
+      "title": "Kuramın açık kalan yerleri",
+      "paragraphs": [
+        "Evrensel dilbilgisinin içeriği, doğuştan gelenin ne kadar özel olduğu, kullanım ve toplumsal etkileşimin rolü bugün yoğun biçimde tartışılır. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Çocuğun dili hazır şablondan mı, genel örüntü öğrenmesinden mi, ortak dikkat ve konuşmadan mı kurduğu tek deneyle bitmez.",
+        "Yazar güçlü bir karşıtlık kurar, fakat gerçek hayat iki kutup arasında birçok ara ton taşır. kuramın açık kalan yerleri bu tonları silmek için değil, görünür kılmak için kullanılmalıdır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir haber okurken kuramın açık kalan yerleri başlığını aklınıza getirin; görünen olayın arkasındaki kuralı, teşviki ve sessiz kalan kişiyi ayrı ayrı arayın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Chomsky çocukların belirli bir dili genlerinde taşıdığını veya çevrenin önemsiz olduğunu söylemez. Çevre hangi dili öğrenileceğini sağlar; doğuştan kapasite ise bu verinin nasıl hızla örgütlenebildiğine dair varsayımdır.",
+        "Dil ve Zihin tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Noam Chomsky ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Dil ve Zihin davranışçı dil anlayışını sarsıp bilişsel devrimin temel metinlerinden oldu. Evrensel dilbilgisinin kapsamı, uyaran yoksulluğu kanıtları ve dilin genel öğrenme süreçlerinden ne kadar ayrı olduğu kullanım temelli ve bağlantıcı yaklaşımlarca eleştirildi.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Dil ve Zihin için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Dil ve Zihin için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Çocuk duymadığı yapıyı nasıl kuruyor? Konuşma hatası bilgi eksikliği mi anlık edim sorunu mu? Dil kuralını toplumsal kullanım ve anlamdan koparıyor muyum?",
+        "Bu sorular Dil ve Zihin için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Dil ve Zihin üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İnsan dili taklit edilmiş cümle deposu değil; çocuk zihninin sınırlı girdiden kurduğu, sonlu ilkelerle sınırsız ve yaratıcı ifadeler üretebilen biyolojik temelli iç sistemdir.",
+        "Akılda kalacak son görüntü, bir çocuğun ağzından çıkan birkaç renkli ses parçasının dallanarak sonsuz cümle ağacına ve arkasında parlayan beyin devresine dönüşmesidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Dil ve Zihin adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-dilin-zihne-actigi-pencere": {
+      "image": "/images/summary-art-184-chapter-01-dilin-zihne-actigi-pencere-v1.webp",
+      "imageCaption": "Dilin zihne açtığı pencere fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-03-descartes-ve-yaratici-dil": {
+      "image": "/images/summary-art-184-chapter-02-descartes-ve-yaratici-dil-v1.webp",
+      "imageCaption": "Descartes ve yaratıcı dil fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-04-davranisciliga-itiraz": {
+      "image": "/images/summary-art-184-chapter-03-davranisciliga-itiraz-v1.webp",
+      "imageCaption": "Davranışçılığa itiraz fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-05-edinc-ve-edim": {
+      "image": "/images/summary-art-184-chapter-04-edinc-ve-edim-v1.webp",
+      "imageCaption": "Edinç ve edim fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-06-uyaran-yoksullugu": {
+      "image": "/images/summary-art-184-chapter-05-uyaran-yoksullugu-v1.webp",
+      "imageCaption": "Uyaran yoksulluğu fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-07-evrensel-dilbilgisi": {
+      "image": "/images/summary-art-184-chapter-06-evrensel-dilbilgisi-v1.webp",
+      "imageCaption": "Evrensel dilbilgisi fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-08-uretici-dilbilgisi": {
+      "image": "/images/summary-art-184-chapter-07-uretici-dilbilgisi-v1.webp",
+      "imageCaption": "Üretici dilbilgisi fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-09-derin-iliski-ve-yuzey-bicimi": {
+      "image": "/images/summary-art-184-chapter-08-derin-iliski-ve-yuzey-bicimi-v1.webp",
+      "imageCaption": "Derin ilişki ve yüzey biçimi fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-10-donusumler": {
+      "image": "/images/summary-art-184-chapter-09-donusumler-v1.webp",
+      "imageCaption": "Dönüşümler fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-11-bicim-ile-anlam": {
+      "image": "/images/summary-art-184-chapter-10-bicim-ile-anlam-v1.webp",
+      "imageCaption": "Biçim ile anlam fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-12-dil-kullanimi-kurallardan-fazladir": {
+      "image": "/images/summary-art-184-chapter-11-dil-kullanimi-kurallardan-fazladir-v1.webp",
+      "imageCaption": "Dil kullanımı kurallardan fazladır fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-13-ic-dil-ve-dis-dil": {
+      "image": "/images/summary-art-184-chapter-12-ic-dil-ve-dis-dil-v1.webp",
+      "imageCaption": "İç dil ve dış dil fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-14-biyodilbilim": {
+      "image": "/images/summary-art-184-chapter-13-biyodilbilim-v1.webp",
+      "imageCaption": "Biyodilbilim fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-15-kritik-donem": {
+      "image": "/images/summary-art-184-chapter-14-kritik-donem-v1.webp",
+      "imageCaption": "Kritik dönem fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-16-dil-ve-dusunce-ayni-mi": {
+      "image": "/images/summary-art-184-chapter-15-dil-ve-dusunce-ayni-mi-v1.webp",
+      "imageCaption": "Dil ve düşünce aynı mı? fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-17-kuramin-acik-kalan-yerleri": {
+      "image": "/images/summary-art-184-chapter-16-kuramin-acik-kalan-yerleri-v1.webp",
+      "imageCaption": "Kuramın açık kalan yerleri fikrini tek bakışta hatırlatan simgesel sahne."
+    }
+  }
+}
