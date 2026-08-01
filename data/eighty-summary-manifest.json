@@ -1,7 +1,7 @@
 {
   "version": 1,
   "createdAt": "2026-08-01T18:39:02+00:00",
-  "updatedAt": "2026-08-01T21:33:14+00:00",
+  "updatedAt": "2026-08-01T22:44:11+00:00",
   "targetCharacters": 20000,
   "characterGate": [
     18500,
@@ -528,9 +528,25 @@
       "category": "Antropoloji & Sosyoloji",
       "batch": 3,
       "position": 1,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "research": true,
+        "text": true,
+        "characterGate": true,
+        "cover": true,
+        "chapterArt": true,
+        "pdf": true,
+        "visualQa": true,
+        "site": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T22:44:11+00:00"
     },
     {
       "no": 45,
@@ -539,9 +555,25 @@
       "category": "Zihin Felsefesi",
       "batch": 3,
       "position": 2,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "research": true,
+        "text": true,
+        "characterGate": true,
+        "cover": true,
+        "chapterArt": true,
+        "pdf": true,
+        "visualQa": true,
+        "site": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T22:44:11+00:00"
     },
     {
       "no": 77,
@@ -550,9 +582,25 @@
       "category": "İslam Felsefesi",
       "batch": 3,
       "position": 3,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "research": true,
+        "text": true,
+        "characterGate": true,
+        "cover": true,
+        "chapterArt": true,
+        "pdf": true,
+        "visualQa": true,
+        "site": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T22:44:11+00:00"
     },
     {
       "no": 101,
@@ -561,9 +609,25 @@
       "category": "Siyaset Felsefesi",
       "batch": 3,
       "position": 4,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "research": true,
+        "text": true,
+        "characterGate": true,
+        "cover": true,
+        "chapterArt": true,
+        "pdf": true,
+        "visualQa": true,
+        "site": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T22:44:11+00:00"
     },
     {
       "no": 146,
@@ -572,9 +636,25 @@
       "category": "Fizik Felsefesi",
       "batch": 3,
       "position": 5,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "research": true,
+        "text": true,
+        "characterGate": true,
+        "cover": true,
+        "chapterArt": true,
+        "pdf": true,
+        "visualQa": true,
+        "site": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T22:44:11+00:00"
     },
     {
       "no": 162,
@@ -583,9 +663,25 @@
       "category": "Ekonomi Politik",
       "batch": 3,
       "position": 6,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "research": true,
+        "text": true,
+        "characterGate": true,
+        "cover": true,
+        "chapterArt": true,
+        "pdf": true,
+        "visualQa": true,
+        "site": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T22:44:11+00:00"
     },
     {
       "no": 196,
@@ -594,9 +690,25 @@
       "category": "Medya Teorisi",
       "batch": 3,
       "position": 7,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "research": true,
+        "text": true,
+        "characterGate": true,
+        "cover": true,
+        "chapterArt": true,
+        "pdf": true,
+        "visualQa": true,
+        "site": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T22:44:11+00:00"
     },
     {
       "no": 223,
@@ -605,9 +717,25 @@
       "category": "Ahlak Felsefesi",
       "batch": 3,
       "position": 8,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "research": true,
+        "text": true,
+        "characterGate": true,
+        "cover": true,
+        "chapterArt": true,
+        "pdf": true,
+        "visualQa": true,
+        "site": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T22:44:11+00:00"
     },
     {
       "no": 136,
@@ -616,9 +744,25 @@
       "category": "Siyaset Felsefesi",
       "batch": 3,
       "position": 9,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "research": true,
+        "text": true,
+        "characterGate": true,
+        "cover": true,
+        "chapterArt": true,
+        "pdf": true,
+        "visualQa": true,
+        "site": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T22:44:11+00:00"
     },
     {
       "no": 169,
@@ -627,9 +771,25 @@
       "category": "Coğrafya & Sosyoloji",
       "batch": 3,
       "position": 10,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "research": true,
+        "text": true,
+        "characterGate": true,
+        "cover": true,
+        "chapterArt": true,
+        "pdf": true,
+        "visualQa": true,
+        "site": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T22:44:11+00:00"
     },
     {
       "no": 26,

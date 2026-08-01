@@ -1,0 +1,351 @@
+{
+  "bookNo": 223,
+  "title": "Bakım Etiği",
+  "author": "Nel Noddings",
+  "subtitle": "Ahlakı yalnız evrensel kural ve tarafsız hesapta değil, somut bir kişiye dikkatle yönelme, onun gerçek ihtiyacını duyma ve karşılık veren ilişki kurma deneyiminde arayan etkili etik yaklaşımı.",
+  "coverImage": "/images/summary-cover-223-bakim-etigi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/223-bakim-etigi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6E7650",
+  "meta": {
+    "originalTitle": "Caring: A Relational Approach to Ethics and Moral Education",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Gece üçte ağlayan dostunuz sizi aradığında önce evrensel bir yasa mı düşünürsünüz, yoksa sesindeki kırılmayı mı duyarsınız? Noddings ahlakın çoğu zaman soyut karar salonundan önce bu dikkat anında başladığını söyler.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "University of California Press - Caring",
+      "url": "https://www.ucpress.edu/book/9780520275706/caring"
+    },
+    {
+      "id": 2,
+      "title": "MIT Press Bookstore - Caring",
+      "url": "https://mitpressbookstore.mit.edu/book/9780520057470"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Ahlakı yalnız evrensel kural ve tarafsız hesapta değil, somut bir kişiye dikkatle yönelme, onun gerçek ihtiyacını duyma ve karşılık veren ilişki kurma deneyiminde arayan etkili etik yaklaşımı.",
+        "Özgün kitabın adı Caring'dir ve ilk baskısı 'feminine approach' ifadesini taşır. Rehber bakımın kadınlara doğal görev sayılması tehlikesini eleştirirken Noddings'in ilişki, alımlama ve eğitim hakkındaki özgün kavramlarını korur.",
+        "Bakım tek kişinin iyi niyeti değildir. Biri dikkatini gerçekten diğerine verir; diğeri bunu bir biçimde alır ve karşılıklar. Bu nedenle Noddings için ahlak, boşlukta duran kahraman bireyden çok iki kişi arasındaki canlı bağda görünür."
+      ]
+    },
+    {
+      "id": "durak-02-ahlak-neden-iliskide-baslar",
+      "section": "BİRİNCİ KISIM · YÖN DEĞİŞİMİ",
+      "title": "Ahlak neden ilişkide başlar?",
+      "paragraphs": [
+        "Noddings ahlaki hayatı yalnız tek başına karar veren bireyin kural uygulaması değil, somut kişiler arasındaki karşılaşma olarak kurar. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Yaşlı komşuya yardımın doğru olup olmadığını yalnız ilke değil onun neye ihtiyaç duyduğunu konuşmak belirler. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "İlişkiye vurgu, adil kurum ve hakların önemini ortadan kaldırmaz. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir etik kararda kuralın yanında etkilenen kişinin sesine ve ilişki tarihine yer açmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Ahlak neden ilişkide başlar?” ile Bakım Etiği kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-dogal-bakim-once-gelir",
+      "section": "BİRİNCİ KISIM · KENDİLİĞİNDEN YÖNELME",
+      "title": "Doğal bakım önce gelir",
+      "paragraphs": [
+        "Sevilen birine kendiliğinden yöneldiğimiz doğal bakım, etik düşüncenin yaşanmış kaynağıdır. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Çocuk düşerken ebeveyn önce koşar, sonra görevini açıklayacak ilke aramaz. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Kendiliğinden bakım aile içinde bile her zaman oluşmaz ve tükenmiş kişi yardım edemeyebilir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "İyi duygunun yokluğunu suçlamak yerine dinlenme, destek ve güvenli bakım koşullarını kurmak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-04-etik-bakim-hatirlanan-iyilikten-guc-alir",
+      "section": "BİRİNCİ KISIM · İDEAL",
+      "title": "Etik bakım hatırlanan iyilikten güç alır",
+      "paragraphs": [
+        "Doğal istek gelmediğinde daha önce bakım vermiş ve almış olma hatırası kişiyi ilişkiye yeniden yöneltebilir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Yorgun öğretmen öğrenciyi dinlemek istemez ama iyi öğretmen olma idealini ve kendisini dinleyen eski hocasını hatırlar. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "İdeal benlik sürekli özveri baskısına dönüşürse kişiyi tüketebilir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Etik çağrıyla sınırsız fedakârlığı ayırmak ve bakım verenin ihtiyacını da hesaba katmak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Etik bakım hatırlanan iyilikten güç alır” ile Bakım Etiği kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-alimlayici-dikkat",
+      "section": "İKİNCİ KISIM · DİNLEME",
+      "title": "Alımlayıcı dikkat",
+      "paragraphs": [
+        "Bakım veren kendi planını hemen dayatmak yerine diğerinin dünyasını geçici olarak alımlayıcı dikkatle karşılamaya çalışır. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Arkadaş işini kaybettiğinde ona anında çözüm listesi vermek yerine korkusunun ne olduğunu dinlemek ilk bakım olabilir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Tam empati mümkün değildir; 'seni tamamen anlıyorum' sözü farkı silebilir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Dinlerken duyduğunuzu kendi cümlenizle geri söyleyip doğru anlayıp anlamadığınızı sormak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-06-gudu-enerjisinin-yer-degistirmesi",
+      "section": "İKİNCİ KISIM · HAREKET",
+      "title": "Güdü enerjisinin yer değiştirmesi",
+      "paragraphs": [
+        "Bakımda dikkat yalnız duyguda kalmaz; kişinin enerjisi karşısındakinin ihtiyacına doğru yön değiştirir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Doktor vardiyası bitse de hastanın ulaşım sorununu sosyal hizmet birimine aktarır; dinleme somut bağlantıya dönüşür. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Her talebi yerine getirmek bakım değildir; zarar veren istek reddedilebilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "İhtiyaç, istek, kapasite ve uzun vadeli zarar ihtimalini birlikte değerlendirmek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Güdü enerjisinin yer değiştirmesi” ile Bakım Etiği kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-bakilan-kisinin-karsiligi-neden-onemli",
+      "section": "İKİNCİ KISIM · TAMAMLANMA",
+      "title": "Bakılan kişinin karşılığı neden önemli?",
+      "paragraphs": [
+        "Bakım ilişkisi, yardım alanın onu tanıması veya kendi biçiminde karşılık vermesiyle tamamlanır; tek yönlü niyet yeterli değildir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Öğrencinin rahatlayıp yeniden denemesi öğretmenin desteğinin ona ulaştığını gösterir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Bebek, ağır hasta veya hayvan sözlü karşılık veremez; küçük beden tepkileri de ilişkiyi tamamlayabilir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Yardımın iyi niyetini değil karşı tarafta gerçekten ne oluşturduğunu gözlemek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-08-ihtiyac-kimin-gozunden-tanimlanir",
+      "section": "İKİNCİ KISIM · YORUM",
+      "title": "İhtiyaç kimin gözünden tanımlanır?",
+      "paragraphs": [
+        "Bakım verenin çıkardığı ihtiyaçla bakım alanın söylediği ihtiyaç farklı olabilir ve etik iş bu gerilimi müzakere etmektir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Aile yaşlı kişinin yalnız güvenliğe ihtiyacı olduğunu düşünürken o bağımsızca pazara gitmeyi hayatının merkezi sayar. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Kişinin her tercihi bilgilendirilmiş veya zararsız olmayabilir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Güvenlik, özerklik, bilgi ve geri döndürülebilir seçenekler arasında ortak plan kurmak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “İhtiyaç kimin gözünden tanımlanır?” ile Bakım Etiği kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-bakim-yakinlikla-sinirli-mi",
+      "section": "ÜÇÜNCÜ KISIM · ÇEMBER",
+      "title": "Bakım yakınlıkla sınırlı mı?",
+      "paragraphs": [
+        "Yüz yüze ilişki bakımın en güçlü örneğidir fakat uzaktaki insanlara ve yabancılara karşı sorumluluğun nasıl kurulacağı zorlaşır. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Mahalledeki çocuğun açlığını görürüz; başka kıtadaki çocuğa yardım sayı ve kurumlar üzerinden ulaşır. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Yalnız yakına öncelik vermek kayırmacılık ve küresel adaletsizlik üretebilir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Yakın bakımın bilgisini genel hak ve kurumlarla genişletmek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-10-kurum-bakim-verebilir-mi",
+      "section": "ÜÇÜNCÜ KISIM · ÖRGÜT",
+      "title": "Kurum bakım verebilir mi?",
+      "paragraphs": [
+        "Noddings uzak ve bürokratik örgütlerin gerçek bakım ilişkisini kurmakta zorlandığını, fakat bakımın koşullarını destekleyebileceğini tartışır. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Hastane formu hastayı tanımaz ama hemşireye yeterli zaman ve tercüman sağlayarak ilişkinin kurulmasına yardım eder. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Kişisel iyi niyet kötü kurumun personel açığını sonsuza kadar kapatamaz. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bakım kalitesini çalışan erdemi kadar süre, ücret, erişim ve geri bildirim sistemiyle değerlendirmek gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ]
+    },
+    {
+      "id": "durak-11-hayvan-bitki-ve-fikirlere-bakim",
+      "section": "ÜÇÜNCÜ KISIM · SINIRLAR",
+      "title": "Hayvan, bitki ve fikirlere bakım",
+      "paragraphs": [
+        "Kitap bakım dilinin hayvanlara, bitkilere, nesnelere ve düşüncelere ne kadar uzanabileceğini sorgular. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Bahçıvan kuruyan bitkinin ışık ve su işaretlerini okuyarak karşılık verir; ilişki insan konuşması olmadan sürer. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Bir fikre bakım adına insanı feda etmek ilişki etiğini tersine çevirebilir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Korunan şeyin karşılık kapasitesini, canlılığını ve insan üzerindeki bedelini ayırmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Hayvan, bitki ve fikirlere bakım” ile Bakım Etiği kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-12-bakim-ile-adalet-catistiginda",
+      "section": "DÖRDÜNCÜ KISIM · TARAFSIZLIK",
+      "title": "Bakım ile adalet çatıştığında",
+      "paragraphs": [
+        "Yakındaki kişiye özel ilgi bazen herkese eşit kuralın talebiyle çatışır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Öğretmen zorlanan öğrencisine ek süre verir; sınıftaki diğerleri bunun adaletsiz ayrıcalık olduğunu düşünebilir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Aynı davranmak her zaman adil olmadığı gibi her özel ilişki de meşru değildir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Farklı muamelenin gerçek ihtiyaca, şeffaf ölçüye ve başkalarının temel hakkını korumaya dayanıp dayanmadığını sınamak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-13-kadin-deneyimi-mi-kadin-gorevi-mi",
+      "section": "DÖRDÜNCÜ KISIM · CİNSİYET",
+      "title": "Kadın deneyimi mi, kadın görevi mi?",
+      "paragraphs": [
+        "Noddings erkek egemen etik dilin görmediği bakım deneyimlerini öne çıkarır, fakat yaklaşım kadınları doğal bakıcı ilan etme riski taşır. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Evde hasta bakımını hep kız çocuğuna vermek onun becerisini överken özgürlüğünü sessizce azaltabilir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Bakım bilgisinin tarihsel olarak kadınlarda birikmesi biyolojik kader kanıtı değildir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Bakımı değerli kılmak için onu bütün cinsiyetler arasında ücret, zaman ve sorumlulukla paylaşmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Kadın deneyimi mi, kadın görevi mi?” ile Bakım Etiği kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-14-egitimde-diyalog",
+      "section": "BEŞİNCİ KISIM · OKUL",
+      "title": "Eğitimde diyalog",
+      "paragraphs": [
+        "Ahlak eğitimi yalnız erdem sözcüklerini ezberletmek değil, öğretmen ile öğrenci arasında gerçek diyalog kurmaktır. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Öğretmen kopya çeken öğrenciyi yalnız cezalandırmaz; korku, baskı ve sorumluluk hakkında konuşur. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Diyalog sınav standardı ve güvenlik kuralını kaldırmaz. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Kural ihlalinde sonuçla birlikte kişinin hikâyesini ve onarım yolunu konuşmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-15-model-olma-ve-pratik",
+      "section": "BEŞİNCİ KISIM · ÖĞRENME",
+      "title": "Model olma ve pratik",
+      "paragraphs": [
+        "Çocuk bakımın ne olduğunu yetişkinin davranışını görerek ve bakım verme fırsatı bularak öğrenir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Sınıf yaşlı bakım evine tek günlük gösteri ziyareti yerine düzenli mektup ve görüşme ortaklığı kurar. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Zorunlu hizmet duyguyu taklit eden performansa dönüşebilir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bakım etkinliğinde karşı tarafın ihtiyacı, süreklilik, rıza ve öğrencinin düşünmesi birlikte tasarlanmalıdır. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Model olma ve pratik” ile Bakım Etiği kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-onaylamak-kisiyi-ciddiye-almaktir",
+      "section": "BEŞİNCİ KISIM · CONFIRMATION",
+      "title": "Onaylamak kişiyi ciddiye almaktır",
+      "paragraphs": [
+        "Noddings'in onay kavramı her davranışı övmek değil, kişideki daha iyi imkânı görüp ona seslenmektir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Öğretmen öfkeli öğrencinin hakaretini kabul etmez ama adalet duygusunu daha doğru bir ifadeye çevirebileceğine inanır. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Olumlu potansiyel aramak ağır zararı küçültme veya mağduru unutma bahanesi olmamalıdır. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Kişinin değerini korurken davranışın sonucunu açıkça adlandırmak ve sınır koymak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ]
+    },
+    {
+      "id": "durak-17-bakimin-surdurulebilir-siyaseti",
+      "section": "BEŞİNCİ KISIM · SONUÇ",
+      "title": "Bakımın sürdürülebilir siyaseti",
+      "paragraphs": [
+        "Bakım etiği özel ev içi erdemde kalmamalı; bakım verenin de bakıldığı zaman, gelir ve kurum düzenine dönüşmelidir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Yaşlıya sevgiyle bakan aile üyesine izin ve gelir desteği verilmezse iyi niyet tükenmişliğe dönüşür. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Bürokratik program ilişki sıcaklığını tek başına yaratamaz. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "İyi bakım sistemini hak, kaynak ve denetimle kişisel dikkat ile esnekliği bir arada tutacak biçimde kurmak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Bakımın sürdürülebilir siyaseti” ile Bakım Etiği kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Bakım etiği herkese her istediğini vermek veya kadınların kendini feda etmesi değildir. Dikkat, gerçek ihtiyaç, karşılık, sınır ve bakım verenin sürdürülebilirliği birlikte düşünülür.",
+        "Bağımlı yakına para vermeyi sürdürmek sevgi gibi görünebilir; zarar döngüsünü büyütüyorsa sınır koymak daha gerçek bakım olabilir.",
+        "Bakım Etiği için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser bakım etiğini ahlak felsefesi ve eğitim tartışmalarının merkezine taşıdı; öğretmenlik, sağlık, aile ve sosyal politika alanlarında geniş etki yarattı.",
+        "Eleştirmenler yakın ilişkiye aşırı ağırlığın yabancılara adaleti zayıflatabileceğini, kadınlıkla bağın toplumsal cinsiyet kalıplarını yeniden üretebileceğini ve kurum ölçeğinin eksik kaldığını savundu.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Bakım Etiği bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Gerçekten diğerini mi dinliyorum, kendi çözümümü mü dayatıyorum? Yardım karşı tarafta ne oluşturdu? Bakım yükünü kim taşıyor?",
+        "Bugün yardım etmek istediğiniz bir kişiye çözüm vermeden önce ihtiyacını sorun; duyduğunuzu geri söyleyin, küçük bir eylem önerin ve onun cevabına göre düzeltin.",
+        "Bakım Etiği bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Ahlak yalnız doğru ilkeyi bilmek değil; somut diğerine dikkatle açılmak, ihtiyaca uygun karşılık vermek ve bakımın gerçekten ulaştığını ilişkide görebilmektir.",
+        "Akılda tutulacak son görüntü, zeytin yeşili ve sıcak altın bir bahçede karşılıklı uzanan iki elin arasında filizlenen bitki, arkada okul, ev ve hastaneye uzanan ince bakım yollarıyla birleşen sakin bir kompozisyondur. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Bakım Etiği adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-ahlak-neden-iliskide-baslar": {
+      "image": "/images/summary-art-223-chapter-01-ahlak-neden-iliskide-baslar-v1.webp",
+      "imageCaption": "Ahlak neden ilişkide başlar? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-dogal-bakim-once-gelir": {
+      "image": "/images/summary-art-223-chapter-02-dogal-bakim-once-gelir-v1.webp",
+      "imageCaption": "Doğal bakım önce gelir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-etik-bakim-hatirlanan-iyilikten-guc-alir": {
+      "image": "/images/summary-art-223-chapter-03-etik-bakim-hatirlanan-iyilikten-guc-alir-v1.webp",
+      "imageCaption": "Etik bakım hatırlanan iyilikten güç alır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-alimlayici-dikkat": {
+      "image": "/images/summary-art-223-chapter-04-alimlayici-dikkat-v1.webp",
+      "imageCaption": "Alımlayıcı dikkat düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-gudu-enerjisinin-yer-degistirmesi": {
+      "image": "/images/summary-art-223-chapter-05-gudu-enerjisinin-yer-degistirmesi-v1.webp",
+      "imageCaption": "Güdü enerjisinin yer değiştirmesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-bakilan-kisinin-karsiligi-neden-onemli": {
+      "image": "/images/summary-art-223-chapter-06-bakilan-kisinin-karsiligi-neden-onemli-v1.webp",
+      "imageCaption": "Bakılan kişinin karşılığı neden önemli? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-ihtiyac-kimin-gozunden-tanimlanir": {
+      "image": "/images/summary-art-223-chapter-07-ihtiyac-kimin-gozunden-tanimlanir-v1.webp",
+      "imageCaption": "İhtiyaç kimin gözünden tanımlanır? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-bakim-yakinlikla-sinirli-mi": {
+      "image": "/images/summary-art-223-chapter-08-bakim-yakinlikla-sinirli-mi-v1.webp",
+      "imageCaption": "Bakım yakınlıkla sınırlı mı? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-kurum-bakim-verebilir-mi": {
+      "image": "/images/summary-art-223-chapter-09-kurum-bakim-verebilir-mi-v1.webp",
+      "imageCaption": "Kurum bakım verebilir mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-hayvan-bitki-ve-fikirlere-bakim": {
+      "image": "/images/summary-art-223-chapter-10-hayvan-bitki-ve-fikirlere-bakim-v1.webp",
+      "imageCaption": "Hayvan, bitki ve fikirlere bakım düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-bakim-ile-adalet-catistiginda": {
+      "image": "/images/summary-art-223-chapter-11-bakim-ile-adalet-catistiginda-v1.webp",
+      "imageCaption": "Bakım ile adalet çatıştığında düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-kadin-deneyimi-mi-kadin-gorevi-mi": {
+      "image": "/images/summary-art-223-chapter-12-kadin-deneyimi-mi-kadin-gorevi-mi-v1.webp",
+      "imageCaption": "Kadın deneyimi mi, kadın görevi mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-egitimde-diyalog": {
+      "image": "/images/summary-art-223-chapter-13-egitimde-diyalog-v1.webp",
+      "imageCaption": "Eğitimde diyalog düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-model-olma-ve-pratik": {
+      "image": "/images/summary-art-223-chapter-14-model-olma-ve-pratik-v1.webp",
+      "imageCaption": "Model olma ve pratik düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-onaylamak-kisiyi-ciddiye-almaktir": {
+      "image": "/images/summary-art-223-chapter-15-onaylamak-kisiyi-ciddiye-almaktir-v1.webp",
+      "imageCaption": "Onaylamak kişiyi ciddiye almaktır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-bakimin-surdurulebilir-siyaseti": {
+      "image": "/images/summary-art-223-chapter-16-bakimin-surdurulebilir-siyaseti-v1.webp",
+      "imageCaption": "Bakımın sürdürülebilir siyaseti düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

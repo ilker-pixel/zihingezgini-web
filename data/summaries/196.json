@@ -1,0 +1,351 @@
+{
+  "bookNo": 196,
+  "title": "Çocukluğun Yok Oluşu",
+  "author": "Neil Postman",
+  "subtitle": "Çocukluğu yalnız biyolojik yaş değil, yetişkin bilgisinin basamaklarla açıldığı tarihsel bir kurum olarak gören; matbaanın bu sınırı kurduğunu, televizyonun ise aşındırdığını savunan medya eleştirisi.",
+  "coverImage": "/images/summary-cover-196-cocuklugun-yok-olusu-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/196-cocuklugun-yok-olusu-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#5D7181",
+  "meta": {
+    "originalTitle": "The Disappearance of Childhood",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Ortaçağ resminde çocuk bazen küçük bedenli yetişkin gibi görünür. Postman'a göre bunun nedeni ressamın beceriksizliği değil, çocukluk dediğimiz ayrı dünyanın henüz bugünkü biçimde kurulmamış olması olabilir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Neil Postman - The Disappearance of Childhood",
+      "url": "https://neilpostman.org/books/the-disappearance-of-childhood.html"
+    },
+    {
+      "id": 2,
+      "title": "Penguin Random House - The Disappearance of Childhood",
+      "url": "https://www.penguinrandomhouse.com/books/132785/the-disappearance-of-childhood-by-neil-postman/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Çocukluğu yalnız biyolojik yaş değil, yetişkin bilgisinin basamaklarla açıldığı tarihsel bir kurum olarak gören; matbaanın bu sınırı kurduğunu, televizyonun ise aşındırdığını savunan medya eleştirisi.",
+        "Kitap iki parçalıdır: önce çocukluğun matbaa ve okulla doğuşunu, sonra telgraf, fotoğraf ve özellikle televizyonla çözülüşünü anlatır. Rehber tezi bugünün telefon ve sosyal medya dünyasına taşır ama 1982 metnine sonradan olmuş şeyleri söyletmez.",
+        "Basılı kitabın sırrına ulaşmak için harfleri öğrenmek, yıllarca okulda ilerlemek gerekir. Televizyon görüntüsü ise okuma bilmeyen çocuğa da yetişkinle aynı anda ulaşır. Postman'ın bütün hikâyesi bu erişim farkından doğar."
+      ]
+    },
+    {
+      "id": "durak-02-cocukluk-biyoloji-kadar-kulturdur",
+      "section": "BİRİNCİ KISIM · KURULUŞ",
+      "title": "Çocukluk biyoloji kadar kültürdür",
+      "paragraphs": [
+        "Bebeklik biyolojik gerçektir fakat çocukluğun ne kadar süreceği ve hangi bilgiyle korunacağı toplumsal kurumlarla kurulur. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "On yaşındaki biri bir toplumda işçi, başka toplumda öğrenci ve korunması gereken küçük kişi sayılabilir. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Tarihsel kurgu demek çocukların gerçek bakım ihtiyacını inkâr etmek değildir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Bir yaş grubuna doğal dediğimiz beklentinin okul, hukuk ve ekonomiyle nasıl üretildiğini araştırmak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Çocukluk biyoloji kadar kültürdür” ile Çocukluğun Yok Oluşu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-ortacagda-yetiskin-sirri-azdi",
+      "section": "BİRİNCİ KISIM · SÖZLÜ DÜNYA",
+      "title": "Ortaçağda yetişkin sırrı azdı",
+      "paragraphs": [
+        "Okuryazarlığın sınırlı olduğu sözlü kültürde çocuk yetişkin konuşmasına ve işine erken katılır; bilgi duvarı daha geçirgendir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Meydan hikâyesini dinlemek için alfabe sınavı gerekmez; küçük çocuk aynı sözleri yetişkinle birlikte duyar. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Ortaçağ Avrupa'sını tek biçimli ve çocuksuz saymak tarihsel çeşitliliği azaltır. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Teknoloji tezi kullanılırken aile, sınıf, din ve bölgesel farkları da hesaba katmak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-04-matbaa-yeni-bir-yetiskinlik-kurdu",
+      "section": "BİRİNCİ KISIM · HARF",
+      "title": "Matbaa yeni bir yetişkinlik kurdu",
+      "paragraphs": [
+        "Basılı kültür yetişkin bilgisini sessiz okuma, soyutlama ve uzun eğitimle erişilen bir alana dönüştürür. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Çocuk önce harfi, sonra cümleyi, sonra yetişkin metnini öğrenir; bilgi kapısı basamaklı açılır. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Matbaa tek başına neden değildir; Reform, şehirleşme ve devlet okulları da dönüşümü taşır. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Bir teknolojinin etkisini ona uyum sağlayan kurum ve ekonomik ihtiyaçlarla birlikte okumak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Matbaa yeni bir yetişkinlik kurdu” ile Çocukluğun Yok Oluşu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-okul-cocuklugun-atolyesi-oldu",
+      "section": "BİRİNCİ KISIM · EĞİTİM",
+      "title": "Okul çocukluğun atölyesi oldu",
+      "paragraphs": [
+        "Yetişkin olmak okuryazar olmakla birleşince çocukluk öğrenme için ayrılmış uzun bir hazırlık dönemine dönüşür. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Yaş grupları sınıflara ayrılır, dersler sıraya konur ve ilerleme sınavla ölçülür. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Okul korurken yoksul, kız ve engelli çocukları uzun süre eşit biçimde içermemiştir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir kurumun idealini anlatırken kimin kapıda kaldığını tarihsel olarak görünür tutmak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-06-utanc-ve-sir-siniri",
+      "section": "BİRİNCİ KISIM · GİZLİ BİLGİ",
+      "title": "Utanç ve sır sınırı",
+      "paragraphs": [
+        "Çocukluk yetişkinlerin cinsellik, şiddet, ölüm ve para gibi bilgileri ne zaman açıklayacağına karar verdiği bir sır düzeniyle korunur. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Aile zor haberi yaşa uygun sözcüklerle yavaşça anlatır; çocuk aynı anda hem korunur hem hazırlanır. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Sır koruma kolayca bilgisizlik, korku ve istismarın saklanmasına dönüşebilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Çocuğu korumakla doğru ve güvenli bilgiye erişimini engellemeyi ayırmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Utanç ve sır sınırı” ile Çocukluğun Yok Oluşu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-cocugun-ozel-dili-ve-giysisi",
+      "section": "BİRİNCİ KISIM · İŞARETLER",
+      "title": "Çocuğun özel dili ve giysisi",
+      "paragraphs": [
+        "Ayrı çocuk kıyafeti, oyun, edebiyat ve konuşma biçimi çocukluğun görünür simgelerini oluşturur. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Aynı takım elbisenin küçüğünü giymek yerine hareket ve oyuna uygun renkli kıyafet ayrı yaşam evresini ilan eder. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Tüketim pazarı çocuk kimliğini korumak kadar yeni satış grubu yaratır. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Bir çocuk ürününün gelişim ihtiyacına mı, yetişkinlerin nostaljisine mi, şirketin pazarına mı hizmet ettiğini sormak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Çocuğun özel dili ve giysisi” ile Çocukluğun Yok Oluşu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-telgraf-baglami-parcaladi",
+      "section": "İKİNCİ KISIM · ELEKTRİKLİ HABER",
+      "title": "Telgraf bağlamı parçaladı",
+      "paragraphs": [
+        "Telgraf bilgiyi yerel bağlamdan koparıp uzak olayları hızla dolaşıma sokarak basılı dünyanın yavaş ve sıralı yapısını sarstı. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Kasabayı etkilemeyen uzak cinayet aynı sabah manşete gelir; bilgi eylemden ayrılıp meraka dönüşür. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Uzak haber dayanışma ve demokratik farkındalık da yaratabilir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Bir haberin size hangi eylem imkânını verdiğini ve yalnız kaygı mı ürettiğini ayırmak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-09-goruntu-okuma-esigini-atlar",
+      "section": "İKİNCİ KISIM · FOTOĞRAF",
+      "title": "Görüntü okuma eşiğini atlar",
+      "paragraphs": [
+        "Fotoğraf ve elektronik görüntü harf eğitimi istemeden anlam duygusu verdiği için çocuk-yetişkin bilgi ayrımını azaltır. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Okuma bilmeyen çocuk savaş görüntüsünü yetişkinle aynı anda görür, fakat bağlamı kuracak tarih bilgisine sahip olmayabilir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Görüntü de öğrenilen kodlar taşır; herkes onu aynı biçimde anlamaz. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Güçlü bir görsel karşısında ne gördüğümüzle görüntünün nedenini bildiğimizi sanmayı ayırmak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Görüntü okuma eşiğini atlar” ile Çocukluğun Yok Oluşu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-televizyon-herkese-ayni-kapiyi-acar",
+      "section": "İKİNCİ KISIM · EKRAN",
+      "title": "Televizyon herkese aynı kapıyı açar",
+      "paragraphs": [
+        "Televizyonun erişimi yaş, okuryazarlık ve sınıf basamaklarını kısmen aşarak yetişkin sırlarını ortak ekrana taşır. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Akşam haberindeki savaş, reklam ve cinsel ima salonun en küçüğüne de gelir. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Kanal, saat ve ebeveyn eşliği erişimi değiştirir; etki tamamen eşit değildir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Medya kullanımında yalnız süreyi değil içerik, bağlam ve birlikte konuşma imkânını değerlendirmek gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-11-yetiskinlik-de-cocuklasir",
+      "section": "İKİNCİ KISIM · ORTAK ÜSLUP",
+      "title": "Yetişkinlik de çocuklaşır",
+      "paragraphs": [
+        "Ekran yalnız çocuğu yetişkin bilgiye yaklaştırmaz; yetişkin konuşmasını da basit, hızlı ve eğlenceli bir ortak düzeye çeker. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Siyasi tartışma uzun kanıt yerine tek cümlelik slogan ve yüz ifadesi yarışına dönüşür. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Açık anlatım her zaman sığlık değildir; karmaşığı anlaşılır kılmak demokratik değer taşır. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Bir içeriğin sadeliğini ölçerken kanıtı azaltıp azaltmadığına ve izleyiciye soru alanı bırakıp bırakmadığına bakmak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Yetişkinlik de çocuklaşır” ile Çocukluğun Yok Oluşu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-12-cocuk-suclu-ve-kurban-goruntusu",
+      "section": "İKİNCİ KISIM · SINIRIN ÇÖZÜLÜŞÜ",
+      "title": "Çocuk suçlu ve kurban görüntüsü",
+      "paragraphs": [
+        "Çocukların yetişkin suç, moda ve cinsellik kalıplarında görünmesi ayrı çocukluk işaretlerinin zayıfladığını gösterir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Reklam küçük çocuğa yetişkin çekiciliği pozu verirken haber onu fail gibi teşhir edebilir. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Görünürlük artışı gerçek suç oranı veya tek yönlü ahlaki çöküş kanıtı değildir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Medya temsilinde çocuğun rızası, mahremiyeti ve kalıcı dijital izi özel olarak korunmalıdır. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-13-reklam-cocugu-dogrudan-musteri-yapar",
+      "section": "İKİNCİ KISIM · PAZAR",
+      "title": "Reklam çocuğu doğrudan müşteri yapar",
+      "paragraphs": [
+        "Elektronik medya aile filtresini aşarak çocuğa doğrudan seslenir ve onu tüketici kararının etkin tarafına dönüştürür. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Oyuncak reklamı çocuğa üründen çok arkadaşlık ve statü vaat eder; talep aile sofrasına taşınır. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Çocuğun tercih geliştirmesi başlı başına bozulma değildir; manipülasyon ve veri kullanımı asıl ölçüdür. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir çocuk reklamında vaat edilen duyguyla ürünün gerçek işlevini ayrı cümlelere çevirmek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Reklam çocuğu doğrudan müşteri yapar” ile Çocukluğun Yok Oluşu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-14-soru-sorma-basamagi-kaybolunca",
+      "section": "ÜÇÜNCÜ KISIM · MERAK",
+      "title": "Soru sorma basamağı kaybolunca",
+      "paragraphs": [
+        "Bilgi hazır görüntü halinde akınca çocuğun soru sorarak ve gecikmeye dayanarak ilerlediği öğrenme düzeni zayıflayabilir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Arama motoru cevabı saniyede verir ama çocuk sorunun neden önemli olduğunu ve kaynağın güvenilirliğini öğrenmeyebilir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Hızlı erişim merakı öldürmek zorunda değildir; iyi rehberlikle daha derin araştırmaya kapı açabilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir cevaptan sonra yeni soru üretmek ve iki kaynak karşılaştırmak dijital okuryazarlığın temel alıştırmasıdır. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-15-akilli-telefon-postman-in-otesinde",
+      "section": "ÜÇÜNCÜ KISIM · BUGÜN",
+      "title": "Akıllı telefon Postman'ın ötesinde",
+      "paragraphs": [
+        "Kişisel ekran televizyonun ortak salon sınırını da kaldırarak yetişkin içeriğini günün her anına ve her çocuğun cebine taşır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Gece odasında öneri sistemi bir videodan diğerine geçerken ebeveyn hangi kapının açıldığını görmez. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Filtre, eğitim ve yaratıcı kullanım araçları ekranı yalnız tehdit olmaktan çıkarabilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Çocuğun ekranında yasaktan önce öneri akışı, gizlilik, yaş uygunluğu ve konuşma kanalı kurulmalıdır. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-16-cocuklugu-korumak-sir-saklamak-midir",
+      "section": "ÜÇÜNCÜ KISIM · İTİRAZ",
+      "title": "Çocukluğu korumak sır saklamak mıdır?",
+      "paragraphs": [
+        "Postman'ın koruma çağrısı, çocukları tehlikeli bilgisizlikte bırakmadan yaşa uygun zaman ve bağlam kurma sorunu doğurur. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "İstismar hakkında hiç konuşmamak masumiyeti değil saldırganın sırrını koruyabilir; doğru dil çocuğu güçlendirir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Her yaşa her ayrıntıyı aynı anda vermek de gelişim farkını yok sayar. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Korumanın ölçüsü bilgiyi gizlemek değil doğru, güvenli, aşamalı ve soru sorulabilir hale getirmek olmalıdır. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Çocukluğu korumak sır saklamak mıdır?” ile Çocukluğun Yok Oluşu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-cocukluk-yeniden-tasarlanabilir",
+      "section": "ÜÇÜNCÜ KISIM · SONUÇ",
+      "title": "Çocukluk yeniden tasarlanabilir",
+      "paragraphs": [
+        "Medya biçimi kader değildir; aile, okul, hukuk ve tasarım çocuk için yeni eşikler ve rehberli geçişler kurabilir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Okul öğrencinin haber videosunu durdurup kaynak, kurgu ve eksik bağlamı birlikte incelemesini sağlar. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Nostaljik biçimde eski televizyonsuz eve dönmek bugünün ağlarını ve çocuk sesini anlamaz. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Amaç ekranı yok etmek değil yetişkin sorumluluğunu, ortak zamanı ve öğrenme basamaklarını yeniden görünür kılmaktır. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Postman çocukların geçmişte kusursuz korunduğunu veya bütün ekranların tek başına çocukluğu yok ettiğini söyleyen basit bir nostalji yazmaz. Ana tez, bilgiye erişim biçiminin yaş sınırlarını ve yetişkin sorumluluğunu değiştirmesidir.",
+        "Bir çocuğun belgesel izlemesi çocukluğun kaybı değildir; bağlamsız şiddet görüntüsüyle aynı biçimde değerlendirilmemelidir.",
+        "Çocukluğun Yok Oluşu için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap medya ekolojisinin en bilinen eserlerinden oldu; televizyon çağındaki tezi akıllı telefon ve sosyal medya döneminde yeniden tartışılıyor.",
+        "Tarihçiler Ortaçağ çocukluğunu fazla tek tip çizdiğini, matbaaya aşırı nedensel güç verdiğini ve televizyonun çocuklara bilgi ile katılım sağlayan yanlarını küçümsediğini savundu.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Çocukluğun Yok Oluşu bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Çocukluk için hangi bilgi eşiği gerekli? Koruma ne zaman bilgisizliğe dönüşüyor? Ekran cevabı verirken bağlam ve yetişkin sorumluluğu nerede kalıyor?",
+        "Bir çocuk içeriği seçin; erişim yaşı, gerekli ön bilgi, olası korku, konuşulacak soru ve yetişkin eşliğini beş satırda planlayın.",
+        "Çocukluğun Yok Oluşu bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Çocukluk kendiliğinden sürmez; bilgiye erişimi yaşa uygun biçimde basamaklandıran, soruya zaman tanıyan ve yetişkine rehberlik sorumluluğu veren kurumlarla korunur.",
+        "Akılda tutulacak son görüntü, soğuk mavi bir odada açık basılı kitaptan çıkan merdivenin parlak televizyon ekranında kesildiği, çocuk siluetinin bir yanda oyuncak diğer yanda yetişkin haber görüntüleri arasında durduğu şiirsel bir sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Çocukluğun Yok Oluşu adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-cocukluk-biyoloji-kadar-kulturdur": {
+      "image": "/images/summary-art-196-chapter-01-cocukluk-biyoloji-kadar-kulturdur-v1.webp",
+      "imageCaption": "Çocukluk biyoloji kadar kültürdür düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-ortacagda-yetiskin-sirri-azdi": {
+      "image": "/images/summary-art-196-chapter-02-ortacagda-yetiskin-sirri-azdi-v1.webp",
+      "imageCaption": "Ortaçağda yetişkin sırrı azdı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-matbaa-yeni-bir-yetiskinlik-kurdu": {
+      "image": "/images/summary-art-196-chapter-03-matbaa-yeni-bir-yetiskinlik-kurdu-v1.webp",
+      "imageCaption": "Matbaa yeni bir yetişkinlik kurdu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-okul-cocuklugun-atolyesi-oldu": {
+      "image": "/images/summary-art-196-chapter-04-okul-cocuklugun-atolyesi-oldu-v1.webp",
+      "imageCaption": "Okul çocukluğun atölyesi oldu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-utanc-ve-sir-siniri": {
+      "image": "/images/summary-art-196-chapter-05-utanc-ve-sir-siniri-v1.webp",
+      "imageCaption": "Utanç ve sır sınırı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-cocugun-ozel-dili-ve-giysisi": {
+      "image": "/images/summary-art-196-chapter-06-cocugun-ozel-dili-ve-giysisi-v1.webp",
+      "imageCaption": "Çocuğun özel dili ve giysisi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-telgraf-baglami-parcaladi": {
+      "image": "/images/summary-art-196-chapter-07-telgraf-baglami-parcaladi-v1.webp",
+      "imageCaption": "Telgraf bağlamı parçaladı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-goruntu-okuma-esigini-atlar": {
+      "image": "/images/summary-art-196-chapter-08-goruntu-okuma-esigini-atlar-v1.webp",
+      "imageCaption": "Görüntü okuma eşiğini atlar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-televizyon-herkese-ayni-kapiyi-acar": {
+      "image": "/images/summary-art-196-chapter-09-televizyon-herkese-ayni-kapiyi-acar-v1.webp",
+      "imageCaption": "Televizyon herkese aynı kapıyı açar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-yetiskinlik-de-cocuklasir": {
+      "image": "/images/summary-art-196-chapter-10-yetiskinlik-de-cocuklasir-v1.webp",
+      "imageCaption": "Yetişkinlik de çocuklaşır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-cocuk-suclu-ve-kurban-goruntusu": {
+      "image": "/images/summary-art-196-chapter-11-cocuk-suclu-ve-kurban-goruntusu-v1.webp",
+      "imageCaption": "Çocuk suçlu ve kurban görüntüsü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-reklam-cocugu-dogrudan-musteri-yapar": {
+      "image": "/images/summary-art-196-chapter-12-reklam-cocugu-dogrudan-musteri-yapar-v1.webp",
+      "imageCaption": "Reklam çocuğu doğrudan müşteri yapar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-soru-sorma-basamagi-kaybolunca": {
+      "image": "/images/summary-art-196-chapter-13-soru-sorma-basamagi-kaybolunca-v1.webp",
+      "imageCaption": "Soru sorma basamağı kaybolunca düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-akilli-telefon-postman-in-otesinde": {
+      "image": "/images/summary-art-196-chapter-14-akilli-telefon-postman-in-otesinde-v1.webp",
+      "imageCaption": "Akıllı telefon Postman'ın ötesinde düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-cocuklugu-korumak-sir-saklamak-midir": {
+      "image": "/images/summary-art-196-chapter-15-cocuklugu-korumak-sir-saklamak-midir-v1.webp",
+      "imageCaption": "Çocukluğu korumak sır saklamak mıdır? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-cocukluk-yeniden-tasarlanabilir": {
+      "image": "/images/summary-art-196-chapter-16-cocukluk-yeniden-tasarlanabilir-v1.webp",
+      "imageCaption": "Çocukluk yeniden tasarlanabilir düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}
