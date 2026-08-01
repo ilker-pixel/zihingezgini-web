@@ -1,0 +1,345 @@
+{
+  "bookNo": 24,
+  "title": "Hediye",
+  "author": "Marcel Mauss",
+  "subtitle": "Bir armağanın neden hiçbir zaman yalnız eşya olmadığını; onur, borç, dostluk, rekabet ve toplum düzenini nasıl taşıdığını anlatan antropoloji klasiği.",
+  "coverImage": "/images/summary-cover-24-hediye-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/24-hediye-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#8B5D3D",
+  "meta": {
+    "originalTitle": "Essai sur le don / The Gift",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Doğum gününde alınan küçük bir fincanın fiyatı önemsiz olabilir; yine de onu çöpe atmak zor gelir. Çünkü fincanın içinde veren kişinin niyeti, ilişkinin tarihi ve karşılık beklentisi görünmeden durur. Mauss tam bu görünmez bağın peşine düşer.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "HAU Books - The Gift Expanded Edition",
+      "url": "https://haubooks.org/wp-content/uploads/2020/11/Marcel-Mauss-The-Gift-Expanded-Edition-Selected-Annotated-and-Translated-by-Jane-Guyer.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Routledge - The Gift",
+      "url": "https://www.routledge.com/The-Gift-The-Form-and-Reason-for-Exchange-in-Archaic-Societies/Mauss/p/book/9781003572350"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Bir armağanın neden hiçbir zaman yalnız eşya olmadığını; onur, borç, dostluk, rekabet ve toplum düzenini nasıl taşıdığını anlatan antropoloji klasiği.",
+        "Kitaptaki eski toplum örnekleri egzotik hikâye diye değil modern alışverişin dışında kalan değişim biçimlerini görünür kılan aynalar olarak okunmalı. Mauss her hediyenin gizli pazarlık olduğunu değil, verme ile ilişkinin çoğu zaman birbirine dolandığını gösterir.",
+        "Bu rehber, Marcel Mauss tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-uc-zorunluluk-vermek-almak-karsilik-vermek",
+      "section": "BİRİNCİ KISIM · DÖNGÜ",
+      "title": "Üç zorunluluk: vermek, almak, karşılık vermek",
+      "paragraphs": [
+        "Mauss hediye düzenini üç bağlı hareketle açıklar. Vermemek ilişki kurmayı reddetmek, almamak vereni küçümsemek, karşılıksız bırakmak ise bağı ve onuru zedelemek olabilir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Komşu aşure getirdiğinde tabağı kabul edip sonra boş göndermemek küçük bir ev eşyasını yıllarca süren komşuluk döngüsüne sokar.",
+        "Her hediyede aynı güçte zorunluluk yoktur. Yakınlık, tören, statü ve kültür beklentiyi değiştirir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir armağanı değerlendirirken nesnenin fiyatından önce ilişkinin hangi hareketini başlattığını sorun."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Üç zorunluluk: vermek, almak, karşılık vermek” başlığının yalnız kendi örneğini değil Hediye boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-ucretsiz-gorunen-seyin-gorunmez-bedeli",
+      "section": "BİRİNCİ KISIM · DÖNGÜ",
+      "title": "Ücretsiz görünen şeyin görünmez bedeli",
+      "paragraphs": [
+        "Hediye para etiketi taşımasa da minnet, sadakat, itibar veya gelecekte yardım beklentisi doğurabilir. Bu bedel kesin fatura değil, ilişki içinde hissedilen yükümlülüktür. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Patronun pahalı hediyesi çalışanı sözleşmede yazmayan bir yakınlık borcu altında bırakabilir.",
+        "Karşılık beklentisi bütün cömertliği sahte yapmaz. İnsan aynı anda içten sevinç ve ilişki beklentisi taşıyabilir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Güç farkı olan ilişkide hediyeyi reddetmenin gerçekten mümkün olup olmadığını düşünün."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Ücretsiz görünen şeyin görünmez bedeli” başlığının yalnız kendi örneğini değil Hediye boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-hediyede-verenin-izi",
+      "section": "BİRİNCİ KISIM · NESNE",
+      "title": "Hediyede verenin izi",
+      "paragraphs": [
+        "Maori düşüncesinden aktarılan hau kavramı, verilen şeyin eski sahibinin izini taşıdığı ve dolaşmak istediği fikrini anlatır. Mauss bu düşünceyle nesne ile kişi arasındaki modern ayrımın evrensel olmadığını gösterir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Büyükannenin ördüğü atkı mağazadaki aynı yünden daha fazla şey taşır; onu vermek aile bağının bir parçasını devretmek gibi hissedilir.",
+        "Hau'yu fiziksel bir güç veya bütün hediye sistemlerinin tek açıklaması saymak yanlıştır; antropologlar Mauss'un yorumunu tartışmıştır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Sakladığınız bir eşyanın maddesinden başka hangi ilişkiyi taşıdığını yazın."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Hediyede verenin izi” başlığının yalnız kendi örneğini değil Hediye boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-kula-halkasinin-uzun-deniz-yolu",
+      "section": "İKİNCİ KISIM · ÖRNEKLER",
+      "title": "Kula halkasının uzun deniz yolu",
+      "paragraphs": [
+        "Trobriand adalarındaki Kula değişiminde kolyeler ve bilezikler farklı yönlerde adalar arasında dolaşır. Nesneler günlük kullanım için değil ortaklık, ün ve güven ağını canlı tutmak için el değiştirir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Denizciler tehlikeli yolculuklarla bir adaya varır; armağanı teslim ederken gelecekteki ticaret ve misafirlik yollarını da açar.",
+        "Kula tek başına bütün ada ekonomisi değildir; gündelik takas ve üretim onun yanında sürer. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir iş ağında resmi sözleşme dışında güveni taşıyan sembolik değişimleri fark edin."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Kula halkasının uzun deniz yolu” başlığının yalnız kendi örneğini değil Hediye boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-potlac-dagitarak-yukselmek",
+      "section": "İKİNCİ KISIM · ÖRNEKLER",
+      "title": "Potlaç: dağıtarak yükselmek",
+      "paragraphs": [
+        "Kuzeybatı Amerika topluluklarındaki potlaç törenlerinde önderler büyük miktarda mal dağıtarak veya yok ederek güç ve itibar gösterir. Servet saklanarak değil başkasını karşılık verme baskısına sokacak kadar cömertçe sergilenir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "İki aile düğünde birbirinden daha kalabalık sofra kurmaya çalıştığında cömertlik ile rekabet aynı masada oturur.",
+        "Potlaç uygulamaları çeşitlidir; onları yalnız anlamsız israf diye görmek sömürgeci yönetimlerin yaptığı hatayı tekrarlar. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Gösterişli cömertliğin alıcıyı rahatlatıp rahatlatmadığını, yoksa borçlandırıp borçlandırmadığını sorun."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Potlaç: dağıtarak yükselmek” başlığının yalnız kendi örneğini değil Hediye boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-onur-yuz-ve-borc",
+      "section": "İKİNCİ KISIM · GÜÇ",
+      "title": "Onur, yüz ve borç",
+      "paragraphs": [
+        "Hediye döngüsü ekonomik olduğu kadar ahlaki ve siyasidir. Karşılık verememek kişinin veya grubun itibarını düşürebilir; armağan böylece dostluk aracı kadar üstünlük aracına dönüşür. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Herkesin içinde hesabı ödeyen kişi arkadaşını sevindirebilir, ama her seferinde bunu yaparsa ötekinin bağımsızlığını incitebilir.",
+        "Onur dilini her topluma aynı anlamla taşımak yanıltıcıdır. Yerel kurallar ve kimlerin temsil edildiği önemlidir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir iyiliğin karşı tarafın söz hakkını büyütüp büyütmediğine dikkat edin."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Onur, yüz ve borç” başlığının yalnız kendi örneğini değil Hediye boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-toplam-toplumsal-olgu",
+      "section": "ÜÇÜNCÜ KISIM · BÜTÜN",
+      "title": "Toplam toplumsal olgu",
+      "paragraphs": [
+        "Mauss hediye değişimini 'toplam toplumsal olgu' diye görür; aynı olay hukuk, ekonomi, din, akrabalık, estetik ve siyaset katmanlarını birlikte harekete geçirir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Düğün takısı para transferi, aileler arası saygı, gelecek yardım sözü, gösteri ve gelenek olarak aynı anda çalışır.",
+        "Toplam demek her ayrıntıyı tek kavramla açıklamak değildir. Katmanların ayrı mekanizmalarını da incelemek gerekir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir töreni yalnız maliyet hesabıyla değil en az dört toplumsal işlevle birlikte okuyun."
+      ]
+    },
+    {
+      "id": "durak-09-pazar-gelmeden-once-sozlesme",
+      "section": "ÜÇÜNCÜ KISIM · TARİH",
+      "title": "Pazar gelmeden önce sözleşme",
+      "paragraphs": [
+        "Mauss, insan değişiminin başlangıcını birbirinden kopuk bireylerin pazarlığı olarak düşünmeye itiraz eder. Gruplar önce karşılıklı yükümlülük, tören ve güven içinde alışveriş yapmıştır. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "İki köy arasında ürün değişimi yapılmadan önce misafir ağırlama ve yemin düzenlenmesi, maldan önce ilişkinin kurulmasıdır.",
+        "Takasın tarihine dair sonraki araştırmalar daha çeşitli tablolar sunar. Mauss'un gücü basit 'önce takas sonra para' hikâyesini bozmasıdır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir sözleşmenin işlemesi için kâğıttan önce hangi güven ve kurumların gerektiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-10-kisi-ile-mal-arasindaki-bulanik-sinir",
+      "section": "ÜÇÜNCÜ KISIM · HUKUK",
+      "title": "Kişi ile mal arasındaki bulanık sınır",
+      "paragraphs": [
+        "Modern hukuk kişiyi ve mülkü ayırmaya çalışır; hediye düzenlerinde nesne aile adı, ata ruhu veya topluluk hakkı taşıyabilir. Satılabilen şey ile devredilemeyen kimlik iç içedir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Aile yadigârını satmak yasal olarak mümkün olsa bile kardeşler bunu ortak geçmişe ihanet sayabilir.",
+        "Romantik biçimde eski toplumlarda hiç bireysel mülkiyet yoktu demek doğru değildir. Farklı hak türleri yan yana bulunur. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir mülk anlaşmazlığında fiyatın çözemediği kimlik ve anı payını görün."
+      ]
+    },
+    {
+      "id": "durak-11-sadaka-kurban-ve-tanrilarla-alisveris",
+      "section": "DÖRDÜNCÜ KISIM · KUTSAL",
+      "title": "Sadaka, kurban ve tanrılarla alışveriş",
+      "paragraphs": [
+        "Hediyeler yalnız insanlar arasında dolaşmaz; kurban, adak ve sadaka yoluyla tanrılar, atalar ve görünmeyen güçlerle ilişki kurar. Vermek bereket, arınma veya bağışlanma beklentisi taşıyabilir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Yağmur için yapılan adak, topluluğun umudunu ortak törene çevirir; verilen nesne görünmeyen alıcıyla sözleşme gibi çalışır.",
+        "Dini armağanı yalnız çıkar hesabına indirgemek inanç deneyimini eksiltir. Karşılık maddi olmak zorunda değildir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir bağışın alıcıyla, verenin vicdanıyla ve topluluğun değeriyle aynı anda kurduğu bağı düşünün."
+      ]
+    },
+    {
+      "id": "durak-12-comertlik-ve-rekabet-ayni-elde",
+      "section": "DÖRDÜNCÜ KISIM · ÇELİŞKİ",
+      "title": "Cömertlik ve rekabet aynı elde",
+      "paragraphs": [
+        "Mauss hediye ile çıkarı birbirinin zıddı saymaz. İnsan verirken sevgi, ün, ittifak ve üstünlük isteğini aynı anda taşıyabilir; toplumsal eylem karışık niyetlerden oluşur. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Bir şirket deprem bölgesine gerçekten yardım ederken logosunu her kolinin üstüne koyabilir. Yardım gerçektir, tanıtım da gerçektir.",
+        "Karışık niyet sonucu otomatik olarak değersizleştirmez; yardımın etkisi ve alıcının onuru ayrıca ölçülmelidir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir eylemi yalnız 'samimi' veya 'çıkarcı' diye iki kutba sıkıştırmayın."
+      ]
+    },
+    {
+      "id": "durak-13-karsilik-ne-zaman-gelmeli",
+      "section": "DÖRDÜNCÜ KISIM · ZAMAN",
+      "title": "Karşılık ne zaman gelmeli?",
+      "paragraphs": [
+        "Hediyenin karşılığı hemen verilirse alışverişe benzeyebilir; gecikme ilişkiyi açık tutar. Zaman aralığı güven ve belirsizlik üretir, fakat borç duygusunu da uzatır. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Arkadaşın taşınırken yardım eder; ertesi dakika para uzatmak dostluğu ücretli işe çevirebilir. Aylar sonra onun işinde bulunmak döngüyü sürdürür.",
+        "Gecikmiş karşılık manipülasyon için de kullanılabilir. Belirsiz borç özellikle güçsüz kişiyi yorabilir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir iyiliğin karşılığını hesap yerine ilişkinin doğal fırsatında vermenin ne anlama geldiğini düşünün."
+      ]
+    },
+    {
+      "id": "durak-14-modern-dunyada-hediye-yasiyor",
+      "section": "BEŞİNCİ KISIM · BUGÜN",
+      "title": "Modern dünyada hediye yaşıyor",
+      "paragraphs": [
+        "Maaş ve fiyatların egemen olduğu modern toplumda bile kan bağışı, açık kaynak yazılım, komşuluk yardımı, bahşiş ve davetler hediye mantığı taşır. Pazar bütün ilişkileri yutmuş değildir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "İnternette kodunu ücretsiz paylaşan kişi para almaz; ün, topluluğa aidiyet ve başkalarının katkısını kazanabilir.",
+        "Ücretsiz emek platformlar tarafından sömürülebilir. Hediye dili, şirketin kazanç elde ettiği emeği görünmez yapmamalıdır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "'Bedava' hizmette kimin veri, emek veya itibar verdiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-15-sosyal-devlet-bir-toplumsal-karsilik-mi",
+      "section": "BEŞİNCİ KISIM · AHLAK",
+      "title": "Sosyal devlet bir toplumsal karşılık mı?",
+      "paragraphs": [
+        "Mauss modern sigorta ve sosyal güvenlikte toplumun üyelerine borcunu geri ödeme düşüncesini görür. İnsan emeği yalnız bireysel sözleşmeyle değil ortak altyapıyla mümkün olur. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Yıllarca vergi veren işçi hastalandığında sağlık hizmeti alır; bu sadaka değil ortak döngünün güvenceye alınmış karşılığıdır.",
+        "Sosyal hakları hediye diye adlandırmak yönetimin lütfu gibi anlaşılabilir. Hak ile gönüllü bağış ayrımı korunmalıdır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Kamusal hizmeti maliyet kadar ortak yaşamın üyelerine verdiği güvenceyle değerlendirin."
+      ]
+    },
+    {
+      "id": "durak-16-zehirli-hediye",
+      "section": "BEŞİNCİ KISIM · SINIR",
+      "title": "Zehirli hediye",
+      "paragraphs": [
+        "Bazı hediyeler kabul edilmesi zor baskılar yaratır. Rüşvet, çıkar çatışması ve aşırı pahalı armağan, ilişkinin dilini kullanarak bağımsız kararı satın alabilir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "İhale öncesi verilen tatil daveti 'dostluk' diye sunulsa bile karar vereni görünmez borca sokar.",
+        "Her kurumsal hediye rüşvet değildir; şeffaf sınırlar, değer ve zamanlama önemlidir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir hediyenin ardından beklenen davranış açıkça söylenmese de özgür karar alanını daraltıp daraltmadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-17-vermek-insani-nasil-baglar",
+      "section": "BEŞİNCİ KISIM · SONUÇ",
+      "title": "Vermek insanı nasıl bağlar?",
+      "paragraphs": [
+        "Mauss'un ahlaki sonucu, insanın yalnız çıkar hesaplayan bağımsız ada olmadığıdır. İyi toplum alışverişin kesin hesabıyla hediyenin boğucu borcu arasında cömertlik, karşılıklılık ve özgürlük dengesi kurar. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Komşular her yardımı kuruş kuruş yazarsa yakınlık ölür; hiçbir sınır koymazsa bazıları sürekli yük taşıyabilir.",
+        "Karşılıklılık eşit miktar değil, ilişkinin zaman içindeki adaleti olabilir. Bakım verenle çocuk aynı anda aynı şeyi vermez. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "İlişkilerinizde hesabın gerekli olduğu yerle güvenin açık kalabileceği yeri ayırın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Mauss 'karşılıksız sevgi yoktur' demez. Hediyenin saf duyguyu imkânsızlaştırdığını değil, nesnenin kişiler ve gruplar arasında hak, onur ve zaman taşıdığını gösterir; niyet ile toplumsal sonuç aynı şey değildir.",
+        "Hediye tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Marcel Mauss ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Hediye antropoloji, sosyoloji ve ekonomi düşüncesinin en etkili metinlerinden oldu. Hau yorumunun genellenmesi, örneklerin sömürge kayıtlarına dayanması ve karşılıklılığın çeşitliliği eleştirildi; yine de pazar dışı değişimi görünür kılan çerçevesi canlı kaldı.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Hediye için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Hediye için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu armağan hangi ilişkiyi başlatıyor? Alıcı gerçekten reddedebilir mi? Karşılığın miktarı değil zamanı ve biçimi ne söylüyor?",
+        "Bu sorular Hediye için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Hediye üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Hediye yalnız el değiştiren nesne değildir; vermek, kabul etmek ve karşılık vermek aracılığıyla kişiler arasında güven, onur, borç, ittifak ve toplum kurar.",
+        "Akılda kalacak son görüntü, iki el arasında dolaşan parlak bir kasenin içinden düğün, deniz yolculuğu, komşuluk ve ortak sofra bağlarının çıkmasıdır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Hediye adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-uc-zorunluluk-vermek-almak-karsilik-vermek": {
+      "image": "/images/summary-art-24-chapter-01-uc-zorunluluk-vermek-almak-karsilik-vermek-v1.webp",
+      "imageCaption": "Üç zorunluluk: vermek, almak, karşılık vermek fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-03-ucretsiz-gorunen-seyin-gorunmez-bedeli": {
+      "image": "/images/summary-art-24-chapter-02-ucretsiz-gorunen-seyin-gorunmez-bedeli-v1.webp",
+      "imageCaption": "Ücretsiz görünen şeyin görünmez bedeli fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-04-hediyede-verenin-izi": {
+      "image": "/images/summary-art-24-chapter-03-hediyede-verenin-izi-v1.webp",
+      "imageCaption": "Hediyede verenin izi fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-05-kula-halkasinin-uzun-deniz-yolu": {
+      "image": "/images/summary-art-24-chapter-04-kula-halkasinin-uzun-deniz-yolu-v1.webp",
+      "imageCaption": "Kula halkasının uzun deniz yolu fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-06-potlac-dagitarak-yukselmek": {
+      "image": "/images/summary-art-24-chapter-05-potlac-dagitarak-yukselmek-v1.webp",
+      "imageCaption": "Potlaç: dağıtarak yükselmek fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-07-onur-yuz-ve-borc": {
+      "image": "/images/summary-art-24-chapter-06-onur-yuz-ve-borc-v1.webp",
+      "imageCaption": "Onur, yüz ve borç fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-08-toplam-toplumsal-olgu": {
+      "image": "/images/summary-art-24-chapter-07-toplam-toplumsal-olgu-v1.webp",
+      "imageCaption": "Toplam toplumsal olgu fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-09-pazar-gelmeden-once-sozlesme": {
+      "image": "/images/summary-art-24-chapter-08-pazar-gelmeden-once-sozlesme-v1.webp",
+      "imageCaption": "Pazar gelmeden önce sözleşme fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-10-kisi-ile-mal-arasindaki-bulanik-sinir": {
+      "image": "/images/summary-art-24-chapter-09-kisi-ile-mal-arasindaki-bulanik-sinir-v1.webp",
+      "imageCaption": "Kişi ile mal arasındaki bulanık sınır fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-11-sadaka-kurban-ve-tanrilarla-alisveris": {
+      "image": "/images/summary-art-24-chapter-10-sadaka-kurban-ve-tanrilarla-alisveris-v1.webp",
+      "imageCaption": "Sadaka, kurban ve tanrılarla alışveriş fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-12-comertlik-ve-rekabet-ayni-elde": {
+      "image": "/images/summary-art-24-chapter-11-comertlik-ve-rekabet-ayni-elde-v1.webp",
+      "imageCaption": "Cömertlik ve rekabet aynı elde fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-13-karsilik-ne-zaman-gelmeli": {
+      "image": "/images/summary-art-24-chapter-12-karsilik-ne-zaman-gelmeli-v1.webp",
+      "imageCaption": "Karşılık ne zaman gelmeli? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-14-modern-dunyada-hediye-yasiyor": {
+      "image": "/images/summary-art-24-chapter-13-modern-dunyada-hediye-yasiyor-v1.webp",
+      "imageCaption": "Modern dünyada hediye yaşıyor fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-15-sosyal-devlet-bir-toplumsal-karsilik-mi": {
+      "image": "/images/summary-art-24-chapter-14-sosyal-devlet-bir-toplumsal-karsilik-mi-v1.webp",
+      "imageCaption": "Sosyal devlet bir toplumsal karşılık mı? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-16-zehirli-hediye": {
+      "image": "/images/summary-art-24-chapter-15-zehirli-hediye-v1.webp",
+      "imageCaption": "Zehirli hediye fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-17-vermek-insani-nasil-baglar": {
+      "image": "/images/summary-art-24-chapter-16-vermek-insani-nasil-baglar-v1.webp",
+      "imageCaption": "Vermek insanı nasıl bağlar? fikrini somutlaştıran simgesel sahne."
+    }
+  }
+}

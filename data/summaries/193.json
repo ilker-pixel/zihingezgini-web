@@ -1,0 +1,351 @@
+{
+  "bookNo": 193,
+  "title": "Gutenberg Galaksisi",
+  "author": "Marshall McLuhan",
+  "subtitle": "Alfabe ve matbaanın yalnız bilgi taşımadığını, görme biçimimizi, bireylik duygumuzu, ulusları ve düşüncenin ritmini nasıl değiştirdiğini anlatan şaşırtıcı medya tarihi.",
+  "coverImage": "/images/summary-cover-193-gutenberg-galaksisi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/193-gutenberg-galaksisi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4D6A75",
+  "meta": {
+    "originalTitle": "The Gutenberg Galaxy: The Making of Typographic Man",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir kitabı sessizce soldan sağa okurken dünya sıraya girer: önce bu cümle, sonra öteki. Kalabalık bir sesli ortamda ise her şey aynı anda çevremizdedir. McLuhan, kullandığımız iletişim aracının zihnin alışkanlığını böyle değiştirdiğini savunur.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "University of Toronto Press - The Gutenberg Galaxy",
+      "url": "https://utorontopress.com/9781442612693/the-gutenberg-galaxy/"
+    },
+    {
+      "id": 2,
+      "title": "Marshall McLuhan official archive",
+      "url": "https://marshallmcluhan.com/common-questions/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Alfabe ve matbaanın yalnız bilgi taşımadığını, görme biçimimizi, bireylik duygumuzu, ulusları ve düşüncenin ritmini nasıl değiştirdiğini anlatan şaşırtıcı medya tarihi.",
+        "Eser düzenli tarih kitabından çok alıntılar ve kısa gözlemlerden oluşan mozaiktir. Büyük iddiaları güçlü sezgi sunar ama her tarihsel bağlantı kanıtlanmış yasa sayılmamalıdır. Matbaa insanı tek başına üretmez; diğer kurumlarla birlikte etkiler.",
+        "Bu rehber, Marshall McLuhan tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-arac-yalniz-kap-degildir",
+      "section": "BİRİNCİ KISIM · MEDYA",
+      "title": "Araç yalnız kap değildir",
+      "paragraphs": [
+        "Bir iletişim aracı taşıdığı içerikten bağımsız olarak duyuların dengesini ve toplumsal ilişkiyi biçimlendirir. Kitap yalnız fikir taşımaz; sessiz, sıralı ve bireysel okuma alışkanlığı kurar. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Aynı haber kitapta, radyoda ve kısa videoda başka hız, dikkat ve tartışma biçimi üretir.",
+        "Araç içeriği bütünüyle belirlemez; insanlar aynı teknolojiyi farklı kurum ve amaçlarla kullanabilir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir mesajı anlamadan önce onu aldığınız aracın sizden hangi dikkat biçimini istediğini sorun."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Araç yalnız kap değildir” başlığının yalnız kendi örneğini değil Gutenberg Galaksisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-sozlu-dunyanin-ortak-kulagi",
+      "section": "BİRİNCİ KISIM · SÖZLÜ KÜLTÜR",
+      "title": "Sözlü dünyanın ortak kulağı",
+      "paragraphs": [
+        "Sözlü kültürde bilgi ses, hafıza, tekrar ve topluluk içinde yaşar. Dinleyici konuşanla aynı anda bulunur; söz beden ve olaydan kolayca ayrılmaz. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Destan anlatıcısı her gece aynı hikâyeyi ritim ve dinleyici tepkisine göre biraz değiştirir.",
+        "Sözlü toplumları uyumlu ve ilkel diye romantikleştirmek yanlıştır; karmaşık hukuk ve siyaset taşıyabilirler. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Yüz yüze anlatımın yazıya göre hangi bağlam ve geri bildirimi taşıdığını gözleyin."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Sözlü dünyanın ortak kulağı” başlığının yalnız kendi örneğini değil Gutenberg Galaksisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-fonetik-alfabenin-parcalayan-gucu",
+      "section": "İKİNCİ KISIM · ALFABE",
+      "title": "Fonetik alfabenin parçalayan gücü",
+      "paragraphs": [
+        "Fonetik alfabe karmaşık sözü az sayıda anlamsız işarete böler. McLuhan bu ayrıştırmanın görsel sıra ve analitik düşünceyi güçlendirdiğini savunur. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Canlı konuşma nefes ve yüzle bütündür; yazıda ses küçük harflere ayrılıp çizgide tekrar kurulur.",
+        "Alfabe tek başına Batı aklını üretmedi; siyaset, eğitim ve ekonomiyle birlikte çalıştı. Yazı sistemleri de çeşitlidir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir düşünceyi yazıya geçirirken nelerin netleştiğini ve hangi tonun kaybolduğunu fark edin."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Fonetik alfabenin parçalayan gücü” başlığının yalnız kendi örneğini değil Gutenberg Galaksisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-el-yazmasi-caginin-yavasligi",
+      "section": "İKİNCİ KISIM · ELYAZMASI",
+      "title": "El yazması çağının yavaşlığı",
+      "paragraphs": [
+        "Matbaa öncesinde kitap kopyalanan, pahalı ve değişken bir nesneydi. Okuma çoğu zaman yüksek sesli ve topluluk içinde gerçekleşiyordu; metnin sürümü sabit değildi. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Aynı tarif iki kâtip tarafından kopyalanırken sözcük ve kenar notları değişebilir; her nüsha biraz tekildir.",
+        "Avrupa el yazması deneyimi bütün dünya yazı kültürünü temsil etmez. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bilginin çoğaltma maliyetinin kimin okuyabildiğini nasıl belirlediğini düşünün."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “El yazması çağının yavaşlığı” başlığının yalnız kendi örneğini değil Gutenberg Galaksisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-gutenberg-in-tekrar-edilebilir-satiri",
+      "section": "ÜÇÜNCÜ KISIM · MATBAA",
+      "title": "Gutenberg'in tekrar edilebilir satırı",
+      "paragraphs": [
+        "Hareketli harfler aynı metni çok sayıda ve daha standart nüsha hâlinde üretmeyi kolaylaştırdı. Tekrar edilebilirlik bilgiye mekanik üretim mantığını taşıdı. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Aynı kalıptan çıkan yüzlerce sayfa, ustanın tek tek el yazısından fabrika ürününe geçiş gibidir.",
+        "Matbaa bir anda bütün Avrupa'yı değiştirmedi; kâğıt, ticaret, okuryazarlık ve dağıtım ağı gerekiyordu. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir teknolojinin icadıyla yaygın toplumsal etkisi arasındaki altyapı zincirini görün."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Gutenberg'in tekrar edilebilir satırı” başlığının yalnız kendi örneğini değil Gutenberg Galaksisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-sessiz-okur-ve-ic-dunya",
+      "section": "ÜÇÜNCÜ KISIM · BİREY",
+      "title": "Sessiz okur ve iç dünya",
+      "paragraphs": [
+        "Taşınabilir basılı kitap bireyin metinle yalnız kalmasını ve kendi hızında düşünmesini güçlendirdi. McLuhan bunu özel iç dünya ve bireycilikle ilişkilendirir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Kalabalık ibadette duyulan metin ortak ritimdir; odada sessizce okunan metin kişisel itiraz ve hayal alanı açar.",
+        "Sessiz okuma matbaadan önce de vardı, toplu okuma matbaadan sonra da sürdü. Değişim derece meselesidir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir içeriği yalnız okuduğunuzda ve toplulukla dinlediğinizde oluşan yorum farkını karşılaştırın."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Sessiz okur ve iç dünya” başlığının yalnız kendi örneğini değil Gutenberg Galaksisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-dogrusal-dusuncenin-yukselisi",
+      "section": "ÜÇÜNCÜ KISIM · GÖRSEL DÜZEN",
+      "title": "Doğrusal düşüncenin yükselişi",
+      "paragraphs": [
+        "Basılı satır bilgiyi birbiri ardına dizerek başlangıç, gelişme ve sonuç beklentisini güçlendirir. Nedensellik ve plan görsel sıra içinde doğal görünmeye başlar. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Kullanım kılavuzu adım 1'den 10'a gider; sohbet aynı konular arasında geri dönüp sıçrayabilir.",
+        "İnsan zihni matbaadan önce de sıra kurabiliyordu; baskı belirli alışkanlığı yaygınlaştırdı. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir sorunda çizgisel planın görmediği eşzamanlı geri beslemeleri arayın."
+      ],
+      "extraParagraphs": [
+        "Bu fikri gerçek bir sınamaya sokmak için, “Doğrusal düşüncenin yükselişi” başlığının yalnız kendi örneğini değil Gutenberg Galaksisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-perspektif-ve-tek-bakis-noktasi",
+      "section": "DÖRDÜNCÜ KISIM · GÖRME",
+      "title": "Perspektif ve tek bakış noktası",
+      "paragraphs": [
+        "Rönesans perspektifi dünyayı sabit bir gözlem noktasından ölçülebilir mekân olarak düzenler. McLuhan bunu tipografik görsel alışkanlıkla akraba sayar. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Resimde bütün çizgiler tek ufuk noktasına gider; izleyici dünyanın dışında duran tek göze dönüşür.",
+        "Sanat değişimini yalnız matbaaya bağlamak aşırı basitleştirmedir. Matematik, patronaj ve şehir kültürü de rol oynar. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir harita veya grafik hangi bakış noktasını merkez kabul ediyor sorun."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Perspektif ve tek bakış noktası” başlığının yalnız kendi örneğini değil Gutenberg Galaksisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-ulusal-diller-ve-hayali-birlik",
+      "section": "DÖRDÜNCÜ KISIM · ULUS",
+      "title": "Ulusal diller ve hayali birlik",
+      "paragraphs": [
+        "Standart dilde basılan kitap ve gazete, birbirini tanımayan insanlara aynı dil topluluğunun üyesi olduklarını hissettirebilir. Matbaa uluslaşmanın altyapılarından biri olur. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Aynı sabah aynı gazeteyi okuyan binlerce kişi ortak gündem ve 'biz' duygusu kurar.",
+        "Ulusların doğuşu yalnız basına indirgenemez; devlet, savaş, okul ve ekonomi belirleyicidir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir medya ağının hangi ortak dili ve kimliği normalleştirdiğini görün."
+      ]
+    },
+    {
+      "id": "durak-11-yazar-eser-ve-telif",
+      "section": "DÖRDÜNCÜ KISIM · MÜLKİYET",
+      "title": "Yazar, eser ve telif",
+      "paragraphs": [
+        "Basılı metnin sabit nüsha ve pazarı, bireysel yazar adı ile fikrî mülkiyeti güçlendirdi. Sözlü ve el yazması dolaşımda daha akışkan olan eser sahipliği belirginleşti. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Ortak anlatılan masal basılı kitapta tek yazarın adıyla satılır ve sabit sürüm kazanır.",
+        "Yazarlık matbaadan önce de vardı; modern telif hukukunun oluşması uzun siyasi süreçtir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir içeriğin ortak kültürden ne aldığını ve kime mülkiyet verdiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-12-uzmanlasma-ve-parcali-insan",
+      "section": "BEŞİNCİ KISIM · MEKANİK ÇAĞ",
+      "title": "Uzmanlaşma ve parçalı insan",
+      "paragraphs": [
+        "Matbaa gibi mekanik tekrar düzeni işi parçalara ve uzmanlıklara ayıran modern üretimle akrabadır. İnsan bütünü görmek yerine kendi dar bölümünü kusursuzlaştırabilir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Gazetenin yazarı, dizgicisi, basımcısı ve dağıtıcısı ayrı işi yapar; hiçbiri bütün okur deneyimini yönetmez.",
+        "Uzmanlaşma büyük bilgi ve kalite de üretir. Sorun parçalar arası bağlantının kaybıdır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Kendi uzmanlığınızın sonucunu kullanan ve bedelini taşıyan insanlarla bağ kurun."
+      ]
+    },
+    {
+      "id": "durak-13-tekduzelik-ve-standart",
+      "section": "BEŞİNCİ KISIM · MEKANİK ÇAĞ",
+      "title": "Tekdüzelik ve standart",
+      "paragraphs": [
+        "Basılı sayfanın aynı kopyaları standart yazım, ölçü ve eğitim düzenini yaygınlaştırır. Standart koordinasyonu kolaylaştırırken yerel çeşitliliği azaltabilir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Aynı ders kitabı ülkenin her sınıfına gider; ortak bilgi verir, yerel hikâyeyi kenara iter.",
+        "Standart her zaman baskı değildir; güvenlik ve erişilebilirlik için gerekli olabilir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir standartta ortak yararla kaybolan yerel esnekliği birlikte ölçün."
+      ]
+    },
+    {
+      "id": "durak-14-tipografik-insan",
+      "section": "BEŞİNCİ KISIM · BENLİK",
+      "title": "Tipografik insan",
+      "paragraphs": [
+        "McLuhan 'tipografik insan' ile dünyayı ayrı, sıralı ve görsel parçalar halinde algılamaya alışmış modern özneyi anlatır. Bu bir biyolojik tür değil kültürel eğilimdir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Liste ve dosyayla çalışan kişi konuşmanın da başlık, sıra ve sonuç içinde ilerlemesini bekler.",
+        "İnsanlar tek medya tarafından tamamen programlanmaz ve kültürler melezdir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Kendi düşünme biçiminizde liste, akış, ses ve görüntünün ağırlığını fark edin."
+      ]
+    },
+    {
+      "id": "durak-15-elektronik-cagin-eszamanliligi",
+      "section": "ALTINCI KISIM · ELEKTRONİK",
+      "title": "Elektronik çağın eşzamanlılığı",
+      "paragraphs": [
+        "Telgraf, radyo ve televizyon uzak olayları aynı ana taşır. Çizgisel basılı sıra yerine eşzamanlı ve birbirine bağlı bir dünya hissi güçlenir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Başka kıtadaki olay canlı yayında evdeki akşam yemeğine girer; uzaklık psikolojik olarak küçülür.",
+        "Eşzamanlı bilgi ortak anlayış garantisi değildir; gürültü ve kutuplaşma da üretebilir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Canlı akışın hızının düşünme ve doğrulama süresini nasıl daralttığını gözleyin."
+      ]
+    },
+    {
+      "id": "durak-16-kuresel-koy-huzurlu-koy-degildir",
+      "section": "ALTINCI KISIM · KÜRESEL KÖY",
+      "title": "Küresel köy huzurlu köy değildir",
+      "paragraphs": [
+        "Elektronik ağlar dünyayı köy gibi yakın ve dedikoduya açık yapar. Yakınlık dayanışma kadar gözetim, kabileleşme ve sürekli çatışma da doğurabilir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Sosyal medyada uzak ülkedeki olay dakikalar içinde mahalle kavgası kadar kişisel hissedilir.",
+        "McLuhan interneti görmedi; bugüne uygulama onun çerçevesinden yapılan çıkarımdır. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bağlantı artışını anlayış artışıyla karıştırmayın."
+      ]
+    },
+    {
+      "id": "durak-17-mozaik-gibi-okumak",
+      "section": "ALTINCI KISIM · SONUÇ",
+      "title": "Mozaik gibi okumak",
+      "paragraphs": [
+        "Kitabın biçimi savını uygular: kısa parçalar yan yana gelerek okurun bağlantı kurmasını ister. McLuhan tek çizgili kanıt yerine alanlar arasında sıçrayan mozaik sunar. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Yakından bakınca ayrı taşlar, uzaktan bakınca yüz görünen mozaik gibi bölümler birlikte örüntü kurar.",
+        "Mozaik biçim kanıt boşluklarını şiirsel benzerlikle örtme riski taşır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Çarpıcı bir benzetmenin ardından tarihsel karşı örnek ve mekanizma arayın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "McLuhan matbaanın bütün modernliği tek başına yarattığını veya elektronik çağın bizi mutlu bir küresel aile yapacağını söyleyen güvenilir bir teknolojik kâhin değildir. Medyanın içerikten bağımsız yapısal etkisini görünür kılan büyük ve tartışmalı bağlantılar kurar.",
+        "Gutenberg Galaksisi tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Marshall McLuhan ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser medya çalışmalarının kurucu klasiklerindendir ve 'küresel köy' fikrini yaygınlaştırdı. Teknolojik determinizm, seçmeci tarih ve Batı merkezlilik eleştirileri güçlüdür; dijital çağda araç ile algı ilişkisini düşünme gücü sürer.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Gutenberg Galaksisi için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Gutenberg Galaksisi için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu araç benden hangi dikkat biçimini istiyor? Bilgiyi hangi sıraya ve standarda sokuyor? Bağlantıyı artırırken hangi bağlamı ve yerel sesi kaybettiriyor?",
+        "Bu sorular Gutenberg Galaksisi için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Gutenberg Galaksisi üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İletişim araçları yalnız mesaj taşımaz; alfabe, matbaa ve elektronik ağlar duyuların dengesini, düşüncenin sırasını, bireyi ve toplumsal örgütlenmeyi yeniden biçimlendirir.",
+        "Akılda kalacak son görüntü, hareketli metal harflerin bir insan gözünden geçip ulus haritasına, ardından ışıklı küresel ağ köyüne dönüşmesidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Gutenberg Galaksisi adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-arac-yalniz-kap-degildir": {
+      "image": "/images/summary-art-193-chapter-01-arac-yalniz-kap-degildir-v1.webp",
+      "imageCaption": "Araç yalnız kap değildir fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-03-sozlu-dunyanin-ortak-kulagi": {
+      "image": "/images/summary-art-193-chapter-02-sozlu-dunyanin-ortak-kulagi-v1.webp",
+      "imageCaption": "Sözlü dünyanın ortak kulağı fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-04-fonetik-alfabenin-parcalayan-gucu": {
+      "image": "/images/summary-art-193-chapter-03-fonetik-alfabenin-parcalayan-gucu-v1.webp",
+      "imageCaption": "Fonetik alfabenin parçalayan gücü fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-05-el-yazmasi-caginin-yavasligi": {
+      "image": "/images/summary-art-193-chapter-04-el-yazmasi-caginin-yavasligi-v1.webp",
+      "imageCaption": "El yazması çağının yavaşlığı fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-06-gutenberg-in-tekrar-edilebilir-satiri": {
+      "image": "/images/summary-art-193-chapter-05-gutenberg-in-tekrar-edilebilir-satiri-v1.webp",
+      "imageCaption": "Gutenberg'in tekrar edilebilir satırı fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-07-sessiz-okur-ve-ic-dunya": {
+      "image": "/images/summary-art-193-chapter-06-sessiz-okur-ve-ic-dunya-v1.webp",
+      "imageCaption": "Sessiz okur ve iç dünya fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-08-dogrusal-dusuncenin-yukselisi": {
+      "image": "/images/summary-art-193-chapter-07-dogrusal-dusuncenin-yukselisi-v1.webp",
+      "imageCaption": "Doğrusal düşüncenin yükselişi fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-09-perspektif-ve-tek-bakis-noktasi": {
+      "image": "/images/summary-art-193-chapter-08-perspektif-ve-tek-bakis-noktasi-v1.webp",
+      "imageCaption": "Perspektif ve tek bakış noktası fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-10-ulusal-diller-ve-hayali-birlik": {
+      "image": "/images/summary-art-193-chapter-09-ulusal-diller-ve-hayali-birlik-v1.webp",
+      "imageCaption": "Ulusal diller ve hayali birlik fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-11-yazar-eser-ve-telif": {
+      "image": "/images/summary-art-193-chapter-10-yazar-eser-ve-telif-v1.webp",
+      "imageCaption": "Yazar, eser ve telif fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-12-uzmanlasma-ve-parcali-insan": {
+      "image": "/images/summary-art-193-chapter-11-uzmanlasma-ve-parcali-insan-v1.webp",
+      "imageCaption": "Uzmanlaşma ve parçalı insan fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-13-tekduzelik-ve-standart": {
+      "image": "/images/summary-art-193-chapter-12-tekduzelik-ve-standart-v1.webp",
+      "imageCaption": "Tekdüzelik ve standart fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-14-tipografik-insan": {
+      "image": "/images/summary-art-193-chapter-13-tipografik-insan-v1.webp",
+      "imageCaption": "Tipografik insan fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-15-elektronik-cagin-eszamanliligi": {
+      "image": "/images/summary-art-193-chapter-14-elektronik-cagin-eszamanliligi-v1.webp",
+      "imageCaption": "Elektronik çağın eşzamanlılığı fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-16-kuresel-koy-huzurlu-koy-degildir": {
+      "image": "/images/summary-art-193-chapter-15-kuresel-koy-huzurlu-koy-degildir-v1.webp",
+      "imageCaption": "Küresel köy huzurlu köy değildir fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-17-mozaik-gibi-okumak": {
+      "image": "/images/summary-art-193-chapter-16-mozaik-gibi-okumak-v1.webp",
+      "imageCaption": "Mozaik gibi okumak fikrini somutlaştıran simgesel sahne."
+    }
+  }
+}

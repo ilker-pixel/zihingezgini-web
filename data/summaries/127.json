@@ -1,0 +1,348 @@
+{
+  "bookNo": 127,
+  "title": "İnsan Doğası Üzerine Bir İnceleme",
+  "author": "David Hume",
+  "subtitle": "Zihnin fikirleri nasıl kurduğunu, neden-sonuca neden alışkanlıkla inandığımızı, benliğin neden sabit çekirdek olmayabileceğini ve ahlakta duygunun rolünü araştıran büyük deney.",
+  "coverImage": "/images/summary-cover-127-insan-dogasi-uzerine-bir-inceleme-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/127-insan-dogasi-uzerine-bir-inceleme-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6D6178",
+  "meta": {
+    "originalTitle": "A Treatise of Human Nature",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Her sabah güneş doğduğu için yarın da doğacağını bekleriz. Fakat geçmişin geleceği zorunlu kıldığını gözümüzle görmeyiz. Hume, zihnin bu güveni mantık kanıtından çok alışkanlıkla kurduğunu söyleyerek düşüncenin zeminini sarsar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Project Gutenberg - A Treatise of Human Nature",
+      "url": "https://www.gutenberg.org/cache/epub/4705/pg4705-images.html"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - David Hume",
+      "url": "https://plato.stanford.edu/entries/hume/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Zihnin fikirleri nasıl kurduğunu, neden-sonuca neden alışkanlıkla inandığımızı, benliğin neden sabit çekirdek olmayabileceğini ve ahlakta duygunun rolünü araştıran büyük deney.",
+        "Eser üç büyük alana uzanır: anlama yetisi, tutkular ve ahlak. Hume şüpheyi günlük hayatı yok etmek için değil aklın gerçek sınırını görmek için kullanır; sonra insanın alışkanlık, duygu ve toplumla nasıl yaşamaya devam ettiğini gösterir.",
+        "Bu rehber, David Hume tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-izlenimler-ve-fikirler",
+      "section": "BİRİNCİ KISIM · ZİHNİN MALZEMESİ",
+      "title": "İzlenimler ve fikirler",
+      "paragraphs": [
+        "Hume canlı ve güçlü algılara izlenim, onların düşüncedeki soluk kopyalarına fikir der. Ateşin sıcaklığını yaşamakla onu hatırlamak aynı yoğunlukta değildir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Limonu ısırınca ağızda beliren ekşilik, 'limon ekşidir' cümlesini okumaktan daha canlıdır.",
+        "Rüya, ateşli hastalık ve güçlü hayal bazı fikirleri çok canlı yapabilir; ayrım mutlak çizgi değildir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir kavramı anladığınızı sanırken dayandığı somut deneyimi bulun."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “İzlenimler ve fikirler” başlığının yalnız kendi örneğini değil İnsan Doğası Üzerine Bir İnceleme boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-kopya-ilkesi",
+      "section": "BİRİNCİ KISIM · FİKİRLER",
+      "title": "Kopya ilkesi",
+      "paragraphs": [
+        "Basit fikirlerin kaynağında basit izlenimler bulunduğunu savunan Hume, anlamlı kavramı deneyimdeki köküne kadar izler. Deneyim izi yoksa sözcük boş olabilir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Hiç renk görmemiş kişiye kırmızıyı yalnız tanımlarla tam anlatmak zordur.",
+        "Hume'un kendisinin verdiği kayıp mavi tonu örneği ilkeye küçük bir istisna oluşturur. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Soyut bir tartışmada kelimenin hangi gözlenebilir deneyime bağlandığını sorun."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Kopya ilkesi” başlığının yalnız kendi örneğini değil İnsan Doğası Üzerine Bir İnceleme boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-zihin-fikirleri-nasil-baglar",
+      "section": "BİRİNCİ KISIM · ÇAĞRIŞIM",
+      "title": "Zihin fikirleri nasıl bağlar?",
+      "paragraphs": [
+        "Benzerlik, zaman-mekân yakınlığı ve neden-sonuç beklentisi fikirleri birbirine çağırır. Düşünce rastgele bulut değil alışılmış yolları olan akıştır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Eski bir şarkı lise koridorunu, koridor arkadaşın yüzünü, yüz yıllar önceki bir utancı çağırabilir.",
+        "Çağrışım açıklaması bütün yaratıcı düşünceyi tüketmez; dil, amaç ve dikkat de bağlantıları seçer. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir düşünce zincirini geriye izleyip ilk çağrışım kıvılcımını bulun."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Zihin fikirleri nasıl bağlar?” başlığının yalnız kendi örneğini değil İnsan Doğası Üzerine Bir İnceleme boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-nedeni-gorebilir-miyiz",
+      "section": "İKİNCİ KISIM · NEDENSELLİK",
+      "title": "Nedeni görebilir miyiz?",
+      "paragraphs": [
+        "İki olay arasında zorunlu bağ görmeyiz; yalnız birinin ardından ötekinin tekrar tekrar geldiğini gözleriz. Zihin alışkanlıkla ilk olaydan ikincisini bekler. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Bilardo topu ötekine çarpar ve o hareket eder; göz temas ile hareketi görür, görünmez zorunluluğu değil.",
+        "Bu görüş bilimin işe yaramadığını söylemez. Düzenli deney ve olasılık, beklentiyi daha güvenilir yapar. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir neden iddiasında yalnız sıralamayı değil alternatif açıklama ve müdahale kanıtını arayın."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Nedeni görebilir miyiz?” başlığının yalnız kendi örneğini değil İnsan Doğası Üzerine Bir İnceleme boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-tumevarimin-sessiz-dongusu",
+      "section": "İKİNCİ KISIM · GELECEK",
+      "title": "Tümevarımın sessiz döngüsü",
+      "paragraphs": [
+        "Geçmiş düzenin gelecekte süreceğini mantıkla kanıtlamak için yine geçmiş deneyime dayanırız. Bu döngü tümevarımın akıl değil doğal alışkanlıkla işlediğini gösterir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Her gün aynı otobüs saatte gelir; yarın da geleceğine güvenirsiniz ama takvimde zorunluluk yazmaz.",
+        "Tümevarımın mantıksal temelsizliği bütün tahminleri eşit yapmaz. Uzun ve çeşitli kanıt beklentiyi güçlendirir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Kesinlik dili yerine kanıtın gücüne uygun olasılık dili kullanın."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Tümevarımın sessiz döngüsü” başlığının yalnız kendi örneğini değil İnsan Doğası Üzerine Bir İnceleme boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-inanc-nedir",
+      "section": "İKİNCİ KISIM · İNANÇ",
+      "title": "İnanç nedir?",
+      "paragraphs": [
+        "İnanç, fikrin mantıksal işareti değil daha canlı ve kuvvetli hissedilmesidir. Alışkanlık, bazı olasılıkları zihinde gerçeklik duygusuyla öne çıkarır. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Arkadaşınızın kapıyı çalacağını bilmekle hayal etmek aynı görüntüyü kurabilir; bekleyiş bedende başka ağırlık taşır.",
+        "Canlı hissetmek doğruluk değildir. Propaganda tekrar yoluyla yanlış fikri de tanıdık ve güvenilir kılabilir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir iddianın kanıtını, size tanıdık gelmesinden ayırın."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “İnanç nedir?” başlığının yalnız kendi örneğini değil İnsan Doğası Üzerine Bir İnceleme boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-mucize-ve-taniklik-olcusu",
+      "section": "İKİNCİ KISIM · KANIT",
+      "title": "Mucize ve tanıklık ölçüsü",
+      "paragraphs": [
+        "Hume olağanüstü iddianın, onu destekleyen tanıklığın yanılma ihtimaliyle karşılaştırılmasını ister. Kanıt ne kadar sıra dışıysa karşı açıklamalar o kadar dikkatle tartılır. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Bir kişi parkta ejderha gördüğünü söylerse önce kostüm, şaka veya hata olasılığını düşünürüz.",
+        "Bu ölçü yeni ve beklenmedik keşifleri peşinen reddetmek değildir; bağımsız ve tekrarlanabilir kanıt ister. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "İddianın büyüklüğüyle kanıtın bağımsızlığını ve hata payını karşılaştırın."
+      ],
+      "extraParagraphs": [
+        "Bu fikri gerçek bir sınamaya sokmak için, “Mucize ve tanıklık ölçüsü” başlığının yalnız kendi örneğini değil İnsan Doğası Üzerine Bir İnceleme boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-benlik-bir-demet-mi",
+      "section": "ÜÇÜNCÜ KISIM · KİMLİK",
+      "title": "Benlik bir demet mi?",
+      "paragraphs": [
+        "Hume içine baktığında değişmeyen bir ben değil duyum, duygu ve düşünce akışı bulur. Benlik, birbirine bağlanan algılar demeti olabilir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Nehir aynı adla sürer ama suyu her an değişir; süreklilik maddeden çok düzen ve hafızada bulunur.",
+        "Algı demeti görüşü yaşayan süreklilik duygusunu bütünüyle açıklamakta zorlanır. Hume da kişisel kimlik bölümünden memnun kalmamıştır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "'Ben böyleyim' cümlesini hangi değişen alışkanlık ve anının taşıdığını sorun."
+      ]
+    },
+    {
+      "id": "durak-10-supheci-calisma-odasindan-cikar",
+      "section": "ÜÇÜNCÜ KISIM · DOĞALCILIK",
+      "title": "Şüpheci çalışma odasından çıkar",
+      "paragraphs": [
+        "Felsefi şüphe neden ve benlik temelini sarssa da doğa bizi inanmaya, yemek yemeye ve arkadaşlarla konuşmaya geri döndürür. İnsan yalnız mantık makinesi değildir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Gece her şeyden kuşku duyan düşünür sabah acıkınca kahvaltı hazırlar; beden ve alışkanlık dünyayı yeniden kurar.",
+        "Gündelik dönüş felsefi sorunu çözmüş olmaz; onun insan yaşamındaki yerini sınırlar. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Kesin kanıt olmadan yaşadığınız güvenleri dürüstçe derecelendirin."
+      ]
+    },
+    {
+      "id": "durak-11-tutkular-aklin-dusmani-mi",
+      "section": "DÖRDÜNCÜ KISIM · DUYGU",
+      "title": "Tutkular aklın düşmanı mı?",
+      "paragraphs": [
+        "Hume aklın tek başına amaç üretemeyeceğini, araç ve olguları gösterdiğini savunur. Bizi harekete geçiren istek, sevgi, korku ve başka tutkulardır. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Harita hangi yolun kısa olduğunu söyler; nereye gitmek istediğinizi harita seçmez.",
+        "Duyguya rol vermek her dürtüyü doğru saymaz. Aklın bilgi ve sonuç hesabı tutkuyu eğitebilir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir kararda hedefi hangi değerin, yöntemi hangi bilginin belirlediğini ayırın."
+      ]
+    },
+    {
+      "id": "durak-12-sakin-tutku-gorunmez-olabilir",
+      "section": "DÖRDÜNCÜ KISIM · KARAR",
+      "title": "Sakin tutku görünmez olabilir",
+      "paragraphs": [
+        "Uzun vadeli çıkar ve alışkanlık da tutkudur; yalnız çok sessiz olduğu için saf akıl sanılabilir. Karar çoğu kez güçlü anlık istekle sakin kalıcı eğilim arasında çatışır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Tatlıyı isteyen yoğun arzu ile sağlığı koruma isteği karşılaşır; ikincisi daha az gürültülü ama gerçek motivasyondur.",
+        "Sakin olmak otomatik olarak iyi veya akıllı olmak değildir. Soğuk intikam da uzun vadeli olabilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir çatışmada sesin yüksekliğini gerekçenin gücüyle karıştırmayın."
+      ]
+    },
+    {
+      "id": "durak-13-sempati-nasil-calisir",
+      "section": "BEŞİNCİ KISIM · AHLAK",
+      "title": "Sempati nasıl çalışır?",
+      "paragraphs": [
+        "İnsan başkasının duygu ve çıkarına sempatiyle katılabilir. Bu aktarım ahlaki yargının kişisel çıkarı aşmasını ve ortak bakış kurmasını sağlar. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Arkadaşın utancı yüzüne yansıyınca siz de göğsünüzde sıkışma hisseder ve yardım etmek istersiniz.",
+        "Sempati yakınlara daha güçlü çalışabilir; uzaktaki veya farklı kişiyi ihmal edebilir. Kurallar bu önyargıyı düzeltir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir kararda görünmeyen kişinin deneyimini somut hikâyeyle zihne yaklaştırın."
+      ]
+    },
+    {
+      "id": "durak-14-dogal-ve-yapay-erdemler",
+      "section": "BEŞİNCİ KISIM · ERDEM",
+      "title": "Doğal ve yapay erdemler",
+      "paragraphs": [
+        "Merhamet gibi bazı erdemler doğrudan eğilimlerden, adalet ve mülkiyet kuralları ise toplumsal uzlaşmalardan doğar. 'Yapay' sahte değil insan eliyle kurulmuş demektir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Aç çocuğa yiyecek vermek doğrudan şefkatten, sıradaki payı kurala göre dağıtmak ortak sözleşmeden gelebilir.",
+        "Doğal-yapay ayrımı kültür ile biyolojiyi kesin iki kutba ayırmaz; ikisi birbirini şekillendirir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir ahlak kuralının doğrudan duygudan mı, ortak düzen ihtiyacından mı güç aldığını sorun."
+      ]
+    },
+    {
+      "id": "durak-15-adalet-kitlikta-dogar",
+      "section": "BEŞİNCİ KISIM · ADALET",
+      "title": "Adalet kıtlıkta doğar",
+      "paragraphs": [
+        "Kaynaklar sınırsız veya insanlar kusursuz cömert olsaydı katı mülkiyet kurallarına ihtiyaç azalırdı. Orta kıtlık ve sınırlı cömertlik adalet uzlaşmasını gerekli kılar. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Ortak buzdolabında herkes her şeyi sınırsız bulsa etiket gerekmez; az yiyecek ve çok kişi varsa pay kuralı doğar.",
+        "Aşırı kıtlıkta kurallar çökebilir; kurumların dayanıklılığı ve güç dağılımı önemlidir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir mülkiyet kuralının hangi kıtlık ve güven sorununu çözdüğünü bulun."
+      ]
+    },
+    {
+      "id": "durak-16-yararlilik-ve-hosluk",
+      "section": "ALTINCI KISIM · AHLAK",
+      "title": "Yararlılık ve hoşluk",
+      "paragraphs": [
+        "Bir karakteri hem topluma yararlı hem kişi için hoş olduğu ölçüde erdemli bulabiliriz. Hume ahlakı gökten inen soyut emirden çok insan duygusu ve ortak yaşamla ilişkilendirir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Güvenilir komşu mahalleye yarar sağlar ve yanında yaşamak huzur verir; iki yön ahlaki övgüyü besler.",
+        "Yararlılık azınlık hakkını otomatik korumaz. Ortak insanlık ve tarafsız bakış gereklidir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir erdemi överken kime yarar sağladığını ve kimi dışarıda bıraktığını sorun."
+      ]
+    },
+    {
+      "id": "durak-17-insan-biliminin-alcakgonullulugu",
+      "section": "ALTINCI KISIM · SONUÇ",
+      "title": "İnsan biliminin alçakgönüllülüğü",
+      "paragraphs": [
+        "Hume Newton'un doğa araştırmasına benzer biçimde insan zihnini deney ve gözlemle incelemek ister. Sonuç, aklın krallığı değil alışkanlık, tutku ve toplumla çalışan sınırlı insan portresidir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Saatin kapağını açınca tek yönetici değil birbirini döndüren parçalar görürüz; zihin de tek saf akıl merkezine indirgenmez.",
+        "On sekizinci yüzyıl gözlemi modern deneysel psikoloji değildir. Kavramlar bugün yeniden sınanmalıdır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Kendi düşüncenizi evrensel akıl diye değil belirli alışkanlık ve duygularla oluşmuş hipotez diye sınayın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Hume hiçbir bilgi mümkün değildir veya duygular ne derse doğrudur demez. Kesin zorunluluk iddiasını sınırlar; deney, alışkanlık ve ortak insan doğasının gündelik bilgi ve ahlakı nasıl mümkün kıldığını açıklar.",
+        "İnsan Doğası Üzerine Bir İnceleme tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? David Hume ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Treatise ilk yayımlandığında beklediği ilgiyi görmedi, sonra modern felsefenin başyapıtlarından sayıldı. Nedensellik, tümevarım ve benlik eleştirisi Kant'tan bilişsel bilime kadar etkili oldu; kopya ilkesi ve duygu teorisi geniş tartışma doğurdu.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. İnsan Doğası Üzerine Bir İnceleme için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "İnsan Doğası Üzerine Bir İnceleme için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu fikrin deneyimdeki kökü ne? Neden iddiasında zorunlu bağ mı, düzenli tekrar mı görüyorum? Kararın hedefini hangi tutku seçiyor?",
+        "Bu sorular İnsan Doğası Üzerine Bir İnceleme için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "İnsan Doğası Üzerine Bir İnceleme üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İnsan zihni dünyayı saf akıl ve değişmez benlikle değil izlenimler, çağrışım, alışkanlık ve tutkularla kurar; ahlak da sempati ve ortak yaşam düzeninden güç alır.",
+        "Akılda kalacak son görüntü, bilardo topları, limon, nehir ve insan yüzü parçalarının görünmez alışkanlık ipleriyle tek bir değişken zihin demetine bağlanmasıdır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "İnsan Doğası Üzerine Bir İnceleme adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-izlenimler-ve-fikirler": {
+      "image": "/images/summary-art-127-chapter-01-izlenimler-ve-fikirler-v1.webp",
+      "imageCaption": "İzlenimler ve fikirler fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-03-kopya-ilkesi": {
+      "image": "/images/summary-art-127-chapter-02-kopya-ilkesi-v1.webp",
+      "imageCaption": "Kopya ilkesi fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-04-zihin-fikirleri-nasil-baglar": {
+      "image": "/images/summary-art-127-chapter-03-zihin-fikirleri-nasil-baglar-v1.webp",
+      "imageCaption": "Zihin fikirleri nasıl bağlar? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-05-nedeni-gorebilir-miyiz": {
+      "image": "/images/summary-art-127-chapter-04-nedeni-gorebilir-miyiz-v1.webp",
+      "imageCaption": "Nedeni görebilir miyiz? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-06-tumevarimin-sessiz-dongusu": {
+      "image": "/images/summary-art-127-chapter-05-tumevarimin-sessiz-dongusu-v1.webp",
+      "imageCaption": "Tümevarımın sessiz döngüsü fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-07-inanc-nedir": {
+      "image": "/images/summary-art-127-chapter-06-inanc-nedir-v1.webp",
+      "imageCaption": "İnanç nedir? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-08-mucize-ve-taniklik-olcusu": {
+      "image": "/images/summary-art-127-chapter-07-mucize-ve-taniklik-olcusu-v1.webp",
+      "imageCaption": "Mucize ve tanıklık ölçüsü fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-09-benlik-bir-demet-mi": {
+      "image": "/images/summary-art-127-chapter-08-benlik-bir-demet-mi-v1.webp",
+      "imageCaption": "Benlik bir demet mi? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-10-supheci-calisma-odasindan-cikar": {
+      "image": "/images/summary-art-127-chapter-09-supheci-calisma-odasindan-cikar-v1.webp",
+      "imageCaption": "Şüpheci çalışma odasından çıkar fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-11-tutkular-aklin-dusmani-mi": {
+      "image": "/images/summary-art-127-chapter-10-tutkular-aklin-dusmani-mi-v1.webp",
+      "imageCaption": "Tutkular aklın düşmanı mı? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-12-sakin-tutku-gorunmez-olabilir": {
+      "image": "/images/summary-art-127-chapter-11-sakin-tutku-gorunmez-olabilir-v1.webp",
+      "imageCaption": "Sakin tutku görünmez olabilir fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-13-sempati-nasil-calisir": {
+      "image": "/images/summary-art-127-chapter-12-sempati-nasil-calisir-v1.webp",
+      "imageCaption": "Sempati nasıl çalışır? fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-14-dogal-ve-yapay-erdemler": {
+      "image": "/images/summary-art-127-chapter-13-dogal-ve-yapay-erdemler-v1.webp",
+      "imageCaption": "Doğal ve yapay erdemler fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-15-adalet-kitlikta-dogar": {
+      "image": "/images/summary-art-127-chapter-14-adalet-kitlikta-dogar-v1.webp",
+      "imageCaption": "Adalet kıtlıkta doğar fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-16-yararlilik-ve-hosluk": {
+      "image": "/images/summary-art-127-chapter-15-yararlilik-ve-hosluk-v1.webp",
+      "imageCaption": "Yararlılık ve hoşluk fikrini somutlaştıran simgesel sahne."
+    },
+    "durak-17-insan-biliminin-alcakgonullulugu": {
+      "image": "/images/summary-art-127-chapter-16-insan-biliminin-alcakgonullulugu-v1.webp",
+      "imageCaption": "İnsan biliminin alçakgönüllülüğü fikrini somutlaştıran simgesel sahne."
+    }
+  }
+}
