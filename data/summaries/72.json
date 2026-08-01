@@ -3,7 +3,7 @@
   "title": "Savaş Sanatı",
   "author": "Sun Tzu",
   "subtitle": "Zaferi yalnız çarpışma anında değil; bilgi, hazırlık, hız, aldatma, arazi ve maliyet hesabında arayan, en iyi savaşın düşmanı dövmeden etkisizleştirmek olduğunu söyleyen kısa ama katmanlı strateji klasiği.",
-  "coverImage": "/images/summary-art-72-savas-sanati-v1.webp",
+  "coverImage": "/images/summary-cover-72-savas-sanati-v2.webp",
   "coverStyle": "artwork",
   "pdfUrl": "/data/pdfs/72-savas-sanati-ozeti.pdf",
   "pdfLabel": "25-50 sayfalık PDF'yi indir",
@@ -40,9 +40,7 @@
       "section": "BAŞLANGIÇ",
       "title": "Bu kitap nasıl okunmalı?",
       "paragraphs": [
-        "Zaferi yalnız çarpışma anında değil; bilgi, hazırlık, hız, aldatma, arazi ve maliyet hesabında arayan, en iyi savaşın düşmanı dövmeden etkisizleştirmek olduğunu söyleyen kısa ama katmanlı strateji klasiği.",
-        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
-        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+        "Zaferi yalnız çarpışma anında değil; bilgi, hazırlık, hız, aldatma, arazi ve maliyet hesabında arayan, en iyi savaşın düşmanı dövmeden etkisizleştirmek olduğunu söyleyen kısa ama katmanlı strateji klasiği."
       ]
     },
     {
@@ -54,6 +52,10 @@
         "İki işletmenin büyük ihaleye girdiğini düşünün. Biri rakamları, ekibini ve teslim süresini ölçmüş; diğeri yalnız kendine güveniyor. Sahadaki sürpriz çoğu zaman masadaki ihmalin sonucudur.",
         "Planlama geleceği kusursuz bilmek değildir. Sun Tzu değişen bilgiye göre planı yenilemeyi ister. Katı plan, harita doğru olsa bile hareket eden dünyaya yetişemez.",
         "Gündelik kararda da önce maliyet, zaman, insan ve çıkış yolu sorulur. Hazırlık korkaklık değil, gereksiz cesaret ihtiyacını azaltan akıldır."
+      ],
+      "extraParagraphs": [
+        "Zaferin ilk sahnesi savaş alanı değil, koşulların soğukkanlı biçimde karşılaştırıldığı plan masasıdır. Şimdi apartman toplantısında güvenlik ile söz hakkının çatışmasını düşünün. Sun Tzu zaferi çatışma anından önce bilgi, hazırlık ve maliyet hesabında arar. Böylece “Savaş başlamadan yapılan hesap” uzak bir teori olmaktan çıkıp sonuç üreten bir ilişkiye dönüşür.",
+        "İki ihtimali yan yana koyalım. İlkinde acil durumda verilen geçici yetkinin kalıcılaşma ihtimalini görürüz; ikincisinde ise koşullardan yalnız biri değişmiş olsun. Sonuç değişiyorsa “Savaş başlamadan yapılan hesap” bir etiket değil, ilişki tarifidir. En üstün strateji uzun savaşla tükenmeden rakibin planını bozmaktır. Savaş benzetmesi iş, aile ve siyasetin her alanına uygun değildir. Kitabın düşüncesi tam bu karşılaştırmada akılda kalır: Tek örnekten yasa çıkarmadan, hangi ayrıntının sonucu çevirdiğini izlemek gerekir."
       ]
     },
     {
@@ -65,6 +67,10 @@
         "İyi kaptan tek başına yetmez. Fırtına, rota, mürettebatın güveni ve geminin bakımı aynı yolculuğa girer. Lideri kahramanlaştırmak sistemin kalanını görünmez yapar.",
         "Bu beşli sihirli kontrol listesi değildir; birbirine bağlı alanları hatırlatır. Ahlaki bağlılık lojistik açığı kapatmaz, iyi erzak da kötü komutanı otomatik düzeltmez.",
         "Bir proje tıkandığında 'kim suçlu?' yerine amaç, zaman, çevre, liderlik ve süreç başlıklarını ayrı ayrı görmek sorunu daha doğru yere taşır."
+      ],
+      "extraParagraphs": [
+        "Amaç birliği, zaman, arazi, liderlik ve düzen aynı stratejik sistemin beş ayağıdır. Buradaki mantığı gündelik hayatta şehir meclisinde çoğunluğun azınlığa nasıl davranacağını üzerinden de okuyabiliriz. Biçimsizlik rakibin hazırlandığı tek kalıba girmemektir. “Yol, gök, yer, komutan ve düzen” başlığı tam bu nedenle tek bir tanımdan daha fazlasını taşır.",
+        "Bu bölümü bir sohbet sırasında anlattığınızı düşünün. Karşınızdaki kişi “Yol, gök, yer, komutan ve düzen fikri iyi de, bunun sınırı nerede?” diye sorsun. En dürüst cevap şudur: Kısa özdeyişler tarihsel bağlamdan kopunca birbirine zıt sloganlara dönüşebilir. Buna rağmen Sun Tzu zaferi çatışma anından önce bilgi, hazırlık ve maliyet hesabında arar. Bir kurumda kuralı koyanla o kurala uyan arasındaki mesafeyi gibi sıradan bir olay, soyut görünen fikrin hayatın içinde nerede işe yaradığını ve nerede başka bir açıklamaya ihtiyaç bıraktığını gösterir."
       ]
     },
     {
@@ -76,6 +82,10 @@
         "Futbol takımı serbest vuruşta topu bir oyuncunun kullanacağını gösterip başka oyuncuya bırakır. Hareket rakibi kandırır ama oyunun amacı içindedir. Stratejik sürpriz, gücü doğru anda yoğunlaştırır.",
         "Bu fikir gündelik ilişkide sınırsız manipülasyon ruhsatı değildir. Savaş metninin aracını dostluk ve aileye taşırsanız güveni yok edersiniz. Bağlam ahlaki sınırı değiştirir.",
         "Rekabette asıl ders, kendi planınızı gereksiz yere açık etmemek ve rakibin gösterdiği görüntüyü doğrudan gerçek sanmamaktır."
+      ],
+      "extraParagraphs": [
+        "Aldatma rakibin gözünü kapatmak değil, ona yanlış harita gösterip gücünü yanlış yere taşıtmaktır. Aynı fikri küçültüp acil durumda verilen geçici yetkinin kalıcılaşma ihtimalini gözümüzün önüne getirelim. Arazi yalnız toprak değil, seçenekleri açan ve kapatan bütün koşullardır. Ayrıntılar yan yana gelince “Bütün savaş aldatmaya dayanır” sözünün hangi soruna cevap verdiği belirginleşir.",
+        "“Bütün savaş aldatmaya dayanır” güçlü bir açıklama sunuyor; yine de onu her kapıyı açan anahtar saymamak gerekir. Hız ve sürpriz, amaç ile ahlaki sınır düşünülmeden erdem sayılmaz. Apartman toplantısında güvenlik ile söz hakkının çatışmasını düşündüğümüzde bu sınır açıkça görülür. Biçimsizlik rakibin hazırlandığı tek kalıba girmemektir. Böyle bir okuma, yazara hayran olmakla yazarın merceğini dikkatle kullanmak arasındaki önemli farkı korur."
       ]
     },
     {
@@ -87,6 +97,10 @@
         "Mahkemeye yıllarca gitmek yerine iyi arabuluculukla iki tarafın kabul edeceği çözüm bulmak düşünün. Kimse büyük zafer töreni yapmaz ama para, zaman ve ilişki korunur.",
         "Çarpışmasız zafer her zaman barışçıl değildir; tehdit, baskı ve psikolojik üstünlük içerebilir. Sonucun az kanlı olması yöntemi otomatik adil yapmaz.",
         "Yine de liderlik için önemli ölçüdür: Başarıyı görünür çatışma sayısıyla değil, kaç çatışmayı gereksiz hale getirdiğinizle de değerlendirin."
+      ],
+      "extraParagraphs": [
+        "En üstün komutan şehri yıkıp almaktan çok, onu savaşmadan teslim edecek koşulu kurar. Bu görüntünün yanına bir kurumda kuralı koyanla o kurala uyan arasındaki mesafeyi koyduğumuzda aradaki akrabalık şaşırtıcıdır. En üstün strateji uzun savaşla tükenmeden rakibin planını bozmaktır. “Dövüşmeden kazanmanın üstünlüğü” böylece ezberlenecek söz değil, bakılacak bağlantı olur.",
+        "Bu noktada sonucu değil koşulları değiştiren küçük bir deney yapalım: şehir meclisinde çoğunluğun azınlığa nasıl davranacağını ele alın ve ayrıntılardan birini tersine çevirin. “Dövüşmeden kazanmanın üstünlüğü” hâlâ aynı cevabı veriyor mu? Aldatma ilkesini her ilişkiye taşımak güveni ve ortak hayatı zehirler. Öte yandan Arazi yalnız toprak değil, seçenekleri açan ve kapatan bütün koşullardır. Bölümün gerçek değeri, cevaptan önce hangi değişkenlere bakacağımızı öğretmesidir."
       ]
     },
     {
@@ -98,6 +112,10 @@
         "Ev tadilatının iki hafta yerine iki yıl sürmesi gibi, gecikme yalnız ilk bütçeyi aşmaz; yaşamın diğer alanlarını da sürekli bozar. Savaşın süresi maliyeti katlayarak büyütür.",
         "Hız tutkusu da kör olmamalıdır. Acele yanlış hedefe saldırmayı doğurabilir. Kitabın istediği, amaç açık olduğunda gereksiz uzamayı önleyen hazırlıklı hızdır.",
         "Kurumsal projelerde batık maliyet tuzağına dikkat edin: Çok harcadık diye kötü yolu sürdürmek, kaybı kurtarmak yerine büyütebilir."
+      ],
+      "extraParagraphs": [
+        "Savaş uzadıkça cephe dışındaki vergi, üretim, moral ve fırsat kayıpları görünmeyen faturayı büyütür. Konuyu bir an için kitaptan çıkarıp apartman toplantısında güvenlik ile söz hakkının çatışmasını ele alalım. Sun Tzu zaferi çatışma anından önce bilgi, hazırlık ve maliyet hesabında arar. Bu küçük karşılaştırma “Uzayan savaşın görünmeyen faturası” fikrinin gerçek hayatta nerede görünür olduğunu gösterir.",
+        "Okurun aklına doğal olarak şu soru gelir: “Uzayan savaşın görünmeyen faturası” anlatısı nerede durmalı? Savaş benzetmesi iş, aile ve siyasetin her alanına uygun değildir. En üstün strateji uzun savaşla tükenmeden rakibin planını bozmaktır. Bunu acil durumda verilen geçici yetkinin kalıcılaşma ihtimalini gibi tanıdık bir olayda sınamak, düşünceyi küçültmez; tersine onun taşıyabildiği yükü dürüstçe gösterir. Sağlam fikir, sınırı söylendiğinde dağılmayan fikirdir."
       ]
     },
     {
@@ -109,6 +127,9 @@
         "Satranç oyuncusu rakibin açılışlarını ezberlese de kendi zaman baskısında yaptığı hatayı bilmiyorsa kaybedebilir. İç kör nokta dış istihbaratı değersizleştirir.",
         "Bilmek tek rapora sahip olmak değildir; yanlış bilgiyi ayıklamak ve değişimi izlemek gerekir. Dünkü düşman profili bugünkü davranışı garanti etmez.",
         "Bir tartışmada karşı tarafın zayıf noktasını aramadan önce kendi öfke eşiğinizi tanımak, stratejiyi daha insanî ve daha etkili yapabilir."
+      ],
+      "extraParagraphs": [
+        "Stratejist bir aynayı rakibe, diğerini kendi sınır ve zaaflarına tutar. İlk bakışta uzak duran şehir meclisinde çoğunluğun azınlığa nasıl davranacağını aslında aynı düzenin küçük bir örneğini verir. Biçimsizlik rakibin hazırlandığı tek kalıba girmemektir. Bu ayrıntı, “Kendini ve düşmanı bilmek” bölümünün ana hareketini akılda tutmayı kolaylaştırır."
       ]
     },
     {
@@ -120,6 +141,9 @@
         "Her maçta aynı köşeye servis atan tenisçi güçlü olsa bile çözülebilir. Vuruşlarını koşula göre değiştiren oyuncu rakibi sürekli tahmine zorlar.",
         "Biçimsizlik kimliksiz ve plansız olmak değildir. Omurga hedefte, esneklik yöntemdedir. Her gün fikir değiştiren lider ile koşula uyarlanan lider aynı değildir.",
         "Kariyerde tek beceriye kapanmak yerine temel yeteneği farklı araçlarla kullanabilmek, değişen piyasada stratejik biçimsizlik sağlar."
+      ],
+      "extraParagraphs": [
+        "Biçimsiz strateji hedefsiz değil; hedefe giderken rakibin okuyamayacağı kadar esnek olmaktır. Bunu anlatmanın en kısa yolu acil durumda verilen geçici yetkinin kalıcılaşma ihtimalini zihinde canlandırmaktır. Arazi yalnız toprak değil, seçenekleri açan ve kapatan bütün koşullardır. O anda “Biçimsiz olmanın gücü” kuru bir kavram olmaktan çıkar ve yaşanan bir durumun içine yerleşir."
       ]
     },
     {
@@ -131,6 +155,9 @@
         "Ağır taşı düz yolda itmek zordur; yokuşta küçük dokunuş yeter. İyi lider insanları sürekli kahramanlığa zorlamak yerine sonucun doğal akacağı düzeni kurar.",
         "Momentum kendiliğinden iyi değildir. Yanlış bilgiyle büyüyen kalabalık da aynı hızla felakete gidebilir. Enerjinin yönü ve durdurma mekanizması önemlidir.",
         "İş akışında doğru şablon, otomasyon ve yetki dağılımı bireysel çabayı büyütür. Sistem iyi kurulunca insanlar daha az yorularak daha iyi sonuç alır."
+      ],
+      "extraParagraphs": [
+        "Stratejik momentum, doğru konuma yerleştirilmiş taşın küçük itmeyle büyük güç üretmesine benzer. Gündelik karşılığı arandığında bir kurumda kuralı koyanla o kurala uyan arasındaki mesafeyi iyi bir büyüteç olur. En üstün strateji uzun savaşla tükenmeden rakibin planını bozmaktır. “Shi: yokuş aşağı yuvarlanan taş” fikri bu büyüteç altında nedenleri ve sonuçlarıyla birlikte görünür."
       ]
     },
     {
@@ -142,6 +169,9 @@
         "Kalabalık ana caddede aynı dükkânı açmak yerine kimsenin hizmet vermediği mahalleyi seçmek gibi. Başarı bazen daha güçlü olmaktan değil, karşılaştırmanın olmadığı alanı bulmaktan gelir.",
         "Zayıf nokta aramak etik sınır ister. Hastalık, yas ve güven ilişkisini sömürmek stratejik olabilir ama ahlaken kabul edilemez. Etkinlik ile doğruluk aynı ölçü değildir.",
         "Sorun çözerken enerjiyi en sert dirence değil, sistemi açacak küçük kaldıraç noktasına vermek kitabın barışçıl kullanım alanıdır."
+      ],
+      "extraParagraphs": [
+        "Güçlü duvara tekrar tekrar vurmak yerine savunmanın boş bıraktığı kapıyı görmek gerekir. Şimdi ölçeği değiştirip apartman toplantısında güvenlik ile söz hakkının çatışmasını ele alalım. Sun Tzu zaferi çatışma anından önce bilgi, hazırlık ve maliyet hesabında arar. Kitabın “Boşluk ve doluluk” derken işaret ettiği şey, bu sıradan ayrıntının içinde yeniden karşımıza çıkar."
       ]
     },
     {
@@ -153,6 +183,9 @@
         "Yağmur suyu kayayı bir anda yenmez; yol bulur, birikir ve zamanla aşındırır. Esneklik zayıflık değil, gereksiz çarpışmayı reddeden sürekliliktir.",
         "Her koşula uyum sağlamak değerlerden vazgeçmek demek değildir. Su benzetmesi yöntem içindir; amaç ve etik sınırın da su gibi kaybolması gerekmez.",
         "Yönetimde aynı toplantı biçimini her ekibe dayatmak yerine insanların deneyimi, işin aciliyeti ve iletişim ortamına göre süreç seçmek daha etkilidir."
+      ],
+      "extraParagraphs": [
+        "Su nasıl kabın ve arazinin biçimini alıyorsa strateji de yöntemi koşula göre değiştirir. Benzer bir ilişkiyi şehir meclisinde çoğunluğun azınlığa nasıl davranacağını izlerken de yakalayabiliriz. Biçimsizlik rakibin hazırlandığı tek kalıba girmemektir. Bu yüzden “Su araziye göre şekil alır” yalnız kitaba ait bir başlık değil, hayatı okurken kullanılabilecek bir dikkat biçimidir."
       ]
     },
     {
@@ -164,6 +197,9 @@
         "İyi koşucu buzlu zeminde aynı hızla dönemez. Yeteneği kaybolmamıştır; zemin davranışın maliyetini değiştirmiştir. Strateji kişiyi çevreden ayrı değerlendirmez.",
         "Modern kullanımda arazi pazar, hukuk, teknoloji platformu ve kurum kültürü olabilir. Fakat her şeyi savaş alanı görmek insan ilişkilerini gereksiz düşmanlaştırır.",
         "Bir karar öncesi 'hangi zeminde oynuyoruz ve bu zemin kimin hareketini kolaylaştırıyor?' sorusu görünmeyen avantajı ortaya çıkarır."
+      ],
+      "extraParagraphs": [
+        "Aynı kuvvet, dar geçitte, açık ovada ve bataklıkta bambaşka değere sahiptir. Bu sahneyi unutmamak için yanına acil durumda verilen geçici yetkinin kalıcılaşma ihtimalini yerleştirin. Arazi yalnız toprak değil, seçenekleri açan ve kapatan bütün koşullardır. İki görüntü arasındaki bağ, “Arazi yalnız toprak değildir” bölümünün neden önemli olduğunu uzun bir tanımdan daha iyi anlatır."
       ]
     },
     {
@@ -175,6 +211,9 @@
         "Sınava daha aylar varken dağılan öğrenci son gece olağanüstü odaklanabilir. Baskı enerjiyi toplar, fakat bedeli yüksektir ve sürekli kullanılırsa tükenme getirir.",
         "Komutanın insanları bilerek çaresizliğe sürmesi modern gözle ciddi etik sorundur. Korku kısa vadeli bağlılık yaratırken güveni ve ruh sağlığını yıkar.",
         "İyi lider ölüm zemini üretmek yerine önceliği berraklaştırır, dağınık çabayı ortak hedefe toplar ve gerçek çıkış yollarını korur."
+      ],
+      "extraParagraphs": [
+        "Durumun kaçış ve risk yapısı aynı insanlarda farklı bağlılık ve cesaret düzeyleri üretebilir. Meselenin gündelik yüzü bir kurumda kuralı koyanla o kurala uyan arasındaki mesafeyi fark ettiğimiz anda ortaya çıkar. En üstün strateji uzun savaşla tükenmeden rakibin planını bozmaktır. Böyle bakınca “Dokuz zemin ve bağlılık” büyük sözlerden değil, küçük koşulların birleşmesinden oluşur."
       ]
     },
     {
@@ -186,6 +225,9 @@
         "Kuru otları yakmak için rüzgârlı günde kibrit atmak kontrol edilemeyen yangın doğurur. Güçlü araç, etkisinin yönünü garanti etmez.",
         "Sun Tzu öfke yüzünden saldırmamayı vurgular. Duygu geçer, yıkılan ülke ve ölen insan geri gelmez. Liderin iç durumu stratejik riskin parçasıdır.",
         "E-posta, sosyal medya ve hukuki tehdit gibi modern 'ateşler' de gönderilmeden önce zaman, geri tepme ve kalıcı kayıt açısından düşünülmelidir."
+      ],
+      "extraParagraphs": [
+        "Güçlü ateş yanlış rüzgârda düşmandan önce onu yakan kişiye dönebilir. Bir arkadaşınıza anlatır gibi apartman toplantısında güvenlik ile söz hakkının çatışmasını örnek olarak verin. Sun Tzu zaferi çatışma anından önce bilgi, hazırlık ve maliyet hesabında arar. Bu örnek “Ateş saldırısından önce hava” düşüncesinin neyi değiştirdiğini, soyut sözcüklerden daha hızlı gösterir."
       ]
     },
     {
@@ -197,6 +239,9 @@
         "Bir şirket milyonluk yatırım yaparken müşteriyle konuşmaya bütçe ayırmıyorsa karanlıkta ilerler. Küçük bilgi maliyeti büyük yanlış yönün önüne geçebilir.",
         "İstihbarat da hatalı, taraflı veya kasıtlı yanıltıcı olabilir. Kaynağın amacı, çapraz doğrulama ve bilginin güncelliği önemlidir. Casusa sahip olmak gerçeğe sahip olmak değildir.",
         "Gündelik hayatta casusluk değil, karar öncesi sahadan güvenilir bilgi toplamak gerekir. Varsayımın ucuzluğu bazen yanlış kararın pahalı faturasını gizler."
+      ],
+      "extraParagraphs": [
+        "Bilgiye yapılan küçük yatırım, kör bir savaşın dev maliyetini önleyebilir; fakat kaynak mutlaka doğrulanmalıdır. Aynı soruyu şehir meclisinde çoğunluğun azınlığa nasıl davranacağını üzerinden sorduğumuzda cevap daha elle tutulur hale gelir. Biçimsizlik rakibin hazırlandığı tek kalıba girmemektir. “Casus bilgiye neden bedel kazandırır” başlığının ağırlığı da tam burada, görünmeyen ilişkiyi açığa çıkarmasında yatar."
       ]
     },
     {
@@ -208,6 +253,9 @@
         "Yangın tahliye planında herkes farklı talimat duysa kapı tıkanır. Basit işaretler paniği azaltıp hareketi koordine eder. Disiplin yalnız ceza değil ortak dil kurmaktır.",
         "Aşırı merkezi komut yerel bilgiyi öldürebilir. İşaret hedefi ve sınırı vermeli, sahadaki kişinin değişen koşula uyum payını korumalıdır.",
         "Ekiplerde iletişim kanalı, karar sahibi ve acil durum işaretleri önceden belirlenirse kriz anında uzun açıklama ihtiyacı azalır."
+      ],
+      "extraParagraphs": [
+        "Ortak işaretler kalabalığın dikkatini birleştirerek dağınık gücü eşzamanlı harekete çevirir. Bu görüntüden günlük hayata uzanan köprüyü acil durumda verilen geçici yetkinin kalıcılaşma ihtimalini düşünerek kurabiliriz. Arazi yalnız toprak değil, seçenekleri açan ve kapatan bütün koşullardır. Köprünün öteki ucunda “Bayrak, davul ve ortak dikkat” fikri, okurun kendi deneyimiyle sınanabilecek açıklığa kavuşur."
       ]
     },
     {
@@ -219,6 +267,9 @@
         "Bir yöneticinin eleştiriye kızıp bütün projeyi iptal etmesi, kurumu kendi duygusunun uzantısına çevirir. Duygu gerçek olabilir; sonuç onunla aynı ölçekte olmamalıdır.",
         "Sun Tzu'nun hiyerarşik dünyası modern katılımcı liderlikten farklıdır. Yine de karar sahibi kişinin kendini denetlemesi, başka herkesten daha çok önem taşır.",
         "Büyük karar öncesi bekleme süresi, karşı görüş ve geri dönüş planı koymak komutanın anlık öfkesine karşı kurumsal fren oluşturur."
+      ],
+      "extraParagraphs": [
+        "Liderin anlık öfkesi ordunun kalıcı kaderine dönüşmemeli; büyük güç daha güçlü özdenetim ister. Son bir yakın plan olarak bir kurumda kuralı koyanla o kurala uyan arasındaki mesafeyi düşünelim. En üstün strateji uzun savaşla tükenmeden rakibin planını bozmaktır. Böyle bir ayrıntı “Öfkeli komutanın kör noktası” bölümünü yalnız anlamamızı değil, daha sonra doğru yerde hatırlamamızı da sağlar."
       ]
     },
     {
@@ -226,9 +277,7 @@
       "section": "SON DURAKLAR",
       "title": "Yaygın yanlış okuma",
       "paragraphs": [
-        "Savaş Sanatı'nı her ilişkiyi kandırma ve rakibi ezme kılavuzu gibi okumak kitabı sığlaştırır. Metnin en güçlü çizgisi gereksiz çatışmayı önlemek, maliyeti görmek ve koşula göre hareket etmektir; aldatma savaş bağlamından çıkarıldığında güveni yok edebilir.",
-        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
-        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+        "Savaş Sanatı'nı her ilişkiyi kandırma ve rakibi ezme kılavuzu gibi okumak kitabı sığlaştırır. Metnin en güçlü çizgisi gereksiz çatışmayı önlemek, maliyeti görmek ve koşula göre hareket etmektir; aldatma savaş bağlamından çıkarıldığında güveni yok edebilir."
       ]
     },
     {
@@ -236,9 +285,7 @@
       "section": "SON DURAKLAR",
       "title": "Bugünden bakınca",
       "paragraphs": [
-        "Metnin tarihi ve yazarlığı üzerine tartışmalar vardır; yüzyıllar boyunca derlenmiş bir strateji geleneği olarak okunabilir. İş ve kişisel gelişim dünyası kavramları sıkça aşırı genişletir. En sağlam güncel kullanım hazırlık, bilgi, sistem tasarımı ve çatışma maliyetidir.",
-        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
-        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+        "Metnin tarihi ve yazarlığı üzerine tartışmalar vardır; yüzyıllar boyunca derlenmiş bir strateji geleneği olarak okunabilir. İş ve kişisel gelişim dünyası kavramları sıkça aşırı genişletir. En sağlam güncel kullanım hazırlık, bilgi, sistem tasarımı ve çatışma maliyetidir."
       ]
     },
     {
@@ -246,9 +293,7 @@
       "section": "SON DURAKLAR",
       "title": "Gündelik hayatta kalan üç soru",
       "paragraphs": [
-        "Bu çatışmaya gerçekten girmek gerekiyor mu? Gücümü en sert duvara mı, en etkili kaldıraç noktasına mı yöneltiyorum? Kararım bilgiye mi dayanıyor, yoksa öfke ve gösteriş beni savaşa mı sürüklüyor?",
-        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
-        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+        "Bu çatışmaya gerçekten girmek gerekiyor mu? Gücümü en sert duvara mı, en etkili kaldıraç noktasına mı yöneltiyorum? Kararım bilgiye mi dayanıyor, yoksa öfke ve gösteriş beni savaşa mı sürüklüyor?"
       ]
     },
     {
@@ -256,8 +301,7 @@
       "section": "SON DURAKLAR",
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
-        "En iyi strateji kahramanca çatışma aramak değil; bilgi, hazırlık, arazi ve zamanlamayla sonucu öyle kurmaktır ki büyük savaş gereksiz hale gelsin.",
-        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+        "En iyi strateji kahramanca çatışma aramak değil; bilgi, hazırlık, arazi ve zamanlamayla sonucu öyle kurmaktır ki büyük savaş gereksiz hale gelsin."
       ]
     }
   ],
@@ -326,5 +370,6 @@
       "image": "/images/summary-art-72-chapter-16-angry-general-v1.webp",
       "imageCaption": "Liderin anlık öfkesi ordunun kalıcı kaderine dönüşmemeli; büyük güç daha güçlü özdenetim ister."
     }
-  }
+  },
+  "enrichmentStandardVersion": 1
 }

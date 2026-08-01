@@ -3,7 +3,7 @@
   "title": "Büyük Resim",
   "author": "Sean Carroll",
   "subtitle": "Evrenin fizik yasalarından canlılığa, bilinçten ahlaka ve anlam arayışına kadar uzanan büyük resmi doğaüstüne başvurmadan ama insan deneyimini küçültmeden kuran modern bilim anlatısı.",
-  "coverImage": "/images/summary-art-275-buyuk-resim-v1.webp",
+  "coverImage": "/images/summary-cover-275-buyuk-resim-v2.webp",
   "coverStyle": "artwork",
   "pdfUrl": "/data/pdfs/275-buyuk-resim-ozeti.pdf",
   "pdfLabel": "25-50 sayfalık PDF'yi indir",
@@ -40,9 +40,7 @@
       "section": "BAŞLANGIÇ",
       "title": "Bu kitap nasıl okunmalı?",
       "paragraphs": [
-        "Evrenin fizik yasalarından canlılığa, bilinçten ahlaka ve anlam arayışına kadar uzanan büyük resmi doğaüstüne başvurmadan ama insan deneyimini küçültmeden kuran modern bilim anlatısı.",
-        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
-        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+        "Evrenin fizik yasalarından canlılığa, bilinçten ahlaka ve anlam arayışına kadar uzanan büyük resmi doğaüstüne başvurmadan ama insan deneyimini küçültmeden kuran modern bilim anlatısı."
       ]
     },
     {
@@ -54,6 +52,10 @@
         "Bir golü kuarklarla açıklamak mümkün olsa da maçın heyecanını anlamak için oyuncu, kural ve taraftar dili gerekir.",
         "Farklı hikâyeler keyfi değildir; birbirleriyle ve kanıtla uyumlu olmalıdır. Şiirsel sözcüğü sınırsız hayal izni vermez.",
         "Bir tartışmada hangi açıklama düzeyinin soruya uygun olduğunu sormak gereksiz 'ya fizik ya anlam' kavgasını azaltır."
+      ],
+      "extraParagraphs": [
+        "Atomlardan insan hikâyesine yükselen saydam katlar, tek dünyanın birden çok doğru dille anlatılmasını simgeler. Şimdi laboratuvarda beklenen çizgiye uymayan tek ölçümü düşünün. Carroll fiziksel dünyadan bilinç ve anlama uzanan düzeyleri şiirsel natüralizm altında birleştirir. Böylece “Şiirsel natüralizm” uzak bir teori olmaktan çıkıp sonuç üreten bir ilişkiye dönüşür.",
+        "İki ihtimali yan yana koyalım. İlkinde aynı gökyüzüne farklı bir haritayla bakan iki gözlemciyi görürüz; ikincisinde ise koşullardan yalnız biri değişmiş olsun. Sonuç değişiyorsa “Şiirsel natüralizm” bir etiket değil, ilişki tarifidir. Doğaüstü amaç olmaması insanın sevgi, ahlak ve anlam kurma gücünü değersizleştirmez. Bilimsel natüralizm felsefi yorum içerir; yalnız deney sonucu gibi sunulmamalıdır. Kitabın düşüncesi tam bu karşılaştırmada akılda kalır: Tek örnekten yasa çıkarmadan, hangi ayrıntının sonucu çevirdiğini izlemek gerekir."
       ]
     },
     {
@@ -65,6 +67,10 @@
         "Masadaki kaşığın davranışı için bilinmeyen gizli yaşam kuvvetine ihtiyaç duymayız; atom ve elektromanyetizma yeterlidir.",
         "Kuram evrenin her sorusunu çözmez; karanlık madde, kuantum kütleçekimi ve başlangıç koşulları açıktır. İddia gündelik maddenin alanıyla sınırlıdır.",
         "Yeni olağanüstü etki iddiasında mevcut deneylerle neden görülmediğini sormak bilimin güçlü filtresidir."
+      ],
+      "extraParagraphs": [
+        "Birbirine oturan temel parçacık dişlileri, gündelik maddenin sağlam fizik açıklamasını temsil eder. Buradaki mantığı gündelik hayatta eski ders kitabındaki kesin bilginin yeni kanıtla değişmesini üzerinden de okuyabiliriz. Çekirdek kuram gündelik maddenin davranışını çok iyi açıklar ama hayatın bütün hikâyesini tek cümlede anlatmaz. “Çekirdek kuram neyi açıklar” başlığı tam bu nedenle tek bir tanımdan daha fazlasını taşır.",
+        "Bu bölümü bir sohbet sırasında anlattığınızı düşünün. Karşınızdaki kişi “Çekirdek kuram neyi açıklar fikri iyi de, bunun sınırı nerede?” diye sorsun. En dürüst cevap şudur: Anlamı insanların kurması bütün değerlerin keyfi olduğu anlamına gelmez. Buna rağmen Carroll fiziksel dünyadan bilinç ve anlama uzanan düzeyleri şiirsel natüralizm altında birleştirir. Iyi çalışan bir açıklamanın sınırına geldiği ilk garip vakayı gibi sıradan bir olay, soyut görünen fikrin hayatın içinde nerede işe yaradığını ve nerede başka bir açıklamaya ihtiyaç bıraktığını gösterir."
       ]
     },
     {
@@ -76,6 +82,10 @@
         "Gece ses duyduğunuzda hırsız ihtimali vardır; ama kediniz varsa ve pencere kapalıysa olasılık değişir.",
         "Sayı vermek her zaman kolay değildir ve kötü başlangıç varsayımı sonucu çarpıtabilir. Yöntemin değeri hangi kanıtın fikri değiştireceğini açık etmektir.",
         "Bir iddiada 'Beni ne ikna ederdi?' sorusunu önceden yazmak düşünceyi takım tutmaktan çıkarır."
+      ],
+      "extraParagraphs": [
+        "Yeni kanıt geldikçe hareket eden terazi, inancın kesin hüküm değil güncellenen olasılık oluşunu gösterir. Aynı fikri küçültüp aynı gökyüzüne farklı bir haritayla bakan iki gözlemciyi gözümüzün önüne getirelim. Entropi zamanın neden geçmişten geleceğe tek yönlü hissedildiğini anlamaya yardım eder. Ayrıntılar yan yana gelince “Olasılıkla düşünmek” sözünün hangi soruna cevap verdiği belirginleşir.",
+        "“Olasılıkla düşünmek” güçlü bir açıklama sunuyor; yine de onu her kapıyı açan anahtar saymamak gerekir. Büyük resim farklı açıklama düzeyleri arasındaki gerçek boşlukları küçümsememelidir. Laboratuvarda beklenen çizgiye uymayan tek ölçümü düşündüğümüzde bu sınır açıkça görülür. Çekirdek kuram gündelik maddenin davranışını çok iyi açıklar ama hayatın bütün hikâyesini tek cümlede anlatmaz. Böyle bir okuma, yazara hayran olmakla yazarın merceğini dikkatle kullanmak arasındaki önemli farkı korur."
       ]
     },
     {
@@ -87,6 +97,10 @@
         "Kırılan bardak kendiliğinden birleşmez; çünkü dağınık molekül düzeni birleşmiş halden sayısız kez fazladır.",
         "Entropi basitçe düzensizlik değildir; mümkün mikrodurumların sayısıyla ilgilidir. Yaşam yerel düzen kurarken çevreye daha çok entropi yayabilir.",
         "Zamanın akışını yalnız saat değil iz, hafıza ve geri döndürülemez süreçlerle düşünmek kavramı somutlaştırır."
+      ],
+      "extraParagraphs": [
+        "Sağlam bardaktan dağılan parçalara uzanan ok, düşük entropiden olası durumlara giden zaman yönünü anlatır. Bu görüntünün yanına iyi çalışan bir açıklamanın sınırına geldiği ilk garip vakayı koyduğumuzda aradaki akrabalık şaşırtıcıdır. Doğaüstü amaç olmaması insanın sevgi, ahlak ve anlam kurma gücünü değersizleştirmez. “Entropi ve zamanın oku” böylece ezberlenecek söz değil, bakılacak bağlantı olur.",
+        "Bu noktada sonucu değil koşulları değiştiren küçük bir deney yapalım: eski ders kitabındaki kesin bilginin yeni kanıtla değişmesini ele alın ve ayrıntılardan birini tersine çevirin. “Entropi ve zamanın oku” hâlâ aynı cevabı veriyor mu? Fizik yasalarını bilmek bilinç deneyiminin bütün ayrıntısını çözmüş olmak değildir. Öte yandan Entropi zamanın neden geçmişten geleceğe tek yönlü hissedildiğini anlamaya yardım eder. Bölümün gerçek değeri, cevaptan önce hangi değişkenlere bakacağımızı öğretmesidir."
       ]
     },
     {
@@ -98,6 +112,10 @@
         "Üzümlü kek kabarırken her üzüm diğerlerinden uzaklaşır; merkez kekin içinde özel bir nokta değildir.",
         "Benzetme sınırlıdır ve ilk anın nedenini açıklamaz. Bilim gözlenebilir geçmişi güçlü biçimde kurar, mutlak başlangıç hakkında daha ihtiyatlıdır.",
         "Kozmoloji haberinde ölçülen olgu ile henüz spekülatif başlangıç hikâyesini ayırmak büyüyü azaltmadan doğruluğu korur."
+      ],
+      "extraParagraphs": [
+        "Birbirinden uzaklaşan noktalar, galaksilerin boşluğa saçılmasını değil uzayın genişlemesini simgeler. Konuyu bir an için kitaptan çıkarıp laboratuvarda beklenen çizgiye uymayan tek ölçümü ele alalım. Carroll fiziksel dünyadan bilinç ve anlama uzanan düzeyleri şiirsel natüralizm altında birleştirir. Bu küçük karşılaştırma “Büyük Patlama başlangıç mı” fikrinin gerçek hayatta nerede görünür olduğunu gösterir.",
+        "Okurun aklına doğal olarak şu soru gelir: “Büyük Patlama başlangıç mı” anlatısı nerede durmalı? Bilimsel natüralizm felsefi yorum içerir; yalnız deney sonucu gibi sunulmamalıdır. Doğaüstü amaç olmaması insanın sevgi, ahlak ve anlam kurma gücünü değersizleştirmez. Bunu aynı gökyüzüne farklı bir haritayla bakan iki gözlemciyi gibi tanıdık bir olayda sınamak, düşünceyi küçültmez; tersine onun taşıyabildiği yükü dürüstçe gösterir. Sağlam fikir, sınırı söylendiğinde dağılmayan fikirdir."
       ]
     },
     {
@@ -109,6 +127,10 @@
         "Kapalı kutudaki elektronun küçük bilye gibi gizli tek konumu olduğunu varsaymak deney sonuçlarını her zaman doğru anlatmaz.",
         "Kuantum sözcüğü düşüncenin gerçekliği yarattığına dair sınırsız izin değildir. Kuram kesin matematik ve deneyle sınanır.",
         "Kuantumu sağlık veya bilinç iddiasında kullanan kişiden ölçülebilir mekanizma istemek bilimsel kavramı süsten ayırır."
+      ],
+      "extraParagraphs": [
+        "Bir noktadan yayılan olası yollar, kuantum dünyasının klasik tek rota yerine olasılık yapısını gösterir. İlk bakışta uzak duran eski ders kitabındaki kesin bilginin yeni kanıtla değişmesini aslında aynı düzenin küçük bir örneğini verir. Çekirdek kuram gündelik maddenin davranışını çok iyi açıklar ama hayatın bütün hikâyesini tek cümlede anlatmaz. Bu ayrıntı, “Kuantum dünyası” bölümünün ana hareketini akılda tutmayı kolaylaştırır.",
+        "Bir kavramı öğrenmenin iyi yollarından biri ona uymayan örneği aramaktır. “Kuantum dünyası” için de iyi çalışan bir açıklamanın sınırına geldiği ilk garip vakayı düşünmek böyle bir sınama alanı açar. Anlamı insanların kurması bütün değerlerin keyfi olduğu anlamına gelmez. Buna karşılık Carroll fiziksel dünyadan bilinç ve anlama uzanan düzeyleri şiirsel natüralizm altında birleştirir. İki cümle arasındaki gerilim, kitabı tek renkli bir öğütten çıkarıp gerçek düşünceye dönüştürür."
       ]
     },
     {
@@ -120,6 +142,10 @@
         "Tek su molekülü ıslak değildir; çok sayıda molekül birleşince ıslaklık anlamlı özellik olur.",
         "Belirme gizli doğaüstü güç değildir. Üst düzey örüntünün dayanıklı ve açıklayıcı oluşudur.",
         "Bir sorunu molekül düzeyinde açıklayabilmekle doğru karar düzeyinde açıklamak arasındaki farkı görmek büyük resmin ana becerisidir."
+      ],
+      "extraParagraphs": [
+        "Basit noktalardan yükselen karmaşık spiral, çok parçanın etkileşiminden yeni düzenin belirmesini anlatır. Bunu anlatmanın en kısa yolu aynı gökyüzüne farklı bir haritayla bakan iki gözlemciyi zihinde canlandırmaktır. Entropi zamanın neden geçmişten geleceğe tek yönlü hissedildiğini anlamaya yardım eder. O anda “Karmaşıklık nasıl doğar” kuru bir kavram olmaktan çıkar ve yaşanan bir durumun içine yerleşir.",
+        "Şimdi yazarın sandalyesinden kalkıp kuşkucu okurun yerine oturalım. Laboratuvarda beklenen çizgiye uymayan tek ölçümü düşündüğümüzde “Karmaşıklık nasıl doğar” fikrinin hangi koşullara bağlı olduğunu sorar. Büyük resim farklı açıklama düzeyleri arasındaki gerçek boşlukları küçümsememelidir. Yine de Çekirdek kuram gündelik maddenin davranışını çok iyi açıklar ama hayatın bütün hikâyesini tek cümlede anlatmaz. Bu çift yönlü bakış, ne kolay reddedişe ne de kör kabule ihtiyaç bırakır."
       ]
     },
     {
@@ -131,6 +157,10 @@
         "Göz görmek için yapılmış gibi durur; nesiller boyunca daha iyi gören varyasyonların seçilmesi bu işlevi tasarımcı olmadan açıklar.",
         "Yaşamın kökeninin bütün adımları bilinmiyor. Evrim güçlü açıklama olsa da ilk kendi-kopyalayan sistem araştırma konusudur.",
         "Bilmediğimiz boşluğu doğrudan kesin cevapla doldurmamak, hem bilime hem hayrete daha çok alan bırakır."
+      ],
+      "extraParagraphs": [
+        "Enerji akışıyla kendini sürdüren hücre döngüsü, canlı düzenin doğal süreçlerde kurulmasını gösterir. Gündelik karşılığı arandığında iyi çalışan bir açıklamanın sınırına geldiği ilk garip vakayı iyi bir büyüteç olur. Doğaüstü amaç olmaması insanın sevgi, ahlak ve anlam kurma gücünü değersizleştirmez. “Yaşamın amacı dışarıdan gelmez” fikri bu büyüteç altında nedenleri ve sonuçlarıyla birlikte görünür.",
+        "Güçlü bir bölüm bazen cevabından çok geride bıraktığı soruyla yaşar. Buradaki soru şudur: eski ders kitabındaki kesin bilginin yeni kanıtla değişmesini ele aldığımızda “Yaşamın amacı dışarıdan gelmez” neyi açıklıyor, neyi dışarıda bırakıyor? Fizik yasalarını bilmek bilinç deneyiminin bütün ayrıntısını çözmüş olmak değildir. Entropi zamanın neden geçmişten geleceğe tek yönlü hissedildiğini anlamaya yardım eder. Bu ayrım akılda kaldığında kavram gündelik hayata taşınabilir."
       ]
     },
     {
@@ -142,6 +172,9 @@
         "Müzik hoparlörden doğar diye melodi sahte olmaz. Beyin etkinliğinden doğan acı ve sevinç de yaşanan gerçekliktir.",
         "Bilincin öznel niteliğinin tam açıklaması açık sorudur. Fizikselcilik güçlü çerçeve sunar ama bütün ayrıntıları çözmüş değildir.",
         "Beyin bağlantısını kabul etmek insan deneyimini küçültmek değil bakım ve sorumluluğu somutlaştırmak olabilir."
+      ],
+      "extraParagraphs": [
+        "Beyinden yükselen melodi çizgisi, öznel deneyimin fiziksel süreçten doğarken gerçek kalmasını simgeler. Şimdi ölçeği değiştirip laboratuvarda beklenen çizgiye uymayan tek ölçümü ele alalım. Carroll fiziksel dünyadan bilinç ve anlama uzanan düzeyleri şiirsel natüralizm altında birleştirir. Kitabın “Bilinç büyük resimde nereye oturur” derken işaret ettiği şey, bu sıradan ayrıntının içinde yeniden karşımıza çıkar."
       ]
     },
     {
@@ -153,6 +186,9 @@
         "Satranç hamlesi fiziksel parçacık hareketidir; ama oyuncunun stratejisini anlatmak için neden seçtiğini sorarız.",
         "Bu uyumcu görüş herkesin eşit seçeneğe sahip olduğunu söylemez. Bağımlılık, yoksulluk ve beyin hastalığı hareket alanını daraltır.",
         "Sorumluluğu değerlendirirken hem kişinin düşünme kapasitesini hem gerçek seçeneklerini hesaba katmak daha insani sonuç verir."
+      ],
+      "extraParagraphs": [
+        "Parçacık zemini üstündeki yol ayrımı, fiziksel nedensellik içinde insan düzeyinde anlamlı seçim dilini gösterir. Benzer bir ilişkiyi eski ders kitabındaki kesin bilginin yeni kanıtla değişmesini izlerken de yakalayabiliriz. Çekirdek kuram gündelik maddenin davranışını çok iyi açıklar ama hayatın bütün hikâyesini tek cümlede anlatmaz. Bu yüzden “Özgür irade hangi düzeyde” yalnız kitaba ait bir başlık değil, hayatı okurken kullanılabilecek bir dikkat biçimidir."
       ]
     },
     {
@@ -164,6 +200,9 @@
         "Acı çeken çocuğa yardım etmek için kozmik yasa levhası gerekmez; onun deneyimini önemsemek ve nasıl bir toplum istediğimizi tartışmak yeterlidir.",
         "İnsan yapımı olmak keyfi olmak değildir. Para ve hukuk da insan yapımıdır ama gerçek sonuç taşır; ahlak gerekçe ve karşılıklılıkla sınanır.",
         "Ahlaki tartışmada 'evren emrediyor mu?' yerine 'kim etkileniyor, hangi ilke herkese savunulabilir?' diye sormak üretkendir."
+      ],
+      "extraParagraphs": [
+        "İnsanların birlikte kurduğu köprü, ahlakın kozmik levha olmadan ortak gerekçelerle ayakta kalmasını anlatır. Bu sahneyi unutmamak için yanına aynı gökyüzüne farklı bir haritayla bakan iki gözlemciyi yerleştirin. Entropi zamanın neden geçmişten geleceğe tek yönlü hissedildiğini anlamaya yardım eder. İki görüntü arasındaki bağ, “Ahlak gökten inmeden ayakta kalır mı” bölümünün neden önemli olduğunu uzun bir tanımdan daha iyi anlatır."
       ]
     },
     {
@@ -175,6 +214,9 @@
         "Boş kâğıtta yazı yok diye kitap değersiz değildir; hikâyeyi yazma imkânı tam da boşluktan doğar.",
         "Kendi anlamını kurma sözü yoksulluk ve baskıyı küçümsememelidir. Anlam için zaman ve güvenlik de toplumsal olarak dağıtılır.",
         "Size dışarıdan alkış gelmese de sürdürmek isteyeceğiniz ilişki ve uğraşları yazmak kişisel anlam haritası çıkarır."
+      ],
+      "extraParagraphs": [
+        "Boş sayfaya çizilen yol, hazır kozmik amaç yokken insanın anlam kurma özgürlüğünü simgeler. Meselenin gündelik yüzü iyi çalışan bir açıklamanın sınırına geldiği ilk garip vakayı fark ettiğimiz anda ortaya çıkar. Doğaüstü amaç olmaması insanın sevgi, ahlak ve anlam kurma gücünü değersizleştirmez. Böyle bakınca “Anlamı bulmak mı kurmak mı” büyük sözlerden değil, küçük koşulların birleşmesinden oluşur."
       ]
     },
     {
@@ -186,6 +228,9 @@
         "Bir konser bitecek diye müzik anlamsız olmaz; bitiş, dinlediğiniz dakikaya dikkat vermenizi sağlar.",
         "Bu fikir yas tutan herkese teselli vermeyebilir ve soğuk dayatılmamalıdır. Felsefi görüş ile duygusal ihtiyaç farklı hızlarda ilerler.",
         "Ölümü düşünmek bugün kime zaman ayırmak ve hangi işi ertelememek istediğimizi açıklığa kavuşturabilir."
+      ],
+      "extraParagraphs": [
+        "Sönen son nota, bir deneyimin bitmesinin onu değersiz değil benzersiz yapabileceğini gösterir. Bir arkadaşınıza anlatır gibi laboratuvarda beklenen çizgiye uymayan tek ölçümü örnek olarak verin. Carroll fiziksel dünyadan bilinç ve anlama uzanan düzeyleri şiirsel natüralizm altında birleştirir. Bu örnek “Ölüm son ise hayat küçülür mü” düşüncesinin neyi değiştirdiğini, soyut sözcüklerden daha hızlı gösterir."
       ]
     },
     {
@@ -197,6 +242,9 @@
         "Yanıldığını fark edip fikrini değiştirmek zayıflık değil, zihnin yeni kanıta doğru çalıştığının işaretidir.",
         "İlkeler çatışabilir ve formül her durumu çözmez. Etik yaşam sürekli muhakeme ve diyalog ister.",
         "Karar öncesi olguyu, etkilenen kişiyi ve kendi yanılma payınızı ayrı satırlara yazmak şiirsel natüralizmi gündelik alışkanlığa çevirir."
+      ],
+      "extraParagraphs": [
+        "Taşa kazılı emir yerine açık pusula, değişen kanıt içinde yön veren ama düşünmeyi bitirmeyen ilkeleri anlatır. Aynı soruyu eski ders kitabındaki kesin bilginin yeni kanıtla değişmesini üzerinden sorduğumuzda cevap daha elle tutulur hale gelir. Çekirdek kuram gündelik maddenin davranışını çok iyi açıklar ama hayatın bütün hikâyesini tek cümlede anlatmaz. “On Emir değil on düşünme ilkesi” başlığının ağırlığı da tam burada, görünmeyen ilişkiyi açığa çıkarmasında yatar."
       ]
     },
     {
@@ -208,6 +256,9 @@
         "Tıp bir tedavinin ömrü uzatacağını söyler; hasta o sürenin bedelini ve yaşam kalitesini değerleriyle tartar.",
         "Sınır bilimi zayıflatmaz, sahte otoriteden korur. Aynı şekilde değer konuşması olguları yok sayamaz.",
         "Tartışmada 'Bilim burada neyi ölçüyor, hangi tercih hâlâ bize kalıyor?' sorusunu ayırmak gereksiz kutuplaşmayı önler."
+      ],
+      "extraParagraphs": [
+        "Ölçüm cetveliyle pusulanın yan yana durması, olgusal bilgi ile değer seçiminin farklı ama ortak çalışan araçlar olduğunu gösterir. Bu görüntüden günlük hayata uzanan köprüyü aynı gökyüzüne farklı bir haritayla bakan iki gözlemciyi düşünerek kurabiliriz. Entropi zamanın neden geçmişten geleceğe tek yönlü hissedildiğini anlamaya yardım eder. Köprünün öteki ucunda “Bilimin sınırını bilmek” fikri, okurun kendi deneyimiyle sınanabilecek açıklığa kavuşur."
       ]
     },
     {
@@ -219,6 +270,9 @@
         "Dev gökyüzü altında çocuğun elini tutmak kozmik ölçekte küçük, yaşayan iki bilinç için dünyalar kadar büyüktür.",
         "İnsan ayrıcalığını abartmak çevreyi sömürmeye, tamamen silmek ise sorumluluktan kaçmaya yol açabilir. Ölçekler birlikte tutulmalıdır.",
         "Kozmik tevazu ile gündelik merhameti aynı cümlede taşımak kitabın büyük resmini tamamlar."
+      ],
+      "extraParagraphs": [
+        "Yıldızlı genişlikte birbirinin elini tutan küçük insanlar, kozmik küçüklük ile yaşanan değeri birlikte gösterir. Son bir yakın plan olarak iyi çalışan bir açıklamanın sınırına geldiği ilk garip vakayı düşünelim. Doğaüstü amaç olmaması insanın sevgi, ahlak ve anlam kurma gücünü değersizleştirmez. Böyle bir ayrıntı “Büyük resimde insanın yeri” bölümünü yalnız anlamamızı değil, daha sonra doğru yerde hatırlamamızı da sağlar."
       ]
     },
     {
@@ -226,9 +280,7 @@
       "section": "SON DURAKLAR",
       "title": "Yaygın yanlış okuma",
       "paragraphs": [
-        "Büyük Resim 'fizik her şeyi tek başına açıklıyor' veya duygular yalnız kimyadır demez. Tek doğal dünyanın farklı düzeylerde gerçek ve yararlı açıklamalar istediğini; bilimsel olgu ile insani değer dilinin birbirini yok etmeden çalışabileceğini savunur.",
-        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
-        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+        "Büyük Resim 'fizik her şeyi tek başına açıklıyor' veya duygular yalnız kimyadır demez. Tek doğal dünyanın farklı düzeylerde gerçek ve yararlı açıklamalar istediğini; bilimsel olgu ile insani değer dilinin birbirini yok etmeden çalışabileceğini savunur."
       ]
     },
     {
@@ -236,9 +288,7 @@
       "section": "SON DURAKLAR",
       "title": "Bugünden bakınca",
       "paragraphs": [
-        "Kuantum, kozmoloji ve bilinç araştırmaları ilerlemeye devam ediyor; bazı ayrıntılar güncellenebilir. Kitabın kanıtı derecelendirme, açıklama düzeylerini ayırma ve doğa içinde anlam kurma çerçevesi ise güncelliğini koruyor.",
-        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
-        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+        "Kuantum, kozmoloji ve bilinç araştırmaları ilerlemeye devam ediyor; bazı ayrıntılar güncellenebilir. Kitabın kanıtı derecelendirme, açıklama düzeylerini ayırma ve doğa içinde anlam kurma çerçevesi ise güncelliğini koruyor."
       ]
     },
     {
@@ -246,9 +296,7 @@
       "section": "SON DURAKLAR",
       "title": "Gündelik hayatta kalan üç soru",
       "paragraphs": [
-        "Bu soruya hangi açıklama düzeyi gerçekten uygun? İddia hangi kanıtla değişirdi? Hazır kozmik amaç aramak yerine bugün hangi anlamı ve sorumluluğu kurabilirim?",
-        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
-        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+        "Bu soruya hangi açıklama düzeyi gerçekten uygun? İddia hangi kanıtla değişirdi? Hazır kozmik amaç aramak yerine bugün hangi anlamı ve sorumluluğu kurabilirim?"
       ]
     },
     {
@@ -256,8 +304,7 @@
       "section": "SON DURAKLAR",
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
-        "Tek doğal evrende atomlardan bilinç ve anlama uzanan farklı açıklama katları vardır; hazır amaç yoksa bile değerli bir hayatı birlikte kurabiliriz.",
-        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+        "Tek doğal evrende atomlardan bilinç ve anlama uzanan farklı açıklama katları vardır; hazır amaç yoksa bile değerli bir hayatı birlikte kurabiliriz."
       ]
     }
   ],
@@ -326,5 +373,6 @@
       "image": "/images/summary-art-275-chapter-16-human-in-cosmos-v1.webp",
       "imageCaption": "Yıldızlı genişlikte birbirinin elini tutan küçük insanlar, kozmik küçüklük ile yaşanan değeri birlikte gösterir."
     }
-  }
+  },
+  "enrichmentStandardVersion": 1
 }
