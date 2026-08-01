@@ -1,0 +1,342 @@
+{
+  "bookNo": 135,
+  "title": "Bilimsel Araştırmanın Mantığı",
+  "author": "Karl Popper",
+  "subtitle": "Bilimi doğruluğu sonsuza kadar kanıtlayan yöntem olarak değil, cesur fikirleri ciddi biçimde yanlışlamaya çalışan açık uçlu bir eleştiri düzeni olarak anlatan bilim felsefesi klasiği.",
+  "coverImage": "/images/summary-cover-135-bilimsel-arastirmanin-mantigi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/135-bilimsel-arastirmanin-mantigi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#3C6470",
+  "meta": {
+    "originalTitle": "The Logic of Scientific Discovery",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bin beyaz kuğu görmek 'bütün kuğular beyazdır' cümlesini kesinleştirmez; tek siyah kuğu onu sarsabilir. Popper bilimin gücünü çok sayıda onay toplamaktan değil, yanlış çıkma riskini göze alan iddialar kurup onları sert sınavlara sokmaktan çıkarır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Routledge - The Logic of Scientific Discovery",
+      "url": "https://www.routledge.com/link/link/p/book/9780415278447"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia - Karl Popper",
+      "url": "https://plato.stanford.edu/entries/popper/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Bilimi doğruluğu sonsuza kadar kanıtlayan yöntem olarak değil, cesur fikirleri ciddi biçimde yanlışlamaya çalışan açık uçlu bir eleştiri düzeni olarak anlatan bilim felsefesi klasiği.",
+        "Popper'ın yanlışlanabilirlik ölçütü 'bir deney teoriyi anında çöpe atar' kadar basit değildir. Gözlemler de varsayım taşır, deney hatalı olabilir ve bilim insanları yardımcı kabulleri tartışır. Ana ruh, teoriyi her sonuçtan koruyan hilelere karşı eleştiriye açıklıktır.",
+        "Bu rehber, Karl Popper tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-tumevarim-bilmecesi",
+      "section": "BİRİNCİ KISIM · SORUN",
+      "title": "Tümevarım bilmecesi",
+      "paragraphs": [
+        "Geçmişte tekrarlanan olaylardan evrensel yasa çıkarırken mantıksal sıçrama yaparız; güneşin her gün doğması yarın doğacağını tek başına kanıtlamaz. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Yüz kez zamanında gelen otobüs, yüz birinci gün motorunun bozulmayacağını zorunlu kılmaz.",
+        "Bu açıklama kişisel niyeti tümüyle yok saymaz; yalnız sonucun niyetten daha büyük olabileceğini gösterir. tümevarım bilmecesi birey ile düzeni birlikte düşünmeyi ister. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Geçmişteki örneği bugüne kopyalamak yerine tümevarım bilmecesi sorusunu koruyun; kişiler ve araçlar değişse de ilişkinin biçimi yeniden ortaya çıkabilir."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Tümevarım bilmecesi” başlığının yalnız kendi örneğini değil Bilimsel Araştırmanın Mantığı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-bilim-ile-bilim-olmayani-ayirmak",
+      "section": "BİRİNCİ KISIM · SINIR ÇİZGİSİ",
+      "title": "Bilim ile bilim olmayanı ayırmak",
+      "paragraphs": [
+        "Popper'ın sınır ölçütü bir teorinin doğru görünmesi değil, hangi gözlemde yanlış sayılacağını açıkça söyleyebilmesidir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Her maç sonucunu sonradan açıklayan falcı hiç kaybetmez; önceden kesin skor veren kişi gerçek risk alır.",
+        "Bir olayın ardından kurulan düzgün hikâye, yaşanırken var olan belirsizliği gizleyebilir. bilim ile bilim olmayanı ayırmak geriye dönük kolaycılığa karşı dikkatle okunmalıdır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir hafta boyunca bilim ile bilim olmayanı ayırmak fikrinin küçük örneklerini not edin; kavramın gerçekten açıklayıcı mı, yoksa yalnız kulağa etkileyici mi geldiği ortaya çıkar."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Bilim ile bilim olmayanı ayırmak” başlığının yalnız kendi örneğini değil Bilimsel Araştırmanın Mantığı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-yanlislanabilirlik",
+      "section": "BİRİNCİ KISIM · SINIR ÇİZGİSİ",
+      "title": "Yanlışlanabilirlik",
+      "paragraphs": [
+        "Bilimsel önerme mümkün olayların bazılarını yasaklar; hiçbir olası sonuç onu sarsmıyorsa dünya hakkında belirli bir şey söylemiyordur. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "‘Yarın yağmur yağacak ya da yağmayacak’ kesin doğrudur ama hava hakkında sınanabilir bilgi vermez.",
+        "Bu fikir tek başına bütün kitabı açıklayan sihirli anahtar değildir. yanlışlanabilirlik başlığını bir eğilim ve soru olarak tutmak, onu her olaya zorla uygulamaktan daha doğrudur. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "İşyerinde ya da evde yanlışlanabilirlik benzeri bir gerilim çıktığında kişileri suçlamadan önce davranışı üreten koşulu değiştirmeyi deneyin."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Yanlışlanabilirlik” başlığının yalnız kendi örneğini değil Bilimsel Araştırmanın Mantığı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-dogrulama-ile-yanlislama-esit-degildir",
+      "section": "İKİNCİ KISIM · MANTIK",
+      "title": "Doğrulama ile yanlışlama eşit değildir",
+      "paragraphs": [
+        "Evrensel yasa sayısız uyumlu örnekle kesinleşmez, fakat açık karşı örnek mantıksal olarak onunla çatışır. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Bütün anahtarların kapıyı açtığını söyleyen iddiayı yüz çalışan anahtar değil, tek çalışmayan anahtar bozar.",
+        "Burada anlatılan mekanizma kaçınılmaz bir kader gibi okunmamalıdır. Koşullar, kurumlar ve insanların tepkileri değiştiğinde doğrulama ile yanlışlama eşit değildir bambaşka sonuçlar verebilir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir kurumun açıklamasını dinlerken doğrulama ile yanlışlama eşit değildir açısından söylenen amaç ile ortaya çıkan gerçek sonucu karşılaştırın."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Doğrulama ile yanlışlama eşit değildir” başlığının yalnız kendi örneğini değil Bilimsel Araştırmanın Mantığı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-cesur-tahmin",
+      "section": "İKİNCİ KISIM · TEORİ",
+      "title": "Cesur tahmin",
+      "paragraphs": [
+        "İyi teori zaten bildiğimizi başka kelimeyle tekrarlamak yerine beklenmedik ve ölçülebilir sonuçlar öngörür. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Haritacı henüz gidilmemiş vadide nehir bulunacağını söylerse keşif gerçek sınav olur.",
+        "Burada anlatılan mekanizma kaçınılmaz bir kader gibi okunmamalıdır. Koşullar, kurumlar ve insanların tepkileri değiştiğinde cesur tahmin bambaşka sonuçlar verebilir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir kurumun açıklamasını dinlerken cesur tahmin açısından söylenen amaç ile ortaya çıkan gerçek sonucu karşılaştırın."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Cesur tahmin” başlığının yalnız kendi örneğini değil Bilimsel Araştırmanın Mantığı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-temel-onermeler-ve-karar",
+      "section": "İKİNCİ KISIM · GÖZLEM",
+      "title": "Temel önermeler ve karar",
+      "paragraphs": [
+        "Deney raporları çıplak gerçek değil, bilim topluluğunun belirli yöntemlerle geçici olarak kabul ettiği sınanabilir ifadelerdir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Termometre 40 derece gösterir; cihazın kalibrasyonu ve ölçüm koşulu kabul edilmeden sayı tek başına hüküm olmaz.",
+        "Betimleme ile onay birbirine karıştırılmamalıdır. Kitap temel önermeler ve karar düzeninin nasıl çalıştığını gösterirken, bunun ahlaken doğru olduğunu söylemiş olmaz. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bölümü hayata taşımanın en sade yolu, temel önermeler ve karar için 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir sahneye uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-08-gozlem-teori-yukludur",
+      "section": "İKİNCİ KISIM · GÖZLEM",
+      "title": "Gözlem teori yüklüdür",
+      "paragraphs": [
+        "Neye bakacağımızı ve ne sayacağımızı kavramlar belirler; bu durum gözlemi değersiz değil eleştirilebilir yapar. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Doktor aynı röntgende sıradan kişinin görmediği gölgeyi görür, çünkü eğitim hangi örüntünün önemli olduğunu öğretmiştir.",
+        "Kavramın sınırı özellikle önemlidir: gözlem teori yüklüdür bazı olaylarda merkezdeyken bazılarında yalnız küçük bir etkendir. Ölçüyü bağlam belirler. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bugünkü teknolojiler sahneyi değiştirmiş olabilir. Yine de gözlem teori yüklüdür içindeki güç, korku, umut veya alışkanlık ilişkisini yeni araçların içinde yeniden arayın."
+      ]
+    },
+    {
+      "id": "durak-09-daha-cok-sey-yasaklayan-teori",
+      "section": "ÜÇÜNCÜ KISIM · SINANABİLİRLİK",
+      "title": "Daha çok şey yasaklayan teori",
+      "paragraphs": [
+        "Olası sonuçların daha geniş bölümünü dışlayan teori daha yüksek sınanabilirlik taşır; kesinlik arttıkça çürütülme riski de artar. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "‘Bu hafta bir gün gelir’ zayıf, ‘salı 09.00'da gelir’ güçlü ve kolay sınanan tahmindir.",
+        "Burada anlatılan mekanizma kaçınılmaz bir kader gibi okunmamalıdır. Koşullar, kurumlar ve insanların tepkileri değiştiğinde daha çok şey yasaklayan teori bambaşka sonuçlar verebilir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir kurumun açıklamasını dinlerken daha çok şey yasaklayan teori açısından söylenen amaç ile ortaya çıkan gerçek sonucu karşılaştırın."
+      ]
+    },
+    {
+      "id": "durak-10-basitlik-neden-degerlidir",
+      "section": "ÜÇÜNCÜ KISIM · SINANABİLİRLİK",
+      "title": "Basitlik neden değerlidir?",
+      "paragraphs": [
+        "Popper basitliği estetik zevkten çok teorinin daha açık ve sıkı sınavlara izin vermesiyle ilişkilendirir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Her başarısızlık için yeni görünmez neden ekleyen karmaşık hikâye, sade rakibinden daha az risk taşır.",
+        "Bu açıklama kişisel niyeti tümüyle yok saymaz; yalnız sonucun niyetten daha büyük olabileceğini gösterir. basitlik neden değerlidir? birey ile düzeni birlikte düşünmeyi ister. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Geçmişteki örneği bugüne kopyalamak yerine basitlik neden değerlidir? sorusunu koruyun; kişiler ve araçlar değişse de ilişkinin biçimi yeniden ortaya çıkabilir."
+      ]
+    },
+    {
+      "id": "durak-11-ad-hoc-kurtarma",
+      "section": "ÜÇÜNCÜ KISIM · YÖNTEM",
+      "title": "Ad hoc kurtarma",
+      "paragraphs": [
+        "Teori karşı örnekte yalnız onu kurtarmak için yeni varsayım ekliyorsa yanlışlanabilirliğini azaltabilir; yeni varsayım bağımsız sonuç üretmelidir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Kehanet tutmayınca 'görünmez güç saati değiştirdi' demek, bir sonraki sınavı da engelliyorsa açıklama değildir.",
+        "Kavramın sınırı özellikle önemlidir: ad hoc kurtarma bazı olaylarda merkezdeyken bazılarında yalnız küçük bir etkendir. Ölçüyü bağlam belirler. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bugünkü teknolojiler sahneyi değiştirmiş olabilir. Yine de ad hoc kurtarma içindeki güç, korku, umut veya alışkanlık ilişkisini yeni araçların içinde yeniden arayın."
+      ]
+    },
+    {
+      "id": "durak-12-deney-tek-basina-konusmaz",
+      "section": "ÜÇÜNCÜ KISIM · KARMAŞIK SINAV",
+      "title": "Deney tek başına konuşmaz",
+      "paragraphs": [
+        "Test ana teoriyle birlikte cihaz, başlangıç koşulu ve yardımcı varsayımları sınar; başarısızlıkta hangi parçanın bozuk olduğu araştırılır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Kek kabarmadıysa tarif, fırın ısısı, maya veya ölçü kabı suçlu olabilir.",
+        "Bu bölümdeki tarihsel sahne bugünün birebir kopyası değildir. deney tek başına konuşmaz benzerliği kadar dönemler arasındaki farkları da hesaba kattığımızda gerçek bir düşünme aracına dönüşür. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir tartışmada deney tek başına konuşmaz kavramını karşı tarafa yapıştırmadan önce kendi davranışınızda aynı mekanizmanın daha küçük bir örneğini bulun."
+      ]
+    },
+    {
+      "id": "durak-13-olasilik-problemi",
+      "section": "DÖRDÜNCÜ KISIM · OLASILIK",
+      "title": "Olasılık problemi",
+      "paragraphs": [
+        "Olasılıklı teoriler tek olayla kolay yanlışlanmaz; hangi sonuç dizisinin teoriyle ciddi çatışacağı önceden yöntemsel olarak belirlenmelidir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Yazı tura on kez tura gelebilir; hile iddiası için tek seri değil daha uzun ve beklenmedik örüntü gerekir.",
+        "Karşı çıkanların itirazı çoğu zaman ana soruya değil, iddianın genişliğine yönelir. olasılık problemi en verimli biçimde, neyi açıkladığı kadar neyi açıklamadığı da söylenince anlaşılır. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bugün benzer bir durumla karşılaştığınızda, önce olasılık problemi fikrinin hangi somut ayrıntıda göründüğünü ve kimin hayatını değiştirdiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-14-pekistirme-dogrulanma-degildir",
+      "section": "DÖRDÜNCÜ KISIM · GEÇİCİ BAŞARI",
+      "title": "Pekiştirme doğrulanma değildir",
+      "paragraphs": [
+        "Teori zor sınavlardan geçince pekişir, fakat sonsuza kadar doğru ilan edilmez; gelecek testlere açık kalır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Köprü bin araç geçirdi diye ölümsüz olmaz, yalnız tasarımına güvenmek için iyi neden artar.",
+        "Benzetme akılda kalıcıdır fakat gerçek dünyanın yerini tutmaz. pekiştirme doğrulanma değildir fikrini kullanırken benzetmenin nerede bittiğini ayrıca görmek gerekir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Sosyal medyada kesin bir hüküm gördüğünüzde pekiştirme doğrulanma değildir için hangi kanıtın eksik olduğunu sormak, heyecan verici fakat yanlış genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-15-bilgi-hatalardan-buyur",
+      "section": "DÖRDÜNCÜ KISIM · İLERLEME",
+      "title": "Bilgi hatalardan büyür",
+      "paragraphs": [
+        "Bilim biriktirilmiş kesinlikten çok sorun, tahmin, eleştiri ve hata ayıklama döngüsüyle ilerler. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Yazılım her bulunan hatada düzelir; kusursuz olduğu varsayılan program ise hatayı kullanıcıya yükler.",
+        "Betimleme ile onay birbirine karıştırılmamalıdır. Kitap bilgi hatalardan büyür düzeninin nasıl çalıştığını gösterirken, bunun ahlaken doğru olduğunu söylemiş olmaz. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bölümü hayata taşımanın en sade yolu, bilgi hatalardan büyür için 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir sahneye uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-16-yontemsel-kurallar",
+      "section": "BEŞİNCİ KISIM · BİLİM TOPLULUĞU",
+      "title": "Yöntemsel kurallar",
+      "paragraphs": [
+        "Yanlışlanabilirliği korumak mantıktan fazlasını, eleştiriye izin veren ortak kurallar ve dürüst raporlama kültürünü gerektirir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Maçta kaleyi her şutta hareket ettiren takım kâğıt üzerinde yenilmez ama oyunu bitirir.",
+        "Kitap okuru etkileyici sonuçlara hızla götürür; yine de yöntemsel kurallar için kanıt, yorum ve değer yargısını ayrı ayrı tutmak gerekir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir seçim yaparken yöntemsel kurallar fikrinin size hangi görünmez varsayımı fark ettirdiğini tek cümleyle yazın."
+      ]
+    },
+    {
+      "id": "durak-17-popper-in-siniri",
+      "section": "BEŞİNCİ KISIM · ELEŞTİRİ",
+      "title": "Popper'ın sınırı",
+      "paragraphs": [
+        "Kuhn, Lakatos ve Duhem sonrası tartışmalar bilim insanlarının tek karşı örnekte teori bırakmadığını, araştırma programları ve tarihsel toplulukların daha karmaşık çalıştığını gösterdi. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Yeni ilacın ilk başarısız deneyi bütün yaklaşımı bitirmeyebilir; fakat sonsuz mazeret de araştırmayı dogmaya çevirir.",
+        "Kavramın sınırı özellikle önemlidir: popper'ın sınırı bazı olaylarda merkezdeyken bazılarında yalnız küçük bir etkendir. Ölçüyü bağlam belirler. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bugünkü teknolojiler sahneyi değiştirmiş olabilir. Yine de popper'ın sınırı içindeki güç, korku, umut veya alışkanlık ilişkisini yeni araçların içinde yeniden arayın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Yanlışlanabilirlik, teorinin yanlış olduğu veya tek aykırı ölçümle hemen atılması gerektiği anlamına gelmez. Bilimsel teorinin hangi koşulda risk aldığını açıklar; gözlem hatası ve yardımcı varsayımlar yine eleştirel olarak incelenir.",
+        "Bilimsel Araştırmanın Mantığı tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Karl Popper ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Popper'ın ölçütü bilimsel eleştirinin simgesi oldu ve psikanaliz ile tarihsel kehanetlere yönelik tartışmaları etkiledi. Kuhn ve Lakatos gerçek bilim tarihinin daha topluluklu ve programlı olduğunu, Duhem-Quine sorunu tek testin yalnız bir teoriyi sınamadığını gösterdi.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Bilimsel Araştırmanın Mantığı için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Bilimsel Araştırmanın Mantığı için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu iddia hangi olayda yanlış sayılacak? Başarısızlıkta kaleyi mi hareket ettiriyorum? Teori zor ve bağımsız bir sınavdan gerçekten geçti mi?",
+        "Bu sorular Bilimsel Araştırmanın Mantığı için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Bilimsel Araştırmanın Mantığı üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Bilimin gücü son doğruluğa ulaşmasında değil, yanlış çıkma riskini göze alan açıklamalar kurup onları kamusal ve sert eleştiriyle sürekli ayıklayabilmesindedir.",
+        "Akılda kalacak son görüntü, beyaz kuğuların arasından çıkan siyah kuğunun, cam deney tüplerini ve açık bir kapıya dönüşen kırık kesinlik mührünü aydınlatmasıdır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Bilimsel Araştırmanın Mantığı adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-tumevarim-bilmecesi": {
+      "image": "/images/summary-art-135-chapter-01-tumevarim-bilmecesi-v1.webp",
+      "imageCaption": "Tümevarım bilmecesi fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-03-bilim-ile-bilim-olmayani-ayirmak": {
+      "image": "/images/summary-art-135-chapter-02-bilim-ile-bilim-olmayani-ayirmak-v1.webp",
+      "imageCaption": "Bilim ile bilim olmayanı ayırmak fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-04-yanlislanabilirlik": {
+      "image": "/images/summary-art-135-chapter-03-yanlislanabilirlik-v1.webp",
+      "imageCaption": "Yanlışlanabilirlik fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-05-dogrulama-ile-yanlislama-esit-degildir": {
+      "image": "/images/summary-art-135-chapter-04-dogrulama-ile-yanlislama-esit-degildir-v1.webp",
+      "imageCaption": "Doğrulama ile yanlışlama eşit değildir fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-06-cesur-tahmin": {
+      "image": "/images/summary-art-135-chapter-05-cesur-tahmin-v1.webp",
+      "imageCaption": "Cesur tahmin fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-07-temel-onermeler-ve-karar": {
+      "image": "/images/summary-art-135-chapter-06-temel-onermeler-ve-karar-v1.webp",
+      "imageCaption": "Temel önermeler ve karar fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-08-gozlem-teori-yukludur": {
+      "image": "/images/summary-art-135-chapter-07-gozlem-teori-yukludur-v1.webp",
+      "imageCaption": "Gözlem teori yüklüdür fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-09-daha-cok-sey-yasaklayan-teori": {
+      "image": "/images/summary-art-135-chapter-08-daha-cok-sey-yasaklayan-teori-v1.webp",
+      "imageCaption": "Daha çok şey yasaklayan teori fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-10-basitlik-neden-degerlidir": {
+      "image": "/images/summary-art-135-chapter-09-basitlik-neden-degerlidir-v1.webp",
+      "imageCaption": "Basitlik neden değerlidir? fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-11-ad-hoc-kurtarma": {
+      "image": "/images/summary-art-135-chapter-10-ad-hoc-kurtarma-v1.webp",
+      "imageCaption": "Ad hoc kurtarma fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-12-deney-tek-basina-konusmaz": {
+      "image": "/images/summary-art-135-chapter-11-deney-tek-basina-konusmaz-v1.webp",
+      "imageCaption": "Deney tek başına konuşmaz fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-13-olasilik-problemi": {
+      "image": "/images/summary-art-135-chapter-12-olasilik-problemi-v1.webp",
+      "imageCaption": "Olasılık problemi fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-14-pekistirme-dogrulanma-degildir": {
+      "image": "/images/summary-art-135-chapter-13-pekistirme-dogrulanma-degildir-v1.webp",
+      "imageCaption": "Pekiştirme doğrulanma değildir fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-15-bilgi-hatalardan-buyur": {
+      "image": "/images/summary-art-135-chapter-14-bilgi-hatalardan-buyur-v1.webp",
+      "imageCaption": "Bilgi hatalardan büyür fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-16-yontemsel-kurallar": {
+      "image": "/images/summary-art-135-chapter-15-yontemsel-kurallar-v1.webp",
+      "imageCaption": "Yöntemsel kurallar fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-17-popper-in-siniri": {
+      "image": "/images/summary-art-135-chapter-16-popper-in-siniri-v1.webp",
+      "imageCaption": "Popper'ın sınırı fikrini tek bakışta hatırlatan simgesel sahne."
+    }
+  }
+}

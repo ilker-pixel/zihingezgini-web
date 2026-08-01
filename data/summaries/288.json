@@ -1,0 +1,351 @@
+{
+  "bookNo": 288,
+  "title": "Einstein'ın Düşleri",
+  "author": "Alan Lightman",
+  "subtitle": "Genç bir patent memurunun zihninden geçtiği hayal edilen otuz ayrı zamanda, aşkın, hafızanın, korkunun ve günlük hayatın nasıl bambaşka biçimlere gireceğini anlatan şiirsel roman.",
+  "coverImage": "/images/summary-cover-288-einsteinin-dusleri-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/288-einsteinin-dusleri-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4A6385",
+  "meta": {
+    "originalTitle": "Einstein's Dreams",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir saatçi bütün saatleri aynı ayarlayabilir, ama bekleyen kişiyle sevdiğine kavuşan kişi aynı dakikayı yaşamaz. Lightman, zamanı formül olarak anlatmak yerine her biri başka kurala sahip küçük şehirler kurar ve 'hayatımız nasıl değişirdi?' diye sorar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Penguin Random House - Einstein's Dreams",
+      "url": "https://www.penguinrandomhouse.com/books/101051/einsteins-dreams-by-alan-lightman/"
+    },
+    {
+      "id": 2,
+      "title": "MIT - Alan Lightman biography",
+      "url": "https://cmsw.mit.edu/profile/alan-lightman/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Genç bir patent memurunun zihninden geçtiği hayal edilen otuz ayrı zamanda, aşkın, hafızanın, korkunun ve günlük hayatın nasıl bambaşka biçimlere gireceğini anlatan şiirsel roman.",
+        "Bu kitap Einstein'ın gerçek rüyalarının belgesi veya görelilik teorisinin ders notu değildir. 1905 Bern'ini çerçeve yapan kurmaca bir mozaiktir. Akılda kalması için yabancı isimleri azaltıp Einstein'ı 'Genç Patent Memuru', Besso'yu 'Yakın Arkadaş' diye anacağız.",
+        "Bu rehber, Alan Lightman tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-1905-bern-genc-patent-memuru",
+      "section": "BİRİNCİ KISIM · ÇERÇEVE",
+      "title": "1905 Bern: Genç Patent Memuru",
+      "paragraphs": [
+        "Roman, Genç Patent Memuru'nun yeni zaman kuramını tamamlamaya yaklaştığı Bern'de başlar. Gündüz makine çizimleri inceler, gece farklı zaman dünyaları düşler. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Ofis masasında tren saati, pencerenin dışında kule saati vardır; zihninde ise hiçbirinin gösteremediği zamanlar açılır.",
+        "Çerçeve tarihsel kişilerden esinlense de olay ve düşler kurmacadır. Bilim insanını yalnız dâhi efsanesine çevirmemek gerekir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir fikrin kuru formülünün arkasında hangi gündelik gözlem ve hayal gücü bulunduğunu düşünün."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “1905 Bern: Genç Patent Memuru” başlığının yalnız kendi örneğini değil Einstein'ın Düşleri boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-zaman-bir-cember-olsaydi",
+      "section": "İKİNCİ KISIM · DÖNEN ZAMAN",
+      "title": "Zaman bir çember olsaydı",
+      "paragraphs": [
+        "Bir dünyada zaman daire çizer ve insanlar hayatlarındaki aynı sevinç ile acıyı yeniden yaşar. Tekrar, güven verirken seçimin anlamını da sarsar. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Adam her bahar aynı istasyonda aynı kişiye veda eder; ne söyleyeceğini bilir ama sonucu değiştiremez.",
+        "Çember zamanı yalnız kader diye okumak zorunlu değildir; tekrar, fark edemediğimiz alışkanlıklarımızın aynası olabilir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Hayatınızda yeni sandığınız hangi döngünün aynı korku veya isteği tekrarladığını görün."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Zaman bir çember olsaydı” başlığının yalnız kendi örneğini değil Einstein'ın Düşleri boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-zaman-dursaydi",
+      "section": "İKİNCİ KISIM · DURAN ZAMAN",
+      "title": "Zaman dursaydı",
+      "paragraphs": [
+        "Bazı insanlar zamanı durdurup kusursuz anı korumak ister. Fakat değişmeyen yerde büyüme, karar ve gelecek de kaybolur. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Anne bebeğinin gülüşünü sonsuza kadar saklamak için saati durdurur; çocuk artık hiç büyüyemez.",
+        "Hatırayı koruma isteği yaşamdan kaçış olmak zorunda değildir; fotoğraf ve tören süreklilik sağlayabilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir anı korumakla onu değişmez hapishaneye çevirmek arasındaki farkı sorun."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Zaman dursaydı” başlığının yalnız kendi örneğini değil Einstein'ın Düşleri boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-zaman-geriye-aksaydi",
+      "section": "İKİNCİ KISIM · TERS ZAMAN",
+      "title": "Zaman geriye aksaydı",
+      "paragraphs": [
+        "Geri akan dünyada kırık fincan birleşir, ölüler mezardan eve döner ve insanlar sonuçtan sebebe yürür. Bildiğimiz sorumluluk dili tersyüz olur. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Önce özür duyulur, sonra kavga yaşanır; kişi sözün neyi onardığını artık başka türlü düşünür.",
+        "Ters zaman fizik dersi değil, neden-sonuç alışkanlığımızı yabancılaştıran edebi oyundur. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir olayın yalnız sonucunu değil, ona giden küçük kararları geriye doğru izleyin."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Zaman geriye aksaydı” başlığının yalnız kendi örneğini değil Einstein'ın Düşleri boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-zamanin-uc-yonu-olsaydi",
+      "section": "İKİNCİ KISIM · DALLANAN ZAMAN",
+      "title": "Zamanın üç yönü olsaydı",
+      "paragraphs": [
+        "Bir düşte zaman mekân gibi üç boyuta ayrılır; kişi her kavşakta farklı geleceğe gidebilir. Seçilmeyen hayatlar yanımızda gölge gibi kalır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Kadın istasyonda trene biner, başka yönde kalır, üçüncü yönde konuşmadığı yabancıyla gider; üç hayat da mümkündür.",
+        "Sonsuz seçenek fikri özgürleştirici kadar felç edicidir. Gerçek hayatta her yolun bedeli ve geri dönülmezliği vardır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Seçmediğiniz hayatı romantikleştirmeden mevcut yolunuzda hâlâ açık olan seçeneği bulun."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Zamanın üç yönü olsaydı” başlığının yalnız kendi örneğini değil Einstein'ın Düşleri boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-sebep-ile-sonuc-birbirinden-koparsa",
+      "section": "ÜÇÜNCÜ KISIM · KIRIK DÜZEN",
+      "title": "Sebep ile sonuç birbirinden koparsa",
+      "paragraphs": [
+        "Bazı dünyalarda olayların sırası güvenilmezdir. İnsanlar plan yapamaz, geçmişten ders çıkaramaz ve ortak hikâye kuramaz. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Tohum ekilmeden ağaç görünür, verilen söz söylenmeden kırılır; güven hesaplanamaz hâle gelir.",
+        "Romanın saçma düzeni, bizim dünyamızdaki nedenselliğin ne kadar değerli bir ortak zemin olduğunu gösterir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir karar verirken tesadüf ile tekrarlanan neden örüntüsünü ayırmaya çalışın."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Sebep ile sonuç birbirinden koparsa” başlığının yalnız kendi örneğini değil Einstein'ın Düşleri boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-bir-gunluk-omur",
+      "section": "ÜÇÜNCÜ KISIM · ÖMRÜN UZUNLUĞU",
+      "title": "Bir günlük ömür",
+      "paragraphs": [
+        "İnsanların yalnız bir gün yaşadığı dünyada çocukluk, yetişkinlik ve yaşlılık aynı ışık içinde hızla geçer. Öncelikler sert biçimde daralır. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Sabah doğan kişi öğlen çalışır, akşam âşık olur, gece torununa veda eder.",
+        "Kısa ömür otomatik olarak daha anlamlı hayat yaratmaz; acele, korku ve yüzeysellik de doğurabilir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bugün yalnız bir gün değil ama sınırlıysa hangi ertelemeyi gerçekten bırakmak istediğinizi sorun."
+      ],
+      "extraParagraphs": [
+        "Bu fikri gerçek bir sınamaya sokmak için, “Bir günlük ömür” başlığının yalnız kendi örneğini değil Einstein'ın Düşleri boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-sonsuz-yasamin-agirligi",
+      "section": "ÜÇÜNCÜ KISIM · ÖMRÜN UZUNLUĞU",
+      "title": "Sonsuz yaşamın ağırlığı",
+      "paragraphs": [
+        "Kimsenin ölmediği dünyada eylemler aciliyetini kaybeder. İnsanlar ikiye ayrılır: sonsuz zamanı boşa harcayanlar ve her şeyi denemeye çalışanlar. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Mektup yarın da yazılabileceği için yüz yıl masada kalır; başka biri bin meslek öğrenip yine tamamlanmış hissetmez.",
+        "Ölümün anlam vermesi, erken ölümü veya acıyı iyi yapmaz. Roman sınırlılığın seçim üzerindeki rolünü sorar. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir işi değerli kılanın süresi mi, ilişki mi, emek mi olduğunu ayırın."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Sonsuz yaşamın ağırlığı” başlığının yalnız kendi örneğini değil Einstein'ın Düşleri boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-zamanin-yapistigi-yerler",
+      "section": "DÖRDÜNCÜ KISIM · MEKÂN",
+      "title": "Zamanın yapıştığı yerler",
+      "paragraphs": [
+        "Bir düşte zaman her yerde aynı hızla akmaz; bazı ev ve sokaklarda yoğunlaşır. İnsanlar genç kalmak için belli yerlere üşüşür, şehir yeni eşitsizlik üretir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Zamanın yavaş aktığı tepede zengin evleri kurulur; aşağıdaki işçiler hızlı yaşlanır.",
+        "Bu fiziksel düzen, gerçek hayattaki sağlık, dinlenme ve yaşam süresi eşitsizliğinin şiirsel aynası olarak okunabilir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Kimin başkasının zamanını satın aldığını ve kimin sürekli beklediğini gözleyin."
+      ]
+    },
+    {
+      "id": "durak-11-mekanik-saat-ile-beden-saati",
+      "section": "DÖRDÜNCÜ KISIM · SAATLER",
+      "title": "Mekanik saat ile beden saati",
+      "paragraphs": [
+        "Kentte kule ve tren saatleri herkesi ortak düzene çağırır; beden ise açlık, uyku, yas ve sevinçle başka hız taşır. Modern hayat bu iki zamanı sürekli uzlaştırmaya çalışır. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Vardiya zili uyku gelmeden çalıştırır, toplantı saati yas bitmeden insanı masaya çağırır.",
+        "Ortak saat olmadan tren ve bakım örgütlenemez. Sorun ölçünün canlı ritmi bütünüyle susturmasıdır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Takvimdeki süreyle işi gerçekten yapabilen beden süresini karşılaştırın."
+      ]
+    },
+    {
+      "id": "durak-12-hiz-sehri",
+      "section": "DÖRDÜNCÜ KISIM · HIZ",
+      "title": "Hız şehri",
+      "paragraphs": [
+        "Bazı dünyalarda hız başarı ve ahlak ölçüsüne dönüşür. Yavaşlayan kişi yalnız geç kalmış değil, değersiz sayılır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Kafede konuşma bitmeden hesap gelir; insanlar yürürken yer, severken sonraki randevuya bakar.",
+        "Hız acil durumda hayat kurtarır ve yaratıcı enerji verebilir. Her yavaşlık da bilgelik değildir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Hızın gerçekten gerekli olduğu iş ile yalnız başkasının telaşını taşıdığınız işi ayırın."
+      ]
+    },
+    {
+      "id": "durak-13-hafizasiz-ve-geleceksiz-insanlar",
+      "section": "BEŞİNCİ KISIM · BELLEK",
+      "title": "Hafızasız ve geleceksiz insanlar",
+      "paragraphs": [
+        "Bir dünyada insanlar yalnız şimdiyi bilir; başka bir dünyada geleceklerini hatırlar gibi yaşar. Her iki durum da özgürlüğü ve kimliği bozar. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Geçmişini bilmeyen kişi verdiği sözü taşıyamaz; geleceğini kesin bilen kişi yeni seçim yapamaz.",
+        "Hafıza her zaman doğru değildir ve gelecek planı değişebilir; insan yine de bu iki eksenle hikâye kurar. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Geçmiş dersini kader, gelecek planını kesin yazgı yapmadan bugünkü adımı seçin."
+      ]
+    },
+    {
+      "id": "durak-14-ask-farkli-zamanlarda",
+      "section": "BEŞİNCİ KISIM · İLİŞKİ",
+      "title": "Aşk farklı zamanlarda",
+      "paragraphs": [
+        "Romanın dünyalarında sevenler farklı hızlarda yaşlanır, aynı ana dönemeyebilir veya sonsuz tekrar içinde buluşur. Zaman aşkın dış kabı değil, ilişkinin hammaddesidir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Biri için bekleyiş on yıl, diğeri için bir öğleden sonradır; ikisi de 'az bekledin' sözünü başka anlar.",
+        "Şiirsel zaman farkı gündelik ilişkide bakım, çalışma ve yaş eşitsizliğini görünmez kılmamalıdır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir ilişkide saat değil, kimin ne kadar beklediği ve emek verdiği üzerine konuşun."
+      ]
+    },
+    {
+      "id": "durak-15-trenler-ve-yakin-arkadas",
+      "section": "ALTINCI KISIM · ÇERÇEVE",
+      "title": "Trenler ve Yakın Arkadaş",
+      "paragraphs": [
+        "Bern'in trenleri eşzamanlılık sorusunu gündelik hayata taşır. Genç Patent Memuru düşüncelerini Yakın Arkadaş'la paylaşırken bilim yalnız başına parlayan zihinden çok konuşma ve itiraz içinde görünür. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "İki istasyondaki saat aynı mı sorusu, kahve masasında dostun basit itirazıyla keskinleşir.",
+        "Roman tarihsel Besso'dan esinlenir fakat konuşmalar belge değildir. Bilimsel keşifte pek çok meslektaşın emeği bulunur. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Büyük fikrin arkasındaki görünmez dostluk, yazışma ve eleştiri ağını araştırın."
+      ]
+    },
+    {
+      "id": "durak-16-bilimsel-hayal-gucu",
+      "section": "ALTINCI KISIM · ANLAM",
+      "title": "Bilimsel hayal gücü",
+      "paragraphs": [
+        "Lightman bilim ile edebiyatı düşman yapmaz. Fizik ölçülebilir zaman ilişkilerini kurarken öykü bu ilişkilerin insan korkusu, aşkı ve pişmanlığında neye benzediğini dener. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Denklem saatin nasıl farklılaşacağını söyler; hikâye farklı yaşlanan iki sevgilinin ne hissedeceğini sorar.",
+        "Romanı okuyarak görelilik matematiği öğrenilmez. Ama bilimsel sorunun insani anlamı için merak doğabilir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir bilim fikrini doğru teknik açıklama ve yaratıcı insan sonucu olarak iki ayrı katmanda düşünün."
+      ]
+    },
+    {
+      "id": "durak-17-dosyanin-masaya-birakildigi-sabah",
+      "section": "ALTINCI KISIM · SON",
+      "title": "Dosyanın masaya bırakıldığı sabah",
+      "paragraphs": [
+        "Çerçevenin sonunda Genç Patent Memuru düşlerinden ayrılır ve çalışmasını patent bürosunun gerçek sabahına taşır. Sonsuz zaman ihtimali tek bir tamamlanmış dosyaya dönüşür. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Gece bütün evrenler mümkündür; sabah kâğıt destesi bağlanır ve bir arkadaşla paylaşılır.",
+        "Son, dâhinin gökten inen kesin cevabını değil hayal ile disiplinin birleşmesini gösterir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Uzun süre düşündüğünüz bir fikri dünyaya çıkaracak küçük, somut dosyanın ne olduğunu belirleyin."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Einstein'ın Düşleri gerçek rüyaların biyografisi veya göreliliğin basitleştirilmiş ders kitabı değildir. Zamanın farklı işlediği kurmaca dünyalar aracılığıyla bizim alışkanlık, aşk, ölüm ve seçimlerimizi görünür kılan şiirsel romandır.",
+        "Einstein'ın Düşleri tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Alan Lightman ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kısa, erişilebilir bölümleriyle bilim ve edebiyat arasında sevilen bir köprü oldu. Bazı okurlar fizik açıklaması beklediğinde fazla belirsiz bulur; bazı eleştirmenler ise insan tiplerinin bilinçli olarak masalsı ve ince çizilmesini sınırlılık sayar.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Einstein'ın Düşleri için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Einstein'ın Düşleri için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Zamanın hangi özelliği değişti? Bu değişim gündelik hayatı ve ilişkiyi nasıl dönüştürdü? Düş dünyası bugünkü hangi alışkanlığımızı daha görünür kılıyor?",
+        "Bu sorular Einstein'ın Düşleri için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Einstein'ın Düşleri üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Zaman yalnız saatin gösterdiği sayı değildir; döngüsel, duran, hızlanan veya dallanan her hayali zaman düzeni insanın sevme, hatırlama ve seçim yapma biçimini değiştirerek kendi hayatımızı yeniden gösterir.",
+        "Akılda kalacak son görüntü, Bern saat kulesinin içinden çıkan demiryollarının her birinde farklı hızla akan şehirler, ortada dosya taşıyan genç patent memuruyla birleşmesidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Einstein'ın Düşleri adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-1905-bern-genc-patent-memuru": {
+      "image": "/images/summary-art-288-chapter-01-1905-bern-genc-patent-memuru-v1.webp",
+      "imageCaption": "1905 Bern: Genç Patent Memuru fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-03-zaman-bir-cember-olsaydi": {
+      "image": "/images/summary-art-288-chapter-02-zaman-bir-cember-olsaydi-v1.webp",
+      "imageCaption": "Zaman bir çember olsaydı fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-04-zaman-dursaydi": {
+      "image": "/images/summary-art-288-chapter-03-zaman-dursaydi-v1.webp",
+      "imageCaption": "Zaman dursaydı fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-05-zaman-geriye-aksaydi": {
+      "image": "/images/summary-art-288-chapter-04-zaman-geriye-aksaydi-v1.webp",
+      "imageCaption": "Zaman geriye aksaydı fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-06-zamanin-uc-yonu-olsaydi": {
+      "image": "/images/summary-art-288-chapter-05-zamanin-uc-yonu-olsaydi-v1.webp",
+      "imageCaption": "Zamanın üç yönü olsaydı fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-07-sebep-ile-sonuc-birbirinden-koparsa": {
+      "image": "/images/summary-art-288-chapter-06-sebep-ile-sonuc-birbirinden-koparsa-v1.webp",
+      "imageCaption": "Sebep ile sonuç birbirinden koparsa fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-08-bir-gunluk-omur": {
+      "image": "/images/summary-art-288-chapter-07-bir-gunluk-omur-v1.webp",
+      "imageCaption": "Bir günlük ömür fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-09-sonsuz-yasamin-agirligi": {
+      "image": "/images/summary-art-288-chapter-08-sonsuz-yasamin-agirligi-v1.webp",
+      "imageCaption": "Sonsuz yaşamın ağırlığı fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-10-zamanin-yapistigi-yerler": {
+      "image": "/images/summary-art-288-chapter-09-zamanin-yapistigi-yerler-v1.webp",
+      "imageCaption": "Zamanın yapıştığı yerler fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-11-mekanik-saat-ile-beden-saati": {
+      "image": "/images/summary-art-288-chapter-10-mekanik-saat-ile-beden-saati-v1.webp",
+      "imageCaption": "Mekanik saat ile beden saati fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-12-hiz-sehri": {
+      "image": "/images/summary-art-288-chapter-11-hiz-sehri-v1.webp",
+      "imageCaption": "Hız şehri fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-13-hafizasiz-ve-geleceksiz-insanlar": {
+      "image": "/images/summary-art-288-chapter-12-hafizasiz-ve-geleceksiz-insanlar-v1.webp",
+      "imageCaption": "Hafızasız ve geleceksiz insanlar fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-14-ask-farkli-zamanlarda": {
+      "image": "/images/summary-art-288-chapter-13-ask-farkli-zamanlarda-v1.webp",
+      "imageCaption": "Aşk farklı zamanlarda fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-15-trenler-ve-yakin-arkadas": {
+      "image": "/images/summary-art-288-chapter-14-trenler-ve-yakin-arkadas-v1.webp",
+      "imageCaption": "Trenler ve Yakın Arkadaş fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-16-bilimsel-hayal-gucu": {
+      "image": "/images/summary-art-288-chapter-15-bilimsel-hayal-gucu-v1.webp",
+      "imageCaption": "Bilimsel hayal gücü fikrini tek bakışta hatırlatan simgesel sahne."
+    },
+    "durak-17-dosyanin-masaya-birakildigi-sabah": {
+      "image": "/images/summary-art-288-chapter-16-dosyanin-masaya-birakildigi-sabah-v1.webp",
+      "imageCaption": "Dosyanın masaya bırakıldığı sabah fikrini tek bakışta hatırlatan simgesel sahne."
+    }
+  }
+}
