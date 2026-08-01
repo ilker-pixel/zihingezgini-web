@@ -1,0 +1,330 @@
+{
+  "bookNo": 103,
+  "title": "Protestan Ahlakı ve Kapitalizmin Ruhu",
+  "author": "Max Weber",
+  "subtitle": "Kapitalizmin yalnız para hırsından doğmadığını; çalışmayı kutsal görev, zamanı sorumluluk ve kazancı kişisel tüketimden çok yeniden yatırım sayan belirli bir hayat disiplininin modern ekonomiye nasıl uyduğunu araştıran sosyoloji klasiği.",
+  "coverImage": "/images/summary-art-103-protestan-ahlaki-ve-kapitalizmin-ruhu-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/103-protestan-ahlaki-ve-kapitalizmin-ruhu-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#655747",
+  "meta": {
+    "originalTitle": "The Protestant Ethic and the Spirit of Capitalism",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Max Weber tarafından yazılan Protestan Ahlakı ve Kapitalizmin Ruhu adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Project Gutenberg - The Protestant Ethic",
+      "url": "https://www.gutenberg.org/ebooks/67193"
+    },
+    {
+      "id": 2,
+      "title": "Marxists Internet Archive - Weber, Protestant Ethic",
+      "url": "https://www.marxists.org/reference/archive/weber/protestant-ethic/"
+    },
+    {
+      "id": 3,
+      "title": "Encyclopaedia Britannica - Max Weber",
+      "url": "https://www.britannica.com/biography/Max-Weber-German-sociologist"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Kapitalizmin yalnız para hırsından doğmadığını; çalışmayı kutsal görev, zamanı sorumluluk ve kazancı kişisel tüketimden çok yeniden yatırım sayan belirli bir hayat disiplininin modern ekonomiye nasıl uyduğunu araştıran sosyoloji klasiği.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-para-hirsi-kapitalizm-degildir",
+      "section": "BAŞLANGIÇ · SORU",
+      "title": "Para hırsı kapitalizm değildir",
+      "paragraphs": [
+        "Weber para kazanma arzusunun her çağda bulunduğunu söyler. Korsan, saray görevlisi ve tefeci de zenginlik isterdi. Modern kapitalizmin ayırt edici yanı, düzenli hesap, sürekli işletme ve kârın yeniden yatırıma bağlanmasıdır.",
+        "Piyangodan zengin olmakla her gün kayıt tutup üretimi büyütmek aynı para ilişkisi değildir. İlkinde tek vuruş, ikincisinde sistemli yaşam biçimi vardır.",
+        "Kitap kapitalizmin tek nedenini din ilan etmez. Hukuk, şehir, teknoloji ve pazar gerekir. Weber belirli bir ahlakın bu makineyle neden iyi uyuştuğunu araştırır.",
+        "Bugün girişimcilik konuşurken yalnız kazanç miktarına değil, zaman, kayıt, yatırım ve meslek fikrinin nasıl ahlaki değer kazandığına bakabiliriz."
+      ]
+    },
+    {
+      "id": "durak-03-kapitalizmin-ruhu-benjamin-franklin-de",
+      "section": "BİRİNCİ KISIM · RUH",
+      "title": "Kapitalizmin ruhu Benjamin Franklin'de",
+      "paragraphs": [
+        "Weber 'vakit nakittir' ve güvenilir borçlunun değerli olduğu yönündeki Franklin öğütlerini örnek verir. Burada kazanç yalnız araç değil, insanın görevini iyi yaptığının ölçüsü gibi görünür.",
+        "Dakik çalışan, hesabını tutan ve kazancını savurmayan esnaf yalnız başarılı değil 'iyi karakterli' sayılır. Ekonomik davranış ahlaki övgüye bağlanır.",
+        "Bu ruh hazcı değildir. Daha çok para, daha çok eğlence için değil işi büyütmek ve görevi sürdürmek için kazanılır. Birikim tüketimden kopar.",
+        "Modern özgeçmiş kültüründe de üretkenlik karakter ölçüsüne dönüşebilir. İnsan ne yaptığıyla değil ne kadar verimli olduğu ile değer görmeye başlar."
+      ]
+    },
+    {
+      "id": "durak-04-meslek-ayni-zamanda-cagri-olunca",
+      "section": "BİRİNCİ KISIM · MESLEK",
+      "title": "Meslek aynı zamanda çağrı olunca",
+      "paragraphs": [
+        "Almanca Beruf sözcüğü hem meslek hem çağrı anlamı taşır. Reform düşüncesinde dünyevi iş, manastır dışındaki sıradan hayatın Tanrı'ya karşı görevi haline gelir.",
+        "Ekmek yapan kişi yalnız ücret kazanmıyor, işini dikkatle yaparak kutsal sorumluluğunu yerine getiriyorsa tezgâh ibadet alanına yaklaşır.",
+        "Luther dünyevi görevi yüceltir ama Weber'in aradığı sistemli kapitalist disiplin özellikle sonraki Kalvinist ve Püriten çevrelerde keskinleşir.",
+        "Bugün 'işini tutkuyla yap' sözü dinsel dilini kaybetmiş çağrı fikridir. İşin anlam vermesi güzel olabilir; bütün benliği işe teslim etmek tükenmişlik getirir."
+      ]
+    },
+    {
+      "id": "durak-05-kaderin-bilinmedigi-korku",
+      "section": "İKİNCİ KISIM · KALVİNİZM",
+      "title": "Kaderin bilinmediği korku",
+      "paragraphs": [
+        "Kalvinist kader öğretisinde kimin kurtulacağı önceden belirlenmiştir ve insan bunu kesin bilemez. Bu belirsizlik yoğun iç kaygı doğurabilir; kişi seçilmişliğin işaretlerini düzenli hayatında arar.",
+        "Sonucu açıklanmayan büyük sınavda olduğunuzu, tekrar girme şansınız bulunmadığını düşünün. Doğrudan cevap alamayınca her davranışı dolaylı işaret gibi okumaya başlayabilirsiniz.",
+        "Weber herkesin aynı psikolojiyi yaşadığını söylemez; dini fikir ile toplumsal davranış arasında olası bir yakınlık kurar. Öğreti tek başına otomatik sonuç üretmez.",
+        "Belirsizlik bugün performans puanı ve algoritmik değerlendirmede de benzer disiplin yaratabilir: Ölçüyü tam bilmeyen kişi kendini sürekli kanıtlamaya çalışır."
+      ]
+    },
+    {
+      "id": "durak-06-dunya-icinde-cilecilik",
+      "section": "İKİNCİ KISIM · DİSİPLİN",
+      "title": "Dünya içinde çilecilik",
+      "paragraphs": [
+        "Manastır çilecisi dünyadan çekilir; Püriten çileci dünya içinde çalışır. Hazdan kaçınır, zamanı boşa harcamaz ve hayatını düzenli özdenetim altında tutar.",
+        "Gösterişli tatil yerine dükkânını büyüten, kazancını yeni alete yatıran ve gününü saatle bölen kişi bu dünyasal çileciliğin ekonomik görüntüsüdür.",
+        "Çilecilik tüketimi kısarken üretimi düşürmez; tam tersine artırır. Kazanç harcanmayınca sermaye olarak birikir. Ahlaki disiplin ekonomik büyüme davranışıyla buluşur.",
+        "Bugün sade yaşam ile yatırım kültürü benzer görünse de amaçlar farklı olabilir. Aynı davranışın dini, çevreci ya da finansal anlamı bağlama göre değişir."
+      ]
+    },
+    {
+      "id": "durak-07-bosa-gecen-dakikanin-gunaha-donusmesi",
+      "section": "İKİNCİ KISIM · ZAMAN",
+      "title": "Boşa geçen dakikanın günaha dönüşmesi",
+      "paragraphs": [
+        "Püriten ahlakında boş zaman yalnız ekonomik kayıp değil ahlaki tehlikedir. Düzenli çalışma, kişinin kendini dağınık arzulardan koruma yolu sayılır.",
+        "Dinlenirken bile saatin tik takını borç gibi hissetmek, zamanın tarafsız akıştan performans hesabına dönüşmesidir. Takvim vicdanın dışarıdaki sesi olur.",
+        "Bu disiplin üretkenlik sağlar fakat dinlenmeyi suçluluğa çevirebilir. İnsan bedeni makine değildir; boşluk yaratıcılık, bakım ve ilişki için gereklidir.",
+        "Telefon uygulamalarının her dakikayı ölçtüğü çağda Weber'in zaman ahlakı yeni araçlarla geri döner. Ölçü, hayatın amacının yerini almamalıdır."
+      ]
+    },
+    {
+      "id": "durak-08-defterin-sessiz-devrimi",
+      "section": "İKİNCİ KISIM · HESAP",
+      "title": "Defterin sessiz devrimi",
+      "paragraphs": [
+        "Rasyonel kapitalist işletme gelir, gider, borç ve verimi düzenli kayda bağlar. Defter yalnız olanı yazmaz; hangi işin sürmesi gerektiğine karar veren göz olur.",
+        "Ev bütçesini ilk kez kalem kalem çıkarınca kahve harcamasının toplamını görürsünüz. Kayıt davranışı görünür kılar ve gelecekteki davranışı değiştirir.",
+        "Ölçülemeyen şeyin değersiz sayılması tehlikesi vardır. Bakım emeği, güven ve doğa kaybı bilançoda görünmezse karar bunları yokmuş gibi kullanabilir.",
+        "Modern veri yönetiminde soru yalnız doğru ölçmek değil, neyi dışarıda bıraktığını bilmektir. Defter gerçekliğin aynası değil seçilmiş haritasıdır."
+      ]
+    },
+    {
+      "id": "durak-09-kazanc-tuketilmeyince-sermaye-olur",
+      "section": "İKİNCİ KISIM · BİRİKİM",
+      "title": "Kazanç tüketilmeyince sermaye olur",
+      "paragraphs": [
+        "Çalışma kutsal görev, lüks ise kuşkulu olduğunda kazanç kişisel hazza akmaz. Yeni araç, stok ve işletme için yeniden yatırılır; sermaye düzenli biçimde büyür.",
+        "Fırıncı kârıyla şölen vermek yerine ikinci fırını alırsa ertesi yıl daha çok ekmek üretir. Tek karar tekrarlandığında küçük disiplin ekonomik yapıya dönüşür.",
+        "Birikimin kaynağını yalnız ahlaka bağlamak yetersizdir; sömürge ticareti, emek ilişkileri ve mülkiyet düzeni de belirleyicidir. Weber ilişkinin bir parçasını seçer.",
+        "Bugün yatırım övgüsünün yanında kârın hangi emekten ve hangi çevresel maliyetten geldiğini sormak gerekir. Büyüme tarafsız sayı değildir."
+      ]
+    },
+    {
+      "id": "durak-10-guvenilir-insanin-kredi-degeri",
+      "section": "İKİNCİ KISIM · GÜVEN",
+      "title": "Güvenilir insanın kredi değeri",
+      "paragraphs": [
+        "Dakiklik, sözünde durma ve ölçülü yaşam yalnız erdem değil kredi piyasasında ekonomik avantaja dönüşür. İnsan karakteri gelecekte ödeme yapacağına dair teminat gibi okunur.",
+        "Komşusuna borcunu hep gününde ödeyen esnaf, yazılı belgeden önce bile daha kolay mal alır. İtibar görünmez sermayedir.",
+        "Bu düzen ahlaki görünüşü dışlama aracına çevirebilir. Farklı giyinen, başka inanca sahip veya yoksul kişi güvenilmez damgası yiyebilir; erdem ölçüsü sınıf önyargısıyla karışır.",
+        "Kredi puanı çağında karakter yargısı algoritmaya taşındı. Verinin geçmiş eşitsizliği yeniden üretip üretmediği Weberci güven sorusunun yeni biçimidir."
+      ]
+    },
+    {
+      "id": "durak-11-geleneksel-isci-neden-daha-az-calisabilir",
+      "section": "BİRİNCİ KISIM · EMEK",
+      "title": "Geleneksel işçi neden daha az çalışabilir?",
+      "paragraphs": [
+        "Weber, ücret artınca daha çok çalışmak yerine aynı ihtiyacı daha kısa sürede karşılayıp dinlenen geleneksel işçi örneğini verir. Modern ekonomik aklın 'daha çok kazanç her zaman daha iyidir' varsayımı evrensel değildir.",
+        "Günde yüz lira ihtiyacı olan kişi saat ücreti iki katına çıkınca yarım gün çalışabilir. İşveren daha çok emek beklerken çalışan daha çok zaman kazanır.",
+        "Örnek işçiyi tembel gösterme riski taşır; çalışma tercihleri güç, zorunluluk ve yaşam amacıyla ilgilidir. Verimlilik kimin açısından ölçüldüğüne göre değişir.",
+        "Dört günlük çalışma haftası tartışması aynı soruyu canlandırır: Teknolojik kazanç daha çok üretime mi, daha çok serbest zamana mı dönüşmeli?"
+      ]
+    },
+    {
+      "id": "durak-12-ruh-makineyi-kurdu-mu",
+      "section": "TARTIŞMA · NEDENSELLİK",
+      "title": "Ruh makineyi kurdu mu?",
+      "paragraphs": [
+        "Weber dini ahlakın kapitalizmi tek başına icat ettiğini söylemez. Belirli fikirler ile ekonomik kurumlar arasında 'seçici yakınlık' arar: İki düzen birbirini güçlendirebilir.",
+        "Rüzgâr değirmeni rüzgârı yaratmaz; ama kanatları uygun açıdaysa var olan rüzgârı üretime çevirir. Ahlak da pazar ve hukuk koşullarını belirli davranışa yöneltebilir.",
+        "Neden okunu tek yönde çizmek hatadır. Ekonomik değişim dini yorumu da etkiler; sınıf çıkarı, şehirleşme ve siyaset aynı anda çalışır.",
+        "Kültür ile ekonomi tartışmasında 'ya fikir ya madde' ikiliğinden çıkmak Weber'in en değerli yöntem dersidir."
+      ]
+    },
+    {
+      "id": "durak-13-demir-kafes-nasil-kuruldu",
+      "section": "SONUÇ · KURUM",
+      "title": "Demir kafes nasıl kuruldu?",
+      "paragraphs": [
+        "Dini anlam zamanla zayıflasa bile onun kurduğu disiplin kurumlarda yaşamaya devam eder. İnsan artık kurtuluş için değil işini kaybetmemek için saat, bürokrasi ve piyasa kuralına uyar. İnanç ceketi demir kafese dönüşür.",
+        "Başlangıçta isteyerek kullanılan üretkenlik uygulamasının sonra yöneticinin zorunlu performans aracına dönüştüğünü düşünün. Araç, onu seçen kişiden bağımsız baskı kazanır.",
+        "Kafes benzetmesi modernliğin kaçınılmaz sonu olmak zorunda değildir. Kurumlar insan yapımıdır ve çalışma süresi, sosyal güvence, ortak mülkiyet gibi düzenlemelerle değişebilir.",
+        "Bugün algoritmik vardiya ve sürekli çevrimiçi olma, kafesin yeni çubuklarıdır. Verimlilik sisteminin kime hizmet ettiğini yeniden sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-14-avrupa-disindaki-yollar",
+      "section": "ELEŞTİRİ · DÜNYA",
+      "title": "Avrupa dışındaki yollar",
+      "paragraphs": [
+        "Weber Batı kapitalizminin özel yolunu araştırırken Çin, Hindistan ve başka toplumları karşılaştırır. Bazı tasvirleri döneminin Avrupamerkezci genellemelerini taşır ve yerel çeşitliliği küçültür.",
+        "Başka mutfakları yalnız kendi tarifinizde eksik olan malzemelerle değerlendirmek, onların neden farklı yemek yaptığını kaçırır. Karşılaştırma tarafsız cetvel ister.",
+        "Kapitalist ticaretin Avrupa dışındaki uzun geçmişi ve sömürge bağlantıları, Protestanlık merkezli anlatıyı sınırlar. Küresel sistem tek kültürel kaynaktan doğmadı.",
+        "Bugün Weber'i kullanırken soruyu koruyup hiyerarşiyi bırakmak gerekir: Fikirler ekonomik davranışı farklı coğrafyalarda hangi yollarla etkiliyor?"
+      ]
+    },
+    {
+      "id": "durak-15-somurge-ve-zorun-gorunmeyen-payi",
+      "section": "ELEŞTİRİ · GÜÇ",
+      "title": "Sömürge ve zorun görünmeyen payı",
+      "paragraphs": [
+        "Kitap özdisiplin ve hesap kültürünü aydınlatırken kölelik, sömürge kaynakları ve toprak gasbının sermaye birikimindeki rolünü merkezde işlemez. Kapitalizmin ruhu kadar zor gücü de vardır.",
+        "Fabrikanın temiz ofisindeki defter, hammaddenin hangi koşullarda çıkarıldığını göstermeyebilir. Düzenli muhasebe tedarik zincirindeki şiddeti görünmez bırakabilir.",
+        "Bu eksik Weber'in bütün analizini geçersiz kılmaz; kültürel motivasyon ile maddi zorun aynı sistemde birlikte incelenmesini gerektirir.",
+        "Güncel şirket değerlendirmesinde yalnız kârlılık ve çalışma kültürü değil emek hakkı, çevre ve tedarik zinciri de bilançoya girmelidir."
+      ]
+    },
+    {
+      "id": "durak-16-caliskanlik-ne-zaman-karakter-olcusu-olur",
+      "section": "GÜNÜMÜZ · İŞ KÜLTÜRÜ",
+      "title": "Çalışkanlık ne zaman karakter ölçüsü olur?",
+      "paragraphs": [
+        "Weber'in anlattığı ahlak bugün dinsel dil olmadan sürer. Çok çalışan kişi yalnız başarılı değil değerli, işsiz kalan ise yapısal koşullar ne olursa olsun kişisel olarak eksik görülebilir.",
+        "Toplantıda gece yarısına kadar çevrimiçi kalan çalışanın alkışlanması, yorgunluğun bağlılık kanıtına dönüşmesidir. Sonuçtan çok fedakârlık gösterisi ödüllenir.",
+        "Çalışma anlam, ustalık ve toplumsal katkı sağlayabilir. Sorun insan değerinin yalnız üretime bağlanması ve bakım, dinlenme, hastalık gibi hayat parçalarının ahlaki kusur sayılmasıdır.",
+        "İyi iş kültürü çabayı tanır ama sınır, izin ve insanın iş dışındaki değerini de korur. Kafesin kapısı böyle aralanır."
+      ]
+    },
+    {
+      "id": "durak-17-weber-in-yontemi-anlami-ciddiye-almak",
+      "section": "YÖNTEM · SOSYOLOJİ",
+      "title": "Weber'in yöntemi: anlamı ciddiye almak",
+      "paragraphs": [
+        "İnsan davranışını yalnız dış koşulla açıklamak yetmez; insanlar yaptıkları işe hangi anlamı veriyor? Aynı tasarruf, korku, inanç, aile sorumluluğu ya da yatırım hesabından doğabilir.",
+        "İki kişi aynı saatte dükkân açar. Biri borçtan korktuğu, diğeri mesleği kutsal görev saydığı için. Dış hareket aynı, iç anlam farklıdır ve uzun vadeli davranışı değiştirir.",
+        "Anlamı sormak öznel hikâyeyi sorgusuz kabul etmek değildir. Söylenen değer ile gerçek uygulama, kurum ve sonuç karşılaştırılmalıdır.",
+        "Gündelik gözlemde davranışa hemen kişilik etiketi yapıştırmadan, kişinin dünyasında o davranışın ne anlama geldiğini sormak daha derin açıklama sağlar."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Weber 'Protestanlık kapitalizmi yarattı' diye tek nedenli bir denklem kurmaz ve Protestanların doğal olarak daha çalışkan olduğunu söylemez. Belirli inanç yorumlarıyla disiplinli işletme davranışı arasındaki tarihsel yakınlığı araştırır.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Kapitalizmin sömürge, teknoloji ve hukuk kaynakları üzerine araştırmalar Weber'in çerçevesini genişletti. Buna rağmen üretkenliğin ahlaki karaktere dönüşmesi, zamanın ölçülmesi ve anlamını kaybeden disiplinin kurumsal baskı haline gelmesi son derece günceldir.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Çalışmayı yalnız geçim mi, ahlaki değer ölçüsü mü sayıyorum? Ölçtüğüm verim hangi görünmez emeği dışarıda bırakıyor? Başlangıçta seçilmiş bir alışkanlık ne zaman beni zorlayan kuruma dönüştü?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Belirli bir dini çalışma ahlakı modern kapitalizmi tek başına yaratmadı; fakat zamanı, kazancı ve mesleği disiplinli görev sayarak onun kurumlarıyla güçlü biçimde birleşti.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-para-hirsi-kapitalizm-degildir": {
+      "image": "/images/summary-art-103-chapter-01-greed-vs-ledger-v1.webp",
+      "imageCaption": "Tek seferlik zenginlik arzusu ile sürekli hesap ve yeniden yatırıma dayanan kapitalist düzen aynı şey değildir."
+    },
+    "durak-03-kapitalizmin-ruhu-benjamin-franklin-de": {
+      "image": "/images/summary-art-103-chapter-02-franklin-clock-v1.webp",
+      "imageCaption": "Zaman ve kredi disiplininin ekonomik değerleri, çalışkanlığı ahlaki karakter işaretine dönüştürür."
+    },
+    "durak-04-meslek-ayni-zamanda-cagri-olunca": {
+      "image": "/images/summary-art-103-chapter-03-calling-workbench-v1.webp",
+      "imageCaption": "Meslek kutsal çağrı sayıldığında gündelik çalışma yalnız geçim değil ahlaki görev haline gelir."
+    },
+    "durak-05-kaderin-bilinmedigi-korku": {
+      "image": "/images/summary-art-103-chapter-04-predestination-anxiety-v1.webp",
+      "imageCaption": "Kurtuluşun bilinmezliği, insanı düzenli yaşamında seçilmişliğin işaretlerini aramaya itebilir."
+    },
+    "durak-06-dunya-icinde-cilecilik": {
+      "image": "/images/summary-art-103-chapter-05-worldly-ascetic-v1.webp",
+      "imageCaption": "Dünya içindeki çileci çok çalışır ama kazancı haz için tüketmeyip yeniden işe bağlar."
+    },
+    "durak-07-bosa-gecen-dakikanin-gunaha-donusmesi": {
+      "image": "/images/summary-art-103-chapter-06-moral-clock-v1.webp",
+      "imageCaption": "Saat ekonomik planın ötesine geçip her boş dakikayı ahlaki eksik gibi yargılayan vicdana dönüşebilir."
+    },
+    "durak-08-defterin-sessiz-devrimi": {
+      "image": "/images/summary-art-103-chapter-07-double-entry-book-v1.webp",
+      "imageCaption": "Hesap defteri işletmeyi yalnız kaydetmez; görünür kıldığı değerlerle gelecekteki davranışı da yönetir."
+    },
+    "durak-09-kazanc-tuketilmeyince-sermaye-olur": {
+      "image": "/images/summary-art-103-chapter-08-profit-to-capital-v1.webp",
+      "imageCaption": "Tüketilmeyen kazanç tekrar üretime bağlandığında ahlaki tutumluluk sermaye birikimine dönüşebilir."
+    },
+    "durak-10-guvenilir-insanin-kredi-degeri": {
+      "image": "/images/summary-art-103-chapter-09-credit-reputation-v1.webp",
+      "imageCaption": "Güvenilirlik ahlaki övgüden ekonomik krediye dönüşürken görünmez sermaye ve dışlama ölçüsü olabilir."
+    },
+    "durak-11-geleneksel-isci-neden-daha-az-calisabilir": {
+      "image": "/images/summary-art-103-chapter-10-wage-time-choice-v1.webp",
+      "imageCaption": "Daha yüksek ücret her zaman daha çok emek değil, aynı ihtiyacı karşılayıp daha fazla boş zaman seçimi doğurabilir."
+    },
+    "durak-12-ruh-makineyi-kurdu-mu": {
+      "image": "/images/summary-art-103-chapter-11-windmill-affinity-v1.webp",
+      "imageCaption": "Dini ahlak kapitalist rüzgârı tek başına yaratmaz; fakat uygun kanatlar gibi onu belirli yönde güçlendirebilir."
+    },
+    "durak-13-demir-kafes-nasil-kuruldu": {
+      "image": "/images/summary-art-103-chapter-12-iron-cage-v1.webp",
+      "imageCaption": "Bir zamanlar seçilmiş ahlaki disiplin, anlamı unutulunca herkesi zorlayan kurumsal demir kafese dönüşebilir."
+    },
+    "durak-14-avrupa-disindaki-yollar": {
+      "image": "/images/summary-art-103-chapter-13-many-economic-roads-v1.webp",
+      "imageCaption": "Dünya ekonomileri tek Batı yolunun eksik kopyaları değil, farklı tarihsel birleşimlerin ürünüdür."
+    },
+    "durak-15-somurge-ve-zorun-gorunmeyen-payi": {
+      "image": "/images/summary-art-103-chapter-14-ledger-and-colony-v1.webp",
+      "imageCaption": "Düzenli kapitalist defter, hammaddenin arkasındaki sömürge şiddetini ve zorunlu emeği görünmez bırakabilir."
+    },
+    "durak-16-caliskanlik-ne-zaman-karakter-olcusu-olur": {
+      "image": "/images/summary-art-103-chapter-15-hustle-halo-v1.webp",
+      "imageCaption": "Çalışkanlık üretim alışkanlığından çıkıp insanın bütün ahlaki değerini ölçen bir hale dönüşebilir."
+    },
+    "durak-17-weber-in-yontemi-anlami-ciddiye-almak": {
+      "image": "/images/summary-art-103-chapter-16-same-action-two-meanings-v1.webp",
+      "imageCaption": "Aynı ekonomik hareket, insanların ona verdiği farklı anlamlar yüzünden farklı toplumsal yollara bağlanabilir."
+    }
+  }
+}

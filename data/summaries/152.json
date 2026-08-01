@@ -1,0 +1,330 @@
+{
+  "bookNo": 152,
+  "title": "Ulusların Düşüşü",
+  "author": "Daron Acemoğlu & James A. Robinson",
+  "subtitle": "Ülkelerin zenginlik farkını iklim, kültür ya da bilgisizlikten çok; geniş kesimlere fırsat veren kapsayıcı kurumlarla servet ve gücü dar çevrede toplayan sömürücü kurumların tarihsel mücadelesinde arayan canlı ekonomi-politik anlatısı.",
+  "coverImage": "/images/summary-art-152-uluslarin-dususu-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/152-uluslarin-dususu-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#526157",
+  "meta": {
+    "originalTitle": "Why Nations Fail",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Daron Acemoğlu & James A. Robinson tarafından yazılan Ulusların Düşüşü adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Why Nations Fail - Authors' book site",
+      "url": "https://whynationsfail.com/"
+    },
+    {
+      "id": 2,
+      "title": "MIT Economics - Daron Acemoglu",
+      "url": "https://economics.mit.edu/people/faculty/daron-acemoglu"
+    },
+    {
+      "id": 3,
+      "title": "Princeton University Press - Why Nations Fail",
+      "url": "https://press.princeton.edu/books/paperback/9780307719225/why-nations-fail"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Ülkelerin zenginlik farkını iklim, kültür ya da bilgisizlikten çok; geniş kesimlere fırsat veren kapsayıcı kurumlarla servet ve gücü dar çevrede toplayan sömürücü kurumların tarihsel mücadelesinde arayan canlı ekonomi-politik anlatısı.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-ayni-sehir-iki-farkli-hayat",
+      "section": "BAŞLANGIÇ · NOGALES",
+      "title": "Aynı şehir, iki farklı hayat",
+      "paragraphs": [
+        "Nogales'in kuzeyi ABD'de, güneyi Meksika'dadır. İklim, coğrafya ve halkın kökeni benzerdir; gelir, sağlık ve güvenlik farkı ise büyüktür. Yazarlar sınırın iki yanındaki kurumlara bakar.",
+        "Aynı sokağın ortasına çizgi çekip bir yanda güvenilir okul, mahkeme ve altyapı; diğer yanda keyfî yönetim bırakırsanız yıllar sonra evlerin değeri ayrışır. Toprak değil kural farkı birikir.",
+        "Tek örnek bütün dünya teorisini kanıtlamaz. ABD ile Meksika'nın tarihi, dış müdahale ve bölgesel farklılıkları karmaşıktır. Nogales düşünceyi başlatan güçlü karşılaştırmadır.",
+        "Bir bölgenin geriliğini insanına bağlamadan önce hak, kamu hizmeti ve karar gücünün nasıl dağıldığını sormak kitabın ilk dersidir."
+      ]
+    },
+    {
+      "id": "durak-03-kapsayici-kurum-ne-demektir",
+      "section": "BİRİNCİ KISIM · KURUMLAR",
+      "title": "Kapsayıcı kurum ne demektir?",
+      "paragraphs": [
+        "Kapsayıcı ekonomik kurumlar mülkiyet güvenliği, eğitim, sözleşme ve yeni işe girme imkânını geniş kesimlere açar. Siyasi kurumlar da gücü çoğul biçimde dağıtıp devleti yeterince merkezî kılar.",
+        "Mahalle pazarında yalnız belediye başkanının yakını tezgâh açabiliyorsa yetenek boşa gider. Kurallar herkese açıksa daha çok kişi fikir ve emek yatırır.",
+        "Kapsayıcılık kusursuz eşitlik değildir. Tarihte 'kapsayıcı' sayılan ülkeler kadınları, köleleri ve sömürgeleri dışlamıştır. Kavram derece ve mücadele içerir.",
+        "Bir kurumu değerlendirirken kâğıttaki hak kadar sıradan kişinin onu gerçekten kullanıp kullanamadığına bakmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-04-somurucu-kurumun-pompasi",
+      "section": "BİRİNCİ KISIM · KURUMLAR",
+      "title": "Sömürücü kurumun pompası",
+      "paragraphs": [
+        "Sömürücü kurumlar çoğunluğun emeğini ve kaynağını dar bir seçkin gruba taşır. Büyüme kısa süre mümkün olabilir, fakat yenilik ve güven uzun vadede zayıflar.",
+        "Köyün ortak kuyusundan çıkan suyun çoğunu tek malikânenin havuzuna pompaladığınızı düşünün. Sistem çalışıyor görünür, ama tarlalar kurur ve köylü yeni kuyu açmak istemez.",
+        "Her vergi ya da devlet müdahalesi sömürü değildir; mesele yükün ve karar gücünün kime hizmet ettiğidir. Kamu yatırımı ortak kapasiteyi artırabilir.",
+        "Şirket veya devlet analizinde yalnız toplam büyümeye değil, kazancın kimde toplandığına ve yeninin sisteme girebilip giremediğine bakılmalıdır."
+      ]
+    },
+    {
+      "id": "durak-05-merkezi-devlet-neden-yine-de-gerekir",
+      "section": "BİRİNCİ KISIM · SİYASİ GÜÇ",
+      "title": "Merkezî devlet neden yine de gerekir?",
+      "paragraphs": [
+        "Gücü dağıtmak tek başına yetmez; devletin yasa uygulayacak ve kamu hizmeti sunacak kapasitesi de olmalıdır. Aşırı zayıf merkez, yerel silahlı güçlerin ve belirsizliğin alanını açar.",
+        "Hakem hiç yoksa oyun güçlü oyuncunun kuralına döner; hakem tek takıma bağlıysa da adalet bozulur. Hem yetkili hem sınırlı hakem gerekir.",
+        "Merkezileşme otoriterliği otomatik haklı çıkarmaz. Kitabın dengesi, devleti güçlendirirken onu çoğul siyasi denetime bağlamaktır.",
+        "Vergi toplayamayan, afet yönetemeyen ama vatandaşını sıkça cezalandıran devlet güçlü değil seçici kapasiteye sahiptir. Kapasitenin yönü önemlidir."
+      ]
+    },
+    {
+      "id": "durak-06-cografya-hipotezi-neden-yetmiyor",
+      "section": "İKİNCİ KISIM · RAKİP AÇIKLAMALAR",
+      "title": "Coğrafya hipotezi neden yetmiyor?",
+      "paragraphs": [
+        "Sıcak iklim, hastalık ve toprak ekonomiyi etkiler; fakat aynı coğrafyanın farklı dönemlerde zenginleşip yoksullaşması coğrafyanın tek açıklama olamayacağını gösterir.",
+        "Ev aynı yerde dururken bir yönetim döneminde atölye açılıp diğerinde kapatılıyorsa yalnız duvarlara bakmak yetmez. Kredi, güven ve izin düzeni değişmiştir.",
+        "Yazarlar coğrafyanın önemini bazen fazla geri plana iter. Liman, enerji, tarım ve salgın gerçekten uzun iz bırakır. Kurumlar da maddi çevre içinde çalışır.",
+        "Doğru soru 'coğrafya mı kurum mu?' değil, coğrafi fırsat ve risklerin hangi kurumlarca nasıl yönetildiğidir."
+      ]
+    },
+    {
+      "id": "durak-07-kultur-aciklamasi-nerede-eksik-kalir",
+      "section": "İKİNCİ KISIM · RAKİP AÇIKLAMALAR",
+      "title": "Kültür açıklaması nerede eksik kalır?",
+      "paragraphs": [
+        "Din, güven ve çalışma alışkanlığı ekonomik davranışı etkileyebilir. Fakat kültürü değişmez ulusal karakter saymak, kurumların hangi davranışı ödüllendirdiğini ve kültürün zamanla değiştiğini kaçırır.",
+        "Aynı insanlar göç ettikleri ülkede farklı iş kurma ve eğitim sonuçları gösterebilir. İnsan bir gecede kültürünü değiştirmez; karşılaştığı kural ve fırsat değişir.",
+        "Kurum da kültürden bağımsız değildir. Güven olmadan kâğıttaki yasa işlemez; alışkanlıklar kuralları destekler veya bozar. Karşılıklı etkiyi tek yöne indirmek zayıftır.",
+        "Bir toplumu tembel diye etiketlemek yerine tembelliğin rasyonel hale geldiği teşvik ve güvensizlik düzenini araştırmak daha adildir."
+      ]
+    },
+    {
+      "id": "durak-08-cehalet-hipotezinin-rahatligi",
+      "section": "İKİNCİ KISIM · RAKİP AÇIKLAMALAR",
+      "title": "Cehalet hipotezinin rahatlığı",
+      "paragraphs": [
+        "Yoksul ülke yöneticilerinin doğru ekonomi politikasını bilmediği için hata yaptığı düşünülür. Yazarlar çoğu zaman yöneticilerin yanlış politikanın kendi iktidarlarını koruduğunu gayet iyi bildiğini söyler.",
+        "Fabrika sahibi verimsiz makineyi değiştirmiyor olabilir; çünkü eski makineye bağlı tedarik şirketi kendisinindir. Sorun bilgi eksikliği değil çıkar düzenidir.",
+        "Bazı hatalar gerçekten cehalet, yanlış veri ve kapasite eksikliğinden doğar. Her kötü kararı kötü niyete bağlamak komplo kolaylığıdır.",
+        "Politika önerisi verirken yalnız 'ne yapılmalı?' değil, mevcut düzende bunu yapmamak kimin işine geliyor sorusu da sorulmalıdır."
+      ]
+    },
+    {
+      "id": "durak-09-somurgecilik-ve-tersine-donen-servet",
+      "section": "ÜÇÜNCÜ KISIM · TARİH",
+      "title": "Sömürgecilik ve tersine dönen servet",
+      "paragraphs": [
+        "Avrupalılar yoğun ve zengin yerli nüfus bulunan bölgelerde emeği sömüren kurumlar kurdu; seyrek yerleşimli bazı kolonilerde göçmenlere daha geniş haklar vermek zorunda kaldı. Eski zenginlik sıralaması zamanla tersine dönebildi.",
+        "Hazır dolu depoya gelen fatih kilidi ele geçirir; boş arazide üretim için insanları çalışmaya ikna etmek zorundadır. Başlangıç nüfusu kurum biçimini etkiler.",
+        "Tersine dönüş tezi güçlü ama bütün kolonileri aynı kalıba sığdırmaz. Hastalık, yerli direniş, kölelik ve küresel ticaret yolları ayrıntıyı değiştirir.",
+        "Bugünkü eşitsizliği yalnız bugünün politikasına bakarak anlamak zor olabilir; mülkiyet ve vergi düzeninin sömürge kökü hâlâ çalışabilir."
+      ]
+    },
+    {
+      "id": "durak-10-sanli-devrim-ve-pazarlik-gucu",
+      "section": "ÜÇÜNCÜ KISIM · İNGİLTERE",
+      "title": "Şanlı Devrim ve pazarlık gücü",
+      "paragraphs": [
+        "1688 Şanlı Devrimi parlamentonun krala karşı gücünü artırdı. Mülkiyet, vergi ve ticaret kuralları daha geniş çıkar koalisyonunun pazarlığına açıldı; yenilik için güven büyüdü.",
+        "Şirket kasasının tek patronun cebinden yönetilmesiyle denetim kurulunun bütçe onayı vermesi farklıdır. Güç tek elde değil pazarlık masasında dağılır.",
+        "Bu süreç halk egemenliğinin tam zaferi değildi; oy hakkı dar, sömürge ve kölelik sürdü. Kapsayıcılık kademeli ve çelişkiliydi.",
+        "Kurum değişiminde kusursuz anayasa anından çok, farklı grupların birbirini sınırlayabildiği kalıcı pazarlık mekanizması önemlidir."
+      ]
+    },
+    {
+      "id": "durak-11-yaratici-yikimdan-kim-korkar",
+      "section": "DÖRDÜNCÜ KISIM · YENİLİK",
+      "title": "Yaratıcı yıkımdan kim korkar?",
+      "paragraphs": [
+        "Yeni teknoloji toplam refahı artırabilir ama eski ayrıcalıkları yıkar. Siyasi seçkinler güç kaybetmekten korkarsa verimli icadı engelleyebilir; ekonomik yenilik siyasi tehdide dönüşür.",
+        "Matbaa kitabı ucuzlatır ama bilgiyi denetleyen kâtip ve otoritenin tekelini bozar. Yasak, teknolojinin işe yaramamasından değil fazla işe yaramasından doğabilir.",
+        "Her düzenlemeyi yenilik düşmanlığı saymak yanlış olur. Güvenlik, emek ve çevre için sınır gerekebilir. Soru korumanın kamu yararı mı ayrıcalık mı olduğudur.",
+        "Yapay zekâ tartışmasında da kazanan ve kaybedenlerin siyasi gücü teknolojinin hangi yönde uygulanacağını belirler."
+      ]
+    },
+    {
+      "id": "durak-12-kritik-donemecte-kucuk-fark",
+      "section": "DÖRDÜNCÜ KISIM · TARİHSEL SAPMA",
+      "title": "Kritik dönemeçte küçük fark",
+      "paragraphs": [
+        "Savaş, salgın, ticaret yolu ya da teknoloji gibi kritik dönemeçler mevcut kurumları sarsar. Birbirine benzeyen toplumlar bu anda küçük güç farkları yüzünden farklı yollara girebilir.",
+        "Aynı yönde giden iki tren makasta birkaç santimetrelik ray farkıyla ayrı kıtalara ulaşır. Başlangıçta küçük olan karar, geri beslemeyle büyür.",
+        "Kritik dönemeç her şeyi mümkün kılmaz; geçmiş kurumlar hangi seçeneklerin masada olduğunu belirler. Tarih ne tamamen kader ne boş sayfadır.",
+        "Kriz anında geçici düzenlemenin kalıcı güç dengesine dönüşebileceğini bilmek, olağanüstü yetkileri dikkatle tasarlamayı gerektirir."
+      ]
+    },
+    {
+      "id": "durak-13-erdemli-ve-kisir-donguler",
+      "section": "DÖRDÜNCÜ KISIM · GERİ BESLEME",
+      "title": "Erdemli ve kısır döngüler",
+      "paragraphs": [
+        "Kapsayıcı kurumlar yeni gruplara güç verip daha fazla kapsayıcılık talebi doğurabilir; sömürücü kurumlar ise zenginliği siyasal güce, gücü yeni zenginliğe çevirerek kapanır.",
+        "Dönen kapıya bir kez giren ayrıcalıklı kişi hem giriş ücretini alıyor hem kimin gireceğine karar veriyorsa döngü kendini besler.",
+        "Döngü kırılmaz yasa değildir. Koalisyon, kriz ve liderlik yön değiştirebilir. Aksi halde reform imkânsız olurdu.",
+        "Yolsuzlukla mücadelede tek kişiyi değiştirmek yerine para ile karar gücünü tekrar birbirine bağlayan döngüyü kesmek gerekir."
+      ]
+    },
+    {
+      "id": "durak-14-botsvana-neden-onemli-ornek",
+      "section": "BEŞİNCİ KISIM · AFRİKA",
+      "title": "Botsvana neden önemli örnek?",
+      "paragraphs": [
+        "Yazarlar Botsvana'nın bağımsızlık sonrasında daha çoğul kurumlar, sınırlı seçkin gücü ve elmas gelirini görece düzenli yönetmesiyle bölgesinden ayrıldığını anlatır.",
+        "Aynı değerli kaynağa sahip iki kasabadan biri geliri okul ve yola, diğeri yönetici sarayına harcarsa kaynak aynı kalır ama gelecek ayrışır.",
+        "Botsvana başarı hikâyesi eşitsizlik, yerli halk hakları ve ekonomik çeşitlenme sorunlarını silmemelidir. Örnek kusursuz model değildir.",
+        "Doğal kaynak kader değil kurum sınavıdır. Gelirin kayıt, denetim ve uzun vadeli yatırıma bağlanması belirleyicidir."
+      ]
+    },
+    {
+      "id": "durak-15-cin-buyumesi-teoriyi-zorluyor-mu",
+      "section": "BEŞİNCİ KISIM · OTORİTER BÜYÜME",
+      "title": "Çin büyümesi teoriyi zorluyor mu?",
+      "paragraphs": [
+        "Çin uzun süre siyasi olarak kapsayıcı olmadan büyük ekonomik büyüme gösterdi. Yazarlar sömürücü kurumların kaynakları verimli alana yönlendirerek büyüyebileceğini, fakat yaratıcı yıkım korkusuyla sınır yaşayacağını savunur.",
+        "Tek patron fabrikayı hızla modernleştirebilir; çalışanların yeni fikirle patronun yerini tehdit etmesine izin vermeyebilir. Taklit ve yatırım büyür, bağımsız yenilik sınırla karşılaşır.",
+        "Çin'in devam eden teknolojik kapasitesi bu öngörüyü canlı tartışma haline getirir. Teori sonucu önceden ilan etmek yerine gelişmeyle sınanmalıdır.",
+        "Otoriter verim ile özgürlük arasındaki ilişki tek yıllık büyüme rakamıyla ölçülmez; kriz düzeltme, bilgi açıklığı ve haklar da hesaba katılmalıdır."
+      ]
+    },
+    {
+      "id": "durak-16-yardim-neden-bazen-duvara-carpar",
+      "section": "ALTINCI KISIM · POLİTİKA",
+      "title": "Yardım neden bazen duvara çarpar?",
+      "paragraphs": [
+        "Dış yardım okul ve sağlık sağlayabilir; fakat yerel seçkinler kaynağı kontrol ediyorsa sömürücü düzeni güçlendirebilir. Teknik para siyasi teşviki tek başına değiştirmez.",
+        "Delik kovaya daha çok su dökmek susuzluğu kısa süre azaltır ama deliği kapatmaz. Kovanın kimde olduğu da değişmiyorsa akış eski yere gider.",
+        "Bu, yardımı kesmek için kolay mazeret olmamalıdır. Aşı, afet ve doğrudan hizmet hayat kurtarır. Tasarımda yerel hesap verebilirlik ve sonuç ölçümü gerekir.",
+        "Reform reçetesi yalnız doğru politikayı yazmak değil, değişimden yarar görecek grupların söz ve örgüt gücünü büyütmektir."
+      ]
+    },
+    {
+      "id": "durak-17-tek-recete-neden-yok",
+      "section": "ALTINCI KISIM · DEĞİŞİM",
+      "title": "Tek reçete neden yok?",
+      "paragraphs": [
+        "Kurumlar tarihsel koalisyonlardan doğduğu için başka ülkeden kopyalanan anayasa aynı sonucu vermeyebilir. Değişim, yerel güç dengesini ve kritik dönemeçleri anlamayı ister.",
+        "Başka evin anahtarı sizin kapınıza benziyor diye kilidi açmaz. Dişlerin küçük farkı belirleyicidir. Kurum adı aynı, işleyişi farklı olabilir.",
+        "Bu tarih vurgusu kaderciliğe dönüşmemelidir. Yurttaş örgütlenmesi, bağımsız bilgi ve kademeli denetim gerçek değişim yollarıdır.",
+        "Politika danışmanlığında başarı yalnız yasa çıkarmak değil, yasanın arkasında onu koruyacak çıkar ve kapasite kurmaktır."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Kitap 'iyi kurum koy, ülke hemen zenginleşir' şeklinde basit reçete vermez. Kurumlar güç mücadelesi ve tarihsel dönemeçlerden doğar. Kültür ve coğrafyayı tamamen önemsiz saymak da metnin vurgusunu aşırılaştırır; yazarların iddiası bunların tek başına yeterli olmadığıdır.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Otoriter Çin'in yenilik kapasitesi, iklim riski ve küresel tedarik zincirleri kurum teorisini yeni sınavlara sokuyor. Kapsayıcılığın yalnız mülkiyet değil sağlık, cinsiyet, dijital erişim ve çevresel adalet boyutlarıyla genişletilmesi gerekiyor.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Ekonomik fırsat gerçekten kimlere açık? Bu verimsiz kuralı sürdürmek kimin siyasi çıkarına yarıyor? Kriz anında verilen geçici yetki nasıl kalıcı kurumsal döngüye dönüşebilir?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Uzun vadeli refah, insanların yetenek ve fikirlerini kullanmasına izin veren ekonomik fırsatlarla, gücü denetleyen çoğul siyasi kurumların aynı anda var olmasına bağlıdır.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-ayni-sehir-iki-farkli-hayat": {
+      "image": "/images/summary-art-152-chapter-01-two-nogales-v1.webp",
+      "imageCaption": "Aynı coğrafyanın iki yanında farklı kurumlar zamanla farklı yaşam imkânları üretir."
+    },
+    "durak-03-kapsayici-kurum-ne-demektir": {
+      "image": "/images/summary-art-152-chapter-02-open-market-gate-v1.webp",
+      "imageCaption": "Kapsayıcı düzen fırsat kapısını yalnız seçkinlere değil, yeni fikir ve emek getiren geniş kesimlere açar."
+    },
+    "durak-04-somurucu-kurumun-pompasi": {
+      "image": "/images/summary-art-152-chapter-03-extractive-pump-v1.webp",
+      "imageCaption": "Sömürücü kurum ortak üretimin suyunu dar bir seçkin havuzuna pompalarken gelecekteki üretim isteğini kurutur."
+    },
+    "durak-05-merkezi-devlet-neden-yine-de-gerekir": {
+      "image": "/images/summary-art-152-chapter-04-referee-and-rules-v1.webp",
+      "imageCaption": "İşleyen toplum hem kuralı uygulayacak güçlü hakeme hem hakemin taraf tutmasını önleyecek denetime ihtiyaç duyar."
+    },
+    "durak-06-cografya-hipotezi-neden-yetmiyor": {
+      "image": "/images/summary-art-152-chapter-05-same-land-new-rules-v1.webp",
+      "imageCaption": "Aynı toprak farklı kurum dönemlerinde farklı sonuç veriyorsa harita tek başına kader değildir."
+    },
+    "durak-07-kultur-aciklamasi-nerede-eksik-kalir": {
+      "image": "/images/summary-art-152-chapter-06-migrant-two-systems-v1.webp",
+      "imageCaption": "Aynı kültürel geçmişe sahip insanlar farklı kurumlarda farklı ekonomik davranış ve sonuçlar gösterebilir."
+    },
+    "durak-08-cehalet-hipotezinin-rahatligi": {
+      "image": "/images/summary-art-152-chapter-07-wrong-map-profitable-v1.webp",
+      "imageCaption": "Bazen kötü politika bilinmediği için değil, verimsizliğin güçlü kişilere yarar sağladığı için sürer."
+    },
+    "durak-09-somurgecilik-ve-tersine-donen-servet": {
+      "image": "/images/summary-art-152-chapter-08-reversal-of-fortune-v1.webp",
+      "imageCaption": "Sömürgeciler hazır nüfusu sömürebildikleri yerde dar, yerleşim için emek çekmeleri gereken yerde daha geniş haklar kurabildi."
+    },
+    "durak-10-sanli-devrim-ve-pazarlik-gucu": {
+      "image": "/images/summary-art-152-chapter-09-parliament-checks-crown-v1.webp",
+      "imageCaption": "Krala karşı güçlenen parlamento, ekonomi kurallarını tek sarayın çıkarından daha geniş pazarlığa açtı."
+    },
+    "durak-11-yaratici-yikimdan-kim-korkar": {
+      "image": "/images/summary-art-152-chapter-10-creative-destruction-v1.webp",
+      "imageCaption": "Yeni makine yalnız eski işi değil, o işin çevresindeki siyasi ayrıcalığı da tehdit ettiği için engellenebilir."
+    },
+    "durak-12-kritik-donemecte-kucuk-fark": {
+      "image": "/images/summary-art-152-chapter-11-railway-junction-v1.webp",
+      "imageCaption": "Kritik dönemeçte küçük kurumsal fark, geri beslemeyle toplumları çok uzak yollara taşıyabilir."
+    },
+    "durak-13-erdemli-ve-kisir-donguler": {
+      "image": "/images/summary-art-152-chapter-12-virtuous-vicious-wheels-v1.webp",
+      "imageCaption": "Kurumlar güç ve serveti birbirine geri bağlayarak hem açılan hem kapanan döngüler yaratabilir."
+    },
+    "durak-14-botsvana-neden-onemli-ornek": {
+      "image": "/images/summary-art-152-chapter-13-diamond-revenue-v1.webp",
+      "imageCaption": "Elmasın değeri aynı olabilir; onu yöneten kurum gelirden ortak kapasite ya da dar ayrıcalık üretebilir."
+    },
+    "durak-15-cin-buyumesi-teoriyi-zorluyor-mu": {
+      "image": "/images/summary-art-152-chapter-14-china-growth-test-v1.webp",
+      "imageCaption": "Merkezî güç hızlı yatırım sağlayabilir; aynı güç kendisini tehdit edecek bağımsız yenilik ve eleştiriyi sınırlayabilir."
+    },
+    "durak-16-yardim-neden-bazen-duvara-carpar": {
+      "image": "/images/summary-art-152-chapter-15-leaking-aid-bucket-v1.webp",
+      "imageCaption": "Kaynak akışı, onu yöneten çıkar düzeni değişmezse delik kovada eski ayrıcalıklara sızabilir."
+    },
+    "durak-17-tek-recete-neden-yok": {
+      "image": "/images/summary-art-152-chapter-16-borrowed-key-v1.webp",
+      "imageCaption": "Başka ülkenin kurumsal anahtarı, adı aynı olsa da yerel güç kilidine doğrudan uymayabilir."
+    }
+  }
+}

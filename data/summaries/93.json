@@ -1,0 +1,330 @@
+{
+  "bookNo": 93,
+  "title": "Leviathan",
+  "author": "Thomas Hobbes",
+  "subtitle": "İnsanların korku, rekabet ve güvensizlik içinde birbirine zarar verebildiği bir dünyadan yola çıkıp barışı sağlayacak ortak gücün neden gerekli olduğunu savunan; güvenlik uğruna iktidara ne kadar yetki verilebileceğini hâlâ tartıştıran siyaset klasiği.",
+  "coverImage": "/images/summary-art-93-leviathan-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/93-leviathan-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4E5963",
+  "meta": {
+    "originalTitle": "Leviathan",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Thomas Hobbes tarafından yazılan Leviathan adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Project Gutenberg - Leviathan",
+      "url": "https://www.gutenberg.org/ebooks/3207"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Hobbes's Moral and Political Philosophy",
+      "url": "https://plato.stanford.edu/entries/hobbes-moral/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Thomas Hobbes",
+      "url": "https://iep.utm.edu/hobmoral/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "İnsanların korku, rekabet ve güvensizlik içinde birbirine zarar verebildiği bir dünyadan yola çıkıp barışı sağlayacak ortak gücün neden gerekli olduğunu savunan; güvenlik uğruna iktidara ne kadar yetki verilebileceğini hâlâ tartıştıran siyaset klasiği.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-yapay-insanin-dev-govdesi",
+      "section": "GİRİŞ · LEVİATHAN",
+      "title": "Yapay insanın dev gövdesi",
+      "paragraphs": [
+        "Kapaktaki dev hükümdarın bedeni binlerce küçük yurttaştan oluşur. Devlet doğal bir yaratık değil, insanların güvenlik için kurduğu yapay insandır; egemen onun ruhu, memurlar eklemleri, yasalar aklıdır.",
+        "Bir şirket logosu tek görünür figürdür ama arkasında binlerce çalışan vardır. Leviathan da tek taç gibi görünse de gücünü onu yetkilendiren insanların birleşiminden alır.",
+        "Benzetme devleti kutsal ve değişmez olmaktan çıkarır; fakat yapay insanın başını aşırı büyütüp yurttaş bedenini sessizleştirme tehlikesi taşır.",
+        "Bugün devletin veri, polis ve hukuk gücünü tartışırken aynı soruya döneriz: Ortak beden bizi korurken başı nasıl denetleyeceğiz?"
+      ]
+    },
+    {
+      "id": "durak-03-insan-makinesi-nasil-isler",
+      "section": "BİRİNCİ KISIM · İNSAN",
+      "title": "İnsan makinesi nasıl işler?",
+      "paragraphs": [
+        "Hobbes düşünce, arzu ve korkuyu bedensel hareketlerle açıklar. İnsan kendine iyi gelen şeye yönelir, zarar verecek olandan kaçar; akıl amaç seçen kraldan çok sonuç hesabı yapan araçtır.",
+        "Market rafında eliniz bir ürüne uzanırken tat beklentisi, fiyat, sağlık kaygısı ve alışkanlık aynı bedende yarışır. Karar saf düşünceden değil hareket eden eğilimlerin bileşiminden çıkar.",
+        "Bu mekanik insan tasviri sevgi ve özveriyi bütünüyle dışlamaz; insanlar başkasının iyiliğini de isteyebilir. Fakat Hobbes siyaseti en kötü ihtimale dayanacak kadar sağlam kurmak ister.",
+        "Kurum tasarımında insanların her zaman iyi niyetli olacağını varsaymamak karamsarlık değil, hata payı bırakmaktır. Yine de insanı yalnız çıkar makinesine indirgemek işbirliğinin zenginliğini kaçırır."
+      ]
+    },
+    {
+      "id": "durak-04-esitlik-neden-huzur-degil-tehlike-getirir",
+      "section": "BİRİNCİ KISIM · DOĞA DURUMU",
+      "title": "Eşitlik neden huzur değil tehlike getirir?",
+      "paragraphs": [
+        "İnsanlar güç ve yetenek bakımından tam eşit değildir; fakat en zayıf kişi bile plan ve ittifakla en güçlüyü öldürebilir. Bu karşılıklı incinebilirlik herkesin birbirinden korkmasına yol açar.",
+        "Aynı odada herkesin birbirinin kasasını açabilecek anahtarı olduğunu düşünün. Kimse mutlak üstün değildir; bu yüzden herkes gece önce davranmayı düşünebilir.",
+        "Hobbes'un eşitliği demokratik saygıdan değil, zarar verme kapasitesinden doğar. Karanlık ama önemli nokta, güç farkı olsa bile hiç kimsenin tamamen güvende olmadığıdır.",
+        "Silah ve siber saldırı çağında küçük aktörlerin büyük sisteme zarar verebilmesi bu karşılıklı kırılganlığı yeni biçimde hatırlatır."
+      ]
+    },
+    {
+      "id": "durak-05-rekabet-guvensizlik-ve-san",
+      "section": "BİRİNCİ KISIM · ÇATIŞMA",
+      "title": "Rekabet, güvensizlik ve şan",
+      "paragraphs": [
+        "Hobbes çatışmanın üç kaynağını sayar: Kazanç için rekabet, güvenlik için güvensizlik ve itibar için şan. İnsan yalnız istediği şeyi almak için değil, saldırıya uğramadan önce saldırmak ve küçümsenmemek için de savaşabilir.",
+        "İki komşu birbirinin çit büyüttüğünü görünce savunma için daha yüksek çit yapar. Her biri güvenlik ararken sokak kaleye döner. Niyet savunma, ortak sonuç güvensizliktir.",
+        "Şan boyutu maddi çıkarın yetmediğini gösterir. Küçük bir hakaret büyük kavgayı tetikleyebilir; insanın başkasının gözündeki yeri gerçek kaynak kadar önemlidir.",
+        "Çatışma çözümünde yalnız para paylaşımını değil, güvence ve saygınlık ihtiyacını da görmek bu üçlüden kalan pratik derstir."
+      ]
+    },
+    {
+      "id": "durak-06-savas-yalniz-catisma-ani-degildir",
+      "section": "BİRİNCİ KISIM · DOĞA DURUMU",
+      "title": "Savaş yalnız çatışma anı değildir",
+      "paragraphs": [
+        "Doğa durumunda savaş sürekli kılıç sallamak değil, saldırı ihtimalinin herkesin hesabını belirlediği dönemdir. Fırtınalı hava tek tek yağmur damlaları değil, uzun süren tehdit koşuludur.",
+        "Gece açık bir otoparkta hiç saldırı olmasa bile sürekli tetikte yürüyorsanız güvenlik yoktur. Barış yalnız kavga olmaması değil, kavga beklememek için makul güven taşımaktır.",
+        "Hobbes tarih öncesi bütün insanların gerçekten böyle yaşadığını kanıtlamaz; doğa durumu siyasi otorite kalktığında neyin mümkün olduğunu gösteren düşünce deneyidir.",
+        "Kırılgan devletlerde yol, ticaret ve eğitim yalnız gerçekleşen şiddetten değil, şiddet beklentisinden de çöker. Güven ekonomik altyapıdır."
+      ]
+    },
+    {
+      "id": "durak-07-kotu-kisa-ve-yalniz-hayat",
+      "section": "BİRİNCİ KISIM · GÜVENSİZLİK",
+      "title": "Kötü, kısa ve yalnız hayat",
+      "paragraphs": [
+        "Ortak güvence olmadığında tarım, denizcilik, sanat ve bilgi birikimi zayıflar; çünkü kimse emeğinin ürününü yarın koruyacağından emin değildir. Hobbes'un ünlü karanlık hayat tasviri buradan çıkar.",
+        "Her gece dükkânınızın yağmalanabileceği yerde yeni makineye yatırım yapmazsınız. Üretim isteksizlikten değil, geleceğe güven eksikliğinden durur.",
+        "Bu tablo devlet öncesi toplumları haksız biçimde kaba gösterebilir. Antropoloji, merkezi devlet olmadan norm ve işbirliği kuran birçok topluluk gösterir.",
+        "Yine de mülkiyet, sözleşme ve gelecek planının güvenlik kurumlarına bağlı olduğu açıktır. Barış, kültür ve ekonomi için görünmez zemin sağlar."
+      ]
+    },
+    {
+      "id": "durak-08-doga-yasalarinin-baris-yolu",
+      "section": "BİRİNCİ KISIM · AKIL",
+      "title": "Doğa yasalarının barış yolu",
+      "paragraphs": [
+        "İnsan yalnız korkan varlık değildir; akıl barış için kurallar bulur. Barışı ara, gerektiğinde kendini savun, başkaları da razıysa sınırsız haklarının bir bölümünden vazgeç ve sözleşmeye uy.",
+        "Dar kapıdan herkes aynı anda geçmeye çalışırsa kimse geçemez. Sıraya girmek küçük özgürlükten vazgeçip daha büyük hareket imkânı kazanmaktır.",
+        "Doğa yasaları ahlaki yön verir ama zorlayıcı güç yoksa kırılgandır. Ben sözümü tutarken başkasının tutmayacağından korkarsam ilk adımı atmak istemem.",
+        "İklim, trafik ve dijital mahremiyet gibi ortak sorunlarda kuralın yararı açıktır; güvenilir uygulama ve karşılıklılık olmadan iyi niyet dağılır."
+      ]
+    },
+    {
+      "id": "durak-09-kilicsiz-sozlesme-neden-yalniz-sozdur",
+      "section": "İKİNCİ KISIM · DEVLET",
+      "title": "Kılıçsız sözleşme neden yalnız sözdür?",
+      "paragraphs": [
+        "Hobbes'a göre sözleşmeleri uygulayacak ortak güç yoksa vaatler güven vermez. Ceza ihtimali, sözün yalnız bugünkü niyete değil yarınki çıkar değişimine karşı da dayanmasını sağlar.",
+        "Hakemsiz maçta iki takım kurala uyacağına söz verse bile kritik anda faul tartışması çıkar. Hakem oyunu yaratmaz ama ortak kuralı uygulanabilir kılar.",
+        "Yalnız korkuya dayalı uyum uzun vadede yetersizdir. Meşruiyet, adalet ve içselleşmiş normlar da kurumun dayanıklılığını artırır. Hobbes yaptırımın ağırlığını öne çıkarır.",
+        "Sözleşme tasarımında ceza kadar açık süreç, tarafsız denetim ve itiraz yolu bulunmalıdır. Kılıç kimin elindeyse onun da kurala bağlanması modern eklemedir."
+      ]
+    },
+    {
+      "id": "durak-10-herkesin-herkesi-temsil-eden-kisi",
+      "section": "İKİNCİ KISIM · EGEMEN",
+      "title": "Herkesin herkesi temsil eden kişi",
+      "paragraphs": [
+        "Toplum sözleşmesi bireylerin egemenle değil birbirleriyle yaptığı yetkilendirmedir. Herkes ortak temsilcinin kararını kendi eylemi saymayı kabul eder; çokluk tek siyasi kişiye dönüşür.",
+        "Apartman sakinleri yöneticiyi seçip bakım bütçesi için imza yetkisi verir. Yönetici tek başına bina değildir ama dağınık kararları ortak eyleme çevirir.",
+        "Hobbes egemen sözleşmenin tarafı olmadığı için ona karşı ihlal iddiasını çok dar tutar. Bu, temsilcinin hesap vermeden temsil edilenlerin üstüne çıkmasına yol açar.",
+        "Modern temsil anlayışı yetkilendirmeyi süreli, sınırlı ve geri alınabilir yapar. Temsil, boş çek değil belirlenmiş görevdir."
+      ]
+    },
+    {
+      "id": "durak-11-bolunmez-egemenlik-iddiasi",
+      "section": "İKİNCİ KISIM · GÜÇ",
+      "title": "Bölünmez egemenlik iddiası",
+      "paragraphs": [
+        "Hobbes yasama, yargı, savaş, vergi ve öğretim gücünün bölünmesini iç savaş daveti sayar. Son sözü kimin söylediği belirsizse rakip otoriteler yeniden doğa durumuna döner.",
+        "Aynı gemide iki kaptan zıt yönde dümen çevirirse fırtınada karar felç olur. Hobbes tek komuta hattını barışın koşulu görür.",
+        "Fakat bütün gücü bir elde toplamak yanlış kararı ve zulmü büyütebilir. Modern güçler ayrılığı çatışmayı yok etmek yerine kurallı ve denetimli hale getirir.",
+        "Kurum tasarımındaki gerçek soru birlik mi bölünme mi değil; karar hızını kötüye kullanımı önleyen frenlerle nasıl dengeleyeceğimizdir."
+      ]
+    },
+    {
+      "id": "durak-12-ozgurluk-yasanin-sustugu-yerde-mi",
+      "section": "İKİNCİ KISIM · ÖZGÜRLÜK",
+      "title": "Özgürlük yasanın sustuğu yerde mi?",
+      "paragraphs": [
+        "Hobbes özgürlüğü dış engelin yokluğu olarak tanımlar. Yasanın düzenlemediği alanda kişi istediğini yapabilir; yasa ile özgürlük suyun kıyıları gibi birbirini sınırlar.",
+        "Şehirde yol kuralı hızınızı kısıtlar ama herkesin hareket edebilmesini sağlar. Kuralın varlığı her özgürlüğü yok etmez; bazı özgürlükleri mümkün kılar.",
+        "Hobbes düşünce alanını geniş bıraksa da kamusal itaatsizliği daraltır. Yasal olanın adil olduğu varsayımı baskıcı yönetimde sorun çıkarır.",
+        "Modern özgürlük yalnız engel yokluğu değil, hak, fırsat ve keyfî güce karşı korunma anlamı da taşır. Hobbes başlangıç noktası verir, son söz değil."
+      ]
+    },
+    {
+      "id": "durak-13-canini-koruma-hakkinin-siniri",
+      "section": "İKİNCİ KISIM · İTAAT",
+      "title": "Canını koruma hakkının sınırı",
+      "paragraphs": [
+        "Birey güvenlik için haklarını devreder, fakat kendi yaşamını doğrudan yok etmeye zorlandığında direnme hakkını bütünüyle kaybetmez. Kimse kendini öldürme emrine gönüllü sözleşmeyle bağlayamaz.",
+        "Devlet sizi korumak için vardır; doğrudan uçurumdan atlamanızı emrettiğinde sözleşmenin amacı tersine döner. Bedenin kendini koruma dürtüsü devrin son sınırıdır.",
+        "Bu sınır Hobbes'un mutlak egemenliğinde küçük ama önemli çatlak açar. Güvenlik egemeni kuruyorsa egemenin güvenliği yok eden eylemi meşruiyeti sorgulatır.",
+        "Vicdani ret, ölüm cezası ve olağanüstü hâl tartışmalarında kişisel korunma ile ortak güvenlik arasındaki düğüm sürer."
+      ]
+    },
+    {
+      "id": "durak-14-din-ile-devlet-ayni-kursude",
+      "section": "ÜÇÜNCÜ VE DÖRDÜNCÜ KISIM · DİN",
+      "title": "Din ile devlet aynı kürsüde",
+      "paragraphs": [
+        "Hobbes rakip dini otoritelerin yurttaşın sadakatini bölerek iç savaşı körüklemesinden korkar. Kutsal metnin kamusal yorumunu egemenin denetimine vermek ister.",
+        "Aynı okulda iki müdür birbirine zıt emir verirse öğretmen kime uyacağını bilemez. Hobbes kilise ile devletin çatışmasını böyle bir çift komuta sorunu görür.",
+        "Çözümü din özgürlüğünü ciddi biçimde daraltabilir ve siyasi gücü hakikat hakemi yapabilir. Barış adına inancı devletleştirmek vicdanı baskılar.",
+        "Modern laiklik farklı bir yol arar: Devlet tek mezhebin aracı olmaz, inanç da kamusal şiddet yetkisini ele geçirmez. Ayrım, tekleştirmeden barış kurmayı amaçlar."
+      ]
+    },
+    {
+      "id": "durak-15-mulkiyet-egemenden-once-var-mi",
+      "section": "İKİNCİ KISIM · MÜLKİYET",
+      "title": "Mülkiyet egemenden önce var mı?",
+      "paragraphs": [
+        "Hobbes'a göre güvenilir mülkiyet devletin yasasıyla oluşur. Ortak güç yoksa 'benim' dediğiniz şeyi koruyacak kesin hak da yoktur; sahiplik toplumsal düzenin ürünüdür.",
+        "Issız yerde toprağa tabela dikmek başkalarını bağlamaz. Tapu, sınır, mahkeme ve kayıt sistemi tabelayı mülkiyete çevirir.",
+        "Bu görüş devletin mülkiyete keyfî el koymasını haklı çıkarabilir. Modern hukuk mülkiyeti devletçe tanırken devleti de anayasa ve haklarla sınırlar.",
+        "Dijital varlık ve veri sahipliği tartışmalarında aynı ders görülür: Teknik kontrol tek başına hak değildir; ortak tanım ve uyuşmazlık çözümü gerekir."
+      ]
+    },
+    {
+      "id": "durak-16-ic-savasin-golgesinde-yazilan-kitap",
+      "section": "TARİHSEL BAĞLAM · KORKU",
+      "title": "İç savaşın gölgesinde yazılan kitap",
+      "paragraphs": [
+        "Leviathan İngiliz İç Savaşı'nın idam, bölünme ve rejim değişikliği ortamında yazıldı. Hobbes için anarşi soyut korku değil yaşanmış siyasi çöküştü.",
+        "Yangından yeni çıkmış kişinin bina yönetmeliğinde güvenliği her şeyin önüne koyması anlaşılırdır. Kişisel tarih hangi riski en büyük gördüğümüzü etkiler.",
+        "Bağlam fikri açıklar ama zorunlu kılmaz. Aynı iç savaşı yaşayan biri özgürlüğü, diğeri düzeni öne çıkarabilir. Tarih yazarın sorusunu biçimlendirir, cevabı tek başına üretmez.",
+        "Kriz dönemlerinde toplumların güçlü lidere yönelmesi Hobbesçu refleksi canlandırır. Asıl sınav, olağanüstü yetkinin kriz bitince geri dönüp dönmediğidir."
+      ]
+    },
+    {
+      "id": "durak-17-guvenlik-icin-ne-kadar-ozgurluk",
+      "section": "ELEŞTİRİ · MUTLAKLIK",
+      "title": "Güvenlik için ne kadar özgürlük?",
+      "paragraphs": [
+        "Hobbes barışın değerini berrak biçimde gösterir, fakat egemene verdiği geniş yetki güvenliği iktidarın tanımına bırakır. Susturulan yurttaşın sessizliği barış gibi görünebilir.",
+        "Evde kavga çıkmasın diye tek kişinin konuştuğu düzen sakin olabilir ama adil değildir. Çatışmanın yokluğu ile özgür barış aynı değildir.",
+        "Mutlak güç doğru karar garantisi vermez; bilgi hatası, çıkar ve korku yöneticiyi de etkiler. Denetimsiz Leviathan, koruyacağı bedeni ezebilir.",
+        "Hobbes'un kalıcı katkısını mutlak egemenlik değil, güvenliğin ortak kurum gerektirdiği sorusu olarak almak daha verimlidir. Modern cevap güvenlik ile hakları birlikte kurmalıdır."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Hobbes 'insan doğası yalnız kötüdür' demekten daha inceliklidir. Sorun insanların sürekli saldırgan olması değil, ortak güvence yokken saldırı ihtimalinin herkesi önleyici davranmaya zorlamasıdır. Kitap mutlak devleti savunsa da korkunun nedenini anlamak savunuyu kabul etmeyi gerektirmez.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Anayasal hukuk, güçler ayrılığı ve insan hakları Hobbes'un bölünmez egemenliğine güçlü alternatifler kurdu. Yine de çöken devletlerde güvenlik, dijital alanlarda ortak yaptırım ve kriz döneminde yetki soruları Leviathan'ın temel düğümünü güncel tutuyor.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Kuralı uygulayacak güvenilir ortak güç var mı? Güvenlik için verdiğim yetki nasıl denetleniyor ve geri alınabiliyor? Ortadaki sessizlik gerçek barış mı, yoksa korkudan konuşamayan insanların sessizliği mi?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İnsanları ortak kurala bağlayan güvenilir güç olmadan barış kırılgandır; fakat güvenliği sağlayan Leviathan denetlenmezse koruyucu olmaktan çıkıp yeni tehdide dönüşebilir.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-yapay-insanin-dev-govdesi": {
+      "image": "/images/summary-art-93-chapter-01-leviathan-body-v1.webp",
+      "imageCaption": "Dev devlet gövdesi tek hükümdardan değil, güvenlik için birleşmiş küçük yurttaş bedenlerinden oluşur."
+    },
+    "durak-03-insan-makinesi-nasil-isler": {
+      "image": "/images/summary-art-93-chapter-02-human-machine-v1.webp",
+      "imageCaption": "Hobbes insan davranışını bedende çarpışan arzu, korku ve sonuç hesaplarının hareketi olarak görür."
+    },
+    "durak-04-esitlik-neden-huzur-degil-tehlike-getirir": {
+      "image": "/images/summary-art-93-chapter-03-equal-vulnerability-v1.webp",
+      "imageCaption": "İnsanların eşitliği aynı yetenekte olmalarından çok, birbirine ciddi zarar verebilecek kadar kırılgan olmalarından doğar."
+    },
+    "durak-05-rekabet-guvensizlik-ve-san": {
+      "image": "/images/summary-art-93-chapter-04-three-causes-war-v1.webp",
+      "imageCaption": "Kazanç, güvenlik korkusu ve itibar arzusu aynı çatışmayı farklı kapılardan besleyebilir."
+    },
+    "durak-06-savas-yalniz-catisma-ani-degildir": {
+      "image": "/images/summary-art-93-chapter-05-storm-of-war-v1.webp",
+      "imageCaption": "Savaş tek tek çatışmalardan önce, herkesin saldırı ihtimaline göre yaşadığı sürekli fırtına havasıdır."
+    },
+    "durak-07-kotu-kisa-ve-yalniz-hayat": {
+      "image": "/images/summary-art-93-chapter-06-abandoned-workshop-v1.webp",
+      "imageCaption": "Gelecekte emeğini koruyamayan insan üretim ve işbirliğine yatırım yapmaktan vazgeçebilir."
+    },
+    "durak-08-doga-yasalarinin-baris-yolu": {
+      "image": "/images/summary-art-93-chapter-07-narrow-door-contract-v1.webp",
+      "imageCaption": "Herkes küçük hareket özgürlüğünden vazgeçince dar kapıdan güvenli biçimde geçebileceği ortak düzen doğar."
+    },
+    "durak-09-kilicsiz-sozlesme-neden-yalniz-sozdur": {
+      "image": "/images/summary-art-93-chapter-08-contract-and-sword-v1.webp",
+      "imageCaption": "Sözü ortak kural yapan, yalnız imza değil ihlal karşısında işleyecek güvenilir ve denetlenebilir yaptırımdır."
+    },
+    "durak-10-herkesin-herkesi-temsil-eden-kisi": {
+      "image": "/images/summary-art-93-chapter-09-many-to-one-v1.webp",
+      "imageCaption": "Dağınık kalabalık ortak temsilciyi yetkilendirerek tek siyasi eylem kapasitesi kazanır."
+    },
+    "durak-11-bolunmez-egemenlik-iddiasi": {
+      "image": "/images/summary-art-93-chapter-10-two-captains-v1.webp",
+      "imageCaption": "Tek gemide iki mutlak kaptan karar felci yaratabilir, ama tek kaptanın da denetlenmesi gerekir."
+    },
+    "durak-12-ozgurluk-yasanin-sustugu-yerde-mi": {
+      "image": "/images/summary-art-93-chapter-11-law-riverbanks-v1.webp",
+      "imageCaption": "Yasa hareketi sınırlayan kıyı olabilir; aynı zamanda ortak akışın güvenle sürmesini sağlar."
+    },
+    "durak-13-canini-koruma-hakkinin-siniri": {
+      "image": "/images/summary-art-93-chapter-12-cliff-command-v1.webp",
+      "imageCaption": "Güvenlik için kurulan iktidar kişiye doğrudan yok oluş emrettiğinde sözleşmenin temel amacı çatlar."
+    },
+    "durak-14-din-ile-devlet-ayni-kursude": {
+      "image": "/images/summary-art-93-chapter-13-two-pulpits-v1.webp",
+      "imageCaption": "Rakip kutsal ve siyasi otoriteler yurttaşı iki zıt emre bölebilir; çözüm tek inancı dayatmak olmak zorunda değildir."
+    },
+    "durak-15-mulkiyet-egemenden-once-var-mi": {
+      "image": "/images/summary-art-93-chapter-14-property-deed-v1.webp",
+      "imageCaption": "Eşya üzerindeki fiilî kontrol, ortak kayıt ve yargı sistemi olmadan güvenilir mülkiyet hakkına dönüşmez."
+    },
+    "durak-16-ic-savasin-golgesinde-yazilan-kitap": {
+      "image": "/images/summary-art-93-chapter-15-civil-war-window-v1.webp",
+      "imageCaption": "İç savaş deneyimi Hobbes'un penceresinde anarşiyi en büyük siyasi kötülük haline getirdi."
+    },
+    "durak-17-guvenlik-icin-ne-kadar-ozgurluk": {
+      "image": "/images/summary-art-93-chapter-16-peace-or-silence-v1.webp",
+      "imageCaption": "Sessizlik her zaman barış değildir; denetlenmeyen güvenlik gücü koruduğu yurttaşı susturabilir."
+    }
+  }
+}

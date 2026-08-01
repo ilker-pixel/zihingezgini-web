@@ -1,0 +1,335 @@
+{
+  "bookNo": 12,
+  "title": "Tüfek, Mikrop ve Çelik",
+  "author": "Jared Diamond",
+  "subtitle": "Bazı toplumların başka toplumları fethetmesini insanların zekâsına ya da değerine değil; coğrafya, evcilleştirilebilir canlılar, hastalıklar ve kıtalar boyunca yayılan bilgi zincirlerine bağlayan büyük tarih anlatısı.",
+  "coverImage": "/images/summary-art-12-tufek-mikrop-ve-celik-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/12-tufek-mikrop-ve-celik-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#5E5947",
+  "meta": {
+    "originalTitle": "Guns, Germs, and Steel",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Jared Diamond tarafından yazılan Tüfek, Mikrop ve Çelik adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Jared Diamond - Guns, Germs, and Steel",
+      "url": "https://www.jareddiamond.org/guns-germs-and-steel"
+    },
+    {
+      "id": 2,
+      "title": "W. W. Norton - Guns, Germs, and Steel",
+      "url": "https://wwnorton.com/books/Guns-Germs-and-Steel/"
+    },
+    {
+      "id": 3,
+      "title": "Encyclopaedia Britannica - Neolithic Revolution",
+      "url": "https://www.britannica.com/event/Neolithic-Revolution"
+    },
+    {
+      "id": 4,
+      "title": "Our World in Data - Crop yields and agriculture",
+      "url": "https://ourworldindata.org/crop-yields"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Bazı toplumların başka toplumları fethetmesini insanların zekâsına ya da değerine değil; coğrafya, evcilleştirilebilir canlılar, hastalıklar ve kıtalar boyunca yayılan bilgi zincirlerine bağlayan büyük tarih anlatısı.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-yali-nin-tek-cumlelik-buyuk-sorusu",
+      "section": "BAŞLANGIÇ · SORU",
+      "title": "Yali'nin tek cümlelik büyük sorusu",
+      "paragraphs": [
+        "Diamond'ın yolculuğu Yeni Gine'de siyasetçi Yali'nin sorduğu sade ama sarsıcı soruyla başlar: Neden Avrupalıların bu kadar çok eşyası vardı da Yeni Ginelilerin yoktu? Kitap, bu farkı insanların doğuştan yetenekleriyle açıklamayı reddeder.",
+        "Aynı sınıftaki iki çocuğu düşünün. Birinin kütüphanesi, bilgisayarı ve sakin çalışma odası; diğerinin ise sürekli kesilen elektriği olsun. Sonuç farkını yalnız çocuğun zekâsına bağlamak nasıl haksızsa, kıtaların tarihini de yalnız halkların karakteriyle açıklamak öyledir.",
+        "Soru fetih yapanları aklamak için sorulmaz. Amaç güç farkının nasıl biriktiğini anlamaktır. Ahlaki sorumluluk ile tarihsel neden aynı şey değildir; bir olayın nedenini açıklamak onun adil olduğunu söylemez.",
+        "Bugün ülkeler arasındaki uçurumu konuşurken kitap ilk freni koyar: İnsan topluluklarını tembel, çalışkan, üstün ya da geri diye etiketlemeden önce başlangıç koşullarını ve yüzyıllar boyunca büyüyen avantajları incele."
+      ]
+    },
+    {
+      "id": "durak-03-avci-toplayicinin-yanlis-portresi",
+      "section": "BİRİNCİ KISIM · BAŞLANGIÇ ÇİZGİSİ",
+      "title": "Avcı toplayıcının yanlış portresi",
+      "paragraphs": [
+        "Tarım öncesi toplumlar boş boş dolaşan ilkel kalabalıklar değildi. Bitkileri, hayvanları, mevsimleri ve arazinin küçük işaretlerini ayrıntılı biçimde biliyorlardı. Fakat yiyecek üretmeyen yaşam, aynı yerde çok büyük nüfusları beslemeyi zorlaştırıyordu.",
+        "Bir manavdan yüzlerce çeşit ürünü bir saatte almakla ormanda aynı kaloriyi tek tek bulmak arasındaki farkı düşünün. Avcı toplayıcının bilgisi derindir; ancak depolama, nüfus yoğunluğu ve sürekli uzmanlaşma için gereken fazla ürün daha sınırlıdır.",
+        "Diamond tarımı otomatik mutluluk gibi sunmaz. Yerleşik hayat salgın, eşitsizlik ve daha ağır emek getirebilir. Tarihsel avantaj ile bireysel refah aynı değildir; çiftçi devlet kurmaya daha elverişli olabilir ama daha sağlıklı yaşamayabilir.",
+        "Bu ayrım ilerleme kelimesine dikkat etmeyi öğretir. Bir düzenin daha çok asker ve yönetici beslemesi, o düzende yaşayan herkesin daha iyi yaşadığı anlamına gelmez."
+      ]
+    },
+    {
+      "id": "durak-04-bereketli-hilal-neden-erken-basladi",
+      "section": "BİRİNCİ KISIM · YİYECEK ÜRETİMİ",
+      "title": "Bereketli Hilal neden erken başladı?",
+      "paragraphs": [
+        "Bereketli Hilal'de yabani buğday, arpa ve baklagiller gibi toplanması, saklanması ve seçilmesi görece kolay bitkiler bir aradaydı. Mevsimsel iklim, büyük taneli yıllık bitkileri destekledi; erken tarım için hazır bir malzeme kutusu oluştu.",
+        "Bir marangozun önüne kuru, düz ve kolay kesilen tahtalar; diğerinin önüne ise eğri, ıslak dallar koyun. İkisi de becerikli olabilir ama ilk dolabı aynı hızda yapamaz. Diamond'ın coğrafya vurgusu böyle bir malzeme farkına dayanır.",
+        "Tarım tek kişinin bir sabah aldığı karar değildi. İnsanlar önce yabani türleri topladı, sonra en iri tohumları çevrelerine taşıdı; fark etmeden bitkilerin genetik yapısını değiştiren uzun bir seçim süreci başladı.",
+        "Bugünün marketindeki tek tip ürünler bu eski seçimin devamıdır. Kitap, sofradaki ekmeği insan emeği kadar bitkinin biyolojik özellikleri ve bölgenin iklimiyle birlikte görmemizi sağlar."
+      ]
+    },
+    {
+      "id": "durak-05-evcillestirilemeyen-zebranin-dersi",
+      "section": "BİRİNCİ KISIM · HAYVANLAR",
+      "title": "Evcilleştirilemeyen zebranın dersi",
+      "paragraphs": [
+        "Büyük memelilerin hepsi evcilleştirilemez. Hızlı büyüme, esaret altında üreme, uygun beslenme, sürü hiyerarşisi ve paniğe kapılmama gibi özelliklerin aynı hayvanda buluşması gerekir. At oldu; zebra olmadı.",
+        "Bir şirketin parlak ama kimseyle çalışamayan yıldızı ile uyumlu ekip oyuncusunu düşünün. Tek özellik yetmez. Zebra güçlüdür ama ısırır, ürker ve kontrol edilmesi zordur; sığır ise insan düzenine uyabilen toplumsal bir yapıya sahiptir.",
+        "Diamond Avrasya'nın bu bakımdan şanslı olduğunu savunur. Koyun, keçi, sığır, domuz ve at; et, süt, gübre, taşıma ve savaş gücü sağladı. Bu paket başka kıtalarda aynı zenginlikte bulunmadı.",
+        "Buradaki sonuç insanların denemediği değildir. Bir türün binlerce yıl evcilleştirilmemiş olması çoğu zaman yerli halkın bilgisizliğini değil, hayvanın uygun olmayan biyolojisini gösterir."
+      ]
+    },
+    {
+      "id": "durak-06-arti-urunun-kurdugu-gorunmez-merdiven",
+      "section": "İKİNCİ KISIM · FAZLALIKTAN DEVLETE",
+      "title": "Artı ürünün kurduğu görünmez merdiven",
+      "paragraphs": [
+        "Tarım her ailenin yiyeceğini üretirken bir miktar fazlalık yaratınca, herkesin tarlada çalışması gerekmedi. Asker, zanaatkâr, kâtip, yönetici ve rahip gibi uzmanlaşmış gruplar beslenebilir hale geldi.",
+        "On kişinin yalnız kendine yetecek kadar yemek yaptığı sofrada tam zamanlı bir demirci yaşayamaz. Herkes bir tabak fazla üretirse bir kişi bütün gün alet yapabilir. Küçük fazlalıklar, toplum ölçeğinde büyük iş bölümüne dönüşür.",
+        "Fazlalık aynı zamanda eşitsizlik için kapı açar. Depoyu kimin yönettiği, verginin kimden toplandığı ve askerlerin kime bağlı olduğu güç ilişkilerini belirler. Devlet yalnız ortak ihtiyaç değil, kaynak denetimi de demektir.",
+        "Bugün uzmanlık doğal görünür; fakat arkasında milyonlarca insanın yiyecek, enerji ve lojistik üretimi vardır. Kitap bir yazılımcının masasını bile tarladaki verim zincirine bağlar."
+      ]
+    },
+    {
+      "id": "durak-07-mikroplar-ordudan-once-yurudu",
+      "section": "İKİNCİ KISIM · HASTALIK",
+      "title": "Mikroplar ordudan önce yürüdü",
+      "paragraphs": [
+        "Yoğun nüfus, yerleşik yaşam ve evcil hayvanlarla yakın temas yeni salgınlara zemin hazırladı. Çiçek ve kızamık gibi hastalıklar büyük topluluklarda dolaşarak kalıcı hale geldi; hayatta kalan nüfuslarda kısmi bağışıklık birikti.",
+        "Kalabalık bir okulda yayılan gribi düşünün. Hastalık her yıl yeni öğrencilere ulaşabilir. On kişilik izole bir adada ise herkesi hasta ettikten sonra taşıyıcı bulamayarak kaybolur. Salgının sürekliliği için nüfus büyüklüğü gerekir.",
+        "Avrupalılar Amerika'ya ulaştığında mikroplar çoğu zaman silahlardan daha yıkıcı oldu. Yerli toplumların daha az değerli bedenleri yoktu; yalnızca bu özel hastalık geçmişine sahip değillerdi.",
+        "Salgın deneyimi bize bağışıklığı kişisel kahramanlık gibi görmemeyi öğretir. Hastalık riski, uzun tarih, nüfus yapısı, hayvan teması ve sağlık kurumlarıyla birlikte oluşur."
+      ]
+    },
+    {
+      "id": "durak-08-yazinin-hafiza-deposu",
+      "section": "İKİNCİ KISIM · BİLGİ",
+      "title": "Yazının hafıza deposu",
+      "paragraphs": [
+        "Yazı vergi, ürün, yasa ve askeri emirlerin insan hafızasından bağımsız saklanmasını sağladı. Büyük devletler, yüz yüze tanışmayan binlerce kişiyi kayıtlar üzerinden yönetebildi.",
+        "Küçük bir bakkal on müşterinin borcunu aklında tutabilir; yüz şubeli market zinciri tutamaz. Defter yalnız hatırlatma değildir, ölçeği değiştiren bir teknolojidir. Yazı da devletin uzak mesafeye uzanan sinir sistemi oldu.",
+        "Yazı her yerde aynı anda doğmadı ve bir kez doğunca hemen yayılmadı. Toplumun kayıt ihtiyacı, malzeme, uzman kâtipler ve komşulardan alınan örnekler önemliydi. Bilgi teknolojisi kurumlarla birlikte yaşar.",
+        "Bugünün veri tabanları aynı ilkeyi büyütür. Kimin kayda geçtiği, hangi bilginin ölçüldüğü ve arşive kimin eriştiği yönetim gücünün merkezindedir."
+      ]
+    },
+    {
+      "id": "durak-09-celik-neden-tek-basina-dogmadi",
+      "section": "İKİNCİ KISIM · TEKNOLOJİ",
+      "title": "Çelik neden tek başına doğmadı?",
+      "paragraphs": [
+        "Teknolojik icatlar çoğu zaman yalnız dâhinin zihninden çıkmaz. Kalabalık nüfus, uzman ustalar, deneme birikimi, kullanım ihtiyacı ve komşu toplumlarla temas küçük yenilikleri üst üste koyar.",
+        "Modern telefonun içinde cam, pil, yazılım, anten ve onlarca ülkenin üretim bilgisi vardır. Tek mucit telefonu sıfırdan yapmadığı gibi, eski çağın kılıcı da maden, fırın, ticaret ve savaş talebinden ayrı düşünülemez.",
+        "Diamond teknolojinin zorunlu bir sıra izlemediğini vurgular. Bazen oyuncak gibi görünen icat yüzyıllar sonra işe yarar; bazen güçlü bir toplum verimli yeniliği siyasi nedenlerle reddeder.",
+        "Bu bakış yaratıcı bireyi küçültmez, onu besleyen ağı görünür kılar. İnovasyon politikası yalnız parlak fikir aramak değil, fikirlerin denenip paylaşılacağı kurumları kurmaktır."
+      ]
+    },
+    {
+      "id": "durak-10-avrasya-nin-yatay-otoyolu",
+      "section": "ÜÇÜNCÜ KISIM · KITALAR",
+      "title": "Avrasya'nın yatay otoyolu",
+      "paragraphs": [
+        "Avrasya doğu-batı yönünde uzanır. Aynı enlem boyunca gün uzunluğu ve iklim daha benzer olduğu için bitkiler, hayvanlar ve teknikler geniş mesafelere görece kolay yayıldı. Amerika ve Afrika'nın kuzey-güney ekseni ise sert iklim kuşaklarıyla kesildi.",
+        "Aynı katta uzanan uzun bir koridorda eşyayı taşımak kolaydır; merdiven, dar kapı ve farklı sıcaklıktaki odalardan geçirmek zordur. Kıta eksenleri Diamond'ın gözünde böyle bir yayılma koridorudur.",
+        "Bu bir mutlak yasa değildir. Dağlar, çöller, denizler ve toplumların kararları doğu-batı yayılmasını da durdurabilir. Coğrafya olasılığı etkiler; her adımı otomatik yazmaz.",
+        "Küresel ağlar mesafeyi küçültse de tarım kuşakları, enerji yolları ve limanlar hâlâ önemlidir. Kitabın harita bakışı bugünün tedarik zincirlerinde yaşamaya devam eder."
+      ]
+    },
+    {
+      "id": "durak-11-cin-neden-birlesti-avrupa-neden-parcali-kaldi",
+      "section": "ÜÇÜNCÜ KISIM · SİYASİ COĞRAFYA",
+      "title": "Çin neden birleşti, Avrupa neden parçalı kaldı?",
+      "paragraphs": [
+        "Diamond Çin'in büyük nehir ovaları ve daha az kesintili coğrafyasının siyasi birleşmeyi kolaylaştırdığını; Avrupa'nın dağ, yarımada ve adalarının kalıcı rekabetçi devletlere alan açtığını ileri sürer.",
+        "Tek bir büyük şirkette patron kötü bir kararla bütün araştırmayı durdurabilir. Birbirine rakip on şirkette ise biri vazgeçse diğeri deneyebilir. Avrupa'nın parçalanmışlığı bazı yeniliklerin kaçacak başka kapı bulmasına yardım etmiş olabilir.",
+        "Aynı parçalanmışlık savaşları da çoğalttı; Çin'in birliği ise büyük sulama ve yönetim kapasitesi sağladı. Coğrafi yapı iyi ya da kötü değildir, farklı risk ve imkânlar üretir.",
+        "Bu tez tarihçiler arasında tartışmalıdır; kültür, kurum ve belirli lider kararları haritanın açıklayamadığı çok şeyi belirler. Yine de siyasi sınırların yalnız fikirlerden değil, araziden de beslendiğini hatırlatır."
+      ]
+    },
+    {
+      "id": "durak-12-ispanyol-ile-inka-karsilastiginda",
+      "section": "DÖRDÜNCÜ KISIM · FETİH SAHNESİ",
+      "title": "İspanyol ile İnka karşılaştığında",
+      "paragraphs": [
+        "Pizarro'nun küçük kuvveti Atahualpa'nın büyük ordusunu şaşırtıcı biçimde yenebildi. Atlar, çelik silahlar, yazılı bilgi, siyasi bölünme ve daha önce yayılan salgınlar aynı anda İspanyolların lehine çalıştı.",
+        "Bir futbol maçında rakibin yalnız daha iyi ayakkabısı değil; hakem kurallarını bilmesi, telsiz kullanması ve sizin takımın yarısının hasta olması gibi düşünün. Sonuç tek bir üstünlükten değil, birleşen farklardan çıkar.",
+        "Bu açıklama yerli direnişini görünmez yapmamalıdır. Fetih uzun, kanlı ve belirsizdi; Avrupalılar yerli müttefikler olmadan birçok yerde ilerleyemezdi. Kitabın geniş kamerası yerel karmaşıklığı bazen fazla küçültür.",
+        "Bugün güçlü görünen bir kurumun başarısını tek özelliğe bağlamamak gerekir. Teknoloji, bilgi, sağlık, ittifak ve zamanlama çoğu kez aynı tabloda birleşir."
+      ]
+    },
+    {
+      "id": "durak-13-afrika-nin-tek-hikayesi-yok",
+      "section": "DÖRDÜNCÜ KISIM · BÖLGESEL TARİHLER",
+      "title": "Afrika'nın tek hikâyesi yok",
+      "paragraphs": [
+        "Afrika kıtası iklim, dil ve toplum bakımından olağanüstü çeşitlidir. Bantu dillerinin ve tarımın yayılması, yerel avcı toplayıcılarla karşılaşmalar ve hayvancılığın hastalık kuşaklarına göre değişmesi tek çizgili bir anlatıyı bozar.",
+        "Kuzeyde işe yarayan bir tarım paketini ekvator ormanına, oradan Güney Afrika'nın iklimine taşımak aynı tohumu farklı seralara sokmak gibidir. Kıtanın kuzey-güney uzanışı her geçişte yeni bir engel çıkarır.",
+        "Diamond bazı genellemeleri nedeniyle eleştirilir; sömürgecilik öncesi Afrika devletlerinin yaratıcılığı ve bölgesel ayrıntılar daha geniş anlatılabilir. Coğrafi çerçeve yerel tarihlerin yerine geçmemelidir.",
+        "En iyi ders, Afrika'yı tek ülke gibi konuşmaktan vazgeçmektir. Harita üzerinde aynı renk görünen alanın içinde yüzlerce farklı tarihsel yol bulunur."
+      ]
+    },
+    {
+      "id": "durak-14-avustralya-ve-yalnizligin-bedeli",
+      "section": "DÖRDÜNCÜ KISIM · BÖLGESEL TARİHLER",
+      "title": "Avustralya ve yalnızlığın bedeli",
+      "paragraphs": [
+        "Avustralya uzun süre diğer büyük nüfus merkezlerinden yalıtıldı. Evcilleştirilebilir büyük hayvanların azlığı, değişken iklim ve küçük nüfus; yoğun tarım devletlerinin gelişmesini zorlaştırdı.",
+        "On kişilik bir atölye ile on bin kişilik sanayi şehrinin icat havuzu aynı değildir. Küçük topluluk çok yaratıcı olabilir ama daha az uzman ve daha kırılgan bilgi zinciri taşır; bir ustanın ölümü tekniği bütünüyle kaybettirebilir.",
+        "Bu anlatı Aborjin toplumlarını durağan saymamalıdır. Ateşle arazi yönetimi, geniş ticaret ağları ve karmaşık akrabalık sistemleri çevreye uyarlanmış yüksek bilgi biçimleridir.",
+        "Teknoloji sayısını insan değerinin ölçüsü yapmak kitabın ruhuna aykırıdır. Farklı çevreler farklı becerileri ödüllendirir; metal alet eksikliği zihinsel eksiklik değildir."
+      ]
+    },
+    {
+      "id": "durak-15-polinezya-dogal-deney-gibi",
+      "section": "DÖRDÜNCÜ KISIM · ADALAR",
+      "title": "Polinezya doğal deney gibi",
+      "paragraphs": [
+        "Polinezya adalarına benzer kökenden gelen insanlar yerleşti; fakat ada büyüklüğü, yağış, toprak ve kaynak farkları yüzünden küçük eşitlikçi topluluklardan katmanlı krallıklara kadar çok farklı düzenler kuruldu.",
+        "Aynı tohum paketini yirmi farklı bahçeye ekin. Toprağı derin ve suyu bol bahçede yoğun ürün; kayalık ve kuru bahçede seyrek bitki çıkar. İnsan başlangıcı benzerken çevre sonucu ayrıştırabilir.",
+        "Adalar kusursuz laboratuvar değildir; yolculuk tarihleri, kültürel tercihler ve rastlantılar da değişir. Yine de çevrenin toplum ölçeği üzerindeki etkisini karşılaştırmak için güçlü bir sahne sunar.",
+        "Bugün şehirleri kıyaslarken de yalnız kültürü değil, liman, su, arazi, afet riski ve komşuluk ağlarını görmek gerekir. Yer maddi bir oyuncudur."
+      ]
+    },
+    {
+      "id": "durak-16-cografya-kader-mi",
+      "section": "BEŞİNCİ KISIM · SINIRLAR",
+      "title": "Coğrafya kader mi?",
+      "paragraphs": [
+        "Kitabın en büyük itirazı coğrafi determinizm suçlamasıdır. Diamond coğrafyanın her olayı zorunlu kıldığını söylemediğini belirtir; yine de geniş anlatısı bazen insan kararlarını ve kurumları arka plana iter.",
+        "Eğimli bir yolda bisiklet sürmek yönü etkiler ama gidonu elinizden almaz. Yokuş bazı seçenekleri pahalı, bazılarını kolay yapar. Coğrafyayı böyle bir eğim olarak görmek kader sözünden daha doğrudur.",
+        "Aynı çevrede farklı toplumların farklı kurumlar kurması, haritanın tek başına yetmediğini gösterir. Sömürgecilik, ticaret politikası, sınıf çatışması ve liderlik uzun dönemli eşitsizlikleri yeniden üretir.",
+        "Kitap en güçlü olduğunda başlangıç avantajlarını gösterir; en zayıf olduğunda bu avantajların sonraki yüzyıllardaki bütün kararların yerine geçtiği izlenimini verir. İyi okur iki düzeyi birlikte tutar."
+      ]
+    },
+    {
+      "id": "durak-17-fetih-aciklamasi-fetih-savunusu-degildir",
+      "section": "BEŞİNCİ KISIM · AHLAK",
+      "title": "Fetih açıklaması fetih savunusu değildir",
+      "paragraphs": [
+        "Avrupa'nın avantajlarını çevreyle açıklamak, sömürge şiddetini doğallaştırmak için kullanılabilir; buna karşı dikkat gerekir. Nedensel açıklama, mağdurun acısını azaltmaz ve failin kararlarını masumlaştırmaz.",
+        "Bir yangının kuru hava yüzünden hızla yayıldığını söylemek, kibriti atan kişiyi aklamaz. Kuru hava koşulu; kibrit ise eylemdir. Tarihte de yapısal avantaj ile bilinçli şiddet aynı tabloda bulunabilir.",
+        "Diamond'ın temel hedefi ırkçı biyolojik açıklamayı yıkmaktır. Yine de yerli halkları yalnız başına gelen felaketlerin alıcısı gibi göstermemek, onların siyaseti ve direnişini anlatmak gerekir.",
+        "Bu ayrım güncel eşitsizlik tartışmalarında da işe yarar: Yapının etkisini görmek bireysel sorumluluğu silmez; yalnız sorumluluğun hangi koşullarda kullanıldığını açıklar."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Kitap 'Avrupalılar daha zekiydi' demez; tam tersine bu açıklamayı reddeder. Bir başka yanlış okuma da coğrafyanın her sonucu otomatik yazdığıdır. Diamond'ın savı, bazı bölgelerin yiyecek, hayvan, mikrop ve yayılma bakımından daha avantajlı başlangıç koşullarına sahip olduğudur.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Arkeogenetik, iklim tarihi ve sömürgecilik araştırmaları kitabın bazı ayrıntılarını genişletti. Bugün kurumların, yerli ittifakların ve bölgesel tarihin ağırlığını daha fazla biliyoruz; yine de çevresel başlangıç farklarının uzun vadeli etkisi temel bir araştırma sorusu olmayı sürdürüyor.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Bir güç farkı gördüğünüzde şunları sorun: Başlangıçta hangi kaynak farkı vardı? Avantaj zamanla hangi geri besleme yoluyla büyüdü? Sonucu açıklarken insanların seçimini ve ahlaki sorumluluğunu nerede yeniden tabloya koymalıyım?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İnsan toplulukları arasındaki tarihsel güç farklarını doğuştan değer farkıyla değil; coğrafyanın sunduğu canlılar, hastalık geçmişi, bilgi dolaşımı ve yüzyıllarca biriken avantajlarla açıklamak gerekir.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-yali-nin-tek-cumlelik-buyuk-sorusu": {
+      "image": "/images/summary-art-12-chapter-01-yali-question-v1.webp",
+      "imageCaption": "Yali'nin sorusu insan değerini değil, tarih boyunca biriken maddi farkların kaynağını araştırır."
+    },
+    "durak-03-avci-toplayicinin-yanlis-portresi": {
+      "image": "/images/summary-art-12-chapter-02-forager-landscape-v1.webp",
+      "imageCaption": "Avcı toplayıcı yaşam bilgisiz değil; düşük nüfus ve sınırlı artı ürünle çalışan farklı bir düzendir."
+    },
+    "durak-04-bereketli-hilal-neden-erken-basladi": {
+      "image": "/images/summary-art-12-chapter-03-fertile-crescent-v1.webp",
+      "imageCaption": "Bereketli Hilal'in erken tarımı, uygun yabani bitkiler ile mevsimsel iklimin aynı yerde buluşmasından güç aldı."
+    },
+    "durak-05-evcillestirilemeyen-zebranin-dersi": {
+      "image": "/images/summary-art-12-chapter-04-zebra-horse-v1.webp",
+      "imageCaption": "At ile zebra arasındaki fark insan zekâsından çok, hayvanların davranış ve üreme özelliklerinde yatar."
+    },
+    "durak-06-arti-urunun-kurdugu-gorunmez-merdiven": {
+      "image": "/images/summary-art-12-chapter-05-surplus-stair-v1.webp",
+      "imageCaption": "Depolanabilir artı ürün, uzmanlaşmayı mümkün kılarken yönetim ve eşitsizlik merdivenini de kurdu."
+    },
+    "durak-07-mikroplar-ordudan-once-yurudu": {
+      "image": "/images/summary-art-12-chapter-06-germs-before-army-v1.webp",
+      "imageCaption": "Fetih gemilerinden çıkan mikroplar, bağışıklığı olmayan toplumlarda ordulardan daha hızlı ilerledi."
+    },
+    "durak-08-yazinin-hafiza-deposu": {
+      "image": "/images/summary-art-12-chapter-07-writing-ledger-v1.webp",
+      "imageCaption": "Yazı, devletin ürünleri ve insanları uzak mesafeden izlemesine yarayan büyük bir hafıza deposuydu."
+    },
+    "durak-09-celik-neden-tek-basina-dogmadi": {
+      "image": "/images/summary-art-12-chapter-08-technology-network-v1.webp",
+      "imageCaption": "Çelik ve diğer teknolojiler, tek bir dâhiden çok uzmanlık ve bilgi alışverişi ağında olgunlaştı."
+    },
+    "durak-10-avrasya-nin-yatay-otoyolu": {
+      "image": "/images/summary-art-12-chapter-09-eurasia-axis-v1.webp",
+      "imageCaption": "Avrasya'nın doğu-batı ekseni benzer iklimler arasında ürün ve fikirlerin yayılmasını kolaylaştırdı."
+    },
+    "durak-11-cin-neden-birlesti-avrupa-neden-parcali-kaldi": {
+      "image": "/images/summary-art-12-chapter-10-china-europe-map-v1.webp",
+      "imageCaption": "Kesintisiz ovalar birleşmeye, yarımada ve dağlarla bölünmüş coğrafya ise çok sayıda rakip devlete alan açabilir."
+    },
+    "durak-12-ispanyol-ile-inka-karsilastiginda": {
+      "image": "/images/summary-art-12-chapter-11-pizarro-atahualpa-v1.webp",
+      "imageCaption": "Cajamarca'daki güç farkı at, çelik, salgın, yazı ve siyasi koşulların tek sahnede birleşmesiydi."
+    },
+    "durak-13-afrika-nin-tek-hikayesi-yok": {
+      "image": "/images/summary-art-12-chapter-12-africa-climate-bands-v1.webp",
+      "imageCaption": "Afrika'nın iklim kuşakları, bitki ve hayvanların kuzeyden güneye yayılmasını defalarca kesti."
+    },
+    "durak-14-avustralya-ve-yalnizligin-bedeli": {
+      "image": "/images/summary-art-12-chapter-13-australia-isolation-v1.webp",
+      "imageCaption": "Yalıtılmış ve küçük nüfuslu Avustralya, farklı bir bilgi ve geçim düzeni geliştirdi."
+    },
+    "durak-15-polinezya-dogal-deney-gibi": {
+      "image": "/images/summary-art-12-chapter-14-polynesian-islands-v1.webp",
+      "imageCaption": "Benzer kökenden gelen Polinezyalılar, farklı ada koşullarında çok farklı siyasi yapılar kurdu."
+    },
+    "durak-16-cografya-kader-mi": {
+      "image": "/images/summary-art-12-chapter-15-sloped-road-v1.webp",
+      "imageCaption": "Coğrafya yolun eğimini belirleyebilir; fakat toplumsal kararların gidonunu tamamen elinden almaz."
+    },
+    "durak-17-fetih-aciklamasi-fetih-savunusu-degildir": {
+      "image": "/images/summary-art-12-chapter-16-fire-and-match-v1.webp",
+      "imageCaption": "Kuru hava yangını açıklar, kibriti atan kişiyi aklamaz; yapı ile sorumluluk birlikte düşünülmelidir."
+    }
+  }
+}

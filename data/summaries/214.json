@@ -1,0 +1,330 @@
+{
+  "bookNo": 214,
+  "title": "Teknik Yeniden Üretim Çağında Sanat Eseri",
+  "author": "Walter Benjamin",
+  "subtitle": "Fotoğraf ve sinemanın sanat eserini tek ve uzak kutsal nesne olmaktan çıkarıp kitlelerin dolaşımına sokarken aura, otantiklik, siyaset ve algıyı nasıl değiştirdiğini anlatan kısa ama olağanüstü etkili deneme.",
+  "coverImage": "/images/summary-art-214-teknik-yeniden-uretim-caginda-sanat-eseri-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/214-teknik-yeniden-uretim-caginda-sanat-eseri-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#5E535D",
+  "meta": {
+    "originalTitle": "The Work of Art in the Age of Mechanical Reproduction",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Walter Benjamin tarafından yazılan Teknik Yeniden Üretim Çağında Sanat Eseri adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Marxists Internet Archive - The Work of Art",
+      "url": "https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Walter Benjamin",
+      "url": "https://plato.stanford.edu/entries/benjamin/"
+    },
+    {
+      "id": 3,
+      "title": "Encyclopaedia Britannica - Walter Benjamin",
+      "url": "https://www.britannica.com/biography/Walter-Benjamin"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Fotoğraf ve sinemanın sanat eserini tek ve uzak kutsal nesne olmaktan çıkarıp kitlelerin dolaşımına sokarken aura, otantiklik, siyaset ve algıyı nasıl değiştirdiğini anlatan kısa ama olağanüstü etkili deneme.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-biricik-eserin-burada-ve-simdisi",
+      "section": "BAŞLANGIÇ · OTANTİKLİK",
+      "title": "Biricik eserin burada ve şimdisi",
+      "paragraphs": [
+        "Geleneksel sanat eseri belirli yerde, belirli tarihte bulunur. Taşıdığı çatlak, sahiplik yolu ve fiziksel varlık onun 'burada ve şimdi'sini kurar.",
+        "Müzedeki tablonun önünde durmakla aynı görüntüyü telefonda görmek aynı bilgiye yaklaşabilir, aynı karşılaşma değildir. Ölçek, mekân ve yolculuk deneyime katılır.",
+        "Biriciklik her zaman üstün estetik demek değildir; sahte eser de güzel olabilir. Benjamin'in konusu değer yargısından çok toplumsal otorite değişimidir.",
+        "Dijital kopya çağında orijinalin neden hâlâ kalabalık çektiğini anlamak için burada ve şimdi fikri güçlüdür."
+      ]
+    },
+    {
+      "id": "durak-03-aura-nedir",
+      "section": "BİRİNCİ KISIM · AURA",
+      "title": "Aura nedir?",
+      "paragraphs": [
+        "Aura, bir şey ne kadar yakında olsa da taşıdığı eşsiz uzaklık ve otorite hissidir. Dağın ufuktaki çizgisi veya eski eserin sessiz varlığı kolayca tüketilemeyen mesafe kurar.",
+        "Ünlü bir kişinin el yazısı mektubu ile taranmış kopyası aynı kelimeleri taşır; fakat elin ve zamanın izi ilkinde farklı bir yakınlık-uzaklık duygusu yaratır.",
+        "Aura mistik sis değil, tarih, ritüel ve biricikliğin toplumsal etkisidir. Her orijinal otomatik değerli, her kopya değersiz değildir.",
+        "Sınırlı üretim ve NFT pazarı bugün yapay aura üretmeye çalışır; kıtlık teknik olarak yeniden tasarlanır."
+      ]
+    },
+    {
+      "id": "durak-04-kopya-orijinale-ne-yapar",
+      "section": "BİRİNCİ KISIM · YENİDEN ÜRETİM",
+      "title": "Kopya orijinale ne yapar?",
+      "paragraphs": [
+        "Teknik kopya eseri bulunduğu yerden çıkarır, farklı boyut ve bağlamlarda çoğaltır. Orijinalin otoritesi azalırken görüntünün erişimi olağanüstü artar.",
+        "Katedral freski yalnız oraya gidenin göreceği nesneyken kitap sayfasına ve ekrana gelir. Görüntü yolculuk eder, izleyici artık ona gitmek zorunda değildir.",
+        "Kopya ayrıntıyı büyütüp çıplak gözün görmediğini gösterebilir. Yani yalnız kayıp değil yeni bilgi ve algı imkânıdır.",
+        "Bugün yüksek çözünürlüklü tarama koruma ve eğitim sağlar; fakat bağlamdan koparılan eser sonsuz içerik akışında sıradanlaşabilir."
+      ]
+    },
+    {
+      "id": "durak-05-kult-degerinden-sergileme-degerine",
+      "section": "BİRİNCİ KISIM · İŞLEV",
+      "title": "Kült değerinden sergileme değerine",
+      "paragraphs": [
+        "Eski sanat ritüelde var olmak için yapılabilir, görülmesi şart değildir. Teknik çağda eserin değeri giderek sergilenme, dolaşma ve çok kişi tarafından görülme kapasitesine bağlanır.",
+        "Tapınaktaki kapalı heykel kutsallığını gizlilikten, sosyal medya fotoğrafı değerini görünürlük sayısından alır. İki nesne farklı izleyici mantığına sahiptir.",
+        "Kült ve sergileme değeri tamamen ayrı dönemler değildir; müze de ritüel yaratır, dini görüntü de çoğaltılabilir.",
+        "Bugünün sanatçısı yalnız eser üretmez, dolaşım ve görünürlük stratejisi de kurar. Platform sergileme değerinin yeni kapısıdır."
+      ]
+    },
+    {
+      "id": "durak-06-fotograf-gozun-aliskanligini-kiriyor",
+      "section": "İKİNCİ KISIM · FOTOĞRAF",
+      "title": "Fotoğraf gözün alışkanlığını kırıyor",
+      "paragraphs": [
+        "Fotoğraf anı dondurur, ayrıntıyı büyütür ve insan gözünün hızla geçtiği şeyi incelemeye açar. Benjamin buna optik bilinçdışı fikriyle yaklaşır.",
+        "Koşan atın ayaklarını tek karede görmek, çıplak gözün sürekli harekette ayıramadığı düzeni görünür kılar. Kamera yalnız kopyalamaz, keşfeder.",
+        "Kamera tarafsız göz değildir; açı, kesme ve zaman seçimi anlam üretir. Görünmeyeni açarken başka şeyi dışarıda bırakır.",
+        "Telefon kamerası gündeliğin bilinçdışını arşivliyor, fakat sürekli çekim anı yaşamaktan çok kaydetmeye de yöneltebilir."
+      ]
+    },
+    {
+      "id": "durak-07-film-oyuncusu-kime-oynar",
+      "section": "İKİNCİ KISIM · SİNEMA",
+      "title": "Film oyuncusu kime oynar?",
+      "paragraphs": [
+        "Tiyatro oyuncusu canlı izleyicinin karşısındadır; film oyuncusu kamera ve montaj için parçalı performans verir. Seyirciyle doğrudan aura ilişkisi teknik aygıt tarafından kesilir.",
+        "Oyuncu sahneyi sabah sonundan, öğlen başından çekebilir. Montaj sürekliliği sonra kurar. Performans tek akış değil seçilmiş parçalardır.",
+        "Sinema yıldız sistemi kaybolan aurayı kişilik kültüyle yeniden üretebilir. Kopyalanabilir yüz başka türden biriciklik pazarı kurar.",
+        "Kısa video çağında herkes kamera önünde kendi oyuncusu ve montajcısı olur; benlik performansı teknik parçalarla yeniden kurulur."
+      ]
+    },
+    {
+      "id": "durak-08-montaj-yeni-dusunce-kurar",
+      "section": "İKİNCİ KISIM · SİNEMA",
+      "title": "Montaj yeni düşünce kurar",
+      "paragraphs": [
+        "Film farklı görüntüleri yan yana getirerek tek karede bulunmayan anlam yaratır. Montaj yalnız birleştirme değil düşünce yöntemidir.",
+        "Boş tabak görüntüsünü ağlayan çocukla yan yana koyunca yoksulluk, lüks sofrayla koyunca israf anlamı doğar. Kare aynı, komşusu değişmiştir.",
+        "Montaj propaganda için de kullanılabilir; izleyici bağlantının doğal olay mı kurgu mu olduğunu unutabilir.",
+        "Haber ve sosyal medya akışında bir görüntünün öncesi-sonrası kadar hangi görüntüyle yan yana getirildiğini incelemek gerekir."
+      ]
+    },
+    {
+      "id": "durak-09-kameranin-cerrah-bakisi",
+      "section": "İKİNCİ KISIM · AYGIТ",
+      "title": "Kameranın cerrah bakışı",
+      "paragraphs": [
+        "Ressam gerçeklikle sihirbaz gibi mesafe korurken kameraman cerrah gibi görüntünün içine girer, keser ve parçaları yeniden birleştirir. Teknik aygıt dünyayı işlemden geçirir.",
+        "Yakın çekim yüzdeki küçük titremeyi dev sahneye çevirir; kamera insanın doğal mesafesini değiştirir. Görmek bedenin olağan konumundan kopar.",
+        "Benzetme ressamın da seçtiğini, kameranın da bütün gerçekliği kaydetmediğini unutturmamalıdır. İki araç farklı seçim rejimleridir.",
+        "Drone, gözetim kamerası ve tıbbi görüntü bugün cerrah bakışını yeni ölçeklere taşır; erişim gücü etik denetim ister."
+      ]
+    },
+    {
+      "id": "durak-10-sok-ve-parcalanmis-dikkat",
+      "section": "İKİNCİ KISIM · ALGI",
+      "title": "Şok ve parçalanmış dikkat",
+      "paragraphs": [
+        "Hızlı kesme, yakın çekim ve ani değişim izleyiciyi sürekli küçük şoklarla uyarır. Sinema modern şehrin trafik, reklam ve kalabalık ritmine uygun yeni algı eğitimi sunar.",
+        "Sakin odadan yoğun kavşağa çıktığınızda göz sürekli yeni tehlikeye sıçrar. Film montajı bu kentsel sıçramayı salonda yeniden üretir.",
+        "Şok uyanıklık yaratabilir, derin düşünceyi de parçalayabilir. Benjamin ikili sonucu açık tutar.",
+        "Kısa video akışı şoku sonsuz hale getirir; izleyici şaşırır ama şaşkınlık normalleşince hiçbir görüntü uzun süre kalmaz."
+      ]
+    },
+    {
+      "id": "durak-11-kitle-halinde-farkli-bakmak",
+      "section": "ÜÇÜNCÜ KISIM · KİTLE",
+      "title": "Kitle halinde farklı bakmak",
+      "paragraphs": [
+        "Müze eseri tekil yoğunlaşma isterken sinema kitlesi birlikte ve dağınık dikkatle izler. Benjamin dağınıklığı yalnız düşüş değil yeni alışkanlık edinme yolu sayar.",
+        "Bir binayı kitap okuyarak değil içinde dolaşıp kapıları kullanarak öğrenirsiniz. Mimari, dikkat etmeden tekrar edilen beden hareketiyle kavranır.",
+        "Dağınık dikkat reklam ve propaganda için açık kapıdır. Tekrar edilen görüntü sorgulanmadan normalleşebilir.",
+        "Arka planda akan ekran çağında neyi yoğun dikkatle, neyi alışkanlıkla öğrendiğimizi ayırmak medya sağlığı için önemlidir."
+      ]
+    },
+    {
+      "id": "durak-12-sanatin-siyasallasmasi",
+      "section": "ÜÇÜNCÜ KISIM · SİYASET",
+      "title": "Sanatın siyasallaşması",
+      "paragraphs": [
+        "Aura gerileyince sanat ritüelden kurtulup siyasete açılır. Görüntü daha çok insana ulaşır; işçi ve sıradan yaşam temsil edilebilir, sanat ortak tartışmanın aracı olur.",
+        "Duvarın arkasındaki tabloya yalnız seçkinler ulaşırken ucuz baskı mahalleye gelir. Erişim yeni seyirci ve yeni konu yaratır.",
+        "Siyasallaşma tek doğru parti çizgisine bağlanırsa sanat propaganda aracına indirgenebilir. Eleştirel çoğulluk korunmalıdır.",
+        "Açık lisans, çevrimiçi arşiv ve yurttaş videosu erişimi genişletir; görünürlük algoritması yeni kapı bekçisi haline gelir."
+      ]
+    },
+    {
+      "id": "durak-13-fasizm-siyaseti-estetiklestirir",
+      "section": "ÜÇÜNCÜ KISIM · FAŞİZM",
+      "title": "Faşizm siyaseti estetikleştirir",
+      "paragraphs": [
+        "Benjamin faşizmin kitlelere hak vermeden kendilerini ifade etme gösterisi sunduğunu söyler. Miting, üniforma ve savaş siyaseti büyüleyici estetik sahneye dönüşür.",
+        "İnsanlar karar masasına oturamaz ama dev geçitte kendilerini güçlü bütünün parçası hisseder. Görüntü katılımın yerini alır.",
+        "Estetik tek başına faşist değildir; sorun güzelliğin eleştiriyi uyuşturup şiddeti yüce deneyim olarak sunmasıdır.",
+        "Siyasi videoda biçim bizi büyülerken hangi hak, bütçe ve kararın saklandığını sormak estetikleştirmeye karşı frendir."
+      ]
+    },
+    {
+      "id": "durak-14-savas-sanat-eserine-donusurse",
+      "section": "ÜÇÜNCÜ KISIM · YIKIM",
+      "title": "Savaş sanat eserine dönüşürse",
+      "paragraphs": [
+        "Faşizmin estetik siyasetinin doruğu savaştır: Teknoloji, hız ve kitle seferberliği güzellik olarak sunulur; insanlığın kendi yıkımını seyretmesi mümkün hale gelir.",
+        "Gece göğündeki füze görüntüsü teknik olarak etkileyici olabilir, fakat estetik hayranlık yerdeki ölüm ve yıkımı kadraj dışına iter.",
+        "Benjamin'in dili keskindir; her savaş görüntüsü şiddeti övmez. Belgesel tanıklık ve suç kanıtı da olabilir.",
+        "Görüntünün kimin açısından çekildiği ve insan maliyetini gösterip göstermediği, savaş estetiğini değerlendirmenin temelidir."
+      ]
+    },
+    {
+      "id": "durak-15-demokratik-erisim-ile-deger-kaybi",
+      "section": "DÖRDÜNCÜ KISIM · İKİLİ SONUÇ",
+      "title": "Demokratik erişim ile değer kaybı",
+      "paragraphs": [
+        "Çoğaltma seçkin erişimi kırar, eğitim ve eleştiri imkânı verir. Aynı süreç görüntüyü sonsuz akışta sıradanlaştırıp dikkat süresini kısaltabilir.",
+        "Dünyanın bütün müzeleri cebinizdeyken daha çok eser görebilir, hiçbirinin önünde iki dakika durmayabilirsiniz. Erişim ve karşılaşma aynı değildir.",
+        "Benjamin kayıp auraya yalnız yas tutmaz; demokratik potansiyeli önemser. İki sonucu birlikte görmek gerekir.",
+        "Dijital arşiv tasarımı yalnız dosya açmak değil bağlam, yavaş bakış ve kaynak bilgisi de sunmalıdır."
+      ]
+    },
+    {
+      "id": "durak-16-dijital-kopyada-orijinal-nerede",
+      "section": "GÜNÜMÜZ · DİJİTAL",
+      "title": "Dijital kopyada orijinal nerede?",
+      "paragraphs": [
+        "Dijital dosyada kopya ile orijinal bit düzeyinde aynı olabilir. Biriciklik fiziksel nesneden çok kaynak kaydı, imza, platform ve topluluk kararıyla kurulmaya başlar.",
+        "Aynı fotoğraf milyon telefonda bulunur; 'ilk dosya' gözle ayırt edilemez. Otantiklik görüntünün içinde değil kayıt zincirindedir.",
+        "NFT gibi araçlar kopyalanabilir görüntüye sahiplik kaydı ekler, fakat estetik biricikliği otomatik geri getirmez.",
+        "Dijital kültürde kaynak doğrulama, bağlam ve manipülasyon izi yeni burada-şimdi biçimlerini oluşturur."
+      ]
+    },
+    {
+      "id": "durak-17-yapay-zeka-caginda-aura",
+      "section": "GÜNÜMÜZ · ÜRETİM",
+      "title": "Yapay zekâ çağında aura",
+      "paragraphs": [
+        "Üretken yapay zekâ saniyeler içinde sayısız benzer görüntü oluşturduğunda ustalık, emek izi ve özgünlük yeniden tartışılır. Görselin nadirliği azalırken seçim ve bağlam önem kazanır.",
+        "Bin resim üretebilen makine karşısında değer yalnız üretim zorluğundan değil hangi görüntünün neden seçildiği ve nasıl kullanıldığından doğabilir.",
+        "Eğitim verisi, sanatçı emeği ve izin soruları teknik büyünün arkasındaki politik ekonomidir. Yeniden üretim artık mevcut eseri değil üslup olasılığını çoğaltır.",
+        "Benjamin'in sorusu güncellenir: Yeni erişim kimi güçlendiriyor, hangi emeği görünmez yapıyor ve eleştirel algıyı nasıl değiştiriyor?"
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Benjamin yalnız 'kopya kötüdür, aura kayboldu' diye nostalji yapmaz. Aura kaybının demokratik erişim ve yeni siyasi sanat imkânı yarattığını da savunur. Teknik üretimin otomatik özgürleştirici olduğunu düşünmek de aynı derecede yanlıştır.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Dijital dosya, sosyal medya, NFT ve üretken yapay zekâ biriciklik ile kopya ilişkisini daha da karmaşıklaştırdı. Denemenin film merkezli bazı ayrıntıları eskise de görünürlük, kaynak, dikkat ve siyasetin estetikleştirilmesi kavramları olağanüstü günceldir.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Bu görüntünün burada ve şimdi değeri nereden geliyor? Çoğaltma erişimi kimler için büyütürken hangi bağlamı siliyor? Estetik biçim hangi siyasi hak ve insan maliyetini görünmez kılıyor?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Teknik çoğaltma sanatın biricik aura ve ritüel otoritesini zayıflatırken onu kitlelere ve siyasete açar; bu açılım hem demokratik imkân hem yeni propaganda gücü taşır.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-biricik-eserin-burada-ve-simdisi": {
+      "image": "/images/summary-art-214-chapter-01-here-and-now-v1.webp",
+      "imageCaption": "Orijinal eser, görüntüsüne ek olarak belirli yerde ve tarihte bulunmuş olmanın eşsiz izini taşır."
+    },
+    "durak-03-aura-nedir": {
+      "image": "/images/summary-art-214-chapter-02-aura-distance-v1.webp",
+      "imageCaption": "Aura, eserin fiziksel yakınlığına rağmen tarih ve biriciklikten doğan dokunulmaz mesafe hissidir."
+    },
+    "durak-04-kopya-orijinale-ne-yapar": {
+      "image": "/images/summary-art-214-chapter-03-copy-travels-v1.webp",
+      "imageCaption": "Teknik kopya eseri sabit mekânından çıkarıp milyonlara taşırken orijinalin uzak otoritesini zayıflatır."
+    },
+    "durak-05-kult-degerinden-sergileme-degerine": {
+      "image": "/images/summary-art-214-chapter-04-cult-to-exhibition-v1.webp",
+      "imageCaption": "Gizli kutsal nesnenin değeri ritüelden, çoğaltılan modern görüntünün değeri geniş sergilenmeden doğabilir."
+    },
+    "durak-06-fotograf-gozun-aliskanligini-kiriyor": {
+      "image": "/images/summary-art-214-chapter-05-optical-unconscious-v1.webp",
+      "imageCaption": "Kamera hareketi dondurup ayrıntıyı büyüterek çıplak gözün fark etmediği optik bilinçdışını açar."
+    },
+    "durak-07-film-oyuncusu-kime-oynar": {
+      "image": "/images/summary-art-214-chapter-06-actor-camera-v1.webp",
+      "imageCaption": "Film oyuncusu canlı salona değil, performansı parçalayıp yeniden kuracak kamera ve montaj aygıtına oynar."
+    },
+    "durak-08-montaj-yeni-dusunce-kurar": {
+      "image": "/images/summary-art-214-chapter-07-montage-meaning-v1.webp",
+      "imageCaption": "Aynı görüntü farklı komşu karelerle bambaşka siyasi ve duygusal anlam kazanabilir."
+    },
+    "durak-09-kameranin-cerrah-bakisi": {
+      "image": "/images/summary-art-214-chapter-08-camera-surgeon-v1.webp",
+      "imageCaption": "Kamera gerçekliğe uzaktan bakmakla kalmaz, içine girip parçalayarak yeni bir görme düzeni kurar."
+    },
+    "durak-10-sok-ve-parcalanmis-dikkat": {
+      "image": "/images/summary-art-214-chapter-09-shock-attention-v1.webp",
+      "imageCaption": "Modern montaj ve şehir ritmi dikkati sürekli küçük şoklarla bir görüntüden diğerine sıçratır."
+    },
+    "durak-11-kitle-halinde-farkli-bakmak": {
+      "image": "/images/summary-art-214-chapter-10-mass-viewing-v1.webp",
+      "imageCaption": "Kitle, filmi tekil tefekkürden farklı olarak ortak ve parçalı dikkat içinde beden alışkanlığıyla öğrenebilir."
+    },
+    "durak-12-sanatin-siyasallasmasi": {
+      "image": "/images/summary-art-214-chapter-11-art-to-public-v1.webp",
+      "imageCaption": "Çoğaltılan sanat ritüel odasından çıkıp geniş kitlelerin siyasi tartışmasına ve gündelik deneyimine açılır."
+    },
+    "durak-13-fasizm-siyaseti-estetiklestirir": {
+      "image": "/images/summary-art-214-chapter-12-aestheticized-politics-v1.webp",
+      "imageCaption": "Otoriter gösteri yurttaşa gerçek karar gücü vermeden onu görkemli siyasi sahnenin parçası gibi hissettirebilir."
+    },
+    "durak-14-savas-sanat-eserine-donusurse": {
+      "image": "/images/summary-art-214-chapter-13-war-as-spectacle-v1.webp",
+      "imageCaption": "Teknik görkem savaşın insan yıkımını örterse toplum kendi felaketini estetik gösteri gibi seyredebilir."
+    },
+    "durak-15-demokratik-erisim-ile-deger-kaybi": {
+      "image": "/images/summary-art-214-chapter-14-museum-in-pocket-v1.webp",
+      "imageCaption": "Müze cebimize girince erişim büyür, fakat sonsuz görüntü akışı tek eserle uzun karşılaşmayı zayıflatabilir."
+    },
+    "durak-16-dijital-kopyada-orijinal-nerede": {
+      "image": "/images/summary-art-214-chapter-15-digital-original-v1.webp",
+      "imageCaption": "Dijital eserde biriciklik görüntünün gözle görülür farkından çok kaynak ve kayıt zincirine taşınır."
+    },
+    "durak-17-yapay-zeka-caginda-aura": {
+      "image": "/images/summary-art-214-chapter-16-ai-aura-v1.webp",
+      "imageCaption": "Sınırsız üretilebilir görüntü çağında değer nadir nesneden seçim, bağlam, kaynak ve görünmez emek tartışmasına kayar."
+    }
+  }
+}

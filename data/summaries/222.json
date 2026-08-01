@@ -1,0 +1,330 @@
+{
+  "bookNo": 222,
+  "title": "Feminizm Herkes İçindir",
+  "author": "bell hooks",
+  "subtitle": "Feminizmi kadınlarla erkekler arasındaki bir kavga değil, cinsiyetçiliği ve onun ürettiği baskıyı sona erdirme hareketi olarak anlatan sıcak, açık ve gündelik bir rehber.",
+  "coverImage": "/images/summary-art-222-feminizm-herkes-icindir-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/222-feminizm-herkes-icindir-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#8A4E62",
+  "meta": {
+    "originalTitle": "Feminism Is for Everybody",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, bell hooks tarafından yazılan Feminizm Herkes İçindir adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "bell hooks Books - Feminism Is for Everybody",
+      "url": "https://bellhooksbooks.com/product/feminism-is-for-everybody/"
+    },
+    {
+      "id": 2,
+      "title": "Encyclopaedia Britannica - bell hooks",
+      "url": "https://www.britannica.com/biography/bell-hooks"
+    },
+    {
+      "id": 3,
+      "title": "Routledge - Feminism Is for Everybody",
+      "url": "https://www.routledge.com/Feminism-Is-for-Everybody-Passionate-Politics/hooks/p/book/9781138821620"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Feminizmi kadınlarla erkekler arasındaki bir kavga değil, cinsiyetçiliği ve onun ürettiği baskıyı sona erdirme hareketi olarak anlatan sıcak, açık ve gündelik bir rehber.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-feminizmin-kisa-ve-acik-tanimi",
+      "section": "BAŞLANGIÇ · KAPIYI AÇMAK",
+      "title": "Feminizmin kısa ve açık tanımı",
+      "paragraphs": [
+        "bell hooks feminizmi cinsiyetçiliği, cinsiyetçi sömürüyü ve baskıyı sona erdirme hareketi diye tanımlar. Bu tanım suçlanacak bir cins aramaz; değiştirilecek bir düzeni gösterir.",
+        "Bir evde kız çocuğuna sofra, oğlana dinlenme düşüyorsa sorun tek bir kötü baba değildir. Aynı kuralı anne, dede ve televizyon da öğretebilir.",
+        "Tanımın gücü erkeklerin de cinsiyetçi düzen içinde incinebileceğini kabul etmesidir. Fakat güç eşit dağılmadığı için kadınların yaşadığı sistemli kayıp görünmez kılınmamalıdır.",
+        "Bir davranışı tartışırken 'Bunu kim yaptı?' sorusunun yanına 'Bu davranışı normal gösteren kural ne?' sorusunu eklemek kitabın kapısını açar."
+      ]
+    },
+    {
+      "id": "durak-03-sorun-erkekler-degil-cinsiyetciliktir",
+      "section": "BİRİNCİ KISIM · YANLIŞ KORKU",
+      "title": "Sorun erkekler değil cinsiyetçiliktir",
+      "paragraphs": [
+        "Kitap, feminizmin erkek düşmanlığı olduğu korkusunu dağıtır. Erkekler cinsiyetçilikten yararlanabilir; ama cinsiyetçi düşünceyi kadınlar da öğrenip yeniden üretebilir.",
+        "Oğluna 'erkek ağlamaz' diyen bir anne onu sertlik kafesine iter. Burada cümlenin sahibi kadın olsa da taşıdığı kural erkek egemen kültürdür.",
+        "Bu yaklaşım erkeklerin sorumluluğunu silmez. Avantajı olan kişinin yalnız niyetine değil, davranışının sonucuna ve vazgeçmesi gereken ayrıcalığa bakılır.",
+        "Tartışmayı 'kadınlar mı erkekler mi haklı?' maçından çıkarıp hangi söz ve kurumun eşitsizlik ürettiğine çevirmek çözüm alanını büyütür."
+      ]
+    },
+    {
+      "id": "durak-04-bilinc-yukseltme-odalari",
+      "section": "BİRİNCİ KISIM · DENEYİMİ ADLANDIRMAK",
+      "title": "Bilinç yükseltme odaları",
+      "paragraphs": [
+        "İlk feminist bilinç yükseltme gruplarında kadınlar özel sandıkları deneyimleri birbirine anlattı. Aynı korku ve engelin tekrarlandığını görünce kişisel sorun siyasi bir örüntüye dönüştü.",
+        "İş yerinde sözü sürekli kesilen biri kendini beceriksiz sanabilir. Beş kadının aynı sahneyi anlatması, aynanın kişide değil toplantı düzeninde olduğunu gösterir.",
+        "Paylaşım tek başına dönüşüm değildir; grup yalnız öfke boşaltan kapalı çevreye dönüşebilir. Deneyim, araştırma ve ortak eylemle bağlanmalıdır.",
+        "Bugün güvenli çevrim içi topluluklar aynı işi yapabilir; fakat yanlış bilgi ve yankı odası riskine karşı farklı deneyimleri dinlemek gerekir."
+      ]
+    },
+    {
+      "id": "durak-05-kiz-kardeslik-neden-kolay-degildir",
+      "section": "İKİNCİ KISIM · FARKLAR",
+      "title": "Kız kardeşlik neden kolay değildir?",
+      "paragraphs": [
+        "Kadın olmak herkesi otomatik olarak eşit ortak yapmaz. Irk, sınıf, milliyet ve cinsel yönelim bazı kadınlara başkaları üzerinde güç verebilir.",
+        "Varlıklı bir kadın yönetici cam tavanı kırarken düşük ücretli kadın çalışanın omzuna basıyorsa, yalnız temsil artmış ama düzen bütünüyle değişmemiştir.",
+        "hooks eski 'hepimiz aynıyız' kız kardeşliğinin farkları örttüğünü söyler. Dayanışma benzerlikten değil, eşitsizlikle yüzleşme ve sorumluluk alma iradesinden doğar.",
+        "Bir grupta en çok konuşanın değil en çok bedel ödeyenin deneyimine yer açmak, romantik kardeşliği gerçek siyasi ortaklığa çevirir."
+      ]
+    },
+    {
+      "id": "durak-06-sinif-kapidan-iceri-girince",
+      "section": "İKİNCİ KISIM · EMEK",
+      "title": "Sınıf kapıdan içeri girince",
+      "paragraphs": [
+        "Ana akım feminizm bazen ücretli işe çıkmayı bütün kadınların özgürlüğü gibi sundu. Oysa yoksul kadınlar zaten çalışıyor, üstelik evdeki ücretsiz emeği de taşıyordu.",
+        "Ofise giden orta sınıf kadının çocuğuna daha düşük ücretli başka bir kadın bakıyorsa özgürlük birinden diğerine aktarılmış olabilir.",
+        "Ücretli iş ekonomik bağımsızlık sağlayabilir ama kötü ücret, taciz ve bakım yükü varsa tek başına kurtuluş değildir. Çalışmanın koşulları belirleyicidir.",
+        "Eşit ücret kadar kreş, bakım paylaşımı, sendika ve güvenli çalışma konuşmak sınıfı feminist gündemin merkezine getirir."
+      ]
+    },
+    {
+      "id": "durak-07-beden-uzerinde-soz-sahibi-olmak",
+      "section": "ÜÇÜNCÜ KISIM · BEDEN",
+      "title": "Beden üzerinde söz sahibi olmak",
+      "paragraphs": [
+        "Üreme özgürlüğü yalnız kürtaj hakkı değildir; güvenli doğum kontrolü, doğru bilgi, sağlık hizmeti ve çocuk sahibi olabilme koşullarını da kapsar.",
+        "Bir kadın yasal hakkı olduğu halde kliniğe ulaşamıyor veya parasını ödeyemiyorsa kâğıttaki özgürlük gündelik hayatta kapalı kapıdır.",
+        "hooks seçim dilinin sınıf farkını gizleyebileceğini hatırlatır. Gerçek seçim, seçeneklerin maddi olarak ulaşılabilir olmasını ister.",
+        "Beden tartışmasında 'izin var mı?' kadar 'güvenli hizmete kim ulaşabiliyor?' diye sormak hak ile imkân arasındaki boşluğu gösterir."
+      ]
+    },
+    {
+      "id": "durak-08-guzellik-aynasinin-arkasindaki-guc",
+      "section": "ÜÇÜNCÜ KISIM · GÖRÜNÜŞ",
+      "title": "Güzellik aynasının arkasındaki güç",
+      "paragraphs": [
+        "Cinsiyetçi kültür kadının değerini görünüşe bağlar; piyasa da bu kaygıyı ürün satarak büyütür. Özgürlük yalnız istediğini giymek değil, giymediğinde cezalandırılmamaktır.",
+        "İş görüşmesinde aynı yetenekte iki kişinin saçına veya yaşına farklı anlam yüklenmesi, aynanın aslında toplumsal bir değerlendirme aracı olduğunu gösterir.",
+        "Makyaj yapan kadını bilinçsiz, yapmayanı üstün saymak yeni bir denetim kurar. Önemli olan seçimin korku, zorunluluk ve ceza içindeki yeridir.",
+        "Bir reklamı izlerken hangi eksikliği icat edip sonra çözüm sattığını sormak güzellik baskısının ekonomik motorunu görünür kılar."
+      ]
+    },
+    {
+      "id": "durak-09-siddetin-evi-yoktur",
+      "section": "DÖRDÜNCÜ KISIM · GÜVENLİK",
+      "title": "Şiddetin evi yoktur",
+      "paragraphs": [
+        "Aile içi şiddet özel alan bahanesiyle saklandığında ev güvenli liman değil kapalı bir tuzağa dönüşür. Feminist hareket bu sessizliği kamusal mesele yaptı.",
+        "Komşunun duyduğu çığlığı 'aile işidir' diye görmezden gelmesi tarafsızlık değildir; güçlü olanın duvarını kalınlaştırır.",
+        "hooks şiddeti yalnız erkeklerin kadınlara uyguladığı biçime indirgemez; çocuklara ve aynı cins ilişkilerdeki şiddeti de ciddiye alır. Yine de oran ve güç farkları unutulmamalıdır.",
+        "Koruma hattı, sığınak ve hukuk gereklidir; uzun vadede ise çocuklara sevgi ile kontrolün aynı şey olmadığını öğretmek gerekir."
+      ]
+    },
+    {
+      "id": "durak-10-cocuk-yetistirmek-de-feminist-istir",
+      "section": "DÖRDÜNCÜ KISIM · AİLE",
+      "title": "Çocuk yetiştirmek de feminist iştir",
+      "paragraphs": [
+        "Cinsiyetçilik çocukken öğrenilir. Kıza uyum, oğlana hâkimiyet öğreten ev gelecekteki eşitsiz ilişkinin küçük okuludur.",
+        "Oğlan düşüp ağladığında sarılmak, kıza bozulan oyuncağı tamir ettirmek basit görünür; ama duygu ve beceriyi cinsiyetten ayırır.",
+        "Aile yalnız baskı yeri değildir; bakım, direnç ve aidiyet de üretir. Feminist eleştiri aileyi yok etmekten çok tahakkümsüz hale getirmeyi amaçlar.",
+        "Ev işlerini yaşa göre paylaştırmak ve çocuğun beden sınırına saygı göstermek büyük kavramları günlük davranışa çevirir."
+      ]
+    },
+    {
+      "id": "durak-11-erkekler-de-ozgurlesebilir",
+      "section": "BEŞİNCİ KISIM · ERKEKLİK",
+      "title": "Erkekler de özgürleşebilir",
+      "paragraphs": [
+        "Ataerkil düzen erkeğe güç verirken sevgi, kırılganlık ve yardım isteme alanını daraltır. Feminist değişim erkeklere insanlıklarının budanan yanlarını geri verebilir.",
+        "İşini kaybeden adam üzüntüsünü söyleyemeyip öfkeye çeviriyorsa, 'geçindiren sert erkek' rolü hem ona hem evdekilere zarar verir.",
+        "Erkeklerin acı çekmesi kadınların maruz kaldığı baskıyla aynı değildir. Acıyı görmek ayrıcalığı inkâr etmek değil, dönüşüm için neden çoğaltmaktır.",
+        "Erkeklerin çocuk bakımına, dostluğa ve duygusal dile katılması iyilik jesti değil daha özgür bir yaşam pratiğidir."
+      ]
+    },
+    {
+      "id": "durak-12-ask-tahakkumle-yasayamaz",
+      "section": "BEŞİNCİ KISIM · SEVGİ",
+      "title": "Aşk tahakkümle yaşayamaz",
+      "paragraphs": [
+        "hooks sevginin bakım, saygı, güven ve sorumluluk içerdiğini; kontrol ile şiddetin sevgi sayılamayacağını söyler. Feminist siyaset bu nedenle aşkın karşıtı değildir.",
+        "Telefonu sürekli kontrol eden eş kıskançlığını 'çok seviyorum' diye adlandırabilir. Ad değişince denetim sevgi olmaz.",
+        "Romantik ilişkiyi yalnız kişisel uyumla açıklamak ekonomik bağımlılık ve öğrenilmiş rolleri kaçırır. Sevgi için eşit pazarlık alanı gerekir.",
+        "İlişkide 'Beni seviyor mu?' sorusunun yanına 'Sınırıma ve gelişmeme saygı duyuyor mu?' sorusunu koymak kitabın pratik dersidir."
+      ]
+    },
+    {
+      "id": "durak-13-egitim-ozgurlugun-dili-olabilir",
+      "section": "ALTINCI KISIM · ÖĞRENME",
+      "title": "Eğitim özgürlüğün dili olabilir",
+      "paragraphs": [
+        "Feminist eğitim öğrenciye hazır doğruyu ezberletmek yerine kendi deneyimini güç ilişkileriyle birlikte okuma imkânı verir. Sınıf, konuşma hakkının da paylaşıldığı yerdir.",
+        "Öğretmen yalnız erkek yazarlardan örnek verirse öğrenci dünyanın yarısını otorite koltuğunda görür. Müfredat sessizce kimin bilgi üretebileceğini öğretir.",
+        "Kadın yazar eklemek yetmez; ırk, sınıf ve sömürge soruları da tartışılmalıdır. Temsil, eğitim yönteminin demokratikleşmesiyle tamamlanır.",
+        "Toplantı veya sınıfta kimin sözünün kesildiğini saymak bile görünmez hiyerarşiyi tartışılabilir veriye dönüştürür."
+      ]
+    },
+    {
+      "id": "durak-14-populer-kultur-hem-ogretir-hem-direnebilir",
+      "section": "ALTINCI KISIM · MEDYA",
+      "title": "Popüler kültür hem öğretir hem direnebilir",
+      "paragraphs": [
+        "Film, şarkı ve reklam aşkın, güzelliğin ve gücün nasıl görünmesi gerektiğini tekrarlar. Medya eğlence sunarken cinsiyet dersini de sessizce verir.",
+        "Dizide kıskanç erkeğin büyük âşık diye ödüllendirilmesi, denetimi romantik jest gibi paketler. Aynı dizi güçlü bir kadın karakterle kalıbı da kırabilir.",
+        "İzleyici boş kap değildir; parodi yapar ve karşı okuma üretir. Fakat tekrarın ve büyük platformların dağıtım gücü hâlâ önemlidir.",
+        "Ailece izlenen sahnede 'Burada kimin isteği önemli sayıldı?' diye sormak medya eleştirisini sıkıcı dersten canlı sohbete çevirir."
+      ]
+    },
+    {
+      "id": "durak-15-irk-ve-cinsiyet-ayni-kavsakta",
+      "section": "YEDİNCİ KISIM · KESİŞİM",
+      "title": "Irk ve cinsiyet aynı kavşakta",
+      "paragraphs": [
+        "Siyah kadınların deneyimi yalnız ırkçılık ile cinsiyetçiliğin yan yana toplamı değildir; iki yolun kesişiminde farklı bir engel oluşur.",
+        "İşveren beyaz kadını kadın kotasında, siyah erkeği ırk kotasında işe alıp siyah kadını yine dışarıda bırakabilir. Ayrı cetveller kavşağı ölçmez.",
+        "hooks kesişimsellik kelimesini icat etmedi ama siyah feminist geleneğin bu uyarısını popüler ve açık biçimde taşır.",
+        "Politika tasarlarken ortalama kadını değil, gelir, engellilik, göç ve ırk nedeniyle en çok kapı kapanan kişiyi düşünmek çözümü güçlendirir."
+      ]
+    },
+    {
+      "id": "durak-16-herkes-icin-hareket-ne-demektir",
+      "section": "YEDİNCİ KISIM · KATILIM",
+      "title": "Herkes için hareket ne demektir?",
+      "paragraphs": [
+        "Başlıktaki 'herkes' feminizmin sulandırılması değil, cinsiyetçiliğin herkesi ilgilendirdiği çağrısıdır. Hareket uzmanların özel kulübü olursa gündelik hayatı değiştiremez.",
+        "Ev işini paylaşan baba, ayrımcı şakaya itiraz eden arkadaş ve adil kreş isteyen işçi aynı büyük değişimin farklı kapılarından girer.",
+        "Katılım merkezdeki kadınların liderliğini silmemeli; erkekler sahneyi devralmadan sorumluluk ve dayanışma üstlenmelidir.",
+        "Kendinize 'Bugün hangi küçük kuralı yeniden üretmedim?' diye sormak kimliği eyleme bağlar."
+      ]
+    },
+    {
+      "id": "durak-17-devrim-gundelik-aliskanlikta-baslar",
+      "section": "SON KISIM · EYLEM",
+      "title": "Devrim gündelik alışkanlıkta başlar",
+      "paragraphs": [
+        "hooks yasal eşitliğin gerekli ama yetersiz olduğunu söyler. Cinsiyetçilik evde, dilde, aşkta ve tüketimde yaşamaya devam ediyorsa değişim kâğıtta kalır.",
+        "Şirket yönetmeliği eşitlik yazarken toplantıda kadınların fikirleri erkek meslektaş üzerinden duyuluyorsa eski alışkanlık yeni tabelanın altında sürer.",
+        "Küçük davranışları değiştirmek kurum siyasetinin yerini tutmaz. Maaş, hukuk ve güvenlik dönüşümü kişisel farkındalıkla birlikte yürümelidir.",
+        "Büyük sloganı ertesi sabah kimin bulaşığı yıkadığı, kimin konuştuğu ve kimin güvende olduğu sorularına indirmek kitabı canlı tutar."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Kitap kadınların erkeklerden üstün olması gerektiğini savunmaz; feminizmi yalnız bireysel başarı veya yaşam tarzı seçimi de saymaz. Temel hedef, cinsiyetçi tahakkümün sınıf ve ırkla birleşen bütün biçimlerini değiştirmektir.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Sosyal medya feminist sözü yaygınlaştırdı, fakat görünürlük yarışını ve çevrim içi şiddeti de büyüttü. hooks'un sade tanımı bugün temsil ile gerçek güç değişimini, etiket ile gündelik davranışı birbirinden ayırmak için hâlâ işe yarar.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Bu durumda kimin sözü ve bedeni daha az değerli sayılıyor? Görünürdeki seçim herkes için maddi olarak mümkün mü? Kendi rahatlığımı korurken başkasının yükünü görünmez mi yapıyorum?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Feminizm kadınlarla erkeklerin savaşı değil, sevgiye, emeğe ve özgürlüğe zarar veren cinsiyetçi tahakkümü herkes için sona erdirme hareketidir.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-feminizmin-kisa-ve-acik-tanimi": {
+      "image": "/images/summary-art-222-chapter-01-open-feminism-door-v1.webp",
+      "imageCaption": "Açık kapı, feminizmi bir cinsin kalesi değil cinsiyetçi kuralı birlikte değiştirme çağrısı olarak gösterir."
+    },
+    "durak-03-sorun-erkekler-degil-cinsiyetciliktir": {
+      "image": "/images/summary-art-222-chapter-02-sexism-not-men-v1.webp",
+      "imageCaption": "Hedef tahtasındaki tek tek erkekler değil, herkese öğretilen ve eşitsizliği sürdüren cinsiyetçi kuraldır."
+    },
+    "durak-04-bilinc-yukseltme-odalari": {
+      "image": "/images/summary-art-222-chapter-03-consciousness-circle-v1.webp",
+      "imageCaption": "Bir çemberde birleşen kişisel hikâyeler, tek tek utançları ortak ve değiştirilebilir bir düzene dönüştürür."
+    },
+    "durak-05-kiz-kardeslik-neden-kolay-degildir": {
+      "image": "/images/summary-art-222-chapter-04-unequal-sisterhood-v1.webp",
+      "imageCaption": "Aynı köprüde yürüyen kadınlar farklı yükler taşır; dayanışma bu yük farkını görerek kurulur."
+    },
+    "durak-06-sinif-kapidan-iceri-girince": {
+      "image": "/images/summary-art-222-chapter-05-work-care-scales-v1.webp",
+      "imageCaption": "Terazinin bir kefesindeki ücretli iş, diğerindeki görünmez bakım emeği hesaba katılmadan özgürlük ölçülemez."
+    },
+    "durak-07-beden-uzerinde-soz-sahibi-olmak": {
+      "image": "/images/summary-art-222-chapter-06-body-choice-paths-v1.webp",
+      "imageCaption": "Beden özgürlüğü yalnız açık bir kapı değil, herkesin yürüyebileceği güvenli ve erişilebilir yollar gerektirir."
+    },
+    "durak-08-guzellik-aynasinin-arkasindaki-guc": {
+      "image": "/images/summary-art-222-chapter-07-mirror-price-tag-v1.webp",
+      "imageCaption": "Aynanın arkasındaki fiyat etiketi, beden kaygısının kültür kadar pazar tarafından da üretildiğini gösterir."
+    },
+    "durak-09-siddetin-evi-yoktur": {
+      "image": "/images/summary-art-222-chapter-08-house-with-open-window-v1.webp",
+      "imageCaption": "Kapalı evin açılan penceresi, özel sayılan şiddetin toplumun görebileceği ve durdurabileceği bir mesele oluşunu anlatır."
+    },
+    "durak-10-cocuk-yetistirmek-de-feminist-istir": {
+      "image": "/images/summary-art-222-chapter-09-equal-childhood-tools-v1.webp",
+      "imageCaption": "Aynı oyuncak ve bakım araçlarına uzanan çocuklar, beceri ile duygunun cinsiyete ait olmadığını öğrenir."
+    },
+    "durak-11-erkekler-de-ozgurlesebilir": {
+      "image": "/images/summary-art-222-chapter-10-man-removing-armor-v1.webp",
+      "imageCaption": "Zırhını çıkaran erkek güç kaybetmez; duygu, bakım ve yakınlık için hareket alanı kazanır."
+    },
+    "durak-12-ask-tahakkumle-yasayamaz": {
+      "image": "/images/summary-art-222-chapter-11-love-without-cage-v1.webp",
+      "imageCaption": "Açık duran kafes, sevginin sahip olmak değil karşıdakinin özgür gelişimine alan açmak olduğunu hatırlatır."
+    },
+    "durak-13-egitim-ozgurlugun-dili-olabilir": {
+      "image": "/images/summary-art-222-chapter-12-shared-classroom-voice-v1.webp",
+      "imageCaption": "Açık kitap çevresinde eşit söz alan öğrenciler, bilginin tek kürsüden inmediği bir eğitim alanı kurar."
+    },
+    "durak-14-populer-kultur-hem-ogretir-hem-direnebilir": {
+      "image": "/images/summary-art-222-chapter-13-screen-role-shadows-v1.webp",
+      "imageCaption": "Ekrandan düşen rol gölgeleri davranışı biçimlendirir; izleyici ışığı çevirerek gölgeyi de değiştirebilir."
+    },
+    "durak-15-irk-ve-cinsiyet-ayni-kavsakta": {
+      "image": "/images/summary-art-222-chapter-14-intersection-crossroads-v1.webp",
+      "imageCaption": "Kesişen yollar tek tek engellerin toplamından farklı, özellikle bazı kadınları sıkıştıran yeni bir kavşak yaratır."
+    },
+    "durak-16-herkes-icin-hareket-ne-demektir": {
+      "image": "/images/summary-art-222-chapter-15-everyone-joins-path-v1.webp",
+      "imageCaption": "Farklı insanların aynı yola katılması, feminizmi etiket değil gündelik cinsiyetçiliği azaltan ortak hareket yapar."
+    },
+    "durak-17-devrim-gundelik-aliskanlikta-baslar": {
+      "image": "/images/summary-art-222-chapter-16-everyday-revolution-v1.webp",
+      "imageCaption": "Büyük pankarttan eve uzanan yol, feminist değişimin yasa kadar sofra ve konuşma düzeninde de kurulacağını gösterir."
+    }
+  }
+}

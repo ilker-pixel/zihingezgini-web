@@ -1,0 +1,335 @@
+{
+  "bookNo": 32,
+  "title": "Behave (Davranış)",
+  "author": "Robert Sapolsky",
+  "subtitle": "Bir insanın iyilik ya da şiddet anını tek bir nedene bağlamayı reddeden; davranıştan bir saniye önceki beyin faaliyetinden çocukluğa, hormonlardan kültüre ve evrime doğru zamanı geriye saran büyük biyoloji hikâyesi.",
+  "coverImage": "/images/summary-art-32-behave-davranis-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/32-behave-davranis-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#53645B",
+  "meta": {
+    "originalTitle": "Behave: The Biology of Humans at Our Best and Worst",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Robert Sapolsky tarafından yazılan Behave (Davranış) adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Robert Sapolsky - Behave",
+      "url": "https://www.robertsapolskyrocks.com/behave"
+    },
+    {
+      "id": 2,
+      "title": "Penguin Random House - Behave",
+      "url": "https://www.penguinrandomhouse.com/books/311787/behave-by-robert-m-sapolsky/"
+    },
+    {
+      "id": 3,
+      "title": "Stanford - Robert Sapolsky",
+      "url": "https://profiles.stanford.edu/robert-sapolsky"
+    },
+    {
+      "id": 4,
+      "title": "Nature Reviews Neuroscience - Stress and the brain",
+      "url": "https://www.nature.com/articles/nrn2639"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Bir insanın iyilik ya da şiddet anını tek bir nedene bağlamayı reddeden; davranıştan bir saniye önceki beyin faaliyetinden çocukluğa, hormonlardan kültüre ve evrime doğru zamanı geriye saran büyük biyoloji hikâyesi.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-bir-saniye-once",
+      "section": "BAŞLANGIÇ · ZAMAN MAKİNESİ",
+      "title": "Bir saniye önce",
+      "paragraphs": [
+        "Sapolsky bir davranışın nedenini sormak için zamanı geriye sarar. Bir tetiğe basılmadan, bir yabancıya yardım edilmeden ya da kırıcı söz söylenmeden hemen önce hangi sinir hücreleri ateşlendi? İlk durak beynin o anki elektrik ve kimyasal durumudur.",
+        "Gece karanlığında çalıdan ses geldiğinde beyniniz daha ne olduğunu anlamadan bedeniniz gerilir. Bir saniye sonra bunun kedi olduğunu görüp rahatlarsınız. Davranış, bilinçli hikâyemizden önce başlayan hızlı değerlendirmeler taşır.",
+        "Bu yaklaşım kişiyi robota çevirmez; tek açıklamalı ahlak masalını zorlar. Niyet önemlidir ama niyet de algı, hafıza, beden ve durum içinden oluşur.",
+        "Bir tartışmada 'nasıl böyle yaptı?' demeden önce o saniyede ne gördüğünü, neyi tehdit saydığını ve hangi seçeneği fark edebildiğini sormak daha açıklayıcıdır."
+      ]
+    },
+    {
+      "id": "durak-03-amigdala-korku-dugmesi-degil",
+      "section": "BİRİNCİ KISIM · BEYİN",
+      "title": "Amigdala: korku düğmesi değil",
+      "paragraphs": [
+        "Amigdala çoğu popüler anlatıda yalnız korku merkezi diye geçer. Sapolsky onu daha geniş görür: Tehdit, belirsizlik, toplumsal işaret ve duygusal önem değerlendirmesinde rol alan bir ağ parçasıdır.",
+        "Kalabalıkta tanımadığınız birinin hızla yaklaşması aynı hareket olmasına rağmen karanlık sokakta tehdit, havaalanında kavuşma olabilir. Amigdala görüntüyü bağlamdan kopuk bir alarm gibi okumaz.",
+        "Beyinde hiçbir bölge tek başına ahlak, şiddet ya da sevgi üretmez. Amigdala prefrontal korteks, hafıza ve beden sinyalleriyle konuşur. Bölge adını neden sanmak, orkestradaki tek çalgıyı besteci saymaktır.",
+        "Güncel beyin haberlerinde 'şu bölge yandı, demek ki...' cümlesine temkinli yaklaşmak gerekir. Aktivite ilişki gösterir; tek başına niyet ve kader göstermez."
+      ]
+    },
+    {
+      "id": "durak-04-prefrontal-korteksin-zor-freni",
+      "section": "BİRİNCİ KISIM · BEYİN",
+      "title": "Prefrontal korteksin zor freni",
+      "paragraphs": [
+        "Alnın arkasındaki prefrontal bölgeler planlama, dürtü denetimi ve sonuçları tartmada önemlidir. Yavaş olgunlaşır, yorgunluk ve stres altında verimi düşer; bu yüzden doğruyu bilmek her zaman doğruyu yapmak değildir.",
+        "Diyet yaptığınızı sabah hatırlamak kolaydır; gece uykusuz ve açken pastanın önünde aynı karar zorlaşır. Fren sistemi bozulmuş değildir, kaynakları ve rakip dürtüler değişmiştir.",
+        "Prefrontal korteksi saf iyilik merkezi saymak da yanlıştır. Aynı planlama becerisi yardım kampanyası düzenlemek için de soğukkanlı dolandırıcılık yapmak için de kullanılabilir.",
+        "İş yerinde hata yapan kişiye yalnız karakter dersi vermek yerine uyku, zaman baskısı ve karar ortamını düzeltmek davranışı daha kalıcı biçimde değiştirebilir."
+      ]
+    },
+    {
+      "id": "durak-05-dopamin-haz-degil-beklenti",
+      "section": "BİRİNCİ KISIM · ÖDÜL",
+      "title": "Dopamin: haz değil beklenti",
+      "paragraphs": [
+        "Dopamin çoğu zaman mutluluk kimyasalı diye tanıtılır. Sapolsky'nin anlattığı araştırmalar, onun özellikle ödül beklentisi, öğrenme ve beklenenle gerçekleşen arasındaki farkta rol oynadığını gösterir.",
+        "Telefon bildirimi geldiğinde henüz iyi haber okumadan ekrana uzanırsınız. Heyecan ödülün kendisinden çok gelebilecek şeydedir. Belirsiz aralıklarla gelen küçük ödüller davranışı güçlü biçimde bağlayabilir.",
+        "Dopamin kötü değildir; hedefe yönelme ve öğrenme için gereklidir. Sorun, sistemin kumar, sosyal medya ya da sürekli alışveriş gibi çevrelerce bitmeyen beklentiye kilitlenebilmesidir.",
+        "Kendimizi 'iradesiz' diye suçlamak yerine hangi ipuçlarının beklenti döngüsü kurduğunu görmek, ortamı değiştirmek için somut başlangıç verir."
+      ]
+    },
+    {
+      "id": "durak-06-hormonlar-davranisi-emretmez",
+      "section": "İKİNCİ KISIM · BEDEN",
+      "title": "Hormonlar davranışı emretmez",
+      "paragraphs": [
+        "Testosteron saldırganlığı açıp kapatan bir düğme değildir. Var olan toplumsal rekabeti, statü arayışını ve öğrenilmiş davranışı bağlama göre güçlendirebilir. Statü cömertlikle kazanılıyorsa cömert davranış da artabilir.",
+        "Bir spor takımında alkış sert müdahaleye gidiyorsa oyuncu sertleşir; aynı hormon düzeyi saygınlığın centilmenlikten geldiği ortamda farklı davranabilir. Hormon melodiyi tek başına yazmaz, sesini yükseltir.",
+        "Oksitosin de evrensel sevgi sıvısı değildir. Yakın gruba güveni artırırken yabancıya kuşkuyu büyütebilir. Biyoloji 'biz' duygusunu güçlendirir ama o bizin sınırını kültür çizer.",
+        "Hormon etiketleri cinsiyet ve şiddet hakkında kolay mazeret üretmemeli. Beden etkiler; sosyal kural, öğrenme ve hesap verebilirlik bu etkinin yönünü değiştirir."
+      ]
+    },
+    {
+      "id": "durak-07-stres-altinda-daralan-dunya",
+      "section": "İKİNCİ KISIM · STRES",
+      "title": "Stres altında daralan dünya",
+      "paragraphs": [
+        "Kısa süreli stres kaçmak, odaklanmak ve enerji toplamak için yararlıdır. Kronik stres ise dikkat, bağışıklık, metabolizma ve karar verme sistemlerini yıpratır; dünya daha tehdit dolu görünmeye başlar.",
+        "Yangın alarmı beş dakika çalarsa hayat kurtarır, aylarca susmazsa binada kimse düşünemez. Yoksulluk, ayrımcılık ve güvencesizlik bedeni böyle uzun bir alarmda tutabilir.",
+        "Sapolsky stresi yalnız kişisel zayıflık saymaz. Denetim duygusu, öngörülebilirlik, sosyal destek ve hiyerarşideki yer biyolojik yükü değiştirir.",
+        "Bu nedenle nefes egzersizi yararlı olsa da kötü çalışma koşullarının yerine geçmez. Sağlık, bireysel başa çıkma ile toplumsal düzenin birlikte ele alınmasını ister."
+      ]
+    },
+    {
+      "id": "durak-08-cocukluk-beyne-nasil-yazilir",
+      "section": "ÜÇÜNCÜ KISIM · GELİŞİM",
+      "title": "Çocukluk beyne nasıl yazılır?",
+      "paragraphs": [
+        "Erken bakım, tehdit, beslenme ve güven deneyimleri beynin gelişim yollarını etkiler. Çocukluk geçmişte kalmış bir anı değil, stres sisteminin hangi eşiğe ayarlanacağını belirleyen uzun bir hazırlıktır.",
+        "Sürekli bağırılan evde çocuk en küçük yüz hareketini tehlike işareti olarak öğrenebilir. Yıllar sonra nötr bir bakışı küçümseme sanması mantıksız karakter değil, geçmişte işe yarayan hassas alarmın yeni yerde çalışması olabilir.",
+        "Erken deneyim kader değildir. Beyin yaşam boyunca değişir; güvenli ilişkiler, eğitim ve tedavi yeni yollar kurabilir. Olasılık yükselir, sonuç mühürlenmez.",
+        "Çocuk politikası bu yüzden yalnız ahlaki iyilik değil uzun dönemli halk sağlığıdır. Güvenli bakım gelecekteki karar sistemlerinin altyapısına yatırım yapar."
+      ]
+    },
+    {
+      "id": "durak-09-ergen-beyninin-gazi-ve-freni",
+      "section": "ÜÇÜNCÜ KISIM · ERGENLİK",
+      "title": "Ergen beyninin gazı ve freni",
+      "paragraphs": [
+        "Ergenlikte ödül ve toplumsal kabul sistemleri güçlü çalışırken prefrontal denetim daha geç olgunlaşır. Risk, özellikle akranların yanında daha çekici olabilir.",
+        "Genç sürücü yalnızken sakin, arkadaşları arabadayken hızlı sürebilir. Motor aynı, yol aynı; fakat sosyal ödül hesabı değişir. Ergenlik davranışını yalnız bilgisizlik açıklamaz.",
+        "Bu dönem aynı zamanda yaratıcılık, cesaret ve adalet duyarlılığı taşır. Risk alma yalnız sorun değil, eski düzeni sorgulama ve yeni bağlar kurma gücüdür.",
+        "Yetişkinlerin görevi yalnız yasak koymak değil, güvenli risk alanları ve ait olunacak olumlu gruplar yaratmaktır. Çevre, gaz ile fren arasındaki dengeyi etkiler."
+      ]
+    },
+    {
+      "id": "durak-10-biz-ve-onlar-bir-anda-degisebilir",
+      "section": "DÖRDÜNCÜ KISIM · GRUPLAR",
+      "title": "Biz ve onlar bir anda değişebilir",
+      "paragraphs": [
+        "Beyin insanları hızla biz ve onlar diye ayırır. Bu ayrım ırk, takım, din ya da geçici bir işaret üzerinden kurulabilir; sabit değildir. Aynı yabancı bir dakika içinde ortak amaç sayesinde 'bizden' olabilir.",
+        "Derbi günü farklı forma giyen komşu rakiptir; deprem olduğunda aynı enkazın gönüllüsüdür. Kategori değişince yüz aynı kalsa da duygu ve yardım davranışı değişir.",
+        "Hızlı grupçuluk biyolojik yatkınlık taşısa da sınırları kültür ve siyaset çizer. Liderler tehdidi büyüterek kategoriyi sertleştirebilir, kurumlar ortak kimliği genişletebilir.",
+        "Önyargıyla mücadele yalnız 'iyi insan ol' çağrısı değil, işbirliği gerektiren temas ve ortak hedef tasarımıdır. Biz sözcüğünün çapı büyütülebilir."
+      ]
+    },
+    {
+      "id": "durak-11-ahlaki-tiksinmenin-tehlikeli-yolu",
+      "section": "DÖRDÜNCÜ KISIM · AHLAK",
+      "title": "Ahlaki tiksinmenin tehlikeli yolu",
+      "paragraphs": [
+        "Tiksinme başlangıçta bozuk yiyecek ve hastalıktan kaçınmaya yardım eder. İnsan toplumu bu bedensel duyguyu ahlaki ve siyasi alanlara taşır; bir grubu kirli diye görmek dışlamayı kolaylaştırır.",
+        "Çürük kokusuna verdiğimiz yüz ifadesinin bir insan topluluğunu anlatan konuşmada tekrarlandığını düşünün. Dil, biyolojik kaçınma sistemini toplumsal nefrete bağlayabilir.",
+        "Ahlaki yargı yalnız tiksinmeden oluşmaz; empati, zarar, adalet ve gelenek de rol oynar. Fakat tiksinme güçlü olduğunda kanıt ve bireysel farklılık görünmez hale gelebilir.",
+        "Bir söylem insanları haşere, mikrop ya da pislik benzetmeleriyle anlatıyorsa bu yalnız kaba söz değildir; şiddetin duygusal zeminini hazırlayabilir."
+      ]
+    },
+    {
+      "id": "durak-12-empatinin-spot-isigi",
+      "section": "DÖRDÜNCÜ KISIM · YARDIM",
+      "title": "Empatinin spot ışığı",
+      "paragraphs": [
+        "Empati güçlüdür ama tarafsız değildir. Tanıdığımız tek kişinin acısı milyonlarca yabancının istatistiğinden daha çok etkileyebilir. Spot ışığı bir yüzü aydınlatırken geniş karanlığı görünmez bırakır.",
+        "Haberlerde adı ve fotoğrafı olan bir çocuğa yardım etmek kolaydır; aynı bütçeyle yüzlerce görünmeyen çocuğun aşısını düşünmek daha soyuttur. Duygunun şiddeti her zaman toplam yararla aynı yönde değildir.",
+        "Sapolsky empatiyi değersizleştirmez; merhameti ilke ve kurumlarla tamamlamayı ister. Yalnız hissettiğimiz kişiye değil, görmediğimiz kişiye de adil davranacak düzen gerekir.",
+        "Bağış ve kamu politikalarında hikâye ile veri birlikte kullanılabilir. Kalp kapıyı açar, hesap yardımın nereye ulaşacağını düzeltir."
+      ]
+    },
+    {
+      "id": "durak-13-siddet-tek-bir-canavar-degildir",
+      "section": "BEŞİNCİ KISIM · SALDIRGANLIK",
+      "title": "Şiddet tek bir canavar değildir",
+      "paragraphs": [
+        "Şiddet soğukkanlı plan, korku patlaması, grup sadakati, statü kavgası ya da sadistik haz gibi farklı yollarla ortaya çıkabilir. Aynı sonuç, farklı beyin ve toplum süreçlerinden doğar.",
+        "Aynı kırık cam bir hırsızın planı, çocuğun kazası ya da öfkeli kalabalığın eylemi olabilir. Camı görmek nedeni söylemez. Müdahale de nedene göre değişmelidir.",
+        "'Şiddet geni' ya da 'kötü beyin' açıklaması bu çeşitliliği siler. Genetik, erken yaşam, hormon, anlık tehdit, propaganda ve cezasızlık birbirine eklenebilir.",
+        "Önleme politikası yalnız cezayı artırmakla yetinemez; silaha erişim, çocukluk stresi, grup dili ve adil kurumlar gibi farklı zaman ölçeklerine dokunmalıdır."
+      ]
+    },
+    {
+      "id": "durak-14-hiyerarsinin-bedene-girisi",
+      "section": "BEŞİNCİ KISIM · EŞİTSİZLİK",
+      "title": "Hiyerarşinin bedene girişi",
+      "paragraphs": [
+        "Hiyerarşide düşük konum, özellikle denetimin az ve aşağılanmanın yüksek olduğu yapılarda kronik stres yaratır. Sorun yalnız az para değil, sürekli belirsizlik ve söz hakkı eksikliğidir.",
+        "Aynı yoğun işi yapan iki kişiden biri vardiyasını seçebiliyor, diğeri her an çağrılmayı bekliyorsa beden yükü farklı olur. Kontrol duygusu stres tepkisini değiştirir.",
+        "Primat türleri ve insan toplumları aynı değildir; Sapolsky hayvan bulgusunu doğrudan siyasi reçeteye çevirmemeye dikkat eder. Yine de toplumsal sıralamanın biyolojik iz bırakabildiği açıktır.",
+        "İş sağlığı maaşın yanında öngörülebilir program, saygı ve karar payını da hesaba katmalıdır. Adalet hissi bedensel bir meseledir."
+      ]
+    },
+    {
+      "id": "durak-15-genler-olasilik-yazar-emir-degil",
+      "section": "ALTINCI KISIM · GENETİK",
+      "title": "Genler olasılık yazar, emir değil",
+      "paragraphs": [
+        "Genler sinir sistemi ve davranış eğilimlerini etkiler, fakat etkileri çevreye bağlıdır. Aynı genetik fark güvenli ve tehdit dolu ortamlarda farklı sonuçlar verebilir.",
+        "Bir tohumun boyu genetik özellik taşır ama su, ışık ve toprak olmadan sonuç bilinmez. Davranış genetiği de tohum paketindeki etiketten ibaret değildir.",
+        "Kalıtsallık bir toplumdaki farkların oranını anlatabilir; değiştirilemezlik söylemez. Göz bozukluğu yüksek ölçüde kalıtsal olsa da gözlük sonucu dramatik biçimde değiştirir.",
+        "Gen haberi okurken 'hangi çevrede, ne kadar etki, hangi nüfusta?' sorularını sormak gerekir. Biyoloji kader cümlesinden daha koşulludur."
+      ]
+    },
+    {
+      "id": "durak-16-evrim-her-davranisa-masal-yazmaz",
+      "section": "ALTINCI KISIM · EVRİM",
+      "title": "Evrim her davranışa masal yazmaz",
+      "paragraphs": [
+        "İşbirliği, akraba yardımı, statü ve eş seçimi evrimsel geçmiş taşır. Fakat bugünkü her davranışa kolay bir Taş Devri hikâyesi uydurmak bilim değildir; alternatif açıklama ve kanıt gerekir.",
+        "İnsanların tatlı sevmesini kıtlık geçmişiyle ilişkilendirmek makul olabilir; belirli bir ofis modasını aynı rahatlıkla atalara bağlamak zorlama olur. Güzel hikâye test yerine geçmez.",
+        "Kültür evrimsel eğilimlerin üstüne yalnız boya sürmez; yeni seçenekler, kurumlar ve geri beslemeler kurar. İnsanlar biyolojik geçmişlerinden öğrenip ona karşı düzen tasarlayabilir.",
+        "Sapolsky'nin güçlü yanı düzeyleri yan yana getirmesidir. Evrim uzak zemin, çocukluk ayar, hormon bağlam ve bir saniye önceki sinyal birlikte davranışa yaklaşır."
+      ]
+    },
+    {
+      "id": "durak-17-ozgur-irade-ve-sorumluluk-dugumu",
+      "section": "YEDİNCİ KISIM · ADALET",
+      "title": "Özgür irade ve sorumluluk düğümü",
+      "paragraphs": [
+        "Davranışın nedenlerini ayrıntılı gördükçe tamamen bağımsız bir irade fikri zorlaşır. Sapolsky mazeret dağıtmak yerine, suçlamadan korumaya ve değiştirmeye odaklanan bir sorumluluk anlayışına yaklaşır.",
+        "Freni arızalı araç kazaya neden olduğunda sürücüyü alkışlamayız ama çözüm yalnız öfke değildir; aracı durdurur ve sistemi onarırız. İnsan daha karmaşıktır, fakat güvenlik ile intikam ayrımı düşündürücüdür.",
+        "Nedenleri anlamak tehlikeli kişiyi serbest bırakmayı gerektirmez. Toplum korunabilir; soru, acı çektirmeyi ahlaki amaç sayıp saymadığımızdır.",
+        "Ceza tartışmasında 'hak etti' cümlesinin yanına 'hangi müdahale tekrarını azaltır?' sorusunu koymak kitabın en zor ama verimli mirasıdır."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Behave, 'beyin yaptı, kişinin sorumluluğu yok' diye okunmamalıdır. Kitap davranışı tek bölgeye, hormona ya da gene indirmez; tam tersine saniyelerden evrime uzanan birçok nedenin nasıl birleştiğini gösterir.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Davranış bilimi hızla değişiyor ve bazı popüler nörobilim sonuçları daha büyük örneklerle yeniden değerlendiriliyor. Kitabın kalıcı gücü tek tek bulgulardan çok, nedenleri zaman katmanlarına ayıran ve biyoloji ile toplumu birbirine düşman etmeyen yöntemidir.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Bir davranıştan hemen önce ne oldu? O kişinin bedeni ve geçmişi hangi eşiği hazırladı? Hangi toplumsal düzen bu davranışı ödüllendiriyor, kolaylaştırıyor ya da zorlaştırıyordu?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İyi ve kötü davranış tek bir karakter düğmesinden çıkmaz; beyin, beden, çocukluk, kültür ve evrimin farklı zamanlarda kurduğu koşullar aynı anda sahneye gelir.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-bir-saniye-once": {
+      "image": "/images/summary-art-32-chapter-01-one-second-before-v1.webp",
+      "imageCaption": "Davranışın görünen anından hemen önce beyin, çevreyi çoktan tehdit ya da fırsat olarak değerlendirmeye başlamıştır."
+    },
+    "durak-03-amigdala-korku-dugmesi-degil": {
+      "image": "/images/summary-art-32-chapter-02-amygdala-context-v1.webp",
+      "imageCaption": "Amigdala tek bir korku düğmesi değil, bağlama göre önem ve tehdit işaretlerini değerlendiren ağın parçasıdır."
+    },
+    "durak-04-prefrontal-korteksin-zor-freni": {
+      "image": "/images/summary-art-32-chapter-03-prefrontal-brake-v1.webp",
+      "imageCaption": "Prefrontal denetim güçlü bir fren olabilir ama yorgunluk, stres ve bağlama göre gücü değişir."
+    },
+    "durak-05-dopamin-haz-degil-beklenti": {
+      "image": "/images/summary-art-32-chapter-04-dopamine-slot-machine-v1.webp",
+      "imageCaption": "Dopamin çoğu zaman ödülün tadından çok, birazdan gelebilecek ödülün beklentisini güçlendirir."
+    },
+    "durak-06-hormonlar-davranisi-emretmez": {
+      "image": "/images/summary-art-32-chapter-05-hormone-volume-knob-v1.webp",
+      "imageCaption": "Hormonlar davranışın tek bestecisi değil, bağlamda çalan eğilimlerin sesini değiştiren düğmeler gibidir."
+    },
+    "durak-07-stres-altinda-daralan-dunya": {
+      "image": "/images/summary-art-32-chapter-06-chronic-alarm-v1.webp",
+      "imageCaption": "Kısa alarm korur; hiç susmayan stres alarmı bedenin ve kararların ufkunu daraltır."
+    },
+    "durak-08-cocukluk-beyne-nasil-yazilir": {
+      "image": "/images/summary-art-32-chapter-07-childhood-alarm-setting-v1.webp",
+      "imageCaption": "Çocukluk deneyimleri beynin tehdit ve güven eşiğini ayarlar ama geleceği değişmez biçimde mühürlemez."
+    },
+    "durak-09-ergen-beyninin-gazi-ve-freni": {
+      "image": "/images/summary-art-32-chapter-08-teen-gas-brake-v1.webp",
+      "imageCaption": "Ergenlikte toplumsal ödülün gazı erken güçlenirken uzun vadeli denetimin freni daha yavaş olgunlaşır."
+    },
+    "durak-10-biz-ve-onlar-bir-anda-degisebilir": {
+      "image": "/images/summary-art-32-chapter-09-changing-us-them-v1.webp",
+      "imageCaption": "Grup sınırı yüzlerden daha hızlı değişebilir; ortak amaç dünün yabancısını bugünün ortağı yapabilir."
+    },
+    "durak-11-ahlaki-tiksinmenin-tehlikeli-yolu": {
+      "image": "/images/summary-art-32-chapter-10-moral-disgust-v1.webp",
+      "imageCaption": "Bedensel tiksinme dili toplumsal gruplara yöneldiğinde dışlama ve şiddeti kolaylaştırabilir."
+    },
+    "durak-12-empatinin-spot-isigi": {
+      "image": "/images/summary-art-32-chapter-11-empathy-spotlight-v1.webp",
+      "imageCaption": "Empati bir yüzü güçlü biçimde aydınlatırken istatistik içindeki görünmeyen kalabalığı karanlıkta bırakabilir."
+    },
+    "durak-13-siddet-tek-bir-canavar-degildir": {
+      "image": "/images/summary-art-32-chapter-12-many-roads-to-violence-v1.webp",
+      "imageCaption": "Aynı şiddet görüntüsüne korku, plan, statü ve grup sadakati gibi farklı yollar ulaşabilir."
+    },
+    "durak-14-hiyerarsinin-bedene-girisi": {
+      "image": "/images/summary-art-32-chapter-13-hierarchy-in-body-v1.webp",
+      "imageCaption": "Söz hakkı olmayan ve aşağılanmaya açık hiyerarşi, toplumsal konumu kronik bedensel strese çevirebilir."
+    },
+    "durak-15-genler-olasilik-yazar-emir-degil": {
+      "image": "/images/summary-art-32-chapter-14-genes-and-weather-v1.webp",
+      "imageCaption": "Genetik eğilim, çevrenin ışığı ve suyu içinde büyüyen bir olasılıktır; değişmez emir değildir."
+    },
+    "durak-16-evrim-her-davranisa-masal-yazmaz": {
+      "image": "/images/summary-art-32-chapter-15-evolution-story-test-v1.webp",
+      "imageCaption": "Evrimsel açıklama çekici bir masal değil, alternatiflere karşı sınanması gereken uzak zamanlı bir hipotezdir."
+    },
+    "durak-17-ozgur-irade-ve-sorumluluk-dugumu": {
+      "image": "/images/summary-art-32-chapter-16-justice-repair-v1.webp",
+      "imageCaption": "Nedenleri görmek güvenliği kaldırmaz; intikam yerine koruma, onarım ve tekrarın azaltılmasını öne çıkarır."
+    }
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "bookNo": 156,
+  "title": "Büyük Dönüşüm",
+  "author": "Karl Polanyi",
+  "subtitle": "Piyasanın toplumdan bağımsız doğal bir makine olmadığını; emek, toprak ve parayı satılık mala çevirmeye çalışan on dokuzuncu yüzyıl düzeninin toplumu savunmaya zorladığını anlatan tarih, ekonomi ve siyaset klasiği.",
+  "coverImage": "/images/summary-art-156-buyuk-donusum-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/156-buyuk-donusum-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#5C5A4B",
+  "meta": {
+    "originalTitle": "The Great Transformation",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Karl Polanyi tarafından yazılan Büyük Dönüşüm adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Beacon Press - The Great Transformation",
+      "url": "https://www.beacon.org/The-Great-Transformation-P790.aspx"
+    },
+    {
+      "id": 2,
+      "title": "Encyclopaedia Britannica - Karl Polanyi",
+      "url": "https://www.britannica.com/biography/Karl-Polanyi"
+    },
+    {
+      "id": 3,
+      "title": "Internet Archive - The Great Transformation",
+      "url": "https://archive.org/details/greattransformat0000pola"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Piyasanın toplumdan bağımsız doğal bir makine olmadığını; emek, toprak ve parayı satılık mala çevirmeye çalışan on dokuzuncu yüzyıl düzeninin toplumu savunmaya zorladığını anlatan tarih, ekonomi ve siyaset klasiği.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-piyasa-toplumun-icine-gomuluyken",
+      "section": "BAŞLANGIÇ · GÖMÜLÜ EKONOMİ",
+      "title": "Piyasa toplumun içine gömülüyken",
+      "paragraphs": [
+        "Polanyi geçmiş toplumlarda üretim ve değişimin akrabalık, din, siyaset ve karşılıklılık içinde gömülü olduğunu söyler. Ekonomi ayrı ve kendi yasasıyla yöneten bir alan değildi.",
+        "Köyde komşuya verilen yemek aynı gün aynı değerle geri dönmez; ilişki, itibar ve gelecekteki yardım hesabın içindedir. Fiyat etiketi bütün değişimi açıklamaz.",
+        "Geçmişi saf dayanışma cenneti saymamak gerekir; hiyerarşi ve zor vardı. Polanyi'nin amacı piyasa dışı düzenlerin mümkün olduğunu göstermektir.",
+        "Bugün bakım emeği ve açık kaynak yazılım, ekonomik değerin her zaman doğrudan satış biçiminde oluşmadığını hatırlatır."
+      ]
+    },
+    {
+      "id": "durak-03-kendi-kendini-duzenleyen-piyasa-utopyasi",
+      "section": "BİRİNCİ KISIM · PİYASA TOPLUMU",
+      "title": "Kendi kendini düzenleyen piyasa ütopyası",
+      "paragraphs": [
+        "On dokuzuncu yüzyıl ideali üretim ve dağıtımın fiyatlar tarafından dış müdahale olmadan düzenlenmesiydi. Polanyi bunun doğal durum değil, devlet gücüyle kurulmuş radikal proje olduğunu savunur.",
+        "Şehrin bütün trafik ışıklarını kaldırıp araçların fiyat sinyaliyle yol bulmasını beklemek gibi, toplumun her alanını tek mekanizmaya teslim etmek büyük deneydir.",
+        "Piyasalar çok eskiydi; yeni olan toplumun pazar için yeniden örgütlenmesiydi. İnsanların geçimi ve doğa, fiyat dalgalanmasına doğrudan bağlandı.",
+        "'Devlet çekilsin, piyasa doğal çalışsın' cümlesinde piyasayı kuran mülkiyet, para, sözleşme ve polis düzeninin kamusal kökü unutulur."
+      ]
+    },
+    {
+      "id": "durak-04-emek-neden-siradan-mal-degildir",
+      "section": "İKİNCİ KISIM · HAYALİ METALAR",
+      "title": "Emek neden sıradan mal değildir?",
+      "paragraphs": [
+        "Emek satılmak için üretilmiş nesne değil insan yaşam faaliyetidir. Fiyatı düşen bir mal depoda bekleyebilir; işsiz kalan insan kira, sağlık ve onur kaybıyla yaşar.",
+        "Fabrika siparişi azalınca makine kapatılabilir, çalışan aile ise kapatılamaz. Emek piyasasının dalgası bütün hayata yayılır.",
+        "Polanyi emeğe koruma gerektiğini buradan çıkarır. Fakat koruma iş bulma engeli veya dışlama yaratmayacak biçimde tasarlanmalıdır.",
+        "Asgari ücret, işsizlik sigortası ve iş güvenliği piyasayı yok etmek değil insanı fiyat hareketinin çıplak etkisinden korumaktır."
+      ]
+    },
+    {
+      "id": "durak-05-toprak-neden-uretilmis-mal-degildir",
+      "section": "İKİNCİ KISIM · HAYALİ METALAR",
+      "title": "Toprak neden üretilmiş mal değildir?",
+      "paragraphs": [
+        "Toprak satılmak için üretilmemiş doğadır. Onu yalnız fiyatı olan arsaya indirgemek suyu, ekosistemi, yerel yaşamı ve gelecek kuşakları görünmez yapar.",
+        "Ormanı yalnız kesilecek kerestenin bugünkü fiyatıyla ölçerseniz sel koruması, karbon ve yaşam alanı hesap dışında kalır. Etiket bütün değeri taşımaz.",
+        "Mülkiyet kullanımı düzenleyebilir; Polanyi bütün özel sahipliği tek cümleyle reddetmez. Sorun doğanın piyasa sinyaline tamamen bırakılmasıdır.",
+        "İklim krizi, hayali meta kavramını güncelleştirir: Doğanın kendini yenileme sınırı bilanço döneminden uzundur."
+      ]
+    },
+    {
+      "id": "durak-06-para-neden-yalniz-mal-degildir",
+      "section": "İKİNCİ KISIM · HAYALİ METALAR",
+      "title": "Para neden yalnız mal değildir?",
+      "paragraphs": [
+        "Para üretimi kolaylaştıran kredi ve ödeme düzenidir; sıradan mal gibi yalnız arz-talebe bırakıldığında faiz ve likidite şokları işletmeleri ve işleri yıkabilir.",
+        "Kanın fiyatı yükseldi diye hastaneye kan akışını kesmek bedeni durdurur. Para da ekonominin dolaşımıdır; miktar ve güven toplumsal düzen ister.",
+        "Merkez bankası müdahalesi bu nedenle piyasa dışı kaza değil piyasanın yaşama koşuludur. Ancak para desteğinin kime ulaştığı adalet sorusudur.",
+        "Finans krizlerinde devletin bankaları kurtarması, 'kendi kendini düzenleyen' sistemin kamu desteğine ne kadar bağımlı olduğunu gösterir."
+      ]
+    },
+    {
+      "id": "durak-07-citleme-hareketinin-kirdigi-dunya",
+      "section": "İKİNCİ KISIM · TOPRAK",
+      "title": "Çitleme hareketinin kırdığı dünya",
+      "paragraphs": [
+        "İngiltere'de ortak arazilerin çitlenmesi köylülerin geçim kaynaklarını özel mülkiyete dönüştürdü. İnsanlar ücretli emek piyasasına daha bağımlı hale geldi.",
+        "Mahallenin herkesçe kullanılan bahçesine duvar çekilip giriş bilete bağlanırsa yalnız mekân değil yaşam biçimi değişir. Önceden ihtiyaç karşılayan alan gelir kaynağı olur.",
+        "Çitleme tarımsal verim ve üretim artışıyla da ilişkilidir; tarih yalnız kötü niyetli el koyma değildir. Fakat maliyet eşit dağılmadı.",
+        "Bugün dijital bilgi, kıyı ve su gibi ortak alanların özelleştirilmesi aynı soruyu taşır: Verim adına hangi ortak yaşam hakkı kayboluyor?"
+      ]
+    },
+    {
+      "id": "durak-08-speenhamland-yardimi-neden-tartismali",
+      "section": "İKİNCİ KISIM · YOKSULLUK",
+      "title": "Speenhamland yardımı neden tartışmalı?",
+      "paragraphs": [
+        "1795 Speenhamland sistemi düşük geliri ekmek fiyatına göre yerel yardımla tamamladı. Polanyi bunun emek piyasasının sert geçişini geciktirdiğini, fakat ücret ve bağımlılık üzerinde karmaşık sonuçlar yarattığını anlatır.",
+        "İşveren düşük ücret verirken belediye farkı kapatıyorsa yardım işçiyi korur ama işverene de ucuz emek desteği sağlayabilir. Aynı politika iki yöne çalışır.",
+        "Polanyi'nin tarihsel yorumu sonraki araştırmalarda eleştirilmiştir; sistemin ücretleri ne ölçüde düşürdüğü kesin değildir. Bu bölüm tek veri gibi kullanılmamalıdır.",
+        "Güncel gelir desteğinde de yardımın işçiye pazarlık gücü mü verdiği, yoksa düşük ücret modelini mi sübvanse ettiği sorulmalıdır."
+      ]
+    },
+    {
+      "id": "durak-09-1834-ciplak-emek-piyasasi",
+      "section": "İKİNCİ KISIM · YOKSUL YASASI",
+      "title": "1834: çıplak emek piyasası",
+      "paragraphs": [
+        "Yeni Yoksul Yasası yardımı caydırıcı çalışma evlerine bağladı. İnsanların geçim için emeklerini piyasada satmaya zorlanması, Polanyi'ye göre piyasa toplumunun sert kuruluş anıdır.",
+        "Güvenlik ağını kesip kişiye 'ne ücret verilirse kabul et' demek seçim görüntüsü yaratır; açlık pazarlığın görünmez zorudur.",
+        "Eski yardım düzeninin de paternalist ve aşağılayıcı yanları vardı. Seçenek iyi eski ile kötü yeni değildir; insan onurunu koruyan yeni kurum arayışıdır.",
+        "Sosyal yardım tartışmasında teşvik kadar pazarlık gücü ve yaşam tabanı görülmelidir. Açlık serbest sözleşme üretmez."
+      ]
+    },
+    {
+      "id": "durak-10-altin-standardinin-sert-kemeri",
+      "section": "BİRİNCİ KISIM · ULUSLARARASI DÜZEN",
+      "title": "Altın standardının sert kemeri",
+      "paragraphs": [
+        "Paranın altına sabitlenmesi uluslararası ticarete güven sağladı, fakat kriz anında hükümetlerin para ve istihdam politikasını daralttı. Döviz değerini korumak için toplum işsizlik ve ücret düşüşü taşıdı.",
+        "Büyüyen çocuğa eski kemeri hiç gevşetmeden takmak, ölçüyü korur ama bedeni sıkıştırır. Altın standardı da para disiplinini toplumsal esnekliğin önüne koyabilir.",
+        "Sabit kur düzeni her zaman aynı sonucu vermez; mali yapı ve siyaset önemlidir. Polanyi onun demokrasiyle gerilimini vurgular.",
+        "Bugün bütçe ve para kurallarında benzer soru vardır: Güvenilir sınır gerekir, fakat kriz anında insanları koruyacak hareket payı kalıyor mu?"
+      ]
+    },
+    {
+      "id": "durak-11-yuz-yillik-barisin-gorunmeyen-agi",
+      "section": "BİRİNCİ KISIM · BARIŞ",
+      "title": "Yüz yıllık barışın görünmeyen ağı",
+      "paragraphs": [
+        "1815 ile 1914 arasındaki Avrupa dengesi yalnız güç siyasetiyle değil, uluslararası finans ve ticaret çıkarlarının barış ihtiyacıyla da desteklendi. Polanyi yüksek finansın beklenmedik barış rolünü gösterir.",
+        "Birbirine borç veren rakip dükkânlar kavga ederse ikisi de zarar görür. Ortak çıkar gerilimi tamamen bitirmez ama fren oluşturur.",
+        "Ekonomik bağ her zaman barış getirmez; rekabet, milliyetçilik ve eşitsiz bağımlılık savaşı da besleyebilir. 1914 bunun açık sınırıdır.",
+        "Küresel tedarik zincirlerini otomatik barış sigortası saymamak gerekir. Ekonomik bağın siyasi kurumla desteklenmesi şarttır."
+      ]
+    },
+    {
+      "id": "durak-12-cifte-hareket",
+      "section": "ÜÇÜNCÜ KISIM · TOPLUMSAL KORUMA",
+      "title": "Çifte hareket",
+      "paragraphs": [
+        "Piyasa emek, toprak ve parayı daha fazla metalaştırdıkça toplum kendini korumak için sendika, tarife, sosyal yasa ve düzenleme üretir. Polanyi bu karşı tepkiye çifte hareket der.",
+        "Yay gerildikçe ters yönde kuvvet birikir. Piyasa genişlemesi karşısında koruma talebi de büyür; iki hareket aynı tarih içinde çatışır.",
+        "Koruma her zaman ilerici değildir. Meslek tekeli, yabancı düşmanlığı ve otoriter milliyetçilik de korunma dili kullanabilir.",
+        "Bugün küreselleşme karşıtı tepkiyi değerlendirirken kimin neye karşı korunduğunu ve maliyetin kime yüklendiğini sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-13-piyasayi-devlet-kurdu",
+      "section": "ÜÇÜNCÜ KISIM · DEVLET",
+      "title": "Piyasayı devlet kurdu",
+      "paragraphs": [
+        "Laissez-faire'in kendiliğinden doğmadığını, mülkiyet, işgücü ve para piyasalarını kurmak için yoğun yasa ve idare gerektiğini savunur. Müdahalesizlik bile müdahaleyle inşa edilmiştir.",
+        "Futbol sahasını çizip kaleyi kuran, hakemi atayan ve sonra 'oyun doğal olarak başladı' diyen yönetici gibi. Piyasa önceden kurulmuş kurallara dayanır.",
+        "Devletin rolü her müdahaleyi iyi yapmaz; kural seçkin çıkarına hizmet edebilir. Mesele devlet var mı yok mu değil, hangi kuralı kimin için kurduğudur.",
+        "Teknoloji platformlarında pazar tasarımının şirket algoritmasıyla yapılması, kural koyucunun görünmezliğini yeniden gösterir."
+      ]
+    },
+    {
+      "id": "durak-14-fasizm-neden-koruma-vaadiyle-geldi",
+      "section": "ÜÇÜNCÜ KISIM · KRİZ",
+      "title": "Faşizm neden koruma vaadiyle geldi?",
+      "paragraphs": [
+        "Büyük Buhran piyasa düzenini ve demokrasiyi aynı anda sıkıştırdı. Faşizm toplumu koruma iddiasıyla geldi, fakat korumayı özgürlük ve eşitliği yok eden otoriter birlik içinde kurdu.",
+        "Fırtınada gemiyi kurtaracağını söyleyen kaptan bütün yolcuları zincirleyebilir. Güvenlik vaadi yöntemin adaletini garanti etmez.",
+        "Polanyi faşizm, sosyalizm ve New Deal'i piyasa krizine farklı toplumsal yanıtlar olarak karşılaştırır. Tarihsel ayrıntılar ülkeden ülkeye değişir.",
+        "Ekonomik güvensizliği küçümsemek otoriter koruma vaatlerine alan açar. Demokratik sosyal koruma hem geçim hem hak sunmalıdır."
+      ]
+    },
+    {
+      "id": "durak-15-ozgurluk-planlama-ile-bitecek-mi",
+      "section": "SONUÇ · ÖZGÜRLÜK",
+      "title": "Özgürlük planlama ile bitecek mi?",
+      "paragraphs": [
+        "Polanyi her düzenlemenin özgürlüğü yok ettiğini reddeder. Sosyal güvenlik ve haklar bazı ayrıcalıkları sınırlar, fakat daha çok insanın gerçek özgürlüğünü artırabilir.",
+        "Trafik ışığı sürücünün anlık hareketini kısıtlar, yayaya sokağı geçme özgürlüğü verir. Hangi özgürlüğü kimin için ölçtüğünüz belirleyicidir.",
+        "Planlama da bürokratik baskıya dönüşebilir. Demokratik katılım ve hak güvencesi olmadan koruma paternalist denetime kayar.",
+        "İyi toplum piyasa ile devlet arasında basit seçim değil; ikisini insan ve doğa sınırlarına bağlayan denetlenebilir kurum arayışıdır."
+      ]
+    },
+    {
+      "id": "durak-16-piyasa-sinyali-neyi-duyamaz",
+      "section": "GÜNÜMÜZ · SINIRLAR",
+      "title": "Piyasa sinyali neyi duyamaz?",
+      "paragraphs": [
+        "Fiyat kıtlık ve talep hakkında güçlü bilgi taşır, fakat ödeme gücü olmayan ihtiyacı ve gelecek kuşağın sesini zayıf duyar. Piyasa sinyali ahlaki öncelik listesi değildir.",
+        "Susuz kişinin parası yoksa su talebi fiyat tablosunda görünmeyebilir; lüks havuzu olanın talebi görünür. İhtiyaç ile efektif talep ayrılır.",
+        "Bu eleştiri fiyatı bütünüyle gereksiz saymaz. Fiyatı hak, kamu hizmeti ve ekolojik sınırla tamamlamak gerekir.",
+        "Sağlık, konut ve iklim politikasında 'piyasa ne istiyor?' sorusunun yanına 'kim konuşamıyor?' sorusu konmalıdır."
+      ]
+    },
+    {
+      "id": "durak-17-neoliberal-cagda-polanyi",
+      "section": "GÜNÜMÜZ · YENİ ÇİFTE HAREKET",
+      "title": "Neoliberal çağda Polanyi",
+      "paragraphs": [
+        "1980 sonrası özelleştirme, finansallaşma ve küresel rekabet yeni piyasa genişlemesi yarattı. İş güvencesi, konut ve doğa üzerindeki baskı yeni koruma taleplerini büyüttü.",
+        "Uygulama üzerinden çalışan kişi özgür girişimci görünürken algoritma ücretini ve erişimini tek taraflı değiştirebilir. Sözleşme bağımsız, güç ilişkisi asimetriktir.",
+        "Her güncel sorunu Polanyi'nin şemasına sokmak aşırı olabilir; teknoloji ve hizmet ekonomisi farklı mekanizmalar taşır.",
+        "Yine de emek, toprak ve paranın toplumdan koparılamayacağı fikri platform işi, iklim ve finans krizinde güçlü teşhis sunar."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Polanyi pazarların hiç olmaması gerektiğini söylemez; pazarın toplumu yöneten tek ilkeye dönüşmesine karşı çıkar. 'Hayali meta' da emek, toprak ve paranın hiçbir zaman alınıp satılmadığı değil, satılmak için üretilmiş sıradan mallar olmadıkları anlamına gelir.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "İklim krizi toprağın, platform ekonomisi emeğin, finans krizleri paranın toplumdan koparılamadığını yeniden gösterdi. Speenhamland gibi bazı tarihsel yorumlar eleştirilse de piyasayı kuran devlet ve çifte hareket kavramları güncel araştırmada yaşamaktadır.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Bu piyasa hangi hukuk ve kamu altyapısıyla kuruldu? Fiyat dalgasının yükünü insan, doğa ve gelecek kuşaklardan hangisi taşıyor? Koruma talebi özgürlüğü genişletiyor mu, yoksa dışlayıcı bir otorite mi kuruyor?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Piyasa toplumun dışında doğal bir makine değildir; emek, doğa ve parayı bütünüyle fiyat düzenine teslim etmek toplumu kendini korumaya zorlayan derin bir karşı hareket yaratır.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-piyasa-toplumun-icine-gomuluyken": {
+      "image": "/images/summary-art-156-chapter-01-embedded-market-v1.webp",
+      "imageCaption": "Ekonomik değişim uzun süre akrabalık, karşılıklılık ve siyasi düzenin içine gömülü yaşadı."
+    },
+    "durak-03-kendi-kendini-duzenleyen-piyasa-utopyasi": {
+      "image": "/images/summary-art-156-chapter-02-self-regulating-machine-v1.webp",
+      "imageCaption": "Kendi kendini düzenleyen piyasa doğada bulunan makine değil, toplumun devlet eliyle yeniden kurulmasını isteyen projedir."
+    },
+    "durak-04-emek-neden-siradan-mal-degildir": {
+      "image": "/images/summary-art-156-chapter-03-labor-not-box-v1.webp",
+      "imageCaption": "Emek rafta bekleyen kutu değil, iş kaybıyla bütün yaşamı etkilenen insanın etkinliğidir."
+    },
+    "durak-05-toprak-neden-uretilmis-mal-degildir": {
+      "image": "/images/summary-art-156-chapter-04-land-not-product-v1.webp",
+      "imageCaption": "Toprak üretilmiş bir mal değil, fiyat hesabını aşan ekolojik ve toplumsal yaşam zeminidir."
+    },
+    "durak-06-para-neden-yalniz-mal-degildir": {
+      "image": "/images/summary-art-156-chapter-05-money-bloodstream-v1.webp",
+      "imageCaption": "Para sıradan satılık nesneden çok ekonomik bedenin dolaşımıdır; ani kesinti bütün üretimi durdurabilir."
+    },
+    "durak-07-citleme-hareketinin-kirdigi-dunya": {
+      "image": "/images/summary-art-156-chapter-06-enclosure-fence-v1.webp",
+      "imageCaption": "Ortak araziye çekilen çit, toprağı olduğu kadar köylünün geçim ve bağımsızlık düzenini de değiştirdi."
+    },
+    "durak-08-speenhamland-yardimi-neden-tartismali": {
+      "image": "/images/summary-art-156-chapter-07-bread-allowance-v1.webp",
+      "imageCaption": "Gelir desteği yoksulu korurken kötü tasarlanırsa düşük ücret düzeninin maliyetini kamuya taşıyabilir."
+    },
+    "durak-09-1834-ciplak-emek-piyasasi": {
+      "image": "/images/summary-art-156-chapter-08-workhouse-gate-v1.webp",
+      "imageCaption": "Çalışma evi kapısı, yardımın onur kırıcı koşula bağlanıp emeğin çıplak piyasaya zorlanmasını simgeler."
+    },
+    "durak-10-altin-standardinin-sert-kemeri": {
+      "image": "/images/summary-art-156-chapter-09-golden-belt-v1.webp",
+      "imageCaption": "Altın standardının sabit kemeri para güveni sağlarken kriz yaşayan toplumsal bedeni sıkıştırdı."
+    },
+    "durak-11-yuz-yillik-barisin-gorunmeyen-agi": {
+      "image": "/images/summary-art-156-chapter-10-finance-peace-web-v1.webp",
+      "imageCaption": "Uluslararası finans ağı rakip devletleri birbirine bağlayarak savaşa karşı geçici çıkar freni oluşturdu."
+    },
+    "durak-12-cifte-hareket": {
+      "image": "/images/summary-art-156-chapter-11-double-movement-v1.webp",
+      "imageCaption": "Piyasa toplumsal alanı gererken sendika ve düzenleme gibi karşı kuvvetler yayı ters yönde çekmeye başlar."
+    },
+    "durak-13-piyasayi-devlet-kurdu": {
+      "image": "/images/summary-art-156-chapter-12-state-builds-market-v1.webp",
+      "imageCaption": "Piyasanın sahası, kalesi ve hakemi yasa ile kurulmadan kendiliğinden oyun başlamaz."
+    },
+    "durak-14-fasizm-neden-koruma-vaadiyle-geldi": {
+      "image": "/images/summary-art-156-chapter-13-fascist-lifeboat-v1.webp",
+      "imageCaption": "Güvenlik vaat eden otoriter kaptan toplumu kurtarmak bahanesiyle yolcuların özgürlüğünü zincirleyebilir."
+    },
+    "durak-15-ozgurluk-planlama-ile-bitecek-mi": {
+      "image": "/images/summary-art-156-chapter-14-traffic-light-freedom-v1.webp",
+      "imageCaption": "Bazı ortak kurallar bir kişinin sınırsız hareketini azaltırken birçok kişinin gerçek hareket özgürlüğünü büyütebilir."
+    },
+    "durak-16-piyasa-sinyali-neyi-duyamaz": {
+      "image": "/images/summary-art-156-chapter-15-silent-needs-v1.webp",
+      "imageCaption": "Fiyat sistemi parası olmayan ihtiyacı ve henüz doğmamış kuşağın talebini kolayca duyamaz."
+    },
+    "durak-17-neoliberal-cagda-polanyi": {
+      "image": "/images/summary-art-156-chapter-16-platform-double-movement-v1.webp",
+      "imageCaption": "Dijital piyasa genişledikçe güvencesizlik yeni sendika, düzenleme ve sosyal koruma arayışını doğurur."
+    }
+  }
+}

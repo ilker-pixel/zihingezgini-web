@@ -1,0 +1,330 @@
+{
+  "bookNo": 241,
+  "title": "Akışkan Modernite",
+  "author": "Zygmunt Bauman",
+  "subtitle": "İş, kimlik, ilişki ve güvenlik gibi eskiden katı görünen kurumların hızla şekil değiştirdiği dünyada neden daha özgür ama aynı zamanda daha yalnız ve kaygılı hissettiğimizi anlatan güçlü bir toplum okuması.",
+  "coverImage": "/images/summary-art-241-akiskan-modernite-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/241-akiskan-modernite-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#536A73",
+  "meta": {
+    "originalTitle": "Liquid Modernity",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Zygmunt Bauman tarafından yazılan Akışkan Modernite adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Polity - Liquid Modernity",
+      "url": "https://www.politybooks.com/bookdetail?book_slug=liquid-modernity--9780745624105"
+    },
+    {
+      "id": 2,
+      "title": "Encyclopaedia Britannica - Zygmunt Bauman",
+      "url": "https://www.britannica.com/biography/Zygmunt-Bauman"
+    },
+    {
+      "id": 3,
+      "title": "University of Leeds - Bauman Institute",
+      "url": "https://baumaninstitute.leeds.ac.uk/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "İş, kimlik, ilişki ve güvenlik gibi eskiden katı görünen kurumların hızla şekil değiştirdiği dünyada neden daha özgür ama aynı zamanda daha yalnız ve kaygılı hissettiğimizi anlatan güçlü bir toplum okuması.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-kati-dunya-nasil-sivilasti",
+      "section": "BAŞLANGIÇ · ANA BENZETME",
+      "title": "Katı dünya nasıl sıvılaştı?",
+      "paragraphs": [
+        "Katı bir kap biçimini korur, sıvı ise girdiği kabın şeklini alır. Bauman modern hayatın kurumlarının uzun ömürlü kalıp olmaktan çıkıp hızla değişen düzenlemelere dönüştüğünü söyler.",
+        "Bir insan dedesinin yaptığı gibi aynı fabrikada kırk yıl çalışmayı planlayamaz; meslek, şehir ve beceri birkaç kez değişebilir.",
+        "Geçmiş hiçbir zaman tamamen sabit değildi. 'Katı' ve 'akışkan' tarih fotoğrafı değil, değişimin hızını ve güvence kaybını gösteren mercektir.",
+        "Bugün bir karar verirken yalnız iyi seçimi değil, seçimin ne kadar süre geçerli kalacağını da hesaplamamız bu akışkanlığın gündelik izidir."
+      ]
+    },
+    {
+      "id": "durak-03-ozgurluk-neden-yuk-gibi-gelir",
+      "section": "BİRİNCİ KISIM · BİREYLEŞME",
+      "title": "Özgürlük neden yük gibi gelir?",
+      "paragraphs": [
+        "Modern insan daha çok seçim yapar ama sonuçların sorumluluğu da onun omzuna bırakılır. Toplumsal sorunlar kişisel başarısızlık hikâyesine çevrilebilir.",
+        "İş piyasası daralırken işsiz kalan kişiye yalnız 'kendini geliştir' denirse ekonomik düzen kişisel motivasyon eksikliği gibi görünür.",
+        "Bireysel çaba gerçektir; Bauman bunu reddetmez. Sorun, herkesin farklı başlangıç koşullarını görünmez kılan sınırsız seçim masalıdır.",
+        "Kendinizi suçlamadan önce aynı sorunu kaç kişinin yaşadığını ve hangi kurum kararlarının etkili olduğunu sormak özel kaygıyı toplumsal haritaya yerleştirir."
+      ]
+    },
+    {
+      "id": "durak-04-is-yerinde-uzun-vade-kaybolunca",
+      "section": "BİRİNCİ KISIM · EMEK",
+      "title": "İş yerinde uzun vade kaybolunca",
+      "paragraphs": [
+        "Esnek çalışma işletmeye hız kazandırırken çalışanın geleceği planlama gücünü azaltabilir. Sadakat istenir ama karşılığında kalıcı güvence verilmez.",
+        "Üç aylık sözleşmeli çalışan ev kredisi, çocuk planı ve şehir seçimini sis içinde yapar. Takvim kısa olunca hayatın geri kalanı da geçici hissedilir.",
+        "Esneklik bazı insanlara bağımsızlık verir; uzaktan çalışma veya proje işi özgürleştirici olabilir. Aynı kelimenin kim için fırsat, kim için mecburiyet olduğuna bakılmalıdır.",
+        "İş teklifinde maaş kadar öngörülebilir zaman, öğrenme imkânı ve riskin kimin üzerine bırakıldığını sormak akışkan emeğin gerçek fiyatını gösterir."
+      ]
+    },
+    {
+      "id": "durak-05-tuketici-kimligini-sepetten-secer",
+      "section": "İKİNCİ KISIM · TÜKETİM",
+      "title": "Tüketici kimliğini sepetten seçer",
+      "paragraphs": [
+        "Üretici toplumda kimlik yapılan işle, tüketici toplumda ise seçilen ürün ve deneyimlerle anlatılır. İnsan kendini sürekli güncellenmesi gereken projeye dönüştürür.",
+        "Yeni telefon yalnız araç değil 'geri kalmadım' işaretidir. Bir sezon sonra aynı nesne kimliği taşımakta yetersiz görülür.",
+        "İnsanlar reklama tamamen teslim değildir; ürünü yaratıcı biçimde kullanır. Fakat pazar, huzursuzluğu yeni satın alma ihtiyacına çevirmekte ustadır.",
+        "Bir istek doğduğunda ihtiyacın kendisini, başkalarına göstermek istediğiniz kişiden ayırmak tüketim döngüsüne küçük bir fren koyar."
+      ]
+    },
+    {
+      "id": "durak-06-baglanti-cok-bag-zayif",
+      "section": "İKİNCİ KISIM · İLİŞKİLER",
+      "title": "Bağlantı çok, bağ zayıf",
+      "paragraphs": [
+        "Akışkan ilişkiler yakınlık isteği ile kaçış kapısını açık tutma arzusunu birlikte taşır. Bağlanmak güven verir; aynı zamanda gelecekteki seçenekleri sınırlayabilir.",
+        "Mesaj uygulamasında konuşmayı tek dokunuşla silmek kolaydır; yüz yüze komşulukta ertesi gün aynı kişiye yeniden rastlanır. Araç ilişkinin bedelini değiştirir.",
+        "Bauman bazen eski ilişkileri fazla sıcak gösterebilir; geçmiş aile ve mahalleleri de baskı üretebilirdi. Kalıcılık her zaman iyilik değildir.",
+        "Sağlıklı bağ, kaçışın imkânsızlığı değil, sorun çıktığında hemen değiştirmek yerine konuşmayı deneme iradesi olabilir."
+      ]
+    },
+    {
+      "id": "durak-07-sehirde-yabanciyla-yan-yana",
+      "section": "ÜÇÜNCÜ KISIM · MEKÂN",
+      "title": "Şehirde yabancıyla yan yana",
+      "paragraphs": [
+        "Büyük şehir farklı insanların yakın mesafede yaşadığı yerdir. Yabancı hem yenilik imkânı hem belirsizlik kaynağıdır; kent tasarımı bu karşılaşmayı artırabilir veya kapatabilir.",
+        "Güvenlikli site ile yoksul mahalle arasındaki duvar korkuyu azaltıyor görünür, fakat iki grubun birbirini tanıma imkânını da yok eder.",
+        "Açık meydan otomatik eşitlik yaratmaz; erişim, ulaşım ve polis uygulaması kimin rahatça durabileceğini belirler.",
+        "Bir şehirde kamusal bank, kütüphane ve pazarın niteliği, farklıların yalnız geçip gitmesini mi yoksa karşılaşmasını mı istediğimizi gösterir."
+      ]
+    },
+    {
+      "id": "durak-08-guc-hareketli-siyaset-yerinde",
+      "section": "ÜÇÜNCÜ KISIM · İKTİDAR",
+      "title": "Güç hareketli, siyaset yerinde",
+      "paragraphs": [
+        "Sermaye ve şirketler sınırları hızla aşabilirken yurttaşın siyasi kurumu çoğunlukla ulusal sınırda kalır. Güç kararın sonucundan kaçabilir, siyaset bedeli yerelde taşır.",
+        "Fabrika bir gecede başka ülkeye taşınabilir; işini kaybeden kasabanın belediyesi ise insanları ve boş binaları geride bırakamaz.",
+        "Devlet tamamen güçsüz değildir; vergi, hukuk ve uluslararası işbirliğiyle hareket alanı kurabilir. Bauman dengesizliği vurgular, kaçınılmaz kaderi değil.",
+        "Bir ekonomik haberde karar vericinin nerede, bedeli ödeyenin nerede olduğunu işaretlemek güç ile sorumluluk arasındaki mesafeyi görünür kılar."
+      ]
+    },
+    {
+      "id": "durak-09-zamanin-uzun-yolu-kisa-ana-doner",
+      "section": "DÖRDÜNCÜ KISIM · HIZ",
+      "title": "Zamanın uzun yolu kısa ana döner",
+      "paragraphs": [
+        "Akışkan modernite beklemeyi kusur sayar; değer hızla ve anlık erişimle ölçülür. Uzun emek isteyen ilişki ve beceri bu ritimde zorlanır.",
+        "Yemeğin gelmesini on dakika beklerken huzursuz olan kişi, bir dostluğu on yılda kurmanın yavaşlığını da verimsizlik gibi hissedebilir.",
+        "Hız acil sağlık ve bilgi erişiminde büyük kazançtır. Sorun her alanın aynı hız cetveliyle ölçülmesidir.",
+        "Günde bir işi bilerek yavaş yapmak, örneğin telefonsuz yürümek veya uzun metin okumak, zamanın yalnız teslim süresi olmadığını hatırlatır."
+      ]
+    },
+    {
+      "id": "durak-10-gozetim-ozgurlugun-golgesinde",
+      "section": "DÖRDÜNCÜ KISIM · GÖRÜNÜRLÜK",
+      "title": "Gözetim özgürlüğün gölgesinde",
+      "paragraphs": [
+        "Akışkan dünyada hareket etmek için dijital iz bırakırız. Kolaylık sağlayan sistem aynı anda davranışı ölçüp sınıflandırabilir.",
+        "Harita uygulaması yolu buldurur, konum geçmişinizi de biriktirir. Hareket özgürlüğü ile izlenebilirlik aynı cebin içinde taşınır.",
+        "Bauman'ın bu kitabı bugünkü platform gözetimini bütünüyle anlatmaz; sonraki çalışmaları konuyu genişletir. Yine de hareket ve kontrol gerilimi temel kalır.",
+        "Ücretsiz hizmette paranın yerine hangi veri ve davranışın verildiğini sormak kolaylığın görünmez sözleşmesini okumaktır."
+      ]
+    },
+    {
+      "id": "durak-11-korku-neden-her-yere-yayilir",
+      "section": "BEŞİNCİ KISIM · GÜVENLİK",
+      "title": "Korku neden her yere yayılır?",
+      "paragraphs": [
+        "Belirsiz ve uzak tehditler nedenleri bulunamadığında yakındaki yabancıya, göçmene veya yoksula yapışabilir. Yönetilemeyen kaygı somut hedef arar.",
+        "İş güvencesi azalan kişi öfkesini şirket kararına değil otobüsteki yabancı dile yöneltebilir; çünkü yakındaki hedef daha görünürdür.",
+        "Her güvenlik kaygısı uydurma değildir. Bauman'ın uyarısı tehlikeyi inkâr etmek değil, korkunun hangi nedene bağlandığını sınamaktır.",
+        "Bir korku haberi gördüğünüzde olasılığı, kaynağı ve önerilen çözümden kimin güç kazandığını sormak sisin içindeki yolu açar."
+      ]
+    },
+    {
+      "id": "durak-12-topluluk-ozlemi-ve-kapali-kapi",
+      "section": "BEŞİNCİ KISIM · AİDİYET",
+      "title": "Topluluk özlemi ve kapalı kapı",
+      "paragraphs": [
+        "Belirsizlik arttıkça insanlar sıcak, güvenli topluluk özler. Fakat tamamen benzerlerden kurulan güvenlik, farklı olanı dışarıda bırakma pahasına sağlanabilir.",
+        "Mahalle grubunun yalnız aynı görüştekileri kabul etmesi huzur verir; ilk anlaşmazlıkta bu huzurun konuşma değil sessizlik olduğu anlaşılır.",
+        "Topluluk ile özgürlük arasında basit seçim yoktur. İyi aidiyet üyeye destek sunarken ayrılma ve eleştirme hakkını da korur.",
+        "Bir grubun sıcaklığını ölçerken içeri girmenin, farklı kalmanın ve çıkmanın bedeline birlikte bakmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-13-atik-yalniz-esya-degildir",
+      "section": "ALTINCI KISIM · DIŞARIDA KALANLAR",
+      "title": "Atık yalnız eşya değildir",
+      "paragraphs": [
+        "Tüketim düzeni ürünleri hızla eskittiği gibi insanları da 'gereksiz' ilan edebilir. İş bulamayan, göç eden veya sisteme uymayan kişi ekonomik atık diliyle görülür.",
+        "Yeni yazılıma geçildiğinde yılların çalışanına eğitim vermek yerine onu eski model saymak, ürün mantığının insana uygulanmasıdır.",
+        "İnsan ile nesne aynı değildir; benzetmenin sarsıcı amacı tam da bu ahlaki skandalı göstermektir.",
+        "Bir politika maliyeti azaltırken kimi görünmez ve terk edilmiş bıraktığını sormak verimlilik tablosunun dışındaki insanı geri getirir."
+      ]
+    },
+    {
+      "id": "durak-14-kesinlik-satan-uzmanlar",
+      "section": "YEDİNCİ KISIM · REHBERLER",
+      "title": "Kesinlik satan uzmanlar",
+      "paragraphs": [
+        "Kurumların uzun vadeli yönü zayıflayınca birey hayat koçu, liste ve algoritmadan kesin cevap arar. Rehber çoğalır çünkü dünya daha anlaşılır değil, daha belirsizdir.",
+        "Her hafta tersini söyleyen beslenme önerileri arasında kişi doğru hayatı bulmak yerine yanlış seçim yapma korkusu yaşar.",
+        "Uzmanlık gereksiz değildir; tıp ve mühendislik güvenilir bilgi üretir. Sorun, değer çatışmasını teknik reçete gibi satmaktır.",
+        "Bir tavsiyede kanıtı, çıkarı ve başarısızlık halinde sorumluluğun kime yüklendiğini ayırmak kesinlik pazarına karşı koruma sağlar."
+      ]
+    },
+    {
+      "id": "durak-15-akiskanlik-herkes-icin-ayni-degildir",
+      "section": "YEDİNCİ KISIM · EŞİTSİZLİK",
+      "title": "Akışkanlık herkes için aynı değildir",
+      "paragraphs": [
+        "Hareketli dünya güçlü kişiye seyahat ve seçenek, yoksula zorunlu göç ve güvencesizlik getirebilir. Aynı akışta kimi sörf yapar, kimi sürüklenir.",
+        "Pasaport ve birikimi olan çalışan ülke değiştirmeyi macera sayar; savaştan kaçan göçmen aynı sınırda aylarca bekler.",
+        "Bu fark kitabın en önemli ahlaki uyarılarındandır: Esneklik kelimesi sınıf ve vatandaşlıkla birlikte okunmalıdır.",
+        "Yeni bir özgürlüğü överken kimin riskini başkasına devrettiğini sormak parlak akışın altındaki eşitsiz zemini gösterir."
+      ]
+    },
+    {
+      "id": "durak-16-nostalji-cozum-mudur",
+      "section": "SEKİZİNCİ KISIM · GERİ DÖNÜŞ",
+      "title": "Nostalji çözüm müdür?",
+      "paragraphs": [
+        "Belirsizlik eski sağlam dünyaya dönme arzusunu güçlendirir. Fakat geçmişin güvenliği bazıları için itaat, dışlanma ve sessizlik demekti.",
+        "Kapanan fabrikanın düzenli işi özlenebilir; aynı fabrikanın kadınlara kapalı veya sağlıksız oluşu nostalji fotoğrafında görünmeyebilir.",
+        "Bauman eski katıları geri getirmeyi önermez. Soru, kalıcılığı özgürlüğü boğmadan ve güvenceyi dışlama üretmeden nasıl kuracağımızdır.",
+        "Geçmişi anarken kimin güvende, kimin suskun olduğunu ayrı ayrı sormak hatırayı çözüm sanma tuzağını azaltır."
+      ]
+    },
+    {
+      "id": "durak-17-akista-kucuk-saglam-adalar",
+      "section": "SEKİZİNCİ KISIM · ORTAK ÇÖZÜM",
+      "title": "Akışta küçük sağlam adalar",
+      "paragraphs": [
+        "Kitap hazır program sunmaz; fakat bireysel sorunları yeniden ortak meseleye çevirmemizi ister. Güvence, yalnız kişisel tasarruf değil birlikte kurulan kurum işidir.",
+        "Mahalle kreşi, sendika, kütüphane ve dayanışma ağı değişimi durdurmaz; insanlara değişim içinde tutunacak zemin verir.",
+        "Her katı kurum iyi değildir. Sağlam ada eleştiriye açık, erişilebilir ve gerektiğinde değişebilir olmalıdır.",
+        "Hayatta kalıcı kılmak istediğiniz üç ilişki ve kurumu seçip onlara düzenli zaman vermek, akışkanlığa karşı küçük ama gerçek bir başlangıçtır."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Akışkan Modernite 'eskiden her şey güzeldi' veya bütün değişim kötüdür demez. Benzetme, esneklik ve özgürlüğün riskini kurumlardan bireyin omzuna aktarabildiğini gösterir; teknoloji ya da tüketim tek başına şeytan ilan edilmez.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Uzaktan çalışma, platform ekonomisi, çevrim içi ilişki ve yapay zekâ Bauman'ın anlattığı geçiciliği daha görünür yaptı. Yine de iklim krizi ve pandemi, ortak kurumlara duyulan ihtiyacın ortadan kalkmadığını güçlü biçimde gösterdi.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Bu özgürlüğün riskini kim taşıyor? Geçici çözüm hangi uzun vadeli bağı zayıflatıyor? Kişisel başarısızlık sandığım sorun kaç kişinin ortak deneyimi?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Akışkan dünyada seçenekler çoğalırken güvence ve sorumluluk bireyin omzuna kayar; özgür kalmak için yeni ortak dayanaklar kurmak gerekir.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-kati-dunya-nasil-sivilasti": {
+      "image": "/images/summary-art-241-chapter-01-solid-melts-liquid-v1.webp",
+      "imageCaption": "Eriyen katı blok, uzun ömürlü kurumların hızla biçim değiştiren geçici düzenlere dönüşmesini simgeler."
+    },
+    "durak-03-ozgurluk-neden-yuk-gibi-gelir": {
+      "image": "/images/summary-art-241-chapter-02-choice-backpack-v1.webp",
+      "imageCaption": "Seçimlerle dolu ağır sırt çantası, özgürlüğün kurumsal destek olmadan kişisel yük haline gelebileceğini anlatır."
+    },
+    "durak-04-is-yerinde-uzun-vade-kaybolunca": {
+      "image": "/images/summary-art-241-chapter-03-short-contract-calendar-v1.webp",
+      "imageCaption": "Yaprakları hızla kopan sözleşme takvimi, kısa vadeli işin bütün yaşam planını belirsizleştirmesini gösterir."
+    },
+    "durak-05-tuketici-kimligini-sepetten-secer": {
+      "image": "/images/summary-art-241-chapter-04-identity-shopping-cart-v1.webp",
+      "imageCaption": "Alışveriş sepetindeki değişen maskeler, kimliğin satın alınıp hızla yenilenmesi beklenen bir projeye dönüşmesini anlatır."
+    },
+    "durak-06-baglanti-cok-bag-zayif": {
+      "image": "/images/summary-art-241-chapter-05-many-links-thin-rope-v1.webp",
+      "imageCaption": "Çok sayıdaki ince bağlantı, kalabalık görünürken ağırlık taşımakta zorlanan akışkan ilişki ağını simgeler."
+    },
+    "durak-07-sehirde-yabanciyla-yan-yana": {
+      "image": "/images/summary-art-241-chapter-06-city-strangers-bridge-v1.webp",
+      "imageCaption": "Duvar yerine köprüyle kesişen yabancılar, şehirde korku ile karşılaşma imkânının aynı mekânda kurulmasını anlatır."
+    },
+    "durak-08-guc-hareketli-siyaset-yerinde": {
+      "image": "/images/summary-art-241-chapter-07-mobile-power-fixed-town-v1.webp",
+      "imageCaption": "Uçan şirket merkezi ile yerde kalan kasaba, hareketli güç ve yerel siyasi sorumluluk arasındaki açığı gösterir."
+    },
+    "durak-09-zamanin-uzun-yolu-kisa-ana-doner": {
+      "image": "/images/summary-art-241-chapter-08-hourglass-to-instant-v1.webp",
+      "imageCaption": "Uzun kum saatinin anlık parıltıya sıkışması, farklı yaşam ritimlerinin hız ölçüsüne indirgenmesini simgeler."
+    },
+    "durak-10-gozetim-ozgurlugun-golgesinde": {
+      "image": "/images/summary-art-241-chapter-09-footprints-under-lens-v1.webp",
+      "imageCaption": "Hızla yürüyen kişinin büyüteç altındaki dijital izleri, hareket kolaylığının gözetimle birleşmesini gösterir."
+    },
+    "durak-11-korku-neden-her-yere-yayilir": {
+      "image": "/images/summary-art-241-chapter-10-fear-finds-target-v1.webp",
+      "imageCaption": "Biçimsiz korku bulutu yakındaki yabancının üzerine çökerken asıl uzak neden görünmez kalabilir."
+    },
+    "durak-12-topluluk-ozlemi-ve-kapali-kapi": {
+      "image": "/images/summary-art-241-chapter-11-warm-circle-closed-gate-v1.webp",
+      "imageCaption": "Sıcak çemberin kapalı kapısı, aidiyetin destek kadar dışlama ihtimali de taşıdığını anlatır."
+    },
+    "durak-13-atik-yalniz-esya-degildir": {
+      "image": "/images/summary-art-241-chapter-12-discarded-person-shadow-v1.webp",
+      "imageCaption": "Atılmış eşya yığınının yanında duran insan gölgesi, tüketim mantığının kişileri de kullanılmış ve gereksiz sayma tehlikesini gösterir."
+    },
+    "durak-14-kesinlik-satan-uzmanlar": {
+      "image": "/images/summary-art-241-chapter-13-many-compasses-v1.webp",
+      "imageCaption": "Farklı yönleri gösteren pusulalar, belirsizlik arttıkça kesin cevap satan rehberlerin çoğalmasını anlatır."
+    },
+    "durak-15-akiskanlik-herkes-icin-ayni-degildir": {
+      "image": "/images/summary-art-241-chapter-14-surfer-and-drifter-v1.webp",
+      "imageCaption": "Aynı dalgada sörf yapan ile sürüklenen kişi, akışkanlığın güç ve kaynaklara göre bambaşka yaşandığını gösterir."
+    },
+    "durak-16-nostalji-cozum-mudur": {
+      "image": "/images/summary-art-241-chapter-15-nostalgia-house-cracks-v1.webp",
+      "imageCaption": "Uzaktan sağlam görünen eski evin çatlakları, nostaljik güvenliğin sakladığı baskı ve dışlamayı hatırlatır."
+    },
+    "durak-17-akista-kucuk-saglam-adalar": {
+      "image": "/images/summary-art-241-chapter-16-islands-in-current-v1.webp",
+      "imageCaption": "Hızlı akıntıdaki dayanışma adaları, değişimi dondurmadan insanlara ortak ve güvenli zemin sağlayabilir."
+    }
+  }
+}
