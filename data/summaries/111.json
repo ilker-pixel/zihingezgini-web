@@ -1,0 +1,356 @@
+{
+  "bookNo": 111,
+  "title": "Devlet Gibi Görmek",
+  "author": "James C. Scott",
+  "subtitle": "Merkezî yönetimin karmaşık orman, şehir ve toplulukları vergi, planlama ve denetim için okunabilir hale getirirken yerel bilgiyi nasıl silebildiğini; büyük iyi niyetli projelerin neden felakete dönüşebildiğini anlatan çarpıcı eser.",
+  "coverImage": "/images/summary-cover-111-devlet-gibi-gormek-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/111-devlet-gibi-gormek-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4D665E",
+  "meta": {
+    "originalTitle": "Seeing Like a State",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Yukarıdan bakınca orman eşit sıralı kereste sütunlarıdır; köylü için mantar, yem, ilaç, gölge, patika ve hatıra ağıdır. Scott devletin haritasının gerekli ama eksik olduğunu, bu eksik harita tek gerçek sayıldığında hayatı kendi çizgilerine zorladığını gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Yale University Press - Seeing Like a State",
+      "url": "https://yalebooks.yale.edu/book/9780300246759/seeing-like-a-state/"
+    },
+    {
+      "id": 2,
+      "title": "Yale Political Science - James C. Scott",
+      "url": "https://politicalscience.yale.edu/people/james-scott"
+    },
+    {
+      "id": 3,
+      "title": "Yale Anthropology - James C. Scott",
+      "url": "https://anthropology.yale.edu/profile/james-scott"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Merkezî yönetimin karmaşık orman, şehir ve toplulukları vergi, planlama ve denetim için okunabilir hale getirirken yerel bilgiyi nasıl silebildiğini; büyük iyi niyetli projelerin neden felakete dönüşebildiğini anlatan çarpıcı eser.",
+        "Kitap devleti bütünüyle kötü ya da yerel geleneği daima iyi saymaz. Tehlikeli birleşim; idari sadeleştirme, dünyayı baştan kurma iddiasındaki yüksek modernizm, zorlayıcı devlet gücü ve direnemeyen toplumdur.",
+        "Bu rehber, James C. Scott tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-okunabilirlik-neden-iktidardir",
+      "section": "BİRİNCİ KISIM · HARİTA",
+      "title": "Okunabilirlik neden iktidardır?",
+      "paragraphs": [
+        "Devlet yönetebilmek için insanları, toprağı ve üretimi standart kategorilere çevirir. Okunabilirlik uzaktaki merkez için dağınık dünyayı hesaplanabilir kılar. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Köyde herkes 'çınarın arkasındaki Ali'yi bilir; vergi memuru sabit soyadı ve adres ister.",
+        "Kayıt sağlık ve hak da sağlar. Sorun haritanın hayatın tamamı sanılması ve uymayanın zorla düzeltilmesidir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir formda hangi gerçekliğin kutuya sığmadığını ve bu kaybın kime bedel olduğunu sorun."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Okunabilirlik neden iktidardır?” başlığının yalnız kendi örneğini değil Devlet Gibi Görmek boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-soyadi-devletin-dosya-kulpudur",
+      "section": "BİRİNCİ KISIM · KAYIT",
+      "title": "Soyadı devletin dosya kulpudur",
+      "paragraphs": [
+        "Sabit soyadları vergi, askerlik, mülkiyet ve hukuk için kişiyi kuşaklar boyunca izlenebilir kılar. Yerel lakapların akışkanlığı merkez için sorun olur. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Kasabada üç Mehmet bağlama göre ayırt edilir; ulusal veri tabanı her birine değişmez kimlik ister.",
+        "Resmî kimlik görünmez kişiye hak kazandırabilir, ama gözetim ve dışlama da yaratır. Kayıtsızlığın da bedeli vardır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Kimlik sisteminde yanlış kaydı düzeltme ve devlet gözünden çekilme hakkının bulunup bulunmadığını inceleyin."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Soyadı devletin dosya kulpudur” başlığının yalnız kendi örneğini değil Devlet Gibi Görmek boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-standart-olcu-pazari-ve-vergiyi-degistirir",
+      "section": "BİRİNCİ KISIM · ÖLÇÜ",
+      "title": "Standart ölçü pazarı ve vergiyi değiştirir",
+      "paragraphs": [
+        "Yerel sepet, tarla ve ağırlık ölçüleri kullanıma göre değişebilir; devlet standart metre ve kilogramla karşılaştırma, vergi ve pazar kurar. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Bir 'günlük tarla' toprağın eğimine ve çiftçiye göre değişir; kadastro sabit dönüm ister.",
+        "Standart tüketiciyi korur ve ticareti kolaylaştırır. Ancak yerel işlev bilgisini görünmezleştirip tek fiyat mantığına açabilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir performans ölçüsünün neden seçildiğini ve ölçemediği kaliteyi ayrıca yazın."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Standart ölçü pazarı ve vergiyi değiştirir” başlığının yalnız kendi örneğini değil Devlet Gibi Görmek boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-bilimsel-ormanciligin-tek-agacli-gozu",
+      "section": "İKİNCİ KISIM · DOĞA",
+      "title": "Bilimsel ormancılığın tek ağaçlı gözü",
+      "paragraphs": [
+        "Prusya ormancılığı karmaşık ormanı ölçülebilir kereste hacmine indirgedi; aynı yaş ve türde sıralar kısa vadede verimi artırdı. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Orman muhasebecinin tablosunda gövde sayısıdır; köylünün hayatında yakacak, meyve, av ve toprak döngüsüdür.",
+        "İlk hasat başarılı olabilir, sonraki kuşakta toprak ve çeşitlilik kaybı ortaya çıkar. Verim zaman ufkuna bağlıdır. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Tek ürünlü tarımda kısa kârın hastalık, toprak ve yerel geçim riskini nasıl büyüttüğünü sorun."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Bilimsel ormancılığın tek ağaçlı gözü” başlığının yalnız kendi örneğini değil Devlet Gibi Görmek boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-kadastro-yasayan-topragi-dondurur",
+      "section": "İKİNCİ KISIM · MÜLKİYET",
+      "title": "Kadastro yaşayan toprağı dondurur",
+      "paragraphs": [
+        "Harita sınırı ve tapu, ortak kullanım, mevsimlik geçiş ve pazarlıkla yaşayan toprak ilişkilerini tek sahibin parseline çevirebilir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Köylüler aynı çayırı mevsime göre paylaşırken harita kalın çizgi çekip bir kişiye verir; eski hak görünmez olur.",
+        "Tapu yatırım ve hukuki güven sağlayabilir. Mesele hangi hak biçiminin kayda girdiği ve hangisinin silindiğidir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir arazi projesinde yalnız tapu sahibini değil, mevsimlik kullanıcı, kiracı ve ekolojik akışı da haritalayın."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Kadastro yaşayan toprağı dondurur” başlığının yalnız kendi örneğini değil Devlet Gibi Görmek boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-duz-sehir-kolay-okunur-zor-yasanabilir",
+      "section": "ÜÇÜNCÜ KISIM · ŞEHİR",
+      "title": "Düz şehir kolay okunur, zor yaşanabilir",
+      "paragraphs": [
+        "Cetvelle çizilmiş geniş bulvar ve işlev bölgeleri yönetim ve trafik için okunaklıdır; fakat dar sokakların ticaret, gölge ve karşılaşma bilgisini silebilir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Yukarıdan kusursuz blok görünen mahallede ekmek almak için kilometre yürümek gerekebilir.",
+        "Plansız şehir de altyapı ve güvenlik sorunu üretir. Scott planlamayı değil tek ölçeğin egemenliğini eleştirir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Şehir çiziminde araç akışı yanında çocuğun, yaşlının ve sokak satıcısının rotasını izleyin."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Düz şehir kolay okunur, zor yaşanabilir” başlığının yalnız kendi örneğini değil Devlet Gibi Görmek boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-brasilia-neden-anit-gibi-yasandi",
+      "section": "ÜÇÜNCÜ KISIM · YÜKSEK MODERNİZM",
+      "title": "Brasília neden anıt gibi yaşandı?",
+      "paragraphs": [
+        "Brasília modernist düzeni dev ölçekli eksen ve ayrılmış işlevlerle kurdu; ulusal gelecek simgesi olurken yaya gündeliğini zorlaştırdı. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Bina fotoğrafta heykel gibi etkileyici, markete yürüyen insan için mesafeli olabilir.",
+        "Kentin deneyimi zamanla sakinlerin uyarlamalarıyla değişti. Tek başlangıç eleştirisi bütün yaşam tarihini açıklamaz. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Mimari projeyi kuşbakışı güzellik kadar sıradan salı günü rotasıyla sınayın."
+      ],
+      "extraParagraphs": [
+        "Bu fikri gerçek bir sınamaya sokmak için, “Brasília neden anıt gibi yaşandı?” başlığının yalnız kendi örneğini değil Devlet Gibi Görmek boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-yuksek-modernizm-ilerlemeye-neden-guvenir",
+      "section": "DÖRDÜNCÜ KISIM · İDEOLOJİ",
+      "title": "Yüksek modernizm ilerlemeye neden güvenir?",
+      "paragraphs": [
+        "Yüksek modernizm bilim ve teknikle toplumu baştan düzenleyebileceğine inanır. Eski karmaşıklık geri kalmışlık, standart plan gelecek sayılır. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Mühendis eski mahalleyi arızalı makine gibi görüp bütün parçaları tek tasarımla değiştirmek isteyebilir.",
+        "Bilimsel altyapı gerçek ilerleme sağlar. Tehlike belirsizliği küçümseyen ve itirazı bilgisizlik sayan kesinliktir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Büyük dönüşüm vaadinde pilot uygulama, geri dönüş ve yerel itiraz kapısının olup olmadığını sorun."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Yüksek modernizm ilerlemeye neden güvenir?” başlığının yalnız kendi örneğini değil Devlet Gibi Görmek boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-zorlayici-devlet-plani-neden-buyutur",
+      "section": "DÖRDÜNCÜ KISIM · GÜÇ",
+      "title": "Zorlayıcı devlet planı neden büyütür?",
+      "paragraphs": [
+        "Sade plan ancak güçlü devlet insanların yerini, ürününü ve işini zorla değiştirirse bütün topluma uygulanabilir. Geri bildirim bastırıldığında hata büyür. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Yanlış navigasyon küçük araçta dönülerek düzelir; bütün otobüs filosuna tek rota zorlanırsa şehir kilitlenir.",
+        "Demokratik devlet de hata yapabilir, otoriter olmayan plan da başarılı olabilir. Dört koşulun birleşimi önemlidir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir programda başarısızlığı söyleyen memur ve yurttaşın cezalandırılmadan geri bildirim verebildiğini kontrol edin."
+      ]
+    },
+    {
+      "id": "durak-11-sovyet-kolektiflestirmesinde-koyun-kaybi",
+      "section": "BEŞİNCİ KISIM · FELAKET",
+      "title": "Sovyet kolektifleştirmesinde köyün kaybı",
+      "paragraphs": [
+        "Zorunlu kolektifleştirme tarımı büyük birimler, kotalar ve standart ürünlerle yönetmeye çalıştı; yerel ekim bilgisi ve çiftçi teşvikleri ezildi. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Merkez hektar başına hedef koyarken çiftçi hangi toprağın geç ısındığını ve hangi tohumun rüzgâra dayandığını biliyordu.",
+        "Kıtlık yalnız bilgi kaybından değil şiddet, el koyma ve siyasi kararlardan doğdu. Teknik hata ahlaki suçu gizlememelidir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Tarım politikasında üreticinin itirazını 'değişime direnç' diye atmadan sahadaki bilgiyi inceleyin."
+      ]
+    },
+    {
+      "id": "durak-12-ujamaa-koyleri-ve-zorunlu-yakinlik",
+      "section": "BEŞİNCİ KISIM · YERLEŞTİRME",
+      "title": "Ujamaa köyleri ve zorunlu yakınlık",
+      "paragraphs": [
+        "Tanzanya'da köylüleri planlı köylere toplama projesi hizmet götürmeyi amaçladı; zor kullanıldığında tarla, su ve akrabalık bilgisi bozuldu. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Haritada okulun ortada olması mantıklıdır; çiftçinin tarlasına her gün saatler yürümesi yaşam hesabını değiştirir.",
+        "Programın dönemleri ve bölgeleri farklıydı; tek felaket etiketi bütün niyeti ve sonucu açıklamaz. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Hizmeti insanlara götürmekle insanları hizmet planına zorla taşımak arasındaki farkı görün."
+      ]
+    },
+    {
+      "id": "durak-13-metis-tarifte-yazmayan-bilgi",
+      "section": "ALTINCI KISIM · YEREL BİLGİ",
+      "title": "Mētis: tarifte yazmayan bilgi",
+      "paragraphs": [
+        "Mētis deneyimle, bedenle ve belirli yerde edinilen pratik bilgidir. Genel bilimsel kuralın somut durumda işlemesi için ince ayar sağlar. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Usta hemşire cihaz normal gösterse de hastanın rengindeki küçük değişimden sorun sezebilir.",
+        "Yerel bilgi yanılabilir ve gelenek baskı taşıyabilir. Bilimle rakip değil, geri bildirim ortağı olarak sınanmalıdır. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Proje ekibine yalnız diplomalı uzmanı değil işi her gün yapan kişinin sessiz bilgisini dahil edin."
+      ]
+    },
+    {
+      "id": "durak-14-jane-jacobs-sokagi-nasil-okudu",
+      "section": "ALTINCI KISIM · KENT BİLGİSİ",
+      "title": "Jane Jacobs sokağı nasıl okudu?",
+      "paragraphs": [
+        "Jacobs karma kullanımlı, kısa bloklu ve sokak gözü olan mahallelerin merkezî plana sığmayan güvenlik ve canlılık ürettiğini gösterdi. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Bakkal, pencere önündeki komşu ve çocuk aynı sokağı farklı saatlerde izler; tek güvenlik kamerasından daha zengin ağ kurabilir.",
+        "Gayriresmî gözetim dışlayıcı mahalle baskısına dönüşebilir. Canlılık erişilebilirlik ve hakla dengelenmelidir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Mahalle güvenliğini yalnız polis sayısıyla değil gündüz-gece kullanım çeşitliliğiyle değerlendirin."
+      ]
+    },
+    {
+      "id": "durak-15-kucuk-adimlar-ve-geri-donus",
+      "section": "ALTINCI KISIM · İHTİYAT",
+      "title": "Küçük adımlar ve geri dönüş",
+      "paragraphs": [
+        "Scott büyük tek seferlik dönüşüm yerine deneme, düzeltme, çeşitlilik ve geri alınabilir adımlar önerir. Belirsizliği kabul eden plan hata maliyetini sınırlar. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Bütün tarlaya yeni tohum ekmek yerine küçük parselde denemek, başarısızlığı öğrenme bedeline çevirir.",
+        "Acil salgın veya afet hızlı büyük müdahale gerektirebilir. İhtiyat eylemsizlik bahanesi olmamalıdır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Kararda pilot alan, bağımsız değerlendirme ve vazgeçme eşiğini önceden belirleyin."
+      ]
+    },
+    {
+      "id": "durak-16-algoritma-da-devlet-gibi-gorebilir",
+      "section": "YEDİNCİ KISIM · DİJİTAL OKUNABİLİRLİK",
+      "title": "Algoritma da devlet gibi görebilir",
+      "paragraphs": [
+        "Bugün platform ve algoritmalar insanı puan, profil ve davranış tahminine çevirir. Dijital okunabilirlik devlet kadar şirket gücü de üretir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Kredi sistemi düzenli maaşı görür, düzensiz gelirli bakım çalışanının güvenilirliğini okuyamayabilir.",
+        "Veri ayrıntılı olsa da anlamlı olmak zorunda değildir; daha çok veri yerel bağlam kaybını otomatik çözmez. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Otomatik kararda hangi değişkenin vekil olarak kullanıldığını ve yanlış kaydı kimin düzeltebildiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-17-kitabin-dengeli-dersi",
+      "section": "YEDİNCİ KISIM · BÜTÜN",
+      "title": "Kitabın dengeli dersi",
+      "paragraphs": [
+        "Toplum tamamen okunamaz kalırsa hak ve koordinasyon zorlaşır; tamamen tek şemaya sokulursa yaşam kırılır. İyi yönetim harita ile araziyi sürekli konuşturur. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Harita yolculuk için gereklidir ama sel yüzünden kapanan köprüyü köylünün sözü günceller.",
+        "Yerel olan romantik saflık değildir; eşitsizlik ve dışlama taşıyabilir. Çoğul bilgi hesap verebilirlikle birleşmelidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Her büyük sistemde standart veri, saha gözlemi ve etkilenen kişinin itirazını aynı karar döngüsüne bağlayın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Scott 'devlet planlamasın, uzmanlık gereksiz, yerel olan daima iyidir' demez. Eleştirdiği şey, zorlayıcı güçle desteklenen ve kendi sade haritasını yaşayan gerçekliğin tamamı sanan kapalı planlamadır.",
+        "Devlet Gibi Görmek tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? James C. Scott ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap planlama, kalkınma ve veri yönetimi tartışmalarında klasikleşmiş; seçtiği başarısız örneklerin yanlı olabileceği, başarılı büyük kamu programlarını az işlediği ve devleti tek bir göz gibi genelleştirdiği eleştirileri almıştır.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Devlet Gibi Görmek için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Devlet Gibi Görmek için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu sistem dünyayı hangi kategoriyle okunabilir kılıyor ve neyi siliyor? Hata çıktığında sahadaki kişi güvenle itiraz edebiliyor mu? Plan küçük, geri alınabilir ve yerel bilgiyle düzeltilebilir mi?",
+        "Bu sorular Devlet Gibi Görmek için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Devlet Gibi Görmek üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Devletin haritası yönetim için gereklidir ama arazi değildir; sadeleştirme, yüksek modernist kesinlik ve zorlayıcı güç birleştiğinde iyi niyetli plan yaşayan karmaşıklığı ezebilir.",
+        "Akılda kalacak son görüntü, kusursuz kareli haritanın altından taşan yeşil orman, kıvrımlı sokak ve insan patikalarıdır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Devlet Gibi Görmek adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-okunabilirlik-neden-iktidardir": {
+      "image": "/images/summary-art-111-chapter-01-legibility-grid-v1.webp",
+      "imageCaption": "Dağınık köyün kareli idari haritaya dönüşmesi, okunabilirliği gösterir."
+    },
+    "durak-03-soyadi-devletin-dosya-kulpudur": {
+      "image": "/images/summary-art-111-chapter-02-surname-ledger-v1.webp",
+      "imageCaption": "Akışkan lakapların tek satırlı deftere bağlanması, idari kimliği gösterir."
+    },
+    "durak-04-standart-olcu-pazari-ve-vergiyi-degistirir": {
+      "image": "/images/summary-art-111-chapter-03-standard-measures-v1.webp",
+      "imageCaption": "Farklı yerel kapların tek cetvele hizalanması, standardizasyonu gösterir."
+    },
+    "durak-05-bilimsel-ormanciligin-tek-agacli-gozu": {
+      "image": "/images/summary-art-111-chapter-04-scientific-forest-v1.webp",
+      "imageCaption": "Düz ağaç sıraları ile karmaşık canlı orman, idari sadeleştirmeyi gösterir."
+    },
+    "durak-06-kadastro-yasayan-topragi-dondurur": {
+      "image": "/images/summary-art-111-chapter-05-cadastral-map-v1.webp",
+      "imageCaption": "Canlı ortak çayırın sert parsellere bölünmesi, kadastro gözünü gösterir."
+    },
+    "durak-07-duz-sehir-kolay-okunur-zor-yasanabilir": {
+      "image": "/images/summary-art-111-chapter-06-planned-city-v1.webp",
+      "imageCaption": "Kusursuz ızgara ile yaşayan kıvrımlı sokakların karşılaşması, planlama gerilimini gösterir."
+    },
+    "durak-08-brasilia-neden-anit-gibi-yasandi": {
+      "image": "/images/summary-art-111-chapter-07-brasilia-scale-v1.webp",
+      "imageCaption": "Dev anıt ekseninde küçük yürüyen insanlar, yüksek modernist ölçeği gösterir."
+    },
+    "durak-09-yuksek-modernizm-ilerlemeye-neden-guvenir": {
+      "image": "/images/summary-art-111-chapter-08-high-modernist-tower-v1.webp",
+      "imageCaption": "Masanın üzerindeki kusursuz toplum maketi, yüksek modernist güveni simgeler."
+    },
+    "durak-10-zorlayici-devlet-plani-neden-buyutur": {
+      "image": "/images/summary-art-111-chapter-09-coercive-blueprint-v1.webp",
+      "imageCaption": "Büyük plan kâğıdını topluma bastıran ağır el, zorlayıcı gücü gösterir."
+    },
+    "durak-11-sovyet-kolektiflestirmesinde-koyun-kaybi": {
+      "image": "/images/summary-art-111-chapter-10-collective-fields-v1.webp",
+      "imageCaption": "Standart tarlalar altında silinen yerel tohum izleri, kolektifleştirme kaybını gösterir."
+    },
+    "durak-12-ujamaa-koyleri-ve-zorunlu-yakinlik": {
+      "image": "/images/summary-art-111-chapter-11-ujamaa-village-v1.webp",
+      "imageCaption": "Planlı merkez ile uzak kalan gerçek tarlalar, zorunlu yerleştirmenin sorununu gösterir."
+    },
+    "durak-13-metis-tarifte-yazmayan-bilgi": {
+      "image": "/images/summary-art-111-chapter-12-metis-hands-v1.webp",
+      "imageCaption": "Cetvel yanında toprağı avucunda tartan deneyimli el, mētis'i gösterir."
+    },
+    "durak-14-jane-jacobs-sokagi-nasil-okudu": {
+      "image": "/images/summary-art-111-chapter-13-street-eyes-v1.webp",
+      "imageCaption": "Farklı pencerelerden sokağa bakan gözler, dağınık yerel güveni gösterir."
+    },
+    "durak-15-kucuk-adimlar-ve-geri-donus": {
+      "image": "/images/summary-art-111-chapter-14-reversible-steps-v1.webp",
+      "imageCaption": "Büyük sıçrama yerine geri dönüşlü taşlardan geçen yol, ihtiyatlı planlamayı gösterir."
+    },
+    "durak-16-algoritma-da-devlet-gibi-gorebilir": {
+      "image": "/images/summary-art-111-chapter-15-algorithmic-grid-v1.webp",
+      "imageCaption": "İnsan yüzünün puan karelerine ayrılması, dijital okunabilirliği gösterir."
+    },
+    "durak-17-kitabin-dengeli-dersi": {
+      "image": "/images/summary-art-111-chapter-16-map-and-terrain-v1.webp",
+      "imageCaption": "Şeffaf haritanın altından görünen canlı arazi, kitabın dengeli dersini gösterir."
+    }
+  }
+}

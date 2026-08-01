@@ -1,0 +1,347 @@
+{
+  "bookNo": 68,
+  "title": "Nikomakhos'a Etik",
+  "author": "Aristoteles",
+  "subtitle": "İyi hayatı tek bir doğru davranış listesiyle değil; alışkanlıkla gelişen karakter, pratik bilgelik, dostluk, haz, adalet ve ortak yaşamın bütünü içinde arayan erdem etiği klasiği.",
+  "coverImage": "/images/summary-cover-68-nikomakhosa-etik-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/68-nikomakhosa-etik-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6F5A3E",
+  "meta": {
+    "originalTitle": "Nicomachean Ethics",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir kez cesur davranmak cesur insan olmaya yetmez; tıpkı bir kez piyano çalmanın müzisyen yapmaması gibi. Aristoteles iyi yaşamı anlık puanlardan değil, yıllar boyunca neyi nasıl yaptığımızdan oluşan etkin bir bütün olarak görür.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Stanford Encyclopedia of Philosophy - Aristotle's Ethics",
+      "url": "https://plato.stanford.edu/entries/aristotle-ethics/"
+    },
+    {
+      "id": 2,
+      "title": "MIT Classics Archive - Nicomachean Ethics",
+      "url": "https://classics.mit.edu/Aristotle/nicomachaen.html"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Aristotle Ethics",
+      "url": "https://iep.utm.edu/aristotle-ethics/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "İyi hayatı tek bir doğru davranış listesiyle değil; alışkanlıkla gelişen karakter, pratik bilgelik, dostluk, haz, adalet ve ortak yaşamın bütünü içinde arayan erdem etiği klasiği.",
+        "Metin soyut bir ahlak yasası değil, iyi yaşamak için karakter eğitimi araştırmasıdır. Antik polis yurttaşı ölçüsünü evrensel insan sanan sınırlılıklarını görürken, eudaimonia, alışkanlık ve pratik bilgelik kavramlarının gücünü korumak gerekir.",
+        "Bu rehber, Aristoteles tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-her-eylem-bir-iyiyi-hedefler",
+      "section": "BİRİNCİ KİTAP · AMAÇ",
+      "title": "Her eylem bir iyiyi hedefler",
+      "paragraphs": [
+        "Aristoteles sanatların, seçimlerin ve eylemlerin bir iyiye yöneldiğini söyler. Bazı amaçlar başka amaçlar için araçtır; etik araştırma kendi başına seçilen en yüksek insan iyisini arar. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Para ekmek için, ekmek yaşamak için istenir. Zinciri sürekli uzatırsak hangi yaşamın bunların hepsini anlamlı kıldığını sormamız gerekir.",
+        "İnsanların amaçları çatışır ve 'iyi' sözü tek içerik vermez. Araştırma gündelik ortak görüşlerden başlayıp onları sınar. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir hedef listenizde hangisinin yalnız başka hedefe araç, hangisinin kendi başına değer olduğunu ayırın."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Her eylem bir iyiyi hedefler” başlığının yalnız kendi örneğini değil Nikomakhos'a Etik boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-eudaimonia-mutluluk-hissinden-fazlasidir",
+      "section": "BİRİNCİ KİTAP · İYİ YAŞAM",
+      "title": "Eudaimonia mutluluk hissinden fazlasıdır",
+      "paragraphs": [
+        "Eudaimonia geçici neşe değil, bütün bir yaşam boyunca insan yetilerini erdemli biçimde etkin kullanarak serpilmedir. İnsan iyi hissedip kötü yaşayabilir ya da zorluk içinde anlamlı iş sürdürebilir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Bir bahçenin tek güneşli gününe değil, mevsimler boyunca kök, ürün ve dayanıklılığına bakarız. İyi hayat da anlık fotoğraf değil uzun etkinliktir.",
+        "Dış koşullar tamamen önemsiz değildir; ağır talihsizlikler serpilme imkânını azaltır. Aristoteles Stoacılardan bu noktada ayrılır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Günün duygusuyla bütün hayatınıza hüküm vermeden hangi ilişkilerin ve etkinliklerin uzun vadede sizi geliştirdiğini sorun."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Eudaimonia mutluluk hissinden fazlasıdır” başlığının yalnız kendi örneğini değil Nikomakhos'a Etik boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-insan-isi-akla-gore-etkinlik",
+      "section": "BİRİNCİ KİTAP · İŞLEV",
+      "title": "İnsan işi: akla göre etkinlik",
+      "paragraphs": [
+        "İşlev argümanı insanın ayırt edici iyisini akla göre ruh etkinliğinde bulur. İyi bıçak iyi keser; iyi insan düşünme ve seçme kapasitesini erdemle gerçekleştirir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Bir enstrümanın kutuda parlak durması yetmez, doğru çalınması gerekir. İnsan iyiliği de sahip olunan potansiyel değil yaşanan etkinliktir.",
+        "İnsanı yalnız rasyonellik üzerinden tanımlamak bakım, beden ve engellilik deneyimlerini daraltabilir. İlişkisel yetiler de insan serpilmesinin parçasıdır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir özelliği taşımakla onu düzenli etkinliğe çevirmek arasındaki farkı kendi becerilerinizde görün."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “İnsan işi: akla göre etkinlik” başlığının yalnız kendi örneğini değil Nikomakhos'a Etik boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-karakter-tekrarlarla-bicimlenir",
+      "section": "İKİNCİ KİTAP · ALIŞKANLIK",
+      "title": "Karakter tekrarlarla biçimlenir",
+      "paragraphs": [
+        "Ahlaki erdem doğuştan hazır gelmez; adil işler yaparak adil, ölçülü davranarak ölçülü oluruz. Eylem karakteri, karakter yeni eylemi kolaylaştırır. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Her gün küçük miktar biriktiren kişi yalnız para toplamaz, kendini düzenli biri haline getirir. Ters tekrar da aynı biçimde iz bırakır.",
+        "Alışkanlık tek başına kör tekrar değildir; doğru neden, duygu ve seçim zamanla gelişmelidir. Kötü kurum iyi alışkanlığı zorlaştırabilir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Büyük kişilik etiketi yerine yarın tekrar edebileceğiniz küçük bir erdem davranışı seçin."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Karakter tekrarlarla biçimlenir” başlığının yalnız kendi örneğini değil Nikomakhos'a Etik boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-orta-yol-matematik-ortasi-degildir",
+      "section": "İKİNCİ KİTAP · ÖLÇÜ",
+      "title": "Orta yol matematik ortası değildir",
+      "paragraphs": [
+        "Erdem çoğu duyguda ve eylemde eksiklik ile aşırılık arasındaki bize göre uygun ölçüdür. Cesaret korkusuzlukla korkaklık arasında, durumun gerektirdiği biçimde durur. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "On bir kişilik yemek bir kişiye fazla, sporcuya az olabilir. Doğru miktar cetvelde tam orta değil, kişi ve amaçla uyumlu ölçüdür.",
+        "Bazı eylemlerin hırsızlık gibi erdemli ortası yoktur. Orta öğretisi ılımlılık bahanesi değil, isabetli uygunluk arayışıdır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir tepkide 'az mı çok mu?' yanında 'doğru kişiye, doğru zamanda, doğru nedenle mi?' sorularını kullanın."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Orta yol matematik ortası değildir” başlığının yalnız kendi örneğini değil Nikomakhos'a Etik boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-eylem-ne-zaman-gonulludur",
+      "section": "ÜÇÜNCÜ KİTAP · SORUMLULUK",
+      "title": "Eylem ne zaman gönüllüdür?",
+      "paragraphs": [
+        "Övgü ve kınama için eylemin kaynağının kişide olması ve koşulları belli ölçüde bilmesi gerekir. Zorlama ve bilgisizlik sorumluluğu azaltabilir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Fırtınada gemiyi kurtarmak için yükü denize atan kaptan normalde istemediği şeyi seçer; eylem karışıktır, ama o anda en az kötü seçenek olarak gönüllü sayılır.",
+        "Baskı dereceleri süreklidir; yoksulluk, tehdit ve bağımlılık seçim alanını daraltır. Antik ölçü modern sosyal bilimle genişletilmelidir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Birini yargılarken yalnız yaptığına değil, gerçek seçeneklerine ve bildiği sonuçlara bakın."
+      ]
+    },
+    {
+      "id": "durak-08-secim-amactan-cok-araclarla-ilgilidir",
+      "section": "ÜÇÜNCÜ KİTAP · KARAR",
+      "title": "Seçim amaçtan çok araçlarla ilgilidir",
+      "paragraphs": [
+        "İnsan çoğu zaman mutluluğu amaçlar; düşünülmüş seçim, bu amaca götürecek yapılabilir araçlar üzerinde çalışır. İmkânsız ya da bize bağlı olmayan şey müzakerenin konusu değildir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Sağlıklı olmak genel istektir; bugün yürümek, doktora gitmek ve yemeği düzenlemek seçilebilir araçlardır.",
+        "Amaçların kendisi eğitimle biçimlenir; kötü karakter yanlış hedefi iyi sanabilir. Yalnız araç aklı yeterli değildir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Büyük dileği bir sonraki somut, sizin payınızdaki eyleme çevirmeden bırakmayın."
+      ]
+    },
+    {
+      "id": "durak-09-pratik-bilgelik-recetesiz-gorur",
+      "section": "ALTINCI KİTAP · PHRONESIS",
+      "title": "Pratik bilgelik reçetesiz görür",
+      "paragraphs": [
+        "Pratik bilgelik genel ilkeleri somut durumun ayrıntısına uygun eyleme çevirebilme yetisidir. Hayat matematik kadar kesin olmadığı için iyi insan neyin önemli olduğunu görmeyi öğrenir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Dürüstlük önemlidir; fakat ağır hastaya bilgiyi hangi anda ve hangi dille söylemek gerektiği yalnız kural kitabından çıkmaz.",
+        "Pratik sezgi deneyim ister ama geleneksel önyargıyı da taşıyabilir. Başkasının bakışı ve eleştiri, tecrübeyi düzeltir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Kararda kuralı söyledikten sonra bu kişiyi ve bu anı farklı kılan ayrıntıyı ayrıca yazın."
+      ]
+    },
+    {
+      "id": "durak-10-cesaret-korkunun-yoklugu-degildir",
+      "section": "ÜÇÜNCÜ KİTAP · CESARET",
+      "title": "Cesaret korkunun yokluğu değildir",
+      "paragraphs": [
+        "Cesur kişi korkulması gerekeni doğru nedenle göze alır. Tehlikeyi hiç görmeyen düşüncesiz kişi cesur değil, ölçüsüzdür. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "İtfaiyeci alevden korkabilir ama eğitim, amaç ve ekip sayesinde doğru anda içeri girer. Titrememek değil korkuya rağmen ölçülü eylem önemlidir.",
+        "Aristoteles savaş alanını merkez alır; gündelik ahlaki cesaret, kırılganlık ve bakım emeği daha geniş örnekler gerektirir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Korktuğunuz bir eylemde tehlikenin gerçek payını, koruduğunuz değeri ve hazırlık ihtiyacını ayırın."
+      ]
+    },
+    {
+      "id": "durak-11-olcululuk-arzuyu-dusman-saymaz",
+      "section": "ÜÇÜNCÜ KİTAP · ÖLÇÜLÜLÜK",
+      "title": "Ölçülülük arzuyu düşman saymaz",
+      "paragraphs": [
+        "Ölçülü insan beden hazlarını yok etmez; doğru zamanda, doğru miktarda ve iyi hayatı bozmayacak biçimde yaşar. Arzu akılla uyumlu hale gelir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Güzel yemek keyif verir; doymuşken sırf alışkanlıkla devam etmek hazzı bile köreltir. Ölçü, tadı azaltmak yerine koruyabilir.",
+        "Beden ve haz karşıtlığı kültürel utanca dönüşebilir. Sağlık, sınıf ve yeme bozukluğu bağlamları basit irade dilini sınırlar. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir arzuyu yasaklamak yerine başlangıç, doyum ve sonrasındaki gerçek hissi dikkatle gözleyin."
+      ]
+    },
+    {
+      "id": "durak-12-adalet-paylastirir-ve-duzeltir",
+      "section": "BEŞİNCİ KİTAP · ADALET",
+      "title": "Adalet paylaştırır ve düzeltir",
+      "paragraphs": [
+        "Dağıtıcı adalet ortak malları uygun ölçüye göre paylaştırır; düzeltici adalet alışveriş ya da zarar ilişkisindeki dengesizliği onarmaya çalışır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Pastayı başarıya göre bölmekle, kırdığınız komşu camının bedelini ödemek aynı adalet işlemi değildir. Biri pay, diğeri bozulan denge sorusudur.",
+        "Kimin neye 'layık' sayıldığı siyasi düzenle belirlenir. Antik yurttaşlık kadınları, köleleri ve yabancıları dışlamıştır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir eşitsizlikte önce bunun başlangıç payı mı, süreç fırsatı mı, yoksa verilmiş zararın onarımı mı olduğunu sorun."
+      ]
+    },
+    {
+      "id": "durak-13-bilip-de-neden-yanlis-yapariz",
+      "section": "YEDİNCİ KİTAP · ZAYIF İRADE",
+      "title": "Bilip de neden yanlış yaparız?",
+      "paragraphs": [
+        "Akrasia, kişinin iyiyi genel olarak bilmesine rağmen arzu etkisinde o anda bilgiyi kullanamamasıdır. Bilgi zihinde vardır ama etkin değildir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Gece sağlıklı uyku istediğinizi bilip bir bölüm daha izlersiniz. Kural raftadır, o anki arzu direksiyondadır.",
+        "Davranış bağımlılık, çevre tasarımı ve yorgunlukla da ilişkilidir. Ahlaki zayıflık etiketi tek açıklama olamaz. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "İrade anına güvenmek yerine yanlış seçimi kolaylaştıran çevreyi önceden değiştirin."
+      ]
+    },
+    {
+      "id": "durak-14-haz-iyi-etkinligi-tamamlar",
+      "section": "ONUNCU KİTAP · HAZ",
+      "title": "Haz iyi etkinliği tamamlar",
+      "paragraphs": [
+        "Haz etkinliğin dış ödülü değil, iyi yapılan işin üzerinde açan tamamlayıcı bir nitelik olabilir. Uygun haz dikkati güçlendirirken yabancı haz etkinliği dağıtır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Sevdiği parçayı çalan müzisyenin keyfi çalmayı kesip alınan ödül değil, çalmanın kendisini daha canlı yapan eşlikçidir.",
+        "Her keyif etkinliğin iyiliğini kanıtlamaz; kötü alışkanlık da haz verebilir. Önce etkinliğin değeri sorulur. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir işte yalnız bitiş ödülünü değil, yaparken hangi tür dikkatin ve hazzın ortaya çıktığını gözleyin."
+      ]
+    },
+    {
+      "id": "durak-15-dostlugun-uc-bicimi",
+      "section": "SEKİZİNCİ KİTAP · DOSTLUK",
+      "title": "Dostluğun üç biçimi",
+      "paragraphs": [
+        "İnsanlar yarar, haz ya da birbirlerinin karakterindeki iyilik için dost olabilir. İlk ikisi koşul değişince çözülebilir; erdem dostluğu iki kişinin birbirinin iyiliğini kendisi için istemesidir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Sadece iş bağlantısı olan arkadaşlık emeklilikte, yalnız eğlenceye dayanan ilişki zor zamanda dağılabilir. Karakter dostu ise hastane koridorunda kalır.",
+        "Erdem dostluğu ideal ve nadirdir; gerçek ilişkiler üç nedeni karıştırır. Yarar içermesi ilişkiyi otomatik olarak sahte yapmaz. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Yakın ilişkinizde birlikte ne yaptığınız kadar, birbirinizin nasıl bir insan olmasına yardım ettiğinizi sorun."
+      ]
+    },
+    {
+      "id": "durak-16-dusunme-hayati-neden-zirve-sayilir",
+      "section": "ONUNCU KİTAP · TEMAŞA",
+      "title": "Düşünme hayatı neden zirve sayılır?",
+      "paragraphs": [
+        "Aristoteles en yüksek mutluluğu hakikati kendi uğruna düşünmede bulur; bu etkinlik süreklilik, kendi kendine yeterlik ve insanın en iyi yetisini kullanma bakımından üstün görünür. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Bir problemi sırf meraktan çözmek, dış ödül bittiğinde de anlam taşır. Zihin kendine özgü faaliyetinde derinleşir.",
+        "Temaşa üstünlüğü emek, bakım ve siyasi hayatı ikincilleştirebilir. İnsan ilişkisel ve bedensel bir varlıktır; tek zirve tartışmalıdır. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Ödül ve görünür sonuç olmasa da sürdürmek isteyeceğiniz düşünsel etkinliği bulun, ama onu başkalarının emeğinden koparmayın."
+      ]
+    },
+    {
+      "id": "durak-17-iyi-hayat-icin-iyi-sehir-gerekir",
+      "section": "ONUNCU KİTAP · POLİTİKA",
+      "title": "İyi hayat için iyi şehir gerekir",
+      "paragraphs": [
+        "Karakter yalnız özel iradeyle kurulmaz; yasa, eğitim ve ortak kurumlar hangi alışkanlıkların kolaylaşacağını belirler. Etik bu yüzden politikaya açılır. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Güvenli kaldırım yürümeyi, adil okul merakı, güvenceli zaman dostluğu mümkün kılar. Kötü çevrede sürekli kahramanlık beklemek haksızdır.",
+        "Aristoteles'in iyi şehri dar yurttaşlık üzerine kuruludur. Modern okuma eşit hak ve çoğul yaşam biçimleriyle yeniden düşünülmelidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir davranış sorununda kişiye öğüt vermeden önce çevrenin hangi erdemi ödüllendirip hangisini cezalandırdığını sorun."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Orta yol her durumda uzlaşmak, yarı cesur ya da yarı dürüst olmak değildir. Aristoteles'in ortası, duygunun ve eylemin duruma uygun isabetidir; bazı eylemlerin ise doğru ortası yoktur.",
+        "Nikomakhos'a Etik tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Aristoteles ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser erdem etiğinin temel metni olmuş, karakter, alışkanlık ve dostluk analizleriyle canlılığını korumuştur. Antik erkek yurttaşı evrensel ölçü alması, köleliği ve kadınların dışlanmasını sorgulamaması, temaşayı bakım ve emekten üstün tutması güçlü eleştirilerdir.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Nikomakhos'a Etik için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Nikomakhos'a Etik için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu eylem hangi alışkanlığı ve karakteri büyütüyor? Burada doğru ölçüyü kişi, zaman, neden ve sonuç açısından ne belirler? İyi seçim için bireysel niyet kadar hangi ortak kurum gerekir?",
+        "Bu sorular Nikomakhos'a Etik için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Nikomakhos'a Etik üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İyi hayat tek bir haz ya da kurala sahip olmak değil; alışkanlık, pratik bilgelik, adalet ve dostluk içinde insan yetilerini uzun bir yaşam boyunca iyi etkinliğe dönüştürmektir.",
+        "Akılda kalacak son görüntü, iki uçurum arasında şehre ve dostlara doğru uzanan, deneyimle kıvrılmış altın orta yoldur. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Nikomakhos'a Etik adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-her-eylem-bir-iyiyi-hedefler": {
+      "image": "/images/summary-art-68-chapter-01-ladder-of-ends-v1.webp",
+      "imageCaption": "Ara amaçlardan en yüksek yaşama çıkan merdiven, amaçlar hiyerarşisini gösterir."
+    },
+    "durak-03-eudaimonia-mutluluk-hissinden-fazlasidir": {
+      "image": "/images/summary-art-68-chapter-02-flourishing-tree-v1.webp",
+      "imageCaption": "Mevsimler boyunca köklenip meyve veren ağaç, eudaimonia'nın uzun süreli serpilmesini simgeler."
+    },
+    "durak-04-insan-isi-akla-gore-etkinlik": {
+      "image": "/images/summary-art-68-chapter-03-human-function-v1.webp",
+      "imageCaption": "Kutudan çıkarılıp çalınan lir, potansiyelin etkinliğe dönüşmesini gösterir."
+    },
+    "durak-05-karakter-tekrarlarla-bicimlenir": {
+      "image": "/images/summary-art-68-chapter-04-habit-path-v1.webp",
+      "imageCaption": "Tekrarlanan ayak izlerinin yola dönüşmesi, karakterin alışkanlıkla kurulmasını anlatır."
+    },
+    "durak-06-orta-yol-matematik-ortasi-degildir": {
+      "image": "/images/summary-art-68-chapter-05-golden-mean-v1.webp",
+      "imageCaption": "İki uçurum arasında duruma göre kıvrılan güvenli yol, erdemli ortayı gösterir."
+    },
+    "durak-07-eylem-ne-zaman-gonulludur": {
+      "image": "/images/summary-art-68-chapter-06-storm-choice-v1.webp",
+      "imageCaption": "Fırtınada yük atan kaptan, zor koşullarda karışık gönüllülüğü gösterir."
+    },
+    "durak-08-secim-amactan-cok-araclarla-ilgilidir": {
+      "image": "/images/summary-art-68-chapter-07-choice-tools-v1.webp",
+      "imageCaption": "Uzak hedefe uzanan somut araçlar yolu, düşünüp seçmenin yapısını gösterir."
+    },
+    "durak-09-pratik-bilgelik-recetesiz-gorur": {
+      "image": "/images/summary-art-68-chapter-08-practical-wisdom-v1.webp",
+      "imageCaption": "Genel haritayı gerçek arazide kullanan deneyimli yolcu, phronesis'i simgeler."
+    },
+    "durak-10-cesaret-korkunun-yoklugu-degildir": {
+      "image": "/images/summary-art-68-chapter-09-courage-fire-v1.webp",
+      "imageCaption": "Alev önünde korkusunu taşıyarak ilerleyen kişi, cesaretin ölçülü yönünü gösterir."
+    },
+    "durak-11-olcululuk-arzuyu-dusman-saymaz": {
+      "image": "/images/summary-art-68-chapter-10-temperance-cup-v1.webp",
+      "imageCaption": "Taşmadan dolan kadeh, hazzın yok edilmeden ölçüye kavuşmasını anlatır."
+    },
+    "durak-12-adalet-paylastirir-ve-duzeltir": {
+      "image": "/images/summary-art-68-chapter-11-justice-scales-v1.webp",
+      "imageCaption": "Paylaştırma dilimleri ile onarım terazisi, adaletin iki işlevini gösterir."
+    },
+    "durak-13-bilip-de-neden-yanlis-yapariz": {
+      "image": "/images/summary-art-68-chapter-12-akrasia-wheel-v1.webp",
+      "imageCaption": "Raftaki bilgi kitabı yanında direksiyonu tutan arzu, zayıf iradeyi simgeler."
+    },
+    "durak-14-haz-iyi-etkinligi-tamamlar": {
+      "image": "/images/summary-art-68-chapter-13-pleasure-bloom-v1.webp",
+      "imageCaption": "İyi etkinliğin üzerinde açan çiçek, hazzın tamamlayıcı rolünü gösterir."
+    },
+    "durak-15-dostlugun-uc-bicimi": {
+      "image": "/images/summary-art-68-chapter-14-three-friendships-v1.webp",
+      "imageCaption": "Yarar, haz ve karakter yollarının farklı derinlikte birleşmesi, üç dostluğu gösterir."
+    },
+    "durak-16-dusunme-hayati-neden-zirve-sayilir": {
+      "image": "/images/summary-art-68-chapter-15-contemplative-sky-v1.webp",
+      "imageCaption": "Sessiz gökyüzüne bakan düşünür ile aşağıdaki ortak yaşam, temaşa idealinin gücünü ve gerilimini gösterir."
+    },
+    "durak-17-iyi-hayat-icin-iyi-sehir-gerekir": {
+      "image": "/images/summary-art-68-chapter-16-virtue-city-v1.webp",
+      "imageCaption": "Bireysel yolun şehir yollarıyla birleşmesi, etik ile politikanın bağını gösterir."
+    }
+  }
+}

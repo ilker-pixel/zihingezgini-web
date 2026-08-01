@@ -1,0 +1,350 @@
+{
+  "bookNo": 199,
+  "title": "Ekranda Yalnız",
+  "author": "Sherry Turkle",
+  "subtitle": "İnsanların robotlardan anlayış, telefonlardan sürekli bağlantı beklerken birbirlerinin karmaşık ve zahmetli varlığından daha azını istemeye başlamasını; teknolojiyle ilişkilerimizin yakınlığı nasıl yeniden biçimlendirdiğini anlatan saha temelli eser.",
+  "coverImage": "/images/summary-cover-199-ekranda-yalniz-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/199-ekranda-yalniz-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#53677A",
+  "meta": {
+    "originalTitle": "Alone Together: Why We Expect More from Technology and Less from Each Other",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir telefon her mesajımıza cevap verir, insan ise yanlış anlayabilir, bekletebilir ve bizi eleştirebilir. Tam da bu nedenle kusursuz dijital uyum caziptir. Turkle daha çok bağlantının daha çok yakınlık anlamına gelmediğini, kontrol edilebilir iletişimin kırılgan ama derin konuşmanın yerini alabildiğini gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Sherry Turkle - Alone Together",
+      "url": "https://www.sherryturkle.com/alone-together"
+    },
+    {
+      "id": 2,
+      "title": "Hachette Basic Books - Alone Together",
+      "url": "https://www.hachettebookgroup.com/titles/sherry-turkle/alone-together/9780465093656/"
+    },
+    {
+      "id": 3,
+      "title": "MIT - Sherry Turkle",
+      "url": "https://www.mit.edu/people/sturkle/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "İnsanların robotlardan anlayış, telefonlardan sürekli bağlantı beklerken birbirlerinin karmaşık ve zahmetli varlığından daha azını istemeye başlamasını; teknolojiyle ilişkilerimizin yakınlığı nasıl yeniden biçimlendirdiğini anlatan saha temelli eser.",
+        "Kitap 2011'in robot ve sosyal medya dünyasını anlatır; teknoloji hızla değişmiştir. Turkle teknolojiyi tümden reddetmez. Vaka anlatılarının gücünü, kuşak ve örneklem sınırını, erişim ve fayda sağlayan dijital ilişkileri birlikte düşünmek gerekir.",
+        "Bu rehber, Sherry Turkle tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-birlikte-yalniz-olmak",
+      "section": "BİRİNCİ KISIM · PARADOKS",
+      "title": "Birlikte yalnız olmak",
+      "paragraphs": [
+        "İnsanlar aynı odada fiziksel olarak birlikteyken dikkatlerini ayrı ekranlara verebilir; ağda sürekli bağlıyken derin biçimde görülmemiş hissedebilir. Bağlantı ile ilişki aynı şey değildir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Aile masasında herkes başkasına mesaj yazar, masadakine yarım kulak verir. Sessizlik yoktur ama ortak an da kurulmaz.",
+        "Çevrimiçi bağ gerçek destek sağlayabilir; özellikle uzak ve dışlanmış kişiler için önemlidir. Sorun tek iletişim biçiminin egemenliğidir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir buluşmada kaç kez uzaktaki kişiyi odadakine tercih ettiğinizi fark edin."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Birlikte yalnız olmak” başlığının yalnız kendi örneğini değil Ekranda Yalnız boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-robot-neden-duygusal-olarak-cekici",
+      "section": "İKİNCİ KISIM · ROBOTLAR",
+      "title": "Robot neden duygusal olarak çekici?",
+      "paragraphs": [
+        "Sosyal robot sabırlı, öngörülebilir ve her zaman hazır görünür. İnsan ilişkisinin reddedilme, karşılıklılık ve bakım yükü olmadan yakınlık hissi sunar. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Çocuk robot köpeğin kapanmasını ölüm gibi yaşar; makine programlı olsa da bağın duygusu gerçektir.",
+        "İnsanın makineye bağlanması aptallık değildir; tasarım sosyal işaretleri ustaca kullanır. Her bağ zararlı da değildir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir cihazın sizi anladığı hissini hangi veri, senaryo ve ticari amaçla ürettiğini sorun."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Robot neden duygusal olarak çekici?” başlığının yalnız kendi örneğini değil Ekranda Yalnız boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-paro-huzur-verirken-ne-eksiltir",
+      "section": "İKİNCİ KISIM · BAKIM",
+      "title": "Paro huzur verirken ne eksiltir?",
+      "paragraphs": [
+        "Fok biçimli Paro robotu yaşlılarda sakinlik ve etkileşim sağlayabilir. Turkle, bakım kurumunun insan temasını robotla ikame etmesinin ahlaki bedelini sorar. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Yalnız yaşlı robotu okşayıp gülümser; bu gerçek faydadır. Fakat personel sayısı azaltılırsa teknoloji yalnızlığın çözümü değil örtüsü olur.",
+        "Robot destek ile insanın yerine geçme farklıdır. Bazı kişiler makineyle güvenli iletişimi tercih edebilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bakım teknolojisinde kazandırdığı etkinlik kadar hangi insan temasını koruduğunu ölçün."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Paro huzur verirken ne eksiltir?” başlığının yalnız kendi örneğini değil Ekranda Yalnız boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-cocuk-makineye-canlilik-verir",
+      "section": "İKİNCİ KISIM · GELİŞİM",
+      "title": "Çocuk makineye canlılık verir",
+      "paragraphs": [
+        "Çocuklar hareket, cevap ve hatırlama gösteren oyuncaklara zihin atfeder. Yeni robotlar canlı-cansız sınırını biyolojik ölçüden ilişki kurma davranışına taşır. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Oyuncak 'beni özledin mi?' dediğinde çocuk düğmenin arkasındaki kodu bilse bile cevap vermek isteyebilir.",
+        "Çocuklar kurgu ile gerçeği farklı düzeylerde birlikte taşıyabilir. Antropomorfizm kalıcı aldanma demek değildir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Çocuğa robotun nasıl çalıştığını öğretirken onun kurduğu duygusal bağı küçümsemeyin."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Çocuk makineye canlılık verir” başlığının yalnız kendi örneğini değil Ekranda Yalnız boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-bizi-dinleyen-makine-gercekten-onemser-mi",
+      "section": "ÜÇÜNCÜ KISIM · OTANTİKLİK",
+      "title": "Bizi dinleyen makine gerçekten önemser mi?",
+      "paragraphs": [
+        "Robot veya sohbet sistemi uygun cevap verebilir ama insan gibi kırılganlık, ortak geçmiş ve karşılıklı ihtiyaç taşımayabilir. Simüle edilen empati ile yaşanan karşılıklılık ayrılır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Program 'bunu duyduğuma üzüldüm' der; cümle rahatlatabilir ama konuşma bitince kaybedeceği hiçbir ilişki yoktur.",
+        "İnsan empatisi de kalıp ve rol içerir; profesyonel bakımın değeri yalnız iç duyguya bağlı değildir. Sonuç ve açıklık önemlidir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Duygusal yapay zekâda sistemin yeteneği, veri kullanımı ve insan desteğine geçiş sınırını açıkça sorun."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Bizi dinleyen makine gerçekten önemser mi?” başlığının yalnız kendi örneğini değil Ekranda Yalnız boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-cevrimici-benlik-duzenlenebilir",
+      "section": "DÖRDÜNCÜ KISIM · KİMLİK",
+      "title": "Çevrimiçi benlik düzenlenebilir",
+      "paragraphs": [
+        "Ekranda kişi sözünü, fotoğrafını ve zamanını düzenleyebilir; benliğin istediği yönünü öne çıkarır. Bu kontrol deneme alanı ve aynı zamanda kusursuz görünme baskısı yaratır. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Yüz yüze söylerken kekeleyeceğiniz cümleyi mesajda silip yeniden yazarsınız; daha doğru ama daha az spontane bir benlik sunarsınız.",
+        "Düzenleme sahte olmak değildir; marjinal kişi çevrimiçi kimliğini güvenle keşfedebilir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Profilinizin hangi gerçek yönünüzü ifade etmeye yardım ettiğini, hangisini sürekli saklama baskısı yarattığını düşünün."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Çevrimiçi benlik düzenlenebilir” başlığının yalnız kendi örneğini değil Ekranda Yalnız boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-mesaj-neden-konusmadan-kolay",
+      "section": "DÖRDÜNCÜ KISIM · KONTROL",
+      "title": "Mesaj neden konuşmadan kolay?",
+      "paragraphs": [
+        "Mesaj ne zaman cevap vereceğimizi ve ne kadar açılacağımızı seçtirir. Yüz yüze konuşmanın sessizlik, bakış ve beklenmedik tepkisi daha az kontrol edilebilir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Ayrılık mesajı göndermek karşıdakinin ağlamasını görmeden cümleyi bitirmeyi sağlar.",
+        "Yazılı iletişim düşünmeye zaman ve erişilebilirlik sunar. Kolaylık her zaman kaçış değildir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Konunun kırılganlığı arttıkça hangi kanalın kontrol değil karşılıklı anlama sağladığını sorun."
+      ]
+    },
+    {
+      "id": "durak-09-her-zaman-acik-olmak-neden-yorucu",
+      "section": "DÖRDÜNCÜ KISIM · SÜREKLİ BAĞ",
+      "title": "Her zaman açık olmak neden yorucu?",
+      "paragraphs": [
+        "Telefon insanı her an ulaşılabilir ve cevap vermekle yükümlü kılar. Dikkat sürekli olası çağrıya bölünür; yalnız kalma kesintisiz bekleme odasına dönüşür. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Bildirim gelmese bile ekranı kontrol etmek, kapının çalmasını bekleyen beden gibi zihni yarım açık tutar.",
+        "Acil bakım ve güvencesiz iş gerçek ulaşılabilirlik zorunluluğu yaratır. Sorun yalnız özdisiplin değildir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Günün belirli saatinde çevrimdışı olmayı bireysel kaçış değil karşılıklı ekip kuralı haline getirin."
+      ]
+    },
+    {
+      "id": "durak-10-yalnizlik-kapasitesi-yakinligi-besler",
+      "section": "BEŞİNCİ KISIM · TEK BAŞINA",
+      "title": "Yalnızlık kapasitesi yakınlığı besler",
+      "paragraphs": [
+        "Kişi yalnızken düşünce ve duygusuna dayanabildiğinde başkasını boşluğu dolduran araç değil ayrı insan olarak sevebilir. Sürekli bağlantı bu iç alanı daraltabilir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Otobüs beklerken hemen telefona uzanmazsanız sıkıntı, merak ve kendi düşünceniz görünür olur.",
+        "Yalnızlık herkese güvenli gelmez; travma ve izolasyon destek ister. Seçilmiş yalnızlık ile terk edilme ayrıdır. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Günde kısa bir ekran dışı sessizlikte rahatsızlığı bastırmadan gözlemleyin."
+      ]
+    },
+    {
+      "id": "durak-11-sohbet-empatiyi-nasil-ogretir",
+      "section": "BEŞİNCİ KISIM · KONUŞMA",
+      "title": "Sohbet empatiyi nasıl öğretir?",
+      "paragraphs": [
+        "Canlı konuşma yüz, ton, duraksama ve karşılıklı ayarlama içerir. İnsan kendi cümlesinin etkisini anında görür ve başkasının zihnini tahmin etmeyi öğrenir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Şakanız arkadaşınızın yüzünü düşürünce cümleyi düzeltirsiniz; mesajdaki emoji bu zengin geri bildirimi tam taşımaz.",
+        "Video ve yazı da derin empati kurabilir; yüz yüze olmak otomatik anlayış değildir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Zor konuşmada hız yerine duraklama ve karşı tarafın cevabını gerçekten bekleme alanı açın."
+      ]
+    },
+    {
+      "id": "durak-12-aile-masasinda-ucuncu-kisi-telefon",
+      "section": "ALTINCI KISIM · AİLE",
+      "title": "Aile masasında üçüncü kişi telefon",
+      "paragraphs": [
+        "Telefon her an masaya uzaktaki talebi getirir ve aile ritüelinin sınırını deler. Çocuk, yetişkinin dikkatinin bölünebilir olduğunu öğrenir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Çocuk hikâye anlatırken ebeveyn ekrana bakar; 'dinliyorum' dese de göz teması başka mesaj verir.",
+        "Ebeveynler iş ve bakım baskısı altında olabilir. Suçluluk yerine ortak ve gerçekçi sınır gerekir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Yemekte cihaz kutusu koymak kadar acil durum ve iş beklentisini ailece konuşun."
+      ]
+    },
+    {
+      "id": "durak-13-ergen-icin-surekli-seyirci",
+      "section": "ALTINCI KISIM · GENÇLİK",
+      "title": "Ergen için sürekli seyirci",
+      "paragraphs": [
+        "Ergen kimliğini denerken sosyal medya sürekli akran değerlendirmesi ve kaydedilebilir geçmiş yaratır. Hata unutulmadan dolaşabilir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Okul koridorundaki utanç eskiden gün sonunda sönerken video olarak gece boyunca yeniden oynatılabilir.",
+        "Çevrimiçi topluluk yalnız gence destek ve kimlik keşfi de sağlar. Etki platform ve kişiyle değişir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Genç güvenliğinde yalnız ekran süresini değil taciz, gece bildirimleri ve destek topluluğunu ayrı değerlendirin."
+      ]
+    },
+    {
+      "id": "durak-14-isyerinde-coklu-gorev-miti",
+      "section": "ALTINCI KISIM · ÇALIŞMA",
+      "title": "İşyerinde çoklu görev miti",
+      "paragraphs": [
+        "Sürekli e-posta ve toplantı geçişi üretkenlik hissi verirken derin dikkat ve hatırlamayı azaltabilir. İnsan aynı anda değil hızlı maliyetli geçişlerle çalışır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Raporun her paragrafında mesaj cevaplayan kişi bütün gün meşguldür ama akşam iki saatlik işi bitirememiştir.",
+        "Bazı roller gerçekten hızlı koordinasyon ister. Derin çalışma tek iş modeli değildir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Ekipte acil kanal, yanıt süresi ve kesintisiz odak bloklarını açıkça ayırın."
+      ]
+    },
+    {
+      "id": "durak-15-baglanti-sayisi-yakinlik-degildir",
+      "section": "YEDİNCİ KISIM · İLİŞKİ",
+      "title": "Bağlantı sayısı yakınlık değildir",
+      "paragraphs": [
+        "Yüzlerce çevrimiçi temas kişiye görünürlük verir, fakat zor anda güvenilecek ilişki az olabilir. Ağ genişliği ile bağ derinliği farklı ölçülerdir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Doğum günü yüz mesaj getirir; hastane gecesinde arayacağınız üç kişi kalır.",
+        "Zayıf bağlar iş, bilgi ve dayanışma için değerlidir. Her ilişki derin olmak zorunda değildir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Dijital çevrenizde farklı bağların ne işe yaradığını bilip hepsinden aynı yakınlığı beklemeyin."
+      ]
+    },
+    {
+      "id": "durak-16-teknoloji-suclu-mu-ayna-mi",
+      "section": "YEDİNCİ KISIM · ELEŞTİRİ",
+      "title": "Teknoloji suçlu mu, ayna mı?",
+      "paragraphs": [
+        "Turkle teknolojinin insan arzusuyla birlikte biçimlendiğini gösterir; yalnız cihazı suçlamak yetersizdir. Hız ve kontrol isteğimiz belirli tasarımları ödüllendirir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Okundu bilgisini kapatmak rahatlatır ama uygulamanın baskısı işyeri ve arkadaş beklentisinden de gelir.",
+        "Kitap bazen nostaljik ve teknoloji belirlenimci bulunur; eski yüz yüze ilişkiler de dışlayıcıydı. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Sorunda cihaz özelliği, iş modeli, toplumsal norm ve kişisel alışkanlığı ayrı ayrı görün."
+      ]
+    },
+    {
+      "id": "durak-17-teknolojiyle-daha-iyi-iliski-kurulabilir",
+      "section": "SEKİZİNCİ KISIM · ÇIKIŞ",
+      "title": "Teknolojiyle daha iyi ilişki kurulabilir",
+      "paragraphs": [
+        "Turkle çözümü cihazları atmakta değil, hangi insan değerine hizmet edeceklerini bilinçli seçmekte görür. Tasarım ve norm konuşmayı, yalnızlığı ve bakımı koruyabilir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Mesaj randevuyu ayarlar, telefon masadan kalkar ve görüşme başlar; araç ilişkiye geçit olur, yerine geçmez.",
+        "Erişim, engellilik ve uzak aileler için dijital bağ yaşamsaldır. Tek doğru kullanım yoktur. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Her araç için 'hangi işi iyi yapıyor, hangi insan deneyiminin yerine geçmemeli?' sorusunu belirleyin."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Turkle 'telefonlar kötüdür, internet arkadaşlığı gerçek değildir' demez. Dijital bağlantının yararlarını kabul eder; uyarısı, kontrol edilebilir iletişim ve simüle empati insanın kırılgan, karşılıklı ve zaman isteyen ilişkisinin yerine geçtiğinde ortaya çıkar.",
+        "Ekranda Yalnız tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Sherry Turkle ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap akıllı telefon çağının erken ve etkili teşhislerinden biri sayılmış; vaka seçiciliği, gençler hakkında nostaljik ton ve teknoloji belirlenimciliği eleştirileri almıştır. Pandemi, ekranın hem ilişkiyi engelleyip hem tek temas yolu olabildiğini göstererek tezi karmaşıklaştırmıştır.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Ekranda Yalnız için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Ekranda Yalnız için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu araç ilişkiye geçit mi, ilişkinin yerine geçen daha kolay kopya mı? Bağlantı sayım hangi bağın derinliğini gizliyor? Teknoloji özelliği, iş modeli ve toplumsal beklenti davranışımı nasıl birlikte şekillendiriyor?",
+        "Bu sorular Ekranda Yalnız için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Ekranda Yalnız üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Sürekli bağlantı tek başına yakınlık yaratmaz; insan ilişkisi kontrol edilemeyen cevap, kırılganlık ve karşılıklılık ister. Teknoloji değerlerimize göre sınırlandığında konuşmayı destekler, onun yerini almaz.",
+        "Akılda kalacak son görüntü, mavi ekran ışıklarıyla çevrili iki insanın telefonları bırakıp ortadaki sıcak konuşma masasına dönmesidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Ekranda Yalnız adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-birlikte-yalniz-olmak": {
+      "image": "/images/summary-art-199-chapter-01-alone-together-table-v1.webp",
+      "imageCaption": "Aynı masada ayrı ekran adalarında oturan aile, birlikte yalnızlığı gösterir."
+    },
+    "durak-03-robot-neden-duygusal-olarak-cekici": {
+      "image": "/images/summary-art-199-chapter-02-robot-companion-v1.webp",
+      "imageCaption": "Çocuğa bakan parlak robot gözleri, programlanmış yakınlığın çekiciliğini gösterir."
+    },
+    "durak-04-paro-huzur-verirken-ne-eksiltir": {
+      "image": "/images/summary-art-199-chapter-03-paro-care-v1.webp",
+      "imageCaption": "Robot fok, yaşlı el ve açık insan sandalyesi, destek ile ikame arasındaki çizgiyi gösterir."
+    },
+    "durak-05-cocuk-makineye-canlilik-verir": {
+      "image": "/images/summary-art-199-chapter-04-child-robot-mind-v1.webp",
+      "imageCaption": "Oyuncak devreleri üzerine çizilen canlı yüz, çocuğun makineye zihin vermesini gösterir."
+    },
+    "durak-06-bizi-dinleyen-makine-gercekten-onemser-mi": {
+      "image": "/images/summary-art-199-chapter-05-simulated-empathy-v1.webp",
+      "imageCaption": "Sıcak söz balonu çıkaran soğuk devre ile gerçek insan eli, empati sorusunu gösterir."
+    },
+    "durak-07-cevrimici-benlik-duzenlenebilir": {
+      "image": "/images/summary-art-199-chapter-06-editable-self-v1.webp",
+      "imageCaption": "Silgi ve filtrelerle düzenlenen dijital yüz, çevrimiçi benliğin kontrolünü gösterir."
+    },
+    "durak-08-mesaj-neden-konusmadan-kolay": {
+      "image": "/images/summary-art-199-chapter-07-text-vs-talk-v1.webp",
+      "imageCaption": "Düzenlenmiş mesaj balonu ile açık yüz yüze masa, kontrol farkını gösterir."
+    },
+    "durak-09-her-zaman-acik-olmak-neden-yorucu": {
+      "image": "/images/summary-art-199-chapter-08-always-on-v1.webp",
+      "imageCaption": "Sönmeyen bildirim ışığı altında uykusuz göz, sürekli bağlantının yükünü gösterir."
+    },
+    "durak-10-yalnizlik-kapasitesi-yakinligi-besler": {
+      "image": "/images/summary-art-199-chapter-09-solitude-bench-v1.webp",
+      "imageCaption": "Sessiz bankta tek başına ama kopuk olmayan insan, yalnızlık kapasitesini gösterir."
+    },
+    "durak-11-sohbet-empatiyi-nasil-ogretir": {
+      "image": "/images/summary-art-199-chapter-10-conversation-faces-v1.webp",
+      "imageCaption": "İki yüz arasında gidip gelen ince duygu çizgileri, canlı konuşmanın empatisini gösterir."
+    },
+    "durak-12-aile-masasinda-ucuncu-kisi-telefon": {
+      "image": "/images/summary-art-199-chapter-11-third-phone-v1.webp",
+      "imageCaption": "Aile masasında boş sandalyeye oturmuş parlak telefon, görünmez üçüncü kişiyi gösterir."
+    },
+    "durak-13-ergen-icin-surekli-seyirci": {
+      "image": "/images/summary-art-199-chapter-12-teen-audience-v1.webp",
+      "imageCaption": "Sahnedeki gencin çevresini saran sayısız küçük ekran, sürekli seyirciyi gösterir."
+    },
+    "durak-14-isyerinde-coklu-gorev-miti": {
+      "image": "/images/summary-art-199-chapter-13-multitask-tabs-v1.webp",
+      "imageCaption": "Çok sayıda açık pencere arasında parçalanan tek ışık huzmesi, dikkat geçişini gösterir."
+    },
+    "durak-15-baglanti-sayisi-yakinlik-degildir": {
+      "image": "/images/summary-art-199-chapter-14-network-depth-v1.webp",
+      "imageCaption": "Geniş ışık ağı içinde az sayıda kalın bağ, bağlantı ve yakınlık farkını gösterir."
+    },
+    "durak-16-teknoloji-suclu-mu-ayna-mi": {
+      "image": "/images/summary-art-199-chapter-15-tech-mirror-v1.webp",
+      "imageCaption": "Telefon ekranında yalnız cihaz değil insan kalabalığını yansıtan ayna, ortak sorumluluğu gösterir."
+    },
+    "durak-17-teknolojiyle-daha-iyi-iliski-kurulabilir": {
+      "image": "/images/summary-art-199-chapter-16-humane-tech-v1.webp",
+      "imageCaption": "Telefonun açtığı kapıdan yüz yüze masaya geçen insanlar, insani teknoloji kullanımını gösterir."
+    }
+  }
+}

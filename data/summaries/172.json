@@ -1,0 +1,350 @@
+{
+  "bookNo": 172,
+  "title": "Kapitalist Gerçekçilik",
+  "author": "Mark Fisher",
+  "subtitle": "Kapitalizmin yalnız ekonomi değil, başka bir düzen düşünmeyi gerçek dışı gösteren duygusal ve kültürel atmosfer haline gelişini; okul, iş, ruh sağlığı, bürokrasi ve popüler kültür üzerinden anlatan kısa ama yoğun eser.",
+  "coverImage": "/images/summary-cover-172-kapitalist-gercekcilik-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/172-kapitalist-gercekcilik-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#5F596B",
+  "meta": {
+    "originalTitle": "Capitalist Realism: Is There No Alternative?",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Dünyanın sonunu anlatan yüzlerce film vardır; kapitalizm sonrasını ikna edici biçimde hayal etmek daha zordur. Fisher bu hayal tıkanmasını bir propaganda sloganından çok, günlük işlerde 'başka türlü olmaz' diye hissedilen görünmez gerçeklik duvarı olarak inceler.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Simon & Schuster - Capitalist Realism",
+      "url": "https://www.simonandschuster.com/books/Capitalist-Realism/Mark-Fisher/9781803414300"
+    },
+    {
+      "id": 2,
+      "title": "Zer0 Books - Capitalist Realism",
+      "url": "https://www.collectiveinkbooks.com/zer0-books/our-books/capitalist-realism-new-edition"
+    },
+    {
+      "id": 3,
+      "title": "WorldCat - Capitalist Realism",
+      "url": "https://search.worldcat.org/title/1014055327"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Kapitalizmin yalnız ekonomi değil, başka bir düzen düşünmeyi gerçek dışı gösteren duygusal ve kültürel atmosfer haline gelişini; okul, iş, ruh sağlığı, bürokrasi ve popüler kültür üzerinden anlatan kısa ama yoğun eser.",
+        "Kitap kısa ve keskin bir müdahaledir; bütün kapitalizm tarihini ya da eksiksiz siyasi programı sunmaz. Film örneklerini, işyeri deneyimini ve zihinsel sıkıntıyı aynı atmosferde buluştururken sınıf, ırk, cinsiyet ve küresel farkları ayrıca düşünmek gerekir.",
+        "Bu rehber, Mark Fisher tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-alternatif-neden-hayal-disi-gorunur",
+      "section": "BİRİNCİ KISIM · ATMOSFER",
+      "title": "Alternatif neden hayal dışı görünür?",
+      "paragraphs": [
+        "Kapitalist gerçekçilik kapitalizmin kusursuz olduğu inancı değil, bütün kusurlarına rağmen uygulanabilir tek düzen olduğu hissidir. Hayal gücünün sınırı sistemin sınırı gibi görünür. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Bozuk otobüse herkes söylenir ama başka güzergâh çizmenin çocukça olduğu kabul edilir.",
+        "Alternatiflerin zayıflığı yalnız ideoloji değil tarihsel yenilgiler ve kurum sorunlarıyla ilgilidir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir öneriye 'gerçekçi değil' dendiğinde hangi maddi engel ile hangi alışkanmış korkunun konuştuğunu ayırın."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Alternatif neden hayal dışı görünür?” başlığının yalnız kendi örneğini değil Kapitalist Gerçekçilik boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-dunyanin-sonu-duzenin-sonundan-kolay",
+      "section": "BİRİNCİ KISIM · KÜLTÜR",
+      "title": "Dünyanın sonu, düzenin sonundan kolay",
+      "paragraphs": [
+        "Felaket filmleri gezegenin çöküşünü gösterir ama toplumsal ilişkiler aynı piyasa mantığıyla sürer. Sistem tarihsel seçim değil doğa fonu gibi kalır. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Zombi salgınında bile kahramanlar süpermarkete, özel mülke ve bireysel rekabete döner.",
+        "Popüler kültür yalnız egemenliği tekrarlamaz; eleştiri ve ortak hayal de üretebilir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir distopyada gerçekten değişen kurumları ve yalnız dekor olarak yıkılan dünyayı ayırın."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Dünyanın sonu, düzenin sonundan kolay” başlığının yalnız kendi örneğini değil Kapitalist Gerçekçilik boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-children-of-men-deki-geleceksizlik",
+      "section": "İKİNCİ KISIM · GELECEK",
+      "title": "Children of Men'deki geleceksizlik",
+      "paragraphs": [
+        "Fisher filmin kısır dünyasını toplumsal gelecek kaybının imgesi olarak okur. Kültür geçmişi tekrar eder, yeni olan daha doğmadan müze malzemesine dönüşür. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Yeni müzik eski dönemin sesini parlatılmış ambalajla geri getirir; gelecek nostalji kataloğuna sıkışır.",
+        "Kültürel tekrar her zaman çöküş değildir; alıntı yeni anlam kurabilir. Fisher'ın nostalji teşhisi seçici olabilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Yeni diye sunulan ürünün gerçekten hangi ilişkiyi değiştirdiğini, hangisini yalnız yeniden paketlediğini sorun."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Children of Men'deki geleceksizlik” başlığının yalnız kendi örneğini değil Kapitalist Gerçekçilik boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-refleksif-gucsuzluk",
+      "section": "İKİNCİ KISIM · EYLEMSİZLİK",
+      "title": "Refleksif güçsüzlük",
+      "paragraphs": [
+        "İnsanlar sistemin kötü işlediğini bilir ama bu bilginin hiçbir şeyi değiştirmeyeceğine inanır. Yanılsama cehalet değil, etkisiz farkındalıktır. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Öğrenciler sınav sisteminin anlamsız yanlarını açıkça söyler, yine de tek mümkün yol gibi bütün enerjilerini ona verir.",
+        "Bilmek ile örgütlü güç arasında kurum gerekir. Bireysel cesaret eksikliği diye suçlamak yetersizdir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Şikâyeti paylaşmanın ötesinde hangi ortak karar noktasına ve örgütlenmeye bağlanabileceğini sorun."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Refleksif güçsüzlük” başlığının yalnız kendi örneğini değil Kapitalist Gerçekçilik boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-depresif-hazcilik",
+      "section": "İKİNCİ KISIM · DİKKAT",
+      "title": "Depresif hazcılık",
+      "paragraphs": [
+        "Fisher öğrencilerinde haz peşinde koşmaktan çok haz verici uyarandan kopamama hali görür. Keyif tam yaşanmaz, dikkat sürekli ekran ve sesle doldurulur. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Film izlerken telefon, telefonda gezerken müzik, sessizlikte hemen bildirim açılır; çok uyarım daha az tat bırakır.",
+        "Bu kavram klinik depresyon tanısı değildir ve gençleri ahlaki zayıflıkla etiketlememelidir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir dinlenme anında aynı anda kaç uyarana ihtiyaç duyduğunuzu ve sonrasında ne hissettiğinizi gözleyin."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Depresif hazcılık” başlığının yalnız kendi örneğini değil Kapitalist Gerçekçilik boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-ruhsal-sikintinin-ozellestirilmesi",
+      "section": "ÜÇÜNCÜ KISIM · ZİHİN",
+      "title": "Ruhsal sıkıntının özelleştirilmesi",
+      "paragraphs": [
+        "Depresyon ve kaygı yalnız bireyin beyin kimyası ya da düşünce hatası olarak anlatıldığında güvencesiz iş, borç ve yalnızlık görünmez kalır. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Sürekli vardiyası değişen çalışana yalnız nefes uygulaması önerilirse, stresin takvimini yapan kurum sorgulanmaz.",
+        "Biyolojik tedavi ve terapi değerlidir; toplumsal neden vurgusu tıbbi bakımı küçümsememelidir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Kişisel belirtiyle birlikte onu besleyen çalışma, konut ve ilişki koşullarını da bakım planına ekleyin."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Ruhsal sıkıntının özelleştirilmesi” başlığının yalnız kendi örneğini değil Kapitalist Gerçekçilik boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-isletme-ontolojisi",
+      "section": "ÜÇÜNCÜ KISIM · KURUMLAR",
+      "title": "İşletme ontolojisi",
+      "paragraphs": [
+        "Okul, hastane ve sanat kurumu kendi amaçlarıyla değil işletme gibi ölçüldüğünde piyasa dili varlığın tek dili olur. Her şey performans göstergesine çevrilir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Hastane iyi bakım yerine yatak devir hızı, üniversite öğrenme yerine yayın sayısı üzerinden kendini anlatır.",
+        "Ölçüm kaynak planlamak için gereklidir. Sorun göstergenin amaç haline gelip nitel değeri ezmesidir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir kurumun panosunda görünen sayı ile varlık nedenini aynı cümlede karşılaştırın."
+      ]
+    },
+    {
+      "id": "durak-09-piyasa-stalinizmi-ve-hedef-oyunu",
+      "section": "ÜÇÜNCÜ KISIM · BÜROKRASİ",
+      "title": "Piyasa Stalinizmi ve hedef oyunu",
+      "paragraphs": [
+        "Neoliberal söylem bürokrasiyi azaltacağını söylerken hedef, denetim ve kanıt üretimini çoğaltabilir. Çalışan gerçek iş kadar işi yaptığını gösteren belge üretir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Öğretmen ders hazırlamak yerine ders kalitesini kanıtlayan form doldurur; form yükselirken ders zamanı düşer.",
+        "Kamusal hesap verme gereklidir; gizli profesyonel yetki de kötüye kullanılabilir. İyi ölçüm sahaya geri dönmelidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Her raporun hangi kararı iyileştirdiğini ve üretim maliyetini sorun."
+      ]
+    },
+    {
+      "id": "durak-10-denetim-kulturu-guveni-nasil-asindirir",
+      "section": "DÖRDÜNCÜ KISIM · ÖLÇÜM",
+      "title": "Denetim kültürü güveni nasıl aşındırır?",
+      "paragraphs": [
+        "Sürekli denetim profesyoneli güvenilmez varsayar ve işi dış göstergeye göre şekillendirir. İnsanlar hizmet yerine denetçinin görmek istediğini üretir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Polis suç azalmasını değil kayda giren sayıyı yönetirse olay sınıflandırmasıyla oynayabilir.",
+        "Denetimsiz güç de tehlikelidir. Sorun tek yönlü sayısal kontrol, çözüm katılımcı ve amaçla bağlı değerlendirmedir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Gösterge iyileşirken gerçek deneyimin kötüleşip kötüleşmediğini bağımsız kanalla kontrol edin."
+      ]
+    },
+    {
+      "id": "durak-11-neoliberalizm-devleti-gercekten-kucultur-mu",
+      "section": "DÖRDÜNCÜ KISIM · GÜÇ",
+      "title": "Neoliberalizm devleti gerçekten küçültür mü?",
+      "paragraphs": [
+        "Piyasa söylemi devleti geri çekilmiş gösterse de sözleşme, borç, mülkiyet ve kriz kurtarmaları güçlü devlet aygıtına dayanır. Devlet kaybolmaz, işlevi değişir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Banka kârda özel, çöküşte kamu desteği ister; piyasa doğal alan değil hukukla kurulan düzendir.",
+        "Devlet müdahalesinin her biçimi aynı değildir. Sosyal koruma ile şirket kurtarma ayrılmalıdır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir 'serbest piyasa' örneğinde altyapı, hukuk ve riskin kim tarafından taşındığını haritalayın."
+      ]
+    },
+    {
+      "id": "durak-12-2008-krizi-neden-buyuyu-bozmadi",
+      "section": "DÖRDÜNCÜ KISIM · KRİZ",
+      "title": "2008 krizi neden büyüyü bozmadı?",
+      "paragraphs": [
+        "Finans krizi sistemin gerçekçi olmadığı anı gösterdi; ancak güçlü alternatif kurum olmayınca kurtarma kapitalist gerçekçiliği yeniden kurdu. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Oyunun kuralları iflas eder, sonra aynı oyuncular masayı kamu parasıyla yeniden açar.",
+        "Krizler otomatik olarak ilerici dönüşüm üretmez; korku otoriter ve eşitsiz çözümleri de güçlendirebilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir krizde yalnız neyin çöktüğünü değil hangi hazır örgütün yeni kural önerebildiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-13-kurt-cobain-ve-isyanin-pazarlanmasi",
+      "section": "BEŞİNCİ KISIM · KÜLTÜR ENDÜSTRİSİ",
+      "title": "Kurt Cobain ve isyanın pazarlanması",
+      "paragraphs": [
+        "Sistem eleştiriyi yasaklamak yerine ürün olarak dolaşıma sokabilir. İsyan tarzı satıldığında karşı çıkış bile pazar çeşitliliğine dönüşür. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Sisteme öfkeli şarkı reklam müziği olur; mesaj duyulur ama satın alma biçimi değişmez.",
+        "Ticarileşme eserin etkisini tamamen yok etmez. Kültür insanları buluşturup yeni dil verebilir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Radikal görüntünün hangi kurum ve ortak eyleme bağlandığını, yalnız estetik tüketim olup olmadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-14-babanin-yasasi-olmadan-sonsuz-tuketim",
+      "section": "BEŞİNCİ KISIM · ARZU",
+      "title": "Babanın yasası olmadan sonsuz tüketim",
+      "paragraphs": [
+        "Fisher otoriter yasak ile sınırsız tüketim arasında başka bir kolektif disiplin ihtiyacı görür. Piyasa sürekli 'keyfini çıkar' derken gerçek doyum ve ortak sınır kaybolur. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Çocuk her istediğini alır ama dikkat ve sınır görmezse özgür değil huzursuz olabilir.",
+        "Psikanalitik aile benzetmeleri cinsiyetçi ve tarihsel kalıplar taşıyabilir. Sınır demokratik ve ortak kurulmalıdır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Tüketim kısıtını ceza değil ortak sağlık, zaman ve ekoloji hedefiyle nasıl kurabileceğinizi düşünün."
+      ]
+    },
+    {
+      "id": "durak-15-kaybolmus-gelecek-duygusu",
+      "section": "ALTINCI KISIM · ZAMAN",
+      "title": "Kaybolmuş gelecek duygusu",
+      "paragraphs": [
+        "Kapitalist gerçekçilik yalnız alternatif siyaseti değil, geleceğin geçmişten gerçekten farklı olacağı duygusunu da zayıflatır. Kültür arşiv içinde döner. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Yeni cihaz hızlanır ama çalışma günü, borç ve yalnızlık aynı kalır; teknik yenilik toplumsal gelecek yerine geçer.",
+        "Geçmişe dönüş bazen bastırılmış imkânları kurtarır. Her tekrar nostalji kapanı değildir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Teknolojik yeniliğin hangi toplumsal zamanı özgürleştirdiğini ve hangisini daha da hızlandırdığını sorun."
+      ]
+    },
+    {
+      "id": "durak-16-alternatif-kucuk-catlaklardan-baslar",
+      "section": "ALTINCI KISIM · ÇIKIŞ",
+      "title": "Alternatif küçük çatlaklardan başlar",
+      "paragraphs": [
+        "Fisher sistemin tutarsızlıklarını görünür kılmayı, ruh sağlığı ve bürokrasi gibi kişisel görünen sorunları siyasallaştırmayı alternatif hayalin başlangıcı sayar. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Öğretmenlerin ortaklaşa gereksiz raporu reddedip ders niteliği için başka ölçü önermesi küçük kurumsal çatlak açar.",
+        "Eleştiri tek başına program değildir. Dayanıklı alternatif bütçe, örgüt ve demokratik karar ister. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Şikâyetinizi ortak sorun, somut kurum ve uygulanabilir farklı kural halinde üç cümleye çevirin."
+      ]
+    },
+    {
+      "id": "durak-17-bugunun-platform-gercekciligi",
+      "section": "YEDİNCİ KISIM · BUGÜN",
+      "title": "Bugünün platform gerçekçiliği",
+      "paragraphs": [
+        "Uygulama, puan ve algoritma piyasayı görünmez altyapı gibi sunar. Çalışan ile müşteri 'platform böyle' denilerek insan kararından uzaklaştırılır. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Kurye rotası ve ücreti ekrandan gelir; itiraz edeceği yönetici yerine otomatik cevap vardır.",
+        "Platformlar erişim ve gelir imkânı da sağlar. Sorun teknolojinin doğal kader gibi sunulmasıdır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Algoritmik kararda kuralı kimin yazdığını, kimin değiştirebildiğini ve kimin itiraz edebildiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Fisher 'insanlar kandırıldığı için kapitalizm sürüyor' demez. İnsanlar sorunları çoğu zaman açıkça görür; asıl mesele alternatif kurumların düşünülmesini ve kurulmasını gerçek dışı gösteren duygusal, kültürel ve bürokratik atmosferdir.",
+        "Kapitalist Gerçekçilik tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Mark Fisher ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kısa eser sıradan iş ve ruh sağlığı deneyimini teoriyle buluşturduğu için kuşak belirleyen metne dönüşmüştür. Eleştirmenler kapitalizmi yeterince tanımlamamasını, sınıf dışındaki eşitsizlikleri sınırlı işlemesini ve çıkış programının belirsizliğini vurgulamıştır.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Kapitalist Gerçekçilik için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Kapitalist Gerçekçilik için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Burada 'gerçekçi değil' sözü hangi çıkarı koruyor? Kişisel sorun diye yaşadığım şey hangi kurum ve ölçüm düzeniyle üretiliyor? Eleştiri hangi ortak örgüt ve alternatif kurala bağlanabilir?",
+        "Bu sorular Kapitalist Gerçekçilik için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Kapitalist Gerçekçilik üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Kapitalist gerçekçilik kusurların bilinmemesi değil, başka düzenin düşünülemez ve uygulanamaz hissedilmesidir; çıkış kişisel sıkıntıyı kurumlarla bağlayıp ortak alternatif kapasitesi kurmakla başlar.",
+        "Akılda kalacak son görüntü, sonu görünmeyen mor şehir duvarında açılan ve içinden ortak yeşil gelecek ışığı sızan ince çatlak. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Kapitalist Gerçekçilik adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-alternatif-neden-hayal-disi-gorunur": {
+      "image": "/images/summary-art-172-chapter-01-no-alternative-wall-v1.webp",
+      "imageCaption": "Şehrin ufkunu kapatan görünmez 'başka yol yok' duvarı, kapitalist gerçekçiliği gösterir."
+    },
+    "durak-03-dunyanin-sonu-duzenin-sonundan-kolay": {
+      "image": "/images/summary-art-172-chapter-02-end-world-market-v1.webp",
+      "imageCaption": "Yıkılmış şehirde hâlâ parlayan fiyat etiketi, düzenin hayal içindeki kalıcılığını gösterir."
+    },
+    "durak-04-children-of-men-deki-geleceksizlik": {
+      "image": "/images/summary-art-172-chapter-03-future-sterility-v1.webp",
+      "imageCaption": "Müzeye dönüşmüş gelecek odası, kültürel kısırlığı gösterir."
+    },
+    "durak-05-refleksif-gucsuzluk": {
+      "image": "/images/summary-art-172-chapter-04-reflexive-impotence-v1.webp",
+      "imageCaption": "Duvarı gören ama tek başına ittiği için hareket ettiremeyen insanlar, refleksif güçsüzlüğü gösterir."
+    },
+    "durak-06-depresif-hazcilik": {
+      "image": "/images/summary-art-172-chapter-05-depressive-hedonia-v1.webp",
+      "imageCaption": "Çok ekran ışığı altında boş kalan yüz, depresif hazcılığı simgeler."
+    },
+    "durak-07-ruhsal-sikintinin-ozellestirilmesi": {
+      "image": "/images/summary-art-172-chapter-06-private-distress-v1.webp",
+      "imageCaption": "Bireyin başındaki kara bulutun arkasında ofis ve borç ağı, özelleştirilen sıkıntıyı gösterir."
+    },
+    "durak-08-isletme-ontolojisi": {
+      "image": "/images/summary-art-172-chapter-07-business-ontology-v1.webp",
+      "imageCaption": "Okul ve hastanenin aynı şirket grafiğine dönüşmesi, işletme ontolojisini gösterir."
+    },
+    "durak-09-piyasa-stalinizmi-ve-hedef-oyunu": {
+      "image": "/images/summary-art-172-chapter-08-market-stalinism-v1.webp",
+      "imageCaption": "Büyüyen hedef panoları altında küçülen gerçek iş, piyasa Stalinizmini gösterir."
+    },
+    "durak-10-denetim-kulturu-guveni-nasil-asindirir": {
+      "image": "/images/summary-art-172-chapter-09-audit-loop-v1.webp",
+      "imageCaption": "Kendi çıktısını besleyen ölçüm aynaları, denetim kültürünü gösterir."
+    },
+    "durak-11-neoliberalizm-devleti-gercekten-kucultur-mu": {
+      "image": "/images/summary-art-172-chapter-10-hidden-state-v1.webp",
+      "imageCaption": "Piyasa perdesinin arkasındaki güçlü hukuk ve kurtarma kolları, gizli devleti gösterir."
+    },
+    "durak-12-2008-krizi-neden-buyuyu-bozmadi": {
+      "image": "/images/summary-art-172-chapter-11-crisis-reset-v1.webp",
+      "imageCaption": "Kırılan kumar masasının kamu eliyle aynı oyunculara kurulması, 2008 dersini gösterir."
+    },
+    "durak-13-kurt-cobain-ve-isyanin-pazarlanmasi": {
+      "image": "/images/summary-art-172-chapter-12-sold-rebellion-v1.webp",
+      "imageCaption": "İsyan mikrofonuna asılan fiyat etiketi, eleştirinin metalaşmasını gösterir."
+    },
+    "durak-14-babanin-yasasi-olmadan-sonsuz-tuketim": {
+      "image": "/images/summary-art-172-chapter-13-endless-consumption-v1.webp",
+      "imageCaption": "Sonsuz ürün koridorunda yönsüz kalan çocuk, sınırsız arzu sorununu gösterir."
+    },
+    "durak-15-kaybolmus-gelecek-duygusu": {
+      "image": "/images/summary-art-172-chapter-14-lost-future-v1.webp",
+      "imageCaption": "Eski kasetlerin arasında çıkış arayan dijital ok, kaybolmuş geleceği gösterir."
+    },
+    "durak-16-alternatif-kucuk-catlaklardan-baslar": {
+      "image": "/images/summary-art-172-chapter-15-system-crack-v1.webp",
+      "imageCaption": "Beton duvardan çıkan ortak yeşil filiz, alternatifin küçük çatlağını gösterir."
+    },
+    "durak-17-bugunun-platform-gercekciligi": {
+      "image": "/images/summary-art-172-chapter-16-platform-realism-v1.webp",
+      "imageCaption": "Görünmez algoritma duvarı önünde bekleyen kurye, platform gerçekçiliğini gösterir."
+    }
+  }
+}

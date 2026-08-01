@@ -1,0 +1,350 @@
+{
+  "bookNo": 100,
+  "title": "Bir Adalet Teorisi",
+  "author": "John Rawls",
+  "subtitle": "Hangi aileye, sınıfa, yeteneğe, inanca ve bedene doğacağımızı bilmeden toplum kurallarını seçsek hangi özgürlükleri ve eşitsizlik sınırlarını kabul edeceğimizi soran modern siyaset felsefesi klasiği.",
+  "coverImage": "/images/summary-cover-100-bir-adalet-teorisi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/100-bir-adalet-teorisi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#53657A",
+  "meta": {
+    "originalTitle": "A Theory of Justice",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Doğacak çocuğunuzun zengin mi yoksul mu, sağlıklı mı engelli mi, çoğunlukta mı azınlıkta mı olacağını bilmiyorsunuz; ama yaşayacağı toplumun kurallarını şimdi seçmelisiniz. Rawls bu bilgisizlik perdesiyle çıkarımızı kimliğimizden ayırıp adil kurumları düşünmeye zorlar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Stanford Encyclopedia of Philosophy - John Rawls",
+      "url": "https://plato.stanford.edu/entries/rawls/"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Justice",
+      "url": "https://plato.stanford.edu/entries/justice/"
+    },
+    {
+      "id": 3,
+      "title": "Harvard University Press - A Theory of Justice",
+      "url": "https://www.hup.harvard.edu/books/9780674000780"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Hangi aileye, sınıfa, yeteneğe, inanca ve bedene doğacağımızı bilmeden toplum kurallarını seçsek hangi özgürlükleri ve eşitsizlik sınırlarını kabul edeceğimizi soran modern siyaset felsefesi klasiği.",
+        "Rawls ideal ve iyi düzenlenmiş liberal toplumun temel kurumlarını araştırır; günlük tek tek davranışların ya da bütün dünya adaletinin eksiksiz teorisini vermez. Düşünce deneyini, iki adalet ilkesini ve sonraki eleştirileri ayrı izlemek gerekir.",
+        "Bu rehber, John Rawls tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-adalet-toplumun-temel-erdemidir",
+      "section": "BİRİNCİ KISIM · ADALET",
+      "title": "Adalet toplumun temel erdemidir",
+      "paragraphs": [
+        "Rawls doğru olmayan teori nasıl reddedilirse adaletsiz kurumların da verimli olsalar bile değiştirilmesi gerektiğini söyler. Adalet temel toplumsal işbirliğinin ilk erdemidir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Çok hızlı çalışan mahkeme masumları sistematik cezalandırıyorsa verim başarı değildir.",
+        "Adalet tek değer değildir; güvenlik ve refah da önemlidir. Rawls temel hakların toplam faydaya kolayca feda edilmesine karşı öncelik kurar. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir kurumun başarısını yalnız çıktı sayısıyla değil hakları nasıl dağıttığıyla değerlendirin."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Adalet toplumun temel erdemidir” başlığının yalnız kendi örneğini değil Bir Adalet Teorisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-temel-yapi-hayat-sansini-dagitir",
+      "section": "BİRİNCİ KISIM · KURUMLAR",
+      "title": "Temel yapı hayat şansını dağıtır",
+      "paragraphs": [
+        "Anayasa, piyasa, mülkiyet, eğitim ve aile gibi temel kurumlar insanların başlangıç imkânlarını derinden belirler. Adalet yalnız yardım değil bu yapının düzenlenmesidir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Aynı çalışkanlıktaki iki çocuk farklı mahalle okullarında bambaşka kapılara ulaşır; sonuç yalnız kişisel gayret değildir.",
+        "Ailenin temel yapıda yeri feministlerce yetersiz işlendiği için eleştirilmiştir. Ev içi güç de adalet konusudur. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir eşitsizliği sonradan bağışla kapatmadan önce onu sürekli üreten kurum kuralını bulun."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Temel yapı hayat şansını dağıtır” başlığının yalnız kendi örneğini değil Bir Adalet Teorisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-baslangic-durumu-gercek-toplanti-degildir",
+      "section": "İKİNCİ KISIM · DÜŞÜNCE DENEYİ",
+      "title": "Başlangıç durumu gerçek toplantı değildir",
+      "paragraphs": [
+        "Başlangıç durumu insanların gerçekten yaptığı tarihsel sözleşme değil, adil ilkeleri seçmek için tasarlanmış temsil aracıdır. Taraflar özgür ve eşit yurttaşların çıkarını düşünür. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Oyunun kurallarını taşların hangi renkte size düşeceğini bilmeden yazmak, taraflı avantajı azaltır.",
+        "Düşünce deneyinin varsayımları sonucu etkiler; risk tutumu ve insan modeli tartışmalıdır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir kuralı savunurken onu seçen kişinin kendi yerini bilip bilmediğini sorun."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Başlangıç durumu gerçek toplantı değildir” başlığının yalnız kendi örneğini değil Bir Adalet Teorisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-bilgisizlik-perdesi-neyi-saklar",
+      "section": "İKİNCİ KISIM · TARAFSIZLIK",
+      "title": "Bilgisizlik perdesi neyi saklar?",
+      "paragraphs": [
+        "Taraflar sınıfını, yeteneğini, dinini, cinsiyetini ve iyi hayat anlayışını bilmez; genel toplum bilgisine sahiptir. Böylece kuralı kendine özel dikemez. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Pastayı bölen kişinin son dilimi alacağını bilmesi parçaları daha eşit kesmesine yol açar.",
+        "Kimliği silmek, tarihsel haksızlığı da görünmez yapabilir. Irk ve cinsiyet adaletinde bazen farkı bilmek gerekir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Tarafsızlık ile körlük arasındaki farkı koruyun: kuralı özel çıkardan arındırırken gerçek eşitsizliği görün."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Bilgisizlik perdesi neyi saklar?” başlığının yalnız kendi örneğini değil Bir Adalet Teorisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-birinci-ilke-esit-temel-ozgurlukler",
+      "section": "ÜÇÜNCÜ KISIM · İKİ İLKE",
+      "title": "Birinci ilke: eşit temel özgürlükler",
+      "paragraphs": [
+        "Her yurttaş ifade, vicdan, siyasi katılım, kişi özgürlüğü ve hukuk güvenliği gibi eşit temel özgürlüklere sahip olmalıdır. Bu özgürlükler ekonomik kazanç için pazarlık konusu yapılamaz. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Toplam gelir artacak diye bir azınlığın oy hakkını kaldırmak Rawlsçı adalete uymaz.",
+        "Özgürlükler çatışabilir ve kapsamları yorum ister. Nefret söylemi ile ifade özgürlüğü gibi sorunlar basit listeyle çözülmez. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir politika kazanç vaat ettiğinde hangi temel özgürlüğün sessizce bedel yapıldığını sorun."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Birinci ilke: eşit temel özgürlükler” başlığının yalnız kendi örneğini değil Bir Adalet Teorisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-adil-firsat-esitligi",
+      "section": "ÜÇÜNCÜ KISIM · FIRSAT",
+      "title": "Adil fırsat eşitliği",
+      "paragraphs": [
+        "Aynı yetenek ve çalışma isteğine sahip insanlar, doğdukları sınıftan bağımsız benzer başarı şansına sahip olmalıdır. Yalnız kapının hukuken açık olması yetmez. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Üniversite sınavı herkese aynı soruyu verir ama biri özel ders ve sessiz oda, diğeri vardiya işiyle hazırlanır.",
+        "Yetenek de aile, beslenme ve eğitimle gelişir; 'aynı doğal yetenek' varsayımı ölçmesi zor bir soyutlamadır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Fırsat politikasında başvuru hakkı kadar hazırlık koşullarını ve ağlara erişimi inceleyin."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Adil fırsat eşitliği” başlığının yalnız kendi örneğini değil Bir Adalet Teorisi boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-fark-ilkesi-esitsizligi-ne-zaman-kabul-eder",
+      "section": "ÜÇÜNCÜ KISIM · EŞİTSİZLİK",
+      "title": "Fark ilkesi eşitsizliği ne zaman kabul eder?",
+      "paragraphs": [
+        "Ekonomik ve toplumsal eşitsizlikler ancak en az avantajlıların durumunu alternatif düzenlerden daha iyi yapıyorsa kabul edilebilir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Doktora daha yüksek ücret vermek daha çok hekimin yoksul bölgeye gitmesini sağlıyorsa eşitsizlik savunulabilir; yalnız üsttekini zenginleştiriyorsa değil.",
+        "Kimin en az avantajlı olduğu ve karşılaştırma tabanı tartışmalıdır. İlke servet uçurumuna otomatik izin vermez. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir teşvikin gerçekten en alttakine ne kazandırdığını, yalnız büyüme vaadini değil somut sonuçla ölçün."
+      ]
+    },
+    {
+      "id": "durak-09-maximin-en-kotu-ihtimali-korumak",
+      "section": "ÜÇÜNCÜ KISIM · BELİRSİZLİK",
+      "title": "Maximin: en kötü ihtimali korumak",
+      "paragraphs": [
+        "Başlangıç durumunda tarafların en kötü konumu mümkün olduğunca iyi yapan ilkeleri seçmesi maximin düşüncesiyle ilişkilidir. Temel özgürlük ve yaşam imkânı büyük risklere bırakılamaz. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Hangi cankurtaran sandalına düşeceğinizi bilmeden en lüks tek sandal yerine hepsinin güvenli olmasını istersiniz.",
+        "Rawls her gündelik kararda maximin kullanmaz; özel koşullı anayasal seçim içindir. Aşırı riskten kaçınma eleştirisi vardır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Geri döndürülemez temel hak riskinde ortalama kazanç kadar en kötü sonucu görün."
+      ]
+    },
+    {
+      "id": "durak-10-birincil-mallar-ne-ise-yarar",
+      "section": "DÖRDÜNCÜ KISIM · ÖLÇÜ",
+      "title": "Birincil mallar ne işe yarar?",
+      "paragraphs": [
+        "Haklar, özgürlükler, fırsatlar, gelir, servet ve özsaygının toplumsal temelleri farklı hayat planları için genel araçlardır. Rawls dağılımı bu birincil mallarla değerlendirir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "İnsanların hedefi farklıdır ama yolculuk için güvenlik, anahtar ve belli kaynaklara herkes ihtiyaç duyar.",
+        "Engelli insanların aynı kaynakla aynı imkâna ulaşamayacağı kapasite yaklaşımınca eleştirilmiştir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Eşit para dağıtımının gerçek hareket alanını eşitleyip eşitlemediğini beden ve bakım ihtiyacıyla sınayın."
+      ]
+    },
+    {
+      "id": "durak-11-dogal-yetenek-ahlaki-hak-belgesi-degildir",
+      "section": "DÖRDÜNCÜ KISIM · TALİH",
+      "title": "Doğal yetenek ahlaki hak belgesi değildir",
+      "paragraphs": [
+        "Zekâ, sağlık ve aile koşulu seçilmediği için bunların piyasa ödülünü mutlak ahlaki hak saymak keyfidir. Yeteneklerin getirisi ortak kurumlar içinde düzenlenmelidir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Aynı ses yeteneği sahne, eğitim ve dinleyici olmadan gelir üretmez; bireysel özellik toplumsal ağla değer kazanır.",
+        "Bu görüş emek ve sorumluluğu yok saymaz; ödül ile kişinin mutlak hak ettiği düşüncesini sınırlar. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Başarı hikâyesinde kişisel çaba yanında rastlantı ve kamu altyapısının payını yazın."
+      ]
+    },
+    {
+      "id": "durak-12-ozgurluklerin-onceligi",
+      "section": "DÖRDÜNCÜ KISIM · ÖNCELİK",
+      "title": "Özgürlüklerin önceliği",
+      "paragraphs": [
+        "Rawls temel özgürlüklerin daha fazla gelir uğruna feda edilmemesi gerektiğini söyler. İlkeler sırayla uygulanır: özgürlük, adil fırsat ve sonra fark ilkesi. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Daha ucuz üretim için sendika ve söz hakkını kaldırmak toplam malı artırsa da yurttaş eşitliğini bozar.",
+        "Mutlak öncelik acil yoksulluk ve güvenlik durumlarında zor sorular doğurur. Özgürlüğün maddi koşulları da gerekir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Ekonomik gerekçenin hangi siyasi özgürlüğü sessiz maliyet yaptığını görün."
+      ]
+    },
+    {
+      "id": "durak-13-ozsaygi-en-onemli-mal-olabilir",
+      "section": "BEŞİNCİ KISIM · YURTTAŞLIK",
+      "title": "Özsaygı en önemli mal olabilir",
+      "paragraphs": [
+        "İnsan hayat planının değerli olduğuna ve onu sürdürebileceğine inanmazsa diğer kaynakları kullanmakta zorlanır. Adil kurumlar kişiyi eşit yurttaş olarak tanımalıdır. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Yardım alan kişiye sürekli şüpheli muamelesi yapmak para verirken özsaygıyı aşındırabilir.",
+        "Özsaygı psikolojik his kadar toplumsal statüyle ilgilidir; yalnız motivasyon eğitimi yapısal küçümsemeyi çözmez. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir hizmetin yararlanıcıyı pasif yük mü, hak sahibi ortak mı yaptığını inceleyin."
+      ]
+    },
+    {
+      "id": "durak-14-adalet-duygusu-nasil-gelisir",
+      "section": "BEŞİNCİ KISIM · İSTİKRAR",
+      "title": "Adalet duygusu nasıl gelişir?",
+      "paragraphs": [
+        "İnsanlar adil kurumlarda karşılıklılık deneyimi yaşadıkça adalet ilkelerine bağlılık geliştirebilir. Düzen yalnız zorla değil, yurttaşların makul bulduğu işbirliğiyle istikrarlı olur. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Herkesin sırasına uyduğu yerde kişi de kuralı korur; ayrıcalık sürekli görülürse uyum saflık gibi görünür.",
+        "Adaletsiz geçmişte güven kendiliğinden doğmaz. Söz kadar onarım ve uzun süreli uygulama gerekir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Kurala uyma çağrısından önce kurumun benzer durumlarda aynı ilkeyi uygulayıp uygulamadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-15-sivil-itaatsizlik-ne-zaman-mesrudur",
+      "section": "ALTINCI KISIM · İTİRAZ",
+      "title": "Sivil itaatsizlik ne zaman meşrudur?",
+      "paragraphs": [
+        "Açık, şiddetsiz ve vicdani yasa ihlali, ciddi adaletsizlikte çoğunluğun adalet duygusuna çağrı yapabilir. Hukuka genel bağlılık içinde belirli yasaya itiraz edilir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Ayrımcı oturma düzenini barışçıl biçimde ihlal eden eylem, yasayı gizlice değil kamusal olarak sınar.",
+        "Şiddetsizlik ve kamusallık ölçüsü baskı altındaki gruba aşırı yük bindirebilir. Radikal eleştiriler daha geniş direniş alanı ister. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir protestonun hedefini, yöntemini ve mevcut yasal yolların gerçekten açık olup olmadığını birlikte değerlendirin."
+      ]
+    },
+    {
+      "id": "durak-16-faydaciliga-temel-itiraz",
+      "section": "ALTINCI KISIM · RAKİP TEORİ",
+      "title": "Faydacılığa temel itiraz",
+      "paragraphs": [
+        "Toplam mutluluğu artırmak bazı kişilerin ağır kaybını başkalarının küçük kazancıyla telafi edebilir. Rawls toplumun tek büyük kişi olmadığını, bireylerin ayrı hayatları bulunduğunu vurgular. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "On kişinin eğlencesi için bir masumun özgürlüğünü almak toplam haz hesabında mümkün görünse de onun ayrı hakkını siler.",
+        "Kural faydacılığı hakları koruyabilir; Rawls'ın eleştirisi bütün sonuççu görüşleri tek hamlede bitirmez. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Toplam artış anlatısında kaybın belirli kişiler üzerinde yığılmış olup olmadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-17-rawls-a-yoneltilen-buyuk-itirazlar",
+      "section": "YEDİNCİ KISIM · ELEŞTİRİ",
+      "title": "Rawls'a yöneltilen büyük itirazlar",
+      "paragraphs": [
+        "Nozick mülkiyet ve tarihsel hakları, komüniteryenler soyut bireyi, feministler aile içi adaleti, kapasite yaklaşımı gerçek yapabilme gücünü öne çıkararak Rawls'ı eleştirdi. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Herkese aynı bisikleti vermek kaynak eşitliği olabilir; süremeyen kişi için hareket özgürlüğü yaratmayabilir.",
+        "Rawls sonraki eserlerinde çoğulculuk ve siyasi liberalizmi geliştirdi. Teori sabit tek baskı değildir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir adalet modelinde dağıtılan şeyin kaynak mı, hak mı, kapasite mi, tanınma mı olduğunu açıkça sorun."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Fark ilkesi 'zenginler biraz vergi verirse her eşitsizlik adildir' demez. Eşitsizlik ancak adil fırsat koşullarında ve en az avantajlıların durumunu gerçek alternatiflerden daha iyi yapıyorsa kabul edilir; temel özgürlükler önce gelir.",
+        "Bir Adalet Teorisi tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? John Rawls ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser yirminci yüzyıl siyaset felsefesini canlandırmış ve liberal eşitlikçiliğin ana referansı olmuştur. Nozick, Sandel, feminist düşünürler, ırk adaleti ve kapasite yaklaşımı soyut kişi, aile, tarihsel haksızlık ve gerçek işlev sorunlarında teoriyi zorlamıştır.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Bir Adalet Teorisi için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Bir Adalet Teorisi için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu kuralı toplumdaki yerimi bilmeden seçer miydim? Eşitsizlik en az avantajlı kişiye somut ne kazandırıyor? Eşit kaynak gerçek fırsata ve özsaygıya dönüşüyor mu?",
+        "Bu sorular Bir Adalet Teorisi için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Bir Adalet Teorisi üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Adil toplum, kim olduğumuzu bilmeden de seçebileceğimiz eşit temel özgürlükleri güvenceye alır; fırsatları gerçekten açar ve kaçınılmaz eşitsizliği en az avantajlıların yararına sınırlar.",
+        "Akılda kalacak son görüntü, kimlikleri örten mavi bir perdenin arkasında eşit anahtarları ve alt basamağı koruyan toplum terazisidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Bir Adalet Teorisi adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-adalet-toplumun-temel-erdemidir": {
+      "image": "/images/summary-art-100-chapter-01-justice-foundation-v1.webp",
+      "imageCaption": "Hızlı makinenin altında eğri temel, verim ile adalet farkını gösterir."
+    },
+    "durak-03-temel-yapi-hayat-sansini-dagitir": {
+      "image": "/images/summary-art-100-chapter-02-basic-structure-v1.webp",
+      "imageCaption": "Farklı evlerden aynı yarışa çıkan çocuklar, temel yapının hayat şansını dağıtmasını gösterir."
+    },
+    "durak-04-baslangic-durumu-gercek-toplanti-degildir": {
+      "image": "/images/summary-art-100-chapter-03-original-position-v1.webp",
+      "imageCaption": "Kimliği görünmeyen insanların yuvarlak masası, başlangıç durumunu simgeler."
+    },
+    "durak-05-bilgisizlik-perdesi-neyi-saklar": {
+      "image": "/images/summary-art-100-chapter-04-veil-of-ignorance-v1.webp",
+      "imageCaption": "Pastayı kimliğini bilmeden bölen el, bilgisizlik perdesinin mantığını gösterir."
+    },
+    "durak-06-birinci-ilke-esit-temel-ozgurlukler": {
+      "image": "/images/summary-art-100-chapter-05-equal-liberties-v1.webp",
+      "imageCaption": "Farklı insanların aynı anahtar halkasına sahip olması, eşit temel özgürlükleri gösterir."
+    },
+    "durak-07-adil-firsat-esitligi": {
+      "image": "/images/summary-art-100-chapter-06-fair-opportunity-v1.webp",
+      "imageCaption": "Aynı kapıya farklı uzunlukta yollar, biçimsel ve gerçek fırsat farkını gösterir."
+    },
+    "durak-08-fark-ilkesi-esitsizligi-ne-zaman-kabul-eder": {
+      "image": "/images/summary-art-100-chapter-07-difference-principle-v1.webp",
+      "imageCaption": "Yükselen merdivenin en alt basamağını da kaldırması, fark ilkesini simgeler."
+    },
+    "durak-09-maximin-en-kotu-ihtimali-korumak": {
+      "image": "/images/summary-art-100-chapter-08-maximin-boats-v1.webp",
+      "imageCaption": "Farklı sandalların tabanını güvenli yapan tasarım, maximin'i gösterir."
+    },
+    "durak-10-birincil-mallar-ne-ise-yarar": {
+      "image": "/images/summary-art-100-chapter-09-primary-goods-v1.webp",
+      "imageCaption": "Farklı yolcuların ortak araç çantasını kullanması, birincil malları gösterir."
+    },
+    "durak-11-dogal-yetenek-ahlaki-hak-belgesi-degildir": {
+      "image": "/images/summary-art-100-chapter-10-talent-lottery-v1.webp",
+      "imageCaption": "Doğum piyangosundan çıkan yeteneğin toplum sahnesinde değer kazanması, ahlaki talih sorununu gösterir."
+    },
+    "durak-12-ozgurluklerin-onceligi": {
+      "image": "/images/summary-art-100-chapter-11-priority-ladder-v1.webp",
+      "imageCaption": "Özgürlüğün üst basamakta olduğu sıralı merdiven, ilkelerin önceliğini gösterir."
+    },
+    "durak-13-ozsaygi-en-onemli-mal-olabilir": {
+      "image": "/images/summary-art-100-chapter-12-self-respect-v1.webp",
+      "imageCaption": "Başını kaldıran eşit yurttaş ve ona açılan kamu kapısı, özsaygının kurumsal temelini gösterir."
+    },
+    "durak-14-adalet-duygusu-nasil-gelisir": {
+      "image": "/images/summary-art-100-chapter-13-sense-of-justice-v1.webp",
+      "imageCaption": "Karşılıklı ellerle dengede tutulan düzen, adalet duygusunun işbirliğini gösterir."
+    },
+    "durak-15-sivil-itaatsizlik-ne-zaman-mesrudur": {
+      "image": "/images/summary-art-100-chapter-14-civil-disobedience-rawls-v1.webp",
+      "imageCaption": "Yasa çizgisini açıkça ve barışçıl geçen yurttaşlar, sivil itaatsizliği gösterir."
+    },
+    "durak-16-faydaciliga-temel-itiraz": {
+      "image": "/images/summary-art-100-chapter-15-separate-persons-v1.webp",
+      "imageCaption": "Toplam sayı duvarının önünde ayrı duran insan siluetleri, kişilerin ayrılığını gösterir."
+    },
+    "durak-17-rawls-a-yoneltilen-buyuk-itirazlar": {
+      "image": "/images/summary-art-100-chapter-16-justice-critiques-v1.webp",
+      "imageCaption": "Aynı adalet haritasına farklı yönlerden bakan dört mercek, büyük eleştirileri gösterir."
+    }
+  }
+}

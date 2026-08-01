@@ -1,0 +1,350 @@
+{
+  "bookNo": 89,
+  "title": "Mutluluk Varsayımı",
+  "author": "Jonathan Haidt",
+  "subtitle": "Kadim bilgelik sözlerini modern psikolojiyle sınayarak zihnin bölünmüş yapısını, ilişkilerin, erdemin, anlamın ve insanın kendinden büyük bir şeye bağlanmasının mutluluktaki yerini anlatan sıcak bir rehber.",
+  "coverImage": "/images/summary-cover-89-mutluluk-varsayimi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/89-mutluluk-varsayimi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#7B6742",
+  "meta": {
+    "originalTitle": "The Happiness Hypothesis",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "İçinizde akıllı bir binici karar verir, ama altında çok daha güçlü bir fil alışkanlık, duygu ve sezgiyle başka yöne yürür. Haidt mutluluğu yalnız olumlu düşünceyle değil, binici ile filin, insan ile çevrenin ve birey ile topluluğun uyumuyla açıklar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Jonathan Haidt - The Happiness Hypothesis",
+      "url": "https://www.happinesshypothesis.com/index.html"
+    },
+    {
+      "id": 2,
+      "title": "The Happiness Hypothesis - Chapter guide",
+      "url": "https://www.happinesshypothesis.com/chapters.html"
+    },
+    {
+      "id": 3,
+      "title": "Jonathan Haidt - Books",
+      "url": "https://www.jonathanhaidt.com/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Kadim bilgelik sözlerini modern psikolojiyle sınayarak zihnin bölünmüş yapısını, ilişkilerin, erdemin, anlamın ve insanın kendinden büyük bir şeye bağlanmasının mutluluktaki yerini anlatan sıcak bir rehber.",
+        "Kitap 2006 öncesi psikoloji araştırmalarını popüler biçimde birleştirir; bazı çalışmaların tekrar sorunları ve kültürel sınırlılığı bugün daha dikkatli okunmalıdır. Kadim sözler kanıt değil, araştırılacak hipotez olarak ele alınır.",
+        "Bu rehber, Jonathan Haidt tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-binici-ile-fil-ayni-kisi",
+      "section": "BİRİNCİ KISIM · BÖLÜNMÜŞ ZİHİN",
+      "title": "Binici ile fil aynı kişi",
+      "paragraphs": [
+        "Bilinçli akıl küçük binici, otomatik duygu ve alışkanlıklar büyük fil gibidir. Binici plan yapar ama fil korku, arzu ve öğrenilmiş yol üzerinden gücü taşır. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Gece erken yatmaya karar verip parmağınızın kendiliğinden yeni videoya dokunması, binicinin emriyle filin alışkanlığı arasındaki farktır.",
+        "Benzetme beyindeki kesin iki merkez değildir; çok sayıda sistemin farklı hızlarını anlatır. İnsanı iradesiz saymak için kullanılmamalıdır. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Hedefi yalnız sözle değil, filin yolunu değiştirecek çevre, tekrar ve ödülle destekleyin."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Binici ile fil aynı kişi” başlığının yalnız kendi örneğini değil Mutluluk Varsayımı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-degisim-neden-kanitla-baslamaz",
+      "section": "BİRİNCİ KISIM · İKNA",
+      "title": "Değişim neden kanıtla başlamaz?",
+      "paragraphs": [
+        "İnsanlar çoğu zaman sezgisel sonuca önce varır, akıl sonra gerekçe üretir. Binici filin avukatı olabilir; karşı kanıt tek başına yön değiştirmeyebilir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Tuttuğu takımın hatasını ekranda gören taraftar tekrar açısı yerine hakemin niyetini suçlayabilir; akıl bağlılığı savunur.",
+        "Bütün düşünme gerekçelendirme değildir; eğitim ve yavaş muhakeme sezgiyi düzeltebilir. Model eleştirel aklın imkânını yok saymaz. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir tartışmada yeni veri sunmadan önce karşı tarafın hangi kimlik ve kayıp korkusunu koruduğunu anlamaya çalışın."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Değişim neden kanıtla başlamaz?” başlığının yalnız kendi örneğini değil Mutluluk Varsayımı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-olumsuzluk-zihne-daha-hizli-yapisir",
+      "section": "İKİNCİ KISIM · DUYGULANIM",
+      "title": "Olumsuzluk zihne daha hızlı yapışır",
+      "paragraphs": [
+        "Kötü olaylar iyi olaylardan daha güçlü dikkat çekebilir; evrimsel açıdan bir tehlikeyi kaçırmanın bedeli bir fırsatı kaçırmaktan büyük olabilir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Gün boyu on övgü alıp akşam tek eleştiriyi düşünmek, zihnin duman alarmını çiçek kokusundan daha yüksek ayarlamasıdır.",
+        "Olumsuzluk yanlılığı herkes ve her durum için aynı değildir; depresyon, kişilik ve kültür etkiler. Tehlikeyi görmek bazen gerçekçidir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Gün sonunda sorun listesine üç sıradan iyi olayı da eklemek, gerçeği pembeleştirmeden dikkat dengesini genişletebilir."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Olumsuzluk zihne daha hızlı yapışır” başlığının yalnız kendi örneğini değil Mutluluk Varsayımı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-karsiliklilik-gorunmez-hesap-tutar",
+      "section": "İKİNCİ KISIM · İLİŞKİ",
+      "title": "Karşılıklılık görünmez hesap tutar",
+      "paragraphs": [
+        "İnsan toplulukları iyiliğe karşılık verme ve hileciyi cezalandırma eğilimleriyle işbirliği kurar. Karşılıklılık güven yaratır ama iyilik borcuna da dönüşebilir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Komşunuz tatilde çiçekleri sulayınca siz de onun kargosunu alırsınız; küçük değişimler mahalle güvenini büyütür.",
+        "Hediye her zaman özgür değildir; güç sahibi kişi yardım yoluyla bağlılık satın alabilir. Niyet ve çıkış imkânı önemlidir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir iyilikte karşılık beklentisini açıkça fark edin; gizli borç üretmeden cömert olmanın yolunu arayın."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Karşılıklılık görünmez hesap tutar” başlığının yalnız kendi örneğini değil Mutluluk Varsayımı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-baskalarinin-kusurunu-kendi-gerekcemizi-goruruz",
+      "section": "ÜÇÜNCÜ KISIM · İKİYÜZLÜLÜK",
+      "title": "Başkalarının kusurunu, kendi gerekçemizi görürüz",
+      "paragraphs": [
+        "Zihin kendi davranışını koşullarla, başkasını karakterle açıklamaya eğilimlidir. Ahlaki sezgimiz tarafsız hâkim değil, kendi takımına yakın avukat olabilir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Siz geç kalınca trafik, arkadaş geç kalınca saygısızlık dersiniz. Aynı saat iki farklı mahkemeye çıkar.",
+        "Bu yanlılık evrensel ve değişmez değildir; rol değiştirme, geri bildirim ve kurumlar kör noktayı azaltır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Birini etiketlemeden önce aynı davranış için kendinize vereceğiniz en cömert açıklamayı ona da deneyin."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Başkalarının kusurunu, kendi gerekçemizi görürüz” başlığının yalnız kendi örneğini değil Mutluluk Varsayımı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-bilissel-terapi-file-yeni-yol-acar",
+      "section": "ÜÇÜNCÜ KISIM · DEĞİŞİM",
+      "title": "Bilişsel terapi file yeni yol açar",
+      "paragraphs": [
+        "Tekrarlanan düşünce ve davranış çalışmaları filin otomatik yollarını zamanla değiştirebilir. İçgörü başlangıçtır; yeni patika tekrar ve deneyimle güçlenir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Ormanda kullanılan yol genişler, bırakılan yol otlanır. Her kaygı anında kaçmak eski yolu, küçük yüzleşme yeni yolu besler.",
+        "Kendi kendine uygulama her durum için yeterli değildir; ağır sıkıntıda profesyonel yardım ve sosyal koşul değişimi gerekir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir düşünceyi tartışmanın yanında onu sınayacak küçük ve güvenli davranış deneyi belirleyin."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Bilişsel terapi file yeni yol açar” başlığının yalnız kendi örneğini değil Mutluluk Varsayımı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-sikinti-insani-mutlaka-buyutur-mu",
+      "section": "DÖRDÜNCÜ KISIM · ZORLUK",
+      "title": "Sıkıntı insanı mutlaka büyütür mü?",
+      "paragraphs": [
+        "Zorluk bazı insanlarda güç, ilişki ve anlam gelişimi doğurabilir; fakat travma otomatik öğretmen değildir. Büyüme olayın kendisinden çok işlenme biçimi ve destekle ilişkilidir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "İş kaybı bir kişiyi yeni mesleğe taşırken diğerini borç ve yalnızlığa sürükleyebilir. Aynı fırtına farklı tekneleri aynı biçimde güçlendirmez.",
+        "Sonradan büyüme anlatısı gerçek acıyı ve yapısal zararı romantikleştirebilir. Hayatta kalmak ders çıkarmak zorunda değildir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Zor deneyimde 'bundan ne öğrenmeliyim?' baskısı yerine önce güvenlik, yas ve destek ihtiyacını sorun."
+      ]
+    },
+    {
+      "id": "durak-09-mutluluk-icerden-mi-disardan-mi-gelir",
+      "section": "DÖRDÜNCÜ KISIM · UYUM",
+      "title": "Mutluluk içerden mi dışardan mı gelir?",
+      "paragraphs": [
+        "Haidt kalıtım ve kişilik eğilimleri, yaşam koşulları ve gönüllü etkinliklerin birlikte mutluluğu etkilediğini anlatır. Yalnız düşünceyi ya da yalnız parayı açıklama yapmak eksiktir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Güneşli mizacı olan kişi kötü evde yine zorlanır; iyi evde yaşayan kişi de yalnızlık alışkanlığını değiştirmeden huzur bulamayabilir.",
+        "Basit mutluluk formülleri araştırma değişkenliğini gizler. Gelir yoksulluk düzeyinde çok daha belirleyicidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Sorununuzda değiştirilebilir iç alışkanlık ile gerçekten değişmesi gereken dış koşulu ayırın."
+      ]
+    },
+    {
+      "id": "durak-10-hazza-alisir-iliskiye-derinlesiriz",
+      "section": "BEŞİNCİ KISIM · UYUM SAĞLAMA",
+      "title": "Hazza alışır, ilişkiye derinleşiriz",
+      "paragraphs": [
+        "İnsan yeni gelir, ev ve eşyaya kısa sürede alışabilir; haz başlangıç düzeyine yaklaşır. İlişki, beceri ve anlamlı etkinlik ise değişkenlik ve karşılıklılık sayesinde daha kalıcı olabilir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Yeni telefon ilk hafta heyecan verir, bir ay sonra masa eşyası olur. Dostla yıllar içinde kurulan ortak dil ise yeni katmanlar açabilir.",
+        "İlişkilere de alışılır ve kötü koşullar kalıcı zarar verir. Hedonik uyum her şeyi eşitleyen kesin yasa değildir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Satın almadan önce heyecanın süresini, aynı kaynağın deneyim ya da ilişkiye ayrıldığında bırakacağı izi düşünün."
+      ]
+    },
+    {
+      "id": "durak-11-askin-iki-zamani",
+      "section": "BEŞİNCİ KISIM · SEVGİ",
+      "title": "Aşkın iki zamanı",
+      "paragraphs": [
+        "Tutkulu aşk yüksek yoğunlukla başlar ve çoğu zaman azalır; yoldaşça sevgi güven, bakım ve ortak hayatla derinleşir. Birincinin sönmesi ilişkinin bittiği anlamına gelmez. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Havai fişek parlaktır ama evi ısıtmaz; ocak ateşi daha sakindir, uzun akşamı taşır.",
+        "Her ilişki bu çizgiyi izlemez ve yoldaşlık kötü ilişkiyi kutsamaz. Arzu, güven ve eşitlik ayrı ayrı emek ister. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "İlişkinizi ilk heyecanın kopyasıyla değil bugün kurduğu güven, merak ve özgürlükle değerlendirin."
+      ]
+    },
+    {
+      "id": "durak-12-erdem-liste-degil-pratik-guctur",
+      "section": "ALTINCI KISIM · KARAKTER",
+      "title": "Erdem liste değil pratik güçtür",
+      "paragraphs": [
+        "Kadim gelenekler cesaret, adalet, ölçü ve bilgelik gibi erdemlerde buluşur. Erdem, yalnız kural bilmek değil farklı durumda iyi davranışı üretebilen karakter gücüdür. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Dürüst kişi kamera varken doğru söyleyen değil, çıkarı zedelendiğinde de gerçeği taşıyabilendir.",
+        "Erdem listeleri kültürel güç ve rol beklentisi taşır. İtaat bazen erdem diye sunulabilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Hayran olduğunuz özelliği soyut isimle değil, zor anda görülen somut davranışla tanımlayın."
+      ]
+    },
+    {
+      "id": "durak-13-is-ne-zaman-cagri-olur",
+      "section": "ALTINCI KISIM · ÇALIŞMA",
+      "title": "İş ne zaman çağrı olur?",
+      "paragraphs": [
+        "İnsan işi yalnız maaş, kariyer basamağı ya da çağrı olarak yaşayabilir. Aynı meslek, yaptığı işin başkasına katkısını ve kendi becerisini nasıl gördüğüne göre farklı anlam kazanır. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Hastane temizliği yapan kişi yalnız zemin silmediğini, enfeksiyonu önlediğini gördüğünde işin hikâyesi değişebilir.",
+        "Anlam söylemi düşük ücret ve kötü koşulu meşrulaştırmamalıdır. Çağrı hissi adil çalışma hakkının yerine geçmez. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "İşinizdeki somut faydayı görün, fakat kurumun bu anlamı ücretsiz fedakârlık talebine çevirmesine izin vermeyin."
+      ]
+    },
+    {
+      "id": "durak-14-akis-benligin-sessizlestigi-dikkat",
+      "section": "ALTINCI KISIM · ETKİNLİK",
+      "title": "Akış: benliğin sessizleştiği dikkat",
+      "paragraphs": [
+        "Beceri ile zorluğun dengelendiği etkinlikte kişi zamanı ve kendini unutabilir. Akış pasif hazdan çok bütün dikkatin işe katıldığı canlı meşguliyettir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Çok kolay bulmaca sıkıcı, çok zor olan kaygılıdır; sınırdaki bulmaca saatleri dakikaya çevirebilir.",
+        "Akış iyi amaç garantisi değildir; kumar ve savaş da akış yaratabilir. Etkinliğin ahlaki yönü ayrıca sorulur. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Gününüze becerinizin biraz üstünde, kesintisiz dikkat vereceğiniz anlamlı bir görev yerleştirin."
+      ]
+    },
+    {
+      "id": "durak-15-kutsallik-ve-kendinden-buyuge-baglanma",
+      "section": "YEDİNCİ KISIM · AŞKINLIK",
+      "title": "Kutsallık ve kendinden büyüğe bağlanma",
+      "paragraphs": [
+        "İnsan yalnız haz ve başarı değil, kutsal, yüce ve kendinden büyük bütünlerle bağ kurma ihtiyacı taşıyabilir. Dini ritüel, doğa ve ortak hizmet bu duyguyu uyandırır. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Kalabalık koroda tek sesiniz kaybolmaz; daha büyük uyum içinde başka bir yer kazanır.",
+        "Aşkınlık grup bağını güçlendirirken dış gruba düşmanlık üretebilir. Yüce deneyim eleştirel aklı askıya almamalıdır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Sizi küçültmeden benmerkezcilikten çıkaran topluluk, doğa ya da hizmet deneyimlerini fark edin."
+      ]
+    },
+    {
+      "id": "durak-16-anlam-dikey-ve-yatay-bag-ister",
+      "section": "YEDİNCİ KISIM · BÜTÜN",
+      "title": "Anlam dikey ve yatay bağ ister",
+      "paragraphs": [
+        "Haidt anlamı tutarlılık, amaç ve hayatın daha büyük bir çerçeveye yerleşmesiyle ilişkilendirir. Mutluluk yalnız içeride bulunmaz; kişi ile ilişkileri, işi ve değerleri arasındaki uyumda doğar. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Yapboz parçası kendi rengini taşır ama bütündeki yerini bulunca desen anlaşılır. İnsan da yalnız bireysel zevkle tamamlanmaz.",
+        "Büyük çerçeve baskıcı ideoloji olabilir. Anlamın kişiye soru sorma ve ayrılma alanı bırakması gerekir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Hayatınızdaki etkinliklerin hangi ortak değere bağlandığını ve bu bağın gerçekten seçilmiş olup olmadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-17-mutluluk-aramak-mutlulugu-kacirabilir",
+      "section": "SEKİZİNCİ KISIM · SONUÇ",
+      "title": "Mutluluk aramak mutluluğu kaçırabilir",
+      "paragraphs": [
+        "Mutluluğu doğrudan yakalanacak duygu yapmak sürekli iç kontrol ve hayal kırıklığı yaratabilir. İlişki, iyi iş ve anlam koşulları kurulduğunda mutluluk çoğu zaman yan ürün olarak gelir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Uyumaya çalışırken her dakika 'uyudum mu?' diye kontrol etmek uykuyu kaçırır; mutluluğu ölçmek de benzer gerginlik yaratabilir.",
+        "Depresyon ve kaygı yalnız hedef hatası değildir; bakım gerektiren gerçek durumlardır. Mutluluk baskısı acıyı utanca çevirmemelidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bugün 'mutlu olmalıyım' yerine değer verdiğiniz tek ilişki ya da etkinliğe tam katılmayı hedefleyin."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Kitap 'pozitif düşünürsen her şey düzelir' demez. Mutluluk mizaç, beden, ilişkiler, çalışma koşulları, erdem ve anlamın etkileşimidir; filin yolunu değiştirmek tekrar ve çevre ister, yapısal zarar yalnız iç konuşmayla çözülmez.",
+        "Mutluluk Varsayımı tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Jonathan Haidt ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser bilim ile kadim bilgelik arasında erişilebilir köprü olarak sevilmiş; bazı sosyal psikoloji bulgularının küçük örneklem ve tekrarlanabilirlik sorunlarına dayanması, kültürel çeşitliliği sınırlı işlemesi eleştirilmiştir. Haidt'in sonraki siyasi çalışmalarına dair tartışmalar da kitabın alımlanmasını etkilemiştir.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Mutluluk Varsayımı için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Mutluluk Varsayımı için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu kararda binici mi, fil mi yön veriyor? İç alışkanlığı mı, dış koşulu mu değiştirmem gerekiyor? Aradığım mutluluk doğrudan haz mı, yoksa ilişki, erdem ve anlamın yan ürünü mü?",
+        "Bu sorular Mutluluk Varsayımı için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Mutluluk Varsayımı üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Mutluluk zihnin tek düğmesi değildir; otomatik fil ile düşünen binicinin, insan ile çevrenin, bireysel amaç ile ilişki ve kendinden büyük anlamın daha iyi uyumudur.",
+        "Akılda kalacak son görüntü, gün doğumunda aynı yola yönelmeyi öğrenen küçük binici ile büyük altın fildir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Mutluluk Varsayımı adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-binici-ile-fil-ayni-kisi": {
+      "image": "/images/summary-art-89-chapter-01-rider-elephant-v1.webp",
+      "imageCaption": "Küçük binici ile güçlü filin aynı patikada yön araması, bölünmüş zihni gösterir."
+    },
+    "durak-03-degisim-neden-kanitla-baslamaz": {
+      "image": "/images/summary-art-89-chapter-02-elephant-lawyer-v1.webp",
+      "imageCaption": "Filin yanında dosya taşıyan binici, aklın bazen sezgiye avukatlık etmesini gösterir."
+    },
+    "durak-04-olumsuzluk-zihne-daha-hizli-yapisir": {
+      "image": "/images/summary-art-89-chapter-03-negativity-velcro-v1.webp",
+      "imageCaption": "Tek kara dikenin birçok açık çiçeğe tutunması, olumsuzluğun zihindeki ağırlığını gösterir."
+    },
+    "durak-05-karsiliklilik-gorunmez-hesap-tutar": {
+      "image": "/images/summary-art-89-chapter-04-reciprocity-loop-v1.webp",
+      "imageCaption": "İki komşu arasında gidip gelen su kabı, karşılıklılığın güven döngüsünü gösterir."
+    },
+    "durak-06-baskalarinin-kusurunu-kendi-gerekcemizi-goruruz": {
+      "image": "/images/summary-art-89-chapter-05-moral-mirror-v1.webp",
+      "imageCaption": "İki yüzü farklı gösteren eğri ayna, benlik yanlılığını simgeler."
+    },
+    "durak-07-bilissel-terapi-file-yeni-yol-acar": {
+      "image": "/images/summary-art-89-chapter-06-new-elephant-path-v1.webp",
+      "imageCaption": "Eski geniş yol yanında açılan yeni patika, alışkanlık temelli değişimi gösterir."
+    },
+    "durak-08-sikinti-insani-mutlaka-buyutur-mu": {
+      "image": "/images/summary-art-89-chapter-07-adversity-tree-v1.webp",
+      "imageCaption": "Fırtınada bazı dalları kırılıp bazı kökleri güçlenen ağaç, zorluğun belirsiz sonucunu gösterir."
+    },
+    "durak-09-mutluluk-icerden-mi-disardan-mi-gelir": {
+      "image": "/images/summary-art-89-chapter-08-happiness-equation-v1.webp",
+      "imageCaption": "Mizaç, koşul ve etkinliğin birleştiği üç kollu nehir, mutluluğun çoklu kaynağını gösterir."
+    },
+    "durak-10-hazza-alisir-iliskiye-derinlesiriz": {
+      "image": "/images/summary-art-89-chapter-09-hedonic-treadmill-v1.webp",
+      "imageCaption": "Parlak eşyanın hızla solduğu, dostluk ağacının büyüdüğü iki yol, uyum farkını gösterir."
+    },
+    "durak-11-askin-iki-zamani": {
+      "image": "/images/summary-art-89-chapter-10-love-fires-v1.webp",
+      "imageCaption": "Havai fişek ile uzun yanan ocak, tutkulu ve yoldaşça sevgiyi gösterir."
+    },
+    "durak-12-erdem-liste-degil-pratik-guctur": {
+      "image": "/images/summary-art-89-chapter-11-virtue-muscle-v1.webp",
+      "imageCaption": "Tekrarla güçlenen karakter kası, erdemin pratik kapasitesini simgeler."
+    },
+    "durak-13-is-ne-zaman-cagri-olur": {
+      "image": "/images/summary-art-89-chapter-12-work-calling-v1.webp",
+      "imageCaption": "Temizlik izinin hastanın iyileşme yoluna bağlanması, işte anlamı gösterir."
+    },
+    "durak-14-akis-benligin-sessizlestigi-dikkat": {
+      "image": "/images/summary-art-89-chapter-13-flow-channel-v1.webp",
+      "imageCaption": "Beceri ve zorluğun buluştuğu parlak kanal, akış deneyimini gösterir."
+    },
+    "durak-15-kutsallik-ve-kendinden-buyuge-baglanma": {
+      "image": "/images/summary-art-89-chapter-14-elevation-choir-v1.webp",
+      "imageCaption": "Tek seslerin yükselen koroya katılması, kendinden büyük bütüne bağlanmayı gösterir."
+    },
+    "durak-16-anlam-dikey-ve-yatay-bag-ister": {
+      "image": "/images/summary-art-89-chapter-15-meaning-puzzle-v1.webp",
+      "imageCaption": "Kendi yerini bulan renkli parça, kişisel hayat ile büyük çerçevenin uyumunu gösterir."
+    },
+    "durak-17-mutluluk-aramak-mutlulugu-kacirabilir": {
+      "image": "/images/summary-art-89-chapter-16-butterfly-happiness-v1.webp",
+      "imageCaption": "Kovalandıkça uzaklaşan, sakin bahçede omza konan kelebek, mutluluğun dolaylı doğasını gösterir."
+    }
+  }
+}

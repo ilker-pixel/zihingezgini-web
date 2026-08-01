@@ -1,0 +1,344 @@
+{
+  "bookNo": 62,
+  "title": "El Kitabı",
+  "author": "Epiktetos",
+  "subtitle": "Kontrolümüzde olan yargı, niyet ve seçimlerle; olmayan beden, ün, servet ve başkalarının davranışlarını ayırarak özgürlüğü dış koşullardan iç tutuma taşıyan kısa ama yoğun Stoacı kılavuz.",
+  "coverImage": "/images/summary-cover-62-el-kitabi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/62-el-kitabi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#596B58",
+  "meta": {
+    "originalTitle": "Enchiridion",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Yağmur yağmasını durduramazsınız; fakat şemsiyeyi alıp almamak, gecikince kendinize ne söylemek ve öfkenizi kime yöneltmek konusunda bir payınız vardır. Epiktetos özgürlüğü dünyanın bize uymasından değil, hangi kısmın gerçekten bize ait olduğunu ayırmaktan başlatır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "MIT Internet Classics Archive - The Enchiridion",
+      "url": "https://classics.mit.edu/Epictetus/epicench.html"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Epictetus",
+      "url": "https://plato.stanford.edu/entries/epictetus/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Epictetus",
+      "url": "https://iep.utm.edu/epictetu/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Kontrolümüzde olan yargı, niyet ve seçimlerle; olmayan beden, ün, servet ve başkalarının davranışlarını ayırarak özgürlüğü dış koşullardan iç tutuma taşıyan kısa ama yoğun Stoacı kılavuz.",
+        "Metin Arrianus'un Epiktetos'un daha geniş Söylevler'inden derlediği kısa bir kullanım kitabıdır. Sert cümleleri bağlamından koparmadan, Stoacılığın duygu yokluğu değil yargı eğitimi ve toplumsal görev anlayışı olduğunu hatırlayarak okumak gerekir.",
+        "Bu rehber, Epiktetos tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-ilk-ayrim-ne-bana-bagli",
+      "section": "BİRİNCİ KISIM · KONTROL",
+      "title": "İlk ayrım: ne bana bağlı?",
+      "paragraphs": [
+        "Epiktetos bazı şeylerin bize bağlı olduğunu söyler: yargılarımız, yönelişimiz, kaçınmamız ve seçime bağlı eylemlerimiz. Beden, ün, mal ve başkalarının tepkisi ise tam denetimimizde değildir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Uçağın iptalini geri alamazsınız; görevliye hakaret etmek, yeni rota aramak ya da bekleme süresini nasıl geçirmek konusunda seçenekleriniz vardır. Aynı olayda güçsüzlük ve eylem alanı yan yana bulunur.",
+        "Ayrım mutlak teknik kontrol listesi değildir; sağlık için davranabiliriz ama sonucu garanti edemeyiz. Daha doğru okuma, sürece katkımız ile sonucun bütününü ayırmaktır. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir sorun çıktığında kâğıdı ikiye bölüp doğrudan seçiminizde olan eylemleri ve yalnız etkileyebildiğiniz sonuçları ayrı yazın."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “İlk ayrım: ne bana bağlı?” başlığının yalnız kendi örneğini değil El Kitabı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-olay-degil-yargi-sarsar",
+      "section": "BİRİNCİ KISIM · YARGI",
+      "title": "Olay değil yargı sarsar",
+      "paragraphs": [
+        "İnsanları yalnız olayların değil, olaylar hakkında verdikleri hükümlerin sarstığını söyler. Kayıp acı verebilir; 'hayatım tamamen bitti' yargısı acının biçimini ve süresini değiştirebilir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Yönetici kısa bir e-posta gönderir. Biri 'kızgın' diye gece uyuyamaz, diğeri 'acele etmiş olabilir' deyip sabah sorar. Aynı veri iki iç hikâyede başka beden üretir.",
+        "Bu cümle travmayı, yoksulluğu ya da şiddeti yalnız düşünce hatasına indirgememelidir. Olayların gerçek zararı vardır; Stoacı alan, zarara eklediğimiz kesin hükümleri incelemektir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Yoğun duyguda ilk düşüncenin başına 'şu anda bana öyle görünüyor ki' sözünü ekleyerek yargı ile olguyu ayırın."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Olay değil yargı sarsar” başlığının yalnız kendi örneğini değil El Kitabı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-izlenime-hemen-onay-verme",
+      "section": "İKİNCİ KISIM · ZİHİN EĞİTİMİ",
+      "title": "İzlenime hemen onay verme",
+      "paragraphs": [
+        "Zihne gelen ilk izlenim bizim seçimimiz olmayabilir; ona doğru diye onay vermek ikinci adımdır. Epiktetos kısa bir duraklama ile görünüşü sınamayı önerir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Telefon bildirimi 'hesabınız kapatılacak' der; korku hemen yükselir. Bağlantıya tıklamadan göndereni kontrol etmek, dijital çağın Stoacı onay ertelemesidir.",
+        "Bazı durumlarda hızlı refleks hayat kurtarır; her tepkiyi uzun tartışmaya açmak gerekmez. Eğitim, özellikle değer yargılarında otomatik kesinliği azaltır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Sizi öfkelendiren bir cümlede cevap vermeden önce onun olgu, yorum ve varsayım bölümlerini ayırın."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “İzlenime hemen onay verme” başlığının yalnız kendi örneğini değil El Kitabı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-arzuyu-sonuca-zincirleme",
+      "section": "İKİNCİ KISIM · ARZU",
+      "title": "Arzuyu sonuca zincirleme",
+      "paragraphs": [
+        "Mutluluğu terfi, alkış, sağlık ya da belirli kişinin sevgisi gibi denetleyemediğimiz sonuçlara bağladığımızda ruhumuzu dış dünyanın ipine veririz. Stoacı arzu iyi seçime yönelmelidir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Mülakat için iyi hazırlanmak sizin payınızdır; mutlaka işe alınmayı istemek anlaşılır ama huzurun tek şartı olursa karar kurulu zihninizin sahibi olur.",
+        "Hedef koymamak Stoacılık değildir. Tercih edilen sonuca çalışılır, fakat ahlaki değer yalnız sonucun gelmesine bağlanmaz. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir hedefinizi 'mutlaka olmalı' yerine 'bunun için elimden geleni yapacağım; değerimi sonuç belirlemeyecek' cümlesiyle yeniden kurun."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Arzuyu sonuca zincirleme” başlığının yalnız kendi örneğini değil El Kitabı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-rolunu-iyi-oyna",
+      "section": "ÜÇÜNCÜ KISIM · ROLLER",
+      "title": "Rolünü iyi oyna",
+      "paragraphs": [
+        "Epiktetos hayatı yönetmenin verdiği bir oyun, insanı da seçmediği rolü iyi oynamakla sorumlu oyuncu gibi anlatır. Rol kısa, uzun, yoksul ya da itibarlı olabilir; oyunculuk seçime aittir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Tiyatroda yan rol verilmiş oyuncu bütün oyunu değiştiremez ama sahneye girdiğinde sözünü nasıl söyleyeceğini belirleyebilir.",
+        "Rol benzetmesi adaletsizliği kabullenme riski taşır. Stoacı görev, zorbalığa boyun eğmek değil karakterini koruyarak mümkün eylemi yapmak şeklinde okunmalıdır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Aile, iş ve yurttaş rolleriniz çatıştığında hangisinin hangi değeri koruduğunu ve hiçbir rolün bütün benliğiniz olmadığını düşünün."
+      ]
+    },
+    {
+      "id": "durak-07-kaybetmek-mi-geri-vermek-mi",
+      "section": "ÜÇÜNCÜ KISIM · GEÇİCİLİK",
+      "title": "Kaybetmek mi geri vermek mi?",
+      "paragraphs": [
+        "Sevdiğimiz kişi, eşya ve statü sonsuza dek bize ait değildir. Epiktetos kaybı, doğanın geçici olarak verdiğini geri alması diye yeniden çerçeveler. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Oteldeki güzel oda sabah boşaltılınca çalınmış sayılmaz; kullanım süresi bitmiştir. Stoacı, ilişkileri değersizleştirmeden sahiplik iddiasını yumuşatmaya çalışır.",
+        "İnsan kaybı otel odası kadar kolay değildir; yasın zamana ve desteğe ihtiyacı vardır. Metnin sert dili acı çeken kişiye erken dayatılırsa merhametsizleşir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Sevdiğiniz bir şeyle vakit geçirirken onun geçici oluşunu felaket provası değil dikkat ve şükran nedeni olarak hatırlayın."
+      ]
+    },
+    {
+      "id": "durak-08-kirilan-kupa-ve-sevilen-insan",
+      "section": "ÜÇÜNCÜ KISIM · ÖZELDEN İNSANA",
+      "title": "Kırılan kupa ve sevilen insan",
+      "paragraphs": [
+        "Bir şeyi severken onun ne tür bir şey olduğunu hatırlamak gerekir: kupa kırılabilir, insan ölebilir ve her kişi değişebilir. Genel gerçeği özel bağ içinde unutmamak şoku azaltır. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Çocuğunuzu öperken 'ölümlü bir insanı seviyorum' demek sevgiyi azaltmak için değil, bugünkü sarılmayı otomatik hak saymamak içindir.",
+        "Bu uygulama kaygılı kişide sürekli felaket düşüncesine dönüşebilir. Amaç her an ölüm görüntüsü üretmek değil, kontrol yanılsamasını gevşetmektir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Günlük vedaları acele geçmek yerine sevginin garantili geleceğe değil şimdiki ilişkiye ait olduğunu bir an fark edin."
+      ]
+    },
+    {
+      "id": "durak-09-hakaret-kimin-mali",
+      "section": "DÖRDÜNCÜ KISIM · BAŞKALARININ YARGISI",
+      "title": "Hakaret kimin malı?",
+      "paragraphs": [
+        "Birinin kötü sözü onun yargısıdır; bizi değersiz kılan nesnel damga değildir. Hakaretin gücü, sözü kendi hakkımızdaki kesin hükme dönüştürdüğümüzde büyür. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Tanımadığınız kişinin internette yazdığı tek cümle bütün gününüzü yönetiyorsa, klavyenin öteki ucundaki insan zihninizde beklenmedik bir makam kazanmıştır.",
+        "Sistematik aşağılama ve nefret söylemi gerçek toplumsal sonuç üretir; yalnız görmezden gelmek çözüm değildir. İç değer ile dış zarara karşı eylem birlikte tutulmalıdır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Eleştiride önce doğru payı, sonra gönderenin niyetini, sonra da sizin kontrolünüzdeki düzeltmeyi ayırın."
+      ]
+    },
+    {
+      "id": "durak-10-un-baskasinin-zihnindedir",
+      "section": "DÖRDÜNCÜ KISIM · İTİBAR",
+      "title": "Ün başkasının zihnindedir",
+      "paragraphs": [
+        "İtibar insanların bizim hakkımızdaki düşüncelerinin toplamıdır ve bu zihinler bize ait değildir. İyi iş yapmak seçime bağlıdır; herkesin bunu görmesini sağlamak değildir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Bir esnaf kusursuz hizmet verir, fakat haksız yorum puanını düşürür. Yanıt verebilir ve kayıt gösterebilir; bütün seyircilerin kanaatini zorla düzeltemez.",
+        "İtibar toplumsal hayatta iş ve güvenlik etkileyebilir, bütünüyle önemsiz değildir. Stoacı ayrım, onun ahlaki değerin son ölçüsü olmasını reddeder. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Paylaşım yapmadan önce bunu doğru olduğu için mi, yoksa görünmez kalma korkusuyla mı yaptığınızı sorun."
+      ]
+    },
+    {
+      "id": "durak-11-ziyafette-sirani-beklemek",
+      "section": "BEŞİNCİ KISIM · ÖLÇÜLÜLÜK",
+      "title": "Ziyafette sıranı beklemek",
+      "paragraphs": [
+        "Hayat bir ziyafet gibi düşünülür: Önünüze geleni ölçülü alın, uzaktakine uzanıp masayı dağıtmayın, geç gelen tabağa öfke duymayın. Bu benzetme arzu ve sabır eğitimidir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Toplantıda söz size gelmeden sürekli araya girmek yerine dinlemek, fırsat geldiğinde konuşmak ve gelmezse bütün değerinizi kaybetmiş saymamak ziyafet terbiyesine benzer.",
+        "Benzetme pasifliği kutsamamalıdır; adaletsiz dağıtılan sofrada paylaşım talebi meşrudur. Ölçülülük ile boyun eğme ayrılmalıdır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Tüketim isteğinde şeyin gerçekten ihtiyacınız mı, yoksa başkasının tabağına bakmanın ürettiği acele mi olduğunu sorun."
+      ]
+    },
+    {
+      "id": "durak-12-beden-onemlidir-ama-benligin-tamami-degil",
+      "section": "BEŞİNCİ KISIM · BEDEN",
+      "title": "Beden önemlidir ama benliğin tamamı değil",
+      "paragraphs": [
+        "Sağlık tercih edilir, fakat hastalık insanın iyi seçim yapma kapasitesini bütünüyle yok etmez. Stoacı değer bedensel mükemmellikten karaktere taşınır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Sakatlanan sporcu eski hızını kaybedebilir; yine de tedaviye yaklaşımı, çevresine davranışı ve yeni amaçları üzerinde belli bir seçim alanı kalabilir.",
+        "Ağrı ve hastalık karar kapasitesini gerçekten azaltabilir; erişim ve bakım toplumsal sorumluluktur. Felsefi teselli tıbbi hizmetin yerine geçmez. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Sağlık hedefini bedeninizi kontrol edilecek makine gibi cezalandırmadan, bakım verebildiğiniz alanlarla belirsiz sonuçları ayırarak kurun."
+      ]
+    },
+    {
+      "id": "durak-13-olum-korkusuyla-pazarlik",
+      "section": "ALTINCI KISIM · SONLULUK",
+      "title": "Ölüm korkusuyla pazarlık",
+      "paragraphs": [
+        "Ölüm doğanın bir olayıdır; korkunç olduğu hükmünü zihin ekler. Epiktetos ölümü sürekli hatırlayarak insanın alçakça davranış ve gereksiz ertelemeden kurtulabileceğini düşünür. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Doktora gitmeyi korkudan ertelemek ölümü uzaklaştırmaz; yalnız seçiminizi daraltır. Sonluluğu kabul etmek bazen daha erken bakım ve daha açık vedalaşma sağlar.",
+        "Ölüm korkusu biyolojik ve ilişkisel derinliğe sahiptir; tek cümleyle kaybolmaz. Stoacı alıştırma yoğun kaygıda profesyonel yardımın rakibi değildir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bugün bitse en çok hangi sözü söylemediğinize üzüleceğinizi düşünün ve küçük, yapılabilir kısmını ertelemeyin."
+      ]
+    },
+    {
+      "id": "durak-14-ilerleme-konusmakla-degil-pratikle-olur",
+      "section": "ALTINCI KISIM · ALIŞTIRMA",
+      "title": "İlerleme konuşmakla değil pratikle olur",
+      "paragraphs": [
+        "Stoacılık güzel cümle biriktirmek değil, izlenim anında yeni tepkiyi tekrar etmektir. Sindirilmemiş öğretiyi sürekli sergilemek, yediği otu dışarı çıkaran hayvana benzetilir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Sabır hakkında on kitap okuyup kuyrukta ilk gecikmede bağırmak, tarif koleksiyonu yapıp hiç yemek pişirmemeye benzer.",
+        "Pratikte başarısız olmak ikiyüzlülük değil öğrenmenin parçasıdır; önemli olan hatayı yeni utanç nedeni değil inceleme malzemesi yapmaktır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir Stoacı cümle seçip bir hafta yalnız tek durumda uygulayın; akşam sonucu değil hangi anda unuttuğunuzu yazın."
+      ]
+    },
+    {
+      "id": "durak-15-baskalarina-karsi-gorev-surer",
+      "section": "YEDİNCİ KISIM · TOPLUM",
+      "title": "Başkalarına karşı görev sürer",
+      "paragraphs": [
+        "İç özgürlük insanı toplumdan çekmez. Epiktetos ebeveyn, kardeş, komşu ve yurttaş rollerinde adaletli davranmayı, başkasının hatasına onun bilgisizliği açısından bakmayı ister. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Aile üyesi kaba davrandığında yalnız 'beni üzdü' değil, 'benim kardeş olarak doğru eylemim ne?' sorusu tepki alanını genişletebilir.",
+        "Rol görevi istismar ilişkisini sürdürme emri değildir. Adalet ve kendine saygı bazen sınır koymayı ya da uzaklaşmayı gerektirir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir çatışmada karşı tarafı değiştirmeye çalışmadan önce kendi rolünüzün dürüst, ölçülü ve cesur eylemini belirleyin."
+      ]
+    },
+    {
+      "id": "durak-16-kader-sevgisi-mi-gercekcilik-mi",
+      "section": "YEDİNCİ KISIM · DOĞA",
+      "title": "Kader sevgisi mi, gerçekçilik mi?",
+      "paragraphs": [
+        "Stoacı insan gerçekleşen olayın evrensel neden zincirindeki yerini kabul etmeye çalışır. Kabul, olayı beğenmekten çok artık olmuş olanla boş yere kavga etmemektir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Fırtına çatıyı uçurduktan sonra saatlerce 'olmamalıydı' demek onarımı başlatmaz. Gerçekliği kabul eden kişi yas tutabilir ve sonra çiviyi eline alabilir.",
+        "Kader dili adaletsizliği doğallaştırmak için kullanılabilir. Olmuş olanı kabul etmek, tekrarını önlemek için mücadeleden vazgeçmek değildir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Zor olayda önce değiştirilemez geçmişi, sonra hâlâ açık olan eylem kapılarını ayrı cümlelerle söyleyin."
+      ]
+    },
+    {
+      "id": "durak-17-stoaci-sakinlik-duygu-yoklugu-degildir",
+      "section": "SEKİZİNCİ KISIM · YANLIŞ İMAJ",
+      "title": "Stoacı sakinlik duygu yokluğu değildir",
+      "paragraphs": [
+        "Epiktetos'un amacı taş gibi hissiz insan değil, yanlış değer yargılarının köleleştirmediği kişi yetiştirmektir. Sevgi, dikkat ve sevinç kalır; paniğe dönüşen sahiplik iddiası azalır. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "İyi acil servis çalışanı hastanın acısını önemser ama onunla birlikte çökerse yardım edemez. Sakinlik, mesafe kadar daha etkili şefkat de sağlayabilir.",
+        "Stoacı metinlerde duygu dili serttir ve bastırma riski vardır. Sağlıklı uygulama duyguyu inkâr etmek yerine kaynağındaki yargıyı merak eder. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Üzgünken 'bunu hissetmemeliyim' demek yerine hissin hangi kaybı ve hangi değer yargısını işaret ettiğini araştırın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "El Kitabı 'hiçbir şeye aldırma, haksızlığa boyun eğ ve duygularını bastır' demez. Kontrol ayrımı, dış olayın gerçek zararını inkâr etmek değil, seçimin olmadığı sonucu ahlaki benliğin tek ölçüsü yapmamaktır; adaletli eylem yine kişinin görevidir.",
+        "El Kitabı tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Epiktetos ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Metin yüzyıllardır dayanıklılık ve karakter eğitimi için okunmuş, modern bilişsel terapilere yakınlığıyla yeniden ilgi görmüştür. Buna karşılık kontrol dili toplumsal eşitsizliği bireysel tutuma indirgemek veya yas sürecini acele susturmak için kullanıldığında haklı eleştiri alır.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. El Kitabı için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "El Kitabı için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu durumda gerçekten hangi seçim bana ait? İlk izlenimime hangi yargıyla onay verdim? Tercih ettiğim sonuç gelmese bile nasıl adil ve ölçülü davranabilirim?",
+        "Bu sorular El Kitabı için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "El Kitabı üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Özgürlük dünyanın her isteğimize uyması değil; dış sonucu iç değerimizden ayırıp yargı, niyet ve eylemde bize düşen payı dikkatle kullanmaktır.",
+        "Akılda kalacak son görüntü, fırtınalı dış çemberin ortasında sakin kalan ve yalnız kendi yönünü gösteren yeşil bir pusuladır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "El Kitabı adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-ilk-ayrim-ne-bana-bagli": {
+      "image": "/images/summary-art-62-chapter-01-control-circles-v1.webp",
+      "imageCaption": "İçte seçim, dışta hava ve başkaları bulunan iki halka, Stoacı kontrol ayrımını gösterir."
+    },
+    "durak-03-olay-degil-yargi-sarsar": {
+      "image": "/images/summary-art-62-chapter-02-judgment-lens-v1.webp",
+      "imageCaption": "Aynı olayı farklı renge boyayan iki düşünce merceği, yargının duygudaki payını gösterir."
+    },
+    "durak-04-izlenime-hemen-onay-verme": {
+      "image": "/images/summary-art-62-chapter-03-impression-gate-v1.webp",
+      "imageCaption": "Zihne gelen okun önündeki küçük kapı, izlenime onay vermeden önceki duraklamayı simgeler."
+    },
+    "durak-05-arzuyu-sonuca-zincirleme": {
+      "image": "/images/summary-art-62-chapter-04-desire-strings-v1.webp",
+      "imageCaption": "Dış sonuçlara bağlanan kukla iplerini gevşeten el, arzunun özgürleşmesini gösterir."
+    },
+    "durak-06-rolunu-iyi-oyna": {
+      "image": "/images/summary-art-62-chapter-05-life-role-v1.webp",
+      "imageCaption": "Farklı kostümler arasında aynı duruşu koruyan oyuncu, koşul ile karakter ayrımını gösterir."
+    },
+    "durak-07-kaybetmek-mi-geri-vermek-mi": {
+      "image": "/images/summary-art-62-chapter-06-borrowed-cup-v1.webp",
+      "imageCaption": "Emanet fincanı özenle tutan eller, sahiplik ile geçicilik arasındaki Stoacı bağı gösterir."
+    },
+    "durak-08-kirilan-kupa-ve-sevilen-insan": {
+      "image": "/images/summary-art-62-chapter-07-mortal-embrace-v1.webp",
+      "imageCaption": "Kırılabilir seramik ile sıcak insan sarılışı, sevginin geçici varlıklara yönelmesini anlatır."
+    },
+    "durak-09-hakaret-kimin-mali": {
+      "image": "/images/summary-art-62-chapter-08-insult-arrow-v1.webp",
+      "imageCaption": "Dışarıdan gelen okun iç kapıda durdurulması, başkasının yargısına onay vermeme gücünü gösterir."
+    },
+    "durak-10-un-baskasinin-zihnindedir": {
+      "image": "/images/summary-art-62-chapter-09-reputation-cloud-v1.webp",
+      "imageCaption": "Başka insanların zihinlerinden oluşan değişken bulut, ünün dışsal yapısını simgeler."
+    },
+    "durak-11-ziyafette-sirani-beklemek": {
+      "image": "/images/summary-art-62-chapter-10-banquet-table-v1.webp",
+      "imageCaption": "Uzanan tabaklar karşısında sakin bekleyen el, ölçülü arzu ve zamanı simgeler."
+    },
+    "durak-12-beden-onemlidir-ama-benligin-tamami-degil": {
+      "image": "/images/summary-art-62-chapter-11-body-not-self-v1.webp",
+      "imageCaption": "Yaralı bedenin yanında sönmeyen küçük pusula, sağlık ile ahlaki benliğin ayrımını gösterir."
+    },
+    "durak-13-olum-korkusuyla-pazarlik": {
+      "image": "/images/summary-art-62-chapter-12-memento-mori-v1.webp",
+      "imageCaption": "Sönen mumun yanında açık kalan yol, ölüm bilgisinin yaşama yön vermesini simgeler."
+    },
+    "durak-14-ilerleme-konusmakla-degil-pratikle-olur": {
+      "image": "/images/summary-art-62-chapter-13-practice-gym-v1.webp",
+      "imageCaption": "Kitap rafından günlük alıştırma alanına uzanan yol, felsefenin pratik oluşunu gösterir."
+    },
+    "durak-15-baskalarina-karsi-gorev-surer": {
+      "image": "/images/summary-art-62-chapter-14-social-roles-v1.webp",
+      "imageCaption": "Bir merkezden aile ve yurttaş halkalarına uzanan bağlar, Stoacı toplumsal görevi anlatır."
+    },
+    "durak-16-kader-sevgisi-mi-gercekcilik-mi": {
+      "image": "/images/summary-art-62-chapter-15-fate-river-v1.webp",
+      "imageCaption": "Akışa teslim olmayan ama akıntıyı kullanarak yönlenen kayık, Stoacı kabulü simgeler."
+    },
+    "durak-17-stoaci-sakinlik-duygu-yoklugu-degildir": {
+      "image": "/images/summary-art-62-chapter-16-calm-heart-v1.webp",
+      "imageCaption": "Fırtına içinde sönmeyen sıcak kalp, Stoacı sakinliğin hissizlik olmadığını gösterir."
+    }
+  }
+}
