@@ -135,7 +135,9 @@
         "description": "Medeniyetlerin gelişimini coğrafi ve çevresel faktörlerle açıklayan klasik.",
         "pubDate": "1997",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/12-tufek-mikrop-ve-celik/"
     },
     {
         "no": 13,
@@ -187,7 +189,9 @@
         "description": "Epikürcü atom teorisini ve ölüm korkusunun anlamsızlığını anlatan şiirsel felsefi eser.",
         "pubDate": "MÖ 55",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/17-evrenin-yapisi/"
     },
     {
         "no": 18,
@@ -341,7 +345,9 @@
         "description": "İnsan davranışını nörobiyolojiden evrimsel sürece kadar inceleyen modern dönem sentezi.",
         "pubDate": "2017",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/32-behave-davranis/"
     },
     {
         "no": 33,
@@ -437,7 +443,9 @@
         "description": "Nörolojik vaka analizleri üzerinden beynin benliği ve beden algısını nasıl inşa ettiğini gösteren sinirbilim klasiği.",
         "pubDate": "1998",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/41-beyindeki-hayaletler/"
     },
     {
         "no": 42,
@@ -691,7 +699,9 @@
         "description": "Adalet, ideal devlet düzeni ve mağara alegorisini içeren felsefi başyapıt.",
         "pubDate": "MÖ 375",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/66-devlet/"
     },
     {
         "no": 67,
@@ -753,7 +763,9 @@
         "description": "Çatışma yönetimi ve stratejinin sadece askeri değil zihinsel ilkelerini sunan klasik.",
         "pubDate": "MÖ 5. Yüzyıl",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/72-savas-sanati/"
     },
     {
         "no": 73,
@@ -971,7 +983,9 @@
         "description": "Doğal durumdaki kaos karşısında güvenlik ve toplumsal sözleşme ile kurulan devlet gücünü ele alan kurucu başyapıt.",
         "pubDate": "1651",
         "evre": 4,
-        "link": "/yazilar/471/"
+        "link": "/yazilar/471/",
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/93-leviathan/"
     },
     {
         "no": 94,
@@ -1075,7 +1089,9 @@
         "description": "Rasyonel kapitalizmin doğuşunda Protestan iş ahlakının rolünü inceleyen klasik.",
         "pubDate": "1905",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/103-protestan-ahlaki-ve-kapitalizmin-ruhu/"
     },
     {
         "no": 104,
@@ -1267,7 +1283,9 @@
         "description": "Panteist (veya panenteist) bir evren modelini geometrik yöntemle kanıtlamaya çalışan etik/metafizik zirvesi.",
         "pubDate": "1677",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/122-etika/"
     },
     {
         "no": 123,
@@ -1287,7 +1305,9 @@
         "description": "İnsanın evrendeki hiçliği, inanç üzerine kumarı ve kalbin akla sığmayan mantığı üzerine fragmanlar.",
         "pubDate": "1670",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/124-dusunceler/"
     },
     {
         "no": 125,
@@ -1577,7 +1597,9 @@
         "description": "Ulusların zenginlik farklarını coğrafya veya kültürle değil, kapsayıcı ve sömürücü kurumlarla açıklayan eser.",
         "pubDate": "2012",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/152-uluslarin-dususu/"
     },
     {
         "no": 153,
@@ -1617,7 +1639,9 @@
         "description": "Piyasa ekonomisinin topluma dayatılmasının ve piyasanın 'yerinden çıkarılmasının' getirdiği yıkımı inceleyen klasik.",
         "pubDate": "1944",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/156-buyuk-donusum/"
     },
     {
         "no": 157,
@@ -1955,7 +1979,9 @@
         "description": "Popüler kültür ögelerinin burjuva mitlerini nasıl yeniden ürettiğini gösteren göstergebilimsel klasik.",
         "pubDate": "1957",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/189-mitolojiler/"
     },
     {
         "no": 190,
@@ -2005,7 +2031,9 @@
         "description": "İletişim teknolojilerinin kendisinin, aktardıkları içerikten çok daha dönüştürücü olduğunu savunan görsel tasarım eseri.",
         "pubDate": "1967",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/194-arac-mesajdir/"
     },
     {
         "no": 195,
@@ -2211,7 +2239,9 @@
         "description": "Fotoğraf ve sinemanın sanat eserinin biricikliğini (aura) yok ederek sanatı nasıl siyasallaştırdığını inceleyen klasik.",
         "pubDate": "1935",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/214-teknik-yeniden-uretim-caginda-sanat-eseri/"
     },
     {
         "no": 215,
@@ -2293,7 +2323,9 @@
         "description": "Feminizmi sınıf ve ırk kesişimselliğinde son derece sade bir dille açıklayan rehber.",
         "pubDate": "2000",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/222-feminizm-herkes-icindir/"
     },
     {
         "no": 223,
@@ -2487,7 +2519,9 @@
         "description": "Modern toplumun katı kurumlarının eriyerek belirsiz ve akışkan hale gelişini inceleyen yapıt.",
         "pubDate": "2000",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/241-akiskan-modernite/"
     },
     {
         "no": 242,
@@ -2613,7 +2647,9 @@
         "description": "Yapay zekanın insan zekasını aşması durumunda karşılaşılacak varoluşsal riskleri ve kontrol problemini inceleyen temel analiz.",
         "pubDate": "2014",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/253-superzeka/"
     },
     {
         "no": 254,
@@ -2795,7 +2831,9 @@
         "description": "Dini inancı teolojik dogmalar yerine, bireylerin yaşadığı psikolojik deneyimler üzerinden ele alan öncü klasik.",
         "pubDate": "1902",
         "evre": 10,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/271-dini-deneyimin-cesitleri/"
     },
     {
         "no": 272,
@@ -2835,7 +2873,9 @@
         "description": "Fizik, kimya, biyoloji ve anlam arayışını 'şiirsel natüralizm' ekseninde birleştiren modern bilim sentezi.",
         "pubDate": "2016",
         "evre": 10,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/275-buyuk-resim/"
     },
     {
         "no": 276,

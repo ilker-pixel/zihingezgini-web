@@ -1,0 +1,330 @@
+{
+  "bookNo": 124,
+  "title": "Düşünceler",
+  "author": "Blaise Pascal",
+  "subtitle": "İnsanın hem evren karşısında kırılgan hem kendi kırılganlığını bilecek kadar büyük olduğunu; can sıkıntısından eğlenceye kaçışımızı, aklın sınırlarını, kalbin sezgisini ve inanç bahsini tamamlanmamış parçalarla araştıran çarpıcı iç konuşma.",
+  "coverImage": "/images/summary-art-124-dusunceler-pascal-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/124-dusunceler-pascal-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#665A58",
+  "meta": {
+    "originalTitle": "Pensées",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Blaise Pascal tarafından yazılan Düşünceler adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Project Gutenberg - Pascal's Pensées",
+      "url": "https://www.gutenberg.org/ebooks/18269"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Blaise Pascal",
+      "url": "https://plato.stanford.edu/entries/pascal/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Pascal",
+      "url": "https://iep.utm.edu/pascal-b/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "İnsanın hem evren karşısında kırılgan hem kendi kırılganlığını bilecek kadar büyük olduğunu; can sıkıntısından eğlenceye kaçışımızı, aklın sınırlarını, kalbin sezgisini ve inanç bahsini tamamlanmamış parçalarla araştıran çarpıcı iç konuşma.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-tamamlanmamis-kitabin-acik-masasi",
+      "section": "BAŞLANGIÇ · PARÇALAR",
+      "title": "Tamamlanmamış kitabın açık masası",
+      "paragraphs": [
+        "Düşünceler bitmiş bir eser değil, Pascal'ın Hristiyanlık savunusu için tuttuğu notların ölümünden sonra düzenlenmiş halidir. Bu yüzden aynı fikir farklı yerde döner, sıralama baskıdan baskıya değişir.",
+        "Bir yazarın masasındaki kartları, kenar notlarını ve yarım cümleleri bulduğunuzu düşünün. Okur yalnız kitabı değil düşüncenin hazırlanışını da görür.",
+        "Parçalı yapı zayıflık ve güçtür. Sistem eksiktir ama ani gözlemler doğrudan vurur. Pascal bazen kanıtlamadan sezdirir.",
+        "Metni roman sırası beklemeden, birbirini aydınlatan temalar arasında dolaşarak okumak daha verimlidir."
+      ]
+    },
+    {
+      "id": "durak-03-insan-hem-sefil-hem-buyuk",
+      "section": "BİRİNCİ KISIM · ÇELİŞKİ",
+      "title": "İnsan hem sefil hem büyük",
+      "paragraphs": [
+        "İnsan yanılır, ölür ve küçük çıkarların peşinde sürüklenir; fakat kendi yanılgısını ve ölümünü düşünebilir. Sefaletin farkında olmak bile bir büyüklük işaretidir.",
+        "Taş ezildiğini bilmez, insan ise bir kamış kadar kolay kırılırken onu kıran evreni düşünebilir. Beden zayıf, düşünce ufku geniştir.",
+        "Pascal insanı yalnız yüceltmenin gurur, yalnız küçültmenin umutsuzluk doğurduğunu söyler. İki gerçeği aynı anda tutmak ister.",
+        "Kişisel hatada 'ben değersizim' ile 'ben yanılmam' arasında üçüncü yol açılır: Kırılganım ve bunu anlayıp düzeltebilirim."
+      ]
+    },
+    {
+      "id": "durak-04-dusunen-kamis",
+      "section": "BİRİNCİ KISIM · İNSAN",
+      "title": "Düşünen kamış",
+      "paragraphs": [
+        "Evren insanı bir damla suyla yok edebilir; yine de insan öldüğünü bilir, evren bilmez. Pascal değeri fiziksel güçten bilinç ve düşünmeye taşır.",
+        "Rüzgârda eğilen ince kamış ile onu ezen dev bulutu düşünün. Kamış kırılır ama bulutun ve kendi sonunun anlamını sorabilen odur.",
+        "Düşünceyi yüceltmek bedensel ve toplumsal koşulları küçümsememelidir. Açlık ve hastalık zihnin özgürlüğünü daraltır; insan yalnız bilinç değildir.",
+        "Yine de güç takıntılı kültürde önemli düzeltmedir: Büyük olmak daha çok yer kaplamak değil, durumunu dürüstçe kavrayabilmektir."
+      ]
+    },
+    {
+      "id": "durak-05-bir-odada-sakin-kalamamak",
+      "section": "İKİNCİ KISIM · EĞLENCE",
+      "title": "Bir odada sakin kalamamak",
+      "paragraphs": [
+        "Pascal insanların mutsuzluğunun büyük bölümünü odasında sakin kalamamaya bağlar. Sessizlikte ölüm, boşluk ve kendimizle karşılaşırız; bu yüzden av, oyun, iş ve dedikoduya kaçarız.",
+        "Telefon olmadan on dakika beklerken elinizin cebe gitmesi, kaçışın modern görüntüsüdür. İçerik önemli değildir; asıl işlev sessizliği doldurmaktır.",
+        "Her eğlence kaçış değildir. Oyun, sanat ve dostluk gerçek değer taşır. Pascal'ın hedefi etkinliğin kendisi değil, onsuz kaldığımızda duyduğumuz dayanılmaz boşluktur.",
+        "Gündelik deney olarak kısa sessizlik, hangi arzunun gerçek hangi hareketin yalnız oyalanma olduğunu gösteren ayna olabilir."
+      ]
+    },
+    {
+      "id": "durak-06-avdan-cok-kovalamacayi-sevmek",
+      "section": "İKİNCİ KISIM · EĞLENCE",
+      "title": "Avdan çok kovalamacayı sevmek",
+      "paragraphs": [
+        "İnsan çoğu zaman hedefe ulaştığında değil peşinden koşarken canlı hisseder. Avın kendisinden çok hazırlık, risk ve beklenti bizi meşgul eder; sonuç gelince yeni hedef gerekir.",
+        "Aylarca beklenen terfi ilk hafta sevindirir, sonra normalleşir. Zihin yeniden sonraki unvana döner. Kovalamaca durduğunda boşluk geri gelir.",
+        "Bu gözlem bütün hedefleri değersiz kılmaz. Sorun amacı elde edilince hayatın bütünüyle tamamlanacağını sanmaktır.",
+        "Başarı planında 'ulaştıktan sonra hangi yaşamı sürdüreceğim?' sorusu, sonsuz koşu bandını fark etmeye yardım eder."
+      ]
+    },
+    {
+      "id": "durak-07-can-sikintisinin-actigi-bosluk",
+      "section": "İKİNCİ KISIM · BOŞLUK",
+      "title": "Can sıkıntısının açtığı boşluk",
+      "paragraphs": [
+        "Can sıkıntısı Pascal için küçük rahatsızlık değil insanın kendi sonluluğuyla karşılaşmasıdır. Dış görev çekilince iç huzursuzluk görünür olur.",
+        "Tatilin ilk günlerinde özgür hissedip sonra ne yapacağını bilememek, yoğun programın yalnız iş değil kimlik desteği olduğunu gösterir.",
+        "Modern psikoloji can sıkıntısını dikkat, anlam ve uyarılma düzeyiyle daha çeşitli açıklar. Pascal onu fazla tek bir dinsel sonuca bağlar.",
+        "Yine de sıkıntıyı hemen içerikle uyuşturmak yerine hangi anlam eksikliğini haber verdiğini dinlemek verimli olabilir."
+      ]
+    },
+    {
+      "id": "durak-08-hayal-gucu-dunyanin-kralicesi",
+      "section": "ÜÇÜNCÜ KISIM · YANILGI",
+      "title": "Hayal gücü dünyanın kraliçesi",
+      "paragraphs": [
+        "İnsan kanıttan çok görünüş, unvan, kıyafet ve ses tonuna kapılabilir. Pascal hayal gücünü bizi yöneten aldatıcı kraliçe diye anlatır.",
+        "Aynı cümle beyaz önlük giyen kişiden gelince daha doğru sanılabilir. Giysi kanıt değildir ama zihnin güven hesabını değiştirir.",
+        "Hayal gücü yalnız hata kaynağı değildir; bilim, sanat ve empati için gereklidir. Pascal'ın eleştirisi onun kanıt yerine tahta oturmasınadır.",
+        "Bir iddiayı değerlendirirken sunanın statüsünü geçici olarak kapatıp gerekçeyi tek başına okumak bu kraliçeye küçük sınır koyar."
+      ]
+    },
+    {
+      "id": "durak-09-aliskanligin-gorunmez-anayasasi",
+      "section": "ÜÇÜNCÜ KISIM · GELENEK",
+      "title": "Alışkanlığın görünmez anayasası",
+      "paragraphs": [
+        "Birçok kural bize doğal gelir çünkü çocukluktan beri ona alışmışızdır. Başka ülkede farklı olan şey, kendi düzenimizin zorunlu değil tarihsel olduğunu gösterir.",
+        "Yemekte çatalı hangi elle tuttuğunuz size doğru görünür; farklı kültürde aynı hareket kabalık sayılabilir. Beden, toplumsal kuralı düşünmeden uygular.",
+        "Pascal geleneksel hukukun rastlantısını gösterirken ortak düzen ihtiyacını da kabul eder. Her kuralın kökeni keyfî diye onu bir gecede yıkmak kaos doğurabilir.",
+        "Gelenek sorgusunda iki soru gerekir: Bu kural neden başlamıştı ve bugün kimi koruyup kimi zorluyor? Alışkanlık gerekçe yerine geçmemelidir."
+      ]
+    },
+    {
+      "id": "durak-10-adalet-ile-kuvvetin-zor-evliligi",
+      "section": "ÜÇÜNCÜ KISIM · SİYASET",
+      "title": "Adalet ile kuvvetin zor evliliği",
+      "paragraphs": [
+        "Adalet güçsüz kalırsa uygulanamaz, güç adaletsiz kalırsa zorbalık olur. Pascal insanların çoğu zaman güçlü olanı adil ilan ederek bu gerilimi gizlediğini söyler.",
+        "Haklı ama uygulanmayan mahkeme kararı kâğıtta kalır; çok güçlü ama taraflı karar korku yaratır. Kurum hem meşru hem etkili olmalıdır.",
+        "Pascal siyasi istikrar uğruna mevcut düzene fazla boyun eğebilir. Düzenin bozulma riski, adaletsizliğe sürekli teslimiyet gerekçesi olmamalıdır.",
+        "Modern hukukta güçler ayrılığı ve bağımsız yargı, adalet ile kuvveti tek elde eritmeden bir araya getirmeye çalışır."
+      ]
+    },
+    {
+      "id": "durak-11-aklin-son-siniri",
+      "section": "DÖRDÜNCÜ KISIM · BİLGİ",
+      "title": "Aklın son sınırı",
+      "paragraphs": [
+        "Pascal büyük matematikçiydi; aklı küçümsemez. Fakat ilk ilkeleri ve hayatın bütün anlamını yalnız çıkarımla kanıtlayamayacağımızı düşünür. Akıl kendi sınırını tanıdığında daha akıllıdır.",
+        "Cetvel masanın uzunluğunu ölçer ama sofranın neden değerli olduğunu söylemez. Araç kusurlu değildir; yalnız görevi farklıdır.",
+        "Aklın sınırı kolayca kanıtsız inancı koruyan duvara dönüşebilir. Hangi sorunun gerçekten akıl dışı, hangisinin yalnız zor olduğunu ayırmak gerekir.",
+        "Bilimde belirsizliği kabul etmek araştırmayı bitirmez; tam tersine nerede yeni kanıt gerektiğini gösterir. Sınır, teslimiyet değil yön işareti olabilir."
+      ]
+    },
+    {
+      "id": "durak-12-kalbin-bildigi-ilkeler",
+      "section": "DÖRDÜNCÜ KISIM · KALP",
+      "title": "Kalbin bildiği ilkeler",
+      "paragraphs": [
+        "Pascal 'kalbin aklın bilmediği nedenleri vardır' derken yalnız romantik duygudan söz etmez. Zaman, uzam ve ilk ilkeler gibi bazı temelleri doğrudan sezdiğimizi düşünür.",
+        "Bir arkadaşın acısını anlamak için önce mantıksal kanıt istemezsiniz. Deneyim, güven ve sezgi bazı bilgileri hesaptan önce taşır.",
+        "Kalp yanılmaz değildir; önyargı ve korku da içten kesinlik hissi verebilir. Sezgi kanıtla ve başkalarının deneyimiyle sınanmalıdır.",
+        "Kararda yalnız tabloya bakmak kadar yalnız iç sese güvenmek de eksiktir. Pascal iki bilgi biçiminin sınırını düşündürür."
+      ]
+    },
+    {
+      "id": "durak-13-iki-sonsuz-arasinda-insan",
+      "section": "BEŞİNCİ KISIM · EVREN",
+      "title": "İki sonsuz arasında insan",
+      "paragraphs": [
+        "İnsan sonsuz büyüklük ile sonsuz küçüklük arasında ortadadır. Evrenin yanında nokta, mikroskobik dünyanın yanında büyük bir dünyadır; ne bütünü kavrar ne bütünüyle bilgisizdir.",
+        "Gece gökyüzüne bakıp küçülür, hücrenin içindeki düzeni düşününce büyürsünüz. Ölçek değiştikçe merkez duygusu çözülür.",
+        "Pascal'ın bilimsel ayrıntıları bugün değişmiştir ama ölçek şoku sürer. İnsan gözle görülen orta dünyaya göre evrilmiş sezgilerle uçları anlamaya çalışır.",
+        "Bu konum hem alçakgönüllülük hem merak üretir: Bilmediğimiz çoktur, fakat aradaki yerimiz soru sormaya yeter."
+      ]
+    },
+    {
+      "id": "durak-14-gizlenen-tanri",
+      "section": "BEŞİNCİ KISIM · İNANÇ",
+      "title": "Gizlenen Tanrı",
+      "paragraphs": [
+        "Pascal'a göre Tanrı kendini ne zorlayıcı biçimde açık eder ne bütünüyle saklar. Arayan için işaret, kaçan için belirsizlik vardır; inanç mekanik kanıt değil varoluşsal yöneliştir.",
+        "Çok parlak ışık bakışı kör eder, tam karanlık hiçbir şey göstermez. Pascal dini kanıtları yarı ışıkta görür.",
+        "Bu düzen kuşkuyu her durumda suçlu çıkarma riski taşır: Görürsen kanıt, görmezsen saklanma. Yanlış çıkma ihtimali olmayan savı eleştirmek zordur.",
+        "İnanç tartışmasında kişisel deneyime saygı ile kamusal iddianın kanıt yükünü ayırmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-15-pascal-in-bahsi",
+      "section": "BEŞİNCİ KISIM · BAHİS",
+      "title": "Pascal'ın bahsi",
+      "paragraphs": [
+        "Tanrı'nın varlığı teorik olarak kesinleşmiyorsa Pascal kararı bahis gibi ele alır. Sonsuz kazanç ihtimali karşısında sınırlı dünyevi maliyet, inancı seçmeyi akılcı gösterebilir.",
+        "Küçük primle çok büyük zarara karşı sigorta almak gibi, düşük olasılıklı ama sonsuz sonuç hesabı beklenen değeri değiştirir.",
+        "Bahis birçok itiraz doğurur: Hangi dinin Tanrısı, zorla inanmak mümkün mü, samimiyetsiz inanç değerli mi? Sonsuz ödül her seçeneği hesap dışı büyütebilir.",
+        "Kalıcı ders inanç sonucundan çok belirsizlik altında karar sorusudur. Kanıt tamamlanmadan da yaşamak ve seçim yapmak zorundayız."
+      ]
+    },
+    {
+      "id": "durak-16-benlik-neden-sevilmek-ister",
+      "section": "ALTINCI KISIM · BENLİK",
+      "title": "Benlik neden sevilmek ister?",
+      "paragraphs": [
+        "Pascal insanın gerçek haliyle değil, başkalarının gözünde kurduğu görüntüyle sevilmek istediğini söyler. Kusurumuzu saklar, başarıyı büyütür ve alkışın aynasında kimlik ararız.",
+        "Sosyal medyada yalnız en iyi anları paylaşırken hayatın tamamını değil beğenilecek sürümü gösteririz. Sonra başkalarının seçilmiş görüntüsüyle kendi dağınık günümüzü kıyaslarız.",
+        "Kendini gösterme bütünüyle sahtekârlık değildir; insanlar toplumsal varlıktır. Sorun görüntü ile gerçek arasındaki fark büyüdükçe benliğin sürekli savunma istemesidir.",
+        "Daha özgür ilişki, övgü toplamak kadar kusurla görülmeye ve başkasını da tek performansa indirmemeye dayanır."
+      ]
+    },
+    {
+      "id": "durak-17-duzenler-akil-beden-ve-kalp",
+      "section": "YEDİNCİ KISIM · DÜZEN",
+      "title": "Düzenler: akıl, beden ve kalp",
+      "paragraphs": [
+        "Pascal farklı büyüklük düzenlerini ayırır: Bedensel güç, zihinsel deha ve sevgi-kutsallık aynı cetvelle ölçülemez. Bir kral matematikçiden siyasi, matematikçi kraldan zihinsel bakımdan üstün olabilir.",
+        "Hızlı koşucuya iyi bir dosttan daha değerli demek, kilogramla müzik ölçmeye benzer. Başarı alanları birbirine çevrilemez.",
+        "Toplum para ve görünürlüğü tek ölçü yaptığında bakım, bilgelik ve karakter görünmezleşir. Pascal değer çoğulluğuna alan açar.",
+        "Kendinizi başkasıyla kıyaslarken önce aynı oyunda olup olmadığınızı sorun. Yanlış cetvel gereksiz aşağılık ve üstünlük üretir."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Pascal aklı bütünüyle reddeden karanlık bir inanç savunucusu değildir; matematiksel aklın gücünü çok iyi bilir ve tam da bu yüzden sınırlarını çizer. Bahis de Tanrı'nın varlığını kanıtlamaz, belirsizlik altında pratik karar önerir.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Psikoloji eğlence, dikkat, öz sunum ve can sıkıntısını Pascal'dan daha çeşitli açıklıyor. Yine de telefona kaçış, bitmeyen hedef kovalamacası ve performans benliği onun gözlemlerini şaşırtıcı biçimde güncel kılıyor. Dini çözüm herkes için ikna edici olmasa da insan teşhisi güçlüdür.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Şu an yaptığım şey gerçek değer taşıdığı için mi, sessizlikten kaçmak için mi? Kendimi hangi yanlış cetvelle ölçüyorum? Aklın çözemediği yerde dürüst belirsizlik mi taşıyorum, yoksa istediğim cevabı kalbin kesinliği diye mi adlandırıyorum?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İnsan evren karşısında kırılgan, kendi kırılganlığını bilecek kadar büyük ve sessizlikten kaçacak kadar huzursuzdur; akıl ile kalbin sınırını tanımak daha dürüst bir hayatın başlangıcı olabilir.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-tamamlanmamis-kitabin-acik-masasi": {
+      "image": "/images/summary-art-124-chapter-01-fragment-table-v1.webp",
+      "imageCaption": "Düşünceler tamamlanmış bina değil, Pascal'ın ölümünden sonra bir araya getirilen açık çalışma masasıdır."
+    },
+    "durak-03-insan-hem-sefil-hem-buyuk": {
+      "image": "/images/summary-art-124-chapter-02-wretched-great-v1.webp",
+      "imageCaption": "İnsan kırılganlığını bilecek kadar büyük, büyüklüğüne rağmen sürekli yanılacak kadar kırılgandır."
+    },
+    "durak-04-dusunen-kamis": {
+      "image": "/images/summary-art-124-chapter-03-thinking-reed-v1.webp",
+      "imageCaption": "Kırılgan kamış evrenden güçsüzdür, fakat kendi kırılganlığını düşünebildiği için benzersiz bir büyüklük taşır."
+    },
+    "durak-05-bir-odada-sakin-kalamamak": {
+      "image": "/images/summary-art-124-chapter-04-room-without-phone-v1.webp",
+      "imageCaption": "Sessiz odada kalamayan insan, dış gürültüyle ölüm ve iç boşluk düşüncesinden kaçabilir."
+    },
+    "durak-06-avdan-cok-kovalamacayi-sevmek": {
+      "image": "/images/summary-art-124-chapter-05-hunt-without-prey-v1.webp",
+      "imageCaption": "İnsan çoğu zaman avı değil, kendini sessizlikten uzak tutan kovalamacanın hareketini arzular."
+    },
+    "durak-07-can-sikintisinin-actigi-bosluk": {
+      "image": "/images/summary-art-124-chapter-06-boredom-empty-chair-v1.webp",
+      "imageCaption": "Boş sandalye gibi can sıkıntısı, sürekli faaliyet çekildiğinde geride kalan anlam eksikliğini görünür kılar."
+    },
+    "durak-08-hayal-gucu-dunyanin-kralicesi": {
+      "image": "/images/summary-art-124-chapter-07-imagination-queen-v1.webp",
+      "imageCaption": "Unvan ve görünüş hayal gücünün tacıyla kanıtın önüne geçebilir."
+    },
+    "durak-09-aliskanligin-gorunmez-anayasasi": {
+      "image": "/images/summary-art-124-chapter-08-custom-constitution-v1.webp",
+      "imageCaption": "Alışkanlık, tarihsel kuralları doğanın kendisi gibi hissettiren görünmez anayasa yazar."
+    },
+    "durak-10-adalet-ile-kuvvetin-zor-evliligi": {
+      "image": "/images/summary-art-124-chapter-09-justice-and-force-v1.webp",
+      "imageCaption": "Adalet uygulama gücüne, güç ise meşruiyet için adalet ölçüsüne ihtiyaç duyar."
+    },
+    "durak-11-aklin-son-siniri": {
+      "image": "/images/summary-art-124-chapter-10-ruler-and-table-v1.webp",
+      "imageCaption": "Cetvel uzunluğu ölçebilir ama sofranın hayatımızdaki değerini tek başına belirleyemez."
+    },
+    "durak-12-kalbin-bildigi-ilkeler": {
+      "image": "/images/summary-art-124-chapter-11-heart-and-reason-v1.webp",
+      "imageCaption": "Kalp bazı ilkeleri ve ilişkileri doğrudan hisseder, fakat bu iç kesinlik de eleştiri ve sınama ister."
+    },
+    "durak-13-iki-sonsuz-arasinda-insan": {
+      "image": "/images/summary-art-124-chapter-12-between-infinities-v1.webp",
+      "imageCaption": "İnsan yıldızlara göre nokta, mikro dünyaya göre devdir; iki sonsuz arasında düşünür."
+    },
+    "durak-14-gizlenen-tanri": {
+      "image": "/images/summary-art-124-chapter-13-hidden-light-v1.webp",
+      "imageCaption": "Pascal'ın Tanrısı zorlayıcı gün ışığında değil, arayışa alan bırakan yarı aydınlıkta görünür."
+    },
+    "durak-15-pascal-in-bahsi": {
+      "image": "/images/summary-art-124-chapter-14-wager-table-v1.webp",
+      "imageCaption": "Kesin bilgi yokken Pascal sonsuz sonuç ihtimalini karar masasındaki bahis hesabına sokar."
+    },
+    "durak-16-benlik-neden-sevilmek-ister": {
+      "image": "/images/summary-art-124-chapter-15-mirror-of-approval-v1.webp",
+      "imageCaption": "Benlik başkalarının aynasında kusursuz görüntü aradıkça gerçek haliyle görülmekten korkabilir."
+    },
+    "durak-17-duzenler-akil-beden-ve-kalp": {
+      "image": "/images/summary-art-124-chapter-16-three-orders-v1.webp",
+      "imageCaption": "Beden, zihin ve kalp başarıları farklı cetveller ister; birinin üstünlüğü diğerine otomatik çevrilemez."
+    }
+  }
+}

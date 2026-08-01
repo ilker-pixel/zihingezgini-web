@@ -1,0 +1,330 @@
+{
+  "bookNo": 275,
+  "title": "Büyük Resim",
+  "author": "Sean Carroll",
+  "subtitle": "Evrenin fizik yasalarından canlılığa, bilinçten ahlaka ve anlam arayışına kadar uzanan büyük resmi doğaüstüne başvurmadan ama insan deneyimini küçültmeden kuran modern bilim anlatısı.",
+  "coverImage": "/images/summary-art-275-buyuk-resim-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/275-buyuk-resim-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4B6670",
+  "meta": {
+    "originalTitle": "The Big Picture",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Sean Carroll tarafından yazılan Büyük Resim adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Sean Carroll - The Big Picture",
+      "url": "https://www.preposterousuniverse.com/bigpicture/"
+    },
+    {
+      "id": 2,
+      "title": "Penguin Random House - The Big Picture",
+      "url": "https://www.penguinrandomhouse.com/books/316664/the-big-picture-by-sean-carroll/"
+    },
+    {
+      "id": 3,
+      "title": "Caltech - Sean Carroll",
+      "url": "https://www.caltech.edu/about/news/sean-carroll-joins-caltech-faculty"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Evrenin fizik yasalarından canlılığa, bilinçten ahlaka ve anlam arayışına kadar uzanan büyük resmi doğaüstüne başvurmadan ama insan deneyimini küçültmeden kuran modern bilim anlatısı.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-siirsel-naturalizm",
+      "section": "BAŞLANGIÇ · İKİ DİL",
+      "title": "Şiirsel natüralizm",
+      "paragraphs": [
+        "Carroll'a göre tek doğal dünya vardır; fakat onu farklı düzeylerde doğru ve yararlı hikâyelerle anlatırız. Atom dili gerçek diye sevgi dili sahte olmaz.",
+        "Bir golü kuarklarla açıklamak mümkün olsa da maçın heyecanını anlamak için oyuncu, kural ve taraftar dili gerekir.",
+        "Farklı hikâyeler keyfi değildir; birbirleriyle ve kanıtla uyumlu olmalıdır. Şiirsel sözcüğü sınırsız hayal izni vermez.",
+        "Bir tartışmada hangi açıklama düzeyinin soruya uygun olduğunu sormak gereksiz 'ya fizik ya anlam' kavgasını azaltır."
+      ]
+    },
+    {
+      "id": "durak-03-cekirdek-kuram-neyi-aciklar",
+      "section": "BİRİNCİ KISIM · FİZİK",
+      "title": "Çekirdek kuram neyi açıklar?",
+      "paragraphs": [
+        "Gündelik maddenin parçacık ve kuvvetlerini açıklayan mevcut fizik olağan koşullarda son derece başarılıdır. Carroll buna Çekirdek Kuram der.",
+        "Masadaki kaşığın davranışı için bilinmeyen gizli yaşam kuvvetine ihtiyaç duymayız; atom ve elektromanyetizma yeterlidir.",
+        "Kuram evrenin her sorusunu çözmez; karanlık madde, kuantum kütleçekimi ve başlangıç koşulları açıktır. İddia gündelik maddenin alanıyla sınırlıdır.",
+        "Yeni olağanüstü etki iddiasında mevcut deneylerle neden görülmediğini sormak bilimin güçlü filtresidir."
+      ]
+    },
+    {
+      "id": "durak-04-olasilikla-dusunmek",
+      "section": "BİRİNCİ KISIM · BAYES",
+      "title": "Olasılıkla düşünmek",
+      "paragraphs": [
+        "Bilgi kesinlikten çok yeni kanıtla güncellenen inanç dereceleridir. Bayesçi düşünme, önceki bilgiyi ve kanıtın farklı açıklamalarda ne kadar beklendiğini birlikte tartar.",
+        "Gece ses duyduğunuzda hırsız ihtimali vardır; ama kediniz varsa ve pencere kapalıysa olasılık değişir.",
+        "Sayı vermek her zaman kolay değildir ve kötü başlangıç varsayımı sonucu çarpıtabilir. Yöntemin değeri hangi kanıtın fikri değiştireceğini açık etmektir.",
+        "Bir iddiada 'Beni ne ikna ederdi?' sorusunu önceden yazmak düşünceyi takım tutmaktan çıkarır."
+      ]
+    },
+    {
+      "id": "durak-05-entropi-ve-zamanin-oku",
+      "section": "İKİNCİ KISIM · ZAMAN",
+      "title": "Entropi ve zamanın oku",
+      "paragraphs": [
+        "Temel yasalar çoğu zaman geçmiş ve gelecek yönünü ayırmaz; gündelik zaman oku evrenin düşük entropili başlangıcından doğar. Düzenli durumlar daha olası dağınıklığa gider.",
+        "Kırılan bardak kendiliğinden birleşmez; çünkü dağınık molekül düzeni birleşmiş halden sayısız kez fazladır.",
+        "Entropi basitçe düzensizlik değildir; mümkün mikrodurumların sayısıyla ilgilidir. Yaşam yerel düzen kurarken çevreye daha çok entropi yayabilir.",
+        "Zamanın akışını yalnız saat değil iz, hafıza ve geri döndürülemez süreçlerle düşünmek kavramı somutlaştırır."
+      ]
+    },
+    {
+      "id": "durak-06-buyuk-patlama-baslangic-mi",
+      "section": "İKİNCİ KISIM · KOZMOLOJİ",
+      "title": "Büyük Patlama başlangıç mı?",
+      "paragraphs": [
+        "Evren geçmişte çok sıcak ve yoğundu; genişledikçe galaksiler oluştu. Büyük Patlama uzay içinde patlama değil uzayın kendisinin genişlemesidir.",
+        "Üzümlü kek kabarırken her üzüm diğerlerinden uzaklaşır; merkez kekin içinde özel bir nokta değildir.",
+        "Benzetme sınırlıdır ve ilk anın nedenini açıklamaz. Bilim gözlenebilir geçmişi güçlü biçimde kurar, mutlak başlangıç hakkında daha ihtiyatlıdır.",
+        "Kozmoloji haberinde ölçülen olgu ile henüz spekülatif başlangıç hikâyesini ayırmak büyüyü azaltmadan doğruluğu korur."
+      ]
+    },
+    {
+      "id": "durak-07-kuantum-dunyasi",
+      "section": "İKİNCİ KISIM · OLASILIK",
+      "title": "Kuantum dünyası",
+      "paragraphs": [
+        "Kuantum mekaniği nesnelere klasik kesin yollar yerine dalga fonksiyonu ve olasılık yapısı verir. Ölçümün ne anlama geldiği konusunda yorumlar sürer.",
+        "Kapalı kutudaki elektronun küçük bilye gibi gizli tek konumu olduğunu varsaymak deney sonuçlarını her zaman doğru anlatmaz.",
+        "Kuantum sözcüğü düşüncenin gerçekliği yarattığına dair sınırsız izin değildir. Kuram kesin matematik ve deneyle sınanır.",
+        "Kuantumu sağlık veya bilinç iddiasında kullanan kişiden ölçülebilir mekanizma istemek bilimsel kavramı süsten ayırır."
+      ]
+    },
+    {
+      "id": "durak-08-karmasiklik-nasil-dogar",
+      "section": "ÜÇÜNCÜ KISIM · BELİRGİNLİK",
+      "title": "Karmaşıklık nasıl doğar?",
+      "paragraphs": [
+        "Basit kurallar çok parçanın etkileşiminde kasırga, hücre veya ekonomi gibi yeni düzenler üretebilir. Üst düzey kavramlar alt fizik ile uyumlu ama ona indirgenmeden yararlıdır.",
+        "Tek su molekülü ıslak değildir; çok sayıda molekül birleşince ıslaklık anlamlı özellik olur.",
+        "Belirme gizli doğaüstü güç değildir. Üst düzey örüntünün dayanıklı ve açıklayıcı oluşudur.",
+        "Bir sorunu molekül düzeyinde açıklayabilmekle doğru karar düzeyinde açıklamak arasındaki farkı görmek büyük resmin ana becerisidir."
+      ]
+    },
+    {
+      "id": "durak-09-yasamin-amaci-disaridan-gelmez",
+      "section": "ÜÇÜNCÜ KISIM · YAŞAM",
+      "title": "Yaşamın amacı dışarıdan gelmez",
+      "paragraphs": [
+        "Canlılık enerji kullanıp kendini sürdüren, çoğalan ve evrimleşen düzenler kurar. Bu amaçlı görünüş dışarıdan plan değil doğal seçilimle oluşabilir.",
+        "Göz görmek için yapılmış gibi durur; nesiller boyunca daha iyi gören varyasyonların seçilmesi bu işlevi tasarımcı olmadan açıklar.",
+        "Yaşamın kökeninin bütün adımları bilinmiyor. Evrim güçlü açıklama olsa da ilk kendi-kopyalayan sistem araştırma konusudur.",
+        "Bilmediğimiz boşluğu doğrudan kesin cevapla doldurmamak, hem bilime hem hayrete daha çok alan bırakır."
+      ]
+    },
+    {
+      "id": "durak-10-bilinc-buyuk-resimde-nereye-oturur",
+      "section": "DÖRDÜNCÜ KISIM · ZİHİN",
+      "title": "Bilinç büyük resimde nereye oturur?",
+      "paragraphs": [
+        "Carroll zihnin beynin karmaşık işleyişinden beliren bir süreç olduğunu savunur. Deneyim gerçektir; ayrı maddesiz ruh varsayımı için fiziksel kanıt görmez.",
+        "Müzik hoparlörden doğar diye melodi sahte olmaz. Beyin etkinliğinden doğan acı ve sevinç de yaşanan gerçekliktir.",
+        "Bilincin öznel niteliğinin tam açıklaması açık sorudur. Fizikselcilik güçlü çerçeve sunar ama bütün ayrıntıları çözmüş değildir.",
+        "Beyin bağlantısını kabul etmek insan deneyimini küçültmek değil bakım ve sorumluluğu somutlaştırmak olabilir."
+      ]
+    },
+    {
+      "id": "durak-11-ozgur-irade-hangi-duzeyde",
+      "section": "DÖRDÜNCÜ KISIM · SEÇİM",
+      "title": "Özgür irade hangi düzeyde?",
+      "paragraphs": [
+        "Atomlar yasaya uyuyor diye seçim dili gereksiz olmaz. İnsan düzeyinde nedenleri tartan, plan yapan ve davranışını değiştiren ajanlardan söz etmek geçerli üst düzey açıklamadır.",
+        "Satranç hamlesi fiziksel parçacık hareketidir; ama oyuncunun stratejisini anlatmak için neden seçtiğini sorarız.",
+        "Bu uyumcu görüş herkesin eşit seçeneğe sahip olduğunu söylemez. Bağımlılık, yoksulluk ve beyin hastalığı hareket alanını daraltır.",
+        "Sorumluluğu değerlendirirken hem kişinin düşünme kapasitesini hem gerçek seçeneklerini hesaba katmak daha insani sonuç verir."
+      ]
+    },
+    {
+      "id": "durak-12-ahlak-gokten-inmeden-ayakta-kalir-mi",
+      "section": "BEŞİNCİ KISIM · DEĞER",
+      "title": "Ahlak gökten inmeden ayakta kalır mı?",
+      "paragraphs": [
+        "Carroll ahlaki değerlerin evrenin temel parçacıkları arasında yazılı olmadığını, ortak yaşayan bilinçli varlıkların ihtiyaç ve hedeflerinden kurulduğunu savunur.",
+        "Acı çeken çocuğa yardım etmek için kozmik yasa levhası gerekmez; onun deneyimini önemsemek ve nasıl bir toplum istediğimizi tartışmak yeterlidir.",
+        "İnsan yapımı olmak keyfi olmak değildir. Para ve hukuk da insan yapımıdır ama gerçek sonuç taşır; ahlak gerekçe ve karşılıklılıkla sınanır.",
+        "Ahlaki tartışmada 'evren emrediyor mu?' yerine 'kim etkileniyor, hangi ilke herkese savunulabilir?' diye sormak üretkendir."
+      ]
+    },
+    {
+      "id": "durak-13-anlami-bulmak-mi-kurmak-mi",
+      "section": "BEŞİNCİ KISIM · ANLAM",
+      "title": "Anlamı bulmak mı kurmak mı?",
+      "paragraphs": [
+        "Doğa bize hazır amaç vermiyorsa hayat anlamsız olmak zorunda değildir. Sevgi, merak ve projelerle anlamı yaşayan varlıklar biziz.",
+        "Boş kâğıtta yazı yok diye kitap değersiz değildir; hikâyeyi yazma imkânı tam da boşluktan doğar.",
+        "Kendi anlamını kurma sözü yoksulluk ve baskıyı küçümsememelidir. Anlam için zaman ve güvenlik de toplumsal olarak dağıtılır.",
+        "Size dışarıdan alkış gelmese de sürdürmek isteyeceğiniz ilişki ve uğraşları yazmak kişisel anlam haritası çıkarır."
+      ]
+    },
+    {
+      "id": "durak-14-olum-son-ise-hayat-kuculur-mu",
+      "section": "BEŞİNCİ KISIM · SONLULUK",
+      "title": "Ölüm son ise hayat küçülür mü?",
+      "paragraphs": [
+        "Carroll ölümden sonra kişisel bilincin sürdüğüne dair kanıt görmez. Sonluluk hayatı değersizleştirmek yerine her anı tekrarlanamaz kılabilir.",
+        "Bir konser bitecek diye müzik anlamsız olmaz; bitiş, dinlediğiniz dakikaya dikkat vermenizi sağlar.",
+        "Bu fikir yas tutan herkese teselli vermeyebilir ve soğuk dayatılmamalıdır. Felsefi görüş ile duygusal ihtiyaç farklı hızlarda ilerler.",
+        "Ölümü düşünmek bugün kime zaman ayırmak ve hangi işi ertelememek istediğimizi açıklığa kavuşturabilir."
+      ]
+    },
+    {
+      "id": "durak-15-on-emir-degil-on-dusunme-ilkesi",
+      "section": "ALTINCI KISIM · YAŞAMA SANATI",
+      "title": "On Emir değil on düşünme ilkesi",
+      "paragraphs": [
+        "Kitap kesin kozmik emirler yerine açık fikirli olma, kanıtı güncelleme, başkasının deneyimini önemseme ve hayatı amaçla kurma gibi pratik ilkeler önerir.",
+        "Yanıldığını fark edip fikrini değiştirmek zayıflık değil, zihnin yeni kanıta doğru çalıştığının işaretidir.",
+        "İlkeler çatışabilir ve formül her durumu çözmez. Etik yaşam sürekli muhakeme ve diyalog ister.",
+        "Karar öncesi olguyu, etkilenen kişiyi ve kendi yanılma payınızı ayrı satırlara yazmak şiirsel natüralizmi gündelik alışkanlığa çevirir."
+      ]
+    },
+    {
+      "id": "durak-16-bilimin-sinirini-bilmek",
+      "section": "ALTINCI KISIM · ALÇAKGÖNÜLLÜLÜK",
+      "title": "Bilimin sınırını bilmek",
+      "paragraphs": [
+        "Bilim doğa hakkında en güvenilir aracımızdır; fakat hangi hayatı seçmemiz gerektiğini tek başına söylemez. Olgudan değere geçerken insan hedefi gerekir.",
+        "Tıp bir tedavinin ömrü uzatacağını söyler; hasta o sürenin bedelini ve yaşam kalitesini değerleriyle tartar.",
+        "Sınır bilimi zayıflatmaz, sahte otoriteden korur. Aynı şekilde değer konuşması olguları yok sayamaz.",
+        "Tartışmada 'Bilim burada neyi ölçüyor, hangi tercih hâlâ bize kalıyor?' sorusunu ayırmak gereksiz kutuplaşmayı önler."
+      ]
+    },
+    {
+      "id": "durak-17-buyuk-resimde-insanin-yeri",
+      "section": "ALTINCI KISIM · BÜTÜN",
+      "title": "Büyük resimde insanın yeri",
+      "paragraphs": [
+        "İnsan evrenin merkezi değildir; yine de anlam ve değer üretebilen ender karmaşık yapılardan biridir. Küçüklük önemsizlik demek değildir.",
+        "Dev gökyüzü altında çocuğun elini tutmak kozmik ölçekte küçük, yaşayan iki bilinç için dünyalar kadar büyüktür.",
+        "İnsan ayrıcalığını abartmak çevreyi sömürmeye, tamamen silmek ise sorumluluktan kaçmaya yol açabilir. Ölçekler birlikte tutulmalıdır.",
+        "Kozmik tevazu ile gündelik merhameti aynı cümlede taşımak kitabın büyük resmini tamamlar."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Büyük Resim 'fizik her şeyi tek başına açıklıyor' veya duygular yalnız kimyadır demez. Tek doğal dünyanın farklı düzeylerde gerçek ve yararlı açıklamalar istediğini; bilimsel olgu ile insani değer dilinin birbirini yok etmeden çalışabileceğini savunur.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Kuantum, kozmoloji ve bilinç araştırmaları ilerlemeye devam ediyor; bazı ayrıntılar güncellenebilir. Kitabın kanıtı derecelendirme, açıklama düzeylerini ayırma ve doğa içinde anlam kurma çerçevesi ise güncelliğini koruyor.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Bu soruya hangi açıklama düzeyi gerçekten uygun? İddia hangi kanıtla değişirdi? Hazır kozmik amaç aramak yerine bugün hangi anlamı ve sorumluluğu kurabilirim?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Tek doğal evrende atomlardan bilinç ve anlama uzanan farklı açıklama katları vardır; hazır amaç yoksa bile değerli bir hayatı birlikte kurabiliriz.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-siirsel-naturalizm": {
+      "image": "/images/summary-art-275-chapter-01-poetic-naturalism-layers-v1.webp",
+      "imageCaption": "Atomlardan insan hikâyesine yükselen saydam katlar, tek dünyanın birden çok doğru dille anlatılmasını simgeler."
+    },
+    "durak-03-cekirdek-kuram-neyi-aciklar": {
+      "image": "/images/summary-art-275-chapter-02-core-theory-gears-v1.webp",
+      "imageCaption": "Birbirine oturan temel parçacık dişlileri, gündelik maddenin sağlam fizik açıklamasını temsil eder."
+    },
+    "durak-04-olasilikla-dusunmek": {
+      "image": "/images/summary-art-275-chapter-03-bayesian-scales-v1.webp",
+      "imageCaption": "Yeni kanıt geldikçe hareket eden terazi, inancın kesin hüküm değil güncellenen olasılık oluşunu gösterir."
+    },
+    "durak-05-entropi-ve-zamanin-oku": {
+      "image": "/images/summary-art-275-chapter-04-entropy-arrow-v1.webp",
+      "imageCaption": "Sağlam bardaktan dağılan parçalara uzanan ok, düşük entropiden olası durumlara giden zaman yönünü anlatır."
+    },
+    "durak-06-buyuk-patlama-baslangic-mi": {
+      "image": "/images/summary-art-275-chapter-05-expanding-raisin-space-v1.webp",
+      "imageCaption": "Birbirinden uzaklaşan noktalar, galaksilerin boşluğa saçılmasını değil uzayın genişlemesini simgeler."
+    },
+    "durak-07-kuantum-dunyasi": {
+      "image": "/images/summary-art-275-chapter-06-quantum-wave-paths-v1.webp",
+      "imageCaption": "Bir noktadan yayılan olası yollar, kuantum dünyasının klasik tek rota yerine olasılık yapısını gösterir."
+    },
+    "durak-08-karmasiklik-nasil-dogar": {
+      "image": "/images/summary-art-275-chapter-07-emergent-pattern-v1.webp",
+      "imageCaption": "Basit noktalardan yükselen karmaşık spiral, çok parçanın etkileşiminden yeni düzenin belirmesini anlatır."
+    },
+    "durak-09-yasamin-amaci-disaridan-gelmez": {
+      "image": "/images/summary-art-275-chapter-08-life-energy-loop-v1.webp",
+      "imageCaption": "Enerji akışıyla kendini sürdüren hücre döngüsü, canlı düzenin doğal süreçlerde kurulmasını gösterir."
+    },
+    "durak-10-bilinc-buyuk-resimde-nereye-oturur": {
+      "image": "/images/summary-art-275-chapter-09-brain-melody-v1.webp",
+      "imageCaption": "Beyinden yükselen melodi çizgisi, öznel deneyimin fiziksel süreçten doğarken gerçek kalmasını simgeler."
+    },
+    "durak-11-ozgur-irade-hangi-duzeyde": {
+      "image": "/images/summary-art-275-chapter-10-choice-levels-v1.webp",
+      "imageCaption": "Parçacık zemini üstündeki yol ayrımı, fiziksel nedensellik içinde insan düzeyinde anlamlı seçim dilini gösterir."
+    },
+    "durak-12-ahlak-gokten-inmeden-ayakta-kalir-mi": {
+      "image": "/images/summary-art-275-chapter-11-human-made-moral-bridge-v1.webp",
+      "imageCaption": "İnsanların birlikte kurduğu köprü, ahlakın kozmik levha olmadan ortak gerekçelerle ayakta kalmasını anlatır."
+    },
+    "durak-13-anlami-bulmak-mi-kurmak-mi": {
+      "image": "/images/summary-art-275-chapter-12-meaning-on-blank-page-v1.webp",
+      "imageCaption": "Boş sayfaya çizilen yol, hazır kozmik amaç yokken insanın anlam kurma özgürlüğünü simgeler."
+    },
+    "durak-14-olum-son-ise-hayat-kuculur-mu": {
+      "image": "/images/summary-art-275-chapter-13-finite-concert-v1.webp",
+      "imageCaption": "Sönen son nota, bir deneyimin bitmesinin onu değersiz değil benzersiz yapabileceğini gösterir."
+    },
+    "durak-15-on-emir-degil-on-dusunme-ilkesi": {
+      "image": "/images/summary-art-275-chapter-14-open-principles-v1.webp",
+      "imageCaption": "Taşa kazılı emir yerine açık pusula, değişen kanıt içinde yön veren ama düşünmeyi bitirmeyen ilkeleri anlatır."
+    },
+    "durak-16-bilimin-sinirini-bilmek": {
+      "image": "/images/summary-art-275-chapter-15-science-boundary-v1.webp",
+      "imageCaption": "Ölçüm cetveliyle pusulanın yan yana durması, olgusal bilgi ile değer seçiminin farklı ama ortak çalışan araçlar olduğunu gösterir."
+    },
+    "durak-17-buyuk-resimde-insanin-yeri": {
+      "image": "/images/summary-art-275-chapter-16-human-in-cosmos-v1.webp",
+      "imageCaption": "Yıldızlı genişlikte birbirinin elini tutan küçük insanlar, kozmik küçüklük ile yaşanan değeri birlikte gösterir."
+    }
+  }
+}

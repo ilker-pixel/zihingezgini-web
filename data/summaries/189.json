@@ -1,0 +1,330 @@
+{
+  "bookNo": 189,
+  "title": "Mitolojiler",
+  "author": "Roland Barthes",
+  "subtitle": "Güreşten bifteğe, deterjandan otomobile kadar sıradan kültür nesnelerinin nasıl masum görünüş altında sınıf, ulus, cinsiyet ve tüketim fikirlerini doğal gerçekmiş gibi sunduğunu çözen kısa, keskin göstergebilim yazıları.",
+  "coverImage": "/images/summary-art-189-mitolojiler-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/189-mitolojiler-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#62554F",
+  "meta": {
+    "originalTitle": "Mythologies",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Roland Barthes tarafından yazılan Mitolojiler adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Éditions du Seuil - Mythologies",
+      "url": "https://www.seuil.com/ouvrage/mythologies-roland-barthes/9782757841846"
+    },
+    {
+      "id": 2,
+      "title": "Encyclopaedia Britannica - Roland Barthes",
+      "url": "https://www.britannica.com/biography/Roland-Gerard-Barthes"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Roland Barthes",
+      "url": "https://iep.utm.edu/barthes/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Güreşten bifteğe, deterjandan otomobile kadar sıradan kültür nesnelerinin nasıl masum görünüş altında sınıf, ulus, cinsiyet ve tüketim fikirlerini doğal gerçekmiş gibi sunduğunu çözen kısa, keskin göstergebilim yazıları.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-mit-gundelik-sozun-ikinci-kati",
+      "section": "BAŞLANGIÇ · MİT NEDİR?",
+      "title": "Mit gündelik sözün ikinci katı",
+      "paragraphs": [
+        "Barthes için mit eski tanrı hikâyesi olmak zorunda değildir. Bir fotoğraf, reklam, yemek ya da spor gösterisi ikinci bir anlam taşıyıp tarihsel fikri doğal gerçek gibi sunabilir.",
+        "Takım elbiseli yöneticinin fotoğrafı yalnız bir insanı gösterir; aynı anda ciddiyet, hak etme ve otorite fikrini de taşır. İlk anlamın üstüne kültürel ikinci kat çıkar.",
+        "Her anlam mit değildir. Mit, kendi yapılmışlığını gizleyip 'zaten böyledir' etkisi yarattığında güç kazanır.",
+        "Gündelik görüntüye bakarken 'burada açıkça ne görüyorum ve bunun doğal saymam istenen ikinci mesajı ne?' sorusu kitabın ana aracıdır."
+      ]
+    },
+    {
+      "id": "durak-03-gureste-gercek-degil-okunabilir-adalet",
+      "section": "BİRİNCİ KISIM · GÖSTERİ",
+      "title": "Güreşte gerçek değil okunabilir adalet",
+      "paragraphs": [
+        "Profesyonel güreşte seyirci teknik sonuçtan çok açık işaretler ister. Kötü karakter yüzünde kötülüğü taşır, ceza büyütülür ve adalet sahnede görünür hale gelir.",
+        "Çizgi filmde kötü adamın karanlık pelerini gibi, güreşçi bedeni rolün altyazısıdır. Seyirci kimin haklı olduğunu anında okur.",
+        "Gösterinin yapay olması etkisiz olduğu anlamına gelmez. İnsan belirsiz gerçek hayattan farklı olarak kötünün açıkça cezalandırıldığı kısa ahlaki tiyatro yaşar.",
+        "Reality show ve siyasi mitinglerde de karakterler karmaşık kişiden okunabilir role dönüştürülebilir. Netlik arttıkça gerçekliğin gri alanı kaybolur."
+      ]
+    },
+    {
+      "id": "durak-04-biftegin-ulusal-kani",
+      "section": "BİRİNCİ KISIM · YEMEK",
+      "title": "Bifteğin ulusal kanı",
+      "paragraphs": [
+        "Biftek Barthes'ın Fransa'sında yalnız yiyecek değil güç, doğallık ve ulusal kimlik işaretidir. Az pişmiş kırmızı et, kültürel tercihi bedensel zorunluluk gibi gösterir.",
+        "Bayram yemeğinin 'bizden biri' olmanın ölçüsüne dönüşmesi gibi, tat toplumsal aidiyet taşır. Yemeği sevmemek yalnız damak değil kimlik sapması sayılabilir.",
+        "Barthes kısa denemede sınıf ve sömürge boyutunu her zaman derinleştirmez. Sofranın anlamı üretim ve emek zinciriyle tamamlanmalıdır.",
+        "Bugün kahve, veganlık veya yerel ürün tercihleri de benzer biçimde ahlaki ve siyasi kimlik işareti olabilir."
+      ]
+    },
+    {
+      "id": "durak-05-patates-kizartmasinin-masum-bayragi",
+      "section": "BİRİNCİ KISIM · YEMEK",
+      "title": "Patates kızartmasının masum bayrağı",
+      "paragraphs": [
+        "Patates kızartması sıradan eşlikçi görünürken Fransızlık, ev rahatlığı ve ortak tat hissi taşır. Günlük yiyecek ulusal kimliği sessizce yeniden kurar.",
+        "Stadyumda aynı yiyeceği paylaşan binlerce kişi, bayrak sallamadan da ortak ritüel yaşar. Tat hafızası siyasi sembolden daha derin çalışabilir.",
+        "Ulusal mutfak sabit değildir; göç, ticaret ve sömürgeyle sürekli değişir. Mit bu karışık tarihi saf köken gibi sunar.",
+        "Bir yemeğin 'gerçek sahibi' tartışıldığında tarifin yolculuğunu ve görünmez emeği araştırmak miti tarihe geri bağlar."
+      ]
+    },
+    {
+      "id": "durak-06-yeni-citroen-gokten-inen-nesne",
+      "section": "BİRİNCİ KISIM · TÜKETİM",
+      "title": "Yeni Citroën: gökten inen nesne",
+      "paragraphs": [
+        "Yeni otomobil sergilendiğinde makine olmaktan çıkıp kusursuz yüzeyli büyülü nesneye dönüşür. Üretim emeği ve mekanik karmaşa görünmez, tasarım neredeyse kutsal görünür.",
+        "Telefon tanıtımında cihazın fabrikası değil ışık altında kayan pürüzsüz kenarı gösterilir. Nesne yapılmış değil sanki kendiliğinden doğmuş gibidir.",
+        "Barthes tüketicinin yüzeye dokunarak nesneyi evcilleştirdiğini söyler. Hayranlık sahip olma arzusuna çevrilir.",
+        "Ürün lansmanında hangi işçilik, maden ve atığın kadraj dışı kaldığını sormak büyüyü bozup nesneyi toplumsal tarihe geri getirir."
+      ]
+    },
+    {
+      "id": "durak-07-deterjanin-derin-temizlik-tiyatrosu",
+      "section": "BİRİNCİ KISIM · REKLAM",
+      "title": "Deterjanın derin temizlik tiyatrosu",
+      "paragraphs": [
+        "Deterjan reklamları köpüğü kirin içine işleyen, onu ayıran ve temizliği derinden kurtaran canlı güç gibi anlatır. Kimyasal ürün ahlaki arınma tiyatrosu kurar.",
+        "Bembeyaz gömlek yalnız temiz değil iyi anne, düzenli ev ve saygın aile göstergesine dönüşür. Leke karakter kusuru gibi kodlanır.",
+        "Reklam gerçek işlevi tamamen uydurmaz; ürünü gündelik kaygı ve statü diliyle büyütür. İşlev ile hikâye birbirine eklenir.",
+        "Bugün cilt bakımı ve dijital güvenlik reklamlarında da 'derine nüfuz edip görünmez tehdidi temizleme' anlatısı tekrar eder."
+      ]
+    },
+    {
+      "id": "durak-08-oyuncak-yetiskin-dunyanin-provasi",
+      "section": "BİRİNCİ KISIM · ÇOCUKLUK",
+      "title": "Oyuncak yetişkin dünyanın provası",
+      "paragraphs": [
+        "Barthes oyuncakların çocuğa hazır yetişkin rollerini küçük ölçekte verdiğini söyler: asker, mutfak, kuaför, araç. Çocuk dünya kurmak yerine var olan dünyayı prova eder.",
+        "Minik alışveriş arabası çocuğa tüketici olmayı, oyuncak silah kahramanlığı belirli rol içinde öğretir. Oyun masumken sosyal senaryo taşır.",
+        "Çocuk oyuncağı dönüştürebilir; kutuyu uzay gemisi yapar. Barthes'ın eleştirisi çocuğun yaratıcılığını bazen küçümser.",
+        "Oyuncak seçerken yalnız eğlenceyi değil hangi rollerin mümkün, hangilerinin görünmez yapıldığını düşünmek faydalıdır."
+      ]
+    },
+    {
+      "id": "durak-09-striptizin-ciplakligi-ortmesi",
+      "section": "BİRİNCİ KISIM · BEDEN",
+      "title": "Striptizin çıplaklığı örtmesi",
+      "paragraphs": [
+        "Barthes striptizin bedeni özgürleştirmekten çok tüy, ışık, ritüel ve profesyonel hareketle cinselliği evcilleştirdiğini yazar. Çıplaklık gösterilirken güvenli gösteriye dönüştürülür.",
+        "Perde açıldıkça sır büyümek yerine koreografiyle kontrol altına alınır. Seyirci gerçek yakınlık değil kodlanmış görüntü alır.",
+        "Deneme döneminin erkek bakışını ve kadın öznesini sınırlı ele alır. Feminist analiz güç ve emek boyutunu daha ileri taşır.",
+        "Sosyal medyada 'doğal beden' sunumlarının bile ışık, poz ve platform kurallarıyla ne kadar düzenlendiğini aynı araçla görebiliriz."
+      ]
+    },
+    {
+      "id": "durak-10-sarap-ulusal-ve-ahlaki-icecek",
+      "section": "BİRİNCİ KISIM · İÇECEK",
+      "title": "Şarap: ulusal ve ahlaki içecek",
+      "paragraphs": [
+        "Şarap Fransız mitinde yalnız alkol değil sıcaklık, işçi gücü, entelektüel sohbet ve ulusal birlik simgesidir. Sınıflar farklı içse de ortak Fransızlık işareti olur.",
+        "Aynı bardak işçiye dayanıklılık, kentliye incelik, ülkeye gelenek anlatabilir. Nesne farklı çevrede farklı rol giyer.",
+        "Mit sağlık zararı, bağımlılık ve sömürge üretimini arka plana iter. Ulusal sıcaklık görüntüsü maddi bedeli unutturur.",
+        "Kahve ve enerji içeceği kültürlerinde de üretkenlik, aidiyet ve yaşam tarzı içeceğin tadından daha büyük mesaj taşır."
+      ]
+    },
+    {
+      "id": "durak-11-turistin-kor-rehberi",
+      "section": "BİRİNCİ KISIM · SEYAHAT",
+      "title": "Turistin kör rehberi",
+      "paragraphs": [
+        "Turistik rehber ülkeyi anıt, pitoresk sokak ve değişmez halk tiplerine indirger. Yaşayan toplum dekor, ziyaretçi ise önceden seçilmiş görüntülerin tüketicisi olur.",
+        "Bir şehri yalnız fotoğraf çekilecek beş noktadan görmek, evin yalnız vitrinine bakıp içinde kimlerin yaşadığını bildiğinizi sanmaktır.",
+        "Rehber yön bulmak için gereklidir; sorun seçimin tarafsız gerçeklik gibi sunulmasıdır. Kadraj her zaman dışarıda bir şey bırakır.",
+        "Seyahatte en az bir kez turistik rotanın dışında gündelik ulaşım, pazar ve mahalle hayatını izlemek miti tarihe ve emeğe bağlar."
+      ]
+    },
+    {
+      "id": "durak-12-einstein-in-beyni",
+      "section": "BİRİNCİ KISIM · BİLİM",
+      "title": "Einstein'ın beyni",
+      "paragraphs": [
+        "Popüler kültür Einstein'ın dehasını neredeyse ayrı çalışan mucize beyne dönüştürür. Düşünce, tarihsel bilim ağı ve emekten kopup tek organın büyüsüne bağlanır.",
+        "Ampulü yalnız son düğmeye basan kişinin icadı saymak gibi, bilimsel keşfi tek kafanın içinde kapatmak ortak birikimi görünmez yapar.",
+        "Bireysel yaratıcılık gerçektir; Barthes'ın hedefi kişiyi silmek değil dehayı doğaüstü nesneye çevirmektir.",
+        "Teknoloji girişimlerinde kurucu kültü, kamu araştırması ve ekip emeğini bugün de benzer biçimde gölgeleyebilir."
+      ]
+    },
+    {
+      "id": "durak-13-yeni-romana-karsi-kor-elestirmen",
+      "section": "BİRİNCİ KISIM · KÜLTÜR",
+      "title": "Yeni romana karşı kör eleştirmen",
+      "paragraphs": [
+        "Barthes bazı eleştirmenlerin anlamadığı yeniliği hastalık, saçmalık veya insan doğasına aykırılık diye dışladığını gösterir. Alışılmış biçim evrensel sanat ölçüsüne dönüşür.",
+        "Yeni müzikte ritmi bulamayan dinleyicinin 'bu müzik değil' demesi, kendi alışkanlığını türün sınırı saymasıdır.",
+        "Her yenilik değerli değildir; eleştiri gerekçesiz hayranlık da olmamalıdır. Mesele tanımadığını doğal olmayan diye reddetmemektir.",
+        "Dijital sanat ve yapay zekâ tartışmalarında önce eserin hangi yeni kuralı denediğini anlamak, sonra değerini tartmak daha dürüsttür."
+      ]
+    },
+    {
+      "id": "durak-14-burjuva-kendini-insanlik-diye-sunar",
+      "section": "İKİNCİ KISIM · İDEOLOJİ",
+      "title": "Burjuva kendini insanlık diye sunar",
+      "paragraphs": [
+        "Barthes'a göre egemen sınıf kendi tarihsel değerlerini sınıf adıyla değil sağduyu, doğallık ve insanlık adına sunar. Böylece çıkar görünmez, norm kalır.",
+        "Belirli aile tipini 'normal aile' diye adlandırınca diğerleri yalnız farklı değil eksik görünür. Sıfat kaybolur, özel biçim genel kural olur.",
+        "Burjuva kavramı bugünün parçalı sınıf yapısını tek başına açıklamayabilir. Fakat ayrıcalığın kendini tarafsız norm gibi sunması sürer.",
+        "Bir reklam 'herkesin istediği hayat' dediğinde o herkesin gelirini, cinsiyetini ve coğrafyasını sormak miti görünür kılar."
+      ]
+    },
+    {
+      "id": "durak-15-mit-tarihi-bosaltir",
+      "section": "İKİNCİ KISIM · DOĞALLAŞTIRMA",
+      "title": "Mit tarihi boşaltır",
+      "paragraphs": [
+        "Mit bir nesnenin nasıl oluştuğunu, kimlerin mücadele ettiğini ve kimin kazandığını siler. Sonuç sanki baştan beri öyleymiş gibi görünür; tarih doğaya dönüşür.",
+        "Bugünkü şehir meydanına bakıp yıkılan mahalleyi, işçiyi ve siyasi kararı bilmezseniz taşlar kendiliğinden dizilmiş sanılır.",
+        "Tarihi geri getirmek her sembolü yok etmez; anlamın seçim ve çatışma ürünü olduğunu gösterir.",
+        "Bir kural 'insan doğası' diye savunulduğunda geçmişte ne zaman başladığını araştırmak doğallaştırma büyüsünü bozar."
+      ]
+    },
+    {
+      "id": "durak-16-mit-depolitize-edilmis-sozdur",
+      "section": "İKİNCİ KISIM · SİYASET",
+      "title": "Mit depolitize edilmiş sözdür",
+      "paragraphs": [
+        "Mit güç ve çıkar ilişkisini görünmez kılarak tartışılabilir sorunu masum görüntüye çevirir. Yoksulluk kader, iş bölümü doğal yetenek, sömürge egzotik macera olur.",
+        "Düşük ücreti 'bu işler zaten böyle' diye anlatmak, sözleşme ve pazarlık gücünü konuşma dışına iter. Siyasi düzen doğa cümlesine saklanır.",
+        "Her gündelik tercih doğrudan propaganda değildir. Barthes yöntemi aşırı kullanılırsa insanlar hiçbir şeyden keyif alamayan şüphe makinesine dönüşebilir.",
+        "Ama eşitsizliği kaçınılmaz gösteren sözde 'zaten' kelimesini yakalamak, depolitize edilmiş soruyu yeniden tartışmaya açar."
+      ]
+    },
+    {
+      "id": "durak-17-mit-okuru-nasil-calisir",
+      "section": "İKİNCİ KISIM · OKUMA",
+      "title": "Mit okuru nasıl çalışır?",
+      "paragraphs": [
+        "Mit çözmek gizli komplocu bulmak değil, işaretin iki katını ayırmaktır. Önce nesnenin ne gösterdiğini, sonra bu görüntünün hangi kavramı doğal hale getirdiğini izlersiniz.",
+        "Reklamdaki dağ manzarası önce doğadır; ikinci katta saflık ve ahlaki temizlik ürüne taşınır. Suyun kaynağı ile şirketin karakteri aynı şeymiş gibi birleşir.",
+        "Okur kendi konumunu da sorgulamalıdır. Aynı işaret farklı sınıf ve kültürde başka çağrışım yapabilir; anlam tek anahtarla açılmaz.",
+        "İyi mit okuması kısa teşhisle yetinmez, dışarıda kalan emek ve tarihi araştırarak ikinci anlamın nasıl kurulduğunu gösterir."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Mitolojiler her sevilen nesnenin kötü propaganda olduğunu söylemez. Barthes gündelik zevkin nasıl ikinci anlam taşıdığını gösterir. Yöntemi 'her şey aslında gizli mesajdır' paranoyasına çevirmek, tarih ve somut kanıt yerine kolay şüphe üretir.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Sosyal medya, influencer estetiği ve marka kimliği Barthes'ın mit makinesini hızlandırdı. Ancak bugünün izleyicisi yalnız pasif alıcı değildir; içeriği yeniden yorumlar ve parodi yapar. Sınıfın yanında ırk, cinsiyet ve platform algoritmaları da analize eklenmelidir.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Bu görüntü ilk bakışta ne gösteriyor, ikinci katta neyi doğal saydırıyor? Hangi üretim tarihi ve emek kadraj dışında kalmış? 'Zaten böyledir' denilen şey gerçekten ne zaman ve kimin çıkarıyla böyle oldu?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Modern mit, tarihsel olarak kurulmuş sınıf, ulus ve tüketim fikirlerini sıradan görüntünün içine yerleştirip onları tartışılmaz doğa gibi hissettirir.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-mit-gundelik-sozun-ikinci-kati": {
+      "image": "/images/summary-art-189-chapter-01-second-story-sign-v1.webp",
+      "imageCaption": "Sıradan görüntünün üstüne kurulan ikinci anlam katı, tarihsel fikri doğanın kendisi gibi gösterebilir."
+    },
+    "durak-03-gureste-gercek-degil-okunabilir-adalet": {
+      "image": "/images/summary-art-189-chapter-02-wrestling-justice-v1.webp",
+      "imageCaption": "Güreş ringi gerçekçi dövüşten çok iyinin ve kötünün bedenlerle okunabildiği ahlaki tiyatrodur."
+    },
+    "durak-04-biftegin-ulusal-kani": {
+      "image": "/images/summary-art-189-chapter-03-steak-nation-v1.webp",
+      "imageCaption": "Biftek tabakta yalnız protein değil, güç ve ulusal aidiyet fikrini taşıyan kültürel işarettir."
+    },
+    "durak-05-patates-kizartmasinin-masum-bayragi": {
+      "image": "/images/summary-art-189-chapter-04-fries-flag-v1.webp",
+      "imageCaption": "Gündelik yiyecek sessiz bir bayrak gibi ortak ulusal tat ve aidiyet hissi kurabilir."
+    },
+    "durak-06-yeni-citroen-gokten-inen-nesne": {
+      "image": "/images/summary-art-189-chapter-05-citroen-cathedral-v1.webp",
+      "imageCaption": "Pürüzsüz otomobil üretim izlerini silip modern çağın gökten inmiş kutsal nesnesi gibi sergilenir."
+    },
+    "durak-07-deterjanin-derin-temizlik-tiyatrosu": {
+      "image": "/images/summary-art-189-chapter-06-detergent-foam-v1.webp",
+      "imageCaption": "Köpük yalnız kiri değil düzensizlik ve utanç fikrini de evden uzaklaştıran arınma kahramanı gibi sunulur."
+    },
+    "durak-08-oyuncak-yetiskin-dunyanin-provasi": {
+      "image": "/images/summary-art-189-chapter-07-toy-adult-world-v1.webp",
+      "imageCaption": "Hazır rol oyuncakları çocuğa yetişkin toplumunun iş ve cinsiyet düzenini küçük ölçekte prova ettirebilir."
+    },
+    "durak-09-striptizin-ciplakligi-ortmesi": {
+      "image": "/images/summary-art-189-chapter-08-staged-nudity-v1.webp",
+      "imageCaption": "Gösteri bedeni açarken ritüel ve koreografiyle gerçek yakınlığın belirsizliğini örter."
+    },
+    "durak-10-sarap-ulusal-ve-ahlaki-icecek": {
+      "image": "/images/summary-art-189-chapter-09-wine-myth-v1.webp",
+      "imageCaption": "Şarap tek içecekte emek, sohbet, sıcaklık ve ulusal birlik gibi farklı toplumsal anlamları toplar."
+    },
+    "durak-11-turistin-kor-rehberi": {
+      "image": "/images/summary-art-189-chapter-10-tourist-postcard-v1.webp",
+      "imageCaption": "Turistik rehber yaşayan toplumu pitoresk anıt ve değişmez tiplerden oluşan kartpostala çevirebilir."
+    },
+    "durak-12-einstein-in-beyni": {
+      "image": "/images/summary-art-189-chapter-11-einstein-brain-v1.webp",
+      "imageCaption": "Deha miti bilimsel ağı ve emeği silip keşfi tek mucize beynin doğal ürünü gibi gösterir."
+    },
+    "durak-13-yeni-romana-karsi-kor-elestirmen": {
+      "image": "/images/summary-art-189-chapter-12-critic-old-ruler-v1.webp",
+      "imageCaption": "Eleştirmen kendi alıştığı cetveli evrensel sayınca yeni biçimi anlamadan kusurlu ilan eder."
+    },
+    "durak-14-burjuva-kendini-insanlik-diye-sunar": {
+      "image": "/images/summary-art-189-chapter-13-class-as-humanity-v1.webp",
+      "imageCaption": "Egemen yaşam biçimi kendi sınıf adını silip kendini insanlığın doğal ve tarafsız normu diye sunabilir."
+    },
+    "durak-15-mit-tarihi-bosaltir": {
+      "image": "/images/summary-art-189-chapter-14-history-erased-v1.webp",
+      "imageCaption": "Mit yapım sürecini silerek tarihsel sonucu sanki doğanın baştan beri değişmez düzeniymiş gibi gösterir."
+    },
+    "durak-16-mit-depolitize-edilmis-sozdur": {
+      "image": "/images/summary-art-189-chapter-15-politics-under-cloth-v1.webp",
+      "imageCaption": "Mit, tartışılabilir güç ilişkisini doğal görüntünün altına saklayarak siyaseti konuşma dışına iter."
+    },
+    "durak-17-mit-okuru-nasil-calisir": {
+      "image": "/images/summary-art-189-chapter-16-myth-reader-lens-v1.webp",
+      "imageCaption": "Mit okuru görüntünün açık nesnesi ile onun sırtında taşınan doğal görünüşlü kültürel kavramı ayırır."
+    }
+  }
+}

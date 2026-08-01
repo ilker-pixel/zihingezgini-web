@@ -1,0 +1,330 @@
+{
+  "bookNo": 66,
+  "title": "Devlet",
+  "author": "Platon",
+  "subtitle": "Adalet nedir sorusunu bir insanın ruhundan ideal şehrin sınıflarına, eğitimden iktidara ve mağaranın gölgelerinden filozofun dönüşüne taşıyan; büyüleyici olduğu kadar tehlikeli siyasi sonuçlar da barındıran klasik diyalog.",
+  "coverImage": "/images/summary-art-66-devlet-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/66-devlet-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#5F5547",
+  "meta": {
+    "originalTitle": "Politeia / Republic",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bu çalışma, Platon tarafından yazılan Devlet adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Perseus Digital Library - Plato, Republic",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0168"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Plato's Ethics and Politics",
+      "url": "https://plato.stanford.edu/entries/plato-ethics-politics/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Plato's Republic",
+      "url": "https://iep.utm.edu/republic/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Adalet nedir sorusunu bir insanın ruhundan ideal şehrin sınıflarına, eğitimden iktidara ve mağaranın gölgelerinden filozofun dönüşüne taşıyan; büyüleyici olduğu kadar tehlikeli siyasi sonuçlar da barındıran klasik diyalog.",
+        "Bu rehber sınav notu gibi ezberlenecek maddeler sunmaz. Kitabın ana fikrini gündelik sahneler, tarihsel olaylar ve bugünün tartışmalarıyla yavaş yavaş kurar; zor kavramları adını duyduğumuz anda değil, ne işe yaradığını gördüğümüz anda tanımlar.",
+        "Yazarın güçlü yanları kadar kör noktaları da gösterilecektir. Böylece okur hem kitabın neden klasikleştiğini anlayabilir hem de her cümlesini tartışılmaz gerçek sanmadan kullanabilir."
+      ]
+    },
+    {
+      "id": "durak-02-bir-yasli-adamin-sakin-hesabi",
+      "section": "BİRİNCİ KİTAP · ADALET",
+      "title": "Bir yaşlı adamın sakin hesabı",
+      "paragraphs": [
+        "Diyalog yaşlı Kephalos'un evinde başlar. Yaşlılık ona göre arzuların gürültüsünün azaldığı, fakat yapılan haksızlıkların hesabının daha çok düşünüldüğü dönemdir. Para, iyi insanın borcunu ödeyip huzur bulmasına yardım edebilir.",
+        "Gece uyumadan önce kime ne borçlu olduğunuzu düşündüğünüzü hayal edin. Maddi rahatlık kaygıyı azaltabilir, ama dürüstlük yoksa para yalnız daha büyük hata imkânı verir.",
+        "Sokrates 'adalet doğruyu söylemek ve borcu ödemek midir?' diye sorar. Silahını delirmiş arkadaşına geri vermek sözleşmeye uygun, sonuç bakımından tehlikelidir. Kural bağlamdan bağımsız yetmez.",
+        "İlk bölüm kitabın yöntemini kurar: Tanıdık tanımı küçük karşı örnekle sınamak. Adalet slogan değil, zor durumda çalışması gereken ölçüdür."
+      ]
+    },
+    {
+      "id": "durak-03-dosta-iyilik-dusmana-kotuluk-mu",
+      "section": "BİRİNCİ KİTAP · ADALET",
+      "title": "Dosta iyilik, düşmana kötülük mü?",
+      "paragraphs": [
+        "Polemarchos adaleti dosta iyilik, düşmana zarar vermek diye tanımlar. Sokrates dost sandığımız kişinin kötü, düşman sandığımızın iyi olabileceğini; ayrıca zarar vermenin insanı daha kötü yaptığını söyler.",
+        "Mahalle kavgasında kendi grubunun her davranışını savunup karşı tarafa her cezayı uygun görmek kolaydır. Fakat yanlış kişiyi dost seçtiyseniz adalet sadakatin arkasında kaybolur.",
+        "Sokrates'in savı tartışmalıdır; tehlikeli kişiyi durdurmakla onu ahlaken bozmak aynı şey değildir. Yine de adaleti grup çıkarına indirgemeye güçlü itirazdır.",
+        "Bugünün kutuplaşmasında soru canlıdır: Bir eylemi yapan kişiye göre mi, herkese uygulanabilir ölçüye göre mi değerlendiriyoruz?"
+      ]
+    },
+    {
+      "id": "durak-04-thrasymakhos-masaya-vuruyor",
+      "section": "BİRİNCİ KİTAP · GÜÇ",
+      "title": "Thrasymakhos masaya vuruyor",
+      "paragraphs": [
+        "Thrasymakhos adaletin güçlünün çıkarından başka bir şey olmadığını savunur. Yasayı iktidar yapar ve kendi yararına uymayı adalet diye adlandırır. Diyalog bir anda ahlak dersinden iktidar analizine döner.",
+        "Oyunun kurallarını aynı zamanda kazanan takım yazıyorsa, faul tanımı onun işine yarayabilir. Thrasymakhos'un kuşkusu, düzenin tarafsız görünümünün arkasındaki çıkarı arar.",
+        "Sokrates yöneticinin gerçek sanatının yönetilenin iyiliğini gözetmesi gerektiğini söyler. Doktorluk doktorun değil hastanın yararına çalışır. Fakat kötü yöneticinin niçin gerçek yönetici sayılmayacağı tartışmalı bir kaçıştır.",
+        "Bu çatışma bugün de sürer: Hukuk yalnız güç dengesi midir, yoksa gücü yargılayacak bağımsız bir adalet ölçüsü kurulabilir mi?"
+      ]
+    },
+    {
+      "id": "durak-05-gyges-in-gorunmez-yuzugu",
+      "section": "İKİNCİ KİTAP · SINAV",
+      "title": "Gyges'in görünmez yüzüğü",
+      "paragraphs": [
+        "Glaukon görünmezlik sağlayan Gyges yüzüğünü anlatır. Yakalanmayacağından emin olan kişi yine de adil kalır mı? Çoğu insanın adaleti sevdiği için değil ceza korkusuyla uyguladığını öne sürer.",
+        "İnternette kimliğiniz tamamen gizli ve hiçbir kayıt yoksa aynı dili kullanır mıydınız? Görünmezlik, dış denetim kalkınca karakterin ne yaptığını sınayan modern bir soruya dönüşür.",
+        "Sokrates adaletin yalnız itibar değil ruhun düzeni olduğunu kanıtlamaya çalışacaktır. Haksızlık yapan kişi yakalanmasa bile kendi iç yapısını bozar.",
+        "Yine de kurum tasarımı için yüzüğün dersi açıktır: İyi niyete güvenmek yetmez; güç kullananı görünür ve hesap verebilir kılmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-06-sehir-neden-buyuyor",
+      "section": "İKİNCİ KİTAP · ŞEHRİN DOĞUŞU",
+      "title": "Şehir neden büyüyor?",
+      "paragraphs": [
+        "Sokrates adaleti büyük harflerle görmek için şehir kurar. İnsan tek başına bütün ihtiyaçlarını karşılayamadığı için iş bölümü doğar; çiftçi, dokumacı ve marangoz birbirine bağımlı hale gelir.",
+        "Bir apartmanda herkes ekmek, elektrik ve tamiri tek başına üretmeye çalışsa hayat durur. Uzmanlık verimi artırır ama karşılıklı bağımlılığı da büyütür.",
+        "Glaukon sade şehri domuzlar şehri diye küçümseyip lüks ister. Lüks ihtiyaçları, toprak talebini ve savaşı getirir. Arzu büyüdükçe siyasi düzen karmaşıklaşır.",
+        "Platon'un sahnesi tüketim ile güç arasında bağ kurar: İhtiyaç listesi sonsuz genişlediğinde yalnız bireysel bütçe değil, ortak kaynak ve dış politika da değişir."
+      ]
+    },
+    {
+      "id": "durak-07-koruyucularin-iki-egitimi",
+      "section": "ÜÇÜNCÜ KİTAP · EĞİTİM",
+      "title": "Koruyucuların iki eğitimi",
+      "paragraphs": [
+        "Şehrin koruyucuları hem sert hem yumuşak olmalıdır: Düşmana cesur, yurttaşa ölçülü. Platon bu denge için müzik ve beden eğitimini birlikte düşünür.",
+        "Yalnız kas çalıştıran bekçi kaba güce, yalnız şiir dinleyen bekçi eylemsiz duyarlılığa kayabilir. İyi eğitim ritim, hikâye, beden ve alışkanlığı aynı karakterde birleştirir.",
+        "Platon eğitimin yalnız bilgi aktarmadığını, duygunun neye sevgi ve tiksinti duyacağını biçimlendirdiğini görür. Bu güçlü sezgi sansür fikrine de kapı açar.",
+        "Bugün çocukların izlediği hikâyeler hakkında konuşurken aynı gerilim vardır: Kültür karakteri etkiler, ama tek otoritenin hangi hikâyenin güvenli olduğuna karar vermesi de tehlikelidir."
+      ]
+    },
+    {
+      "id": "durak-08-sair-neden-kapida-kaliyor",
+      "section": "ÜÇÜNCÜ VE ONUNCU KİTAP · SANAT",
+      "title": "Şair neden kapıda kalıyor?",
+      "paragraphs": [
+        "Platon taklit sanatının duyguları büyütüp aklı zayıflatabileceğinden korkar. Tanrıları kötü, kahramanları ölçüsüz gösteren şiirler koruyucuların ruhunu yanlış örneklerle eğitebilir.",
+        "Sürekli öfke ve intikam hikâyesi izleyen çocuğun dünyayı öyle okumaya başlaması mümkündür. Platon bu etkiden hareketle anlatıyı sıkı denetlemek ister.",
+        "Sorun, sanatın yalnız kötü örnek değil empati, eleştiri ve hayal gücü de üretmesidir. Şairi kovmak, iktidarı rahatsız eden sesi susturmanın kolay aracına dönüşebilir.",
+        "Medya düzenlemesinde aynı soru sürer: Zarar veren içeriği sınırlarken kimin zevkini ve siyasetini evrensel ölçü diye dayatıyoruz?"
+      ]
+    },
+    {
+      "id": "durak-09-ruhun-uc-sesi",
+      "section": "DÖRDÜNCÜ KİTAP · RUH",
+      "title": "Ruhun üç sesi",
+      "paragraphs": [
+        "Platon ruhu akıl, öfke-onur ve arzu olmak üzere üç eğilimle düşünür. Adalet, her parçanın uygun işini yapması ve aklın bütünü yönetmesidir.",
+        "Sabah koşmak isteyen akıl, yatakta kalmak isteyen arzu ve kendine verdiği sözü tutmak isteyen gurur aynı kişide çekişebilir. İç çatışma, ruhun tek sesli olmadığını düşündürür.",
+        "Model modern psikoloji değildir ve aklı her zaman tarafsız kral saymak sorunludur. Akıl arzunun avukatı gibi de çalışabilir. Yine de iç düzen fikri karakter eğitimine güçlü dil verir.",
+        "Adil olmak Platon'da yalnız başkasına kural uygulamak değil, insanın kendi güçleri arasında sürdürülebilir denge kurmasıdır."
+      ]
+    },
+    {
+      "id": "durak-10-sehrin-uc-sinifi",
+      "section": "DÖRDÜNCÜ KİTAP · DÜZEN",
+      "title": "Şehrin üç sınıfı",
+      "paragraphs": [
+        "Ruhun üç parçası şehirde yöneticiler, koruyucular ve üreticiler olarak yansıtılır. Adalet herkesin kendi işini yapması ve diğer sınıfın görevine karışmamasıdır.",
+        "Orkestrada kemancı davulu, davulcu şefliği aynı anda yapmaya kalkarsa düzen bozulur. Platon toplumsal uyumu uzmanlaşmış rollerin koordinasyonu gibi görür.",
+        "Fakat insanı doğuştan tek role yerleştirmek özgürlüğü ve toplumsal hareketliliği kısıtlar. 'Kendi işini yap' sözü iktidarın ayrıcalığını koruyan emre dönüşebilir.",
+        "Modern demokratik toplum, uzmanlık ihtiyacı ile herkesin yönetim hakkında söz hakkı arasındaki gerilimi Platon'dan farklı çözer."
+      ]
+    },
+    {
+      "id": "durak-11-asil-yalan-ve-metal-masali",
+      "section": "ÜÇÜNCÜ KİTAP · KURUCU HİKÂYE",
+      "title": "Asil yalan ve metal masalı",
+      "paragraphs": [
+        "Platon yurttaşlara aynı toprağın çocukları olduklarını ve ruhlarında altın, gümüş ya da tunç bulunduğunu anlatan kurucu bir masal önerir. Amaç sınıfları ortak şehre bağlamaktır.",
+        "Bir ülkenin ders kitaplarında herkesin tek büyük ailenin parçası olarak anlatılması dayanışma yaratabilir. Fakat aile hikâyesi eşitsiz görevleri doğal gösteriyorsa sorgulama zorlaşır.",
+        "Platon yetenekli çocuğun sınıf değiştirebileceğini söylese de masal yönetilenlere bilinçli yanlış anlatmayı meşrulaştırır. İyi amaçla propaganda arasındaki sınır kırılgandır.",
+        "Bugün siyasi mitleri değerlendirirken yalnız birleştirici güce değil, kimin çıkarını görünmez kıldığına da bakmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-12-kadin-koruyucularin-sasirtici-kapisi",
+      "section": "BEŞİNCİ KİTAP · KADINLAR",
+      "title": "Kadın koruyucuların şaşırtıcı kapısı",
+      "paragraphs": [
+        "Platon kadınların da uygun yetenekleri varsa koruyucu ve yönetici olabileceğini söyler. Bedensel farklar, aynı işi yapma kapasitesini bütünüyle belirlemez; bu fikir antik bağlamda sarsıcıdır.",
+        "Kel erkek ile uzun saçlı erkeğin ayakkabıcılık yapabilmesi gibi, cinsiyet farkı da iş için ilgili yetenek değilse engel sayılmamalıdır. Platon işlevsel ölçü arar.",
+        "Yine de kadınları çoğu yerde daha zayıf diye geneller ve özgürlüğü bireysel hak olarak değil devletin iyi koruyucu ihtiyacı için savunur. Eşitlik araçsaldır.",
+        "Bölüm klasik metinlerin aynı anda hem zamanının ötesine geçip hem kendi çağının sınırını taşıyabileceğini gösterir."
+      ]
+    },
+    {
+      "id": "durak-13-aileyi-kaldirmak-neyi-cozer",
+      "section": "BEŞİNCİ KİTAP · ORTAKLIK",
+      "title": "Aileyi kaldırmak neyi çözer?",
+      "paragraphs": [
+        "Koruyucu sınıfta özel aile ve mülkiyet kaldırılır. Platon, yöneticilerin çocuk ve servet çıkarı peşinde koşmasını önleyip bütün şehri aile gibi görmesini ister.",
+        "Hakemin maçta kendi çocuğu oynuyorsa tarafsızlığı zorlaşır. Platon çıkar çatışmasını kökten kesmek için hakemin aile bağını bile ortadan kaldırır.",
+        "Çözüm insan ilişkilerini devlet planına teslim eder; eş seçimi ve çocuk yetiştirme üzerinde ağır denetim kurar. Yolsuzluğu önleme amacı totaliter bir özel hayat müdahalesine dönüşür.",
+        "Bugünün dersi aileyi kaldırmak değil, kamu görevlilerinde çıkar çatışmasını şeffaf kurallarla sınırlamaktır. Amaç ile araç arasındaki oran sürekli sınanmalıdır."
+      ]
+    },
+    {
+      "id": "durak-14-filozof-kral-neden-istenir",
+      "section": "BEŞİNCİ VE ALTINCI KİTAP · YÖNETİM",
+      "title": "Filozof kral neden istenir?",
+      "paragraphs": [
+        "Platon'a göre şehirler filozoflar yönetmedikçe ya da yöneticiler gerçekten felsefe öğrenmedikçe kötülük bitmez. Çünkü iktidar isteyen kişi çoğu zaman kendi çıkarını, hakikati seven filozof ise bütünün iyiliğini arar.",
+        "Gemide yolcular dümeni ele geçirmek için kavga ederken yıldızları ve rüzgârı bilen kaptanı işe yaramaz sayabilir. Devlet gemisi benzetmesi uzmanlık ile popüler çekişme arasındaki farkı anlatır.",
+        "Sorun, kimin gerçek filozof olduğuna kimin karar vereceğidir. Bilgili yönetici denetlenmezse kendi yanılmazlığına inanabilir. Uzmanlık, hesap verebilirliğin yerine geçmez.",
+        "Modern çözüm tek bilge kral değil; uzman bilgiyi seçim, hukuk, özgür basın ve güçler ayrılığıyla dengeleyen kurumlar kurmaktır."
+      ]
+    },
+    {
+      "id": "durak-15-iyi-ideasinin-gunesi",
+      "section": "ALTINCI KİTAP · BİLGİ",
+      "title": "İyi ideasının güneşi",
+      "paragraphs": [
+        "Platon güneşi görünen şeyleri aydınlatan kaynak, İyi ideasını ise bilginin ve varlığın anlaşılmasını sağlayan en yüksek ilke olarak düşünür. İyi yalnız bir nesne değil, diğer değerleri ölçen ışıktır.",
+        "Karanlık odada eşyalar vardır ama seçilemez; ışık gelince biçimler görünür. Platon'a göre zihin de tek tek doğruların ötesinde neyin neden değerli olduğunu görecek ölçüye ihtiyaç duyar.",
+        "Kavram yücedir ama belirsizdir. İyiyi bildiğini söyleyen yönetici, eleştiriyi karanlıkta kalmakla suçlayabilir. Metafizik ölçü siyasi güvence sağlamaz.",
+        "Gündelik hayatta ise yararlı soru bırakır: Başarı, hız ve kazancı hangi daha yüksek ölçüyle değerlendiriyoruz? Ölçüsüz veri karar vermez."
+      ]
+    },
+    {
+      "id": "durak-16-magaranin-golgeleri",
+      "section": "YEDİNCİ KİTAP · MAĞARA",
+      "title": "Mağaranın gölgeleri",
+      "paragraphs": [
+        "Mahkûmlar çocukluktan beri mağarada zincirlenmiş, duvardaki gölgeleri gerçek sanmıştır. Biri çözülüp dışarı çıktığında ışık önce acı verir; sonra gölgelerin kaynağını ve güneşi görür.",
+        "Yalnız kısa videolarla dünyayı tanıyan birinin kameranın arkasındaki seçimi, kesmeyi ve çıkarı hiç görmediğini düşünün. Ekrandaki akış mağara duvarı olabilir.",
+        "Aydınlanan kişinin geri dönmesi gerekir; bilgi kişisel kaçış değil ortak sorumluluktur. Fakat mahkûmlar alıştıkları gerçekliği bozan kişiye öfkelenebilir.",
+        "Benzetme güçlüdür ama tehlikesi vardır: Kendini dışarı çıkmış sayan kişi herkesi cahil görebilir. Gerçek aydınlanma, eleştiriden muafiyet değil daha fazla alçakgönüllülük istemelidir."
+      ]
+    },
+    {
+      "id": "durak-17-rejimlerin-asagi-dogru-merdiveni",
+      "section": "SEKİZİNCİ KİTAP · REJİMLER",
+      "title": "Rejimlerin aşağı doğru merdiveni",
+      "paragraphs": [
+        "Platon ideal yönetimden timokrasiye, oligarşiye, demokrasiye ve tiranlığa doğru bozulma sırası çizer. Her rejim ruhun bir arzusunu büyütür: onur, para, sınırsız özgürlük ve sonunda tek kişinin tutkusu.",
+        "Evde hiçbir kuralı kabul etmeyen özgürlük, en güçlü kişinin diğerlerini susturduğu düzene dönebilir. Platon demokrasinin sınır tanımaz arzularından tiranın doğduğunu düşünür.",
+        "Demokrasi eleştirisi elitist ve tek yanlıdır; eşit yurttaşlık, barışçıl iktidar değişimi ve denetim imkânlarını küçümser. Antik Atina deneyimi modern anayasal demokrasiyle aynı değildir.",
+        "Yine de demagogun özgürlük diliyle yükselip kurumları içeriden yıkması konusunda rahatsız edici bir uyarı taşır. Demokrasi yalnız seçim değil, kural ve özdenetim ister."
+      ]
+    },
+    {
+      "id": "durak-18-yaygin-yanlis-okuma",
+      "section": "SON DURAKLAR",
+      "title": "Yaygın yanlış okuma",
+      "paragraphs": [
+        "Devlet yalnız uygulanacak ideal anayasa değildir; adalet, ruh ve eğitim üzerine kurulmuş bir düşünce deneyidir. Fakat baskıcı sonuçları 'sadece mecaz' diyerek silmek de yanlıştır: Sansür, seçkin yönetim ve özel hayat denetimi metinde gerçek siyasi öneriler olarak bulunur.",
+        "Bir düşünceyi tek cümlelik slogana çevirmek kolaydır; fakat bu kitapta asıl değer, iddianın hangi koşullarda geçerli olduğunu ve nerede sınırlandığını izlemektir. Okur, yazarın açıklamasını ahlaki emir ya da değişmez kader gibi almamalıdır.",
+        "En güvenli okuma yöntemi, her güçlü cümlenin yanına iki küçük soru koymaktır: Burada hangi örnek kanıt sayılıyor ve hangi karşı örnek bu fikri zorlayabilir? Böylece kitap hayranlık nesnesi değil, çalışan bir düşünce aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-19-bugunden-bakinca",
+      "section": "SON DURAKLAR",
+      "title": "Bugünden bakınca",
+      "paragraphs": [
+        "Modern demokrasi, bireysel haklar ve çoğulculuk Platon'un şehrinden farklı ilkeler kurdu. Yine de propaganda, uzmanlık, çıkar çatışması, eğitim ve demagog soruları güncelliğini koruyor. Kitap hem güçlü soru kaynağı hem otoriter çözüm tehlikesi olarak okunmalıdır.",
+        "Kitabı bugünün bilgisiyle okumak onu çöpe atmak anlamına gelmez. Eskiyen ayrıntıları ayırıp hâlâ işe yarayan soruyu korumak, klasiklerden alınabilecek en büyük verimdir.",
+        "Bu nedenle rehber, yazarı son sözü söyleyen otorite gibi değil, düşünme biçimimizi değiştiren güçlü bir tartışma ortağı gibi ele alır."
+      ]
+    },
+    {
+      "id": "durak-20-gundelik-hayatta-kalan-uc-soru",
+      "section": "SON DURAKLAR",
+      "title": "Gündelik hayatta kalan üç soru",
+      "paragraphs": [
+        "Bir kural herkes için mi, yalnız benim grubum için mi adil? Beni yöneten uzman hangi denetime tabi? Gördüğüm şey gerçekliğin kendisi mi, yoksa biri tarafından seçilip duvara yansıtılmış bir gölge mi?",
+        "Bu üç soru evde, işte, haber okurken veya bir tartışmayı dinlerken kullanılabilir. Amaç her durumu kitaba uydurmak değil, gözden kaçan ilişkiyi görünür kılmaktır.",
+        "Bir kavram gündelik hayatı daha dikkatli görmemizi sağlıyor ama insanları kolay etiketlere hapsetmiyorsa, gerçekten işe yarıyor demektir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Adalet yalnız dışarıdaki yasa değil insanın ve şehrin iç düzenidir; fakat düzeni tek bir bilge sınıfa teslim etmek, iyilik arayışını özgürlüğü boğan bir iktidara çevirebilir.",
+        "Akılda kalacak son görüntü, tek bir cevabın kapıyı kapatması değil; iyi kurulmuş bir sorunun karanlık odada yeni bir pencere açmasıdır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-bir-yasli-adamin-sakin-hesabi": {
+      "image": "/images/summary-art-66-chapter-01-old-man-debt-v1.webp",
+      "imageCaption": "Adaletin basit borç ödeme kuralı, silahını isteyen tehlikeli arkadaş örneğinde çatlar."
+    },
+    "durak-03-dosta-iyilik-dusmana-kotuluk-mu": {
+      "image": "/images/summary-art-66-chapter-02-friend-enemy-scale-v1.webp",
+      "imageCaption": "Dostluk etiketi adalet ölçüsü olursa yanlış dost korunur, doğru düşman haksız yere cezalandırılabilir."
+    },
+    "durak-04-thrasymakhos-masaya-vuruyor": {
+      "image": "/images/summary-art-66-chapter-03-thrasymachus-table-v1.webp",
+      "imageCaption": "Thrasymakhos adalet perdesinin arkasında yasayı yazan gücün çıkarını görür."
+    },
+    "durak-05-gyges-in-gorunmez-yuzugu": {
+      "image": "/images/summary-art-66-chapter-04-ring-of-gyges-v1.webp",
+      "imageCaption": "Görünmezlik yüzüğü, ceza ve itibar kalktığında adaletin insan için hâlâ değerli olup olmadığını sınar."
+    },
+    "durak-06-sehir-neden-buyuyor": {
+      "image": "/images/summary-art-66-chapter-05-city-needs-v1.webp",
+      "imageCaption": "İş bölümü şehri kurar; sınırsız lüks arzusu ise toprağı, rekabeti ve savaşı çağırır."
+    },
+    "durak-07-koruyucularin-iki-egitimi": {
+      "image": "/images/summary-art-66-chapter-06-music-gymnastics-v1.webp",
+      "imageCaption": "Platon koruyucunun karakterini müzikle yumuşatıp beden eğitimiyle güçlendirmeyi amaçlar."
+    },
+    "durak-08-sair-neden-kapida-kaliyor": {
+      "image": "/images/summary-art-66-chapter-07-poet-at-gate-v1.webp",
+      "imageCaption": "Sanatın karakteri etkileyen gücü Platon'u büyüler, fakat bu kaygı şairi şehirden kovacak kadar sertleşir."
+    },
+    "durak-09-ruhun-uc-sesi": {
+      "image": "/images/summary-art-66-chapter-08-three-part-soul-v1.webp",
+      "imageCaption": "Akıl, onur ve arzu aynı ruhta farklı yönlere çeker; adalet bu güçlerin düzenli uyumudur."
+    },
+    "durak-10-sehrin-uc-sinifi": {
+      "image": "/images/summary-art-66-chapter-09-city-three-classes-v1.webp",
+      "imageCaption": "Platon adaleti sınıfların uyumunda bulur, fakat bu düzen bireyi kalıcı role hapsetme tehlikesi taşır."
+    },
+    "durak-11-asil-yalan-ve-metal-masali": {
+      "image": "/images/summary-art-66-chapter-10-myth-of-metals-v1.webp",
+      "imageCaption": "Metal masalı ortaklık üretirken toplumsal hiyerarşiyi doğanın emri gibi gösterebilir."
+    },
+    "durak-12-kadin-koruyucularin-sasirtici-kapisi": {
+      "image": "/images/summary-art-66-chapter-11-women-guardians-v1.webp",
+      "imageCaption": "Platon kadınlara koruyuculuk kapısını açar, ancak eşitliği bireysel özgürlükten çok devletin ihtiyacıyla savunur."
+    },
+    "durak-13-aileyi-kaldirmak-neyi-cozer": {
+      "image": "/images/summary-art-66-chapter-12-common-family-v1.webp",
+      "imageCaption": "Özel çıkarı önlemek için aileyi kaldırmak, yolsuzluğa karşı aşırı ve baskıcı bir devlet çözümü üretir."
+    },
+    "durak-14-filozof-kral-neden-istenir": {
+      "image": "/images/summary-art-66-chapter-13-ship-and-philosopher-v1.webp",
+      "imageCaption": "Devlet gemisi bilgiye ihtiyaç duyar, fakat kaptanın bilgisini denetleyecek ortak kurallar da gerekir."
+    },
+    "durak-15-iyi-ideasinin-gunesi": {
+      "image": "/images/summary-art-66-chapter-14-sun-of-good-v1.webp",
+      "imageCaption": "Güneş göz için neyse İyi ideası da zihin için odur: Şeyleri ve değerlerini görünür kılan ölçü."
+    },
+    "durak-16-magaranin-golgeleri": {
+      "image": "/images/summary-art-66-chapter-15-cave-shadows-v1.webp",
+      "imageCaption": "Mağara gölgeleri, alışkanlık ve düzen tarafından gerçek sanılan sınırlı görüntüleri temsil eder."
+    },
+    "durak-17-rejimlerin-asagi-dogru-merdiveni": {
+      "image": "/images/summary-art-66-chapter-16-regime-staircase-v1.webp",
+      "imageCaption": "Platon sınırsız arzunun demagogu, demagogun da tiranı besleyebileceğini anlatan karanlık bir rejim merdiveni çizer."
+    }
+  }
+}
