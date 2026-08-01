@@ -1,0 +1,342 @@
+{
+  "bookNo": 23,
+  "title": "Taş Devri Ekonomisi",
+  "author": "Marshall Sahlins",
+  "subtitle": "Avcı-toplayıcıların sürekli açlık içinde yaşadığı ezberini tersine çeviren; üretim, armağan ve değiş tokuşun kültür ile akrabalık içinde nasıl anlam kazandığını gösteren antropoloji klasiği.",
+  "coverImage": "/images/summary-cover-23-tas-devri-ekonomisi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/23-tas-devri-ekonomisi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#9A5D3D",
+  "meta": {
+    "originalTitle": "Stone Age Economics",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Elinde daha çok eşya bulunan kişi mi zengindir, yoksa az şeye ihtiyaç duyup gününün büyük bölümünü kendine ayırabilen kişi mi? Sahlins bu rahatsız edici soruyla modern ekonominin kıtlık hikâyesini taş devrine doğru çevirir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Routledge - Stone Age Economics",
+      "url": "https://www.routledge.com/Stone-Age-Economics/Sahlins/p/book/9780202010991"
+    },
+    {
+      "id": 2,
+      "title": "Smithsonian Libraries - Stone Age Economics",
+      "url": "https://www.si.edu/object/stone-age-economics-marshall-sahlins%3Asiris_sil_17685"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Avcı-toplayıcıların sürekli açlık içinde yaşadığı ezberini tersine çeviren; üretim, armağan ve değiş tokuşun kültür ile akrabalık içinde nasıl anlam kazandığını gösteren antropoloji klasiği.",
+        "Kitap altı bağlantılı incelemeden oluşur. 'İlkel' gibi bugün haklı olarak sorunlu görülen dönem sözcüklerini aktarırken insanları küçümseyen anlamı değil, Sahlins'in ekonomik önyargıya yönelttiği eleştiriyi izleyeceğiz.",
+        "Bir kampın ateşi başında yiyecek paylaşımından bir şefin üretimi artırma çabasına kadar her sahne aynı şeyi sorar: İnsanlar yalnız en fazla malı mı ister, yoksa akrabalık, güven, itibar ve boş zaman da ekonomik kararın parçası mıdır?"
+      ]
+    },
+    {
+      "id": "durak-02-bolluk-iki-ayri-yoldan-kurulabilir",
+      "section": "BİRİNCİ KISIM · KITLIK EZBERİ",
+      "title": "Bolluk iki ayrı yoldan kurulabilir",
+      "paragraphs": [
+        "Sahlins bolluğun yalnız çok üretmekle değil, sınırlı istekleri kolay karşılamakla da mümkün olduğunu söyler. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Biri daha büyük dolap alıp doldurmak için fazla mesai yaparken, diğeri az eşyayla yaşayıp öğleden sonrasını dostlarıyla geçirir; iki hayatın zenginlik ölçüsü aynı değildir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Bu karşılaştırma yoksulluğu romantikleştirmez; hastalık, bebek ölümü ve mevsimsel açlık gerçek tehlikelerdir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir satın alma kararında yalnız fiyatı değil, eşyanın kazanılması ve bakımı için harcanacak hayat saatini de hesaba katmak fikri bugüne taşır. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-03-ilk-bolluk-toplumu-iddiasi",
+      "section": "BİRİNCİ KISIM · AVCI-TOPLAYICI HAYAT",
+      "title": "İlk bolluk toplumu iddiası",
+      "paragraphs": [
+        "Yazar avcı-toplayıcıları açlıktan kurtulmak için sabahtan geceye çalışan insanlar sayan eski resmi sorgular. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Kalahari ve Arnhem Land araştırmalarında yetişkinlerin yiyecek toplama için sanılandan daha sınırlı zaman harcadığı, dinlenme ve sohbet için vakit kaldığı gözlenmiştir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Ölçümler kısa dönemliydi ve yemek hazırlama ile çocuk bakımı özellikle kadınların emeğini eksik saymış olabilir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Bir istatistiği görürken hangi işlerin 'çalışma' sütununa girmediğini sormak, çarpıcı ortalamanın sakladığı emeği görünür kılar. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-04-tasinabilir-hayatin-esya-siniri",
+      "section": "BİRİNCİ KISIM · HAREKET",
+      "title": "Taşınabilir hayatın eşya sınırı",
+      "paragraphs": [
+        "Sık yer değiştiren topluluk için fazla eşya güvence değil taşınması gereken bir yüke dönüşebilir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Her birkaç haftada kamp toplayan bir aileye ikinci tencere armağan etmek, yerleşik evdeki gibi rahatlık değil kilometrelerce ek ağırlık verir. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Az eşya her zaman gönüllü sadelik değildir; mülksüzleştirme ve zorla göç aynı görüntüyü bambaşka acıyla yaratabilir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Evinizde bir yıldır kullanılmayan nesnenin size sağladığı güven ile kapladığı para, yer ve dikkat yükünü birlikte düşünmek öğreticidir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-05-kitlik-dogada-hazir-beklemez",
+      "section": "BİRİNCİ KISIM · İHTİYAÇ",
+      "title": "Kıtlık doğada hazır beklemez",
+      "paragraphs": [
+        "Ekonomi dersindeki sınırsız istekler ile sınırlı kaynaklar formülü, isteklerin kültür tarafından nasıl biçimlendiğini çoğu kez dışarıda bırakır. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Reklamı hiç görülmemiş yeni telefon özelliği dün eksiklik yaratmazken bugün eski cihazı birden yetersiz hissettirebilir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Su ve besin gibi maddi sınırlar yorumdan bağımsız biçimde ağırdır; kültür her kıtlığı hayal ürünü yapmaz. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir ihtiyacın ne zaman başladığını, kimin onu adlandırdığını ve karşılanmadığında hangi gerçek zararın doğduğunu ayırmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Kıtlık doğada hazır beklemez” ile Taş Devri Ekonomisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-ev-tipi-uretim-duzeni",
+      "section": "İKİNCİ KISIM · HANE",
+      "title": "Ev tipi üretim düzeni",
+      "paragraphs": [
+        "Sahlins küçük ölçekli toplumlarda üretimin merkezine soyut kârı değil, kendi geçimini sağlayan haneyi yerleştirir. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Aile tarlası ambar dolunca çalışmayı azaltabilir; fabrika ise satış ihtimali varken üretimi sırf yeterince yiyecek var diye durdurmaz. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Hane uyumlu tek kişi değildir; yaş, cinsiyet ve otorite farkları emeği adaletsiz dağıtabilir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Aile işletmesinde 'hepimiz için' denilen işin saatlerini kişilere göre yazmak, ortak hedefin içindeki eşitsizliği gösterebilir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-07-eksik-uretim-tembellik-degildir",
+      "section": "İKİNCİ KISIM · YETERLİLİK",
+      "title": "Eksik üretim tembellik değildir",
+      "paragraphs": [
+        "Topluluğun teknik olarak üretebileceğinden az üretmesi, ihtiyaç karşılandıktan sonra daha fazla çalışmayı anlamsız bulmasından doğabilir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Bir bahçıvan kışlık patatesi tamamlayınca pazarda para kazanmak için ikinci tarla açmak yerine çatısını onarır ve törene hazırlanır. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Düşük üretim her zaman özgür seçim değildir; zayıf toprak, hastalık ve sömürü kapasiteyi aşağı çekebilir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Bir işyerinde hedefin neden sürekli büyüdüğünü sormak, 'yapabiliyoruz' ile 'yapmalıyız' arasındaki sessiz sıçramayı açar. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Eksik üretim tembellik değildir” ile Taş Devri Ekonomisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-calisan-ile-tuketenlerin-dengesi",
+      "section": "İKİNCİ KISIM · CHAYANOV DENGESİ",
+      "title": "Çalışan ile tüketenlerin dengesi",
+      "paragraphs": [
+        "Bir hanenin çalışma şiddeti yalnız teknolojiye değil, çalışabilir üyeler ile bakılması gereken kişilerin oranına göre değişir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "İki yetişkin ve dört küçük çocuklu ev, aynı toprağa sahip dört yetişkinli evden kişi başına daha ağır emek baskısı yaşayabilir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Haneleri kapalı kutu saymak komşuluk yardımı, evlilik ve ortak depolama gibi dayanışmaları eksik bırakır. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bakım yükünü yalnız para gelirine bakarak değil, zamanı kimin verdiğini gösteren haftalık bir çizelgeyle değerlendirmek daha dürüsttür. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-09-sef-neden-daha-fazla-uretim-ister",
+      "section": "ÜÇÜNCÜ KISIM · YOĞUNLAŞMA",
+      "title": "Şef neden daha fazla üretim ister?",
+      "paragraphs": [
+        "Akrabalık ötesi tören, savaş, yardım ve itibar yükleri ortaya çıktığında siyasi önder haneleri ihtiyaçlarının üzerinde üretmeye yöneltebilir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Şef büyük şölen verip uzak grupları ağırlamak için her evden fazladan domuz ister; armağan barış ve saygınlık üretirken emeği artırır. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Önderlik yalnız sömürü değildir; kıtlıkta depoyu açmak ve çatışmayı önlemek gerçek kamusal yarar sağlayabilir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Bir kurumun ek çalışma talebinde kazancın kime, riskin ve yükün kime gittiğini ayrı ayrı yazmak yoğunlaşmanın siyasetini gösterir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Şef neden daha fazla üretim ister?” ile Taş Devri Ekonomisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-armaganin-icinde-iliski-vardir",
+      "section": "ÜÇÜNCÜ KISIM · HEDİYE",
+      "title": "Armağanın içinde ilişki vardır",
+      "paragraphs": [
+        "Mauss'u tartışan Sahlins'e göre armağan nesneyi el değiştiren çıplak mal olmaktan çıkarıp veren ile alan arasında süreli bir bağ kurar. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Komşunun düğünde taktığı altın yıllar sonra onun düğününde hatırlanır; fiyat etiketi yoktur ama unutulması ilişkinin soğuduğunu gösterebilir. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Her hediye sıcak dayanışma değildir; karşılık baskısı, itibar yarışı ve borçluluk da yaratabilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir armağan verirken alıcının özgürce reddedip reddedemeyeceğini düşünmek, cömertlik ile denetim arasındaki çizgiyi belirginleştirir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-11-hau-esyanin-geri-donme-ruhu",
+      "section": "ÜÇÜNCÜ KISIM · MAUSS'U OKUMAK",
+      "title": "Hau: Eşyanın geri dönme ruhu",
+      "paragraphs": [
+        "Sahlins Maori 'hau' anlatısını mistik bir eşya ruhundan çok, karşılıklılığın siyasi ve ahlaki mantığını düşünmek için kullanır. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Size gelen değerli armağanı üçüncü kişiye verip ondan daha büyük karşılık aldığınızda ilk vereni tümüyle unutmak çevrede haksızlık sayılabilir. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Maori kavramlarını Batılı sözleşme diline çevirmek yerli düşüncenin kendi bağlamını bozma riski taşır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Bir paylaşım zincirinde değeri ilk üreten kişinin nasıl hatırlandığını izlemek, dijital içerikten aile emeğine kadar görünmeyen borçları açar. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-12-uc-karsiliklilik-bicimi",
+      "section": "DÖRDÜNCÜ KISIM · DEĞİŞ TOKUŞ",
+      "title": "Üç karşılıklılık biçimi",
+      "paragraphs": [
+        "Sahlins karşılıklılığı genelleştirilmiş, dengeli ve olumsuz biçimler arasında düşünür. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Anne çocuğuna yemeğin hesabını çıkarmaz; iki komşu sırayla alet ödünç verir; pazarlıkçı turist ise satıcıdan en düşük fiyatı koparmaya çalışır. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Gerçek ilişkiler kutular arasında geçebilir; uzun süre karşılıksız kalan yardım bir gün hesaplı alışverişe dönüşebilir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Bir ilişkide karşılığın zamanı, miktarı ve konuşulma biçimi değiştiğinde yakınlığın nasıl değiştiğini gözlemek yararlıdır. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-13-yakinlik-degis-tokusun-tonunu-degistirir",
+      "section": "DÖRDÜNCÜ KISIM · TOPLUMSAL MESAFE",
+      "title": "Yakınlık değiş tokuşun tonunu değiştirir",
+      "paragraphs": [
+        "Akrabalık ve siyasi mesafe arttıkça paylaşımın cömertlikten sıkı dengeye veya çıkarcı pazarlığa kayma ihtimali yükselir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Aynı kişi kardeşine faizsiz borç, tanıdığına net geri ödeme tarihi, yabancıya ise peşin fiyat uygulayabilir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Yakınlar arasında da sömürü, yabancılar arasında da güven vardır; şema eğilimi anlatır, kişiyi kaderine kilitlemez. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Çevrimiçi pazarda yıldız puanı ve güvence sisteminin yabancılar arasındaki mesafeyi nasıl azalttığını düşünmek güncel bir sınamadır. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-14-havuzda-toplamak-ve-yeniden-dagitmak",
+      "section": "DÖRDÜNCÜ KISIM · MERKEZ",
+      "title": "Havuzda toplamak ve yeniden dağıtmak",
+      "paragraphs": [
+        "Bazı topluluklarda ürünler bir merkezde toplanır ve şölen, yardım ya da siyasi amaçla yeniden dağıtılır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Balıkçıların avın bir bölümünü ortak depoya vermesi, fırtınada denize çıkamayan ailenin aç kalmasını önler. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Merkez güvence sağlarken dağıtımı denetleyen kişiye ayrıcalık ve kayırma gücü verebilir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Vergi veya apartman aidatı tartışmasında yalnız ne kadar toplandığını değil, kararın şeffaflığını ve kimin yararlandığını izlemek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Havuzda toplamak ve yeniden dağıtmak” ile Taş Devri Ekonomisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-ticaret-ayni-zamanda-diplomasidir",
+      "section": "BEŞİNCİ KISIM · SINIRLAR",
+      "title": "Ticaret aynı zamanda diplomasidir",
+      "paragraphs": [
+        "Topluluklar arası değiş tokuşta fiyat, barış, statü ve yabancıyla kurulacak ilişkinin dili aynı pazarlığın içine girebilir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Uzak köyden gelen tüccara verilen fazladan kabuk yalnız malın bedeli değil, bir sonraki ziyaretin saldırısız geçmesi için işaret olabilir. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Ekonomik işleme her zaman dostluk yüklemek, zorunlu eşitsiz anlaşmaları süsleyebilir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Uluslararası bir tedarik kararında ucuzluk yanında bağımlılık, güven ve siyasi riskin de fiyatın parçası olduğunu görmek gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-16-romantik-tas-devri-tuzagi",
+      "section": "BEŞİNCİ KISIM · ELEŞTİRİ",
+      "title": "Romantik taş devri tuzağı",
+      "paragraphs": [
+        "Kitabın güçlü tersine çevirmesi, avcı-toplayıcı hayatı çatışmasız, eşit ve zahmetsiz bir cennet gibi okunduğunda kendi karikatürüne dönüşür. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Ortalama çalışma saati düşük görünürken su taşıyan, çocuk bakan veya yiyecek işleyen kişinin günü hesaba girmemiş olabilir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Sonraki araştırmalar Sahlins'in verilerini düzeltse de 'bolluğu kimin ölçüsüyle tanımlıyoruz?' sorusunu geçersiz kılmaz. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Çarpıcı bir sosyal bilim iddiasında örneklem, mevsim, cinsiyete göre emek ve sömürge etkisini dört ayrı satırda kontrol etmek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Romantik taş devri tuzağı” ile Taş Devri Ekonomisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-ekonomiyi-kulturun-icine-geri-koymak",
+      "section": "BEŞİNCİ KISIM · SONUÇ",
+      "title": "Ekonomiyi kültürün içine geri koymak",
+      "paragraphs": [
+        "Taş Devri Ekonomisi üretim ve değiş tokuşun evrensel kâr makinesinden değil, belirli ilişki ve değer düzenlerinden geçtiğini gösterir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Aynı keçi pazarda nakit, düğünde ittifak, yas töreninde saygı ve kıtlıkta yaşam güvencesi olabilir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Kültür maddi hesabı yok etmez; kalori, emek ve ekolojik sınır yine insanların seçeneğini belirler. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Bir ürünün yolunu hammaddeden hediyeye, işaret ettiği statüden atığa kadar izlemek ekonomik değerin tek sayı olmadığını gösterir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Sahlins insanların az çalıştığı kusursuz bir geçmişe dönmemizi önermez. Modern kıtlık anlayışının doğal ve tek seçenek olmadığını, ihtiyaç ile bolluğun toplumsal olarak da kurulduğunu gösterir.",
+        "Bir topluluğun az eşyayla yaşaması ne otomatik mutluluk ne otomatik sefalet kanıtıdır; sağlık, özerklik, bakım emeği ve zor kullanma birlikte incelenmelidir.",
+        "Taş Devri Ekonomisi için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser ekonomik antropolojinin en çok okunan klasiklerinden biri oldu; 'ilk bolluk toplumu' tezi büyüme, çalışma zamanı ve ihtiyaç hakkındaki tartışmaları kalıcı biçimde değiştirdi.",
+        "Araştırmacılar çalışma saati hesaplarının ev içi emeği eksik saydığını, kısa saha gözlemlerine dayandığını ve bazı avcı-toplayıcı yaşamlarını romantikleştirdiğini savundu; 'ilkel' sınıflandırmalar da bugün tarihsel dikkatle okunuyor.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Taş Devri Ekonomisi bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Bolluğu mal miktarıyla mı zaman ve güvenceyle mi ölçüyorum? Görünmeyen emeği kim yapıyor? Bir alışveriş aslında hangi ilişkiyi kuruyor?",
+        "Bu hafta aldığınız veya verdiğiniz üç şeyi seçin; her birinin para değerinin yanına taşıdığı güven, borç, itibar ya da yakınlık anlamını yazın.",
+        "Taş Devri Ekonomisi bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Ekonomi yalnız kıt malların hesabı değildir; insanların neyi yeterli saydığı, kiminle paylaştığı ve hangi ilişkiyi sürdürmek istediği üretimin kalbinde yer alır.",
+        "Akılda tutulacak son görüntü, günbatımında taşınabilir bir kamp, yarısı dolu sepet, paylaşım ateşi ve karşılıklı uzanan ellerin kiremit ile altın tonlarında tek bir dolaşıma bağlandığı bir manzaradır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Taş Devri Ekonomisi adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-bolluk-iki-ayri-yoldan-kurulabilir": {
+      "image": "/images/summary-art-23-chapter-01-bolluk-iki-ayri-yoldan-kurulabilir-v1.webp",
+      "imageCaption": "Bolluk iki ayrı yoldan kurulabilir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-ilk-bolluk-toplumu-iddiasi": {
+      "image": "/images/summary-art-23-chapter-02-ilk-bolluk-toplumu-iddiasi-v1.webp",
+      "imageCaption": "İlk bolluk toplumu iddiası düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-tasinabilir-hayatin-esya-siniri": {
+      "image": "/images/summary-art-23-chapter-03-tasinabilir-hayatin-esya-siniri-v1.webp",
+      "imageCaption": "Taşınabilir hayatın eşya sınırı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-kitlik-dogada-hazir-beklemez": {
+      "image": "/images/summary-art-23-chapter-04-kitlik-dogada-hazir-beklemez-v1.webp",
+      "imageCaption": "Kıtlık doğada hazır beklemez düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-ev-tipi-uretim-duzeni": {
+      "image": "/images/summary-art-23-chapter-05-ev-tipi-uretim-duzeni-v1.webp",
+      "imageCaption": "Ev tipi üretim düzeni düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-eksik-uretim-tembellik-degildir": {
+      "image": "/images/summary-art-23-chapter-06-eksik-uretim-tembellik-degildir-v1.webp",
+      "imageCaption": "Eksik üretim tembellik değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-calisan-ile-tuketenlerin-dengesi": {
+      "image": "/images/summary-art-23-chapter-07-calisan-ile-tuketenlerin-dengesi-v1.webp",
+      "imageCaption": "Çalışan ile tüketenlerin dengesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-sef-neden-daha-fazla-uretim-ister": {
+      "image": "/images/summary-art-23-chapter-08-sef-neden-daha-fazla-uretim-ister-v1.webp",
+      "imageCaption": "Şef neden daha fazla üretim ister? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-armaganin-icinde-iliski-vardir": {
+      "image": "/images/summary-art-23-chapter-09-armaganin-icinde-iliski-vardir-v1.webp",
+      "imageCaption": "Armağanın içinde ilişki vardır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-hau-esyanin-geri-donme-ruhu": {
+      "image": "/images/summary-art-23-chapter-10-hau-esyanin-geri-donme-ruhu-v1.webp",
+      "imageCaption": "Hau: Eşyanın geri dönme ruhu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-uc-karsiliklilik-bicimi": {
+      "image": "/images/summary-art-23-chapter-11-uc-karsiliklilik-bicimi-v1.webp",
+      "imageCaption": "Üç karşılıklılık biçimi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-yakinlik-degis-tokusun-tonunu-degistirir": {
+      "image": "/images/summary-art-23-chapter-12-yakinlik-degis-tokusun-tonunu-degistirir-v1.webp",
+      "imageCaption": "Yakınlık değiş tokuşun tonunu değiştirir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-havuzda-toplamak-ve-yeniden-dagitmak": {
+      "image": "/images/summary-art-23-chapter-13-havuzda-toplamak-ve-yeniden-dagitmak-v1.webp",
+      "imageCaption": "Havuzda toplamak ve yeniden dağıtmak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-ticaret-ayni-zamanda-diplomasidir": {
+      "image": "/images/summary-art-23-chapter-14-ticaret-ayni-zamanda-diplomasidir-v1.webp",
+      "imageCaption": "Ticaret aynı zamanda diplomasidir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-romantik-tas-devri-tuzagi": {
+      "image": "/images/summary-art-23-chapter-15-romantik-tas-devri-tuzagi-v1.webp",
+      "imageCaption": "Romantik taş devri tuzağı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-ekonomiyi-kulturun-icine-geri-koymak": {
+      "image": "/images/summary-art-23-chapter-16-ekonomiyi-kulturun-icine-geri-koymak-v1.webp",
+      "imageCaption": "Ekonomiyi kültürün içine geri koymak düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

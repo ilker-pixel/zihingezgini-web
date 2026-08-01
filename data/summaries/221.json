@@ -1,0 +1,342 @@
+{
+  "bookNo": 221,
+  "title": "Toplumsal Cinsiyet Belası",
+  "author": "Judith Butler",
+  "subtitle": "'Kadın', 'erkek', biyolojik cinsiyet, toplumsal cinsiyet ve arzunun doğal bir zincir gibi görünmesini sorgulayan; kimliğin tekrar edilen normlar içinde üretildiğini ve bu tekrarların farklı biçimde yapılabileceğini savunan queer kuram klasiği.",
+  "coverImage": "/images/summary-cover-221-toplumsal-cinsiyet-belasi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/221-toplumsal-cinsiyet-belasi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#8B496E",
+  "meta": {
+    "originalTitle": "Gender Trouble: Feminism and the Subversion of Identity",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir çocuk doğduğu anda renk, oyuncak, ses tonu ve gelecekte kimi seveceği hakkında görünmez bir senaryo çalışmaya başlar. Butler'ın sorusu, bu senaryonun yalnız dışarıdan giydirilen rol mü yoksa 'doğal kişi' dediğimiz şeyi de üreten tekrar mı olduğudur.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Routledge - Gender Trouble",
+      "url": "https://www.routledge.com/Gender-Trouble-Feminism-and-the-Subversion-of-Identity-1st-Edition/Butler/p/book/9780415389556"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Feminist Perspectives on Sex and Gender",
+      "url": "https://plato.stanford.edu/entries/feminism-gender/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "'Kadın', 'erkek', biyolojik cinsiyet, toplumsal cinsiyet ve arzunun doğal bir zincir gibi görünmesini sorgulayan; kimliğin tekrar edilen normlar içinde üretildiğini ve bu tekrarların farklı biçimde yapılabileceğini savunan queer kuram klasiği.",
+        "Performativite sahnede rol yapmak veya sabah istediğimiz kimliği seçmek değildir. Tekrar edilen söz, hareket, beklenti ve yaptırımların zaman içinde doğal bir öz varmış etkisi üretmesidir.",
+        "Butler feminizmi reddetmez; temsil edilen 'kadınlar' kategorisinin kimi içerip kimi dışarıda bıraktığını sorarak onu genişletmeye çalışır. Metin Freud, Lacan, Lévi-Strauss, Foucault, Kristeva ve Wittig'le yoğun tartışır; burada bu isimleri fikirlerinin yaptığı işe göre sadeleştireceğiz."
+      ]
+    },
+    {
+      "id": "durak-02-feminizmin-oznesi-kim",
+      "section": "BİRİNCİ KISIM · KADINLAR",
+      "title": "Feminizmin öznesi kim?",
+      "paragraphs": [
+        "Siyaset adına konuşacağı 'kadınlar' grubunu tek ve önceden hazır kimlik sayarsa ırk, sınıf, cinsellik ve kültür farklarını dışarıda bırakabilir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Orta sınıf beyaz kadının işyeri deneyimi tüm kadınların ortak sorunu ilan edildiğinde göçmen ev işçisinin hukuk ve ücret meselesi görünmez olur. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Ortak kategori olmadan örgütlenmek zorlaşır; Butler kategori yasaklamak yerine açık ve tartışılabilir tutmayı önerir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Bir kampanyada sözcünün deneyimini evrensel saymadan kimlerin masada olmadığını açıkça sormak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-03-temsil-once-ozneyi-kurar",
+      "section": "BİRİNCİ KISIM · İKTİDAR",
+      "title": "Temsil önce özneyi kurar",
+      "paragraphs": [
+        "Hukuk ve siyaset yalnız var olan grubu temsil etmez; hangi özellikte kişinin tanınabilir kadın veya yurttaş sayılacağını da belirler. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Form yalnız 'kadın/erkek' kutusu sunduğunda kimi kaydettiği kadar kutuya sığmayanı da idari olarak üretir. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Her sınıflandırma baskı değildir; sağlık ve eşitsizlik ölçümü bazen kategori gerektirir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir veri formunda kategorinin hangi amaçla kullanıldığını, kimin seçtiğini ve düzeltme imkânını incelemek gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ]
+    },
+    {
+      "id": "durak-04-cinsiyet-toplumsal-cinsiyet-arzu-zinciri",
+      "section": "BİRİNCİ KISIM · ZORUNLU DÜZEN",
+      "title": "Cinsiyet, toplumsal cinsiyet, arzu zinciri",
+      "paragraphs": [
+        "Egemen düzen bedeni iki cinsiyetten birine, onu uyumlu kadınlık veya erkekliğe ve karşı cinse yönelen arzuya doğal zincir gibi bağlar. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Bebek 'erkek' diye kaydedilince güçlü görünmesi ve ileride kadınları sevmesi sanki ilk işaretin içinden zorunlu çıkıyormuş gibi beklenir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Bedensel özelliklerin gerçekliği inkâr edilmez; onların hangi iki kutuda ve hangi toplumsal sonuçla okunduğu sorgulanır. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir beklentide beden bilgisiyle kültürel rol ve arzu varsayımını üç ayrı cümleye bölmek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Cinsiyet, toplumsal cinsiyet, arzu zinciri” ile Toplumsal Cinsiyet Belası kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-biyolojik-cinsiyet-de-yorumdan-bagimsiz-mi",
+      "section": "BİRİNCİ KISIM · BEDEN",
+      "title": "Biyolojik cinsiyet de yorumdan bağımsız mı?",
+      "paragraphs": [
+        "Butler toplumsal cinsiyetin kültürel, biyolojik cinsiyetin tümüyle doğal zemin sayılmasının bu zeminin tıp ve dil içinde nasıl sınıflandığını gizlediğini savunur. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Kromozom, hormon, organ ve doğurganlık aynı kişide her zaman iki kusursuz pakete uymadığında kurum hangi ölçütü asıl sayacağına karar verir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Biyoloji söylem içinde anlaşılır demek bedenin iradeyle uydurulduğu veya tıbbi gerçek bulunmadığı demek değildir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir bilimsel sınıflandırmada ölçülen özellik ile o özellikten çıkarılan toplumsal görevi birbirine karıştırmamak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-06-kimlik-bir-madde-gibi-gorunur",
+      "section": "İKİNCİ KISIM · TÖZ YANILSAMASI",
+      "title": "Kimlik bir madde gibi görünür",
+      "paragraphs": [
+        "Dil 'kadın naziktir' derken tekrar edilen davranışın arkasında bu davranışları üreten değişmez bir kadın özü varmış izlenimi kurar. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Yıllarca 'erkek ağlamaz' denilen çocuk gözyaşını sakladıkça sonuç kuralın kanıtı sanılır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Örüntülerin toplumsal üretilmesi bireysel deneyimi sahte yapmaz. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir özellik doğal ilan edildiğinde o özelliği öğretmek ve farklı davrananı cezalandırmak için harcanan emeği aramak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Kimlik bir madde gibi görünür” ile Toplumsal Cinsiyet Belası kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-dil-yalniz-ad-vermez",
+      "section": "İKİNCİ KISIM · SÖZ",
+      "title": "Dil yalnız ad vermez",
+      "paragraphs": [
+        "Sözler kişiyi tarif etmekle kalmayıp tanınabilir konuma çağırır ve davranış sınırı kurar. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "'Hanımefendi gibi otur' cümlesi bedeni düzeltirken kadınlığın nasıl görünmesi gerektiğini o anda uygular. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Dil her şeyi tek başına yapmaz; maddi kurum, şiddet ve ekonomik bağımlılık sözün gücünü taşır. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Sık kullanılan bir hitabın kişiye hangi davranış alanını açıp hangisini kapattığını gözlemek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-08-akrabalik-degis-tokusunda-kadin",
+      "section": "İKİNCİ KISIM · LÉVI-STRAUSS",
+      "title": "Akrabalık değiş tokuşunda kadın",
+      "paragraphs": [
+        "Yapısalcı akrabalık anlatısında erkek gruplar kadınları evlilik yoluyla değiş tokuş ederek ittifak kurar; Butler bu düzenin heteroseksüelliği nasıl varsaydığını açar. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "İki aile barış için kızlarını gelin verdiğinde kadın anlaşmanın öznesi değil dolaştırılan işareti olabilir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Her evlilik yalnız zorunlu değiş tokuş değildir; kişiler sevgi ve pazarlık gücü de taşır. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Bir aile kararında kimin adına kimin konuştuğunu ve rızanın hangi maddi koşulda verildiğini sormak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-09-yasak-arzuyu-da-uretir",
+      "section": "İKİNCİ KISIM · YASA",
+      "title": "Yasak arzuyu da üretir",
+      "paragraphs": [
+        "Ensest ve eşcinsellik yasakları yalnız önceden duran arzuyu bastırmaz; hangi bağın düşünülebilir ve hangi kimliğin normal olduğunu da üretir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Çocuğa sürekli 'erkekler erkeklerden hoşlanmaz' denmesi, yasaklanan ihtimali aynı anda adlandırır ve utançla çevreler. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Yasak her arzuyu yaratmaz ve kişinin yönelimini basit eğitim sonucu saymak doğru değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Bir kuralın yalnız engellediği davranışı değil, normal diye kurduğu özneyi de incelemek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-10-maske-arkasinda-ozgun-yuz-var-mi",
+      "section": "İKİNCİ KISIM · RIVIERE VE LACAN",
+      "title": "Maske arkasında özgün yüz var mı?",
+      "paragraphs": [
+        "Kadınlık maskesi fikrini tartışırken Butler maskenin arkasında saf ve önceden var olan kadın özü bulunup bulunmadığını sorar. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "İşyerinde başarılı kadın erkekleri ürkütmemek için aşırı nazik davranır; hangi tavrın gerçek, hangisinin maske olduğu kolayca ayrılmaz. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Toplumsal rol baskısı kişinin içsel süreklilik duygusunu bütünüyle silmez. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "'Gerçek ben' ararken hangi tavrın güvenlik, kabul ve ceza koşullarında öğrenildiğini görmek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-11-melankoli-ve-kaybedilmis-bag",
+      "section": "İKİNCİ KISIM · FREUD",
+      "title": "Melankoli ve kaybedilmiş bağ",
+      "paragraphs": [
+        "Butler bazı toplumsal cinsiyet kimliklerinin yasaklanmış aynı cins bağını inkâr ederek, kaybı benliğin içine alarak kurulabileceğini tartışır. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Oğlana erkek arkadaşına duyduğu yoğun sevginin adı yasaklanınca bağ açık yas yerine sert erkeklik taklidine dönüşebilir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Bu psikanalitik model her kişinin yönelim ve kimliğini açıklayan klinik yasa değildir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Aşırı sert bir kimlik kuralının hangi korku veya yasaklanmış yakınlığı koruyor olabileceğini kesin hüküm vermeden düşünmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Melankoli ve kaybedilmiş bağ” ile Toplumsal Cinsiyet Belası kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-12-heteroseksuel-matris",
+      "section": "ÜÇÜNCÜ KISIM · DÜZEN",
+      "title": "Heteroseksüel matris",
+      "paragraphs": [
+        "Beden, toplumsal rol ve arzuyu birbirine uyumlu iki kutuda tutan kültürel ızgara, yalnız belirli kişileri anlaşılır özne olarak tanır. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Kadın görünen bedenin feminen davranıp erkeği arzulaması beklenir; halkalardan biri değişince çevre 'sen nesin?' diye sorar. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Matris kavramı tüm heteroseksüel ilişkileri sahte veya baskıcı ilan etmez. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir kurumun hizmet vermek için hangi aile ve kimlik düzenini varsaydığını formlar, mekân ve dil üzerinden incelemek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-13-kristeva-sinir-disina-atilan-beden",
+      "section": "ÜÇÜNCÜ KISIM · DIŞLAMA",
+      "title": "Kristeva: Sınır dışına atılan beden",
+      "paragraphs": [
+        "Kristeva'nın iğrenç ve anne bedeni tartışmasını okuyan Butler, düzenin kendi sınırını dışladığı bedensel olan üzerinden kurduğunu gösterir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Temiz ve denetimli beden ideali kan, süt ve akışkanlığı saklar; saklanan şey döndüğünde kimlik huzursuz olur. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Bedensel tepki yalnız kültürel metin değildir; koku, hastalık ve korunma biyolojisi de rol oynar. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Bir tiksinmenin fiziksel tehlike mi yoksa öğrenilmiş sosyal sınır mı taşıdığını ayırmak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Kristeva: Sınır dışına atılan beden” ile Toplumsal Cinsiyet Belası kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-14-foucault-ve-herculine-in-hayati",
+      "section": "ÜÇÜNCÜ KISIM · SINIFLANDIRMA",
+      "title": "Foucault ve Herculine'in hayatı",
+      "paragraphs": [
+        "İnterseks Herculine Barbin'in hikâyesi tıbbi ve hukuki kurumların tek 'gerçek cinsiyet' bulma ısrarının kişiyi nasıl şekillendirdiğini gösterir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Bir yetişkinin yaşadığı kimlik doktor raporu ve mahkeme kararıyla başka kutuya zorlanınca ilişkileri, işi ve adı altüst olur. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Geçmiş kişinin deneyimini bugünkü kavramlara tam çevirmek risklidir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Tıbbi kararda bedensel sağlık, kişinin öz anlatısı ve kurumun sınıflandırma ihtiyacını birbirinden ayırmak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-15-wittig-kadin-dogal-sinif-degildir",
+      "section": "ÜÇÜNCÜ KISIM · SİYASİ KATEGORİ",
+      "title": "Wittig: Kadın doğal sınıf değildir",
+      "paragraphs": [
+        "Monique Wittig'den hareketle 'kadın' kategorisinin heteroseksüel ekonomik ve siyasi ilişki içinde üretildiği düşünülür. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Ev içi ücretsiz bakım doğal kadın görevi sayıldığında ekonomik düzen biyolojik kader gibi görünür. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Kategorinin siyasi üretimini vurgulamak kadınların bedensel ve tarihsel ortak baskılarını yok saymamalıdır. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir rolün doğallığı savunulduğunda kimin ücretsiz emeğinden ve ayrıcalığından yararlandığını sormak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Wittig: Kadın doğal sınıf değildir” ile Toplumsal Cinsiyet Belası kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-beden-uzerindeki-tekrarlar",
+      "section": "DÖRDÜNCÜ KISIM · PERFORMATİVİTE",
+      "title": "Beden üzerindeki tekrarlar",
+      "paragraphs": [
+        "Yürüyüş, kıyafet, ses, hitap ve yaptırım tekrarlandıkça toplumsal cinsiyet sanki bunlardan önce duran iç özün dış ifadesiymiş gibi görünür. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Her gün kravat takıp kalın sesle konuşması beklenen yönetici, beklentiyi yerine getirerek 'doğal otorite' görüntüsünü üretir. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Performativite özgür kostüm seçimi değildir; tekrarın dışına çıkmanın sosyal bedeli olabilir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Bir davranışı kimin ödüllendirdiğini, farklısını kimin alaya aldığını ve tekrarın nerede kırılabildiğini izlemek gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ]
+    },
+    {
+      "id": "durak-17-parodi-ve-siyasetin-siniri",
+      "section": "DÖRDÜNCÜ KISIM · ALTÜST ETME",
+      "title": "Parodi ve siyasetin sınırı",
+      "paragraphs": [
+        "Drag gibi parodiler doğal cinsiyetin de taklit edilen bir ideal olduğunu görünür kılabilir; kopyanın arkasında kusursuz özgün bulunmadığını gösterir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Abartılı kadınlık gösterisi, gündelik kadınlığın da öğrenilmiş jest ve işaretlerden kurulduğunu seyirciye fark ettirir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Her parodi düzeni yıkmaz; klişeyi güçlendirebilir ve piyasa tarafından kolayca soğurulabilir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir ihlalin yalnız şaşırtıp şaşırtmadığına değil kimin yaşayabileceği alanı genişletip genişletmediğine bakmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Performativite 'cinsiyet yalnız tiyatrodur, herkes istediği rolü seçer' demek değildir. Kimlik, kişinin seçmediği normlar ve yaptırımlar içinde tekrarlanır; yine de tekrar kusursuz olmadığı için dönüşüm alanı vardır.",
+        "Bir dili seçmeden içinde doğarız; kuralları bizi sınırlar ama her konuşma aynı cümleyi üretmez. Butler'ın toplumsal cinsiyet anlayışı da bu tür koşullu yaratıcılığa yakındır.",
+        "Toplumsal Cinsiyet Belası için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap queer kuramın kurucu metinlerinden biri oldu; kimlik, performativite ve heteroseksüel matris kavramları akademi, sanat ve toplumsal hareketlerde büyük etki yarattı.",
+        "Yoğun dili erişilmez bulunmuş; ilk baskıda ırk, sınıf ve maddi bedenin yeterince işlenmediği, parodinin siyasi gücünün abartıldığı ve biyolojik gerçekliğin yanlış anlaşılmaya açık bırakıldığı söylenmiştir.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Toplumsal Cinsiyet Belası bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Bu kategori kimi dışarıda bırakıyor? Doğal sandığım davranış hangi tekrar ve yaptırımla kuruluyor? İhlal gerçekten yaşam alanını genişletiyor mu?",
+        "Bir gün boyunca kadınlık veya erkeklikle ilgili duyduğunuz beş küçük düzeltmeyi not edin; sözü, bedeni, mekânı ve ödül-ceza biçimini ayrı sütunlara yazın.",
+        "Toplumsal Cinsiyet Belası bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Toplumsal cinsiyet içerideki değişmez özün dışa vurumu değil, normların tekrarında gerçeklik kazanan bir düzenlemedir; tekrar hiçbir zaman kusursuz olmadığı için kimlik ve siyaset açık kalır.",
+        "Akılda tutulacak son görüntü, erik, mercan ve gece mavisi tonlarında iki katı maskenin ince şeritlere çözülüp farklı beden siluetleri, konuşma balonları ve açık bir sahne çevresinde yeni desenler kurduğu cesur bir kolajdır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Toplumsal Cinsiyet Belası adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-feminizmin-oznesi-kim": {
+      "image": "/images/summary-art-221-chapter-01-feminizmin-oznesi-kim-v1.webp",
+      "imageCaption": "Feminizmin öznesi kim? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-temsil-once-ozneyi-kurar": {
+      "image": "/images/summary-art-221-chapter-02-temsil-once-ozneyi-kurar-v1.webp",
+      "imageCaption": "Temsil önce özneyi kurar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-cinsiyet-toplumsal-cinsiyet-arzu-zinciri": {
+      "image": "/images/summary-art-221-chapter-03-cinsiyet-toplumsal-cinsiyet-arzu-zinciri-v1.webp",
+      "imageCaption": "Cinsiyet, toplumsal cinsiyet, arzu zinciri düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-biyolojik-cinsiyet-de-yorumdan-bagimsiz-mi": {
+      "image": "/images/summary-art-221-chapter-04-biyolojik-cinsiyet-de-yorumdan-bagimsiz-mi-v1.webp",
+      "imageCaption": "Biyolojik cinsiyet de yorumdan bağımsız mı? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-kimlik-bir-madde-gibi-gorunur": {
+      "image": "/images/summary-art-221-chapter-05-kimlik-bir-madde-gibi-gorunur-v1.webp",
+      "imageCaption": "Kimlik bir madde gibi görünür düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-dil-yalniz-ad-vermez": {
+      "image": "/images/summary-art-221-chapter-06-dil-yalniz-ad-vermez-v1.webp",
+      "imageCaption": "Dil yalnız ad vermez düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-akrabalik-degis-tokusunda-kadin": {
+      "image": "/images/summary-art-221-chapter-07-akrabalik-degis-tokusunda-kadin-v1.webp",
+      "imageCaption": "Akrabalık değiş tokuşunda kadın düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-yasak-arzuyu-da-uretir": {
+      "image": "/images/summary-art-221-chapter-08-yasak-arzuyu-da-uretir-v1.webp",
+      "imageCaption": "Yasak arzuyu da üretir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-maske-arkasinda-ozgun-yuz-var-mi": {
+      "image": "/images/summary-art-221-chapter-09-maske-arkasinda-ozgun-yuz-var-mi-v1.webp",
+      "imageCaption": "Maske arkasında özgün yüz var mı? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-melankoli-ve-kaybedilmis-bag": {
+      "image": "/images/summary-art-221-chapter-10-melankoli-ve-kaybedilmis-bag-v1.webp",
+      "imageCaption": "Melankoli ve kaybedilmiş bağ düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-heteroseksuel-matris": {
+      "image": "/images/summary-art-221-chapter-11-heteroseksuel-matris-v1.webp",
+      "imageCaption": "Heteroseksüel matris düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-kristeva-sinir-disina-atilan-beden": {
+      "image": "/images/summary-art-221-chapter-12-kristeva-sinir-disina-atilan-beden-v1.webp",
+      "imageCaption": "Kristeva: Sınır dışına atılan beden düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-foucault-ve-herculine-in-hayati": {
+      "image": "/images/summary-art-221-chapter-13-foucault-ve-herculine-in-hayati-v1.webp",
+      "imageCaption": "Foucault ve Herculine'in hayatı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-wittig-kadin-dogal-sinif-degildir": {
+      "image": "/images/summary-art-221-chapter-14-wittig-kadin-dogal-sinif-degildir-v1.webp",
+      "imageCaption": "Wittig: Kadın doğal sınıf değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-beden-uzerindeki-tekrarlar": {
+      "image": "/images/summary-art-221-chapter-15-beden-uzerindeki-tekrarlar-v1.webp",
+      "imageCaption": "Beden üzerindeki tekrarlar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-parodi-ve-siyasetin-siniri": {
+      "image": "/images/summary-art-221-chapter-16-parodi-ve-siyasetin-siniri-v1.webp",
+      "imageCaption": "Parodi ve siyasetin sınırı düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "createdAt": "2026-08-01T18:39:02+00:00",
-  "updatedAt": "2026-08-01T20:06:43+00:00",
+  "updatedAt": "2026-08-01T21:33:14+00:00",
   "targetCharacters": 20000,
   "characterGate": [
     18500,
@@ -328,9 +328,18 @@
       "category": "Antropoloji & Ekonomi",
       "batch": 2,
       "position": 1,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T21:33:14+00:00"
     },
     {
       "no": 44,
@@ -339,9 +348,18 @@
       "category": "Zihin Felsefesi",
       "batch": 2,
       "position": 2,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T21:33:14+00:00"
     },
     {
       "no": 74,
@@ -350,9 +368,18 @@
       "category": "Doğu Felsefesi",
       "batch": 2,
       "position": 3,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T21:33:14+00:00"
     },
     {
       "no": 97,
@@ -361,9 +388,18 @@
       "category": "Siyaset Felsefesi",
       "batch": 2,
       "position": 4,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T21:33:14+00:00"
     },
     {
       "no": 140,
@@ -372,9 +408,18 @@
       "category": "Bilim Felsefesi",
       "batch": 2,
       "position": 5,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T21:33:14+00:00"
     },
     {
       "no": 160,
@@ -383,9 +428,18 @@
       "category": "Ekonomi Politik",
       "batch": 2,
       "position": 6,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T21:33:14+00:00"
     },
     {
       "no": 192,
@@ -394,9 +448,18 @@
       "category": "Sanat & Göstergebilim",
       "batch": 2,
       "position": 7,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T21:33:14+00:00"
     },
     {
       "no": 221,
@@ -405,9 +468,18 @@
       "category": "Feminist Felsefe",
       "batch": 2,
       "position": 8,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T21:33:14+00:00"
     },
     {
       "no": 120,
@@ -416,9 +488,18 @@
       "category": "Siyaset Felsefesi",
       "batch": 2,
       "position": 9,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T21:33:14+00:00"
     },
     {
       "no": 286,
@@ -427,9 +508,18 @@
       "category": "Eğitim Felsefesi",
       "batch": 2,
       "position": 10,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T21:33:14+00:00"
     },
     {
       "no": 25,

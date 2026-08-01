@@ -1,0 +1,342 @@
+{
+  "bookNo": 160,
+  "title": "Kapitalizm Sosyalizm ve Demokrasi",
+  "author": "Joseph Schumpeter",
+  "subtitle": "Kapitalizmin durağan pazar değil, yeniliğin eski işleri durmadan yıktığı bir süreç olduğunu; başarılarının kendi toplumsal dayanaklarını aşındırabileceğini ve demokrasinin liderler arasındaki rekabet yöntemi olarak işlediğini savunan büyük ekonomi politik eseri.",
+  "coverImage": "/images/summary-cover-160-kapitalizm-sosyalizm-ve-demokrasi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/160-kapitalizm-sosyalizm-ve-demokrasi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#8E5940",
+  "meta": {
+    "originalTitle": "Capitalism, Socialism and Democracy",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Tren hattı açıldığında yalnız daha hızlı ulaşım doğmaz; at arabası ustasının işi, hanların konumu ve kasabaların kaderi de değişir. Schumpeter kapitalizmin özünü, fiyatların sakin dengesi yerine bu gürültülü doğum ve yıkım anında bulur.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Routledge - Capitalism, Socialism and Democracy",
+      "url": "https://www.routledge.com/Capitalism-Socialism-and-Democracy-1st-Edition/Schumpeter/p/book/9780203202050"
+    },
+    {
+      "id": 2,
+      "title": "University of Connecticut - Capitalism, Socialism, and Democracy",
+      "url": "https://richard-langlois.uconn.edu/home/teaching/econ-5463-the-economics-of-organization/capitalism-socialism-and-democracy/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Kapitalizmin durağan pazar değil, yeniliğin eski işleri durmadan yıktığı bir süreç olduğunu; başarılarının kendi toplumsal dayanaklarını aşındırabileceğini ve demokrasinin liderler arasındaki rekabet yöntemi olarak işlediğini savunan büyük ekonomi politik eseri.",
+        "Kitabın başlığı üç ayrı rejim için basit yarışma vaat eder ama eser Marx yorumu, kapitalizmin geleceği, sosyalist planlama ve demokrasi kuramı arasında dolaşır. Schumpeter'in betimlediği süreçleri övdüğü veya her öngörüsünü kesin gördüğü sanılmamalıdır.",
+        "Yazarın paradoksu şudur: Kapitalizm yalnız başarısız olduğu için değil, başarılı olup büyük şirket, eğitimli uzman ve eleştirel aydın ürettiği için de kendi girişimci temelini zayıflatabilir. Aynı aykırı bakış demokrasiye de yönelir: Halkın tek bir ortak iradesi mi vardır, yoksa liderler oy için mi yarışır?"
+      ]
+    },
+    {
+      "id": "durak-02-marx-peygamber-sosyolog-iktisatci",
+      "section": "BİRİNCİ KISIM · MARX'I OKUMAK",
+      "title": "Marx: Peygamber, sosyolog, iktisatçı",
+      "paragraphs": [
+        "Schumpeter Marx'ı yalnız yanlışlanacak düşman değil, kapitalizmi tarihsel ve değişken bir sistem olarak gören büyük düşünür sayar. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Bir fabrikanın ücret hesabını incelerken aynı zamanda sınıf, hukuk ve teknik değişimi birlikte görmek Marx'ın geniş merceğini gösterir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Schumpeter emek değer kuramı ve kaçınılmaz çöküş gibi sonuçlara katılmaz; hayranlık onay değildir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir düşünürü tek siyasi etikete sıkıştırmadan hangi soruyu kalıcılaştırdığını ve hangi cevabının eskidiğini ayırmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Marx: Peygamber, sosyolog, iktisatçı” ile Kapitalizm Sosyalizm ve Demokrasi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-kapitalizm-duragan-bir-makine-degildir",
+      "section": "BİRİNCİ KISIM · SÜREÇ",
+      "title": "Kapitalizm durağan bir makine değildir",
+      "paragraphs": [
+        "Kapitalizm aynı malların aynı firmalarca üretildiği denge değil, ürünleri, yöntemleri ve örgütleri içeriden değiştiren evrimsel süreçtir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Akıllı telefon yalnız yeni cihaz satmaz; fotoğraf makinesi, harita, taksi çağırma ve gazete alışkanlığını aynı anda dönüştürür. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Her değişim ilerleme değildir; çevre zararı, güvencesiz iş ve tekel de yaratabilir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Yeni bir teknolojiyi yalnız bugünkü ucuzluğuyla değil beş yıl içinde hangi işi ve kurumu değiştireceğiyle değerlendirmek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-04-uzun-donem-performansina-bakmak",
+      "section": "BİRİNCİ KISIM · REFAH",
+      "title": "Uzun dönem performansına bakmak",
+      "paragraphs": [
+        "Schumpeter kapitalizmin sonucunu kusursuz rekabet fotoğrafıyla değil, ürün ve yaşam standardını zaman içinde dönüştürme gücüyle ölçer. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Bir buzdolabı ilk çıktığında pahalı lüksken üretim yenilikleriyle sıradan eve girer ve yiyecek saklama düzenini değiştirir. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Ortalama refah artışı kazancın eşit dağıldığını veya sömürünün yok olduğunu göstermez. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Ekonomik başarı haberinde ortalamanın yanına dağılımı, çalışma koşulunu ve ekolojik maliyeti eklemek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-05-yaratici-yikimin-firtinasi",
+      "section": "İKİNCİ KISIM · ANA KAVRAM",
+      "title": "Yaratıcı yıkımın fırtınası",
+      "paragraphs": [
+        "Yeni ürün ve yöntem eski sermaye ile becerileri değersizleştirirken aynı anda yeni imkân üretir; Schumpeter buna yaratıcı yıkım der. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Elektrikli araç fabrikası batarya işi açarken motor parçası üreten kasabanın siparişini azaltır. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Yıkımın yaratıcı sonucu toplum toplamında görünse bile kaybeden kişinin acısı kendiliğinden telafi olmaz. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Bir dönüşüm planında gelecekteki kazanç kadar geçişte işini kaybedene eğitim, gelir ve söz hakkı tasarlamak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-06-girisimci-yeni-birlesimi-kurar",
+      "section": "İKİNCİ KISIM · YENİLİK",
+      "title": "Girişimci yeni birleşimi kurar",
+      "paragraphs": [
+        "Girişimci yalnız şirket sahibi değil, yeni ürün, yöntem, pazar, kaynak veya örgütlenme birleşimini hayata geçiren işlevdir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Var olan bisiklet, telefon ve ödeme sistemini tek kiralama hizmetinde birleştirmek yeni icat kadar ekonomik yenilik yaratabilir. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Yeniliği kahraman bireye bağlamak kamu araştırmasını, çalışan bilgisini ve altyapıyı görünmez bırakabilir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bir başarı hikâyesinde parlak kurucunun yanına teknolojiyi, krediyi, ekibi, müşteriyi ve kamu yatırımını da yazmak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-07-tekel-her-zaman-yalniz-durgunluk-mu",
+      "section": "İKİNCİ KISIM · BÜYÜK ŞİRKET",
+      "title": "Tekel her zaman yalnız durgunluk mu?",
+      "paragraphs": [
+        "Schumpeter geçici tekel kârının pahalı araştırmayı finanse edip yenilik ödülü olabileceğini, statik rekabet ölçüsünün bunu kaçırdığını savunur. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "İlaç şirketi yıllar süren denemenin riskini patent geliriyle üstlenebilir; fakat aynı patent hastanın erişimini kısıtlayabilir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Bu sav tekelin fiyat, siyasi nüfuz ve rakip engelleme zararlarını ortadan kaldırmaz. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Bir piyasa gücünü değerlendirirken yenilik yatırımı, fiyat, erişim ve yeni rakibin girebilme ihtimalini birlikte ölçmek gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Tekel her zaman yalnız durgunluk mu?” ile Kapitalizm Sosyalizm ve Demokrasi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-kapitalizm-kendi-duvarlarini-asindirir",
+      "section": "ÜÇÜNCÜ KISIM · PARADOKS",
+      "title": "Kapitalizm kendi duvarlarını aşındırır",
+      "paragraphs": [
+        "Başarılı kapitalizm aile mülkiyetini, küçük girişimciyi ve onu savunan değerleri zayıflatıp büyük bürokratik şirketlere yol açabilir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Kurucunun kişisel risk aldığı atölye büyüyüp hissedarı dağılmış şirkete dönüşünce yönetici mülkiyet duygusu yerine kariyer hesabıyla karar verir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Küçük girişimci her zaman özgürlük, büyük örgüt her zaman çürüme demek değildir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Bir kurum büyüdükçe sorumluluk, yenilik ve karar sahibinin nasıl değiştiğini izlemek ölçeğin gerçek etkisini gösterir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-09-akilcilik-kutsali-cozer",
+      "section": "ÜÇÜNCÜ KISIM · UYGARLIK",
+      "title": "Akılcılık kutsalı çözer",
+      "paragraphs": [
+        "Kapitalist hesap ve eleştirel akıl ekonomik alanda doğup gelenek, aile, mülkiyet ve otoriteyi de sorgulanabilir hale getirir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Şirket verimsiz ritüeli maliyet diye kaldırmayı öğretirken çalışan aynı sorguyu patronun ayrıcalığına yöneltebilir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Eleştirel akıl yalnız kapitalizmin ürünü değildir ve gelenek her zaman baskıcı değildir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Bir kurumun verim adına sorguladığı alışkanlıklarla dokunulmaz bıraktığı ayrıcalıkları yan yana koymak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Akılcılık kutsalı çözer” ile Kapitalizm Sosyalizm ve Demokrasi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-aydinlarin-dusmanligi",
+      "section": "ÜÇÜNCÜ KISIM · ELEŞTİREL SINIF",
+      "title": "Aydınların düşmanlığı",
+      "paragraphs": [
+        "Yüksek eğitim ve basın, söz üreterek yaşayan ve sistemin kusurlarını görünür kılan geniş bir aydın tabaka oluşturur. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Üniversite mezunu gazeteci fabrikanın üretimini değil çalışma koşulunu haber yapar ve şirketin meşruiyetini tartışmaya açar. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Aydınları asalak veya tek sesli düşman saymak Schumpeter'in seçkinci önyargısını büyütür; eleştiri kamusal öğrenme sağlar. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Eleştireni ekonomik üretim yapmıyor diye susturmak yerine iddiasının kanıtını ve kimin sesini taşıdığını değerlendirmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-11-kapitalizm-yasayabilir-mi",
+      "section": "ÜÇÜNCÜ KISIM · GELECEK",
+      "title": "Kapitalizm yaşayabilir mi?",
+      "paragraphs": [
+        "Schumpeter kapitalizmin ekonomik motoru bozuk olduğu için değil, onu koruyan kurum ve bağlılıklar çözüldüğü için sosyalizme yer açabileceğini öngörür. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Başarılı büyük şirket üretimi planlı bürokrasiye benzetir, yurttaş özel girişimi vazgeçilmez değil değiştirilebilir yönetim tekniği görmeye başlar. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Sonraki tarih kapitalizmin uyarlanma gücünü ve sosyalist rejimlerin sorunlarını Schumpeter'in çizgisinden farklı gösterdi. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Bir sistemin geleceğini yalnız verimle değil onu meşru bulan değer, ittifak ve kurumların dayanıklılığıyla değerlendirmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-12-sosyalizm-teknik-olarak-calisabilir-mi",
+      "section": "DÖRDÜNCÜ KISIM · PLAN",
+      "title": "Sosyalizm teknik olarak çalışabilir mi?",
+      "paragraphs": [
+        "Schumpeter uygun bilgi ve disiplin koşullarında sosyalist yönetimin üretim kararlarını hesaplayabileceğini, tartışmanın yalnız mantıksal imkânsızlık olmadığını söyler. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Büyük şirket binlerce birimi merkezden planlayabiliyorsa kamu örgütü de bazı kaynak akışlarını koordine edebilir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Şirket içi planlama bütün toplumdaki yerel bilgi, tercih ve siyasi güç sorununu çözmez. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Merkezi plan önerisinde hangi bilginin merkezde bulunmadığını ve hatanın kim tarafından düzeltileceğini sormak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-13-burokrasi-hem-guc-hem-tehlike",
+      "section": "DÖRDÜNCÜ KISIM · YÖNETİM",
+      "title": "Bürokrasi hem güç hem tehlike",
+      "paragraphs": [
+        "Uzman bürokrasi karmaşık ekonomiyi düzenleyebilir fakat yenilik isteğini, yurttaş denetimini ve yerel bilgiyi köreltebilir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Afet kurumu depo ve araçları hızla koordine eder; aynı kurum sahadan gelen sıra dışı ihtiyacı forma uymuyor diye reddedebilir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Bürokrasi yalnız devlete özgü değildir; büyük özel şirket de kural labirenti kurar. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir yönetim sisteminde uzmanlık, şeffaflık, itiraz yolu ve deneme alanının aynı anda bulunup bulunmadığını kontrol etmek gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ]
+    },
+    {
+      "id": "durak-14-halkin-ortak-iradesi-var-mi",
+      "section": "BEŞİNCİ KISIM · KLASİK DEMOKRASİ",
+      "title": "Halkın ortak iradesi var mı?",
+      "paragraphs": [
+        "Schumpeter klasik öğretinin belirli ortak iyiyi bilen halk ve onu uygulayan temsilci varsayımını gerçekçi bulmaz. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Vergi, okul ve çevre için yurttaşların değerleri çatışırken tek hazır 'halk iradesi' sandıktan önce rafta beklemez. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Ortak iradenin kurulmuş olması kamusal yarar ve yurttaş aklını anlamsız yapmaz. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir ankette 'halk bunu istiyor' denince sorunun nasıl kurulduğunu, seçenekleri ve yoğun azınlık görüşünü görmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Halkın ortak iradesi var mı?” ile Kapitalizm Sosyalizm ve Demokrasi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-demokrasi-liderlik-icin-rekabet-yontemi",
+      "section": "BEŞİNCİ KISIM · ALTERNATİF",
+      "title": "Demokrasi liderlik için rekabet yöntemi",
+      "paragraphs": [
+        "Demokrasiyi halkın doğrudan yönetimi değil, lider ekiplerin oy için rekabet ederek karar yetkisi kazanması yöntemi olarak tanımlar. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Seçmen her bütçe kalemini yönetmez; farklı takımlar arasından geçici yönetici seçer ve sonraki seçimde değiştirebilir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Bu dar tanım katılım, eşit söz ve gündem belirleme gibi demokratik değerleri ikinci plana iter. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Seçimin varlığı yanında gerçek rakip, bilgiye erişim, iktidarın değişebilirliği ve örgütlenme özgürlüğünü de ölçmek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-16-siyasi-pazarlama-ve-uretilen-irade",
+      "section": "BEŞİNCİ KISIM · SEÇMEN",
+      "title": "Siyasi pazarlama ve üretilen irade",
+      "paragraphs": [
+        "Partiler reklam teknikleriyle seçmenin gündem ve isteğini yalnız temsil etmez, biçimlendirir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Aday daha önce konuşulmayan korkuyu sürekli tekrarlayıp seçimde başlıca mesele haline getirir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Seçmeni tümüyle kolay güdülen kalabalık saymak elit yönetimini gereksiz yere kutsar. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir kampanya mesajında sorunun kendiliğinden mi yükseldiğini yoksa para, tekrar ve çerçevelemeyle mi üretildiğini incelemek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Siyasi pazarlama ve üretilen irade” ile Kapitalizm Sosyalizm ve Demokrasi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-demokratik-yontemin-kirilgan-kosullari",
+      "section": "BEŞİNCİ KISIM · SONUÇ",
+      "title": "Demokratik yöntemin kırılgan koşulları",
+      "paragraphs": [
+        "Lider rekabetinin işlemesi için nitelikli siyasetçi, güvenilir bürokrasi, sınırlı karar alanı ve yenilgiyi kabul eden toplumsal özdenetim gerekir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Seçimi kaybeden taraf rakibini yok edilmesi gereken düşman sayarsa sandık yöntemi bir sonraki turu taşıyamaz. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Uyum talebi sert eşitsizlikleri sessizleştirmek için kullanılabilir; demokratik çatışma da gereklidir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Bir rejimi seçim gecesi dışında yargı bağımsızlığı, barışçıl devir, muhalefet hakkı ve idari yeterlikle değerlendirmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Schumpeter yaratıcı yıkımın her zararını iyi saymaz ve sosyalizmin kesin zaferini kutlamaz. Kapitalist dinamizmi açıklarken onun toplumsal maliyetlerini ve siyasi geleceğini ayrı sorular olarak tartışır.",
+        "Bir fabrikanın kapanması uzun vadede yeni sektör doğurabilir; bu, işini kaybeden ailenin yardım beklemeden fedakârlık yapması gerektiği anlamına gelmez.",
+        "Kapitalizm Sosyalizm ve Demokrasi için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser yaratıcı yıkım kavramını ekonomi dilinin merkezine taşıdı ve demokrasinin rekabetçi lider seçimi olarak tanımı siyaset biliminin etkili modellerinden biri oldu.",
+        "Öngördüğü kapitalizmden sosyalizme yöneliş gerçekleşmedi; demokrasi modeli yurttaşı pasif tüketiciye indirgemekle, girişimci anlatısı kolektif ve kamusal yeniliği küçümsemekle eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Kapitalizm Sosyalizm ve Demokrasi bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Yenilik ne yaratırken kimi yıkıyor? Kurumun ekonomik başarısı hangi toplumsal dayanağı aşındırıyor? Seçim gerçek rekabet ve değiştirme gücü sağlıyor mu?",
+        "Son on yılda hayatınıza giren bir teknolojiyi seçin; açtığı üç imkânı, ortadan kaldırdığı üç işi veya alışkanlığı ve geçiş bedelini kimin ödediğini yazın.",
+        "Kapitalizm Sosyalizm ve Demokrasi bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Kapitalizm yenilikle kendi yapısını durmadan yıkar ve kurar; bu başarı toplumsal desteğini aşındırabilir, demokrasi ise ortak iradenin aynası olmaktan çok iktidar için kurallı rekabet olarak işler.",
+        "Akılda tutulacak son görüntü, bakır ve lacivert bir kentte eski fabrika tuğlalarının içinden yükselen parlak yeni türbinler, seçim meydanı ve plan masalarının aynı yaratıcı yıkım girdabında buluştuğu geniş bir panorama. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Kapitalizm Sosyalizm ve Demokrasi adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-marx-peygamber-sosyolog-iktisatci": {
+      "image": "/images/summary-art-160-chapter-01-marx-peygamber-sosyolog-iktisatci-v1.webp",
+      "imageCaption": "Marx: Peygamber, sosyolog, iktisatçı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-kapitalizm-duragan-bir-makine-degildir": {
+      "image": "/images/summary-art-160-chapter-02-kapitalizm-duragan-bir-makine-degildir-v1.webp",
+      "imageCaption": "Kapitalizm durağan bir makine değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-uzun-donem-performansina-bakmak": {
+      "image": "/images/summary-art-160-chapter-03-uzun-donem-performansina-bakmak-v1.webp",
+      "imageCaption": "Uzun dönem performansına bakmak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-yaratici-yikimin-firtinasi": {
+      "image": "/images/summary-art-160-chapter-04-yaratici-yikimin-firtinasi-v1.webp",
+      "imageCaption": "Yaratıcı yıkımın fırtınası düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-girisimci-yeni-birlesimi-kurar": {
+      "image": "/images/summary-art-160-chapter-05-girisimci-yeni-birlesimi-kurar-v1.webp",
+      "imageCaption": "Girişimci yeni birleşimi kurar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-tekel-her-zaman-yalniz-durgunluk-mu": {
+      "image": "/images/summary-art-160-chapter-06-tekel-her-zaman-yalniz-durgunluk-mu-v1.webp",
+      "imageCaption": "Tekel her zaman yalnız durgunluk mu? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-kapitalizm-kendi-duvarlarini-asindirir": {
+      "image": "/images/summary-art-160-chapter-07-kapitalizm-kendi-duvarlarini-asindirir-v1.webp",
+      "imageCaption": "Kapitalizm kendi duvarlarını aşındırır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-akilcilik-kutsali-cozer": {
+      "image": "/images/summary-art-160-chapter-08-akilcilik-kutsali-cozer-v1.webp",
+      "imageCaption": "Akılcılık kutsalı çözer düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-aydinlarin-dusmanligi": {
+      "image": "/images/summary-art-160-chapter-09-aydinlarin-dusmanligi-v1.webp",
+      "imageCaption": "Aydınların düşmanlığı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-kapitalizm-yasayabilir-mi": {
+      "image": "/images/summary-art-160-chapter-10-kapitalizm-yasayabilir-mi-v1.webp",
+      "imageCaption": "Kapitalizm yaşayabilir mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-sosyalizm-teknik-olarak-calisabilir-mi": {
+      "image": "/images/summary-art-160-chapter-11-sosyalizm-teknik-olarak-calisabilir-mi-v1.webp",
+      "imageCaption": "Sosyalizm teknik olarak çalışabilir mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-burokrasi-hem-guc-hem-tehlike": {
+      "image": "/images/summary-art-160-chapter-12-burokrasi-hem-guc-hem-tehlike-v1.webp",
+      "imageCaption": "Bürokrasi hem güç hem tehlike düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-halkin-ortak-iradesi-var-mi": {
+      "image": "/images/summary-art-160-chapter-13-halkin-ortak-iradesi-var-mi-v1.webp",
+      "imageCaption": "Halkın ortak iradesi var mı? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-demokrasi-liderlik-icin-rekabet-yontemi": {
+      "image": "/images/summary-art-160-chapter-14-demokrasi-liderlik-icin-rekabet-yontemi-v1.webp",
+      "imageCaption": "Demokrasi liderlik için rekabet yöntemi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-siyasi-pazarlama-ve-uretilen-irade": {
+      "image": "/images/summary-art-160-chapter-15-siyasi-pazarlama-ve-uretilen-irade-v1.webp",
+      "imageCaption": "Siyasi pazarlama ve üretilen irade düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-demokratik-yontemin-kirilgan-kosullari": {
+      "image": "/images/summary-art-160-chapter-16-demokratik-yontemin-kirilgan-kosullari-v1.webp",
+      "imageCaption": "Demokratik yöntemin kırılgan koşulları düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}
