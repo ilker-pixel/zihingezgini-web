@@ -1,0 +1,347 @@
+{
+  "bookNo": 64,
+  "title": "Dostluk ve Yaşlılık Üzerine",
+  "author": "Cicero",
+  "subtitle": "Dostluğu çıkar ortaklığından ayıran, yaşlılığı kayıp listesi değil karakterin sınandığı yeni bir mevsim olarak gören iki sıcak Roma sohbeti.",
+  "coverImage": "/images/summary-cover-64-dostluk-ve-yaslilik-uzerine-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/64-dostluk-ve-yaslilik-uzerine-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#786044",
+  "meta": {
+    "originalTitle": "Laelius de Amicitia & Cato Maior de Senectute",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir dost yalnız iyi gün sofrasına mı oturur, yoksa yanlış yaptığımızda bizi durdurur mu? Yaşlılık yalnız bedenden eksilen güç müdür, yoksa acelelerin sustuğu başka bir çalışma zamanı mı? Cicero bu soruları soyut ders gibi değil, tecrübeli insanların sohbeti gibi açar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Perseus Digital Library - Cicero, De Amicitia",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0040"
+    },
+    {
+      "id": 2,
+      "title": "Perseus Digital Library - Cicero, De Senectute",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0039"
+    },
+    {
+      "id": 3,
+      "title": "Stanford Encyclopedia of Philosophy - Cicero",
+      "url": "https://plato.stanford.edu/entries/cicero/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Dostluğu çıkar ortaklığından ayıran, yaşlılığı kayıp listesi değil karakterin sınandığı yeni bir mevsim olarak gören iki sıcak Roma sohbeti.",
+        "Metinler antik Roma'nın seçkin erkek yurttaş dünyasında geçer. Dostluk, siyaset ve yaşlılık örnekleri o sınırlı çevrenin izini taşır; yine de sadakat, dalkavukluk, amaç ve ölüm hakkındaki sorular bugün de canlıdır.",
+        "Bu rehber, Cicero tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-dostluk-neden-bir-ihtiyactir",
+      "section": "BİRİNCİ KISIM · DOSTLUK",
+      "title": "Dostluk neden bir ihtiyaçtır?",
+      "paragraphs": [
+        "Cicero dostluğu lüks eğlence değil insan hayatının doğal dayanaklarından biri sayar. Sevinç paylaşıldığında büyür, güçlük paylaşıldığında taşınabilir olur; insan kendini güvenilir bir başkasının bakışında daha açık görür. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "İyi haberi anlatacak kimse bulamadığınızda başarının tadı eksilir. Kötü günde çözüm sunamasa bile yanında sessizce oturan kişi yükün tek omuzda olmadığını hissettirir.",
+        "Dostluğu her ihtiyacı karşılayan tek ilişki yapmak ağır baskı yaratır. Aile, topluluk ve profesyonel destek de hayatın farklı yüklerini taşır. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Dostunuzdan yalnız fayda aldığınız anları değil, sizin daha dürüst ve cesur biri olmanıza yardım ettiği anları düşünün."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Dostluk neden bir ihtiyaçtır?” başlığının yalnız kendi örneğini değil Dostluk ve Yaşlılık Üzerine boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-iyi-karakter-dostlugun-zemini",
+      "section": "BİRİNCİ KISIM · DOSTLUK",
+      "title": "İyi karakter dostluğun zemini",
+      "paragraphs": [
+        "Kalıcı dostluk ortak çıkar kadar karaktere duyulan saygıya dayanır. Dürüstlük ve ölçü yoksa yakınlık suç ortaklığına, sadakat kör itaate dönüşebilir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Arkadaşınız işyerinden para çalmanızı isterse 'dostluk bunu gerektirir' diyemez. İsteği reddetmek ilişkiye ihanet değil, dostluğu ahlaki çöküşten korumaktır.",
+        "Cicero'nun erdem anlayışı yüksek ve seçkinci görünebilir. Kusursuz insan beklersek kimseyle dost olamayız; önemli olan hata karşısında doğrulmaya açık olmaktır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir dostlukta sevdiğiniz özelliğin yalnız size iyi davranması mı, başkalarına karşı da güvenilir olması mı olduğunu sorun."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “İyi karakter dostluğun zemini” başlığının yalnız kendi örneğini değil Dostluk ve Yaşlılık Üzerine boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-cikar-bitince-ne-kalir",
+      "section": "İKİNCİ KISIM · SINAMA",
+      "title": "Çıkar bitince ne kalır?",
+      "paragraphs": [
+        "Yarar dostlukta bulunabilir ama ilişkinin nedeni yalnız yararsa koşul değişince bağ çözülür. Cicero dostu araç değil kendi başına değerli kişi olarak sevmeyi savunur. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Aynı şirketteyken her gün arayan kişi işten ayrıldığınızda kaybolursa yakınlığın ne kadarının ortak koridordan geldiği anlaşılır.",
+        "Çıkarsızlık bütün karşılıklılığı reddetmez. Sağlıklı dostlukta zaman ve bakım alışverişi vardır; hesap defterine dönüşmediği sürece bu doğal bir dengedir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir ilişkinin ortak ortam kalktığında da merak, emek ve dürüstlük taşıyıp taşımadığını gözleyin."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Çıkar bitince ne kalır?” başlığının yalnız kendi örneğini değil Dostluk ve Yaşlılık Üzerine boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-dostun-yuzune-gercegi-soylemek",
+      "section": "İKİNCİ KISIM · SINAMA",
+      "title": "Dostun yüzüne gerçeği söylemek",
+      "paragraphs": [
+        "Gerçek dost yalnız hoş söz söylemez; zarar veren davranışı uygun zamanda ve saygıyla gösterir. Eleştiri üstünlük gösterisi değil karşıdakinin iyiliğini isteme biçimidir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Arkadaşınız sürekli borca giriyorsa her yeni alışverişi alkışlamak rahat, kaygınızı açıkça söylemek zordur. Kısa huzursuzluk uzun zararı önleyebilir.",
+        "Her sert söz dürüstlük değildir. Eleştiren kişi kendi öfkesini boşaltabilir; niyet kadar zaman, dil ve dinleme biçimi önemlidir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Zor bir gerçeği söylemeden önce 'bunu onu küçültmek için mi, seçeneğini genişletmek için mi söylüyorum?' diye sorun."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Dostun yüzüne gerçeği söylemek” başlığının yalnız kendi örneğini değil Dostluk ve Yaşlılık Üzerine boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-dalkavukluk-dostlugun-sahte-ikizidir",
+      "section": "İKİNCİ KISIM · SINAMA",
+      "title": "Dalkavukluk dostluğun sahte ikizidir",
+      "paragraphs": [
+        "Dalkavuk dostun hoşuna giden sesi taklit eder; gerçek dost sevgiyle karşı çıkabilir. Güçlü insan çevresinde itiraz kaybolduğunda hata büyür. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Yönetici her fikrine 'harika' diyenlerle çevrilirse başarısız projenin haberini ancak para tükendiğinde alır. Alkış duvarı gerçeği dışarıda bırakır.",
+        "Sürekli karşı çıkmak da samimiyet kanıtı değildir. Yapıcı itiraz, doğru olduğunda destek verebilmeyi de içerir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Sizi hep onaylayan kişiden çok, hangi konuda neden farklı düşündüğünü açıklayabilen kişiye dikkat edin."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Dalkavukluk dostluğun sahte ikizidir” başlığının yalnız kendi örneğini değil Dostluk ve Yaşlılık Üzerine boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-siyaset-dostlugu-nasil-sinar",
+      "section": "ÜÇÜNCÜ KISIM · ZAMAN",
+      "title": "Siyaset dostluğu nasıl sınar?",
+      "paragraphs": [
+        "Cicero için dostluk özel odada kalmaz; iktidar, ün ve yurttaşlık çatışmaları bağı sınar. Dost adına adaletsiz siyasi eylem istemek hem devlete hem dosta zarar verir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Yakın arkadaşınız makamını kullanarak ihale isterse kişisel sadakat ile kamusal görev çatışır. Ayrıcalık vermemek sevgisizlik değil ortak kuralı korumaktır.",
+        "Antik Roma'nın siyasal dostluğu seçkin erkek ağlarına dayanır ve halkın çoğunu dışarıda bırakır. Modern kamu etiği daha geniş eşitlik ölçüsü gerektirir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "İş ve siyasette dostluğun sıcaklığını kararın tarafsızlığından ayıracak açık kurallar kurun."
+      ]
+    },
+    {
+      "id": "durak-08-dostluk-biterse-nasil-bitmeli",
+      "section": "ÜÇÜNCÜ KISIM · ZAMAN",
+      "title": "Dostluk biterse nasıl bitmeli?",
+      "paragraphs": [
+        "Karakter ve hayat yönü ciddi biçimde ayrıldığında bazı dostluklar sona erebilir. Cicero ani düşmanlık ve ifşa yerine bağın yavaş, ölçülü biçimde çözülmesini önerir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Aynı yolda yürüyen iki insanın kavşakta farklı yöne gitmesi geçmiş yürüyüşü yalan yapmaz. Her ayrılık mahkeme olmak zorunda değildir.",
+        "Şiddet ve istismar varsa yavaş uzaklaşma güvenli olmayabilir; kesin sınır ve destek gerekir. Antik öğüt her duruma uygulanamaz. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir ilişkiyi bitirirken ortak sırları silah yapmadan, nedeni açık ama gereksiz yaralamadan ifade etmeyi düşünün."
+      ]
+    },
+    {
+      "id": "durak-09-yasliliga-yoneltilen-dort-suclama",
+      "section": "DÖRDÜNCÜ KISIM · YAŞLILIK",
+      "title": "Yaşlılığa yöneltilen dört suçlama",
+      "paragraphs": [
+        "Cicero yaşlılığın insanı işten, bedensel güçten, hazdan ve ölüm umudundan uzaklaştırdığı suçlamalarını tek tek ele alır. Sorunun bir kısmını yaşta değil hazırlıksız karakterde görür. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Aynı yağmurlu gün biri için kapanan kapı, diğeri için evde okunacak kitabın zamanıdır. Koşul gerçek, onunla kurulacak ilişki tek değildir.",
+        "Bu yaklaşım hastalık, yoksulluk ve bakım eksikliğini karakter sorunu gibi gösterme riski taşır. Yaşlılığın maddi koşulları kişisel tutum kadar önemlidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Yaşlanma tartışmasında biyolojik kayıp, toplumsal dışlanma ve kişinin yorumunu ayrı ayrı görün."
+      ]
+    },
+    {
+      "id": "durak-10-guc-azalir-gorev-degisir",
+      "section": "DÖRDÜNCÜ KISIM · YAŞLILIK",
+      "title": "Güç azalır, görev değişir",
+      "paragraphs": [
+        "Yaşlı beden gençle aynı işi yapmayabilir; fakat danışma, öğretme, planlama ve yargı gibi görevler deneyimden yararlanır. Bir gemiyi kürekçi değil dümeni tutan kaptan yönlendirir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Bahçede ağır taşı genç kaldırır, hangi ağacın nereye dikileceğini yıllardır toprağı izleyen kişi bilir. İki güç biçimi birbirinin yerine geçmez.",
+        "Deneyim otomatik bilgelik değildir. İnsan yıllarca aynı hatayı da tekrarlayabilir; güncel bilgiye ve gençlerin deneyimine açık olmak gerekir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir ekipte hız ve fiziksel güç kadar örüntü görme, sabır ve hafıza yeteneklerini de görev tasarımına katın."
+      ]
+    },
+    {
+      "id": "durak-11-zihni-calistirmak",
+      "section": "BEŞİNCİ KISIM · ETKİNLİK",
+      "title": "Zihni çalıştırmak",
+      "paragraphs": [
+        "Cicero belleğin kullanılmadığında zayıfladığını, ilgi ve çalışma sürdüğünde yaşlı zihnin üretken kalabileceğini söyler. Öğrenme gençliğe ait tek dönem değildir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Emekli öğretmenin yeni dil öğrenirken kelimeleri yavaş hatırlaması başarısızlık değil yeni yollar açan antrenmandır. Kullanılan kas gibi dikkat de etkinlikle beslenir.",
+        "Bilişsel gerileme yalnız irade eksikliği değildir; nörolojik hastalıklar gerçek ve destek gerektirir. 'İstersen yaparsın' sözü acıyı küçültebilir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Yaşa uygun hız ve yardım araçlarıyla merakın sürdüğü küçük bir öğrenme rutini kurun."
+      ]
+    },
+    {
+      "id": "durak-12-hazdan-uzaklasmak-kayip-mi",
+      "section": "BEŞİNCİ KISIM · ETKİNLİK",
+      "title": "Hazdan uzaklaşmak kayıp mı?",
+      "paragraphs": [
+        "Cicero aşırı bedensel hazların azalmasını yalnız yoksunluk değil tutkunun gürültüsünden kurtulma olarak görür. Sohbet, çalışma ve dinginlik başka haz biçimleri açar. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Gürültülü eğlenceyi artık istemeyen kişi sabah sessizliğinde kahve ve sohbetten daha derin tat alabilir. Haz kaybolmaz, ritmi değişir.",
+        "Cinsel ve bedensel arzunun yaşlılıkta bittiğini varsaymak yanlıştır. İnsanlar ve sağlık durumları çeşitlidir; ahlakçı küçümseme yaşamı daraltabilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Hazzı yalnız yoğunlukla değil sonrasında bıraktığı canlılık, bağ ve huzurla değerlendirin."
+      ]
+    },
+    {
+      "id": "durak-13-toprakla-calismanin-sevinci",
+      "section": "ALTINCI KISIM · DOĞA",
+      "title": "Toprakla çalışmanın sevinci",
+      "paragraphs": [
+        "Yaşlı Cato'nun tarıma duyduğu sevgi, sonuç kadar döngüye katılmayı anlatır. Tohum ekmek geleceğe güvenmek, mevsimi izlemek insan zamanını doğa zamanına bağlamaktır. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Meyvesini belki başkası yiyecek ağacı dikmek, hayatı yalnız kendi tükettiği ana sıkıştırmamaktır. Emek gelecek kuşağa uzanır.",
+        "Kırsal huzur Roma'nın köle emeği ve mülkiyet eşitsizliğini görünmez kılabilir. Bahçe imgesinin maddi arka planı unutulmamalıdır. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Sonucunu tamamen görmeyeceğiniz ama başkasına gölge sağlayacak bir işi düşünün."
+      ]
+    },
+    {
+      "id": "durak-14-yasliligi-genclik-olcusuyle-yargilamak",
+      "section": "ALTINCI KISIM · DOĞA",
+      "title": "Yaşlılığı gençlik ölçüsüyle yargılamak",
+      "paragraphs": [
+        "Her hayat dönemini genç bedenin hızıyla ölçmek yaşlılığı baştan başarısız ilan eder. Cicero mevsim benzetmesiyle her dönemin kendi işi ve tadı olduğunu savunur. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Kışı yaz kadar sıcak olmadığı için kusurlu saymayız; kış toprağın dinlendiği ve başka şeylerin göründüğü mevsimdir.",
+        "Mevsim benzetmesi kaçınılmaz kaybı romantikleştirebilir. Ağrı, yalnızlık ve bakım sorunu gerçek çözüm ister. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir yaşlıya yalnız yapamadığını sormak yerine hangi tempo ve koşulda katkısının açıldığını sorun."
+      ]
+    },
+    {
+      "id": "durak-15-olume-yaklasmak",
+      "section": "YEDİNCİ KISIM · SON",
+      "title": "Ölüme yaklaşmak",
+      "paragraphs": [
+        "Cicero ölümün ya ruhun başka yaşama geçişi ya da hissin sona ermesi olduğunu söyler; iki durumda da sonsuz korkunun gereksiz olduğunu düşünür. Tamamlanmış hayat sahneden zamanında çıkabilir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Uzun bir oyunun sonunda oyuncu alkıştan sonra kulise gider. Sahneyi hiç terk etmemek oyunu daha iyi yapmaz.",
+        "Bu teselli herkesin inancına uymaz; ölüm korkusu yalnız felsefi hata değil ayrılık, acı ve yarım kalmışlık duygusudur. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Ölüm düşüncesini bastırmak yerine hangi yarım işi, söylenmemiş sözü veya bakım ihtiyacını görünür kıldığını sorun."
+      ]
+    },
+    {
+      "id": "durak-16-iyi-yasamak-iyi-yaslanmaya-hazirliktir",
+      "section": "YEDİNCİ KISIM · SON",
+      "title": "İyi yaşamak iyi yaşlanmaya hazırlıktır",
+      "paragraphs": [
+        "Yaşlılık bir günde gelen yabancı ülke değildir; gençlikte kurulan alışkanlık, dostluk, merak ve ölçü onun malzemesini hazırlar. Cicero iyi karakteri en güvenilir uzun vadeli birikim sayar. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Emeklilikte birden dost, uğraş ve beden sağlığı satın alınamaz. Yıllar boyunca sulanan ilişkiler ve ilgiler yeni dönemde gölge verir.",
+        "İyi hazırlık hastalığı ve kaybı engellemez. Toplumsal bakım sistemi olmadan bireysel erdem yetersiz kalır. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Gelecekteki yaşlı benliğiniz için bugün bir dostluk, beceri ve beden alışkanlığına küçük yatırım yapın."
+      ]
+    },
+    {
+      "id": "durak-17-dostluk-ile-yasliligin-ortak-dersi",
+      "section": "SEKİZİNCİ KISIM · BÜTÜN",
+      "title": "Dostluk ile yaşlılığın ortak dersi",
+      "paragraphs": [
+        "İki metni birleştiren düşünce, iyi hayatın tek başına güç veya haz biriktirmek değil karakter, ilişki ve ölçü kurmak olduğudur. Dostluk yaşlılığı taşır, zaman dostluğun niteliğini açığa çıkarır. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Gençken birlikte eğlenen iki dost yaşlandığında hastane bekleme odasında sessizce oturabiliyorsa bağın yalnız eğlenceden büyük olduğu anlaşılır.",
+        "Her hayatın dost ağı ve yaşlanma yolu aynı değildir. Yalnız yaşayan kişinin değeri eksik sayılmaz; kurumların ve toplulukların yeni bağlar kurması gerekir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bugünkü ilişkilerinizden hangisinin yalnız etkinlik, hangisinin karşılıklı karakter tanıklığı taşıdığını düşünün."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Cicero yaşlılığın her koşulda kolay olduğunu veya gerçek dostun her isteği yerine getirmesi gerektiğini söylemez. Karakterin gücünü vurgularken hastalık, yoksulluk ve bakım eşitsizliğini modern okurun ayrıca hesaba katması gerekir.",
+        "Dostluk ve Yaşlılık Üzerine tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Cicero ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Metinler Batı dostluk ve yaşlanma düşüncesinin en etkili klasiklerindendir. Sıcak diyalogları hâlâ canlıdır; fakat Roma yurttaş elitini merkez alan dünyaları kadınların, kölelerin ve yoksulların deneyimini büyük ölçüde dışarıda bırakır.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Dostluk ve Yaşlılık Üzerine için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Dostluk ve Yaşlılık Üzerine için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Dostum beni yalnız onaylıyor mu, daha iyi biri olmama da yardım ediyor mu? Yaşı gençlik ölçüsüyle mi değerlendiriyorum? Bugünkü alışkanlıklarım gelecekteki ilişki ve yaşlanma biçimimi nasıl hazırlıyor?",
+        "Bu sorular Dostluk ve Yaşlılık Üzerine için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Dostluk ve Yaşlılık Üzerine üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İyi hayatın dayanığı geçici güç ve haz değil, gerçeği söyleyebilen dostluk, çalışmaya devam eden merak, değişen yaşa uygun görev ve ölüm karşısında ölçülü bir karakterdir.",
+        "Akılda kalacak son görüntü, eski bir zeytin ağacının altında biri genç biri yaşlı iki dostun aynı kandili koruyarak sohbet etmesidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Dostluk ve Yaşlılık Üzerine adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-dostluk-neden-bir-ihtiyactir": {
+      "image": "/images/summary-art-64-chapter-01-friendship-lamp-v1.webp",
+      "imageCaption": "İki kişinin arasında yanan ve karanlığı paylaşan kandil, dostluğun dayanak oluşunu gösterir."
+    },
+    "durak-03-iyi-karakter-dostlugun-zemini": {
+      "image": "/images/summary-art-64-chapter-02-virtue-foundation-v1.webp",
+      "imageCaption": "İki dostun ayakları altındaki sağlam taşlar, karakterin dostluğa temel oluşunu gösterir."
+    },
+    "durak-04-cikar-bitince-ne-kalir": {
+      "image": "/images/summary-art-64-chapter-03-utility-bridge-v1.webp",
+      "imageCaption": "Kuruyan çıkar nehrinin üzerinde ayakta kalan köprü, kalıcı dostluğu simgeler."
+    },
+    "durak-05-dostun-yuzune-gercegi-soylemek": {
+      "image": "/images/summary-art-64-chapter-04-honest-mirror-v1.webp",
+      "imageCaption": "Dostun tuttuğu berrak ama kırmayan ayna, doğrucu yakınlığı gösterir."
+    },
+    "durak-06-dalkavukluk-dostlugun-sahte-ikizidir": {
+      "image": "/images/summary-art-64-chapter-05-flattery-mask-v1.webp",
+      "imageCaption": "Alkışlayan maskenin arkasında çatlayan proje, dalkavukluğun tehlikesini gösterir."
+    },
+    "durak-07-siyaset-dostlugu-nasil-sinar": {
+      "image": "/images/summary-art-64-chapter-06-public-private-v1.webp",
+      "imageCaption": "Özel el sıkışmanın yanında duran kamusal terazi, dostluk ile görev çatışmasını gösterir."
+    },
+    "durak-08-dostluk-biterse-nasil-bitmeli": {
+      "image": "/images/summary-art-64-chapter-07-friendship-fork-v1.webp",
+      "imageCaption": "Ortak yoldan sessizce ayrılan iki patika, düşmanlıksız vedayı simgeler."
+    },
+    "durak-09-yasliliga-yoneltilen-dort-suclama": {
+      "image": "/images/summary-art-64-chapter-08-four-charges-v1.webp",
+      "imageCaption": "Yaşlılığa yönelen dört okun karşısında duran sakin figür, temel suçlamaları gösterir."
+    },
+    "durak-10-guc-azalir-gorev-degisir": {
+      "image": "/images/summary-art-64-chapter-09-old-captain-v1.webp",
+      "imageCaption": "Genç kürekçilerin önünde yön gösteren yaşlı kaptan, değişen güç biçimini simgeler."
+    },
+    "durak-11-zihni-calistirmak": {
+      "image": "/images/summary-art-64-chapter-10-active-mind-v1.webp",
+      "imageCaption": "Eski bir kitaplığın içinde filizlenen yeni yapraklar, ömür boyu öğrenmeyi gösterir."
+    },
+    "durak-12-hazdan-uzaklasmak-kayip-mi": {
+      "image": "/images/summary-art-64-chapter-11-quiet-pleasure-v1.webp",
+      "imageCaption": "Yüksek şölen ışığından sakin bahçe sohbetine geçen yol, değişen haz biçimini gösterir."
+    },
+    "durak-13-toprakla-calismanin-sevinci": {
+      "image": "/images/summary-art-64-chapter-12-planting-future-v1.webp",
+      "imageCaption": "Yaşlı ellerin genç bir ağaç dikmesi, kuşaklar arası emeği simgeler."
+    },
+    "durak-14-yasliligi-genclik-olcusuyle-yargilamak": {
+      "image": "/images/summary-art-64-chapter-13-life-seasons-v1.webp",
+      "imageCaption": "Dört mevsimde aynı ağacın değişen değeri, yaşam dönemlerinin farklılığını gösterir."
+    },
+    "durak-15-olume-yaklasmak": {
+      "image": "/images/summary-art-64-chapter-14-final-stage-v1.webp",
+      "imageCaption": "Uzun oyunun sonunda sakinçe kapanan perde, ölümü yaşamın sınırı olarak gösterir."
+    },
+    "durak-16-iyi-yasamak-iyi-yaslanmaya-hazirliktir": {
+      "image": "/images/summary-art-64-chapter-15-aging-garden-v1.webp",
+      "imageCaption": "Yıllar boyunca sulanan ve yaşlılıkta gölge veren bahçe, uzun hazırlığı simgeler."
+    },
+    "durak-17-dostluk-ile-yasliligin-ortak-dersi": {
+      "image": "/images/summary-art-64-chapter-16-friendship-age-v1.webp",
+      "imageCaption": "Aynı bankta farklı yaşlarda oturan iki dost, zamanla olgunlaşan bağı gösterir."
+    }
+  }
+}

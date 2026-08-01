@@ -1,0 +1,347 @@
+{
+  "bookNo": 110,
+  "title": "Adalet",
+  "author": "Michael J. Sandel",
+  "subtitle": "Tren makasından fırtına sonrası fiyatlara, özgür piyasadan liyakat ve yurttaşlığa kadar gerçek ikilemlerle 'doğru olan nedir?' sorusunu canlı bir meydan tartışmasına çeviren felsefe kitabı.",
+  "coverImage": "/images/summary-cover-110-adalet-sandel-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/110-adalet-sandel-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#5D577E",
+  "meta": {
+    "originalTitle": "Justice: What's the Right Thing to Do?",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Kontrolden çıkan tren beş kişiye gidiyor; makası çevirirsen bir kişi ölecek. Sayı hesabı kolay gibi görünür. Fakat o kişiyi köprüden itmeniz gerektiğinde neden eliniz durur? Sandel adalet teorilerini tam bu rahatsız edici farkların içine sokar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Michael Sandel - Justice",
+      "url": "https://www.justiceharvard.org/"
+    },
+    {
+      "id": 2,
+      "title": "Harvard University - Michael Sandel",
+      "url": "https://scholar.harvard.edu/sandel/home"
+    },
+    {
+      "id": 3,
+      "title": "Farrar, Straus and Giroux - Justice",
+      "url": "https://us.macmillan.com/books/9780374532505/justice/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Tren makasından fırtına sonrası fiyatlara, özgür piyasadan liyakat ve yurttaşlığa kadar gerçek ikilemlerle 'doğru olan nedir?' sorusunu canlı bir meydan tartışmasına çeviren felsefe kitabı.",
+        "Kitap tek doğru teori ilan etmez; fayda, özgürlük ve erdem yaklaşımlarını somut olaylarda birbirine çarptırır. En verimli okuma, ilk sezginizi savunmak kadar aynı ilkenin başka olayda sizi nereye götürdüğünü izlemektir.",
+        "Bu rehber, Michael J. Sandel tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-tren-makasi-neden-rahatsiz-eder",
+      "section": "BİRİNCİ KISIM · İKİLEM",
+      "title": "Tren makası neden rahatsız eder?",
+      "paragraphs": [
+        "Makas probleminde beş kişiyi kurtarmak için bir kişiye yön vermek çoğu kişiye kabul edilebilir gelir; adamı köprüden itmek ise aynı sayı hesabına rağmen daha kötü görünür. Niyet, araç ve kişiye dokunmak sezgiyi değiştirir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Hastanede beş hastayı kurtarmak için sağlıklı ziyaretçinin organlarını almak sayı bakımından kazançtır, ama onu araç olarak kullanır.",
+        "Düşünce deneyleri gerçek hayatın belirsizliğini temizler; bu yapaylık ilkeyi görünür kılar ama tek başına politika kararı vermez. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir kararın sonucuyla birlikte kimi yalnız araç hâline getirdiğini ve zararın amaç mı yan etki mi olduğunu sorun."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Tren makası neden rahatsız eder?” başlığının yalnız kendi örneğini değil Adalet boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-en-cok-mutluluk",
+      "section": "İKİNCİ KISIM · FAYDA",
+      "title": "En çok mutluluk",
+      "paragraphs": [
+        "Faydacılık doğru eylemi toplam mutluluğu artıran eylem olarak tanımlar. Her kişinin hazzı eşit hesaba girer ve sonuçlar ahlaki tartışmanın merkezine gelir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Belediye sınırlı bütçeyle az kullanılan pahalı havuz yerine binlerce çocuğa aşı yaparsa toplam yarar güçlü gerekçe sunar.",
+        "Mutlulukları ölçmek zordur; azınlığın temel hakkı çoğunluğun küçük keyfine feda edilebilir. Sayı, kişinin dokunulmazlığını tek başına korumaz. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Kamu kararında toplam faydayı hesaplayın ama kabul edilemez zarar ve hak sınırını ayrıca yazın."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “En çok mutluluk” başlığının yalnız kendi örneğini değil Adalet boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-firtina-sonrasi-pahali-su",
+      "section": "İKİNCİ KISIM · FAYDA",
+      "title": "Fırtına sonrası pahalı su",
+      "paragraphs": [
+        "Afet sonrası fiyatların yükselmesi arzı artırabilir ve kıt malı isteyene yöneltebilir; aynı zamanda çaresizliği kazanca çevirdiği için öfke yaratır. Piyasa verimi ile yurttaşlık erdemi çatışır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Kasırga sonrası jeneratörü beş katına satan kişi yeni mal getirme teşviki sunar, fakat evi su altında kalmış aile pazarlığa özgürce giremez.",
+        "Fiyat sınırı da malın bölgeye gelmesini azaltabilir. Adil politika teşvik, acil yardım ve sömürü sınırını birlikte kurmalıdır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir alışverişte 'razı oldu' demeden önce kişinin gerçek alternatif ve aciliyetini sorun."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Fırtına sonrası pahalı su” başlığının yalnız kendi örneğini değil Adalet boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-kendinin-sahibi-olmak",
+      "section": "ÜÇÜNCÜ KISIM · ÖZGÜRLÜK",
+      "title": "Kendinin sahibi olmak",
+      "paragraphs": [
+        "Özgürlükçü yaklaşım kişinin bedeni ve emeği üzerinde kendine ait olduğunu, devletin rızaya dayalı alışverişe az karışması gerektiğini savunur. Vergi bile zorla emek alma gibi görülebilir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Bir saat çalışıp kazandığınız paranın bir kısmı alınırsa çalışma sürenizin o bölümünü başkası için zorla harcadığınız ileri sürülebilir.",
+        "Mülkiyet ve yetenek toplumsal altyapı, miras ve şansla oluşur. Tam kendine sahiplik yoksulun çaresizlik içindeki sözleşmesini özgür sayabilir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir özgürlük iddiasında yalnız müdahaleyi değil başlangıç kaynakları ve çıkış seçeneklerini de karşılaştırın."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Kendinin sahibi olmak” başlığının yalnız kendi örneğini değil Adalet boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-gonullu-sozlesme-her-zaman-adil-mi",
+      "section": "ÜÇÜNCÜ KISIM · ÖZGÜRLÜK",
+      "title": "Gönüllü sözleşme her zaman adil mi?",
+      "paragraphs": [
+        "İki tarafın rızası önemli olsa da bilgi ve güç eşitsizliği sözleşmeyi adil yapmayabilir. İnsan çaresizlikten seçtiğinde biçimsel özgürlük gerçek seçenek yoksulluğunu gizler. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Borç içindeki kişi böbreğini satmayı kabul ederse imza vardır; fakat borcu olmayanın reddedebildiği teklif onun için zorunluluk olabilir.",
+        "İnsanların koruma adına kendi kararından tamamen mahrum bırakılması da küçümseyicidir. Düzenleme zarar sınırı ve özerklik arasında denge ister. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir sözleşmede 'evet' kelimesinin yanında tarafların bilgi, pazarlık gücü ve hayır deme maliyetini inceleyin."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Gönüllü sözleşme her zaman adil mi?” başlığının yalnız kendi örneğini değil Adalet boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-orduyu-parayla-kurmak",
+      "section": "DÖRDÜNCÜ KISIM · PİYASANIN SINIRI",
+      "title": "Orduyu parayla kurmak",
+      "paragraphs": [
+        "Zorunlu askerlik, gönüllü profesyonel ordu ve paralı asker modelleri özgürlük ile yurttaşlık görevi arasındaki farkı açar. Piyasa hizmeti satın alabilir ama ortak yük duygusunu değiştirebilir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Zengin kişi tehlikeli görevi yoksulun üstlenmesini ücretle satın aldığında sözleşme gönüllü olabilir; savaşın vatandaşlar arasında dağılımı yine eşitsizdir.",
+        "Profesyonellik beceri ve gönüllülük sağlar; ortak hizmet romantizmi zorlamayı ve askerî şiddeti görünmez kılabilir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir kamusal görevin ücretli işe çevrilmesinin yalnız verimini değil ortak sorumluluk ve eşitlik duygusunu nasıl etkilediğini sorun."
+      ]
+    },
+    {
+      "id": "durak-08-tasiyici-annelik-ve-satilan-sey",
+      "section": "DÖRDÜNCÜ KISIM · PİYASANIN SINIRI",
+      "title": "Taşıyıcı annelik ve satılan şey",
+      "paragraphs": [
+        "Taşıyıcı annelik sözleşmeleri beden, çocuk, bakım ve rızanın piyasada nasıl değerlendirileceğini tartıştırır. Sorun yalnız baskı değil bazı şeylerin para karşılığı sunulduğunda anlamının değişmesidir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Bir çocuğun taşınmasını hizmet sözleşmesi saymak kadının emeğini tanıyabilir; teslim maddeleri gebelik ilişkisini ürün üretimine benzetebilir.",
+        "Yasaklamak kadınların seçimini ve gelirini kısıtlayabilir; serbest bırakmak sömürüyü büyütebilir. Koşul, sağlık güvencesi ve vazgeçme hakkı önemlidir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir piyasa tartışmasında sömürü sorusunun yanına satın almanın ilişkinin anlamını değiştirip değiştirmediğini ekleyin."
+      ]
+    },
+    {
+      "id": "durak-09-kant-insan-arac-degildir",
+      "section": "BEŞİNCİ KISIM · ONUR",
+      "title": "Kant: insan araç değildir",
+      "paragraphs": [
+        "Kantçı ahlak insanı akıl sahibi, kendi amacı olan varlık olarak görür. Eylemin değeri yalnız iyi sonuçtan değil kişiye saygı ve herkes için geçerli olabilecek ilkeden gelir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Müşteriye yalnız yakalanmamak için doğru söyleyen satıcı güvenilir davranır ama dürüstlüğü araç olarak kullanır. İlke, çıkar değiştiğinde de geçerli olmalıdır.",
+        "Ödev dili duygu ve ilişkiyi küçümseyebilir; ayrıca hangi ilkenin gerçekten evrenselleştirileceği tartışmalıdır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir davranış kuralınızın herkes yaptığında sürdürülebilir olup olmadığını ve karşınızdakini yalnız araç yapıp yapmadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-10-ozgurluk-istedigini-yapmak-degildir",
+      "section": "BEŞİNCİ KISIM · ONUR",
+      "title": "Özgürlük istediğini yapmak değildir",
+      "paragraphs": [
+        "Kant için arzunun peşinden gitmek her zaman özgürlük değildir; arzu bizi yönetebilir. Özgürlük, aklın kendine koyduğu ve herkes için geçerli görebileceği yasaya göre hareket etmektir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Gece sürekli ekrana bakan kişi 'istediğimi yapıyorum' der ama alışkanlık onu çekiyorsa davranış kendi seçtiği uzun vadeli ilkeye uymayabilir.",
+        "Aklın arzudan tamamen bağımsız olduğu fikri psikolojik olarak tartışmalıdır. Duygu ahlaki algının düşmanı değil parçası olabilir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir isteği özgürlük diye adlandırmadan önce onun seçtiğiniz hayat planına mı, anlık dürtüye mi hizmet ettiğini düşünün."
+      ]
+    },
+    {
+      "id": "durak-11-rawls-ve-cehalet-perdesi",
+      "section": "ALTINCI KISIM · EŞİTLİK",
+      "title": "Rawls ve cehalet perdesi",
+      "paragraphs": [
+        "Rawls adalet ilkelerini toplumdaki yerimizi bilmeden seçmeyi önerir. Zengin mi yoksul mu, sağlıklı mı engelli mi olacağımızı bilmezsek en kötü konum için daha güvenli kurallar kurarız. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Yeni oyunun puan dağılımını belirlerken hangi oyuncu olacağınızı bilmiyorsanız bir kişiye bütün avantajı vermek risklidir.",
+        "Perde gerçek tarih ve kimliği soyutlayarak bazı somut adaletsizlikleri görünmez kılabilir. Yine de tarafsızlık için güçlü araçtır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir politika kararında en az seçeneğe sahip kişi olabileceğinizi varsayıp kabul edip etmeyeceğinizi sorun."
+      ]
+    },
+    {
+      "id": "durak-12-liyakat-ve-sans",
+      "section": "ALTINCI KISIM · EŞİTLİK",
+      "title": "Liyakat ve şans",
+      "paragraphs": [
+        "Yetenek, aile ve piyasanın hangi beceriye değer verdiği büyük ölçüde şanstır. Çaba önemlidir ama ödülün tamamını ahlaki hak etmişlik diye görmek başarısız kişiyi aşağılayabilir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "İyi şarkı söyleme yeteneği başka çağda az gelir getirirken bugünkü medya düzeninde servet yaratabilir. Yeteneğin fiyatı kişinin seçimi değildir.",
+        "Şansı vurgulamak sorumluluk ve emeği tamamen silmemelidir. Ama başarıya minnet ve ortaklık duygusu ekleyebilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Başarınızda emeğinizin yanında seçmediğiniz beden, aile, zaman ve kurum katkısını listeleyin."
+      ]
+    },
+    {
+      "id": "durak-13-olumlu-ayrimcilik-neyi-duzeltir",
+      "section": "YEDİNCİ KISIM · AMAÇ",
+      "title": "Olumlu ayrımcılık neyi düzeltir?",
+      "paragraphs": [
+        "Üniversite kabulünde ırk veya toplumsal dezavantajı dikkate almak geçmiş ayrımı düzeltme, çeşitlilik ve kurumun toplumsal amacıyla savunulur. Bireysel hak ile ortak amaç çatışabilir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Aynı sınav puanına ulaşan iki öğrenciden biri zengin okulda, diğeri kaynak yoksunu mahallede çalışmışsa sayı aynı çabayı anlatmayabilir.",
+        "Grup kategorileri bireyi stereotipe sıkıştırabilir ve politikanın yükünü tek kişiye bindirebilir. Açık amaç ve süreli değerlendirme gerekir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir seçme sisteminde ölçütün gerçekten aranan yeteneği mi, mevcut ayrıcalığa erişimi mi ölçtüğünü sorun."
+      ]
+    },
+    {
+      "id": "durak-14-aristoteles-adalet-amac-ister",
+      "section": "SEKİZİNCİ KISIM · ERDEM",
+      "title": "Aristoteles: adalet amaç ister",
+      "paragraphs": [
+        "Aristoteles'e göre bir şeyi adil dağıtmak için o kurumun amacını bilmek gerekir. En iyi flüt onu en iyi çalana verilirse müziğin amacı gerçekleşir; dağıtım aynı zamanda hangi erdemi onurlandırdığımızı söyler. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Belediye stadını en çok para verene mi, en iyi sporcuya mı, halka mı açmalı? Cevap stadın hangi amaç için var olduğunu belirlemeye bağlıdır.",
+        "Kurumun tek amacı olmayabilir ve amacı güçlüler tanımlayabilir. 'Doğal rol' dili dışlamayı meşrulaştırabilir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir kaynak tartışmasında kimin hak ettiğinden önce kurumun ortak amacını ve o amacı kimin belirlediğini sorun."
+      ]
+    },
+    {
+      "id": "durak-15-escinsel-evlilik-tartismasi",
+      "section": "SEKİZİNCİ KISIM · ERDEM",
+      "title": "Eşcinsel evlilik tartışması",
+      "paragraphs": [
+        "Evlilik tartışması devletin tarafsız kalamayacağını gösterir; yasa evliliğin üreme, bağlılık veya iki yetişkinin eşit tanınması gibi hangi amaca sahip olduğunu seçer. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Devlet yalnız sözleşme yaptığını söylese bile miras, ad ve törenle hangi ilişkiye kamusal saygı verdiğini belirler.",
+        "Ahlaki tartışma herkesin hakkını eşit korumalı; çoğunluk geleneği azınlığın onurunu tek başına sınırlayamaz. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir yasa tartışmasında gizli kurum tanımını açığa çıkarın: bu kurum ne için var ve tanım kimi dışarıda bırakıyor?"
+      ]
+    },
+    {
+      "id": "durak-16-tarafsiz-devlet-mumkun-mu",
+      "section": "DOKUZUNCU KISIM · YURTTAŞLIK",
+      "title": "Tarafsız devlet mümkün mü?",
+      "paragraphs": [
+        "Sandel iyi hayat hakkında tamamen tarafsız devlet fikrine kuşkuyla bakar. Vergi, eğitim, evlilik ve kamusal anma kararları hangi değerleri taşıdığımızı zaten gösterir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Okul yalnız matematik öğretirken bile rekabet mi işbirliği mi, itaat mi tartışma mı teşvik ettiğine göre yurttaşlık anlayışı kurar.",
+        "Ortak iyiyi devletin tanımlaması çoğunluğun azınlığa hayat biçimi dayatmasına dönüşebilir. Hak sınırları vazgeçilmezdir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir kamu politikasında tarafsız görünen kuralın hangi insan ve toplum idealini ödüllendirdiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-17-ortak-iyilik-ve-yurttaslik",
+      "section": "DOKUZUNCU KISIM · YURTTAŞLIK",
+      "title": "Ortak iyilik ve yurttaşlık",
+      "paragraphs": [
+        "Adalet yalnız gelir ve hak dağıtımı değil birlikte hangi toplumu kurduğumuz sorusudur. Ortak kurumlarda farklı sınıfların karşılaşması, kamusal hizmet ve demokratik tartışma yurttaşlık erdemini besler. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Zengin özel park, özel okul ve özel güvenliğe çekilince ortak parkın bozulması onu az etkiler; ortak dünya sınıflara ayrılır.",
+        "Ortaklık adına zorunlu tek kültür yaratmak tehlikelidir. Kamusal alan farklı hayatların eşit sözle karşılaşmasına dayanmalıdır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir hizmetin yalnız tüketici seçeneği değil farklı insanların ortak deneyim ve sorumluluk alanı olup olmadığını düşünün."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Sandel tek bir adalet formülü vermez veya bireysel hakları ortak iyilik adına silmez. Teorilerin somut olaylarda neyi gördüğünü ve neyi kaçırdığını karşılaştırır; okuru kaçınılmaz ahlaki tartışmadan kaçmamaya çağırır.",
+        "Adalet tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Michael J. Sandel ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Harvard derslerinden gelişen kitap felsefeyi canlı kamusal ikilemlerle anlatmasıyla dünya çapında etkili olmuştur. Sandel'in ortak iyi ve erdem vurgusunun çoğunlukçuluğa açılma riski, piyasa eleştirisinin sınırı ve örneklerin basitleştirici gücü tartışılır.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Adalet için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Adalet için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Kararım toplam faydayı mı, kişinin hakkını mı, özgürlüğü mü, kurumun amacını mı öne çıkarıyor? Rıza gerçek alternatif altında mı verildi? Ortak iyiyi savunurken azınlığın eşit onurunu nasıl koruyorum?",
+        "Bu sorular Adalet için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Adalet üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Adalet tek sayı hesabı veya tarafsız kural değildir; sonuç, özgürlük, insan onuru, fırsat, kurumların amacı ve birlikte nasıl bir toplum olmak istediğimiz arasındaki açık ve gerekçeli tartışmadır.",
+        "Akılda kalacak son görüntü, tren makası, fiyat etiketi, cehalet perdesi ve kamusal meydanın tek bir çok kollu adalet terazisinde buluşmasıdır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Adalet adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-tren-makasi-neden-rahatsiz-eder": {
+      "image": "/images/summary-art-110-chapter-01-trolley-switch-v1.webp",
+      "imageCaption": "İki raya ayrılan tren ve tereddüt eden el, adalet sezgilerinin çatışmasını gösterir."
+    },
+    "durak-03-en-cok-mutluluk": {
+      "image": "/images/summary-art-110-chapter-02-utility-scale-v1.webp",
+      "imageCaption": "Çok sayıda mutluluk taşı ile tek kişinin hakkı arasındaki terazi, faydacılık sorununu gösterir."
+    },
+    "durak-04-firtina-sonrasi-pahali-su": {
+      "image": "/images/summary-art-110-chapter-03-storm-prices-v1.webp",
+      "imageCaption": "Fırtına enkazında yükselen fiyat etiketi ve boş cüzdan, piyasa ile adalet gerilimini gösterir."
+    },
+    "durak-05-kendinin-sahibi-olmak": {
+      "image": "/images/summary-art-110-chapter-04-self-ownership-v1.webp",
+      "imageCaption": "Bedeninin anahtarını tutan birey ile arkasındaki ortak yol, kendine sahiplik tartışmasını gösterir."
+    },
+    "durak-06-gonullu-sozlesme-her-zaman-adil-mi": {
+      "image": "/images/summary-art-110-chapter-05-contract-balance-v1.webp",
+      "imageCaption": "İmza masasının iki yanında eşit olmayan sandalye yükseklikleri, biçimsel rızayı gösterir."
+    },
+    "durak-07-orduyu-parayla-kurmak": {
+      "image": "/images/summary-art-110-chapter-06-market-army-v1.webp",
+      "imageCaption": "Para ile yurttaşlık rozeti arasındaki asker silueti, piyasa ve kamusal görev çatışmasını gösterir."
+    },
+    "durak-08-tasiyici-annelik-ve-satilan-sey": {
+      "image": "/images/summary-art-110-chapter-07-surrogacy-contract-v1.webp",
+      "imageCaption": "Sözleşme kâğıdı ile kalp ritmi arasında duran gebelik silueti, piyasalaşan anlamı gösterir."
+    },
+    "durak-09-kant-insan-arac-degildir": {
+      "image": "/images/summary-art-110-chapter-08-kant-door-v1.webp",
+      "imageCaption": "Her insanın önünde kapalı 'yalnız araç değildir' kapısı, Kantçı onuru simgeler."
+    },
+    "durak-10-ozgurluk-istedigini-yapmak-degildir": {
+      "image": "/images/summary-art-110-chapter-09-autonomy-strings-v1.webp",
+      "imageCaption": "Kendi iplerini eline alan kişi, dürtüden özerkliğe geçişi gösterir."
+    },
+    "durak-11-rawls-ve-cehalet-perdesi": {
+      "image": "/images/summary-art-110-chapter-10-veil-ignorance-v1.webp",
+      "imageCaption": "Kimlikleri örten perdenin önünde kural seçen insanlar, Rawlsçı tarafsızlığı gösterir."
+    },
+    "durak-12-liyakat-ve-sans": {
+      "image": "/images/summary-art-110-chapter-11-merit-luck-v1.webp",
+      "imageCaption": "Emek merdiveninin altında dönen şans çarkı, liyakatin karmaşık temelini gösterir."
+    },
+    "durak-13-olumlu-ayrimcilik-neyi-duzeltir": {
+      "image": "/images/summary-art-110-chapter-12-affirmative-paths-v1.webp",
+      "imageCaption": "Aynı kapıya farklı engelli yollardan gelen öğrenciler, fırsat eşitsizliğini gösterir."
+    },
+    "durak-14-aristoteles-adalet-amac-ister": {
+      "image": "/images/summary-art-110-chapter-13-telos-flute-v1.webp",
+      "imageCaption": "Flüt, spor sahası ve kamusal kürsüyü bağlayan amaç oku, Aristotelesçi adaleti gösterir."
+    },
+    "durak-15-escinsel-evlilik-tartismasi": {
+      "image": "/images/summary-art-110-chapter-14-marriage-purpose-v1.webp",
+      "imageCaption": "İki eşit halka ile devlet mührü, evliliğin kamusal amacını gösterir."
+    },
+    "durak-16-tarafsiz-devlet-mumkun-mu": {
+      "image": "/images/summary-art-110-chapter-15-neutral-state-v1.webp",
+      "imageCaption": "Şeffaf görünen devlet binasının içinde beliren değer sembolleri, tarafsızlık sınırını gösterir."
+    },
+    "durak-17-ortak-iyilik-ve-yurttaslik": {
+      "image": "/images/summary-art-110-chapter-16-common-good-v1.webp",
+      "imageCaption": "Farklı insanların aynı meydanı onardığı sahne, ortak iyilik ve yurttaşlığı gösterir."
+    }
+  }
+}

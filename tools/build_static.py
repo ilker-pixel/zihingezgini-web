@@ -615,7 +615,7 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
         </header>
         <div class="summary-intro-box"><h2>Giriş</h2><p>{summary.get('intro', '')}</p></div>{toc}
         <div class="summary-chapters-list">{''.join(chapters)}</div>{sources}
-        <footer class="summary-reader-footer"><p class="disclaimer-text"><strong>Telif ve sorumluluk notu:</strong> Bu çalışma eğitim ve araştırma amacıyla yapay zekâ desteğiyle hazırlanmış bir özettir; özgün eserin yerini tutmaz.</p></footer>
+        <footer class="summary-reader-footer"><p class="disclaimer-text"><strong>Telif ve sorumluluk notu:</strong> Bu bağımsız ve ticari olmayan çalışma, eğitim ve araştırma amacıyla yapay zekâ desteğiyle hazırlanmış bir okuma rehberidir; özgün eserin yerini tutmaz ve yazar ya da yayınevi tarafından hazırlanmış veya onaylanmış değildir.</p></footer>
       </article>"""
     schema = {
         "@context": "https://schema.org",

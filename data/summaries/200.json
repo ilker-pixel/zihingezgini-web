@@ -1,0 +1,347 @@
+{
+  "bookNo": 200,
+  "title": "Tutunamayanlar",
+  "author": "Oğuz Atay",
+  "subtitle": "Arkadaşının ölümünü anlamaya çalışan Turgut'un iz sürdükçe kendi düzenli hayatından kopuşunu; mizah, hüzün ve dil oyunlarıyla anlatan büyük Türkçe roman.",
+  "coverImage": "/images/summary-cover-200-tutunamayanlar-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/200-tutunamayanlar-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6A5549",
+  "meta": {
+    "originalTitle": "Tutunamayanlar",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Turgut Özben'in düzenli bir evi, işi ve toplum içinde tanınan bir yüzü vardır. Bir gün eski arkadaşı Selim Işık'ın kendi hayatına son verdiğini öğrenir. 'Neden?' diye başlayan araştırma, ölen arkadaşın değil Turgut'un da kim olduğunu parça parça değiştiren uzun bir yolculuğa dönüşür.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "İletişim Yayınları - Tutunamayanlar",
+      "url": "https://iletisim.com.tr/kitap/tutunamayanlar/8655"
+    },
+    {
+      "id": 2,
+      "title": "T.C. Kültür ve Turizm Bakanlığı - Oğuz Atay",
+      "url": "https://teis.yesevi.edu.tr/madde-detay/atay-oguz"
+    },
+    {
+      "id": 3,
+      "title": "Boğaziçi Üniversitesi Nâzım Hikmet Kültür ve Sanat Araştırma Merkezi - Oğuz Atay",
+      "url": "https://nazimhikmetmerkezi.com/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Arkadaşının ölümünü anlamaya çalışan Turgut'un iz sürdükçe kendi düzenli hayatından kopuşunu; mizah, hüzün ve dil oyunlarıyla anlatan büyük Türkçe roman.",
+        "İsimleri akılda tutmak için Turgut'u 'iz süren düzenli adam', Selim'i 'kaybolan hassas arkadaş', Olric'i 'Turgut'un içindeki sadık ses' diye düşünebilirsiniz. Roman doğrusal polisiye değildir; şiir, ansiklopedi, oyun ve mektupla zihnin dağınıklığını taklit eder.",
+        "Bu rehber, Oğuz Atay tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-iki-kisiyi-akilda-tutmak",
+      "section": "BİRİNCİ KISIM · KAPI",
+      "title": "İki kişiyi akılda tutmak",
+      "paragraphs": [
+        "Romanın omurgası iki arkadaştır: dışarıdan düzenli ve başarılı görünen Turgut, toplumla uyum kuramayan ama yoğun düşünen Selim. Selim öldükten sonra Turgut onun geride bıraktığı izleri toplar. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Bir arkadaşınızın çekmecesinde hiç bilmediğiniz şiirleri bulduğunuzu düşünün. Tanıdığınız kişiyle kâğıtlardaki kişi arasında büyük boşluk açılır.",
+        "Selim'i yalnız masum kurban, Turgut'u yalnız duyarsız burjuva diye dondurmak romanın çelişkilerini siler. İkisi de yakınlık kurmakta zorlanır. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Birini 'tanıyorum' dediğinizde onun yalnız sizin yanınızda gösterdiği yüzü bildiğinizi hatırlayın."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “İki kişiyi akılda tutmak” başlığının yalnız kendi örneğini değil Tutunamayanlar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-selim-in-olumu-neden-baslangictir",
+      "section": "BİRİNCİ KISIM · KAPI",
+      "title": "Selim'in ölümü neden başlangıçtır?",
+      "paragraphs": [
+        "Selim'in intiharı olay örgüsünün sonu değil ilk sorusudur. Turgut nedenleri ararken arkadaşının farklı insanlara bıraktığı birbirini tutmayan görüntülerle karşılaşır. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Polisiye romanda katil bulunur; burada her tanık Selim'in başka yalnızlığını anlatır. Dosya kapanmak yerine büyür.",
+        "Bir insanın intiharını tek olay, karakter kusuru veya ilişkiyle açıklamak doğru değildir. Ruhsal acı çok katmanlıdır; roman klinik açıklama değildir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Gerçek hayatta intihar konuşurken suçlu aramak yerine profesyonel destek, güvenli dinleme ve karmaşık nedenleri ciddiye alın."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Selim'in ölümü neden başlangıçtır?” başlığının yalnız kendi örneğini değil Tutunamayanlar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-turgut-un-guvenli-evi",
+      "section": "İKİNCİ KISIM · DÜZEN",
+      "title": "Turgut'un güvenli evi",
+      "paragraphs": [
+        "Turgut ev, iş, eşya ve gündelik sözlerle kurulmuş orta sınıf düzeninde yaşar. Bu hayat güven sağlar ama kullanılmaya hazır cümlelerle kişiyi kendi iç sesinden uzaklaştırabilir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Misafir odasında doğru koltuk, iş toplantısında doğru söz, aile yemeğinde doğru gülüş vardır. Her şey yerli yerindeyken insan kendini yabancı hissedebilir.",
+        "Düzen başlı başına sahte değildir. Bakım, aile ve güvenlik gerçek değerdir; roman biçimin hayatın yerini almasını eleştirir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir rutinde sizi koruyan işlev ile sırf başkaları bekliyor diye sürdürdüğünüz gösteriyi ayırın."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Turgut'un güvenli evi” başlığının yalnız kendi örneğini değil Tutunamayanlar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-iz-surulen-arkadaslar",
+      "section": "İKİNCİ KISIM · DÜZEN",
+      "title": "İz sürülen arkadaşlar",
+      "paragraphs": [
+        "Turgut, Selim'i tanıyan Esat, Metin, Süleyman ve Günseli gibi kişilere gider. Her görüşme bir portre tamamlamak yerine Selim'in başka dönemde başka ilişki kurduğunu gösterir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Okul arkadaşı onun şakalarını, sevgilisi kırılganlığını, başka biri öfkesini hatırlar. Aynı kişi farklı aynalarda ayrı görünür.",
+        "Tanık anlatıları güvenilmez veya sınırlı olabilir; insan geçmişi bugünkü pişmanlık ve savunmayla yeniden kurar. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir anlaşmazlıkta tek tanığın bütün kişiyi temsil etmediğini, ilişkinin kendi bağlamını taşıdığını düşünün."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “İz sürülen arkadaşlar” başlığının yalnız kendi örneğini değil Tutunamayanlar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-suleyman-in-getirdigi-sarkilar",
+      "section": "ÜÇÜNCÜ KISIM · METİNLER",
+      "title": "Süleyman'ın getirdiği şarkılar",
+      "paragraphs": [
+        "Selim'in uzun şiirsel metni, hayatını düz açıklama yerine tarih, mizah ve parodi içinde anlatır. Kendi acısını bile doğrudan söylemekte zorlanır; dil onun hem sığınağı hem labirentidir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Bir insan 'yalnızım' demek yerine kahramanlık destanı yazar, kendini tarih kitabının küçük ve gülünç kahramanı yapar. Şaka duyguyu gizlerken açığa da çıkarır.",
+        "Metindeki her gönderme bilinmeden de duygusal çizgi izlenebilir. Ansiklopediye boğulmak Selim'in sesini yeniden uzaklaştırabilir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Karmaşık bir metinde önce gönderme listesini değil tekrar eden duygu, korku ve ilişkiyi takip edin."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Süleyman'ın getirdiği şarkılar” başlığının yalnız kendi örneğini değil Tutunamayanlar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-aciklamalar-neden-metni-buyutur",
+      "section": "ÜÇÜNCÜ KISIM · METİNLER",
+      "title": "Açıklamalar neden metni büyütür?",
+      "paragraphs": [
+        "Şarkılara eklenen açıklamalar açıklık getirmek yerine yeni hikâyeler ve sahte bilgi katmanları üretir. Roman ciddi bilimsel dipnot biçimini oyun alanına çevirir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Basit bir aile şakasına on sayfalık akademik açıklama yazılırsa açıklama olaydan daha komik ve kuşkulu hâle gelir.",
+        "Biçim parodisi gerçek bilgi ve akademik emeğin değersiz olduğu anlamına gelmez; otorite görüntüsünün düşünme yerine geçmesini eleştirir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Uzun ve resmî bir açıklamada gerçekten yeni kanıt mı verildiğini, yoksa dilin otorite mi kurduğunu sorun."
+      ]
+    },
+    {
+      "id": "durak-08-tutunamayanlar-ansiklopedisi",
+      "section": "DÖRDÜNCÜ KISIM · SINIFLANDIRMA",
+      "title": "Tutunamayanlar ansiklopedisi",
+      "paragraphs": [
+        "Selim ve arkadaşları toplumun başarı ölçüsüne uymayan insanları hayali ansiklopedi maddeleri gibi sınıflandırır. Ciddi bilgi dili, dışarıda kalanların acıklı ve komik tarihine çevrilir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Resmî ansiklopedi devlet adamlarını kaydeder; bu ansiklopedi toplantıda yanlış yerde gülen, cümlesini bitiremeyen, uyum sağlayamayan kişiyi tarihe alır.",
+        "Tutunamayan etiketi yeni bir üstünlük kulübüne dönüşebilir. Başarısızlığı romantikleştirmek gerçek sorumluluk ve zararları silebilir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir etiketi kullanırken kişiyi görünür mü kıldığını, yoksa yeni kutuya mı kapattığını sorun."
+      ]
+    },
+    {
+      "id": "durak-09-gunseli-nin-anlattigi-selim",
+      "section": "DÖRDÜNCÜ KISIM · SINIFLANDIRMA",
+      "title": "Günseli'nin anlattığı Selim",
+      "paragraphs": [
+        "Günseli, Selim'in sevgi arzusunu ve yakınlık karşısındaki korkusunu gösterir. Selim yalnız toplum tarafından dışlanmaz; kabul edilme ihtimali geldiğinde de geri çekilebilir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Sevildiğini duyan kişi rahatlamak yerine 'beni gerçekten tanırsa gider' diye ilişkiyi sınar. Korunma davranışı terk edilme ihtimalini büyütür.",
+        "Romantik sevgi ruhsal acıyı tek başına tedavi edemez. Partneri kurtarıcı yapmak iki kişiye de ağır yük bindirir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Yakınlıkta karşı tarafın sevgisini sürekli sınamak yerine korkuyu doğrudan ve destekle konuşmanın yolunu arayın."
+      ]
+    },
+    {
+      "id": "durak-10-olric-kimdir",
+      "section": "BEŞİNCİ KISIM · İÇ SES",
+      "title": "Olric kimdir?",
+      "paragraphs": [
+        "Olric, Turgut'un zihninde konuşan sadık yardımcı ve iç muhataptır. Turgut toplumun hazır dilinden uzaklaştıkça kendi bölünmüş düşüncesiyle diyalog kurar. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Yalnız yürürken kendinize 'şimdi ne yapacağız?' dersiniz; Turgut bu sesi isimlendirir ve ona cevap verir. İç konuşma ikinci karaktere dönüşür.",
+        "Olric'i yalnız psikiyatrik belirti diye okumak edebî işlevini daraltır; yine de Turgut'un yalnızlaşmasını ve gerçek ilişkiden kaçışını gösterir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Kendi iç sesinizin sizi açıklığa mı taşıdığını, yoksa dışarıdaki konuşmayı mı ertelediğini fark edin."
+      ]
+    },
+    {
+      "id": "durak-11-efendimiz-dili",
+      "section": "BEŞİNCİ KISIM · İÇ SES",
+      "title": "Efendimiz dili",
+      "paragraphs": [
+        "Olric'in Turgut'a aşırı saygılı hitabı hem güvenli dostluk hem efendi-köle parodisidir. Turgut kendi zihninde itiraz etmeyen bir arkadaş yaratır. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Gerçek dost karşı çıkar; hayali yardımcı her cümleyi taşıyabilir. Rahatlık arttıkça dış dünyanın sürtüşmesi azalır.",
+        "İç diyalog yaratıcılık ve öz bakım sağlayabilir. Sorun onun gerçek insanın bağımsızlığını tamamen ikame etmesidir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Sizi hiç şaşırtmayan görüş çevresinin düşüncenizi rahatlatıp daraltmadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-12-dil-neden-surekli-bozuluyor",
+      "section": "ALTINCI KISIM · DİL",
+      "title": "Dil neden sürekli bozuluyor?",
+      "paragraphs": [
+        "Roman bürokrasi, ders kitabı, reklam, destan ve gündelik konuşma dillerini birbirine karıştırır. Hazır kalıp kırılınca onların ne kadar yapay ve yönlendirici olduğu görünür. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Resmî dile çevrilen aşk mektubu komikleşir; çünkü duygunun kişisel ritmi form cümlesine sığmaz.",
+        "Dil oyunu okuru dışarıda bırakabilir ve duyguyu örtebilir. Zorluk romanın konusu olsa da her karmaşıklık derinlik değildir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Günlük bir kurumsal cümleyi sade dile çevirip kimin sorumluluğunun saklandığını görün."
+      ]
+    },
+    {
+      "id": "durak-13-turkiye-nin-hizli-modernlesmesi",
+      "section": "ALTINCI KISIM · DİL",
+      "title": "Türkiye'nin hızlı modernleşmesi",
+      "paragraphs": [
+        "Karakterler Batılı fikir, yerli alışkanlık, resmî ilerleme dili ve gündelik hayat arasında sıkışır. Modern olmak çoğu kez anlaşılan bir değişim değil taklit edilen davranış listesine dönüşür. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Salona yabancı marka mobilya koymak yeni düşünme biçimi getirmez; eski aile hiyerarşisi modern eşya içinde sürebilir.",
+        "Doğu-Batı ikiliği tek açıklama değildir. Sınıf, cinsiyet ve kentleşme deneyimi farklı tutunamama biçimleri yaratır. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir yeniliğin görüntüsünü almakla onu taşıyan değer ve kurumları kurmak arasındaki farkı düşünün."
+      ]
+    },
+    {
+      "id": "durak-14-kucuk-burjuva-hayatina-bakis",
+      "section": "YEDİNCİ KISIM · TOPLUM",
+      "title": "Küçük burjuva hayatına bakış",
+      "paragraphs": [
+        "Turgut düzenli orta sınıf hayatının sözlerini, eşyalarını ve başarı ölçülerini giderek yabancı görür. Fakat romanın eleştirisi içerden gelir; Turgut o dünyadan beslenmiş ve başkalarına karşı üstünlük de kurmuştur. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Komşuların sohbetini boş bulan kişi kendi karmaşık sözleriyle onları küçümser. Uyum eleştirisi yeni kibir üretebilir.",
+        "Ev ve aile emeğini yalnız sıkıcı düzen saymak özellikle kadınların görünmez yükünü küçültür. Turgut'un kaçışının bedelini başkaları taşır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir özgürleşme hikâyesinde geride bırakılan insanların bakım ve maddi yükünü ayrıca görün."
+      ]
+    },
+    {
+      "id": "durak-15-selim-i-ararken-selim-olmak",
+      "section": "YEDİNCİ KISIM · TOPLUM",
+      "title": "Selim'i ararken Selim olmak",
+      "paragraphs": [
+        "Turgut araştırdıkça arkadaşının kelimelerini, yalnızlığını ve toplumla sürtüşmesini kendi içinde büyütür. İz süren kişi nesnel gözlemci kalmaz; aradığı hayat onu dönüştürür. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Bir kayıp yakının günlüklerini aylarca okuyan kişi zamanla onun cümleleriyle düşünmeye başlar. Hatırlama ile özdeşleşme birbirine karışır.",
+        "Başkasının acısını sahiplenmek onu gerçekten anlamak değildir. Turgut, Selim'i ararken kendi ihtiyaçlarını da onun üzerine yazabilir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Birini anarken onun özgül hayatı ile sizin onda bulduğunuz kendi hikâyenizi ayırın."
+      ]
+    },
+    {
+      "id": "durak-16-yolculuk-ve-kaybolus",
+      "section": "SEKİZİNCİ KISIM · SON",
+      "title": "Yolculuk ve kayboluş",
+      "paragraphs": [
+        "Turgut ev ve iş düzeninden uzaklaşıp trenlere ve belirsiz yolculuğa çıkar. Kayboluş hem toplumun kalıbından kaçış hem sağlam ilişkilerin ve sorumlulukların çözülmesidir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Adresi olmayan trende insan eski kimlikten kurtulabilir; nereye gittiğini bilmemek aynı zamanda kimsenin size ulaşamaması demektir.",
+        "Kaçışı özgürlük diye romantikleştirmek eşini ve çocuklarını görünmez kılar. Roman bu rahatsızlığı bütünüyle çözmez. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir hayat değişiminde kurtulduğunuz yük kadar başkasına bıraktığınız yükü de hesaplayın."
+      ]
+    },
+    {
+      "id": "durak-17-roman-neden-parcali",
+      "section": "SEKİZİNCİ KISIM · SON",
+      "title": "Roman neden parçalı?",
+      "paragraphs": [
+        "Tutunamayanlar düz anlatıyı bilinçli olarak bozar; çünkü parçalanmış benlik ve toplum deneyimini düzgün olay sırasıyla anlatmak yetersiz kalır. Biçim konunun kendisine dönüşür. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Kırık aynayı tek parça resimle anlatmak yerine okura kırık parçaları verirsiniz; okur birleştirirken kendi yüzünü de görür.",
+        "Parçalılık zorunlu olarak daha doğru veya demokratik değildir; okuru yorabilir ve kültürel göndermeyle dışlayabilir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir metnin biçimini süs değil anlattığı deneyimin okurda nasıl hissettirildiği üzerinden değerlendirin."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Roman tutunamayanları otomatik olarak iyi, düzenli hayat yaşayanları kötü ilan etmez. Selim'in acısını ve Turgut'un kaçışını romantikleştirirken onların yakınlık kurma güçlüğünü, kibrini ve başkalarına bıraktığı bedeli de görmek gerekir.",
+        "Tutunamayanlar tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Oğuz Atay ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "İlk yayımlandığında sınırlı ilgi gören eser zamanla Türkçe romanın en önemli klasiklerinden biri sayılmıştır. Biçimsel yeniliği, kara mizahı ve modern aydın eleştirisi övülür; kadın karakterlerin çoğunlukla erkek arayışının aynası olarak kalması eleştirilir.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Tutunamayanlar için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Tutunamayanlar için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu kişiyi gerçekten mi tanıyorum, yoksa kendi ilişkimdeki yüzünü mü? Toplumun hazır dilinden kaçarken yeni bir üstünlük dili mi kuruyorum? Özgürleşmemin bakım ve sorumluluk bedelini kim taşıyor?",
+        "Bu sorular Tutunamayanlar için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Tutunamayanlar üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Turgut'un Selim'in ölümünü anlama çabası, toplumun hazır başarı diliyle kendi iç sesi arasındaki çatlağı büyütür; tutunamamak hem dürüst bir yabancılık hem yakınlık ve sorumluluktan kaçış tehlikesidir.",
+        "Akılda kalacak son görüntü, düzenli bir salonun ortasında açılan tren yolunda Turgut'un gölgesinden Olric'in çıkması ve uzakta Selim'in kâğıt parçalarına dönüşmesidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Tutunamayanlar adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-iki-kisiyi-akilda-tutmak": {
+      "image": "/images/summary-art-200-chapter-01-two-friends-v1.webp",
+      "imageCaption": "Düzenli odadaki Turgut ile kâğıt izlerinden beliren Selim, romanın iki merkezini gösterir."
+    },
+    "durak-03-selim-in-olumu-neden-baslangictir": {
+      "image": "/images/summary-art-200-chapter-02-death-as-door-v1.webp",
+      "imageCaption": "Kapalı bir mezardan çoğalan soru yolları, ölümün başlangıç oluşunu gösterir."
+    },
+    "durak-04-turgut-un-guvenli-evi": {
+      "image": "/images/summary-art-200-chapter-03-safe-house-v1.webp",
+      "imageCaption": "Kusursuz mobilyalı ama içinde küçük çatlak büyüyen ev, Turgut'un güvenli düzenini gösterir."
+    },
+    "durak-05-iz-surulen-arkadaslar": {
+      "image": "/images/summary-art-200-chapter-04-witness-mirrors-v1.webp",
+      "imageCaption": "Aynı Selim siluetini farklı renklerde yansıtan aynalar, parçalı tanıklığı gösterir."
+    },
+    "durak-06-suleyman-in-getirdigi-sarkilar": {
+      "image": "/images/summary-art-200-chapter-05-songs-scroll-v1.webp",
+      "imageCaption": "Mizah ve tarih figürleriyle dolu uzun parşömende saklanan yalnız yüz, Selim'in şarkılarını gösterir."
+    },
+    "durak-07-aciklamalar-neden-metni-buyutur": {
+      "image": "/images/summary-art-200-chapter-06-footnote-maze-v1.webp",
+      "imageCaption": "Küçük cümlenin altında büyüyen dipnot labirenti, açıklamanın çoğalmasını gösterir."
+    },
+    "durak-08-tutunamayanlar-ansiklopedisi": {
+      "image": "/images/summary-art-200-chapter-07-losers-encyclopedia-v1.webp",
+      "imageCaption": "Resmî ciltlerin arasına giren dağınık küçük hayatlar, karşı ansiklopediyi gösterir."
+    },
+    "durak-09-gunseli-nin-anlattigi-selim": {
+      "image": "/images/summary-art-200-chapter-08-gunseli-selim-v1.webp",
+      "imageCaption": "Birbirine uzanan ama arada korku gölgesi bulunan iki el, Selim'in yakınlık sorununu gösterir."
+    },
+    "durak-10-olric-kimdir": {
+      "image": "/images/summary-art-200-chapter-09-olric-v1.webp",
+      "imageCaption": "Turgut'un gölgesinden çıkan küçük sadık figür, Olric adlı iç sesi gösterir."
+    },
+    "durak-11-efendimiz-dili": {
+      "image": "/images/summary-art-200-chapter-10-master-servant-v1.webp",
+      "imageCaption": "Aynı kişiden çıkan efendi ve hizmetkâr siluetleri, iç sesin hiyerarşisini gösterir."
+    },
+    "durak-12-dil-neden-surekli-bozuluyor": {
+      "image": "/images/summary-art-200-chapter-11-broken-language-v1.webp",
+      "imageCaption": "Bürokratik tabelaların çatlayıp içinden kişisel ses çıkması, dil parodisini gösterir."
+    },
+    "durak-13-turkiye-nin-hizli-modernlesmesi": {
+      "image": "/images/summary-art-200-chapter-12-modernization-room-v1.webp",
+      "imageCaption": "Modern mobilyalı odada eski gölgelerin sürmesi, yüzeysel modernleşmeyi gösterir."
+    },
+    "durak-14-kucuk-burjuva-hayatina-bakis": {
+      "image": "/images/summary-art-200-chapter-13-bourgeois-room-v1.webp",
+      "imageCaption": "Düzenli salonun kapısından çıkan adam ve içeride kalan bakım emeği, eleştirinin bedelini gösterir."
+    },
+    "durak-15-selim-i-ararken-selim-olmak": {
+      "image": "/images/summary-art-200-chapter-14-becoming-selim-v1.webp",
+      "imageCaption": "Turgut ve Selim siluetlerinin üst üste gelmesi, arayanın dönüşümünü gösterir."
+    },
+    "durak-16-yolculuk-ve-kaybolus": {
+      "image": "/images/summary-art-200-chapter-15-train-disappearance-v1.webp",
+      "imageCaption": "Karanlığa giden trende silinen Turgut silueti, özgürlük ve kayboluş ikiliğini gösterir."
+    },
+    "durak-17-roman-neden-parcali": {
+      "image": "/images/summary-art-200-chapter-16-fragmented-novel-v1.webp",
+      "imageCaption": "Kırık sayfalardan oluşan insan yüzü, roman biçimi ile parçalanmış deneyimi birleştirir."
+    }
+  }
+}
