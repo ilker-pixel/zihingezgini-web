@@ -52,7 +52,7 @@ def main() -> None:
         counts.append(characters)
         if not minimum <= characters <= maximum:
             failures.append(f"#{number}: {characters} narrative characters outside {minimum}-{maximum}")
-        if summary.get("enrichmentStandardVersion") != 1:
+        if summary.get("enrichmentStandardVersion") not in (1, 2):
             failures.append(f"#{number}: enrichment standard version missing")
         for paragraph in texts:
             if len(paragraph) >= 120:
@@ -135,7 +135,7 @@ def main() -> None:
     print("\n".join(rows))
     print(
         f"\nBATCH: {len(BOOK_NUMBERS)} books · mean {average:.1f} chars · "
-        f"min {min(counts)} · max {max(counts)} · 320 unique interior images · "
+        f"min {min(counts)} · max {max(counts)} · {len(BOOK_NUMBERS) * 16} unique interior images · "
         f"exact shared paragraphs {len(shared)}"
     )
     if failures:

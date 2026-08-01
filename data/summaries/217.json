@@ -1,0 +1,348 @@
+{
+  "bookNo": 217,
+  "title": "Yaşlılık",
+  "author": "Simone de Beauvoir",
+  "subtitle": "Yaşlanmayı yalnız biyolojik gerileme değil, toplumun insanı işten, gelecekten ve kamusal görünürlükten nasıl dışladığıyla şekillenen tarihsel bir durum olarak inceleyen kapsamlı eser.",
+  "coverImage": "/images/summary-cover-217-yaslilik-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/217-yaslilik-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#725C63",
+  "meta": {
+    "originalTitle": "La Vieillesse / The Coming of Age",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "İnsan bir sabah aynaya bakıp birden yaşlı olmaz. Beden yavaşça değişir; fakat toplum emeklilik kâğıdı, küçümseyici hitap, gelir kaybı ve görünmezlik yoluyla kişiye 'artık dışarıdasın' diyebilir. Beauvoir yaşlılığın hem bedende yaşanan hem başkalarının bakışında kurulan ikili gerilimini araştırır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Encyclopaedia overview - The Coming of Age",
+      "url": "https://en.wikipedia.org/wiki/The_Coming_of_Age_(book)"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Simone de Beauvoir",
+      "url": "https://plato.stanford.edu/entries/beauvoir/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Yaşlanmayı yalnız biyolojik gerileme değil, toplumun insanı işten, gelecekten ve kamusal görünürlükten nasıl dışladığıyla şekillenen tarihsel bir durum olarak inceleyen kapsamlı eser.",
+        "Kitap 1970'te yazıldı; tıp, yaşam süresi ve yaşlılık politikaları değişti. Yine de sınıf, yalnızlık, bakım, emeklilik ve insanın gelecekle bağının koparılması üzerine soruları canlıdır. Yaşlıları tek bir kırılgan grup gibi anlatmamak gerekir.",
+        "Beauvoir ilk bölümde biyoloji, etnoloji ve tarih boyunca yaşlılığın dışarıdan nasıl görüldüğünü; ikinci bölümde yaşlanan insanın zamanı, bedeni, ilişkileri ve dünyayı içeriden nasıl yaşadığını birleştirir."
+      ]
+    },
+    {
+      "id": "durak-02-yaslilik-bir-utanc-sirri-gibi-saklanir",
+      "section": "BİRİNCİ KISIM · GÖRÜNMEZLİK",
+      "title": "Yaşlılık bir utanç sırrı gibi saklanır",
+      "paragraphs": [
+        "Beauvoir modern toplumun yaşlılığı konuşmaktan kaçıp yaşlanan insanları göz önünden çektiğini savunur. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Reklamlar genç yüzlerle doluyken bakım evindeki hayat kentin kenarında, aile sohbetinin dışında kalır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Bugün yaşlılık daha görünür olsa da temsil çoğu zaman ya kahraman ya çaresiz klişesine sıkışır. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Bir haberde yaşlı kişinin kendi sesi var mı, yoksa onun adına yalnız aile ve uzmanlar mı konuşuyor diye bakmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Yaşlılık bir utanç sırrı gibi saklanır” ile Yaşlılık kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-beden-degisir-ama-tek-kader-yazmaz",
+      "section": "BİRİNCİ KISIM · BİYOLOJİ",
+      "title": "Beden değişir ama tek kader yazmaz",
+      "paragraphs": [
+        "Kas, duyu, hormon ve hastalık riskleri yaşla değişir; fakat biyolojik yaşlanmanın anlamı bakım, gelir ve çevreye göre farklılaşır. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Aynı diz ağrısı asansörlü evde küçük sınırlama, merdivenli ve yalnız yaşanan evde dışarı çıkmayı bitiren engel olabilir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Biyolojiyi yalnız toplumsal kurgu saymak gerçek ağrı ve tıbbi ihtiyacı küçümser. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Sorunu yalnız bedende değil bedenle çevrenin buluştuğu noktada aramak erişilebilir çözüm üretir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-04-takvim-yasi-ile-yasanan-yas",
+      "section": "BİRİNCİ KISIM · ÖLÇÜ",
+      "title": "Takvim yaşı ile yaşanan yaş",
+      "paragraphs": [
+        "Altmış beş gibi idari eşikler emeklilik ve hizmet için yararlı olsa da insanların kapasitesini tek günde değiştirmez. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Doğum gününden önce yetkin sayılan çalışan ertesi gün aynı beceriyle 'yaşlı personel' kategorisine girer. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Ortak politika için yaş sınırı gerekebilir; sorun sınırı kişisel değerin tamamı sanmaktır. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Takvim yaşını kararın tek nedeni yapmak yerine işlev, istek ve koşulu kişi özelinde değerlendirmek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-05-tarih-boyunca-yaslinin-degisen-yeri",
+      "section": "İKİNCİ KISIM · TARİH",
+      "title": "Tarih boyunca yaşlının değişen yeri",
+      "paragraphs": [
+        "Yaşlı kişinin itibarı, bilgiye erişim, mülkiyet, savaş ve üretim biçimi değiştikçe yükselmiş veya düşmüştür. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Yazısız toplumda uzun hafıza güç sağlayabilir; hızlı teknik değişimde aynı bilgi bir anda eski sayılabilir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Tarihi bilge yaşlıdan terk edilmiş yaşlıya düz çizgi halinde anlatmak farklı sınıf ve cinsiyetleri siler. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir kişinin deneyimini değerli kılan şeyin yalnız yaşı mı, elindeki kaynak ve anlatma imkânı mı olduğunu sormak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Tarih boyunca yaşlının değişen yeri” ile Yaşlılık kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-baska-toplumlar-baska-yasliliklar",
+      "section": "İKİNCİ KISIM · KÜLTÜR",
+      "title": "Başka toplumlar başka yaşlılıklar",
+      "paragraphs": [
+        "Etnografik örnekler yaşlılığa saygı, korku, terk veya bakımın evrensel tek biçimi olmadığını gösterir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Bir topluluk atalarla bağ kuran yaşlıyı tören merkezine alırken başka yerde üretime katılamayan kişi yük sayılabilir. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Eski etnografiler toplumları durağan ve egzotik gösterme riski taşır. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Aile geleneğini değişmez insan doğası diye sunmadan önce tarihsel ekonomi ve bakım düzenini hesaba katmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-07-sinif-insanin-nasil-yaslanacagini-belirler",
+      "section": "ÜÇÜNCÜ KISIM · EŞİTSİZLİK",
+      "title": "Sınıf insanın nasıl yaşlanacağını belirler",
+      "paragraphs": [
+        "Zenginlik daha güvenli iş, sağlık hizmeti ve dinlenme sağlarken yoksulluk bedeni erken yıpratır ve yaşlılıkta seçeneği azaltır. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Biri masa başı işten birikimle emekli olur, diğeri ağır işte sağlığını kaybedip yine çalışmak zorunda kalır. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Gelir bütün farkı açıklamaz; cinsiyet, ırk, göç ve aile yapısı da yaşlanmaya katılır. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Yaşlılık politikasında ortalama ömür yerine sağlıklı yaşam süresinin mahalle ve meslekler arasında nasıl dağıldığına bakmak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Sınıf insanın nasıl yaşlanacağını belirler” ile Yaşlılık kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-emeklilik-ozgurluk-mu-surgun-mu",
+      "section": "ÜÇÜNCÜ KISIM · İŞ",
+      "title": "Emeklilik özgürlük mü sürgün mü?",
+      "paragraphs": [
+        "İşten ayrılmak ağır emekten kurtuluş olabilir; fakat kimlik, gelir ve toplumsal temas bir anda kesilirse insan kendini gereksiz hissedebilir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Kırk yıl sabah aynı saatte çıkan kişi emekliliğin ilk haftasında boş günün özgürlük mü uçurum mu olduğunu bilemez. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "İşi insan değerinin tek kaynağı yapmak da sömürüye teslim olur; anlam ücretli işten fazladır. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Emeklilik öncesinde yalnız para değil günlük ritim, ilişki ve katkı yolları için de geçiş planı kurmak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-09-baskalarinin-bakisinda-yaslanmak",
+      "section": "ÜÇÜNCÜ KISIM · ÖTEKİ",
+      "title": "Başkalarının bakışında yaşlanmak",
+      "paragraphs": [
+        "İnsan kendini içeriden geçmişinin devamı olarak yaşarken başkaları onu önce 'yaşlı' etiketiyle görebilir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Otobüste yer verilmesi bedeni rahatlatır ama kişinin bir anda kırılgan kategoriye konduğunu da hissettirebilir. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Her yardım küçümseme değildir; niyet kadar yardımın nasıl teklif edildiği ve kişinin seçimi önemlidir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Destek sunarken doğrudan yapmaya başlamadan önce sormak, yardım ile vesayet arasındaki sınırı korur. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Başkalarının bakışında yaşlanmak” ile Yaşlılık kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-tibbi-bakis-ve-kisinin-hikayesi",
+      "section": "ÜÇÜNCÜ KISIM · SAĞLIK",
+      "title": "Tıbbi bakış ve kişinin hikâyesi",
+      "paragraphs": [
+        "Yaşlı beden yalnız hastalık listesine indirgenirse kişinin arzusu, geçmişi ve kendi risk tercihi kaybolur. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Doktor testleri düzeltmeye odaklanırken hasta torununun düğününe uyanık katılabilmeyi asıl hedef sayabilir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Kişisel hikâye tıbbi kanıtın yerine geçmez; ortak karar iki bilgiyi birleştirmelidir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Tedavide 'hangi değeri düzeltelim?' kadar 'bu insan neyi yapabilmek istiyor?' sorusunu da sormak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ]
+    },
+    {
+      "id": "durak-11-gelecegin-kisalmasi",
+      "section": "DÖRDÜNCÜ KISIM · ZAMAN",
+      "title": "Geleceğin kısalması",
+      "paragraphs": [
+        "Yaşlanan kişi önündeki zamanın sınırlı olduğunu daha keskin hissedebilir; projeler ve seçimler bu ufka göre değişir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "On yıllık plan yerine gelecek yazı görmek önem kazanır, ertelenmiş görüşme acil hale gelir. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Genç de erken ölebilir, yaşlı da uzun yaşayabilir; öznel ufuk takvim hesabından daha karmaşıktır. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Sınırlı zamanı yalnız kayıp değil öncelikleri berraklaştıran bilgi olarak kullanmak mümkündür. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Geleceğin kısalması” ile Yaşlılık kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-12-gecmis-buyur-ani-degisir",
+      "section": "DÖRDÜNCÜ KISIM · BELLEK",
+      "title": "Geçmiş büyür, anı değişir",
+      "paragraphs": [
+        "Yaş ilerledikçe geçmiş yaşamın büyük bölümünü kaplar; anılar bugünkü ihtiyaçla yeniden yorumlanabilir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Eski mahalle fotoğrafı yalnız evi değil artık hayatta olmayan insanları ve kişinin önceki benliğini geri çağırır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Nostalji geçmişteki acı ve eşitsizliği parlatabilir; bellek kayıt cihazı değildir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir anıyı anlatırken o günkü olayla bugünkü yorumun birbirinden farklı olabileceğini açık tutmak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-13-cinsellik-yok-olmaz",
+      "section": "DÖRDÜNCÜ KISIM · BEDEN VE ARZU",
+      "title": "Cinsellik yok olmaz",
+      "paragraphs": [
+        "Toplum yaşlı bedeni arzu dışı sayarken yakınlık ve cinsellik biçim değiştirerek sürebilir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Bakım evindeki iki kişi el ele tuttuğunda aile veya kurum bunu çocukça görüp özel alanlarını engelleyebilir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Sağlık, rıza, yas ve ilaçlar deneyimi etkiler; herkese aynı aktiflik beklentisi dayatılmamalıdır. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Yaşlı kişinin mahremiyetini ve rızaya dayalı yakınlığını saygıyla tanımak bakımın parçasıdır. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-14-aile-sevgisi-bakim-yukunu-cozmez",
+      "section": "DÖRDÜNCÜ KISIM · BAKIM",
+      "title": "Aile sevgisi bakım yükünü çözmez",
+      "paragraphs": [
+        "Aile yaşlılıkta temel dayanışma sağlayabilir; fakat bakım yalnız sevgiye bırakıldığında çoğu kez kadınların görünmez ve tükenmiş emeğine dönüşür. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Kız çocuğu işini azaltıp ebeveyne bakar, kardeşler sevgiden söz ederken zaman ve para yükü tek kişide kalır. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Kurumsal bakım da otomatik insancıl değildir; personel, denetim ve süreklilik gerekir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Bakım planında sevgi cümlesinin yanına saat, maliyet, dinlenme hakkı ve profesyonel desteği somut olarak yazmak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Aile sevgisi bakım yükünü çözmez” ile Yaşlılık kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-kurumda-kisi-dosyaya-donusebilir",
+      "section": "BEŞİNCİ KISIM · KURUMLAR",
+      "title": "Kurumda kişi dosyaya dönüşebilir",
+      "paragraphs": [
+        "Toplu bakım düzeni güvenlik sağlar fakat katı program ve personel yetersizliği kişiyi kendi alışkanlığından koparabilir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Yıllarca gece çay içen kişi kurumda saat sekizde ışıklar kapanınca kendi evindeki küçük özgürlüğünü kaybeder. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Evde kalmak her zaman güvenli veya tercih edilen değildir; iyi kurum bağımsızlık ve bakım arasında denge kurabilir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Bakım kalitesini yalnız temiz oda değil, kişinin seçim yapabildiği küçük günlük alanlarla da ölçmek gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-16-etkinlik-baskisi-da-yas-ayrimciligi-olabilir",
+      "section": "BEŞİNCİ KISIM · YENİ KİPLER",
+      "title": "Etkinlik baskısı da yaş ayrımcılığı olabilir",
+      "paragraphs": [
+        "Yaşlıyı yalnız pasif gören klişeye karşı 'hep genç, üretken ve enerjik kal' baskısı da kırılganlık ve dinlenme hakkını inkâr edebilir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Seksen yaşındaki kişi maraton koşmadığı için başarısız, televizyon izlediği için teslim olmuş gibi sunulur. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Hareket ve katılım yararlıdır; sorun tek iyi yaşlanma modeli dayatmaktır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Kişinin kendi hızını ve arzusunu sormadan başarı hikâyesi üretmemek gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Etkinlik baskısı da yaş ayrımcılığı olabilir” ile Yaşlılık kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-yaslilik-gelecekteki-baskamizdir",
+      "section": "BEŞİNCİ KISIM · ETİK",
+      "title": "Yaşlılık gelecekteki başkamızdır",
+      "paragraphs": [
+        "Yaşlıları tamamen başka grup saymak, kendi geleceğimizle bağımızı keser ve bugünkü dışlamayı kolaylaştırır. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Genç çalışan yaşlı müşteriye sabırsız davranırken aslında gelecekteki olası bedeninin ihtiyaçlarını da değersizleştirir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Herkes aynı biçimde yaşlanmaz ve herkes yaşlılığa ulaşmaz; ortak kader dili farkları silmemelidir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Kamusal alanı bugünkü en güçlü beden için değil farklı hız ve kapasitelere göre kurmak bütün yaşlara yarar. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Beauvoir yaşlanmayı yalnız sefalet ve çöküş olarak görmez. Asıl öfkesi, doğal bedensel değişimleri toplumsal dışlama, yoksulluk ve gereksizlik duygusuyla ağırlaştıran düzene yöneliktir.",
+        "İşitme kaybı biyolojik olabilir; toplantıda mikrofon kullanmamak ve kişiyi konuşmaya çağırmamak bu farkı toplumsal sessizliğe dönüştürür.",
+        "Yaşlılık için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser yaşlılığı felsefe, tarih, biyoloji ve gündelik deneyimle birlikte inceleyen öncü çalışmalardan biri oldu; yaş ayrımcılığını siyasi mesele haline getirdi.",
+        "Kitabın örneklerinin bazen karamsar ve genelleyici olduğu, Batı dışı toplumları eski antropoloji kaynaklarıyla anlattığı ve sonraki tıbbi-demografik değişimleri doğal olarak içermediği belirtilir.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Yaşlılık bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Bu sınırlama bedenden mi çevreden mi geliyor? Yardım kişinin seçimini koruyor mu? Yaşlılık politikasında bakım emeğini kim üstleniyor?",
+        "Sık kullandığınız bir kamusal alanı daha yavaş yürüyen, az işiten veya oturmaya ihtiyaç duyan biri gibi düşünün; bağımsızlığı artıracak üç küçük değişikliği yazın.",
+        "Yaşlılık bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Yaşlılık biyolojik değişimdir ama nasıl yaşandığını sınıf, bakım, iş, mekân ve başkalarının bakışı belirler; insanca yaşlanma bütün toplumun değer düzenini sınar.",
+        "Akılda tutulacak son görüntü, genç ve yaşlı aynı kişinin iki aynada karşılaştığı, aralarında takvim değil merdiven, iş kartı, bakım eli ve açık şehir yolu bulunan gül kurusu bir yaşam sahnesidir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Yaşlılık adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-yaslilik-bir-utanc-sirri-gibi-saklanir": {
+      "image": "/images/summary-art-217-chapter-01-yaslilik-bir-utanc-sirri-gibi-saklanir-v1.webp",
+      "imageCaption": "Yaşlılık bir utanç sırrı gibi saklanır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-beden-degisir-ama-tek-kader-yazmaz": {
+      "image": "/images/summary-art-217-chapter-02-beden-degisir-ama-tek-kader-yazmaz-v1.webp",
+      "imageCaption": "Beden değişir ama tek kader yazmaz düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-takvim-yasi-ile-yasanan-yas": {
+      "image": "/images/summary-art-217-chapter-03-takvim-yasi-ile-yasanan-yas-v1.webp",
+      "imageCaption": "Takvim yaşı ile yaşanan yaş düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-tarih-boyunca-yaslinin-degisen-yeri": {
+      "image": "/images/summary-art-217-chapter-04-tarih-boyunca-yaslinin-degisen-yeri-v1.webp",
+      "imageCaption": "Tarih boyunca yaşlının değişen yeri düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-baska-toplumlar-baska-yasliliklar": {
+      "image": "/images/summary-art-217-chapter-05-baska-toplumlar-baska-yasliliklar-v1.webp",
+      "imageCaption": "Başka toplumlar başka yaşlılıklar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-sinif-insanin-nasil-yaslanacagini-belirler": {
+      "image": "/images/summary-art-217-chapter-06-sinif-insanin-nasil-yaslanacagini-belirler-v1.webp",
+      "imageCaption": "Sınıf insanın nasıl yaşlanacağını belirler düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-emeklilik-ozgurluk-mu-surgun-mu": {
+      "image": "/images/summary-art-217-chapter-07-emeklilik-ozgurluk-mu-surgun-mu-v1.webp",
+      "imageCaption": "Emeklilik özgürlük mü sürgün mü? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-baskalarinin-bakisinda-yaslanmak": {
+      "image": "/images/summary-art-217-chapter-08-baskalarinin-bakisinda-yaslanmak-v1.webp",
+      "imageCaption": "Başkalarının bakışında yaşlanmak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-tibbi-bakis-ve-kisinin-hikayesi": {
+      "image": "/images/summary-art-217-chapter-09-tibbi-bakis-ve-kisinin-hikayesi-v1.webp",
+      "imageCaption": "Tıbbi bakış ve kişinin hikâyesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-gelecegin-kisalmasi": {
+      "image": "/images/summary-art-217-chapter-10-gelecegin-kisalmasi-v1.webp",
+      "imageCaption": "Geleceğin kısalması düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-gecmis-buyur-ani-degisir": {
+      "image": "/images/summary-art-217-chapter-11-gecmis-buyur-ani-degisir-v1.webp",
+      "imageCaption": "Geçmiş büyür, anı değişir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-cinsellik-yok-olmaz": {
+      "image": "/images/summary-art-217-chapter-12-cinsellik-yok-olmaz-v1.webp",
+      "imageCaption": "Cinsellik yok olmaz düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-aile-sevgisi-bakim-yukunu-cozmez": {
+      "image": "/images/summary-art-217-chapter-13-aile-sevgisi-bakim-yukunu-cozmez-v1.webp",
+      "imageCaption": "Aile sevgisi bakım yükünü çözmez düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-kurumda-kisi-dosyaya-donusebilir": {
+      "image": "/images/summary-art-217-chapter-14-kurumda-kisi-dosyaya-donusebilir-v1.webp",
+      "imageCaption": "Kurumda kişi dosyaya dönüşebilir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-etkinlik-baskisi-da-yas-ayrimciligi-olabilir": {
+      "image": "/images/summary-art-217-chapter-15-etkinlik-baskisi-da-yas-ayrimciligi-olabilir-v1.webp",
+      "imageCaption": "Etkinlik baskısı da yaş ayrımcılığı olabilir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-yaslilik-gelecekteki-baskamizdir": {
+      "image": "/images/summary-art-217-chapter-16-yaslilik-gelecekteki-baskamizdir-v1.webp",
+      "imageCaption": "Yaşlılık gelecekteki başkamızdır düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}
