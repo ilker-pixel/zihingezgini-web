@@ -1,0 +1,347 @@
+{
+  "bookNo": 104,
+  "title": "Komünist Manifesto",
+  "author": "Karl Marx ve Friedrich Engels",
+  "subtitle": "Kapitalizmin dünyayı nasıl hızla dönüştürdüğünü, sınıf çatışmasını ve ortak bir siyasal hareket çağrısını kısa, ateşli ve tarihsel etkisi büyük bir metinde birleştiren manifesto.",
+  "coverImage": "/images/summary-cover-104-komunist-manifesto-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/104-komunist-manifesto-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#87463F",
+  "meta": {
+    "originalTitle": "Manifest der Kommunistischen Partei",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir kumaş fabrikasında yüzlerce insan aynı saatte çalışır, fakat makineye ve ürüne sahip değildir. Aynı fabrika uzak kıtalardan pamuk alır ve bütün dünyaya mal satar. Manifesto bu yeni düzenin hem baş döndürücü üretim gücünü hem derin çatışmasını anlatır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Marxists Internet Archive - Manifesto of the Communist Party",
+      "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/"
+    },
+    {
+      "id": 2,
+      "title": "Encyclopaedia Britannica - The Communist Manifesto",
+      "url": "https://www.britannica.com/topic/The-Communist-Manifesto"
+    },
+    {
+      "id": 3,
+      "title": "Stanford Encyclopedia of Philosophy - Karl Marx",
+      "url": "https://plato.stanford.edu/entries/marx/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Kapitalizmin dünyayı nasıl hızla dönüştürdüğünü, sınıf çatışmasını ve ortak bir siyasal hareket çağrısını kısa, ateşli ve tarihsel etkisi büyük bir metinde birleştiren manifesto.",
+        "Bu bir ayrıntılı ekonomi kitabı değil, 1848 devrimleri öncesinde yazılmış siyasal çağrıdır. Keskin cümleleri harekete geçirmek için yoğunlaştırılmıştır; tarihsel iddiaları sonraki araştırma ve deneyimle sınamak gerekir.",
+        "Bu rehber, Karl Marx ve Friedrich Engels tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-bir-hayalet-neden-dolasiyor",
+      "section": "BİRİNCİ KISIM · ÇAĞRI",
+      "title": "Bir hayalet neden dolaşıyor?",
+      "paragraphs": [
+        "Açılış cümlesindeki hayalet, komünizmin henüz iktidarda olmadan Avrupa hükümetlerini korkutan bir ihtimal oluşunu anlatır. Metin rakiplerin verdiği adı ortak siyasal kimliğe çevirir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Mahallede herkes hakkında konuştuğu ama kimsenin açıkça sahiplenmediği fikir, korkuyla olduğundan büyük görünür; savunucuları adını ilan edince belirsiz hayalet programa dönüşür.",
+        "Retorik güç kanıtın yerini tutmaz. Manifestonun unutulmaz dili tarihsel karmaşıklığı ikili cepheye sıkıştırabilir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir siyasal metinde önce duyguyu harekete geçiren imgeyi, sonra onu destekleyen somut iddiayı ayırın."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Bir hayalet neden dolaşıyor?” başlığının yalnız kendi örneğini değil Komünist Manifesto boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-tarih-sinif-mucadelelerinin-tarihi-mi",
+      "section": "BİRİNCİ KISIM · TARİH",
+      "title": "Tarih sınıf mücadelelerinin tarihi mi?",
+      "paragraphs": [
+        "Manifesto yazılı toplum tarihini üretim araçlarına sahip olanlarla emek veren sınıfların çatışması üzerinden okur. Efendi-köle, derebeyi-serf ve burjuva-proleter farklı dönemlerin temel gerilimleridir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Apartmanda arızalı asansör tartışması zevk farkı değil masrafı kimin ödeyeceği ve kararı kimin vereceği sorununa döndüğünde maddi konum ilişkileri açığa çıkar.",
+        "Sınıf güçlü mercektir ama cinsiyet, ırk, din, milliyet ve statü çatışmalarını tek başına açıklamaz. Bunlar sınıfla kesişir ve bazen kendi dinamiğini taşır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir toplumsal tartışmada fikirlerin yanında kimin kaynağa sahip, kimin karar altında çalıştığını haritalayın."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Tarih sınıf mücadelelerinin tarihi mi?” başlığının yalnız kendi örneğini değil Komünist Manifesto boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-burjuvazinin-devrimci-gucu",
+      "section": "İKİNCİ KISIM · KAPİTALİZM",
+      "title": "Burjuvazinin devrimci gücü",
+      "paragraphs": [
+        "Marx ve Engels burjuvaziyi yalnız kötülemez; feodal bağları çözüp üretimi, bilimi ve dünya ticaretini olağanüstü hızla dönüştüren devrimci sınıf olarak anlatır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Buharlı makine köyde yüzyıllardır aynı kalan üretimi birkaç on yılda fabrikaya, demiryoluna ve dünya pazarına bağlar. Eski unvanın yerini para ilişkisi alır.",
+        "Dönüşüm her yerde aynı hız ve biçimde yaşanmadı; kapitalizm feodal ve sömürgeci yapıları bazen yıkmak yerine onlarla birleşti. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir sistemi eleştirirken hangi eski engelleri gerçekten kaldırdığını da görmek, eleştiriyi daha doğru ve güçlü yapar."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Burjuvazinin devrimci gücü” başlığının yalnız kendi örneğini değil Komünist Manifesto boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-kati-olan-her-sey-buharlasiyor",
+      "section": "İKİNCİ KISIM · KAPİTALİZM",
+      "title": "Katı olan her şey buharlaşıyor",
+      "paragraphs": [
+        "Rekabet firmaları sürekli yenilik yapmaya zorlar; meslek, şehir ve gelenek hızla değişir. İnsanlar kalıcı görünen ilişkilerin pazar baskısıyla çözüldüğünü yaşar. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Babanızın ömür boyu yaptığı iş on yıl içinde yazılım tarafından dönüşür; şehir merkezi alışveriş uygulamasıyla boşalır. Değişim istisna değil düzenin kuralıdır.",
+        "Geleneklerin çözülmesi yalnız kayıp değildir; baskıcı bağlardan kaçış da sağlar. Yenilik hem özgürleştirici hem güvencesizleştiricidir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir teknolojik yeniliği yalnız kolaylıkla değil hangi beceri, mahalle ve ilişkiyi erittiğiyle birlikte değerlendirin."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Katı olan her şey buharlaşıyor” başlığının yalnız kendi örneğini değil Komünist Manifesto boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-dunya-pazari",
+      "section": "ÜÇÜNCÜ KISIM · KÜRESELLEŞME",
+      "title": "Dünya pazarı",
+      "paragraphs": [
+        "Kapitalizm üretim ve tüketimi ulusal sınırların ötesine taşır; hammaddeler, emek ve kültür ürünleri dünya çapında birbirine bağlanır. Manifesto küreselleşmeyi çok erken ve çarpıcı biçimde görür. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Telefonunuzdaki maden başka kıtadan, tasarım başka ülkeden, montaj başka şehirden gelir. Tek nesnenin içinde görünmez dünya haritası taşınır.",
+        "Bağlantı eşit alışveriş değildir; sömürgecilik, zorla emek ve eşitsiz ticaret bu ağın tarihsel parçasıdır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir ürün alırken fiyat etiketinin arkasındaki ham madde, emek ve taşıma zincirini izleyin."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Dünya pazarı” başlığının yalnız kendi örneğini değil Komünist Manifesto boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-kriz-neden-bollugun-icinden-cikar",
+      "section": "ÜÇÜNCÜ KISIM · KÜRESELLEŞME",
+      "title": "Kriz neden bolluğun içinden çıkar?",
+      "paragraphs": [
+        "Kapitalist kriz kıtlıktan değil satılabilecekten fazla üretim ve alım gücü yetersizliğinden doğabilir. Fabrika mal doluyken işçi işsiz ve ihtiyaç sahibi kalabilir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Fırın rafı ekmekle doludur ama işten çıkarılan mahallelinin parası yoktur; ekmek satılmadığı için üretim durur, ihtiyaç sürerken bolluk israfa dönüşür.",
+        "Krizlerin tek nedeni aşırı üretim değildir; finans, borç, politika ve dış şoklar farklı dönemlerde rol oynar. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Ekonomik durgunluğu yalnız az üretim diye değil üretim ile satın alma gücünün kopması olarak da düşünün."
+      ]
+    },
+    {
+      "id": "durak-08-proleter-kimdir",
+      "section": "DÖRDÜNCÜ KISIM · EMEK",
+      "title": "Proleter kimdir?",
+      "paragraphs": [
+        "Proleter üretim aracına sahip olmadığı için yaşamak üzere emek gücünü satan işçidir. Ortak konum aynı fabrikada toplanma ve örgütlenme imkânı yaratır. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Kuryenin motosikleti kendine ait olsa da siparişe erişimi platform belirliyorsa görünür araç sahipliği ekonomik denetim anlamına gelmeyebilir.",
+        "İşçi sınıfı tek tip değildir; beceri, sözleşme, göç, cinsiyet ve ülke farklı çıkarlar yaratır. Otomatik birlik beklenemez. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir çalışanın neye sahip olduğundan çok işin koşulunu, müşteriye erişimi ve gelirin kuralını kimin belirlediğini sorun."
+      ]
+    },
+    {
+      "id": "durak-09-rekabet-iscileri-de-karsi-karsiya-getirir",
+      "section": "DÖRDÜNCÜ KISIM · EMEK",
+      "title": "Rekabet işçileri de karşı karşıya getirir",
+      "paragraphs": [
+        "Ortak çıkar örgütlenmeyi mümkün kılarken iş bulma yarışı, ücret farkı ve kimlik bölünmeleri işçileri birbirine rakip yapar. Sınıf bilinci kendiliğinden değil mücadele içinde kurulur. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Aynı depodaki çalışanlar ücret artışı ister; yönetim bir gruba küçük prim verip diğerini suçlayınca ortak talep parçalanır.",
+        "Her dayanışma yalnız sınıf üzerinden kurulmaz. Irkçılık ve cinsiyetçilik maddi rekabetle birleşebilir ama ayrı tarih ve mücadele de taşır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir iş çatışmasında kimin hangi teşvik ve korkuyla diğer gruptan ayrıldığını görün."
+      ]
+    },
+    {
+      "id": "durak-10-komunistler-ayri-bir-tarikat-mi",
+      "section": "BEŞİNCİ KISIM · PROGRAM",
+      "title": "Komünistler ayrı bir tarikat mı?",
+      "paragraphs": [
+        "Metne göre komünistler işçi hareketinden ayrı gizli çıkar taşımaz; ulusal mücadeleler içinde ortak sınıf çıkarını ve uzun vadeli hedefi görünür kılmak ister. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Mahalle grubunda herkes kendi sokak lambasını isterken biri bütünü gösterip ortak elektrik altyapısını savunur. Ayrı mahalle değil genel bağlantı kurmaya çalışır.",
+        "Bir hareketin evrensel çıkar iddiası kendi liderliğini sorgulanmaz yapabilir. Temsil ve iç demokrasi sürekli sınanmalıdır. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir örgütün herkes adına konuştuğunda üyelerin gerçekten söz ve denetim gücü olup olmadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-11-ozel-mulkiyet-tartismasi",
+      "section": "BEŞİNCİ KISIM · PROGRAM",
+      "title": "Özel mülkiyet tartışması",
+      "paragraphs": [
+        "Manifesto kişisel eşyaları değil başkalarının emeği üzerinden gelir ve denetim sağlayan burjuva özel mülkiyetini hedef alır. Fabrika sahipliği ile kullanılan mont aynı tür mülkiyet değildir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Evdeki diş fırçanız yalnız size hizmet eder; yüz kişinin çalıştığı fabrikanın mülkiyeti iş ve gelir kararlarını başkaları üzerinde güç hâline getirir.",
+        "Kişisel ve üretken mülkiyet sınırı gerçek ekonomide karmaşık olabilir; küçük işletme, konut ve emeklilik birikimi farklı durumlar yaratır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Mülkiyet tartışmasında nesnenin varlığından çok sahibine başkalarının hayatı üzerinde hangi karar gücünü verdiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-12-aile-ve-gorunmeyen-emek",
+      "section": "ALTINCI KISIM · İTİRAZLAR",
+      "title": "Aile ve görünmeyen emek",
+      "paragraphs": [
+        "Manifesto burjuva ailesinin miras, mülkiyet ve kadın emeğiyle ilişkisini eleştirir. Ücretli üretimin arkasında çocuk bakımı, yemek ve ev işi gibi görünmeyen yeniden üretim emeği bulunur. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Fabrika vardiyası sabah başlayabiliyorsa birileri çocuğu hazırlamış, yemek yapmış ve işçinin bakımını üstlenmiştir. Maaş bordrosu bu emeği göstermez.",
+        "Metin bakım emeğini daha sonraki feminist kuramlar kadar ayrıntılı işlemez ve aileyi tek biçimde ele alabilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir ekonomik hesapta işi mümkün kılan ücretsiz veya düşük ücretli bakım zincirini görünür kılın."
+      ]
+    },
+    {
+      "id": "durak-13-egitim-kimin-fikrini-tasir",
+      "section": "ALTINCI KISIM · İTİRAZLAR",
+      "title": "Eğitim kimin fikrini taşır?",
+      "paragraphs": [
+        "Eğitim tarafsız boşluk değildir; toplumun üretim ve güç ilişkilerini yeniden üretebilir. Manifesto çocukların fabrika sömürüsüne karşı kamusal eğitimini savunurken egemen sınıfın fikir etkisini eleştirir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Ders kitabı başarıyı yalnız bireysel çalışmayla anlatıp miras ve okul farkını silerse mevcut düzeni doğal gösterir.",
+        "Eğitimi yalnız propaganda saymak öğretmen ve öğrencinin eleştirel hareket alanını küçültür. Okul mevcut düzeni hem yeniden üretebilir hem sorgulatabilir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir eğitim içeriğinde hangi hayat biçiminin normal, hangisinin görünmez bırakıldığını sorun."
+      ]
+    },
+    {
+      "id": "durak-14-iscilerin-vatani-yok-mu",
+      "section": "YEDİNCİ KISIM · ULUS",
+      "title": "İşçilerin vatanı yok mu?",
+      "paragraphs": [
+        "Üretim ve sermaye küreselleştikçe işçilerin ortak maddi çıkarı ulusal sınırı aşabilir. 'Bütün ülkelerin işçileri birleşin' çağrısı savaşta birbirine kırdırılan emekçileri ortaklığa çağırır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "İki ülkedeki fabrika işçileri aynı şirketin ücret düşürme kararından etkilenirken bayrakları farklı olsa da ekonomik zincirleri ortaktır.",
+        "Ulusal kimlik gerçek bağlılık, dil ve tarih taşır; sınıf çıkarı onu otomatik silmez. Sömürge altındaki halklar için ulusal kurtuluş farklı anlam taşır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Küresel şirkete karşı pazarlıkta çalışanların sınır ötesi bilgi ve dayanışma ihtiyacını düşünün."
+      ]
+    },
+    {
+      "id": "durak-15-diger-sosyalizm-elestirileri",
+      "section": "YEDİNCİ KISIM · ULUS",
+      "title": "Diğer sosyalizm eleştirileri",
+      "paragraphs": [
+        "Manifesto feodal, küçük burjuva, ütopik ve muhafazakâr sosyalizm türlerini eleştirir. Yazarlar iyi niyetli tasarımın sınıf mücadelesi ve maddi güç olmadan kalıcı dönüşüm yaratamayacağını savunur. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Patronun işçiye daha nazik davranmasını isteyen plan, fabrikanın karar yapısını değiştirmeden acıyı azaltabilir ama güç ilişkisini korur.",
+        "Rakipleri kısa etiketlerle küçümsemek onların gerçek katkılarını siler. Kooperatif, reform ve ütopya pratik değişime ilham verebilir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir değişim önerisinin yalnız iyi niyet mi, kurumsal güç ve uygulanabilir geçiş yolu da mı sunduğunu sorun."
+      ]
+    },
+    {
+      "id": "durak-16-devrim-kacinilmaz-mi",
+      "section": "SEKİZİNCİ KISIM · TARİHSEL SINIR",
+      "title": "Devrim kaçınılmaz mı?",
+      "paragraphs": [
+        "Metin kapitalizmin kendi mezar kazıcısını ürettiğini söyler; yoğunlaşan işçiler örgütlenerek düzeni aşacaktır. Bu güçlü yön iddiası sonraki tarihte çok farklı yollarla sınandı. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Fabrika binlerce kişiyi aynı çatıya toplar; onları denetlerken tanışma ve ortak eylem imkânı da yaratır.",
+        "Tarih otomatik makine değildir. Sendikalar, refah devleti, milliyetçilik, baskı ve yeni orta sınıflar çatışmayı farklı biçimlere çevirdi. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir eğilimin güçlü olmasını sonucunun kaçınılmazlığıyla karıştırmayın; karşı kurum ve siyasi seçimleri hesaba katın."
+      ]
+    },
+    {
+      "id": "durak-17-manifestodan-kalan-canli-soru",
+      "section": "SEKİZİNCİ KISIM · TARİHSEL SINIR",
+      "title": "Manifestodan kalan canlı soru",
+      "paragraphs": [
+        "Metnin ayrıntılı kehanetlerinden çok üretim gücü, mülkiyet ve insan ihtiyacı arasındaki çatışma kalıcıdır. Teknoloji bolluk yaratırken güvencesizlik ve eşitsizlik neden sürebilir? Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Depoda robotlar verimi artırır; çalışanların süresi kısalmak yerine işten çıkarılma korkusu büyüyorsa üretkenlik kazancının kime gittiği sorusu açılır.",
+        "Her eşitsizliği aynı sınıf şemasına sıkıştırmak yeni deneyimleri kaçırır. Ekoloji, bakım ve dijital gözetim eski çerçeveyi genişletir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Yeni teknolojide yalnız ne kadar ürettiğine değil denetim, gelir ve boş zamanı nasıl dağıttığına bakın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Manifesto bütün kişisel eşyaların alınmasını, tarihin otomatik olarak tek sonuca gideceğini veya her toplumsal sorunun yalnız iki sınıftan ibaret olduğunu kanıtlamaz. 1848'in siyasal çağrısıdır; güçlü teşhisleri tarihsel sonuçlarla birlikte sınanmalıdır.",
+        "Komünist Manifesto tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Karl Marx ve Friedrich Engels ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Dünya tarihinin en etkili siyasal metinlerinden biri olmuş; işçi hareketlerini, devrimleri ve sosyal politika tartışmalarını şekillendirmiştir. Öngörülerinin doğruluğu, devrimci rejimlerin deneyimi, sınıf dışı iktidar biçimleri ve demokratik geçiş yolları yoğun tartışma konusudur.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Komünist Manifesto için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Komünist Manifesto için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Üretim aracını ve çalışma kuralını kim denetliyor? Verim artışının kazancı kime gidiyor? Ortak ekonomik çıkar, kimlik ve ülke farkları içinde nasıl gerçek dayanışmaya dönüşebilir?",
+        "Bu sorular Komünist Manifesto için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Komünist Manifesto üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Kapitalizm üretimi ve dünyayı görülmemiş hızla dönüştürürken mülkiyet ile emek arasında sürekli çatışma üretir; manifesto bu çelişkiyi işçilerin örgütlü, uluslararası siyasal eylem çağrısına dönüştürür.",
+        "Akılda kalacak son görüntü, eski dünyanın taş kalesini yaran buharlı fabrika çarklarının arasından dünya pazarına ve birleşen işçi ellerine uzanan kırmızı bir yol olmasıdır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Komünist Manifesto adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-bir-hayalet-neden-dolasiyor": {
+      "image": "/images/summary-art-104-chapter-01-specter-europe-v1.webp",
+      "imageCaption": "Avrupa haritası üzerinde dolaşan saydam hayalet, fikrin siyasal korkuya dönüşmesini gösterir."
+    },
+    "durak-03-tarih-sinif-mucadelelerinin-tarihi-mi": {
+      "image": "/images/summary-art-104-chapter-02-class-staircase-v1.webp",
+      "imageCaption": "Aynı binanın farklı katlarında emek ve mülkiyet grupları, sınıf çatışmasını gösterir."
+    },
+    "durak-04-burjuvazinin-devrimci-gucu": {
+      "image": "/images/summary-art-104-chapter-03-bourgeois-engine-v1.webp",
+      "imageCaption": "Eski kale duvarını delen fabrika ve tren, burjuvazinin dönüştürücü gücünü simgeler."
+    },
+    "durak-05-kati-olan-her-sey-buharlasiyor": {
+      "image": "/images/summary-art-104-chapter-04-melting-solid-v1.webp",
+      "imageCaption": "Taş kurumların buhara dönüşüp fabrikaya karışması, sürekli kapitalist değişimi gösterir."
+    },
+    "durak-06-dunya-pazari": {
+      "image": "/images/summary-art-104-chapter-05-world-market-v1.webp",
+      "imageCaption": "Tek bir malın içinden çıkan kıtalararası yollar, dünya pazarını gösterir."
+    },
+    "durak-07-kriz-neden-bollugun-icinden-cikar": {
+      "image": "/images/summary-art-104-chapter-06-overproduction-crisis-v1.webp",
+      "imageCaption": "Dolu depo kapısında işsiz insanlar, bolluk içindeki krizi simgeler."
+    },
+    "durak-08-proleter-kimdir": {
+      "image": "/images/summary-art-104-chapter-07-proletarian-platform-v1.webp",
+      "imageCaption": "Farklı işçileri aynı üretim ağına bağlayan görünmez çizgiler, ortak ekonomik konumu gösterir."
+    },
+    "durak-09-rekabet-iscileri-de-karsi-karsiya-getirir": {
+      "image": "/images/summary-art-104-chapter-08-divided-workers-v1.webp",
+      "imageCaption": "Aynı zincirde birbirine sırt dönen işçiler, rekabetin bölücü gücünü gösterir."
+    },
+    "durak-10-komunistler-ayri-bir-tarikat-mi": {
+      "image": "/images/summary-art-104-chapter-09-movement-compass-v1.webp",
+      "imageCaption": "Dağınık yerel yolları ortak ufka bağlayan pusula, komünistlerin iddia edilen rolünü gösterir."
+    },
+    "durak-11-ozel-mulkiyet-tartismasi": {
+      "image": "/images/summary-art-104-chapter-10-property-types-v1.webp",
+      "imageCaption": "Bir yanında kişisel ceket, diğerinde fabrika anahtarı bulunan terazi, mülkiyet ayrımını gösterir."
+    },
+    "durak-12-aile-ve-gorunmeyen-emek": {
+      "image": "/images/summary-art-104-chapter-11-hidden-care-v1.webp",
+      "imageCaption": "Fabrika çarklarının arkasında evi ayakta tutan görünmez eller, yeniden üretim emeğini gösterir."
+    },
+    "durak-13-egitim-kimin-fikrini-tasir": {
+      "image": "/images/summary-art-104-chapter-12-education-press-v1.webp",
+      "imageCaption": "Kitap sayfaları ile fabrika çarkları arasındaki çocuk, eğitimin toplumsal konumunu gösterir."
+    },
+    "durak-14-iscilerin-vatani-yok-mu": {
+      "image": "/images/summary-art-104-chapter-13-workers-world-v1.webp",
+      "imageCaption": "Farklı bayrakların altından aynı üretim zincirini tutan eller, enternasyonal çağrıyı gösterir."
+    },
+    "durak-15-diger-sosyalizm-elestirileri": {
+      "image": "/images/summary-art-104-chapter-14-socialisms-map-v1.webp",
+      "imageCaption": "Farklı yönlere giden reform ve devrim yolları, sosyalizm içi tartışmayı gösterir."
+    },
+    "durak-16-devrim-kacinilmaz-mi": {
+      "image": "/images/summary-art-104-chapter-15-gravedigger-clock-v1.webp",
+      "imageCaption": "Fabrika çarkından çıkan örgütlü eller ve açık yol, tarihsel olasılığı gösterir."
+    },
+    "durak-17-manifestodan-kalan-canli-soru": {
+      "image": "/images/summary-art-104-chapter-16-manifesto-today-v1.webp",
+      "imageCaption": "Robotlu bolluk deposunun dışında güvencesiz sıra, manifestonun bugünkü sorusunu gösterir."
+    }
+  }
+}

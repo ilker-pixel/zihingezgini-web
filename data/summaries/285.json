@@ -1,0 +1,350 @@
+{
+  "bookNo": 285,
+  "title": "Okulsuz Toplum",
+  "author": "Ivan Illich",
+  "subtitle": "Öğrenmeyi diploma ve zorunlu okul basamaklarıyla eşitleyen toplumu eleştiren; beceri paylaşımı, akran ağı ve yaşam boyu gönüllü öğrenme için radikal seçenekler öneren eğitim klasiği.",
+  "coverImage": "/images/summary-cover-285-okulsuz-toplum-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/285-okulsuz-toplum-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#5B7050",
+  "meta": {
+    "originalTitle": "Deschooling Society",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir çocuk bisiklete binmeyi sertifika almadan, dilini ders programı olmadan öğrenir. Buna karşılık yıllarca okulda okuyan kişi diploması yoksa bildiği işi yapamaz sayılabilir. Illich okulun öğrenmeyi desteklemekten çıkıp öğrenmenin tek sahibi olmasını sorgular.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Internet Archive - Deschooling Society",
+      "url": "https://archive.org/details/deschoolingsocie00illi"
+    },
+    {
+      "id": 2,
+      "title": "Encyclopaedia Britannica - Ivan Illich",
+      "url": "https://www.britannica.com/biography/Ivan-Illich"
+    },
+    {
+      "id": 3,
+      "title": "The International Journal of Illich Studies",
+      "url": "https://journals.psu.edu/illichstudies/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Öğrenmeyi diploma ve zorunlu okul basamaklarıyla eşitleyen toplumu eleştiren; beceri paylaşımı, akran ağı ve yaşam boyu gönüllü öğrenme için radikal seçenekler öneren eğitim klasiği.",
+        "Okulsuzlaşma öğrenmeyi veya öğretmeni yok etmek değildir. Zorunlu, yaşa göre sıralanmış ve diplomanın değeri belirlediği kurum tekelini çözerek farklı öğrenme ağları kurma çağrısıdır. Çocuk güvenliği ve eşit erişim modern okur için temel sınırdır.",
+        "Bu rehber, Ivan Illich tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-okul-ile-ogrenme-ayni-sey-mi",
+      "section": "BİRİNCİ KISIM · AYRIM",
+      "title": "Okul ile öğrenme aynı şey mi?",
+      "paragraphs": [
+        "Modern toplum öğrenmeyi öğretim saatine, bilgiyi diplomaya ve yeteneği sınıf geçmeye eşitleyebilir. Illich bu kurumsal karışıklığı açar. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Usta tamirci motoru yıllarca çalışarak öğrenmiştir; sertifikası olmayan bilgisi resmî başvuruda görünmez sayılır.",
+        "Okul gerçekten okuryazarlık, bilim ve ortak karşılaşma sağlar. Eleştiri bütün okulları aynı değerde görmemelidir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir beceriyi değerlendirirken nerede öğrenildiğinden başka ne yapabildiğini ve nasıl gösterilebildiğini sorun."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Okul ile öğrenme aynı şey mi?” başlığının yalnız kendi örneğini değil Okulsuz Toplum boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-gizli-mufredat",
+      "section": "BİRİNCİ KISIM · AYRIM",
+      "title": "Gizli müfredat",
+      "paragraphs": [
+        "Okul matematikten başka ders de verir: iyi şeylerin uzman tarafından paketlendiği, yaşa göre sırayla tüketildiği ve başarının dış puanla ölçüldüğü alışkanlığını öğretir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Çocuk merak ettiği konuyu değil zilin izin verdiği kırk dakikayı öğrenir; sonra öğrenmeyi program olmadan başlatmakta zorlanabilir.",
+        "Düzen ve sıra karmaşık beceride yardımcıdır. Her yapı gizli baskı değildir; öğrencinin söz hakkı ve amaç belirleyicidir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir eğitim ortamında resmî konunun yanında itaat, rekabet ve zaman hakkında hangi davranışın ödüllendirildiğini gözleyin."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Gizli müfredat” başlığının yalnız kendi örneğini değil Okulsuz Toplum boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-diploma-neden-bilgi-yerine-gecer",
+      "section": "İKİNCİ KISIM · BELGE",
+      "title": "Diploma neden bilgi yerine geçer?",
+      "paragraphs": [
+        "İşveren çok adayı hızla ayırmak için diplomayı yetenek işareti kullanır. Zamanla belge öğrenmenin kanıtı değil kapıya giriş şartı olur ve daha çok okul talebi üretir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Aynı işi yapabilen iki kişiden diplomalı olan görüşmeye çağrılır; belge yokluğu beceriyi görünmez kılar.",
+        "Tıp ve mühendislikte güvenilir yeterlilik doğrulaması hayat kurtarır. Sorun her görevde uzun eğitim süresini tek ölçü yapmaktır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir iş ilanında gerçekten gereken beceri ile alışkanlıkla istenen belgeyi ayırın."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Diploma neden bilgi yerine geçer?” başlığının yalnız kendi örneğini değil Okulsuz Toplum boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-okullastirilmis-hayal-gucu",
+      "section": "İKİNCİ KISIM · BELGE",
+      "title": "Okullaştırılmış hayal gücü",
+      "paragraphs": [
+        "İnsanlar bir sorunun çözümünü daha fazla kurum, ders ve uzman paketi olarak düşünmeye alışır. Kendi öğrenme ve yardımlaşma kapasitesini küçümser. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Mahallede yaşlılar çocuklara bahçe öğretebilir; herkes önce resmî kurs ve bina beklerse mevcut bilgi kullanılmaz.",
+        "Topluluk her ihtiyacı karşılayamaz ve uzmanlık ciddi emek ister. Gönüllülük kamusal yatırımın bahanesi olmamalıdır. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir sorun için yeni kurum kurmadan önce mevcut insan, araç ve akran bilgisinin nasıl bağlanabileceğini sorun."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Okullaştırılmış hayal gücü” başlığının yalnız kendi örneğini değil Okulsuz Toplum boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-tuketim-olarak-egitim",
+      "section": "ÜÇÜNCÜ KISIM · KURUM",
+      "title": "Tüketim olarak eğitim",
+      "paragraphs": [
+        "Ders saati ve diploma daha çok tüketildikçe kişinin daha eğitimli sayılması, öğrenmeyi satın alınan hizmete çevirir. Eğitim paketi statü yarışına katılır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Aile çocuğa yeni kurs ekledikçe güven duyar; çocuk öğrendiğini kullanacak boş zaman bulamaz.",
+        "Kaynak ve öğretim süresi gerçekten önemlidir. Eleştiri yatırımın değil miktarı sonuç sanmanın sınırıdır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir kurs seçerken saat ve marka yerine hedef beceri, uygulama ve bağımsızlaşma ölçüsünü belirleyin."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Tüketim olarak eğitim” başlığının yalnız kendi örneğini değil Okulsuz Toplum boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-yoksulluk-ve-okul-yarisi",
+      "section": "ÜÇÜNCÜ KISIM · KURUM",
+      "title": "Yoksulluk ve okul yarışı",
+      "paragraphs": [
+        "Zorunlu diploma basamakları arttıkça varlıklı aile daha fazla destek satın alır; yoksul öğrenci aynı standartta başarısız gösterilir. Okul eşitsizliği düzeltebilirken yeniden de üretebilir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Ücretsiz sınav aynı olsa da bir çocuk özel ders ve sessiz odada, diğeri iş sonrası kalabalık evde hazırlanır.",
+        "Okulu kaldırmak eşitsizliği kendiliğinden azaltmaz; varlıklı aile özel ağları daha kolay kurabilir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Alternatif öğrenme modelinde cihaz, güvenli mekân, rehber ve geçim desteğinin eşit dağılımını baştan tasarlayın."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Yoksulluk ve okul yarışı” başlığının yalnız kendi örneğini değil Okulsuz Toplum boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-ogretmen-hangi-rolleri-tasiyor",
+      "section": "DÖRDÜNCÜ KISIM · ROL",
+      "title": "Öğretmen hangi rolleri taşıyor?",
+      "paragraphs": [
+        "Illich öğretmenin gözetmen, ahlak hakemi ve bilgi dağıtıcısı rollerinin birleşmesini eleştirir. Tek kişi hem zorunlu katılımı denetleyip hem özgür merakı yönettiğinde güç çatışması doğar. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Öğrenci öğretmenin görüşüne karşı çıkarsa not, disiplin ve bilgi ilişkisi aynı anda etkilenebilir.",
+        "İyi öğretmen güvenli ortam, ilham ve geri bildirim sağlar. Rolleri ayırmak öğretmeni değersizleştirmek değil gücü şeffaflaştırmaktır. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir öğrenme ilişkisinde değerlendirme, güvenlik ve rehberlik yetkilerinin nasıl ayrıldığını görün."
+      ]
+    },
+    {
+      "id": "durak-09-beceri-degisimi",
+      "section": "DÖRDÜNCÜ KISIM · ROL",
+      "title": "Beceri değişimi",
+      "paragraphs": [
+        "İnsanlar bildikleri beceriyi öğrenmek isteyenle doğrudan paylaşabilir. Beceri değişim ağı, öğretme hakkını yalnız lisanslı kuruma bırakmaz. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Emekli elektrikçi güvenli basit onarım, genç komşu telefon kullanımı öğretir. Para yerine karşılıklı zaman ve beceri dolaşır.",
+        "Her beceri akranla güvenle öğrenilemez; elektrik, sağlık ve çocuk koruması standart ve gözetim ister. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Öğrenme ağında becerinin risk düzeyine göre kimlik, yeterlilik ve güvenlik doğrulaması kurun."
+      ]
+    },
+    {
+      "id": "durak-10-akran-eslestirme",
+      "section": "BEŞİNCİ KISIM · AĞLAR",
+      "title": "Akran eşleştirme",
+      "paragraphs": [
+        "Aynı kitabı, sorunu veya projeyi öğrenmek isteyenler birbirini bulduğunda öğretmen merkezli olmayan çalışma grupları doğabilir. Ortak merak ilişkiyi başlatır. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Şehirde teleskop yapmak isteyen beş kişi ilan üzerinden buluşur; biri matematik, biri marangozluk, biri gözlem deneyimi getirir.",
+        "Akran grubu yanlış bilgiyi büyütebilir ve sessiz üyeyi dışlayabilir. Kolay danışılabilir uzman ve topluluk kuralları gerekir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir öğrenme grubunda ortak hedef, dönüşümlü söz ve doğrulama kaynağını baştan belirleyin."
+      ]
+    },
+    {
+      "id": "durak-11-egitsel-nesnelere-erisim",
+      "section": "BEŞİNCİ KISIM · AĞLAR",
+      "title": "Eğitsel nesnelere erişim",
+      "paragraphs": [
+        "Atölye, laboratuvar, kütüphane, araç ve gerçek işyerleri öğrenme için açık olmalıdır. Bilgi yalnız sınıfta anlatılmak yerine nesne ve süreçle karşılaşmada gelişir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Çocuk bisikletin şemasını okumak kadar açık tamir atölyesinde zinciri sökerek öğrenir.",
+        "Araç erişimi güvenlik, bakım ve sorumluluk gerektirir. Açık erişim ücretsiz emekle kendiliğinden sürmez. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Mahallede kullanılmayan araç ve mekânı güvenli rezervasyonla öğrenmeye açmanın yolunu düşünün."
+      ]
+    },
+    {
+      "id": "durak-12-profesyonel-egitimcinin-yeni-isi",
+      "section": "ALTINCI KISIM · REHBER",
+      "title": "Profesyonel eğitimcinin yeni işi",
+      "paragraphs": [
+        "Okulsuz toplumda eğitimci kaybolmaz; insanı uygun kaynak, akran ve ustayla buluşturan, yol haritası kurmaya yardım eden danışman olur. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Ne öğreneceğini bilen yetişkin içerik anlatıcısından çok hangi sırayla, hangi projeyle ve kimden geri bildirim alacağını bilen rehbere ihtiyaç duyar.",
+        "Rehberlik de yeni ayrıcalıklı mesleğe dönüşebilir. Erişim ve hesap verme açık olmalıdır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Öğretmenin cevabı vermesi yerine öğrencinin sonraki iyi soruyu ve kaynağı bulmasını sağlayan rolü güçlendirin."
+      ]
+    },
+    {
+      "id": "durak-13-zorunlu-yas-gruplari",
+      "section": "ALTINCI KISIM · REHBER",
+      "title": "Zorunlu yaş grupları",
+      "paragraphs": [
+        "Okul aynı yaştaki çocukları yıllarca ayrı dünyada toplar. Illich öğrenmenin farklı kuşak ve deneyimler arasında gerçekleşebileceğini savunur. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "On iki yaşındaki çocuk bahçeyi yetmiş yaşındaki komşudan, dijital çizimi yirmi yaşındaki öğrenciden öğrenir. Yaş tek yeterlilik ölçüsü değildir.",
+        "Yaş grubu akran dostluğu ve gelişime uygun güvenlik sağlar. Kuşaklar arası ortam çocuk koruma kurallarına ihtiyaç duyar. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir öğrenme etkinliğinde aynı yaş zorunluluğunun gerçekten gerekli olup olmadığını ve güvenli kuşak karışımını düşünün."
+      ]
+    },
+    {
+      "id": "durak-14-teknoloji-ozgurlestirir-mi",
+      "section": "YEDİNCİ KISIM · BUGÜN",
+      "title": "Teknoloji özgürleştirir mi?",
+      "paragraphs": [
+        "Dijital ağlar kaynak, akran ve öğretmeni kolayca buluşturarak Illich'in öğrenme ağlarına yaklaşır. Aynı teknoloji platform tekeli, dikkat ekonomisi ve yeni belge pazarları da kurabilir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Ücretsiz videodan tamir öğrenen kişi okul dışı özgürleşir; algoritma onu reklam ve yanlış bilgi döngüsüne de çekebilir.",
+        "İnternet erişimi cihaz, dil ve dijital okuryazarlık eşitsizliği taşır. Bağlantı tek başına öğrenme değildir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Çevrim içi kursta kaynak açıklığı, geri bildirim, veri kullanımı ve platform bağımlılığını birlikte değerlendirin."
+      ]
+    },
+    {
+      "id": "durak-15-okulu-kaldirmak-yeterli-mi",
+      "section": "YEDİNCİ KISIM · BUGÜN",
+      "title": "Okulu kaldırmak yeterli mi?",
+      "paragraphs": [
+        "Kurumu bir gecede kaldırmak çocukları aile serveti ve yerel güç karşısında daha eşitsiz bırakabilir. Okulsuzlaşma, öğrenme kaynaklarını adil biçimde yeniden kurma projesi olmak zorundadır. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Varlıklı aile özel öğretmen ağı kurarken yoksul çocuk çalışmaya gönderilirse zorunlu okulun yokluğu özgürlük olmaz.",
+        "Okulun bakım, yemek, sağlık ve güvenli alan rolleri vardır. Alternatif sistem bunları üstlenmeden eğitim eleştirisi eksik kalır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Her reformda kaldırılan kurumun görünmeyen sosyal işlevlerini ve yerine kimin ne koyacağını listeleyin."
+      ]
+    },
+    {
+      "id": "durak-16-ogrenme-hakki-ile-cocuk-hakki",
+      "section": "SEKİZİNCİ KISIM · DENGE",
+      "title": "Öğrenme hakkı ile çocuk hakkı",
+      "paragraphs": [
+        "Çocuğun merakı ve seçimi önemlidir; aynı zamanda temel okuryazarlık, güvenlik ve sömürüden korunma hakkı vardır. Özgür öğrenme yetişkinin sorumluluktan çekilmesi değildir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Çocuk matematik istemiyor diye tamamen bırakmak gelecekteki seçeneğini daraltabilir; zorla ezberletmek merakı öldürebilir. Rehberlik iki riski dengeler.",
+        "Çocuğun bugünkü isteği ile gelecekteki özerkliği arasında kesin formül yoktur. Sesine gerçek yer verilmelidir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir öğrenme kararında çocuğun görüşü, gelişim ihtiyacı ve gelecekteki seçeneklerini birlikte değerlendirin."
+      ]
+    },
+    {
+      "id": "durak-17-okulsuzlasmanin-kalici-sorusu",
+      "section": "SEKİZİNCİ KISIM · DENGE",
+      "title": "Okulsuzlaşmanın kalıcı sorusu",
+      "paragraphs": [
+        "Illich'in kalıcı sorusu bir kurumun hizmet ettiği ihtiyacı tekeline alıp almadığıdır. Okul öğrenmenin tek ölçüsü olduğunda insan kendi merakına ve başkasının gayriresmî bilgisine güvenmeyi unutur. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Sağlıklı olmak yalnız hastane ziyareti, hareket etmek yalnız spor salonu üyeliği sayılırsa gündelik kapasite kurum tüketimine dönüşür.",
+        "Kurumlar ortak kalite ve eşitlik sağlayabilir. Tekel eleştirisi kamusal sorumluluğu piyasa ve aileye bırakmamalıdır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir hizmette insanı bağımsızlaştıran sonuç ile kuruma sürekli bağımlı kılan tüketimi ayırın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Okulsuz Toplum çocukları yalnız bırakmayı, öğretmenleri gereksiz saymayı veya kamusal eğitimi özel piyasaya teslim etmeyi savunmaz. Öğrenmenin diploma, yaş basamağı ve zorunlu kurum tekeline alınmasına karşı açık ve eşitlikçi ağlar arar.",
+        "Okulsuz Toplum tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Ivan Illich ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap radikal eğitim ve yaşam boyu öğrenme tartışmalarında kalıcı etki yaratmıştır. Kurumsal eleştirisi güçlü bulunur; okulun çocuk koruma, eşit kaynak, ortak bilgi ve bakım işlevlerini küçümsemesi ve alternatif ağların eşitsizliğe açık oluşu eleştirilir.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Okulsuz Toplum için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Okulsuz Toplum için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Bu kişi gerçekten ne öğrenebiliyor, yoksa yalnız belge mi tüketiyor? Kurum onu zamanla bağımsızlaştırıyor mu? Alternatif ağda güvenlik ve eşit erişimi kim sağlayacak?",
+        "Bu sorular Okulsuz Toplum için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Okulsuz Toplum üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Öğrenme okulun ürettiği bir mal değildir; insanlar nesne, usta ve akranla hayat boyunca öğrenir. Adil eğitim, diplomanın tekeli yerine güvenli, açık ve erişilebilir öğrenme ağları kurmalıdır.",
+        "Akılda kalacak son görüntü, kapalı okul binasının duvarlarından dışarı taşan kitap, atölye, usta ve akran yollarının bütün şehri açık bir öğrenme ağına çevirmesidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Okulsuz Toplum adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-okul-ile-ogrenme-ayni-sey-mi": {
+      "image": "/images/summary-art-285-chapter-01-school-learning-v1.webp",
+      "imageCaption": "Bir yanında diploma kapısı diğerinde açık öğrenme yolu, okul ve öğrenme ayrımını gösterir."
+    },
+    "durak-03-gizli-mufredat": {
+      "image": "/images/summary-art-285-chapter-02-hidden-curriculum-v1.webp",
+      "imageCaption": "Ders kitabının gölgesinde zil, sıra ve puan işaretleri, gizli müfredatı gösterir."
+    },
+    "durak-04-diploma-neden-bilgi-yerine-gecer": {
+      "image": "/images/summary-art-285-chapter-03-credential-gate-v1.webp",
+      "imageCaption": "Bilgi taşıyan kişinin önünde yükselen diploma kapısı, belgeciliği gösterir."
+    },
+    "durak-05-okullastirilmis-hayal-gucu": {
+      "image": "/images/summary-art-285-chapter-04-schooled-imagination-v1.webp",
+      "imageCaption": "Mahalledeki canlı becerilerin önünde beklenen boş kurum binası, okullaştırılmış hayali gösterir."
+    },
+    "durak-06-tuketim-olarak-egitim": {
+      "image": "/images/summary-art-285-chapter-05-education-consumption-v1.webp",
+      "imageCaption": "Üst üste yığılan kurs kutuları altında küçülen merak, eğitim tüketimini gösterir."
+    },
+    "durak-07-yoksulluk-ve-okul-yarisi": {
+      "image": "/images/summary-art-285-chapter-06-school-race-v1.webp",
+      "imageCaption": "Aynı okul merdivenine farklı yüklerle çıkan çocuklar, eşitsiz yarışmayı gösterir."
+    },
+    "durak-08-ogretmen-hangi-rolleri-tasiyor": {
+      "image": "/images/summary-art-285-chapter-07-teacher-roles-v1.webp",
+      "imageCaption": "Tek öğretmen figüründen çıkan hakem, polis ve rehber gölgeleri, rol birleşimini gösterir."
+    },
+    "durak-09-beceri-degisimi": {
+      "image": "/images/summary-art-285-chapter-08-skill-exchange-v1.webp",
+      "imageCaption": "Farklı araçları birbirine uzatan komşular, beceri değişim ağını gösterir."
+    },
+    "durak-10-akran-eslestirme": {
+      "image": "/images/summary-art-285-chapter-09-peer-matching-v1.webp",
+      "imageCaption": "Aynı merak işaretine doğru farklı yollardan gelen insanlar, akran eşleştirmeyi gösterir."
+    },
+    "durak-11-egitsel-nesnelere-erisim": {
+      "image": "/images/summary-art-285-chapter-10-learning-resources-v1.webp",
+      "imageCaption": "Kilitli laboratuvar kapısının açılıp mahalle atölyesine dönüşmesi, nesne erişimini gösterir."
+    },
+    "durak-12-profesyonel-egitimcinin-yeni-isi": {
+      "image": "/images/summary-art-285-chapter-11-learning-guide-v1.webp",
+      "imageCaption": "Kaynaklar arasında yol gösteren ama kapıyı tutmayan rehber, yeni eğitimci rolünü gösterir."
+    },
+    "durak-13-zorunlu-yas-gruplari": {
+      "image": "/images/summary-art-285-chapter-12-mixed-ages-v1.webp",
+      "imageCaption": "Aynı masa etrafında farklı yaşların araç paylaşması, kuşaklar arası öğrenmeyi gösterir."
+    },
+    "durak-14-teknoloji-ozgurlestirir-mi": {
+      "image": "/images/summary-art-285-chapter-13-digital-learning-web-v1.webp",
+      "imageCaption": "Açık bilgi ağı ile algoritmik kafesin aynı ekrandan çıkması, teknolojinin çift yönünü gösterir."
+    },
+    "durak-15-okulu-kaldirmak-yeterli-mi": {
+      "image": "/images/summary-art-285-chapter-14-after-school-v1.webp",
+      "imageCaption": "Kapanan okul kapısının ardında bakım ve eşit erişim soruları, kaldırmanın yetmediğini gösterir."
+    },
+    "durak-16-ogrenme-hakki-ile-cocuk-hakki": {
+      "image": "/images/summary-art-285-chapter-15-child-rights-v1.webp",
+      "imageCaption": "Merak pusulası ile koruyucu kalkan taşıyan çocuk, özgürlük ve hak dengesini gösterir."
+    },
+    "durak-17-okulsuzlasmanin-kalici-sorusu": {
+      "image": "/images/summary-art-285-chapter-16-institutional-monopoly-v1.webp",
+      "imageCaption": "Öğrenme nehrini tek binadan çıkarıp topluma dağıtan kanallar, okulsuzlaşmanın temel sorusunu gösterir."
+    }
+  }
+}

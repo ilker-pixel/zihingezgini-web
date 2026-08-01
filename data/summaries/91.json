@@ -1,0 +1,347 @@
+{
+  "bookNo": 91,
+  "title": "Peloponez Savaşı",
+  "author": "Thukydides",
+  "subtitle": "Atina ile Sparta arasındaki savaşı yalnız muharebe değil korku, çıkar, salgın, propaganda ve demokratik kararların baskı altında nasıl değiştiği üzerinden anlatan tarih klasiği.",
+  "coverImage": "/images/summary-cover-91-peloponez-savasi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/91-peloponez-savasi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#775044",
+  "meta": {
+    "originalTitle": "History of the Peloponnesian War",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir savaş resmî olarak küçük bir müttefik kavgasıyla başlayabilir, fakat derinde büyüyen gücün yarattığı korku yatar. Thukydides, Atina'nın yükselişi ile Sparta'nın kaygısı arasındaki gerilimi izlerken insan topluluklarının kriz anında dilini ve ahlakını nasıl değiştirdiğini gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Perseus Digital Library - Thucydides",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0200"
+    },
+    {
+      "id": 2,
+      "title": "Encyclopaedia Britannica - Thucydides",
+      "url": "https://www.britannica.com/biography/Thucydides-Greek-historian"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Thucydides",
+      "url": "https://iep.utm.edu/thucydides/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Atina ile Sparta arasındaki savaşı yalnız muharebe değil korku, çıkar, salgın, propaganda ve demokratik kararların baskı altında nasıl değiştiği üzerinden anlatan tarih klasiği.",
+        "Eser tarafsız kamera değildir. Thukydides savaşa katılmış Atinalı komutandır; konuşmaları kendi ifadesiyle söylenmiş olması gereken düşünceyi verecek biçimde kurar. Bu nedenle metin hem tarih kaydı hem güçlü bir siyasal yorumdur.",
+        "Bu rehber, Thukydides tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-gorunen-neden-derindeki-neden",
+      "section": "BİRİNCİ KISIM · SAVAŞA GİDEN YOL",
+      "title": "Görünen neden, derindeki neden",
+      "paragraphs": [
+        "Korfu, Potidaia ve ticaret yaptırımları savaşı ateşleyen olaylardır; Thukydides'e göre en gerçek ama en az söylenen neden Atina gücünün büyümesinin Sparta'da yarattığı korkudur. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Apartmanda son kavga park yeri yüzünden çıkar, ama yıllardır biriken güç ve güvensizlik olmadan tek araç savaşa dönüşmez.",
+        "Tek yapısal neden liderlerin kararını ve küçük devletlerin etkisini silmemelidir. Korku savaşı kaçınılmaz yapmaz. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir çatışmada son olayı anlatırken uzun süredir değişen güç dengesini ve algılanan tehdidi de çizin."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Görünen neden, derindeki neden” başlığının yalnız kendi örneğini değil Peloponez Savaşı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-korku-cikar-ve-onur",
+      "section": "BİRİNCİ KISIM · SAVAŞA GİDEN YOL",
+      "title": "Korku, çıkar ve onur",
+      "paragraphs": [
+        "Devletler kararlarını çoğu kez güvenlik korkusu, maddi çıkar ve itibar arzusu arasında verir. Bu üçlü ittifak savunma ile saldırı arasındaki çizgiyi bulanıklaştırır. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Komşu silahlanınca siz savunma için silah alırsınız; o sizin hazırlığınızı tehdit sayar. İki taraf da kendini koruduğunu söyleyerek yarışı büyütür.",
+        "Devlet davranışını yalnız güç hesabına indirmek kimlik, kurum ve ahlaki hareket alanını eksiltir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Güvenlik gerekçesi duyduğunuzda gerçek tehlike, ekonomik kazanç ve itibar kaygısının payını ayrı ayrı sorun."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Korku, çıkar ve onur” başlığının yalnız kendi örneğini değil Peloponez Savaşı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-perikles-in-stratejisi",
+      "section": "İKİNCİ KISIM · ATİNA",
+      "title": "Perikles'in stratejisi",
+      "paragraphs": [
+        "Perikles Spartalı kara ordusuyla açık savaşmaktan kaçınıp halkı sur içine çekmek, deniz gücü ve imparatorluk gelirleriyle dayanmak ister. Strateji askerî olarak tutarlı, toplumsal olarak ağırdır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Tarlasını düşmana bırakan köylü kalabalık şehirde beklerken denizdeki gemilerin uzun hesabına güvenmek zorundadır. Haritadaki doğru hamle evde kayıp demektir.",
+        "Plan salgını öngöremez ve demokratik öfkenin zaman baskısını küçümser. İyi strateji insanların taşıyabileceği maliyeti de hesaplamalıdır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir planın kâğıt üzerindeki veriminden başka, bedelini kimin ne kadar süre taşıyabileceğini ölçün."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Perikles'in stratejisi” başlığının yalnız kendi örneğini değil Peloponez Savaşı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-cenaze-soylevi-ve-demokratik-ideal",
+      "section": "İKİNCİ KISIM · ATİNA",
+      "title": "Cenaze söylevi ve demokratik ideal",
+      "paragraphs": [
+        "Perikles ölenleri anarken Atina'yı özgür tartışma, yurttaş katılımı ve yeteneğe açık bir şehir olarak över. Söylev yasın içinde savaşın neden sürdürülmesi gerektiğini de anlatır. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Cenazede aileler kaybını düşünürken konuşma onları özel acıdan kamusal gurura taşır. Yas, siyasal birlik diline çevrilir.",
+        "İdeal Atina kadınları, köleleri ve imparatorluk altındaki halkları dışarıda bırakır. Övgü ile gerçeklik arasındaki mesafe görünmelidir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir liderin kriz konuşmasında anma, ideal ve politika gerekçesinin nasıl birbirine bağlandığını ayırın."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Cenaze söylevi ve demokratik ideal” başlığının yalnız kendi örneğini değil Peloponez Savaşı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-salgin-duzeni-nasil-cozer",
+      "section": "ÜÇÜNCÜ KISIM · KRİZ",
+      "title": "Salgın düzeni nasıl çözer?",
+      "paragraphs": [
+        "Atina salgını bedenleri olduğu kadar normları da yıkar. İnsanlar yarına güvenmeyince servet, yasa ve cenaze geleneği anlam kaybeder; aşırı kalabalık stratejik planı toplumsal felakete çevirir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Komşusunun bugün öldüğünü gören kişi uzun vadeli itibar yerine elindeki son günü düşünür. Kurala uymanın gelecekteki ödülü görünmez olur.",
+        "Thukydides'in tıbbi tasviri değerlidir ama hastalığın kesin kimliği tartışmalıdır. Kriz ahlaksızlığı otomatik üretmez; dayanışma örnekleri de olabilir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir salgın politikasında yalnız vaka sayısını değil güven, bakım yükü ve geleceğe inancın korunmasını da hesaba katın."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Salgın düzeni nasıl çözer?” başlığının yalnız kendi örneğini değil Peloponez Savaşı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-perikles-sonrasi-liderlik",
+      "section": "ÜÇÜNCÜ KISIM · KRİZ",
+      "title": "Perikles sonrası liderlik",
+      "paragraphs": [
+        "Perikles'in ölümünden sonra kısa vadeli halk desteğini arayan liderler uzun stratejiyi sık sık değiştirir. Thukydides kişisel hırsın demokratik kararları savurabildiğini düşünür. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Fırtınada kaptan pusulaya göre gitmek yerine her dalgada yolcuların bağırdığı yöne kırarsa gemi hızla enerji kaybeder.",
+        "Bu anlatı seçkinci olabilir; halkın itirazını yalnız bilgisizlik saymak gerçek maliyetleri görmezden gelir. Güçlü lider de büyük hata yapabilir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Demokratik liderliği ne halkı küçümseyen vesayet ne anlık alkış takibi olarak düşünün; gerekçe ve hesap verme arayın."
+      ]
+    },
+    {
+      "id": "durak-08-mytilene-tartismasi",
+      "section": "DÖRDÜNCÜ KISIM · SÖZ",
+      "title": "Mytilene tartışması",
+      "paragraphs": [
+        "Atina isyan eden Mytilene'nin bütün erkeklerini öldürmeye karar verir, ertesi gün kararı yeniden tartışır. Kleon sert cezanın caydırıcılığını, Diodotos ölçünün ahlak kadar çıkar için gerekli olduğunu savunur. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "İlk gemi ölüm emrini taşır; ikinci gemi yetişip kararı durdurmak için kürekçilerin bütün gücüyle gider. Bir gecelik düşünme binlerce hayatı değiştirir.",
+        "Diodotos merhameti savunurken bile insani değerden çok Atina çıkarına konuşur. İmparatorluk mantığı sorgulanmadan kalır. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Öfke anında geri alınamaz karar için ikinci görüş ve bekleme süresi kurmanın değerini düşünün."
+      ]
+    },
+    {
+      "id": "durak-09-korfu-da-ic-savas-ve-bozulan-dil",
+      "section": "DÖRDÜNCÜ KISIM · SÖZ",
+      "title": "Korfu'da iç savaş ve bozulan dil",
+      "paragraphs": [
+        "Korfu iç savaşında taraflar eylemlerin adını değiştirir: düşüncesiz saldırganlık cesaret, ihtiyat korkaklık, ölçülülük gevşeklik olur. Dil güç mücadelesinin silahına dönüşür. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Mahallede kendi grubunun saldırısı 'savunma', ötekinin aynı hareketi 'terör' diye adlandırıldığında sözcük olayı açıklamaz, sadakat sınırı çizer.",
+        "Siyasal kelimeler her zaman propaganda değildir; kavramlar gerçekten tartışılabilir. Sorun tanımın eyleme göre değil tarafa göre değişmesidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir haberde aynı fiilin dost ve rakip için farklı kelimeyle verilip verilmediğini kontrol edin."
+      ]
+    },
+    {
+      "id": "durak-10-pylos-ta-beklenmedik-teslimiyet",
+      "section": "BEŞİNCİ KISIM · DÖNÜM",
+      "title": "Pylos'ta beklenmedik teslimiyet",
+      "paragraphs": [
+        "Spartalı askerlerin Sphakteria'da teslim olması yenilmezlik imgesini sarsar. Savaş, tarafların kendi efsanelerinden daha sürprizlidir; tesadüf ve yerel koşul büyük stratejiyi değiştirir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Yıllardır asla pes etmez denilen takım küçük sahada kuşatılıp teslim olunca rakiplerin bütün hesabı değişir. Ün de maddi güç kadar stratejik varlıktır.",
+        "Tek zafer Atina'yı aşırı güvene sürükler. Sürpriz başarı genel kapasiteyi olduğundan büyük gösterebilir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Beklenmedik başarıdan sonra sonucu tekrarlanabilir mekanizma mı, özel koşul mu üretti diye sorun."
+      ]
+    },
+    {
+      "id": "durak-11-nicias-barisi-neden-kalici-olmadi",
+      "section": "ALTINCI KISIM · KIRILGAN BARIŞ",
+      "title": "Nicias Barışı neden kalıcı olmadı?",
+      "paragraphs": [
+        "Barış anlaşması savaşın temel güvensizliğini ve müttefiklerin çıkarlarını çözmez. Kâğıt üzerindeki maddeler uygulanmadıkça, taraflar niyetten kuşku duydukça ara yalnız nefeslenmeye dönüşür. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "İki komşu kavga etmeme kâğıdı imzalar ama ortak duvarı onarmaz, arkadaş grupları tehdit sürdürürse ilk sarsıntıda kavga geri gelir.",
+        "Hiçbir anlaşma bütün nedenleri bir anda çözemez; zaman kazandırmak da değerlidir. Başarı için doğrulama ve küçük güven adımları gerekir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir barış veya uzlaşma metninde yaptırım kadar uygulama takvimi, üçüncü taraf ve güven artırıcı adımları arayın."
+      ]
+    },
+    {
+      "id": "durak-12-melos-diyalogu-guc-hak-yaratir-mi",
+      "section": "YEDİNCİ KISIM · İMPARATORLUK",
+      "title": "Melos diyaloğu: güç hak yaratır mı?",
+      "paragraphs": [
+        "Atinalılar tarafsız Melos'a güçlülerin yapabildiğini, zayıfların katlandığını söyler. Meloslular adalet, umut ve Sparta yardımına güvenir; sonuç yıkımdır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Büyük şirket küçük tedarikçiye 'kuralı piyasa belirler' dediğinde pazarlık eşit konuşma gibi görünür ama hayatta kalma tek tarafta risktedir.",
+        "Diyalog Thukydides'in yeniden kurduğu edebî sahnedir. Güç siyaseti gerçeğini göstermek onu ahlaken onaylamak değildir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir müzakerede resmî eşitliğin arkasındaki çıkış seçeneklerini ve reddetme maliyetini karşılaştırın."
+      ]
+    },
+    {
+      "id": "durak-13-sicilya-hayali",
+      "section": "YEDİNCİ KISIM · İMPARATORLUK",
+      "title": "Sicilya hayali",
+      "paragraphs": [
+        "Atina uzak Sicilya seferine çıkar, hedef ve kaynak hesabı giderek büyür. Alkibiades şan ve genişleme, Nicias risk üzerinden konuşur; halk uyarıyı caydırıcı değil daha büyük hazırlık çağrısı gibi duyar. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Müdür projeyi durdurmak için maliyeti abartır; yönetim 'o hâlde bütçeyi iki katına çıkaralım' der. Uyarı niyetin tersine seferi büyütür.",
+        "Sefer yalnız kibir değil ittifak çağrısı ve stratejik hesap içerir. Yine de amaç genişledikçe başarı ölçüsü bulanıklaşır. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Büyük projede neyin başarı sayılacağını, hangi noktada geri dönüleceğini başlamadan yazın."
+      ]
+    },
+    {
+      "id": "durak-14-alkibiades-ve-guven-krizi",
+      "section": "SEKİZİNCİ KISIM · ÇÖKÜŞ",
+      "title": "Alkibiades ve güven krizi",
+      "paragraphs": [
+        "Sefer öncesi kutsal Herm heykellerinin sakatlanması panik yaratır; Alkibiades suçlanıp geri çağrılır, sonra Sparta'ya kaçar. İç güvensizlik askerî komutayı parçalar. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Yangın çıkmadan önce alarm kablosunu kimin kestiği tartışılırken ekip en deneyimli yöneticiyi görevden alır; yönetici rakibe bilgi taşır.",
+        "Alkibiades'i tek günah keçisi yapmak Atina'nın karar sistemindeki korku ve hizipleri gizler. Kendisi de çıkarına göre taraf değiştirir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Kriz anında suçlama ile kanıt arasındaki boşluğu koruyun; acele tasfiyenin kuruma maliyetini hesaplayın."
+      ]
+    },
+    {
+      "id": "durak-15-syrakus-ta-geciken-geri-cekilme",
+      "section": "SEKİZİNCİ KISIM · ÇÖKÜŞ",
+      "title": "Syrakus'ta geciken geri çekilme",
+      "paragraphs": [
+        "Sicilya'da koşullar kötüleşirken Nicias hastalık, itibar ve kehanet nedeniyle geri çekilmeyi geciktirir. Batık maliyet ve karar korkusu felaketi büyütür. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Zarar eden işletme 'bu kadar para harcadık' diye daha çok para yatırır; geçmiş maliyet kurtarılamaz ama geleceği rehin alır.",
+        "Geriye bakınca karar açık görünür; komutanın sınırlı bilgisi ve siyasi cezalandırılma korkusu hesaba katılmalıdır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir projede geçmiş harcamayı değil bugünden sonraki seçeneklerin maliyet ve yararını karşılaştırın."
+      ]
+    },
+    {
+      "id": "durak-16-buyuk-bozgun",
+      "section": "DOKUZUNCU KISIM · DERS",
+      "title": "Büyük bozgun",
+      "paragraphs": [
+        "Atina filosu Syrakus limanında sıkışır, kara ordusu geri çekilirken parçalanır ve esirler taş ocaklarına kapatılır. Güçlü şehir, uzak zafer hayalinden insanî felakete düşer. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Yola şarkıyla çıkan binlerce kişinin çok azı eve döner. Haritadaki okların arkasında susuzluk, yaralı beden ve kayıp aileler vardır.",
+        "Felaketi yalnız ahlaki kibir cezası saymak nedenleri masala indirger. Lojistik, komuta çatışması ve düşmanın uyumu somut rol oynar. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Büyük tarih anlatısında asker sayısını değil insan deneyimi ve aile maliyetini de görünür tutun."
+      ]
+    },
+    {
+      "id": "durak-17-bitmeyen-kitabin-kalici-dersi",
+      "section": "DOKUZUNCU KISIM · DERS",
+      "title": "Bitmeyen kitabın kalıcı dersi",
+      "paragraphs": [
+        "Eser savaş bitmeden kesilir; yine de konuşma, salgın ve iç savaş sahneleri güç baskısı altında insan davranışının tekrar eden örüntülerini gösterir. Thukydides çalışmasını gelecek için kalıcı kazanım sayar. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Tamamlanmamış haritanın bazı yolları bugünkü krizlerde yeniden görünür: korku silahlanmayı, savaş dili anlamı, aşırı güven uzak seferi büyütür.",
+        "Tarihte benzerlik aynı sonuç demek değildir. 'Thukydides tuzağı' gibi sloganlar liderlerin seçimini kaçınılmaz göstermemelidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Geçmiş örneği kehanet olarak değil bugünkü kararın mekanizmasını sınayan karşılaştırma aracı olarak kullanın."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Thukydides güçlü devletlerin her yaptığının doğru veya yükselen güçle yerleşik gücün mutlaka savaşacağını söylemez. Korku, çıkar ve gücün etkisini gösterirken karar, dil, kurum ve rastlantının savaşın yönünü değiştirdiğini de anlatır.",
+        "Peloponez Savaşı tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Thukydides ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser tarih yazımı, uluslararası ilişkiler ve siyasal düşüncenin temel kaynaklarındandır. Soğuk güç gerçekçiliği kadar salgın, iç savaş ve demokratik tartışma tasvirleriyle okunur; konuşmaların tarihsel doğruluğu ve Atina merkezli seçimi sürekli tartışılır.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Peloponez Savaşı için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Peloponez Savaşı için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Son olayın altında hangi uzun güç kayması var? Güvenlik dili korku, çıkar ve onuru nasıl karıştırıyor? Geri alınamaz karardan önce hangi ikinci tartışma ve çıkış eşiği kurulmalı?",
+        "Bu sorular Peloponez Savaşı için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Peloponez Savaşı üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Savaş yalnız orduların çarpışması değil; korkunun güvenlik hesabını, gücün adalet dilini, salgının normları ve aşırı güvenin demokratik kararları dönüştürdüğü uzun bir insan laboratuvarıdır.",
+        "Akılda kalacak son görüntü, Atina surları ile Sparta kalkanı arasındaki denizin üzerinde salgın, konuşma kürsüsü ve Sicilya'ya giden gemilerin tek fırtınada birleşmesidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Peloponez Savaşı adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-gorunen-neden-derindeki-neden": {
+      "image": "/images/summary-art-91-chapter-01-deep-cause-v1.webp",
+      "imageCaption": "Yüzeyde küçük kıvılcımın altında büyüyen iki güç gölgesi, derin savaş nedenini gösterir."
+    },
+    "durak-03-korku-cikar-ve-onur": {
+      "image": "/images/summary-art-91-chapter-02-fear-honor-interest-v1.webp",
+      "imageCaption": "Üç ağırlıklı terazi üzerinde kalkan, para ve taç, savaş kararının dürtülerini gösterir."
+    },
+    "durak-04-perikles-in-stratejisi": {
+      "image": "/images/summary-art-91-chapter-03-pericles-strategy-v1.webp",
+      "imageCaption": "Surlar içinde kalabalık halk ile denizdeki gemiler, Perikles'in riskli stratejisini gösterir."
+    },
+    "durak-05-cenaze-soylevi-ve-demokratik-ideal": {
+      "image": "/images/summary-art-91-chapter-04-funeral-oration-v1.webp",
+      "imageCaption": "Mezar taşları önünde yükselen şehir ideali, cenaze söylevinin siyasal gücünü gösterir."
+    },
+    "durak-06-salgin-duzeni-nasil-cozer": {
+      "image": "/images/summary-art-91-chapter-05-athens-plague-v1.webp",
+      "imageCaption": "Kalabalık surların içinde sönen kandiller ve bozulan düzen, salgının çift yıkımını gösterir."
+    },
+    "durak-07-perikles-sonrasi-liderlik": {
+      "image": "/images/summary-art-91-chapter-06-leadership-storm-v1.webp",
+      "imageCaption": "Kalabalık sesleri arasında pusulasını kaybeden gemi, kriz liderliğini simgeler."
+    },
+    "durak-08-mytilene-tartismasi": {
+      "image": "/images/summary-art-91-chapter-07-mytilenean-ships-v1.webp",
+      "imageCaption": "Aynı denizde ölüm emri ve geri alma kararı taşıyan iki gemi, demokratik düzeltmeyi gösterir."
+    },
+    "durak-09-korfu-da-ic-savas-ve-bozulan-dil": {
+      "image": "/images/summary-art-91-chapter-08-civil-war-language-v1.webp",
+      "imageCaption": "Aynı kılıca iki farklı isim etiketi asılması, iç savaşta bozulan dili gösterir."
+    },
+    "durak-10-pylos-ta-beklenmedik-teslimiyet": {
+      "image": "/images/summary-art-91-chapter-09-sphacteria-v1.webp",
+      "imageCaption": "Ada kıyısında bırakılan Spartalı kalkanları, yenilmezlik efsanesinin kırılmasını gösterir."
+    },
+    "durak-11-nicias-barisi-neden-kalici-olmadi": {
+      "image": "/images/summary-art-91-chapter-10-fragile-peace-v1.webp",
+      "imageCaption": "Çatlak taşlar üzerine konan ince zeytin dalı, kırılgan barışı simgeler."
+    },
+    "durak-12-melos-diyalogu-guc-hak-yaratir-mi": {
+      "image": "/images/summary-art-91-chapter-11-melian-dialogue-v1.webp",
+      "imageCaption": "Büyük savaş gemisinin gölgesindeki küçük ada masası, güç ile adalet çatışmasını gösterir."
+    },
+    "durak-13-sicilya-hayali": {
+      "image": "/images/summary-art-91-chapter-12-sicilian-dream-v1.webp",
+      "imageCaption": "Haritada giderek büyüyen uzak ada ve yola çıkan dev filo, genişleyen hedefi gösterir."
+    },
+    "durak-14-alkibiades-ve-guven-krizi": {
+      "image": "/images/summary-art-91-chapter-13-herms-crisis-v1.webp",
+      "imageCaption": "Kırık Herm heykelleri arasında limandan uzaklaşan komutan, güven krizini gösterir."
+    },
+    "durak-15-syrakus-ta-geciken-geri-cekilme": {
+      "image": "/images/summary-art-91-chapter-14-delayed-retreat-v1.webp",
+      "imageCaption": "Karanlık limanda tutulmuş filo ve yaklaşan ay tutulması, geciken dönüşü simgeler."
+    },
+    "durak-16-buyuk-bozgun": {
+      "image": "/images/summary-art-91-chapter-15-sicilian-disaster-v1.webp",
+      "imageCaption": "Taş ocağında gökyüzüne bakan esirler, imparatorluk hayalinin insan bedelini gösterir."
+    },
+    "durak-17-bitmeyen-kitabin-kalici-dersi": {
+      "image": "/images/summary-art-91-chapter-16-unfinished-history-v1.webp",
+      "imageCaption": "Yarım kalan parşömenden bugüne uzanan tekrar eden oklar, tarihin açık dersini gösterir."
+    }
+  }
+}

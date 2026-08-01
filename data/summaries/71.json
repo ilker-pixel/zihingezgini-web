@@ -1,0 +1,350 @@
+{
+  "bookNo": 71,
+  "title": "Zhuangzi: İç Bölümler",
+  "author": "Zhuangzi",
+  "subtitle": "Dev balıktan kelebek rüyasına, kasap bıçağından işe yaramaz ağaca uzanan hikâyelerle kesinliklerimizi gevşeten ve hayatın dönüşümüne uyum göstermeyi öğreten Tao klasiği.",
+  "coverImage": "/images/summary-cover-71-zhuangzi-ic-bolumler-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/71-zhuangzi-ic-bolumler-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#3E6B60",
+  "meta": {
+    "originalTitle": "Zhuangzi - Inner Chapters",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Küçük bir kuş, göğü kaplayan dev Peng kuşuna bakıp neden o kadar uzağa uçtuğunu anlayamaz. Belki de sorun Peng'in gereksiz oluşu değil, küçük kuşun gökyüzünü kendi çalısının ölçüsüyle yargılamasıdır. Zhuangzi bizi tam bu ölçü kibriyle yüzleştirir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Chinese Text Project - Zhuangzi",
+      "url": "https://ctext.org/zhuangzi"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Zhuangzi",
+      "url": "https://plato.stanford.edu/entries/zhuangzi/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Zhuangzi",
+      "url": "https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Dev balıktan kelebek rüyasına, kasap bıçağından işe yaramaz ağaca uzanan hikâyelerle kesinliklerimizi gevşeten ve hayatın dönüşümüne uyum göstermeyi öğreten Tao klasiği.",
+        "Metin mantıksal ders kitabı gibi ilerlemez; masal, şaka, çelişki ve hayal kullanır. Hikâyeyi tek bir 'doğru mesaj'a kapatmak Zhuangzi'nin dilin sınırlarını gösteren oyununu kaybettirir.",
+        "Bu rehber, Zhuangzi tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-dev-peng-in-ucusu",
+      "section": "BİRİNCİ KISIM · ÖLÇEK",
+      "title": "Dev Peng'in uçuşu",
+      "paragraphs": [
+        "Dev balık Kun kuşa dönüşüp doksan bin li yükselir. Hikâye bakış açısının ölçeğe bağlı olduğunu gösterir: küçük canlının olanaksız sandığı yolculuk başka yaşam biçimi için doğal olabilir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Ağustos böceği dev kuşun aylar süren yolculuğuna güler; çünkü kendi uçuşu iki ağaç arasındadır. Kendi sınırını evrenin sınırı sanır.",
+        "Bütün görüşler eşit derecede doğru değildir; Zhuangzi'nin perspektifçiliği kanıtı gereksiz kılmaz, ölçümüzün yerel olduğunu hatırlatır. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Anlamadığınız büyük bir hedefi hemen gösteriş saymadan önce onun hangi zaman ve ihtiyaç ölçeğinde anlam kazandığını sorun."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Dev Peng'in uçuşu” başlığının yalnız kendi örneğini değil Zhuangzi: İç Bölümler boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-yararlinin-dar-olcusu",
+      "section": "BİRİNCİ KISIM · ÖLÇEK",
+      "title": "Yararlının dar ölçüsü",
+      "paragraphs": [
+        "Bir şeyin değeri onu hangi amaçla ölçtüğümüze bağlıdır. İnsanlar kabağı su kabı yapamayınca gereksiz sayar; Zhuangzi onu gölde yüzdürecek sal gibi düşünmeyi önerir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Büyük, biçimsiz kabak mutfak rafına sığmaz ama insanı su üstünde taşıyabilir. Sorun nesnede değil tek kullanım hayalindedir.",
+        "Her şeyi yaratıcı kullanıma çevirmek zorunluluğu da yeni faydacılık olabilir. Bazı şeyler işe yaramadan var olma hakkına sahiptir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir yeteneği standart işe uymadığı için değersiz saymadan önce ortam veya görevin değişip değişemeyeceğini düşünün."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Yararlının dar ölçüsü” başlığının yalnız kendi örneğini değil Zhuangzi: İç Bölümler boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-ise-yaramaz-agacin-uzun-omru",
+      "section": "BİRİNCİ KISIM · ÖLÇEK",
+      "title": "İşe yaramaz ağacın uzun ömrü",
+      "paragraphs": [
+        "Eğri ve budaklı ağaç marangoz için işe yaramadığı için kesilmeden büyür. Toplumun verimsiz saydığı özellik bazen varlığın korunmasını sağlar. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Düz ağaç kereste olur, çarpık ağaç köyün gölgesi olarak yüzyıl yaşar. Başarısızlık etiketi başka ölçekte kurtuluş olabilir.",
+        "İşe yaramazlığı romantikleştirmek engelli ve yoksul insanların gerçek dışlanmasını görmezden gelemez. Mesele insanı üretim değerine indirgememektir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir insanı yalnız iş çıktısıyla değerlendiren dili fark edin; dinlenme, gölge ve varlığın kendi değerine yer açın."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “İşe yaramaz ağacın uzun ömrü” başlığının yalnız kendi örneğini değil Zhuangzi: İç Bölümler boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-kelimeler-dunyayi-boler",
+      "section": "İKİNCİ KISIM · EŞİTLİK",
+      "title": "Kelimeler dünyayı böler",
+      "paragraphs": [
+        "Doğru-yanlış, güzel-çirkin, bu-o ayrımları yaşamı düzenler ama dünyayı son kez mühürlemez. Her adlandırma bir sınır çizer ve sınırın öte yanını görünmez kılabilir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Bir nehri haritada iki ülke sınırı sayarız; balık için aynı su kesintisizdir. Çizgi siyasi gerçeklik yaratır ama doğanın tek bölünüşü değildir.",
+        "Ayrımlar tamamen kaldırılamaz; konuşmak ve karar vermek için gerekir. Zhuangzi onları mutlaklaştırmamayı öğretir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Hararetli tartışmada kullandığınız iki karşıt kelimenin arada kalan hangi deneyimleri sildiğini sorun."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Kelimeler dünyayı böler” başlığının yalnız kendi örneğini değil Zhuangzi: İç Bölümler boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-seylerin-esitlenmesi",
+      "section": "İKİNCİ KISIM · EŞİTLİK",
+      "title": "Şeylerin eşitlenmesi",
+      "paragraphs": [
+        "Zhuangzi'nin eşitlemesi bütün farkları yok saymak değil, her varlığın kendi konumundan tamamlanmış göründüğünü fark etmektir. Büyük-küçük ve faydalı-faydasız hükümleri bağlama göre değişir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "İnsan için kötü kokan çamur domuz için serin yataktır. Aynı yerin değeri bedene ve ihtiyaca göre tersine döner.",
+        "Perspektif farkı acı ve zulmü yalnız görüş meselesi yapmaz. Başkasının bakışını görmek zarar hakkındaki ortak yargıyı derinleştirmelidir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir şeyi değersiz ilan etmeden önce hangi canlı veya bağlam için başka bir işlev taşıdığını düşünün."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Şeylerin eşitlenmesi” başlığının yalnız kendi örneğini değil Zhuangzi: İç Bölümler boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-kelebek-ruyasi",
+      "section": "İKİNCİ KISIM · EŞİTLİK",
+      "title": "Kelebek rüyası",
+      "paragraphs": [
+        "Zhuangzi rüyasında kelebek olur; uyanınca Zhuangzi'nin kelebek olduğunu mu, kelebeğin Zhuangzi olduğunu mu düşlediğini sorar. Sabit kimlik, deneyimin dönüşümü karşısında gevşer. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Rüyada kanat çırparken eski adınızı hatırlamazsınız; uyanınca rüyadaki benliği hayal sayarsınız. Hangi anın ölçüsü ötekini yargılar?",
+        "Hikâye günlük gerçekliği reddetmek zorunda değildir. Kimliğin deneyimle kurulduğunu ve kesin benlik sınırının sorgulanabileceğini gösterir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "'Ben hep böyleyim' dediğiniz özelliğin farklı ortam ve zamanda nasıl değiştiğini hatırlayın."
+      ],
+      "extraParagraphs": [
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Kelebek rüyası” başlığının yalnız kendi örneğini değil Zhuangzi: İç Bölümler boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-kasap-ding-in-bicagi",
+      "section": "ÜÇÜNCÜ KISIM · USTALIK",
+      "title": "Kasap Ding'in bıçağı",
+      "paragraphs": [
+        "Kasap Ding öküzü zorla parçalamaz; eklemler arasındaki doğal boşlukları izler. Yılların ustalığında gözle bakmayı bırakır, beden durumun ritmine uyum sağlar. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Acemi bıçak kemiğe çarpar, ustanın bıçağı boşluktan geçer ve yıllarca keskin kalır. Güçten çok doğru yeri hissetmek işi kolaylaştırır.",
+        "Akış her zaman çabasız doğmaz; Ding'in rahatlığı uzun pratik üzerine kuruludur. 'İçinden geldiği gibi yap' öğüdü eğitim sürecini gizleyebilir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Zor işi daha çok güçle itmeden önce yapının eklemlerini, doğal aralık ve sırasını arayın."
+      ]
+    },
+    {
+      "id": "durak-09-zihni-oruclandirmak",
+      "section": "DÖRDÜNCÜ KISIM · BOŞLUK",
+      "title": "Zihni oruçlandırmak",
+      "paragraphs": [
+        "Konfüçyüs'ün ağzından anlatılan zihin orucu, önceden hazırlanmış yargı ve kişisel gösterişi susturup duruma açık dinleme hâlidir. Boşluk yeni olana yer verir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Karşınızdaki konuşurken cevabınızı hazırlıyorsanız sesi duyarsınız ama anlamı içeri giremez. Zihin orucu iç monoloğu bir an geri çeker.",
+        "Zihni boşaltmak eleştirel düşünmeyi bırakmak değildir. Propaganda ve güç karşısında bilgi ve sınır gerekir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir görüşmede ilk iki dakika çözüm önermeden yalnız duyduğunuzu geri söylemeyi deneyin."
+      ]
+    },
+    {
+      "id": "durak-10-insanlar-arasindaki-dunyada-yasamak",
+      "section": "DÖRDÜNCÜ KISIM · BOŞLUK",
+      "title": "İnsanlar arasındaki dünyada yaşamak",
+      "paragraphs": [
+        "Zhuangzi saray ve siyaset karşısında iç bütünlüğü koruma sorununu işler. İdeal ilke ile tehlikeli gerçeklik arasında doğrudan kahramanlık bazen hem kişiyi hem amacı yok eder. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Öfkeli yöneticiye açıkça hakaret etmek cesur görünür ama sözünüz duyulmadan kapıdan atılabilirsiniz. Zaman, dil ve ilişki biçimi mesajın kaderini belirler.",
+        "İhtiyat korkaklık bahanesi olabilir. Metin tek reçete vermez; kişinin neyi koruduğunu ve hangi bedeli göze aldığını sormasını ister. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Zor bir gerçeği söylemenin yalnız doğruluğunu değil duyulabileceği biçim ve anı da planlayın."
+      ]
+    },
+    {
+      "id": "durak-11-beden-farki-deger-farki-degildir",
+      "section": "BEŞİNCİ KISIM · BÜTÜNLÜK",
+      "title": "Beden farkı, değer farkı değildir",
+      "paragraphs": [
+        "Metindeki kambur, sakat veya sıra dışı bedenli kişiler toplumun biçim ölçüsünü tersine çevirir. Dış görünüşün eksik saydığı kişide derin bütünlük ve çekim bulunabilir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Kalabalık düzgün yüzlü konuşmacıyı dinlemezken bedeni farklı bir kişinin sessiz varlığı insanları çevresinde toplar. Değer görünüş kalıbına sığmaz.",
+        "Eski hikâyeler engelli bedeni yalnız manevi sembole dönüştürebilir. Modern okuma kişinin gerçek erişim ve hak taleplerini görünür tutmalıdır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir bedeni ilham ya da eksik nesne yapmadan önce kişinin kendi deneyimini ve çevredeki engelleri dinleyin."
+      ]
+    },
+    {
+      "id": "durak-12-hakiki-insan-kimdir",
+      "section": "BEŞİNCİ KISIM · BÜTÜNLÜK",
+      "title": "Hakiki insan kimdir?",
+      "paragraphs": [
+        "Zhuangzi'nin hakiki insanı başarıyla şişmeyen, kayıpla parçalanmayan ve dönüşümü hayatın akışı olarak karşılayan kişidir. Duygusuz değil, duygunun içinde kaybolmayan bir bütünlük taşır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Dalgada sert duran dal kırılır; esneyen kamış eğilip yeniden doğrulur. Hakiki insanın gücü kontrol değil uyumdur.",
+        "Bu ideal acıyı bastırma ve yardım istememe baskısına dönüşmemelidir. Esneklik, yas ve kırılganlığı inkâr etmek değildir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Zor duyguda onu hemen kimlik yapmadan 'şu an içimden geçen bir dalga' diye adlandırın."
+      ]
+    },
+    {
+      "id": "durak-13-olum-bir-donusum-mu",
+      "section": "ALTINCI KISIM · DÖNÜŞÜM",
+      "title": "Ölüm bir dönüşüm mü?",
+      "paragraphs": [
+        "Zhuangzi yaşam ve ölümü mevsimler gibi büyük dönüşümün evreleri olarak düşünür. Eşinin ölümünde önce yas tutar, sonra biçim, nefes ve yaşamdan önceki değişim zincirini düşünerek davul çalar. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Buz eriyip su, su buhar olduğunda madde kaybolmaz ama biçim değişir. İnsan hayatı da sabit sahiplik değil geçici biçim olarak görülebilir.",
+        "Dönüşüm fikri kaybın acısını geçersiz kılmaz. Yas tutan kişiye kozmik ders vermek soğuk ve zarar verici olabilir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir kayıpta teselliyi acele vermek yerine önce bağın gerçekliğine yer açın; dönüşüm düşüncesi ancak kişinin kendi zamanında anlam taşısın."
+      ]
+    },
+    {
+      "id": "durak-14-gogun-borusu",
+      "section": "ALTINCI KISIM · DÖNÜŞÜM",
+      "title": "Göğün borusu",
+      "paragraphs": [
+        "Rüzgâr farklı kovuklardan geçince her biri başka ses çıkarır. Göğün borusu, tek nefesin sayısız varlıkta farklı biçim almasını anlatır; ses kovuğa ait olduğu kadar akışa da aittir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Aynı rüzgâr dar pencerede ıslık, çam dalında uğultu, mağarada gürleme olur. Çeşitlilik ortak akışın düşmanı değildir.",
+        "Benzetme bireysel sorumluluğu silmemelidir. İnsan yalnız pasif boru değil öğrenen ve seçim yapan canlıdır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir ekipte farklı tepkileri yalnız kişilik kusuru saymadan, aynı baskının farklı yapı ve geçmişlerde nasıl ses verdiğini görün."
+      ]
+    },
+    {
+      "id": "durak-15-bilmedigini-bilmek",
+      "section": "YEDİNCİ KISIM · SINIR",
+      "title": "Bilmediğini bilmek",
+      "paragraphs": [
+        "Metin ustaca konuşan bilgelerin kesinliğini şakalarla bozar. Bilgi sınırlı konumdan gelir; bilge olmak bütün cevaplara sahip olmak değil sınırı ve dönüşümü fark etmektir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Kuyudaki kurbağa gökyüzünü kuyunun ağzı kadar sanır. Onu aptal yapan küçük yerde yaşaması değil küçük görüntüyü bütün gök saymasıdır.",
+        "Alçakgönüllülük uzmanlığı küçümsemek değildir. Daha geniş deneyim ve yöntem, bazı görüşleri gerçekten daha güvenilir kılar. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir konuda 'bilmiyorum' dedikten sonra hangi deneyim veya kişiye ihtiyaç duyduğunuzu da belirtin."
+      ]
+    },
+    {
+      "id": "durak-16-yonetmemek-yonetmek-olabilir-mi",
+      "section": "YEDİNCİ KISIM · SİYASET",
+      "title": "Yönetmemek yönetmek olabilir mi?",
+      "paragraphs": [
+        "İç Bölümlerin hükümdar hikâyeleri, her şeyi zorla düzenleyen yönetimin yaşamın kendiliğinden düzenini bozabileceğini söyler. İyi yönetici kendini her olayın merkezine koymaz. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Bahçıvan çiçeği uzasın diye yaprağından çekerse kökü söker. Su, ışık ve alan sağlayıp büyümenin ritmini bitkiye bırakmak gerekir.",
+        "Az müdahale her koşulda iyi değildir; salgın, şiddet ve eşitsizlik ortak kural ve etkin kurum ister. Kimin kendiliğindenliğinin korunduğu sorulmalıdır. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir kurumda gereksiz denetimi azaltırken hesap verebilirlik ve zarar önleme sınırlarını açık tutun."
+      ]
+    },
+    {
+      "id": "durak-17-kaos-a-acilan-delikler",
+      "section": "SEKİZİNCİ KISIM · SON",
+      "title": "Kaos'a açılan delikler",
+      "paragraphs": [
+        "Kuzey ve Güney denizlerinin hükümdarları kendilerini iyi ağırlayan Kaos'a insan yüzündeki yedi deliği açarak iyilik yapmak ister; yedinci gün Kaos ölür. Kendi düzenimizi başkasına zorla vermenin felaketini anlatır. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Balığa yardım etmek için onu rahat koltuğa oturtmak iyi niyetli ama öldürücüdür. Yardım alanın yapısını bilmeden yapılan iyilik işkenceye dönüşebilir.",
+        "Her müdahale kötü değildir. Tıp ve eğitimde doğru bilgiyle yapılan değişim hayat kurtarır; hikâye kibirli standartlaştırmayı eleştirir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Yardım etmeden önce karşınızdakinin gerçekten ne istediğini ve önerinizin onun yaşam biçimine uyup uymadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Zhuangzi hiçbir şey doğru değildir, uğraşmaya değmez veya haksızlığa sessiz kalın demek değildir. Kesin kategorilerin, zorlamanın ve tek ölçünün kibirini gevşetir; duruma daha dikkatli ve esnek karşılık vermeyi arar.",
+        "Zhuangzi: İç Bölümler tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Zhuangzi ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "İç Bölümler Daoist düşüncenin ve dünya edebiyatının en yaratıcı metinlerindendir. Perspektif, dil ve ustalık üzerine hikâyeleri çok farklı yorumlara açıktır; metnin yazar katmanları ve modern kavramlarla fazla kolay eşleştirilmesi tartışmalıdır.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Zhuangzi: İç Bölümler için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Zhuangzi: İç Bölümler için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Hangi yerel ölçüyü bütün dünya sanıyorum? Zorladığım yerde doğal boşluk nerede? Yardım dediğim müdahale karşıdakinin biçimine mi, benim standardıma mı uyuyor?",
+        "Bu sorular Zhuangzi: İç Bölümler için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Zhuangzi: İç Bölümler üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Hayat sürekli dönüşür; bilgelik onu sabit adlarla ve tek fayda ölçüsüyle zorlamak değil, kendi bakışımızın sınırını görüp durumun eklemlerinden esnekçe geçebilmektir.",
+        "Akılda kalacak son görüntü, kelebek kanadının dev Peng kuşuna, eğri ağaca ve boşluklardan akan kasap bıçağına dönüştüğü sisli bir dağ manzarasıdır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Zhuangzi: İç Bölümler adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-dev-peng-in-ucusu": {
+      "image": "/images/summary-art-71-chapter-01-peng-flight-v1.webp",
+      "imageCaption": "Küçük kuşun üstünde göğü dolduran dev Peng, bakış ölçeğini gösterir."
+    },
+    "durak-03-yararlinin-dar-olcusu": {
+      "image": "/images/summary-art-71-chapter-02-giant-gourd-v1.webp",
+      "imageCaption": "Kap yerine kayık olan dev kabak, değer ile kullanım bağını gösterir."
+    },
+    "durak-04-ise-yaramaz-agacin-uzun-omru": {
+      "image": "/images/summary-art-71-chapter-03-useless-tree-v1.webp",
+      "imageCaption": "Kesilmeyen eğri ağacın geniş gölgesi, yararsızlığın koruyucu gücünü gösterir."
+    },
+    "durak-05-kelimeler-dunyayi-boler": {
+      "image": "/images/summary-art-71-chapter-04-language-divides-v1.webp",
+      "imageCaption": "Akışkan nehir üzerine çizilen keskin kelime sınırları, dilin bölücü gücünü gösterir."
+    },
+    "durak-06-seylerin-esitlenmesi": {
+      "image": "/images/summary-art-71-chapter-05-equalizing-things-v1.webp",
+      "imageCaption": "Aynı çamura farklı canlıların farklı anlam vermesi, şeylerin perspektif eşitliğini gösterir."
+    },
+    "durak-07-kelebek-ruyasi": {
+      "image": "/images/summary-art-71-chapter-06-butterfly-dream-v1.webp",
+      "imageCaption": "Uyuyan insan ile uçan kelebeğin birbirine dönüşmesi, kimliğin akışını simgeler."
+    },
+    "durak-08-kasap-ding-in-bicagi": {
+      "image": "/images/summary-art-71-chapter-07-cook-ding-v1.webp",
+      "imageCaption": "Öküzün kemikleri arasındaki boşlukta akan bıçak, çabasız ustalığı gösterir."
+    },
+    "durak-09-zihni-oruclandirmak": {
+      "image": "/images/summary-art-71-chapter-08-fasting-mind-v1.webp",
+      "imageCaption": "Gürültülü düşüncelerin çekildiği boş kase, zihinsel açıklığı simgeler."
+    },
+    "durak-10-insanlar-arasindaki-dunyada-yasamak": {
+      "image": "/images/summary-art-71-chapter-09-dangerous-court-v1.webp",
+      "imageCaption": "Saray kapısında sözü koruyarak yürüyen ince figür, tehlikeli dünyada ölçüyü gösterir."
+    },
+    "durak-11-beden-farki-deger-farki-degildir": {
+      "image": "/images/summary-art-71-chapter-10-unusual-body-v1.webp",
+      "imageCaption": "Toplum kalıbının dışında ama merkezinde sakin duran beden, iç bütünlüğü gösterir."
+    },
+    "durak-12-hakiki-insan-kimdir": {
+      "image": "/images/summary-art-71-chapter-11-true-person-v1.webp",
+      "imageCaption": "Fırtınada kırılmadan eğilen kamış insanı, dönüşüm içindeki bütünlüğü simgeler."
+    },
+    "durak-13-olum-bir-donusum-mu": {
+      "image": "/images/summary-art-71-chapter-12-death-transformation-v1.webp",
+      "imageCaption": "Buzdan suya, buluttan yağmura dönen daire, yaşam-ölüm dönüşümünü gösterir."
+    },
+    "durak-14-gogun-borusu": {
+      "image": "/images/summary-art-71-chapter-13-pipes-of-heaven-v1.webp",
+      "imageCaption": "Tek rüzgârla farklı ses çıkaran boşluklar, birliğin içindeki çeşitliliği gösterir."
+    },
+    "durak-15-bilmedigini-bilmek": {
+      "image": "/images/summary-art-71-chapter-14-well-frog-v1.webp",
+      "imageCaption": "Kuyudan küçük göğe bakan kurbağa, yerel bilginin sınırını simgeler."
+    },
+    "durak-16-yonetmemek-yonetmek-olabilir-mi": {
+      "image": "/images/summary-art-71-chapter-15-nonforcing-rule-v1.webp",
+      "imageCaption": "Bitkiyi çekmek yerine toprağını sulayan yönetici, zorlamadan düzenlemeyi gösterir."
+    },
+    "durak-17-kaos-a-acilan-delikler": {
+      "image": "/images/summary-art-71-chapter-16-hundun-holes-v1.webp",
+      "imageCaption": "Biçimsiz Kaos'a iyi niyetle açılan delikler, zoraki düzeltmenin tehlikesini gösterir."
+    }
+  }
+}

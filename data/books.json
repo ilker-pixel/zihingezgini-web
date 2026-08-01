@@ -113,7 +113,9 @@
         "description": "Hayatın kökeni, DNA, fotosentez ve ölüm gibi biyolojinin 10 büyük icadını güncel biyokimya ile açıklayan başyapıt.",
         "pubDate": "2009",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/10-yasamin-yukselisi/"
     },
     {
         "no": 11,
@@ -159,7 +161,9 @@
         "description": "Batılı ve Eğitimli toplumların beyninin kültürel evrimle nasıl farklılaştığını kanıtlayan yeni nesil eser.",
         "pubDate": "2020",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/14-dunyanin-en-tuhaf-insanlari/"
     },
     {
         "no": 15,
@@ -379,7 +383,9 @@
         "description": "Benliğin ve bilincin beyindeki fiziksel izini (nöral imzasını) somut verilerle ortaya koyan öncü çalışma.",
         "pubDate": "2014",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/35-bilinc-ve-beyin/"
     },
     {
         "no": 36,
@@ -505,7 +511,9 @@
         "description": "Bilinci beynin dış dünyayı anlamlandırmak için ürettiği 'kontrollü bir halüsinasyon' olarak açıklayan modern sinirbilim eseri.",
         "pubDate": "2021",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/47-sen-olmak/"
     },
     {
         "no": 48,
@@ -615,7 +623,9 @@
         "description": "Felsefenin temel sorularını (bilinç, ölüm, ahlak) son derece sade ve derin şekilde ele alan kitap.",
         "pubDate": "1987",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/58-butun-bunlar-ne-anlama-geliyor/"
     },
     {
         "no": 59,
@@ -679,7 +689,9 @@
         "description": "Antik Roma'nın en büyük hatibinden, yaşlanmanın ve insan ilişkilerinin ahlaki boyutunu ele alan pratik yaşam felsefesi.",
         "pubDate": "MÖ 44",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/64-dostluk-ve-yaslilik-uzerine/"
     },
     {
         "no": 65,
@@ -753,7 +765,9 @@
         "description": "Kelebek rüyası ve doğallık üzerine Stoacılığa benzeyen Taoist diyaloglar.",
         "pubDate": "MÖ 4. Yüzyıl",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/71-zhuangzi-ic-bolumler/"
     },
     {
         "no": 72,
@@ -961,7 +975,9 @@
         "description": "Atina ve Sparta arasındaki savaşı gerçekçi siyasi analizlerle aktaran tarih klasiği.",
         "pubDate": "MÖ 411",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/91-peloponez-savasi/"
     },
     {
         "no": 92,
@@ -1101,7 +1117,9 @@
         "description": "Sınıf savaşı tarihini özetleyen ve proletaryanın devrimci rolünü ilan eden tarihi manifesto.",
         "pubDate": "1848",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/104-komunist-manifesto/"
     },
     {
         "no": 105,
@@ -1161,7 +1179,9 @@
         "description": "Faydacılık, özgürlükçülük ve erdem etiği yaklaşımlarını güncel tartışmalarla ele alan adalet rehberi.",
         "pubDate": "2009",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/110-adalet/"
     },
     {
         "no": 111,
@@ -1461,7 +1481,9 @@
         "description": "Bilimsel yöntemin mutlak kuralları olmadığını, 'ne olsa gider' anarşist metodolojisini savunan klasik.",
         "pubDate": "1975",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/139-yonteme-karsi/"
     },
     {
         "no": 140,
@@ -1609,7 +1631,9 @@
         "description": "Devlet ile toplum arasındaki hassas dengeyi ve özgürlüğün ancak bu dar koridorda nasıl yaşayabileceğini inceleyen başyapıt.",
         "pubDate": "2019",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/153-dar-koridor/"
     },
     {
         "no": 154,
@@ -1733,7 +1757,9 @@
         "description": "Kaostan, belirsizlikten ve stresten güçlenerek çıkmanın Stoacı ve sistemik yollarını anlatan modern bir yaşam stratejisi rehberi.",
         "pubDate": "2012",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/165-antikirilgan/"
     },
     {
         "no": 166,
@@ -1843,7 +1869,9 @@
         "description": "Kültürel beğenilerin sınıfsal ayrımları yeniden üretme işlevini ampirik verilerle inceleyen şaheser.",
         "pubDate": "1979",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/176-ayrim/"
     },
     {
         "no": 177,
@@ -2001,7 +2029,9 @@
         "description": "Metinlerin okuyucu tarafından sınır tanımadan aşırı yorumlanmasının sınırlarını çizen tartışma.",
         "pubDate": "1992",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/191-yorum-ve-asiri-yorum/"
     },
     {
         "no": 192,
@@ -2095,7 +2125,9 @@
         "description": "Türk aydınının yabancılaşmasını ve iç çatışmalarını modernist bir dille anlatan Türk edebiyatı zirvesi.",
         "pubDate": "1972",
         "evre": 7,
-        "link": "/yazilar/tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya/"
+        "link": "/yazilar/tutunamayanlarin-150-yili-utopyanin-golgesinde-distopya/",
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/200-tutunamayanlar/"
     },
     {
         "no": 201,
@@ -2283,7 +2315,9 @@
         "description": "Kapitalizmin doğuşunda kadın bedeninin evcilleştirilmesini ve cadı avlarının sosyo-ekonomik arka planını inceleyen şaheser.",
         "pubDate": "2004",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/218-caliban-ve-cadi/"
     },
     {
         "no": 219,
@@ -2397,7 +2431,9 @@
         "description": "Ulusların, kapitalizm ve matbaa aracılığıyla zihinde inşa edilmiş 'hayali cemaatler' olduğunu savunan başyapıt.",
         "pubDate": "1983",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/229-hayali-cemaatler/"
     },
     {
         "no": 230,
@@ -2659,7 +2695,9 @@
         "description": "Yapay zekanın geleceğini ve kozmik ölçekte zekanın yayılımını fiziksel temelde inceleyen bilimsel eser.",
         "pubDate": "2017",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/254-yasam-3-0/"
     },
     {
         "no": 255,
@@ -2979,7 +3017,9 @@
         "description": "Okulların kurumsallaşarak eğitimi tekelleştirdiğini savunan, alternatif gayriresmi öğrenme ağlarını öneren klasik.",
         "pubDate": "1971",
         "evre": 10,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/285-okulsuz-toplum/"
     },
     {
         "no": 286,

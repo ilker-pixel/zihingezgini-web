@@ -1,0 +1,347 @@
+{
+  "bookNo": 139,
+  "title": "Yönteme Karşı",
+  "author": "Paul Feyerabend",
+  "subtitle": "Bilimin tek ve değişmez bir tarifle ilerlemediğini, büyük keşiflerin çoğu zaman kuralları bükerek doğduğunu savunan kışkırtıcı bilim felsefesi klasiği.",
+  "coverImage": "/images/summary-cover-139-yonteme-karsi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/139-yonteme-karsi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6A557A",
+  "meta": {
+    "originalTitle": "Against Method",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Galileo yalnız teleskobu göğe çevirip gerçeği göstermedi. Gördüğü bulanık lekeleri yeni fizik, güçlü benzetme ve ustaca ikna ile anlamlı kanıta dönüştürdü. Feyerabend'e göre bilim tarihi, ders kitaplarındaki temiz yöntem basamaklarından çok daha dağınık ve yaratıcıdır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Verso - Against Method",
+      "url": "https://www.versobooks.com/products/1908-against-method"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Paul Feyerabend",
+      "url": "https://plato.stanford.edu/entries/feyerabend/"
+    },
+    {
+      "id": 3,
+      "title": "Internet Encyclopedia of Philosophy - Feyerabend",
+      "url": "https://iep.utm.edu/feyerabe/"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Bilimin tek ve değişmez bir tarifle ilerlemediğini, büyük keşiflerin çoğu zaman kuralları bükerek doğduğunu savunan kışkırtıcı bilim felsefesi klasiği.",
+        "'Her şey gider' sloganı her iddia doğrudur demek değildir. Feyerabend'in hedefi, bütün iyi bilimi tek kurala bağlayan yöntembilimdir. Çoğul yolları savunurken kanıt, eleştiri ve zarar sorumluluğunu ortadan kaldırmaz.",
+        "Bu rehber, Paul Feyerabend tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-tek-bilimsel-yontem-var-mi",
+      "section": "BİRİNCİ KISIM · İSYAN",
+      "title": "Tek bilimsel yöntem var mı?",
+      "paragraphs": [
+        "Bilim tarihi gözlem yap, hipotez kur, deneyle test et biçimindeki tek çizgiye sığmaz. Araştırmacılar bazen kanıt zayıfken fikri korur, bazen yerleşik ölçüyü değiştirir, bazen sanatı ve metafiziği kullanır. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Yeni bir hastalığı araştıran ekip önce eski testlerle çelişen vakaları dışlayabilir; sonra tam bu uyumsuzluk yeni hastalık tanımını doğurur.",
+        "Kuralların esnek olması yöntem bilgisini gereksiz yapmaz. İstatistik ve deney tasarımı hatayı azaltır; sorun onları tarih üstü yasa saymaktır. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir araştırmayı değerlendirirken tek kontrol listesi yerine soruya uygun yöntem, açık veri ve eleştiriye yanıt arayın."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Tek bilimsel yöntem var mı?” başlığının yalnız kendi örneğini değil Yönteme Karşı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-her-sey-gider-ne-demek",
+      "section": "BİRİNCİ KISIM · İSYAN",
+      "title": "Her şey gider ne demek?",
+      "paragraphs": [
+        "Slogan zorunlu tek kurala karşı ironik bir karşı kuraldır. Eğer her çağda geçerli yöntem buyruğu aranıyorsa bilim tarihinin fiilen uyduğu tek genel ilke, gerektiğinde kuralı çiğneyebilmesidir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Haritada bütün araziler için yalnız düz yol emri verilirse dağda yolculuk durur. Tırmanış bazen zikzak, nehir bazen köprü ister.",
+        "Slogan sahte bilgi ve keyfî iddia için izin belgesi değildir. Hangi sapmanın verimli olduğunu sonuç, açıklama ve karşı eleştiri belirler. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Bir kuraldan ayrılırken yalnız özgürlük değil neden o soruda kuralın körleştirdiğini açıkça gösterin."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Her şey gider ne demek?” başlığının yalnız kendi örneğini değil Yönteme Karşı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-karsitumevarim",
+      "section": "İKİNCİ KISIM · AYKIRI FİKİR",
+      "title": "Karşıtümevarım",
+      "paragraphs": [
+        "Mevcut olgularla uyumlu teori üretmek bazen mevcut olguların eski teori tarafından biçimlendirildiğini unutturur. Feyerabend bilerek aykırı varsayım kurmanın gizli kabulleri açığa çıkarabileceğini söyler. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Herkes toplantıdaki sessizliği onay sayıyorsa biri 'belki korkuyorlar' varsayımını ortaya atar. Yeni açıklama aynı davranışın başka nedenini görünür kılar.",
+        "Her ters iddia verimli değildir; kanıtsız karşı çıkış eleştiri görüntüsü altında zamanı tüketebilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Çok kesin görünen açıklamaya, aynı veriyi başka türlü anlamlandıran sınanabilir bir rakip üretin."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Karşıtümevarım” başlığının yalnız kendi örneğini değil Yönteme Karşı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-gozlem-tarafsiz-degildir",
+      "section": "İKİNCİ KISIM · AYKIRI FİKİR",
+      "title": "Gözlem tarafsız değildir",
+      "paragraphs": [
+        "Ne gördüğümüz kullandığımız kavram, araç ve beklentiye bağlıdır. Teleskoptaki ışık lekesi eğitimli astronom için uydu, başkası için cam kusuru olabilir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Röntgen görüntüsünde doktor kırığı görürken eğitimsiz göz gri gölgeler görür. Görüntü aynı, anlam deneyim ve kuramla oluşur.",
+        "Kuram yüklülük dış dünyanın istediğimiz gibi olduğu anlamına gelmez. Farklı uzmanlar ortak ölçüm ve tahminle modelleri sınayabilir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir grafik veya görüntüyü okurken hangi sınıflandırma ve cihaz işleminin onu veri hâline getirdiğini sorun."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Gözlem tarafsız değildir” başlığının yalnız kendi örneğini değil Yönteme Karşı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-galileo-nun-teleskobu",
+      "section": "ÜÇÜNCÜ KISIM · TARİH",
+      "title": "Galileo'nun teleskobu",
+      "paragraphs": [
+        "İlk teleskoplar bulanık, renkli ve güvenilmez görüntüler üretiyordu. Galileo gökteki yorumunu savunmak için optik kanıt kadar çizim, benzetme ve yeni hareket anlayışı kullandı. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Uzak gemiyi doğru gösteren dürbünün Ay'daki lekeyi de doğru gösterdiği hemen kanıtlanmış değildir; gökte karşılaştırma cetveli yoktur.",
+        "Galileo'nun retoriğini göstermek keşfin sahte olduğu anlamına gelmez. Yeni araçların güveni zamanla bağımsız başarılar üzerinden kurulur. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Yeni bir ölçüm aracında yalnız sonucu değil kalibrasyon, hata ve neden güvenildiğini inceleyin."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Galileo'nun teleskobu” başlığının yalnız kendi örneğini değil Yönteme Karşı boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-eski-fizige-karsi-yeni-hareket",
+      "section": "ÜÇÜNCÜ KISIM · TARİH",
+      "title": "Eski fiziğe karşı yeni hareket",
+      "paragraphs": [
+        "Dönen Dünya fikri gündelik deneyime aykırı görünür: zıplayınca neden geride kalmayız? Galileo ortak hareket düşüncesiyle gözlemin ne anlama geldiğini değiştirir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Düz giden geminin kabininde topu yukarı atınca elinize düşer. Gemi hareket ediyor olsa da iç olaylar ortak hızı paylaşır.",
+        "Benzetme tüm astronomiyi kanıtlamaz; fakat eski itirazın dayandığı hareket kavramını sarsar. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir iddianın veriye uymadığını söylemeden önce veriyi yorumlayan eski kavramın değişip değişmediğini sorun."
+      ]
+    },
+    {
+      "id": "durak-08-ad-hoc-yardim-her-zaman-kotu-mu",
+      "section": "DÖRDÜNCÜ KISIM · KORUMA",
+      "title": "Ad hoc yardım her zaman kötü mü?",
+      "paragraphs": [
+        "Yeni teori ilk doğduğunda bütün sorunları çözemeyebilir. Geçici ek varsayımlar ona gelişme zamanı verir; her uyumsuzlukta hemen çöpe atmak yalnız mevcut teoriyi korur. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Yeni yazılım ilk sürümde yama ister. Her yamayı hile sayıp programı silersek daha iyi mimari olgunlaşamaz.",
+        "Teoriyi sonsuza dek kurtaran değişken yamalar onu sınanamaz yapar. Geçici çözüm yeni tahmin ve bağımsız destek üretmelidir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir açıklamayı kurtaran ek varsayımın yalnız geçmiş hatayı mı örttüğünü, yeni riskli sonuçlar da mı verdiğini sorun."
+      ]
+    },
+    {
+      "id": "durak-09-tutarsiz-kuramlar-konusabilir-mi",
+      "section": "DÖRDÜNCÜ KISIM · KORUMA",
+      "title": "Tutarsız kuramlar konuşabilir mi?",
+      "paragraphs": [
+        "Rakip kuramlar aynı kelimeye farklı anlam ve ölçü verebilir; bu nedenle basit ortak cetvelle karşılaştırılamayabilir. Değişim yalnız cevap değil sorunun kendisini dönüştürür. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Eski tıp hastalığı beden sıvılarının dengesiyle, mikrop kuramı organizmayla açıklar. Aynı belirtiyi farklı varlık dünyalarında yerleştirirler.",
+        "Eşölçülemezlik tam iletişimsizlik değildir. Çeviri, ortak sonuç ve tarihsel öğrenme mümkündür; yoksa bilimsel tartışma anlamsızlaşır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "İki yaklaşım tartışırken aynı sözcüklerin gerçekten aynı ölçütü taşıyıp taşımadığını açıklayın."
+      ]
+    },
+    {
+      "id": "durak-10-bilim-mitlerden-tamamen-ayri-mi",
+      "section": "BEŞİNCİ KISIM · ÇOĞULLUK",
+      "title": "Bilim mitlerden tamamen ayrı mı?",
+      "paragraphs": [
+        "Feyerabend bilimsel geleneğin de hikâye, otorite ve eğitim yoluyla aktarıldığını; kendini otomatik olarak aklın tek temsilcisi saymaması gerektiğini savunur. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Çocuk atom modelini deney tekrarlayarak değil öğretmen ve kitaptan güvenle öğrenir; ilk aşamada bilim de otorite üzerinden gelir.",
+        "Bilim ile mit aynı güvenilirlikte değildir. Deney, tahmin ve düzeltme kurumları bilime özel güç verir; eleştiri bu mekanizmaları küçültmemelidir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir bilgi geleneğini değerlendirirken yalnız kökenine değil hata bulma ve düzeltme kapasitesine bakın."
+      ]
+    },
+    {
+      "id": "durak-11-cin-tibbi-ornegi",
+      "section": "BEŞİNCİ KISIM · ÇOĞULLUK",
+      "title": "Çin tıbbı örneği",
+      "paragraphs": [
+        "Feyerabend dışlanan bilgi geleneklerinin bazen modern bilimin görmediği uygulama ve deneyim taşıyabileceğini savunur. Çoğulluk alternatiflerin sınanmasına alan açar. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Bir bitki tedavisi eski kozmolojiyle açıklanabilir; etkili molekülü modern deney bulabilir. Açıklama yanlış olsa bile uygulamada araştırılacak ipucu bulunabilir.",
+        "Geleneksel olmak güvenli veya etkili olmak değildir. Doz, yan etki ve kontrollü karşılaştırma vazgeçilmezdir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Alternatif iddiayı ya alayla reddetmek ya sorgusuz kabul etmek yerine etkisini güvenli ve açık testle sınayın."
+      ]
+    },
+    {
+      "id": "durak-12-uzmanlik-ve-yurttas-denetimi",
+      "section": "ALTINCI KISIM · DEMOKRASİ",
+      "title": "Uzmanlık ve yurttaş denetimi",
+      "paragraphs": [
+        "Bilimsel kararlar toplumun hayatını etkilediğinde yalnız uzmanların mülkü olamaz. Yurttaşlar amaç, risk ve değer dağılımında söz sahibi olmalıdır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Baraj mühendisi dayanıklılığı bilir; köylü kaybolacak mezarlığı ve geçim yolunu bilir. Karar yalnız beton hesabı değildir.",
+        "Teknik ayrıntıyı oylamayla belirlemek güvenliği tehlikeye atabilir. Demokratik denetim uzman bilgiyi yok etmek değil değer kararını görünür kılmaktır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir kamu projesinde teknik gerçek, belirsizlik ve değer tercihinin hangi aktörce belirlendiğini ayırın."
+      ]
+    },
+    {
+      "id": "durak-13-bilim-ile-devlet-ayrilmali-mi",
+      "section": "ALTINCI KISIM · DEMOKRASİ",
+      "title": "Bilim ile devlet ayrılmalı mı?",
+      "paragraphs": [
+        "Feyerabend bilimin eğitim ve devlet içinde ayrıcalıklı tek dünya görüşü olmasına karşı çıkar; din-devlet ayrılığına benzer bir mesafe önerir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Okulda yalnız sonuç ezberletilip bilimin tartışmalı tarihi saklanırsa bilim eleştirel yöntem değil resmî inanç gibi öğrenilir.",
+        "Halk sağlığı ve çevre düzenlemesi bilimsel kanıta dayanmak zorundadır. Ayrıcalık eleştirisi kanıtsız politikayı meşrulaştırmamalıdır. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bilim öğretiminde doğru sonucu verirken kanıtın nasıl üretildiğini ve hangi belirsizliğin sürdüğünü de gösterin."
+      ]
+    },
+    {
+      "id": "durak-14-egitimde-ozgur-dusunce",
+      "section": "YEDİNCİ KISIM · EĞİTİM",
+      "title": "Eğitimde özgür düşünce",
+      "paragraphs": [
+        "Tek doğru yöntemi ezberleten eğitim öğrenciyi mevcut uzmanlığın kopyasına dönüştürebilir. Tarihsel çatışma ve rakip fikirler gösterildiğinde bilim yaratıcı insan etkinliği olarak görünür. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Deney sonucu baştan kitapta yazılıysa öğrenci ölçüm yapmaz, doğru cevabı canlandırır. Gerçek belirsizlik merakı geri getirir.",
+        "Her temel konuda açık uçluluk vermek başlangıç öğrenmesini zorlaştırabilir. Beceri ve güvenlik kuralları önce yapı gerektirir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bir dersin en az bir yerinde yerleşik cevabın nasıl doğduğunu ve hangi rakiple sınandığını araştırın."
+      ]
+    },
+    {
+      "id": "durak-15-buyuk-bilim-insani-kural-bozucu-mu",
+      "section": "YEDİNCİ KISIM · EĞİTİM",
+      "title": "Büyük bilim insanı kural bozucu mu?",
+      "paragraphs": [
+        "Yaratıcı araştırmacı yöntem repertuvarını bilir ama hangisini ne zaman bozacağını da sezer. Kural bozma bilgisizlik değil bağlama hâkimiyet gerektirir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Usta cazcı notayı bildiği için ölçünün dışına anlamlı çıkar; enstrümanı bilmeyenin rastgele sesi aynı şey değildir.",
+        "Dâhi miti ekip, teknisyen ve kurum emeğini görünmez kılabilir. Yenilik çoğu zaman kolektif ağdan doğar. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir yenilik öyküsünde kahramanın yanı sıra veri, araç ve eleştiri sağlayan görünmez insanları da arayın."
+      ]
+    },
+    {
+      "id": "durak-16-cogulluk-hata-ayiklama-aracidir",
+      "section": "SEKİZİNCİ KISIM · DENGE",
+      "title": "Çoğulluk hata ayıklama aracıdır",
+      "paragraphs": [
+        "Rakip kuram ve yöntemler yalnız özgürlük için değil hataları görünür kılmak için gereklidir. Tek yaklaşım kendi varsayımını veri sanabilir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Aynı köprüyü mimar, deprem mühendisi ve engelli kullanıcı incelerse her biri ötekinin görmediği riski bulur.",
+        "Sonsuz yaklaşım kaynakları bölebilir ve karar geciktirebilir. Çoğulluk, kanıt kalitesi ve zarar sorumluluğuyla düzenlenmelidir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Önemli kararda aynı eğitimi almış üç kişi yerine farklı yöntem ve deneyime sahip eleştirmen çağırın."
+      ]
+    },
+    {
+      "id": "durak-17-sahte-bilgi-caginda-feyerabend",
+      "section": "SEKİZİNCİ KISIM · DENGE",
+      "title": "Sahte bilgi çağında Feyerabend",
+      "paragraphs": [
+        "Yöntem eleştirisi bugün kolayca 'uzman görüşü yalnız bir fikir' diye kötüye kullanılabilir. Oysa Feyerabend otoriteyi sorgularken eleştiri, tarih ve alternatiflerin gelişmesine zaman ister. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Sosyal medyada tek video yıllarca biriken klinik kanıtla eşit sayılırsa çoğulluk değil kanıt ölçüsüzlüğü doğar.",
+        "Uzman kurumlar da hata ve çıkar çatışması taşır. Güven şeffaf veri, çoğaltma ve hesap verebilirlikle kazanılır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bir iddiada muhalif oluşu cesaret kanıtı saymadan önce yöntem, veri ve düzeltmeye açıklığını inceleyin."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "'Her şey gider' her görüş eşit derecede doğrudur, deney gereksizdir veya uzmanlık değersizdir demek değildir. Kitap tek ve tarih üstü yöntem buyruğuna karşı bilimsel yaratıcılığı ve kuramsal çoğulluğu savunur.",
+        "Yönteme Karşı tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Paul Feyerabend ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Yönteme Karşı bilim felsefesinin en tartışmalı eserlerindendir. Tarihsel örneklerle yöntembilim katılığını sarsması övülür; Galileo okumasının seçiciliği, göreciliğe açılan dili ve demokratik denetimin teknik sınırları eleştirilir.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Yönteme Karşı için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Yönteme Karşı için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Kullandığım yöntem bu soruya neden uygun? Gözlem hangi eski kavramla biçimlenmiş? Rakip yaklaşım gerçekten sınanabilir mi ve hangi hatamı görünür kılıyor?",
+        "Bu sorular Yönteme Karşı için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Yönteme Karşı üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Bilim tek bir değişmez tarifle değil, tarih içinde kuralları öğrenip gerektiğinde aşan, rakip fikirleri çoğaltan ve yeni araçlarla kendi gözlem dilini bile dönüştüren yaratıcı bir etkinlik olarak ilerler.",
+        "Akılda kalacak son görüntü, düz bilim cetvelini kırarak teleskopa, gemiye, bitki kitabına ve yurttaş meydanına ayrılan renkli araştırma yollarıdır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Yönteme Karşı adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-tek-bilimsel-yontem-var-mi": {
+      "image": "/images/summary-art-139-chapter-01-method-labyrinth-v1.webp",
+      "imageCaption": "Düz yöntem cetvelini aşan çok yollu laboratuvar labirenti, bilimsel çoğulluğu gösterir."
+    },
+    "durak-03-her-sey-gider-ne-demek": {
+      "image": "/images/summary-art-139-chapter-02-anything-goes-v1.webp",
+      "imageCaption": "Tek yol tabelasının yanında açılan farklı patikalar, sloganın çoğulcu anlamını gösterir."
+    },
+    "durak-04-karsitumevarim": {
+      "image": "/images/summary-art-139-chapter-03-counterinduction-v1.webp",
+      "imageCaption": "Aynı veri dağına zıt yönden tırmanan iki teori, karşıtümevarımı gösterir."
+    },
+    "durak-05-gozlem-tarafsiz-degildir": {
+      "image": "/images/summary-art-139-chapter-04-theory-laden-eye-v1.webp",
+      "imageCaption": "Aynı teleskop lekesini farklı anlamlarla gören gözler, kuram yüklü gözlemi gösterir."
+    },
+    "durak-06-galileo-nun-teleskobu": {
+      "image": "/images/summary-art-139-chapter-05-galileo-telescope-v1.webp",
+      "imageCaption": "Bulanık teleskop görüntüsü ile çizilen net Ay dağları, araç ve yorum ortaklığını gösterir."
+    },
+    "durak-07-eski-fizige-karsi-yeni-hareket": {
+      "image": "/images/summary-art-139-chapter-06-moving-ship-v1.webp",
+      "imageCaption": "Hareketli gemi kabininde dik düşen top, ortak hareket fikrini gösterir."
+    },
+    "durak-08-ad-hoc-yardim-her-zaman-kotu-mu": {
+      "image": "/images/summary-art-139-chapter-07-theory-patches-v1.webp",
+      "imageCaption": "Yeni makinenin geçici yamalarla çalışması, gelişen teorinin korunmasını gösterir."
+    },
+    "durak-09-tutarsiz-kuramlar-konusabilir-mi": {
+      "image": "/images/summary-art-139-chapter-08-incommensurable-maps-v1.webp",
+      "imageCaption": "Aynı şehri farklı koordinatlarla çizen iki harita, eşölçülemezliği gösterir."
+    },
+    "durak-10-bilim-mitlerden-tamamen-ayri-mi": {
+      "image": "/images/summary-art-139-chapter-09-science-myth-v1.webp",
+      "imageCaption": "Laboratuvar ve hikâye ateşinin ortak meydanda ama farklı araçlarla durması, gelenek karşılaştırmasını gösterir."
+    },
+    "durak-11-cin-tibbi-ornegi": {
+      "image": "/images/summary-art-139-chapter-10-medical-traditions-v1.webp",
+      "imageCaption": "Eski bitki kitabı ile modern deney tüpü arasında kurulan test köprüsü, çoğul araştırmayı gösterir."
+    },
+    "durak-12-uzmanlik-ve-yurttas-denetimi": {
+      "image": "/images/summary-art-139-chapter-11-citizen-expert-v1.webp",
+      "imageCaption": "Mühendis planı ile köylü haritasının aynı masada buluşması, demokratik bilgi kararını gösterir."
+    },
+    "durak-13-bilim-ile-devlet-ayrilmali-mi": {
+      "image": "/images/summary-art-139-chapter-12-science-state-v1.webp",
+      "imageCaption": "Devlet kürsüsü ile laboratuvar arasındaki açık ama geçilebilir mesafe, kurumsal ayrımı simgeler."
+    },
+    "durak-14-egitimde-ozgur-dusunce": {
+      "image": "/images/summary-art-139-chapter-13-open-education-v1.webp",
+      "imageCaption": "Cevap anahtarından açık deney masasına geçen öğrenci, özgür bilim eğitimini gösterir."
+    },
+    "durak-15-buyuk-bilim-insani-kural-bozucu-mu": {
+      "image": "/images/summary-art-139-chapter-14-rulebreaker-jazz-v1.webp",
+      "imageCaption": "Laboratuvarda doğaçlama yapan bilim ekibi, bilgili kural bozmayı gösterir."
+    },
+    "durak-16-cogulluk-hata-ayiklama-aracidir": {
+      "image": "/images/summary-art-139-chapter-15-plural-lenses-v1.webp",
+      "imageCaption": "Aynı yapıya bakan farklı mercekler, çoğulluğun hata bulma gücünü gösterir."
+    },
+    "durak-17-sahte-bilgi-caginda-feyerabend": {
+      "image": "/images/summary-art-139-chapter-16-misinformation-balance-v1.webp",
+      "imageCaption": "Bir yanda tek viral ekran, diğerinde açık kanıt ağı bulunan terazi, çoğulluk ile ölçüsüzlüğü ayırır."
+    }
+  }
+}

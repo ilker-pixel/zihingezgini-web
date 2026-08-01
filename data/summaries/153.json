@@ -1,0 +1,347 @@
+{
+  "bookNo": 153,
+  "title": "Dar Koridor",
+  "author": "Daron Acemoğlu ve James A. Robinson",
+  "subtitle": "Özgürlüğün devletsizlikten ya da güçlü devletten kendiliğinden doğmadığını; devlet gücü ile örgütlü toplumun sürekli yarıştığı dar bir koridorda korunabildiğini anlatan büyük tarih yolculuğu.",
+  "coverImage": "/images/summary-cover-153-dar-koridor-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/153-dar-koridor-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4D6570",
+  "meta": {
+    "originalTitle": "The Narrow Corridor",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Devlet çok zayıfsa güçlü aileler ve çeteler hayatınızı belirler. Devlet çok güçlüyse bu kez memur, polis ve lider nefes alanınızı daraltır. Özgürlük iki uç arasında hazır bir nokta değil, toplumun devleti denetlerken devletin de ortak düzen kurabildiği hareketli bir koridordur.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Penguin Random House - The Narrow Corridor",
+      "url": "https://www.penguinrandomhouse.com/books/555400/the-narrow-corridor-by-daron-acemoglu-and-james-a-robinson/"
+    },
+    {
+      "id": 2,
+      "title": "MIT Economics - Daron Acemoglu",
+      "url": "https://economics.mit.edu/people/faculty/daron-acemoglu"
+    },
+    {
+      "id": 3,
+      "title": "University of Chicago - James Robinson",
+      "url": "https://harris.uchicago.edu/directory/james-robinson"
+    }
+  ],
+  "enrichmentStandardVersion": 1,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Özgürlüğün devletsizlikten ya da güçlü devletten kendiliğinden doğmadığını; devlet gücü ile örgütlü toplumun sürekli yarıştığı dar bir koridorda korunabildiğini anlatan büyük tarih yolculuğu.",
+        "Kitabın koridoru coğrafi yer değil dinamik dengedir. Bir ülke bir kez içeri girdi diye sonsuza dek özgür kalmaz; devlet ve toplum sürekli koşar. Tarih örnekleri geniştir ve her ülkeyi tek şemaya sıkıştırmadan okunmalıdır.",
+        "Bu rehber, Daron Acemoğlu ve James A. Robinson tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-leviathan-neden-gerekli",
+      "section": "BİRİNCİ KISIM · DEVLET",
+      "title": "Leviathan neden gerekli?",
+      "paragraphs": [
+        "Ortak yasa ve güvenlik olmadan güçlü kişi zayıfı kolayca ezer. Devlet şiddeti sınırlayıp anlaşmayı uygular; fakat aynı güç denetlenmezse yeni tehdide dönüşür. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Pazarda tartıyı denetleyen kimse yoksa silahlı satıcı kuralı belirler. Denetçi gelince ticaret kolaylaşır; denetçi bütün mallara el koyarsa sorun geri döner.",
+        "Devlet yalnız baskı aracı değildir, toplum da her zaman özgürleştirici değildir. Klan ve çoğunluk azınlığı ezebilir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Bir özgürlük sorununda devleti küçültmekten önce hangi ortak koruma ve yaptırımın yine gerekli olduğunu sorun."
+      ],
+      "extraParagraphs": [
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Leviathan neden gerekli?” başlığının yalnız kendi örneğini değil Dar Koridor boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-yok-leviathan",
+      "section": "BİRİNCİ KISIM · DEVLET",
+      "title": "Yok Leviathan",
+      "paragraphs": [
+        "Devlet kapasitesinin zayıf olduğu yerde özgürlük boşlukta büyümez; gelenek, klan, savaş ağası ve özel şiddet insanı görünmez kafese alabilir. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Resmî polis yok diye köy özgür değildir; aile meclisi evlilik, iş ve mirası itirazsız belirliyorsa yaptırım başka elde sürer.",
+        "Yerel topluluk yalnız baskı değildir; dayanışma ve hızlı çözüm sağlayabilir. Sorun çıkış ve itiraz yolunun olmamasıdır. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Devlet dışı düzende kuralı kimin uyguladığını, itiraz edenin nereye gidebildiğini ve yaptırımın nasıl sınırlandığını görün."
+      ],
+      "extraParagraphs": [
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Yok Leviathan” başlığının yalnız kendi örneğini değil Dar Koridor boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-despotik-leviathan",
+      "section": "İKİNCİ KISIM · KAFES",
+      "title": "Despotik Leviathan",
+      "paragraphs": [
+        "Devlet kapasitesi toplum denetiminden hızlı büyürse düzen sağlarken siyaseti ve ekonomiyi yöneten despotik Leviathan doğar. İnsanlar güvenlik karşılığında söz ve örgütlenme gücünü kaybeder. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Şehirde suç düşer ama hangi işe gireceğinizi, ne söyleyeceğinizi ve kiminle örgütleneceğinizi tek merkez belirler. Düzen vardır, çıkış yoktur.",
+        "Güçlü devletin her politikası despotizm değildir. Vergi ve düzenleme demokratik hesap verme içinde ortak hizmet sağlayabilir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir devlet başarısını yalnız hız ve düzenle değil kararın denetlenebilirliği, itiraz ve barışçıl değişim imkânıyla ölçün."
+      ],
+      "extraParagraphs": [
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Despotik Leviathan” başlığının yalnız kendi örneğini değil Dar Koridor boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-prangalanmis-leviathan",
+      "section": "İKİNCİ KISIM · KAFES",
+      "title": "Prangalanmış Leviathan",
+      "paragraphs": [
+        "Özgürlük devletin güçsüzlüğünden değil prangalanmasından doğar: devlet yasa uygular, toplum onu örgüt, medya, mahkeme ve siyasetle sınırlar. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Güçlü bekçi kapıyı korur ama anahtar yalnız onda değildir; bina sakinleri kuralı değiştirip bekçiyi görevden alabilir.",
+        "Pranga devleti çalışamaz hâle getiren her engel değildir. Aşırı veto ortak sorunları çözemeyen felç yaratabilir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Kurumlarda hem etkili hareket hem kötüye kullanımı durduracak bağımsız denetim tasarlayın."
+      ],
+      "extraParagraphs": [
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Prangalanmış Leviathan” başlığının yalnız kendi örneğini değil Dar Koridor boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-kizil-kralice-etkisi",
+      "section": "ÜÇÜNCÜ KISIM · KOŞU",
+      "title": "Kızıl Kraliçe etkisi",
+      "paragraphs": [
+        "Devlet güçlendikçe toplum da örgütlenme ve denetim kapasitesini artırmalıdır; aynı yerde kalmak için bile ikisi sürekli koşar. Özgürlük bir kez kazanılan madalya değil canlı süreçtir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Şirket yeni veri aracı kurunca çalışan temsilcileri de yeni denetim bilgisi edinmezse eski hak kâğıt üzerinde kalır.",
+        "Sürekli yarış çatışmayı yüceltebilir. İşbirliği ve güven olmadan her politika savaş alanına döner. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Yeni teknoloji veya kriz devlete güç verdiğinde toplumsal denetimin hangi araçla güncelleneceğini aynı anda sorun."
+      ],
+      "extraParagraphs": [
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Kızıl Kraliçe etkisi” başlığının yalnız kendi örneğini değil Dar Koridor boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-normlarin-kafesi",
+      "section": "ÜÇÜNCÜ KISIM · KOŞU",
+      "title": "Normların kafesi",
+      "paragraphs": [
+        "Devlet zayıfken toplumsal normlar düzen sağlar ama bireyin seçimini sıkıca sınırlayabilir. Kitap bu görünmez baskıya normlar kafesi der. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Genç kadın resmî yasa izin verse de aile şerefini zedeleyeceği korkusuyla mesleğini seçemiyorsa kafes polis olmadan çalışır.",
+        "Normlar ortak güven ve bakım da üretir. Her gelenek baskı değildir; itiraz ve değişim yolu belirleyicidir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Bir davranışın 'bizde böyle' gerekçesinde kimin bedel ödediğini ve reddetme hakkının gerçek olup olmadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-08-avrupa-koridora-nasil-girdi",
+      "section": "DÖRDÜNCÜ KISIM · TARİH",
+      "title": "Avrupa koridora nasıl girdi?",
+      "paragraphs": [
+        "Roma devlet mirası ile Germen kabile meclislerinin toplumsal örgütlenmesi Avrupa'da devlet ve toplum arasında tarihsel denge yarattı. Tek kök değil karşılaşma ve çatışma koridoru açtı. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Merkezden gelen hukuk güçlüdür; yerel meclis vergi ve savaş kararına itiraz eder. İki miras birbirini tamamen yutamadığı için pazarlık kurumu doğar.",
+        "Avrupa yolu özgürlüğün tek yolu değildir ve sömürgecilik ile iç dışlamayı taşır. Koridor içindeki özgürlük herkese aynı anda ulaşmadı. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Bir kurumun başarısını tek kültürel erdeme değil çatışan güçlerin birbirini sınırlayan tarihine bağlayın."
+      ]
+    },
+    {
+      "id": "durak-09-cin-de-guclu-devletin-uzun-golgesi",
+      "section": "DÖRDÜNCÜ KISIM · TARİH",
+      "title": "Çin'de güçlü devletin uzun gölgesi",
+      "paragraphs": [
+        "Çin'de erken merkezîleşme yüksek devlet kapasitesi yaratırken bağımsız toplumsal örgütlenme alanını daralttı. Despotik Leviathan vergi, kayıt ve düzen sağladı fakat kalıcı denetim zayıf kaldı. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "İmparatorluk uzak köye memur ve tahıl sistemi ulaştırır; aynı ağ yerel itirazı merkeze taşımadan bastırabilir.",
+        "Çin tarihi tek çizgi değildir; yerel toplum, isyan, piyasa ve dönemsel parçalanma önemli çeşitlilik taşır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Devlet kapasitesini etkileyici bulurken onun karşısında bağımsız bilgi ve örgüt kanalının bulunup bulunmadığını sorun."
+      ]
+    },
+    {
+      "id": "durak-10-hindistan-da-devlet-ve-kast",
+      "section": "BEŞİNCİ KISIM · FARKLI YOLLAR",
+      "title": "Hindistan'da devlet ve kast",
+      "paragraphs": [
+        "Kast gibi yoğun toplumsal normlar merkezî devletin zayıflığıyla birleşerek bireyi yerel hiyerarşiye bağlayabilir. Toplum güçlü olsa da çoğulcu ve özgürlükçü olmayabilir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Devlet evlilik ve mesleği belirlemez; fakat doğduğun grup bu kararları yaptırım ve dışlanmayla belirler.",
+        "Hindistan'ı yalnız kasta indirgemek sömürgecilik, bölge, din ve demokratik mücadele çeşitliliğini siler. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "'Güçlü toplum' ifadesinde toplum içindeki eşit olmayan ses ve çıkış haklarını ayrıca inceleyin."
+      ]
+    },
+    {
+      "id": "durak-11-orta-dogu-da-parcalanmis-toplum",
+      "section": "BEŞİNCİ KISIM · FARKLI YOLLAR",
+      "title": "Orta Doğu'da parçalanmış toplum",
+      "paragraphs": [
+        "Aşiret ve yerel ağlar merkezi iktidarı sınırlayabilir ama kapsayıcı ortak toplum örgütlenmesine dönüşmezse devlet ile toplum arasında üretken denge kurulmaz. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Bir köy merkeze karşı kuzen ağıyla korunur; başka köy aynı ağı tehdit sayar. Yerel direnç ortak yurttaş denetimine bağlanmaz.",
+        "Bölgeyi değişmez aşiret kültürüyle açıklamak sömürge sınırları, savaş ve dış müdahaleyi küçültür. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Yerel örgütün yalnız kendi üyesini mi, genel ve eşit kuralı mı savunduğunu sorun."
+      ]
+    },
+    {
+      "id": "durak-12-amerika-nin-cift-yuzu",
+      "section": "ALTINCI KISIM · DEMOKRASİ",
+      "title": "Amerika'nın çift yüzü",
+      "paragraphs": [
+        "ABD güçlü toplumsal örgüt ve anayasal sınırlar geliştirirken kölelik ve ırksal dışlama milyonları koridorun dışında tuttu. Özgürlük ülke etiketi değil gruplar arasında eşitsiz genişleyen mücadeledir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Kasaba meclisi beyaz yurttaşa söz verirken köleleştirilmiş insan aynı hukuk altında mal sayılır. Aynı kurum iki ayrı yüz taşır.",
+        "Sonraki hak mücadeleleri koridorun genişleyebildiğini gösterir; hiçbir kazanım geri dönüşten bağışık değildir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Bir demokrasi göstergesinde ortalamadan çok kimin gerçekten oy, örgütlenme ve hukuk korumasına sahip olduğunu sorun."
+      ]
+    },
+    {
+      "id": "durak-13-latin-amerika-da-kagit-ustu-prangalar",
+      "section": "ALTINCI KISIM · DEMOKRASİ",
+      "title": "Latin Amerika'da kâğıt üstü prangalar",
+      "paragraphs": [
+        "Anayasa ve seçim tek başına devleti prangalamaz. Toprak eşitsizliği, elit denetimi ve zayıf kamu kapasitesi kuralları kâğıtta bırakabilir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Kasabanın mahkemesi vardır ama yargıç yerel toprak sahibine bağımlıysa yoksulun dilekçesi resmî kapıda durur.",
+        "Bölge ülkeleri ve dönemleri büyük farklılık taşır. Tek kalıp demokratik yenilik ve sosyal hareketleri görünmez kılmamalıdır. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Bir kurumun adından çok bütçe, bağımsızlık ve sıradan kişinin onu kullanabilme kapasitesini ölçün."
+      ]
+    },
+    {
+      "id": "durak-14-devlet-kapasitesi-olmadan-hak",
+      "section": "YEDİNCİ KISIM · KAPASİTE",
+      "title": "Devlet kapasitesi olmadan hak",
+      "paragraphs": [
+        "Hakların uygulanması kayıt, mahkeme, okul, sağlık ve vergi kapasitesi ister. Devleti yalnız küçültmek, kâğıt üzerindeki özgürlüğü güçlü özel aktörlerin insafına bırakabilir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Çalışma hakkı yasada yazılıdır; denetçi, veri ve mahkeme yoksa patron ücret ödemediğinde cümle işçiyi korumaz.",
+        "Kapasite tarafsız araç değildir; kötü amaçla daha etkili baskı da kurabilir. Yön ve denetim birlikte gerekir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Yeni hak talebinde onu günlük hayata taşıyacak bütçe, personel ve başvuru yolunu da tasarlayın."
+      ]
+    },
+    {
+      "id": "durak-15-teknoloji-koridoru-genisletir-mi",
+      "section": "YEDİNCİ KISIM · KAPASİTE",
+      "title": "Teknoloji koridoru genişletir mi?",
+      "paragraphs": [
+        "Dijital teknoloji topluma örgütlenme ve bilgi sağlayabilir; aynı anda devlete gözetim ve otomatik denetim gücü verir. Sonuç aracın kendisinden değil güç yarışından doğar. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Telefon protestocuları buluşturur, aynı konum verisi polisi de protestoculara götürür. Tek cihaz iki tarafa hız kazandırır.",
+        "Teknolojik determinizm kurum ve seçimleri gizler. Tasarım, mülkiyet ve hukuk sonucu değiştirir. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Yeni dijital hizmette kolaylığın yanında veriyi kimin topladığı, itirazın nasıl yapılacağı ve toplumsal denetimi sorun."
+      ]
+    },
+    {
+      "id": "durak-16-koridordan-cikis-mumkundur",
+      "section": "SEKİZİNCİ KISIM · KIRILGANLIK",
+      "title": "Koridordan çıkış mümkündür",
+      "paragraphs": [
+        "Kutuplaşma, eşitsizlik ve kriz toplumun denetim gücünü zayıflatıp devleti despotizme veya kapasite kaybına itebilir. Özgürlük geri döndürülemez aşama değildir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Yangın bahanesiyle geçici verilen olağanüstü yetki denetimsiz uzarsa kriz bittiğinde yeni normal olur.",
+        "Her güçlü kriz önlemi otoriterlik değildir. Süre, denetim ve geri alma mekanizması ayrımı belirler. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Acil yetkide bitiş tarihi, bağımsız inceleme ve şeffaf raporu kararın parçası yapın."
+      ]
+    },
+    {
+      "id": "durak-17-ozgurluk-bitmeyen-istir",
+      "section": "SEKİZİNCİ KISIM · KIRILGANLIK",
+      "title": "Özgürlük bitmeyen iştir",
+      "paragraphs": [
+        "Koridorun kalıcı dersi, iyi anayasa veya güçlü sivil toplumun tek başına yetmemesidir. Devlet ile toplum yeni sorunlarda tekrar tekrar kapasite ve denetim üretmelidir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Eski kilit yeni dijital kapıyı korumaz; toplum yeni teknolojiye uygun anahtar ve kural geliştirmezse geçmiş kazanım işlevsiz kalır.",
+        "Sürekli mücadele dili ortak güveni tüketebilir. Kurumlar çatışmayı barışçıl, bilgiye dayalı ve düzenli hâle getirmelidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Özgürlüğü yalnız seçim günü değil günlük başvuru, örgütlenme, bilgi ve hesap verme yollarının çalışmasıyla ölçün."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-en-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIRLAR",
+      "title": "Kitabın en kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Kitap özgürlüğün devleti zayıflatmakla veya toplumu otomatik olarak güçlendirmekle geleceğini söylemez. Toplum da baskıcı olabilir; özgürlük etkili devlet kapasitesiyle çoğul, örgütlü ve sürekli denetim gücünün birlikte koşmasına bağlıdır.",
+        "Dar Koridor tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
+        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Daron Acemoğlu ve James A. Robinson ile verimli tartışma böyle başlar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Dar Koridor büyük tarih örneklerini akılda kalıcı bir devlet-toplum modeliyle birleştirmesiyle etkili olmuştur. Ülke çeşitliliğini şemaya sıkıştırması, Avrupa yoluna ağırlık vermesi ve bazı tarihsel nedensellikleri seçici kurması eleştirilir.",
+        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Dar Koridor için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Dar Koridor için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+      ]
+    },
+    {
+      "id": "durak-20-bugunku-hayata-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugünkü hayata taşınan üç soru",
+      "paragraphs": [
+        "Devlet hangi ortak korumayı sağlıyor ve onu kim denetliyor? Toplum örgütlü ama çoğul mu, yoksa norm kafesi mi kuruyor? Yeni kriz veya teknoloji karşısında iki tarafın kapasitesi nasıl değişiyor?",
+        "Bu sorular Dar Koridor için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
+        "Dar Koridor üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Özgürlük devletsizlik ile sınırsız devlet arasında hazır bir orta nokta değil; etkili devletin örgütlü ve çoğul toplum tarafından sürekli prangalandığı dar, hareketli ve her kuşakta yeniden kurulması gereken koridordur.",
+        "Akılda kalacak son görüntü, bir yanında devletsizlik öbür yanında despotizm uçurumu bulunan dar yolda devlet ile toplumun yan yana koşmasıdır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
+        "Dar Koridor adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-leviathan-neden-gerekli": {
+      "image": "/images/summary-art-153-chapter-01-leviathan-v1.webp",
+      "imageCaption": "Bir elinde kalkan diğerinde zincir taşıyan büyük devlet figürü, Leviathan'ın ikili gücünü gösterir."
+    },
+    "durak-03-yok-leviathan": {
+      "image": "/images/summary-art-153-chapter-02-absent-leviathan-v1.webp",
+      "imageCaption": "Boş devlet tahtının çevresinde yükselen klan duvarları, devletsizliğin özgürlük olmadığını gösterir."
+    },
+    "durak-04-despotik-leviathan": {
+      "image": "/images/summary-art-153-chapter-03-despotic-leviathan-v1.webp",
+      "imageCaption": "Düzenli caddelerin üstüne kapanan dev gölge, despotik kapasiteyi simgeler."
+    },
+    "durak-05-prangalanmis-leviathan": {
+      "image": "/images/summary-art-153-chapter-04-shackled-leviathan-v1.webp",
+      "imageCaption": "Güçlü devlet figürünü toplumun tuttuğu hareketli bağlar, prangalanmış Leviathan'ı gösterir."
+    },
+    "durak-06-kizil-kralice-etkisi": {
+      "image": "/images/summary-art-153-chapter-05-red-queen-corridor-v1.webp",
+      "imageCaption": "Dar koridorda yan yana koşan devlet ve toplum, Kızıl Kraliçe dengesini gösterir."
+    },
+    "durak-07-normlarin-kafesi": {
+      "image": "/images/summary-art-153-chapter-06-cage-of-norms-v1.webp",
+      "imageCaption": "Demirsiz ama bakışlardan örülmüş kafes, toplumsal norm baskısını gösterir."
+    },
+    "durak-08-avrupa-koridora-nasil-girdi": {
+      "image": "/images/summary-art-153-chapter-07-europe-corridor-v1.webp",
+      "imageCaption": "Roma sütunu ile kabile meclisi arasında açılan yol, tarihsel dengeyi gösterir."
+    },
+    "durak-09-cin-de-guclu-devletin-uzun-golgesi": {
+      "image": "/images/summary-art-153-chapter-08-china-state-v1.webp",
+      "imageCaption": "Geniş bürokrasi ağı altında küçük yerel meclisler, güçlü devletin gölgesini gösterir."
+    },
+    "durak-10-hindistan-da-devlet-ve-kast": {
+      "image": "/images/summary-art-153-chapter-09-caste-cage-v1.webp",
+      "imageCaption": "Merkezî tahtın uzağında kat kat yükselen yerel kast duvarları, norm kafesini gösterir."
+    },
+    "durak-11-orta-dogu-da-parcalanmis-toplum": {
+      "image": "/images/summary-art-153-chapter-10-fragmented-society-v1.webp",
+      "imageCaption": "Aynı devlete ayrı iplerle bağlanan ama birbirine bağlanmayan topluluk adaları, parçalanmayı gösterir."
+    },
+    "durak-12-amerika-nin-cift-yuzu": {
+      "image": "/images/summary-art-153-chapter-11-america-double-v1.webp",
+      "imageCaption": "Aynı anayasa sütununun bir yanında açık meydan diğerinde zincir, özgürlüğün eşitsizliğini gösterir."
+    },
+    "durak-13-latin-amerika-da-kagit-ustu-prangalar": {
+      "image": "/images/summary-art-153-chapter-12-paper-shackles-v1.webp",
+      "imageCaption": "Kâğıt zincirleri kolayca koparan güçlü elit eli, biçimsel denetimin zayıflığını gösterir."
+    },
+    "durak-14-devlet-kapasitesi-olmadan-hak": {
+      "image": "/images/summary-art-153-chapter-13-rights-infrastructure-v1.webp",
+      "imageCaption": "Hak belgesini gerçek köprüye çeviren kamu altyapısı, kapasite ihtiyacını gösterir."
+    },
+    "durak-15-teknoloji-koridoru-genisletir-mi": {
+      "image": "/images/summary-art-153-chapter-14-digital-corridor-v1.webp",
+      "imageCaption": "Aynı telefondan topluma ağ ve devlete göz uzanması, teknolojik çift yönü gösterir."
+    },
+    "durak-16-koridordan-cikis-mumkundur": {
+      "image": "/images/summary-art-153-chapter-15-corridor-exit-v1.webp",
+      "imageCaption": "Dar yolun kenarında despotizm ve devletsizlik uçurumları, özgürlüğün kırılganlığını gösterir."
+    },
+    "durak-17-ozgurluk-bitmeyen-istir": {
+      "image": "/images/summary-art-153-chapter-16-liberty-work-v1.webp",
+      "imageCaption": "Her gün yeniden örülen koridor taşları, özgürlüğün bitmeyen işini simgeler."
+    }
+  }
+}
