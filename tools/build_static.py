@@ -528,9 +528,10 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
         chapter_artwork = summary.get("chapterArtworks", {}).get(chapter.get("id", ""), {})
         chapter_image = chapter.get("image") or chapter_artwork.get("image")
         chapter_image_caption = chapter.get("imageCaption") or chapter_artwork.get("imageCaption", "")
+        chapter_paragraphs = chapter.get("paragraphs", []) + chapter.get("extraParagraphs", [])
         paragraphs = "".join(
             f'<p class="reader-paragraph">{markdown_inline(paragraph)}</p>'
-            for paragraph in chapter.get("paragraphs", [])
+            for paragraph in chapter_paragraphs
         )
         image = ""
         if chapter_image:

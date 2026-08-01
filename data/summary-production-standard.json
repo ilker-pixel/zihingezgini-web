@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "name": "Zihin Gezgini genişletilmiş kitap özeti standardı",
+  "content": {
+    "targetCharacters": 20000,
+    "minimumCharacters": 18000,
+    "maximumCharacters": 22000,
+    "allowedDenseBookMaximumCharacters": 24000,
+    "maximumSharedTemplateRatio": 0.03,
+    "countOnlyBookSpecificNarrative": true,
+    "requireExamplesAndAnecdotes": true,
+    "requireAccessibleNarrative": true,
+    "forbidExamNoteStyle": true,
+    "forbidPaddingAndParaphraseRepetition": true
+  },
+  "visuals": {
+    "preserveExistingInteriorImages": true,
+    "requiredInteriorImageCount": 16,
+    "requireIndependentOriginalColorCover": true,
+    "forbidCoverFromContactSheet": true,
+    "forbidCoverDuplicatingInteriorArt": true,
+    "forbidTextInsideGeneratedCover": true
+  },
+  "layout": {
+    "minimumPages": 25,
+    "maximumPages": 50,
+    "allowNaturalContinuationPages": true,
+    "forbidPaddingPages": true,
+    "requireAllPageVisualInspection": true
+  }
+}
