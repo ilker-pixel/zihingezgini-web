@@ -1,7 +1,7 @@
 {
   "version": 1,
   "createdAt": "2026-08-02T06:34:15+00:00",
-  "updatedAt": "2026-08-02T14:19:33+00:00",
+  "updatedAt": "2026-08-02T15:38:09+00:00",
   "targetCharacters": 20000,
   "characterGate": [
     18000,
@@ -1858,9 +1858,31 @@
       "category": "Mistisizm & Felsefe",
       "batch": 7,
       "position": 1,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "273": 27,
+          "274": 27,
+          "276": 27,
+          "278": 27,
+          "279": 27,
+          "280": 27,
+          "281": 27,
+          "282": 27,
+          "283": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T15:38:08+00:00"
     },
     {
       "no": 274,
@@ -1869,9 +1891,31 @@
       "category": "Klasik Felsefe",
       "batch": 7,
       "position": 2,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "273": 27,
+          "274": 27,
+          "276": 27,
+          "278": 27,
+          "279": 27,
+          "280": 27,
+          "281": 27,
+          "282": 27,
+          "283": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T15:38:08+00:00"
     },
     {
       "no": 276,
@@ -1880,9 +1924,31 @@
       "category": "Bilişsel Psikoloji & Etik",
       "batch": 7,
       "position": 3,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "273": 27,
+          "274": 27,
+          "276": 27,
+          "278": 27,
+          "279": 27,
+          "280": 27,
+          "281": 27,
+          "282": 27,
+          "283": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T15:38:08+00:00"
     },
     {
       "no": 278,
@@ -1891,9 +1957,31 @@
       "category": "Sosyoloji",
       "batch": 7,
       "position": 4,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "273": 27,
+          "274": 27,
+          "276": 27,
+          "278": 27,
+          "279": 27,
+          "280": 27,
+          "281": 27,
+          "282": 27,
+          "283": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T15:38:08+00:00"
     },
     {
       "no": 279,
@@ -1902,9 +1990,31 @@
       "category": "Sosyoloji",
       "batch": 7,
       "position": 5,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "273": 27,
+          "274": 27,
+          "276": 27,
+          "278": 27,
+          "279": 27,
+          "280": 27,
+          "281": 27,
+          "282": 27,
+          "283": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T15:38:08+00:00"
     },
     {
       "no": 280,
@@ -1913,9 +2023,31 @@
       "category": "Sosyoloji",
       "batch": 7,
       "position": 6,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "273": 27,
+          "274": 27,
+          "276": 27,
+          "278": 27,
+          "279": 27,
+          "280": 27,
+          "281": 27,
+          "282": 27,
+          "283": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T15:38:08+00:00"
     },
     {
       "no": 281,
@@ -1924,9 +2056,31 @@
       "category": "Sosyoloji",
       "batch": 7,
       "position": 7,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "273": 27,
+          "274": 27,
+          "276": 27,
+          "278": 27,
+          "279": 27,
+          "280": 27,
+          "281": 27,
+          "282": 27,
+          "283": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T15:38:08+00:00"
     },
     {
       "no": 282,
@@ -1935,9 +2089,31 @@
       "category": "Yönetim & Toplum",
       "batch": 7,
       "position": 8,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "273": 27,
+          "274": 27,
+          "276": 27,
+          "278": 27,
+          "279": 27,
+          "280": 27,
+          "281": 27,
+          "282": 27,
+          "283": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T15:38:08+00:00"
     },
     {
       "no": 283,
@@ -1946,9 +2122,31 @@
       "category": "Sosyoloji",
       "batch": 7,
       "position": 9,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "273": 27,
+          "274": 27,
+          "276": 27,
+          "278": 27,
+          "279": 27,
+          "280": 27,
+          "281": 27,
+          "282": 27,
+          "283": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T15:38:08+00:00"
     },
     {
       "no": 289,
