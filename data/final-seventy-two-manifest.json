@@ -1,7 +1,7 @@
 {
   "version": 1,
   "createdAt": "2026-08-02T06:34:15+00:00",
-  "updatedAt": "2026-08-02T10:23:03+00:00",
+  "updatedAt": "2026-08-02T11:40:15+00:00",
   "targetCharacters": 20000,
   "characterGate": [
     18000,
@@ -967,9 +967,31 @@
       "category": "Feminist Kuram",
       "batch": 4,
       "position": 1,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "219": 27,
+          "226": 27,
+          "227": 27,
+          "228": 27,
+          "230": 27,
+          "231": 27,
+          "232": 27,
+          "233": 27,
+          "234": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T11:40:14+00:00"
     },
     {
       "no": 226,
@@ -978,9 +1000,31 @@
       "category": "Siyaset Sosyolojisi",
       "batch": 4,
       "position": 2,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "219": 27,
+          "226": 27,
+          "227": 27,
+          "228": 27,
+          "230": 27,
+          "231": 27,
+          "232": 27,
+          "233": 27,
+          "234": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T11:40:14+00:00"
     },
     {
       "no": 227,
@@ -989,9 +1033,31 @@
       "category": "Sosyoloji",
       "batch": 4,
       "position": 3,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "219": 27,
+          "226": 27,
+          "227": 27,
+          "228": 27,
+          "230": 27,
+          "231": 27,
+          "232": 27,
+          "233": 27,
+          "234": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T11:40:14+00:00"
     },
     {
       "no": 228,
@@ -1000,9 +1066,31 @@
       "category": "Post-kolonyal Teori",
       "batch": 4,
       "position": 4,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "219": 27,
+          "226": 27,
+          "227": 27,
+          "228": 27,
+          "230": 27,
+          "231": 27,
+          "232": 27,
+          "233": 27,
+          "234": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T11:40:14+00:00"
     },
     {
       "no": 230,
@@ -1011,9 +1099,31 @@
       "category": "Sosyoloji",
       "batch": 4,
       "position": 5,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "219": 27,
+          "226": 27,
+          "227": 27,
+          "228": 27,
+          "230": 27,
+          "231": 27,
+          "232": 27,
+          "233": 27,
+          "234": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T11:40:14+00:00"
     },
     {
       "no": 231,
@@ -1022,9 +1132,31 @@
       "category": "Post-kolonyal Teori",
       "batch": 4,
       "position": 6,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "219": 27,
+          "226": 27,
+          "227": 27,
+          "228": 27,
+          "230": 27,
+          "231": 27,
+          "232": 27,
+          "233": 27,
+          "234": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T11:40:14+00:00"
     },
     {
       "no": 232,
@@ -1033,9 +1165,31 @@
       "category": "Post-kolonyal Teori",
       "batch": 4,
       "position": 7,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "219": 27,
+          "226": 27,
+          "227": 27,
+          "228": 27,
+          "230": 27,
+          "231": 27,
+          "232": 27,
+          "233": 27,
+          "234": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T11:40:14+00:00"
     },
     {
       "no": 233,
@@ -1044,9 +1198,31 @@
       "category": "Kültürel Çalışmalar",
       "batch": 4,
       "position": 8,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "219": 27,
+          "226": 27,
+          "227": 27,
+          "228": 27,
+          "230": 27,
+          "231": 27,
+          "232": 27,
+          "233": 27,
+          "234": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T11:40:14+00:00"
     },
     {
       "no": 234,
@@ -1055,9 +1231,31 @@
       "category": "Tarih",
       "batch": 4,
       "position": 9,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "219": 27,
+          "226": 27,
+          "227": 27,
+          "228": 27,
+          "230": 27,
+          "231": 27,
+          "232": 27,
+          "233": 27,
+          "234": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T11:40:14+00:00"
     },
     {
       "no": 236,
