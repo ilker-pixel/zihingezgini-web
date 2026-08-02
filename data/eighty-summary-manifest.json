@@ -1,7 +1,7 @@
 {
   "version": 1,
   "createdAt": "2026-08-01T18:39:02+00:00",
-  "updatedAt": "2026-08-01T22:44:11+00:00",
+  "updatedAt": "2026-08-01T23:55:12+00:00",
   "targetCharacters": 20000,
   "characterGate": [
     18500,
@@ -798,20 +798,38 @@
       "category": "Antropoloji",
       "batch": 4,
       "position": 1,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T23:55:12+00:00"
     },
     {
       "no": 46,
-      "author": "Francisco Varela & Eleanor Rosch",
+      "author": "Francisco J. Varela, Evan Thompson ve Eleanor Rosch",
       "title": "Bedenleşmiş Zihin",
       "category": "Bilişsel Bilim",
       "batch": 4,
       "position": 2,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T23:55:12+00:00"
     },
     {
       "no": 78,
@@ -820,9 +838,18 @@
       "category": "İslam Felsefesi",
       "batch": 4,
       "position": 3,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T23:55:12+00:00"
     },
     {
       "no": 105,
@@ -831,9 +858,18 @@
       "category": "Sosyoloji",
       "batch": 4,
       "position": 4,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T23:55:12+00:00"
     },
     {
       "no": 147,
@@ -842,9 +878,18 @@
       "category": "Fizik & Kaos",
       "batch": 4,
       "position": 5,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T23:55:12+00:00"
     },
     {
       "no": 163,
@@ -853,9 +898,18 @@
       "category": "Ekonomi Politik",
       "batch": 4,
       "position": 6,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T23:55:12+00:00"
     },
     {
       "no": 197,
@@ -864,9 +918,18 @@
       "category": "Siyaset & Medya",
       "batch": 4,
       "position": 7,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T23:55:12+00:00"
     },
     {
       "no": 225,
@@ -875,9 +938,18 @@
       "category": "Siyaset Sosyolojisi",
       "batch": 4,
       "position": 8,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T23:55:12+00:00"
     },
     {
       "no": 55,
@@ -886,9 +958,18 @@
       "category": "Ahlak Felsefesi",
       "batch": 4,
       "position": 9,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T23:55:12+00:00"
     },
     {
       "no": 242,
@@ -897,9 +978,18 @@
       "category": "Modern Felsefe",
       "batch": 4,
       "position": 10,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-01T23:55:12+00:00"
     },
     {
       "no": 27,

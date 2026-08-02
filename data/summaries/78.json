@@ -1,0 +1,348 @@
+{
+  "bookNo": 78,
+  "title": "Tutarsızlığın Tutarsızlığı",
+  "author": "İbn Rüşd (Averroes)",
+  "subtitle": "Gazâlî'nin filozoflara yönelttiği yirmi itirazı tek tek yanıtlayan; akıl yürütme, nedensellik, yaratılış ve vahiy arasında zorunlu savaş olmadığını savunan büyük İslam felsefesi tartışması.",
+  "coverImage": "/images/summary-cover-78-tutarsizligin-tutarsizligi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/78-tutarsizligin-tutarsizligi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#A66B2B",
+  "meta": {
+    "originalTitle": "Tahāfut al-Tahāfut",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir hekim ateşin pamuğu yaktığını söylerken inancına aykırı mı konuşur? İbn Rüşd'e göre düzenli nedenleri araştırmak Tanrı'yı dışlamak değil, yaratılmış düzeni ciddiye almaktır. Kitap, rakibinin cümlelerini alıp yirmi ayrı tartışmada sabırla cevaplar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Edinburgh University Press - Averroes' Tahafut al-Tahafut",
+      "url": "https://edinburghuniversitypress.com/book-averroes-tahafut-al-tahafut.html"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia - al-Ghazali",
+      "url": "https://plato.stanford.edu/entries/al-ghazali/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Gazâlî'nin filozoflara yönelttiği yirmi itirazı tek tek yanıtlayan; akıl yürütme, nedensellik, yaratılış ve vahiy arasında zorunlu savaş olmadığını savunan büyük İslam felsefesi tartışması.",
+        "Metin Gazâlî'nin Filozofların Tutarsızlığı'na cevap verir ve özellikle İbn Sînâ ile Fârâbî'nin görüşlerini tartışır. Rehber, İbn Rüşd'ün her savunmayı aynen benimsemediğini ve teknik kelâm-felsefe ayrımlarını gündelik örneklerle sadeleştirir.",
+        "Mahkemede yalnız savcının konuşmasını dinlediğinizi düşünün. İbn Rüşd dosyayı yeniden açar: Gazâlî'nin suçlamasını aktarır, filozofun ne demek istediğini ayırır, sonra kanıtın gerçekten sonuca ulaşıp ulaşmadığını sorar."
+      ]
+    },
+    {
+      "id": "durak-02-bir-kitabin-karsisina-ayna-koymak",
+      "section": "BİRİNCİ KISIM · TARTIŞMA USULÜ",
+      "title": "Bir kitabın karşısına ayna koymak",
+      "paragraphs": [
+        "İbn Rüşd rakibinin yirmi meselesini sırayla aktarır ve eleştirinin filozofların gerçek görüşüne mi yoksa zayıf bir yorumuna mı yöneldiğini sınar. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Satrançta rakibin taşını başka karedeymiş gibi eleştirmek kolaydır; önce gerçek hamleyi doğru kurmak gerekir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "İbn Rüşd de polemik sertliğine kapılır ve her yorumunda tarafsız değildir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bir tartışmada karşı görüşü sahibinin kabul edeceği kadar doğru özetlemeden cevap vermemek yararlıdır. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-03-hakikat-hakikate-aykiri-duser-mi",
+      "section": "BİRİNCİ KISIM · AKIL VE VAHİY",
+      "title": "Hakikat hakikate aykırı düşer mi?",
+      "paragraphs": [
+        "Kesin akıl yürütme ile doğru anlaşılmış vahyin aynı hakikate yöneldiği için gerçek anlamda çelişmeyeceğini savunur. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Harita ile yol tarifi farklı işaretler kullanır ama doğruysa aynı şehre götürür; uyuşmazlık yorum veya yöntem hatasını düşündürür. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Hangi akıl yürütmenin kesin olduğu ve metnin nasıl yorumlanacağı konusunda ciddi anlaşmazlıklar sürer. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bilim-din tartışmasında önce iddianın düzeyi, kanıtı ve metin yorumunu ayrı masalara koymak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Hakikat hakikate aykırı düşer mi?” ile Tutarsızlığın Tutarsızlığı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-alemin-baslangici-nasil-dusunulur",
+      "section": "İKİNCİ KISIM · EZELİLİK",
+      "title": "Âlemin başlangıcı nasıl düşünülür?",
+      "paragraphs": [
+        "Gazâlî filozofların âlemin ezeliliği görüşünü eleştirirken İbn Rüşd zaman, hareket ve yaratma kavramlarının kaba bir önce-sonra resmiyle çözülemeyeceğini savunur. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Zamanın kendisi evrenle başlıyorsa yaratmadan önce ne vardı sorusu kuzey kutbunun daha kuzeyi neresi sorusuna benzeyebilir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "İbn Rüşd'ün Aristotelesçi çözümü modern kozmolojinin sonucu değildir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Evrenin başlangıcı konuşulurken fiziksel model, metafizik neden ve dini yaratma anlamını birbirine karıştırmamak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-05-tanri-tikelleri-bilir-mi",
+      "section": "İKİNCİ KISIM · BİLGİ",
+      "title": "Tanrı tikelleri bilir mi?",
+      "paragraphs": [
+        "İbn Rüşd Tanrı bilgisini insanın olaylardan sonradan öğrendiği bilgiye benzetmenin yanlış olduğunu; tümel-tikel ayrımının aynı biçimde uygulanamayacağını söyler. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Mimar evin çatladığını dışarıdan haber alır, oysa tasarımın kaynağındaki bilgi sonuçtan öğrenilen bilgi değildir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Benzetme Tanrı bilgisinin nasıl olduğunu açıklamaz, yalnız insan ölçüsünün sınırını gösterir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Bilinmeyen bir bilgi türünü anlatırken benzetmenin taşıdığı ve taşıyamadığı kısmı açık tutmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Tanrı tikelleri bilir mi?” ile Tutarsızlığın Tutarsızlığı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-nedensellik-neden-korunmali",
+      "section": "ÜÇÜNCÜ KISIM · NEDEN",
+      "title": "Nedensellik neden korunmalı?",
+      "paragraphs": [
+        "Düzenli neden-sonuç bağlarını inkâr etmenin bilgi, zanaat ve ortak hayatı anlaşılmaz hale getireceğini savunur. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Ateşin pamuğu yakma özelliğini araştırmayan usta güvenli ocak kuramaz; tekrar eden ilişki eylemin dayanağıdır. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Nedenlerin gücü Tanrı'dan bağımsız mutlak varlıklar gibi düşünülmek zorunda değildir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Bir olayda gözlenen düzeni kabul etmekle onun son metafizik açıklamasını aynı cümlede çözmeye çalışmamak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-07-ates-pamugu-gercekten-yakar-mi",
+      "section": "ÜÇÜNCÜ KISIM · ÜNLÜ ÖRNEK",
+      "title": "Ateş pamuğu gerçekten yakar mı?",
+      "paragraphs": [
+        "Gazâlî zorunlu bağın gözlenmediğini söylerken İbn Rüşd nesnelerin belirli doğaları ve işlevleri olmazsa bilginin çökeceğini ileri sürer. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Pamuk alev yanında kararıp dağılır; arada görünmeyen mekanizma araştırıldıkça kimya bilgisi gelişir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Modern nedensellik anlayışı iki düşünürün kavramlarıyla birebir aynı değildir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir düzenlilikte yalnız birlikte oluşu değil, aradaki mekanizmayı ve karşı örnekleri araştırmak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Ateş pamuğu gerçekten yakar mı?” ile Tutarsızlığın Tutarsızlığı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-mucize-duzeni-yok-eder-mi",
+      "section": "ÜÇÜNCÜ KISIM · İSTİSNA",
+      "title": "Mucize düzeni yok eder mi?",
+      "paragraphs": [
+        "İbn Rüşd mucize anlatısının doğadaki anlaşılır düzeni tümüyle keyfî saymayı gerektirmediğini düşünür. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Nadir bir iyileşme doktorun tıp bilgisini bırakmasını değil, olayın ölçümünü ve bilinmeyen etkenleri araştırmasını ister. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Dini mucize ile istatistiksel olarak nadir olay aynı kavram değildir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Olağanüstü iddiada inanç anlamı, tarihsel tanıklık ve doğal açıklama ihtimalini birbirine saygılı biçimde ayırmak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-09-mumkun-olan-ile-dusunulebilir-olan",
+      "section": "ÜÇÜNCÜ KISIM · MANTIK",
+      "title": "Mümkün olan ile düşünülebilir olan",
+      "paragraphs": [
+        "Bir şeyi hayal edebilmenin onun gerçek dünyada mümkün olduğunu göstermediğini; imkân iddiasının varlığın yapısıyla ilişkilendirilmesi gerektiğini savunur. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Kanatsız insanın uçtuğunu düşünebiliriz ama biyolojik ve fiziksel koşullar ayrıca sorulur. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Mantıksal, fiziksel ve metafizik imkân ayrımları tartışmanın kendisini bitirmez. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Bir öneriye 'neden olmasın' derken hangi tür imkândan söz edildiğini belirtmek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-10-tek-tanri-nasil-kanitlanir",
+      "section": "DÖRDÜNCÜ KISIM · BİRLİK",
+      "title": "Tek Tanrı nasıl kanıtlanır?",
+      "paragraphs": [
+        "İbn Rüşd düzen, hareket ve amaçlılık üzerinden ilk ilke ve birlik düşüncesini savunurken kelâmcı kanıtların bazılarını yetersiz bulur. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Aynı gemiyi zıt yönlere süren iki mutlak kaptan fikri düzenli yolculukla bağdaşmaz. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Evren düzeninden tek ve belirli Tanrı anlayışına geçiş ek öncüller gerektirir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Bir kanıtta gözlenen olgu ile ulaşılan metafizik sonucun arasındaki her basamağı görünür kılmak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Tek Tanrı nasıl kanıtlanır?” ile Tutarsızlığın Tutarsızlığı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-tanrisal-sifatlar-cogulluk-yaratir-mi",
+      "section": "DÖRDÜNCÜ KISIM · SIFATLAR",
+      "title": "Tanrısal sıfatlar çoğulluk yaratır mı?",
+      "paragraphs": [
+        "Bilgi, güç ve irade gibi sıfatların insan özellikleri gibi ayrı parçalar sayılmasının Tanrısal birlik sorununa yol açtığını tartışır. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Aynı güneşin ışık ve sıcaklığını iki ayrı güneş sanmak, dildeki ayrımı varlıktaki bölünme gibi okumaktır. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "İnsan dilinin sınırlı oluşu olumlu hiçbir söz söylenemeyeceği anlamına gelmez. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Soyut bir kavramda kullandığımız ayrı sözcüklerin gerçekten ayrı varlıklar gösterip göstermediğini sormak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-12-goksel-hareket-ve-eski-evren-resmi",
+      "section": "DÖRDÜNCÜ KISIM · GÖKLER",
+      "title": "Göksel hareket ve eski evren resmi",
+      "paragraphs": [
+        "Metnin birçok tartışması Aristotelesçi küreler ve göksel hareket anlayışı içinde yürür; İbn Rüşd bu sistemin tutarlılığını savunur. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Gece göğünde yıldızların düzenli dönüşü iç içe saydam kürelerle açıklanır. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Modern astronomi bu fiziksel modeli terk etmiştir, fakat kanıt ve yorum yöntemi tarihsel önemini korur. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Eski bir eseri okurken yanlışlanmış doğa modeliyle hâlâ verimli olan soru sorma biçimini ayırmak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Göksel hareket ve eski evren resmi” ile Tutarsızlığın Tutarsızlığı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-ruh-bedenden-ayri-mi",
+      "section": "BEŞİNCİ KISIM · İNSAN",
+      "title": "Ruh bedenden ayrı mı?",
+      "paragraphs": [
+        "İbn Rüşd akıl ve ruh sorununu insanın düşünme kapasitesi, bedenle ilişkisi ve tümel bilgi üzerinden ele alır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Tek tek gözler farklı ağaçları görür ama zihin hepsinde ortak ağaç kavramını kurar. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Onun ortak akıl yorumları hem İslam hem Latin dünyasında yoğun ve farklı tartışmalara yol açmıştır. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Kişisel deneyim ile paylaşılan kavramların nasıl birleştiğini bugünkü zihin tartışmalarında da ayrı düşünmek gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-14-bedenlerin-dirilisi-tartismasi",
+      "section": "BEŞİNCİ KISIM · AHİRET",
+      "title": "Bedenlerin dirilişi tartışması",
+      "paragraphs": [
+        "Gazâlî filozofları bedensel dirilişi inkârla suçlarken İbn Rüşd kutsal anlatının halkı ahlaki hayata yönelten temsil gücünü ve yorum düzeylerini tartışır. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Çocuğa adalet bir hikâyeyle, hukukçuya ilkeyle anlatılabilir; amaç aynı olsa da dil aynı değildir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Bu yaklaşım dinî hakikati yalnız faydalı kurguya indirgeme riski taşır ve tartışmalıdır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Bir metnin simgesel yorumunu savunurken inanan topluluğun açık anlam ve ibadet deneyimini küçümsememek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Bedenlerin dirilişi tartışması” ile Tutarsızlığın Tutarsızlığı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-herkese-ayni-anlatim-mi",
+      "section": "BEŞİNCİ KISIM · YÖNTEM FARKI",
+      "title": "Herkese aynı anlatım mı?",
+      "paragraphs": [
+        "İbn Rüşd insanların ikna, diyalektik ve kesin kanıt yollarına farklı hazırlıkla yaklaştığını; öğretimin muhataba göre kurulması gerektiğini savunur. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Doktor hastaya sade sonuç, öğrenciye mekanizma, meslektaşına ayrıntılı kanıt anlatır. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Bilgiyi seçkinlere kapatma fikri otoriteyi koruyan hiyerarşiye dönüşebilir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Sadeleştirmeyi bilgiyi saklamak değil, kanıt yolunu erişilebilir basamaklara ayırmak için kullanmak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-16-felsefe-dine-tehdit-mi-hizmet-mi",
+      "section": "ALTINCI KISIM · ORTAK AMAÇ",
+      "title": "Felsefe dine tehdit mi hizmet mi?",
+      "paragraphs": [
+        "Varlıkları incelemek yaratıcı düzen üzerine düşünmenin bir yoluysa felsefenin dinî görevle çatışmak yerine onu derinleştirebileceğini savunur. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Saatin işleyişini merak eden kişi ustayı inkâr etmek zorunda değildir; düzeni anlamak hayreti artırabilir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Bu uyum görüşü her dinî yorum veya felsefi kuramın otomatik olarak doğru olduğu anlamına gelmez. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir çatışmada tarafların gerçek iddialarını belirleyip yüzeydeki kelime benzerliğini aşmak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Felsefe dine tehdit mi hizmet mi?” ile Tutarsızlığın Tutarsızlığı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-yirmi-itirazdan-kalan-buyuk-ders",
+      "section": "ALTINCI KISIM · SONUÇ",
+      "title": "Yirmi itirazdan kalan büyük ders",
+      "paragraphs": [
+        "Kitabın kalıcı değeri tek tek sonuçlardan çok, düşünsel rakibe metin, mantık ve neden ayrımlarıyla cevap verme ısrarındadır. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "İki usta aynı köprünün güvenliğini tartışırken biri diğerinin ölçümünü yeniden yapar ve çatlağın yerini gösterir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Tartışma sert üslup ve dönemsel varsayımlardan bağımsız değildir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bugün karşı görüşün en güçlü kanıtını kurup hangi öncülde ayrıldığımızı açıkça yazmak İbn Rüşd'ün yöntemini yaşatır. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "İbn Rüşd Gazâlî'nin bütün eleştirilerini anlamsız saymaz ve her filozof görüşünü koşulsuz savunmaz. Sık sık filozofların kanıtını düzeltir, kavramları ayırır ve rakibinin güçlü noktasını kabul eder.",
+        "Ateş-pamuk tartışması 'Tanrı var mı yok mu' diye tek cümlelik bir kavga değildir; doğal özellik, zorunluluk, ilahî kudret ve insan bilgisinin nasıl bağlanacağını sorar.",
+        "Tutarsızlığın Tutarsızlığı için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser İslam düşüncesinin büyük kelâm-felsefe hesaplaşmalarından biri ve Avrupa'daki Averroes tartışmalarının önemli kaynağı oldu.",
+        "Aristotelesçi kozmolojisi eskimiştir; yorum düzeyleri öğretisi seçkinci bulunmuş, Gazâlî'nin vesilecilik görüşünü yer yer kaba aktardığı ve kanıt gücünü abarttığı söylenmiştir.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Tutarsızlığın Tutarsızlığı bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Rakibin gerçek iddiasını doğru kurdum mu? Doğal neden ile son açıklamayı karıştırıyor muyum? Benzetme kanıtın hangi basamağını saklıyor?",
+        "Tartıştığınız bir görüşü üç sütunda yazın: karşı tarafın sözü, onun dayandığı öncül, sizin gerçek itirazınız. Kişiye değil basamağa cevap verin.",
+        "Tutarsızlığın Tutarsızlığı bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Akıl ile vahiy arasında kolay bir düşmanlık kurmak yerine kavramları, kanıtları ve yorum düzeylerini ayırmak gerekir; hakikat doğru anlaşıldığında kendi kendisiyle savaşmaz.",
+        "Akılda tutulacak son görüntü, kehribar ve lacivert tonlarda karşılıklı iki kemer altında duran açık kitapların ortasında neden zinciri gibi uzanan ışıklı bir köprü, arkada yıldız küreleri ve yanan pamuk simgesidir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Tutarsızlığın Tutarsızlığı adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-bir-kitabin-karsisina-ayna-koymak": {
+      "image": "/images/summary-art-78-chapter-01-bir-kitabin-karsisina-ayna-koymak-v1.webp",
+      "imageCaption": "Bir kitabın karşısına ayna koymak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-hakikat-hakikate-aykiri-duser-mi": {
+      "image": "/images/summary-art-78-chapter-02-hakikat-hakikate-aykiri-duser-mi-v1.webp",
+      "imageCaption": "Hakikat hakikate aykırı düşer mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-alemin-baslangici-nasil-dusunulur": {
+      "image": "/images/summary-art-78-chapter-03-alemin-baslangici-nasil-dusunulur-v1.webp",
+      "imageCaption": "Âlemin başlangıcı nasıl düşünülür? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-tanri-tikelleri-bilir-mi": {
+      "image": "/images/summary-art-78-chapter-04-tanri-tikelleri-bilir-mi-v1.webp",
+      "imageCaption": "Tanrı tikelleri bilir mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-nedensellik-neden-korunmali": {
+      "image": "/images/summary-art-78-chapter-05-nedensellik-neden-korunmali-v1.webp",
+      "imageCaption": "Nedensellik neden korunmalı? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-ates-pamugu-gercekten-yakar-mi": {
+      "image": "/images/summary-art-78-chapter-06-ates-pamugu-gercekten-yakar-mi-v1.webp",
+      "imageCaption": "Ateş pamuğu gerçekten yakar mı? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-mucize-duzeni-yok-eder-mi": {
+      "image": "/images/summary-art-78-chapter-07-mucize-duzeni-yok-eder-mi-v1.webp",
+      "imageCaption": "Mucize düzeni yok eder mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-mumkun-olan-ile-dusunulebilir-olan": {
+      "image": "/images/summary-art-78-chapter-08-mumkun-olan-ile-dusunulebilir-olan-v1.webp",
+      "imageCaption": "Mümkün olan ile düşünülebilir olan düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-tek-tanri-nasil-kanitlanir": {
+      "image": "/images/summary-art-78-chapter-09-tek-tanri-nasil-kanitlanir-v1.webp",
+      "imageCaption": "Tek Tanrı nasıl kanıtlanır? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-tanrisal-sifatlar-cogulluk-yaratir-mi": {
+      "image": "/images/summary-art-78-chapter-10-tanrisal-sifatlar-cogulluk-yaratir-mi-v1.webp",
+      "imageCaption": "Tanrısal sıfatlar çoğulluk yaratır mı? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-goksel-hareket-ve-eski-evren-resmi": {
+      "image": "/images/summary-art-78-chapter-11-goksel-hareket-ve-eski-evren-resmi-v1.webp",
+      "imageCaption": "Göksel hareket ve eski evren resmi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-ruh-bedenden-ayri-mi": {
+      "image": "/images/summary-art-78-chapter-12-ruh-bedenden-ayri-mi-v1.webp",
+      "imageCaption": "Ruh bedenden ayrı mı? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-bedenlerin-dirilisi-tartismasi": {
+      "image": "/images/summary-art-78-chapter-13-bedenlerin-dirilisi-tartismasi-v1.webp",
+      "imageCaption": "Bedenlerin dirilişi tartışması düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-herkese-ayni-anlatim-mi": {
+      "image": "/images/summary-art-78-chapter-14-herkese-ayni-anlatim-mi-v1.webp",
+      "imageCaption": "Herkese aynı anlatım mı? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-felsefe-dine-tehdit-mi-hizmet-mi": {
+      "image": "/images/summary-art-78-chapter-15-felsefe-dine-tehdit-mi-hizmet-mi-v1.webp",
+      "imageCaption": "Felsefe dine tehdit mi hizmet mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-yirmi-itirazdan-kalan-buyuk-ders": {
+      "image": "/images/summary-art-78-chapter-16-yirmi-itirazdan-kalan-buyuk-ders-v1.webp",
+      "imageCaption": "Yirmi itirazdan kalan büyük ders düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

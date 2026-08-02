@@ -1,0 +1,351 @@
+{
+  "bookNo": 242,
+  "title": "Şeffaflık Toplumu",
+  "author": "Byung-Chul Han",
+  "subtitle": "Her şeyin görünür, ölçülebilir ve paylaşılabilir olmasını özgürlük sayan çağın; güveni, mahremiyeti, anlatıyı ve farklılığı nasıl düzleştirip gönüllü denetime dönüştürebildiğini anlatan kısa ama yoğun eleştiri.",
+  "coverImage": "/images/summary-cover-242-seffaflik-toplumu-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/242-seffaflik-toplumu-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4B6878",
+  "meta": {
+    "originalTitle": "Transparenzgesellschaft",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Restoranda yemek gelmeden fotoğrafı çekiliyor, yürüyüş adımları sayılıyor, çalışan çevrimiçi ışığıyla varlığını kanıtlıyor. Daha çok bilgi gerçekten daha çok güven mi getiriyor, yoksa görünmeyen hiçbir köşe bırakmayan yeni bir baskı mı kuruyor?",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Stanford University Press - The Transparency Society",
+      "url": "https://www.sup.org/books/theory-and-philosophy/transparency-society/"
+    },
+    {
+      "id": 2,
+      "title": "WorldCat - The Transparency Society",
+      "url": "https://search.worldcat.org/title/851071890"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Her şeyin görünür, ölçülebilir ve paylaşılabilir olmasını özgürlük sayan çağın; güveni, mahremiyeti, anlatıyı ve farklılığı nasıl düzleştirip gönüllü denetime dönüştürebildiğini anlatan kısa ama yoğun eleştiri.",
+        "Han aforizmalı ve geniş genellemeli yazar; kitap ampirik sosyal bilim araştırması değil felsefi kültür eleştirisidir. Rehber güçlü benzetmeleri gündelik sahnelerle açar, şeffaflığın yolsuzluk denetimi ve bilgi erişimi gibi gerçek yararlarını korur.",
+        "Bir ekip yöneticisi güven için herkesin ekranını sürekli izler. Veri artar ama çalışan yardım istemekten, denemekten ve hata yapmaktan kaçınır. Denetim güvensizliği çözmek yerine büyütür; Han'ın şeffaflık paradoksu burada görünür."
+      ]
+    },
+    {
+      "id": "durak-02-seffaflik-neden-tek-basina-iyi-degildir",
+      "section": "BİRİNCİ KISIM · PARADOKS",
+      "title": "Şeffaflık neden tek başına iyi değildir?",
+      "paragraphs": [
+        "Han şeffaflığın hesap verme aracından toplumun her alanını aynı görünürlük buyruğuna sokan değere dönüştüğünü savunur. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Kamu ihalesinin açıklanması yolsuzluğu azaltır; kişinin her mesajının açılması ise güveni ve özgürlüğü yok eder. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Şeffaflığın yarar ve zararını bağlam ayırmadan tek hükme bağlamak kitabın kendi aşırılığına düşer. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir görünürlük talebinde kamu gücü, kişisel alan, amaç ve ölçülülüğü ayrı değerlendirmek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Şeffaflık neden tek başına iyi değildir?” ile Şeffaflık Toplumu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-olumluluk-toplumu",
+      "section": "İKİNCİ KISIM · SÜRTÜNMESİZLİK",
+      "title": "Olumluluk toplumu",
+      "paragraphs": [
+        "Her şeyin beğenilir, hızlı ve uyumlu olması istendiğinde olumsuzluk, sınır ve gerçek itiraz sistemden temizlenir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Toplantıda sorun çıkaran soru yerine herkesin onayladığı renkli sunum alkış alır. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Olumlu dil destek ve umut da yaratabilir; sorun zorunlu uyum buyruğudur. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Bir ekipte iyi haber kadar yavaşlatıcı itirazın güvenle söylenebildiği alan açmak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-04-farklilik-surtunme-yaratir",
+      "section": "İKİNCİ KISIM · ÖTEKİ",
+      "title": "Farklılık sürtünme yaratır",
+      "paragraphs": [
+        "Şeffaf sistem benzersiz ve çevrilemeyen farkı rahatsızlık sayıp karşılaştırılabilir veri ve tüketilebilir çeşitliliğe indirger. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Müzik uygulaması yeni tür yerine daha önce sevdiğiniz şarkının benzerini sonsuzca önerir. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Ortak standart bazı erişim ve adalet sorunlarını çözebilir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Öneri sisteminde tanıdık tercihin yanında şaşırtıcı ve açıklanamayan seçeneğe de yer vermek gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Farklılık sürtünme yaratır” ile Şeffaflık Toplumu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-sergileme-toplumu",
+      "section": "ÜÇÜNCÜ KISIM · GÖRÜNÜRLÜK",
+      "title": "Sergileme toplumu",
+      "paragraphs": [
+        "Bir şey sergilenmediğinde değer kaybetmiş sayılır; varlık, dolaşan görüntü ve dikkat miktarıyla ölçülür. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Gezinin sessiz anı yaşanmadan önce paylaşılacak kareye dönüştürülür. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Fotoğraf paylaşmak anı, bağ ve yaratıcılık da üretebilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir deneyimde gösterme isteğiyle yaşama isteğinin birbirini ne zaman desteklediğini ne zaman böldüğünü fark etmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Sergileme toplumu” ile Şeffaflık Toplumu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-yuzun-yerini-profil-alir",
+      "section": "ÜÇÜNCÜ KISIM · İMAJ",
+      "title": "Yüzün yerini profil alır",
+      "paragraphs": [
+        "Karmaşık ve değişken kişi, platformda sürekli güncellenen düzgün profil ve performans yüzeyine dönüşebilir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Üzgün çalışan profesyonel hesabında yalnız başarı fotoğrafları paylaşır ve kendi hayatını da bu seçilmiş yüzeyle karşılaştırır. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Profil her zaman sahte değildir; kişinin gerçek emeğini görünür kılabilir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Dijital kimlikte paylaşılmayan alanı eksiklik değil korunması gereken derinlik saymak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-07-apaciklik-toplumu",
+      "section": "DÖRDÜNCÜ KISIM · ANLAM",
+      "title": "Apaçıklık toplumu",
+      "paragraphs": [
+        "Her sözün hemen açık ve tek anlama gelmesi istendiğinde ima, şiir, ritüel ve yorumun zaman isteyen katmanları kaybolur. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Şiirin dizesi açıklama kutusuna çevrilince anlaşılır olur ama yankısı ve çok anlamı söner. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Kamu kuralında açıklık zorunludur; sanatın belirsizliğiyle yönetim kapalılığı aynı değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Hangi alanda kesin açıklık, hangi alanda yorum alanı gerektiğini ayırmak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Apaçıklık toplumu” ile Şeffaflık Toplumu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-sir-her-zaman-yalan-degildir",
+      "section": "DÖRDÜNCÜ KISIM · GİZ",
+      "title": "Sır her zaman yalan değildir",
+      "paragraphs": [
+        "İlişkiler bütünüyle bilgiye dayanmaz; kişinin henüz söylemediği düşünce ve iç mesafe özgür benliğin parçası olabilir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Arkadaşına hazırlanan sürpriz saklanır, yasını yaşayan kişi konuşmak için kendi zamanını bekler. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Gizlilik suistimali ve hesap vermemeyi de örtebilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Sırrın güçten kaçan zarar mı yoksa kişiyi koruyan mahremiyet mi olduğunu bağlama göre sınamak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ]
+    },
+    {
+      "id": "durak-09-pornografik-toplum",
+      "section": "BEŞİNCİ KISIM · ÇIPLAKLIK",
+      "title": "Pornografik toplum",
+      "paragraphs": [
+        "Han pornografik sözcüğünü bedenle sınırlı değil, her şeyin gizem ve mesafe olmadan doğrudan sergilenmesi için kullanır. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Ürünün yapım hikâyesi bile kusursuz yakın planlarla anında tüketilecek içeriğe çevrilir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Kavramın sertliği cinsellik ve seks işçiliği üzerine ahlaki yargılarla karışabilir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Eleştiriyi beden utancına değil zorunlu teşhir, rıza ve dikkat ekonomisine yöneltmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Pornografik toplum” ile Şeffaflık Toplumu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-hizlanan-toplum",
+      "section": "BEŞİNCİ KISIM · ZAMAN",
+      "title": "Hızlanan toplum",
+      "paragraphs": [
+        "Bilgi ve görüntü durmadan yenilendiğinde olayların anlatıya ve anıya dönüşmesi için gereken süre daralır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Sabahki kriz öğleden sonra yeni gündemle silinir; kişi çok şey görür ama bağlantı kuramaz. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Hız acil durumda hayat kurtarabilir ve uzakları yakınlaştırır. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Bir bilgi akışında tepki süresi ile düşünme, doğrulama ve unutma hakkı arasında sınır koymak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-11-anlati-yerine-sayilabilir-bilgi",
+      "section": "ALTINCI KISIM · VERİ",
+      "title": "Anlatı yerine sayılabilir bilgi",
+      "paragraphs": [
+        "Şeffaflık toplumu bağlamlı hikâyeyi parçalanmış, karşılaştırılabilir ve hızla işlenebilir veri noktalarına dönüştürür. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Öğrencinin yıl boyu ilerlemesi tek sınav puanına, çalışanın emeği çevrimiçi dakika sayısına sıkıştırılır. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "İyi ölçüm görünmeyen eşitsizliği açığa çıkarabilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Her göstergenin neyi ölçtüğünü, neyi dışarıda bıraktığını ve karar vereni nasıl yönlendirdiğini yazmak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Anlatı yerine sayılabilir bilgi” ile Şeffaflık Toplumu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-12-yakinlik-toplumu-ve-kamusal-alan",
+      "section": "ALTINCI KISIM · MAHREMİN TAŞMASI",
+      "title": "Yakınlık toplumu ve kamusal alan",
+      "paragraphs": [
+        "Her kamusal konuşmanın kişisel duygu ve itirafa dönüşmesi ortak meseleleri kişilik gösterisine çevirebilir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Adayın ulaşım planı yerine çocukluk hikâyesi ve samimiyet görüntüsü haftalarca tartışılır. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Kişisel deneyim siyasette dışlanmış acıyı görünür de kılabilir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Bir anlatının ortak politika sorununa kanıt mı sunduğunu yoksa tartışmayı kişilik beğenisine mi çevirdiğini sormak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-13-guven-bilgi-boslugu-ister",
+      "section": "YEDİNCİ KISIM · İLİŞKİ",
+      "title": "Güven bilgi boşluğu ister",
+      "paragraphs": [
+        "Güven karşımızdakini tamamen bilmediğimiz halde ilişki kurabilme cesaretidir; tam denetim güvenin yerini alır. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Ebeveyn genç çocuğun konumunu her dakika izler, kaygısı azalmaz ve çocuk dürüstçe yardım istemeyi bırakır. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Bazı güvenlik durumlarında geçici izleme gerekli olabilir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "İzlemenin amaç, süre, rıza, veri silme ve itiraz sınırını açık kurmak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ]
+    },
+    {
+      "id": "durak-14-bilgi-toplumu-mu-kontrol-toplumu-mu",
+      "section": "YEDİNCİ KISIM · GÖZETİM",
+      "title": "Bilgi toplumu mu kontrol toplumu mu?",
+      "paragraphs": [
+        "İnsanlar kolaylık ve görünürlük için verilerini gönüllü verirken dışarıdan zorlayıcı panoptikon yerine kendi kendini sergileyen dijital kontrol doğar. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Uygulama rozet için uyku, konum ve arkadaş bilgisini toplar; kullanıcı denetlenirken eğlendiğini düşünür. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Kullanıcı bütünüyle edilgen değildir ve düzenleme ile kolektif direnç mümkündür. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Bir uygulamada veri gerekliliği, üçüncü taraf, silme, çıkarım ve gerçek vazgeçme seçeneğini kontrol etmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Bilgi toplumu mu kontrol toplumu mu?” ile Şeffaflık Toplumu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-kendini-aydinlatan-panoptikon",
+      "section": "YEDİNCİ KISIM · GÖNÜLLÜ DENETİM",
+      "title": "Kendini aydınlatan panoptikon",
+      "paragraphs": [
+        "Bentham'ın karanlık gözetleme kulesinden farklı olarak dijital sakinler görünürlük kazanmak için hücrelerini kendileri aydınlatır. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Çalışan üretkenlik sıralamasında yükselmek için her hareketini kaydeder ve iş arkadaşını da kıyaslamaya iter. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Her öz-ölçüm baskı değildir; sağlık ve öğrenmede fayda sağlayabilir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Ölçümün kime ait olduğunu, hedefi kimin seçtiğini ve sonuçla kimin karar verdiğini sormak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-16-seffafligin-siyaseti",
+      "section": "SEKİZİNCİ KISIM · DEMOKRASİ",
+      "title": "Şeffaflığın siyaseti",
+      "paragraphs": [
+        "Belgelerin açıklanması demokratik denetimi güçlendirir fakat siyaset yalnız bilgi yığını değil tartışma, temsil ve ortak karar kapasitesi ister. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Binlerce bütçe belgesi çevrimiçi olur ama anlaşılır özet ve itiraz kanalı yoksa yurttaş fiilen göremez. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Gizli müzakere alanı bazen uzlaşmayı kolaylaştırabilir ama suistimale açıktır. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Açık veriyi erişilebilir anlatım, bağımsız denetim ve karar üzerinde gerçek etkiyle tamamlamak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Şeffaflığın siyaseti” ile Şeffaflık Toplumu kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-gorunurlukle-golgeyi-dengelemek",
+      "section": "SEKİZİNCİ KISIM · SONUÇ",
+      "title": "Görünürlükle gölgeyi dengelemek",
+      "paragraphs": [
+        "Han'ın uyarısı karanlığı kutsamak değil, hesap verme ile mahremiyet, bilgi ile güven, açıklık ile anlamlı mesafe arasında sınır kurmaktır. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Kütüphanenin okuma salonu aydınlıktır ama herkesin not defteri komşusuna açık değildir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Denge sözü güçlülerin gizliliğini koruyan belirsiz bahaneye dönüşebilir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Kamu gücüne daha yüksek açıklık, sıradan kişiye daha güçlü mahremiyet uygulayan orantılı ilke kurmak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Han yolsuzluk belgelerinin saklanmasını, bilgisizliği veya gizliliğin her türünü savunmaz. Hedefi şeffaflığın bağlamdan kopup insan yaşamının tek ahlaki ölçüsüne dönüşmesidir.",
+        "Belediye ihalesinin açıklanmasıyla arkadaşınızın bütün mesajlarını istemek aynı şeffaflık değildir; ilkinde kamusal güç hesap verir, ikincisinde kişisel alan ve güven yok olabilir.",
+        "Şeffaflık Toplumu için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kısa kitap dijital kültür, gözetim, sosyal medya ve performans toplumu tartışmalarında yaygın okundu; Han'ın aforizmaları çağın huzursuzluğunu adlandırma gücüyle ilgi gördü.",
+        "Genellemelerinin ampirik kanıtı az, geçmişi fazla romantik, teknoloji kullanıcılarını edilgen ve toplumu tek parça gösterdiği; farklı şeffaflık türlerini yeterince ayırmadığı eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Şeffaflık Toplumu bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Kim kime karşı görünür olmalı? Veri güvenin yerini mi alıyor? Açıklık hangi noktada teşhir ve denetime dönüşüyor?",
+        "Telefonunuzdaki bir uygulamanın istediği izinleri açın. Her izin için hizmete gerçekten gerekli mi, kim görüyor, ne kadar tutuluyor ve reddedince ne oluyor sorularını yazın.",
+        "Şeffaflık Toplumu bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Şeffaflık hesap vermeyi güçlendirebilir; fakat her şeyi görünür kılma buyruğuna dönüştüğünde mahremiyeti, güveni, anlatıyı ve gerçek farklılığı tüketen gönüllü bir denetim kurar.",
+        "Akılda tutulacak son görüntü, soğuk mavi, gümüş ve tek bir sıcak kehribar tonunda cam hücrelerden oluşan dijital şehirde herkesin kendini aydınlattığı, ortada gölge ve mahremiyet taşıyan tek kapalı bahçenin bulunduğu sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Şeffaflık Toplumu adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-seffaflik-neden-tek-basina-iyi-degildir": {
+      "image": "/images/summary-art-242-chapter-01-seffaflik-neden-tek-basina-iyi-degildir-v1.webp",
+      "imageCaption": "Şeffaflık neden tek başına iyi değildir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-olumluluk-toplumu": {
+      "image": "/images/summary-art-242-chapter-02-olumluluk-toplumu-v1.webp",
+      "imageCaption": "Olumluluk toplumu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-farklilik-surtunme-yaratir": {
+      "image": "/images/summary-art-242-chapter-03-farklilik-surtunme-yaratir-v1.webp",
+      "imageCaption": "Farklılık sürtünme yaratır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-sergileme-toplumu": {
+      "image": "/images/summary-art-242-chapter-04-sergileme-toplumu-v1.webp",
+      "imageCaption": "Sergileme toplumu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-yuzun-yerini-profil-alir": {
+      "image": "/images/summary-art-242-chapter-05-yuzun-yerini-profil-alir-v1.webp",
+      "imageCaption": "Yüzün yerini profil alır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-apaciklik-toplumu": {
+      "image": "/images/summary-art-242-chapter-06-apaciklik-toplumu-v1.webp",
+      "imageCaption": "Apaçıklık toplumu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-sir-her-zaman-yalan-degildir": {
+      "image": "/images/summary-art-242-chapter-07-sir-her-zaman-yalan-degildir-v1.webp",
+      "imageCaption": "Sır her zaman yalan değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-pornografik-toplum": {
+      "image": "/images/summary-art-242-chapter-08-pornografik-toplum-v1.webp",
+      "imageCaption": "Pornografik toplum düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-hizlanan-toplum": {
+      "image": "/images/summary-art-242-chapter-09-hizlanan-toplum-v1.webp",
+      "imageCaption": "Hızlanan toplum düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-anlati-yerine-sayilabilir-bilgi": {
+      "image": "/images/summary-art-242-chapter-10-anlati-yerine-sayilabilir-bilgi-v1.webp",
+      "imageCaption": "Anlatı yerine sayılabilir bilgi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-yakinlik-toplumu-ve-kamusal-alan": {
+      "image": "/images/summary-art-242-chapter-11-yakinlik-toplumu-ve-kamusal-alan-v1.webp",
+      "imageCaption": "Yakınlık toplumu ve kamusal alan düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-guven-bilgi-boslugu-ister": {
+      "image": "/images/summary-art-242-chapter-12-guven-bilgi-boslugu-ister-v1.webp",
+      "imageCaption": "Güven bilgi boşluğu ister düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-bilgi-toplumu-mu-kontrol-toplumu-mu": {
+      "image": "/images/summary-art-242-chapter-13-bilgi-toplumu-mu-kontrol-toplumu-mu-v1.webp",
+      "imageCaption": "Bilgi toplumu mu kontrol toplumu mu? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-kendini-aydinlatan-panoptikon": {
+      "image": "/images/summary-art-242-chapter-14-kendini-aydinlatan-panoptikon-v1.webp",
+      "imageCaption": "Kendini aydınlatan panoptikon düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-seffafligin-siyaseti": {
+      "image": "/images/summary-art-242-chapter-15-seffafligin-siyaseti-v1.webp",
+      "imageCaption": "Şeffaflığın siyaseti düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-gorunurlukle-golgeyi-dengelemek": {
+      "image": "/images/summary-art-242-chapter-16-gorunurlukle-golgeyi-dengelemek-v1.webp",
+      "imageCaption": "Görünürlükle gölgeyi dengelemek düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

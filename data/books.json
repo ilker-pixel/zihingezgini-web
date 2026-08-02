@@ -307,7 +307,9 @@
         "description": "Ritüellerin yapısı, liminallik ve topluluk bağı (communitas) kavramlarını açıklayan eser.",
         "pubDate": "1969",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/26-rituel-sureci/"
     },
     {
         "no": 27,
@@ -531,13 +533,15 @@
     },
     {
         "no": 46,
-        "author": "Francisco Varela & Eleanor Rosch",
+        "author": "Francisco J. Varela, Evan Thompson ve Eleanor Rosch",
         "title": "Bedenleşmiş Zihin",
         "category": "Bilişsel Bilim",
         "description": "Bilişin sadece beyinde değil, beden ve çevreyle etkileşim halinde gerçekleştiğini savunan enaktif yaklaşım.",
         "pubDate": "1991",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/46-bedenlesmis-zihin/"
     },
     {
         "no": 47,
@@ -633,7 +637,9 @@
         "description": "Kişisel kimliğin sürekliliğini ve gelecek nesillere karşı ahlaki sorumluluklarımızı inceleyen analitik klasik.",
         "pubDate": "1984",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/55-kisiler-uzerine/"
     },
     {
         "no": 56,
@@ -903,7 +909,9 @@
         "description": "Gazali'nin felsefe eleştirisine rasyonel felsefeyi savunarak verilen felsefi yanıt.",
         "pubDate": "1180",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/78-tutarsizligin-tutarsizligi/"
     },
     {
         "no": 79,
@@ -1215,7 +1223,9 @@
         "description": "Montesquieu, Comte, Marx, Tocqueville, Durkheim ve Weber sosyolojisini en berrak şekilde analiz eden sentez eser.",
         "pubDate": "1967",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/105-sosyolojik-dusuncenin-asamalari/"
     },
     {
         "no": 106,
@@ -1681,7 +1691,9 @@
         "description": "Termodinamik ve karmaşıklık teorileri üzerinden doğada zamanın geri döndürülemezliğini ve kesinliğin sonunu savunan klasik.",
         "pubDate": "1996",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/147-kesinligin-sonu/"
     },
     {
         "no": 148,
@@ -1865,7 +1877,9 @@
         "description": "En büyük yeniliklerin arkasındaki asıl gücün özel sektör değil devlet yatırımları olduğunu gösteren ezber bozan ekonomi kitabı.",
         "pubDate": "2013",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/163-girisimci-devlet/"
     },
     {
         "no": 164,
@@ -2243,7 +2257,9 @@
         "description": "Kitle iletişim araçlarının rıza imalatı (manufacturing consent) yoluyla halkı nasıl yönlendirdiğini inceleyen klasik.",
         "pubDate": "1988",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/197-medya-denetimi/"
     },
     {
         "no": 198,
@@ -2555,7 +2571,9 @@
         "description": "Sömürgeciliğin psikolojik yıkımını ve sömürge karşıtı şiddetin dinamiklerini inceleyen klasik.",
         "pubDate": "1961",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/225-yeryuzunun-lanetlileri/"
     },
     {
         "no": 226,
@@ -2737,7 +2755,9 @@
         "description": "Her şeyin görünür ve ölçülebilir kılınmasının özgürlüğü nasıl yok ettiğini ve dijital kontrolü nasıl kolaylaştırdığını inceleyen güncel felsefe.",
         "pubDate": "2012",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/242-seffaflik-toplumu/"
     },
     {
         "no": 243,

@@ -1,0 +1,348 @@
+{
+  "bookNo": 105,
+  "title": "Sosyolojik Düşüncenin Aşamaları",
+  "author": "Raymond Aron",
+  "subtitle": "Montesquieu'den Weber'e uzanan yedi büyük düşünürü aynı cetvelle ölçmeden, her birinin sanayi, demokrasi, sınıf, düzen ve özgürlük sorularına nasıl farklı bir sosyoloji kurduğunu gösteren düşünce tarihi.",
+  "coverImage": "/images/summary-cover-105-sosyolojik-dusuncenin-asamalari-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/105-sosyolojik-dusuncenin-asamalari-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6B617B",
+  "meta": {
+    "originalTitle": "Les étapes de la pensée sociologique",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir şehre yedi ayrı tepeden bakın: biri yasaları, biri fabrikayı, biri sınıf kavgasını, biri dernekleri, biri dayanışmayı, biri seçkinleri, biri anlamı görür. Aron'un kitabı hangi tepenin tek doğru olduğunu söylemekten çok manzaranın neden değiştiğini öğretir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "WorldCat - Main Currents in Sociological Thought",
+      "url": "https://search.worldcat.org/title/Main-currents-in-sociological-thought/oclc/1036700204"
+    },
+    {
+      "id": 2,
+      "title": "Open Library - Main Currents in Sociological Thought",
+      "url": "https://openlibrary.org/works/OL18000503W/Main_currents_in_sociological_thought"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Montesquieu'den Weber'e uzanan yedi büyük düşünürü aynı cetvelle ölçmeden, her birinin sanayi, demokrasi, sınıf, düzen ve özgürlük sorularına nasıl farklı bir sosyoloji kurduğunu gösteren düşünce tarihi.",
+        "Kitap iki büyük bölümde Montesquieu, Comte, Marx, Tocqueville, Durkheim, Pareto ve Weber'i ele alır. Rehber her düşünürün kendi sorusunu ve sınırını korur; Aron'un liberal ve sanayi toplumu merkezli yorumunu tarafsız son hüküm saymaz.",
+        "Aynı greve bakan Marx sınıf çıkarını, Durkheim dayanışma krizini, Weber anlam ve örgütü, Tocqueville ise dernek özgürlüğünü görebilir. Olay değişmez; sorulan soru değişince görünür nedenler de değişir."
+      ]
+    },
+    {
+      "id": "durak-02-sosyoloji-neden-birden-fazla-kurucuya-sahiptir",
+      "section": "BİRİNCİ KISIM · HARİTA",
+      "title": "Sosyoloji neden birden fazla kurucuya sahiptir?",
+      "paragraphs": [
+        "Aron sosyolojiyi tek kişinin icadı değil modern toplumun farklı krizlerine verilmiş rakip ama konuşabilir cevaplar olarak kurar. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Fabrika dumanı, oy sandığı ve kalabalık kent aynı yüzyılda büyür; her düşünür başka işareti başlangıç seçer. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Kurucu listesi Avrupa ve erkek düşünürlere aşırı ağırlık verir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Bir alanın tarihini okurken kanona girmeyen kadınları, sömürgeleştirilmiş toplumları ve uygulayıcıları ayrıca aramak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Sosyoloji neden birden fazla kurucuya sahiptir?” ile Sosyolojik Düşüncenin Aşamaları kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-montesquieu-yasalar-bir-iklimde-yasar",
+      "section": "İKİNCİ KISIM · KARŞILAŞTIRMA",
+      "title": "Montesquieu: Yasalar bir iklimde yaşar",
+      "paragraphs": [
+        "Montesquieu yasaları tek tek hükümler değil coğrafya, töre, ekonomi ve yönetim biçimiyle ilişkili bir bütün olarak inceler. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Aynı vergi kuralı ticaret kentinde başka, dağ köyünde başka sonuç doğurur çünkü ilişkiler ağı değişir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "İklim açıklaması kolayca kaba coğrafi kaderciliğe kayabilir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir yasayı kopyalamadan önce onu taşıyan kurum, alışkanlık ve güç dengesini karşılaştırmak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-04-montesquieu-gucu-gucle-sinirlamak",
+      "section": "İKİNCİ KISIM · ÖZGÜRLÜK",
+      "title": "Montesquieu: Gücü güçle sınırlamak",
+      "paragraphs": [
+        "Siyasi özgürlük iyi niyetli yöneticiye değil, yetkilerin birbirini sınırladığı ılımlı düzene dayanır. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Kasayı açan, hesabı denetleyen ve şikâyeti karara bağlayan aynı kişi olursa dürüstlük tek güvence olur. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Kuvvetler ayrılığı tek başına ekonomik veya toplumsal eşitsizliği çözmez. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir kurumda karar, uygulama ve denetimin gerçekten ayrı ellere dağılıp dağılmadığını görmek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-05-comte-bilimlerin-sirasi-ve-pozitif-cag",
+      "section": "ÜÇÜNCÜ KISIM · DÜZEN",
+      "title": "Comte: Bilimlerin sırası ve pozitif çağ",
+      "paragraphs": [
+        "Comte insan düşüncesinin teolojik ve metafizik açıklamalardan gözlem ve yasaya dayalı pozitif aşamaya ilerlediğini savunur. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Fırtına önce tanrının öfkesi, sonra soyut kuvvet, en sonunda ölçülebilir basınç ve sıcaklık ilişkisiyle açıklanır. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Üç aşama bütün toplumların aynı yolu izlemesini bekleyen fazla düz bir tarih kurar. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir açıklamada ölçülebilir kanıt artarken anlam ve değer sorularının ortadan kalkmadığını hatırlamak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Comte: Bilimlerin sırası ve pozitif çağ” ile Sosyolojik Düşüncenin Aşamaları kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-marx-tarihin-motorunda-uretim",
+      "section": "DÖRDÜNCÜ KISIM · SINIF",
+      "title": "Marx: Tarihin motorunda üretim",
+      "paragraphs": [
+        "Marx toplum biçimlerini insanların geçim üretme yolu ve bu üretimde kurdukları mülkiyet ilişkileriyle açıklar. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Buharlı makine yalnız teknik araç değildir; fabrika, ücretli emek ve sermaye sahibinin gücünü birlikte dönüştürür. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Ekonomi siyaset, kültür ve kimliği tek yönde otomatik belirlemez. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir teknolojide makinenin yanında mülkiyet, sözleşme ve kazancın paylaşımına bakmak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-07-marx-yabancilasma-ve-somuru",
+      "section": "DÖRDÜNCÜ KISIM · EMEK",
+      "title": "Marx: Yabancılaşma ve sömürü",
+      "paragraphs": [
+        "İşçi ürettiği ürüne, çalışma biçimine, diğer insanlara ve kendi yaratıcı gücüne yabancılaşırken artı değerin paylaşımı sınıf çatışması yaratır. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Gün boyu tek vida sıkan kişi bitmiş bisiklete karar veremez ve satış değerinden küçük bir pay alır. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Her ücretli çalışma aynı ölçüde yabancılaştırıcı değildir ve emek dışı tahakküm biçimleri de vardır. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "İşte özerklik, ürünle bağ, gelir payı ve ortak karar imkânını ayrı ayrı değerlendirmek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Marx: Yabancılaşma ve sömürü” ile Sosyolojik Düşüncenin Aşamaları kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-tocqueville-esitlik-caginin-cifte-yuzu",
+      "section": "BEŞİNCİ KISIM · DEMOKRASİ",
+      "title": "Tocqueville: Eşitlik çağının çifte yüzü",
+      "paragraphs": [
+        "Tocqueville statü eşitliğinin demokratik enerjiyi artırırken benzeşme baskısı ve merkezî yönetime bağımlılık da üretebileceğini görür. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Herkesin oy hakkı vardır ama mahallede çoğunluğa aykırı konuşan kişi sosyal yalnızlıktan korkar. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Onun Amerika gözlemi kölelik, yerli halk ve kadınların dışlanmasını yeterince merkeze almaz. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Resmî hak ile o hakkı kullanmanın sosyal maliyetini birlikte ölçmek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-09-tocqueville-dernekler-ozgurlugun-okuludur",
+      "section": "BEŞİNCİ KISIM · ORTAK EYLEM",
+      "title": "Tocqueville: Dernekler özgürlüğün okuludur",
+      "paragraphs": [
+        "Yurttaşların küçük amaçlar için gönüllü örgütlenmesi merkezî güce karşı güven, beceri ve aracı kurum yaratır. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Mahalle sakinleri köprü için para toplarken toplantı yapmayı, hesap sormayı ve uzlaşmayı öğrenir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Dernekler dışlayıcı olabilir ve zenginlerin sesini büyütebilir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir yurttaş girişiminde üyelik erişimi, karar usulü ve kaynak eşitliğini kontrol etmek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Tocqueville: Dernekler özgürlüğün okuludur” ile Sosyolojik Düşüncenin Aşamaları kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-durkheim-toplumsal-olguyu-sey-gibi-incelemek",
+      "section": "ALTINCI KISIM · YÖNTEM",
+      "title": "Durkheim: Toplumsal olguyu şey gibi incelemek",
+      "paragraphs": [
+        "Durkheim bireyin dışında var olan ve davranışına baskı yapan kural, oran ve kurumları düzenli veriyle incelemeyi ister. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Tek kişi boşanma kararı verir ama bir toplumun yıllar içindeki boşanma oranı ortak koşullara dair ayrı örüntü gösterir. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "İstatistik insanın anlamını ve azınlık deneyimini görünmez bırakabilir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Sayıdaki düzen ile kişinin anlattığı gerekçeyi rakip değil farklı veri düzeyleri gibi kullanmak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-11-durkheim-is-bolumu-ve-dayanisma",
+      "section": "ALTINCI KISIM · BAĞ",
+      "title": "Durkheim: İş bölümü ve dayanışma",
+      "paragraphs": [
+        "Benzerliğe dayalı mekanik dayanışmadan farklı görevlerin karşılıklı bağımlılığına dayalı organik dayanışmaya geçişi açıklar. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Küçük köyde çoğu kişi benzer işi yapar; modern hastanede onlarca uzman birbirine muhtaçtır. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Bu geçiş düz ve tamamlanmış değildir; modern toplumda benzerlik bağları sürer. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Uzmanlaşan ekipte ortak amaç ve adalet duygusu kurulmazsa bağımlılığın dayanışmaya dönüşmediğini görmek gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Durkheim: İş bölümü ve dayanışma” ile Sosyolojik Düşüncenin Aşamaları kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-12-durkheim-anomi-ve-intihar",
+      "section": "ALTINCI KISIM · SINIRSIZ İSTEK",
+      "title": "Durkheim: Anomi ve intihar",
+      "paragraphs": [
+        "Kuralların hızla çözülmesi ve beklentilerin sınırını kaybetmesi anomi yaratır; en kişisel görünen intihar oranlarında bile toplumsal bağ etkisi bulunabilir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Ani zenginleşen kişi eski ölçüyü kaybeder, yeni beklenti sürekli uzaklaşır ve başarı huzur getirmez. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "İntihar tek nedenle açıklanamaz; ruh sağlığı, yaşam öyküsü ve acil destek vazgeçilmezdir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bu konuda teoriyi kişiye uygulamak yerine güvenli destek ve uzman yardımını öncelemek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-13-pareto-mantiksiz-eylemin-mantigi",
+      "section": "YEDİNCİ KISIM · SEÇKİNLER",
+      "title": "Pareto: Mantıksız eylemin mantığı",
+      "paragraphs": [
+        "Pareto insanların çoğu eylemini önce duygu ve kalıntılarla yapıp sonra mantıklı görünen gerekçelerle süslediğini savunur. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Kişi pahalı telefonu ihtiyaç diye açıklar ama asıl itki statü ve aidiyet olabilir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Her gerekçeyi maske saymak gerçek düşünme ve ahlaki iknayı küçümser. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Kendi kararınızda sonradan kurduğunuz açıklamayla karar anındaki duyguyu ayrı yazmak yararlıdır. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ]
+    },
+    {
+      "id": "durak-14-pareto-seckinlerin-dolasimi",
+      "section": "YEDİNCİ KISIM · İKTİDAR",
+      "title": "Pareto: Seçkinlerin dolaşımı",
+      "paragraphs": [
+        "Yönetici azınlıklar kapanıp yenilenme yeteneğini kaybettiğinde başka seçkin gruplar onların yerini alır. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Eski ailelerin yönettiği şirket yeni teknolojiye kapalı kalınca dışarıdan gelen girişimciler pazarı ele geçirir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Seçkin dolaşımı halkın güç kazandığı anlamına gelmeyebilir; yalnız tepedeki isimler değişebilir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir değişimde karar yetkisinin yayılıp yayılmadığını ve yalnız yeni elit üretip üretmediğini sormak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Pareto: Seçkinlerin dolaşımı” ile Sosyolojik Düşüncenin Aşamaları kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-weber-anlami-anlayarak-aciklamak",
+      "section": "SEKİZİNCİ KISIM · EYLEM",
+      "title": "Weber: Anlamı anlayarak açıklamak",
+      "paragraphs": [
+        "Weber toplumsal eylemi kişinin başkalarına yönelen anlamını yorumlayıp sonuçların nedensel örüntüsünü araştırarak açıklar. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Aynı şemsiyeyi biri yağmurdan korunmak, biri protesto simgesi taşımak için açabilir. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Niyet tek başına sonucu açıklamaz; kurum ve istenmeyen etkiler de incelenmelidir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Davranışı etiketlemeden önce kişi için ne anlam taşıdığını ve hangi sonuç doğurduğunu ayrı sormak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-16-weber-rasyonellesme-ve-demir-kafes",
+      "section": "SEKİZİNCİ KISIM · BÜROKRASİ",
+      "title": "Weber: Rasyonelleşme ve demir kafes",
+      "paragraphs": [
+        "Hesap, kural ve uzmanlık modern yaşamı öngörülebilir kılarken insanı araçsal düzenin dar rollerine hapsedebilir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Hastane formu herkese aynı ölçüyü uygular ama benzersiz hastanın hikâyesi kutulara sığmaz. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Bürokrasi yalnız baskı değil keyfîliğe karşı hak ve süreklilik de sağlar. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir prosedürde eşitlik kazancıyla esneklik kaybını birlikte ölçüp itiraz yolu tasarlamak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Weber: Rasyonelleşme ve demir kafes” ile Sosyolojik Düşüncenin Aşamaları kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-yedi-mercekten-ortak-bir-sosyoloji",
+      "section": "DOKUZUNCU KISIM · SONUÇ",
+      "title": "Yedi mercekten ortak bir sosyoloji",
+      "paragraphs": [
+        "Aron büyük düşünürleri tek kurama eritmek yerine sanayi toplumu, özgürlük ve tarih sorularında karşılaştırarak çoğul bir muhakeme öğretir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Aynı kent sorununa yasa, sınıf, dayanışma, dernek, seçkin ve anlam haritaları üst üste konur. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Çoğulluk her yorumun eşit doğru olduğu anlamına gelmez; kanıt ve açıklama gücü gerekir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Bir toplumsal olayda en az iki rakip mercek seçip her birinin gördüğü ve kaçırdığı ayrıntıyı yazmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Aron yedi düşünürü basitten gelişmişe dizmez ve sonunda tek doğru sosyoloji ilan etmez. 'Aşamalar' başlığı, düşünce tarihindeki soruların ve modern toplumun dönüşen görünüşlerinin izini sürer.",
+        "İşsizlik yalnız Marx'ın sınıf merceğiyle veya Durkheim'ın anomi merceğiyle okunmak zorunda değildir; ücret ilişkisi, bağ kaybı, bürokrasi ve kişinin anlamı aynı olayda birleşebilir.",
+        "Sosyolojik Düşüncenin Aşamaları için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap klasik sosyoloji düşüncesine en geniş ve okunabilir girişlerden biri oldu; özellikle Avrupa geleneğinin büyük sistemlerini karşılaştırma biçimiyle derslerde kalıcı yer edindi.",
+        "Seçtiği kanonun Avrupa ve erkek merkezli olduğu, sömürgecilik ile ırkı tali tuttuğu ve Aron'un liberal sanayi toplumu çerçevesinin yorumları etkilediği eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Sosyolojik Düşüncenin Aşamaları bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Hangi düşünür hangi soruyla başlıyor? Aynı olayda anlam ile yapı nasıl birleşiyor? Seçtiğim mercek kimi görünmez bırakıyor?",
+        "Bir güncel haber seçin ve onu Marx, Tocqueville, Durkheim ve Weber'in sorularıyla dört kısa paragrafta yeniden okuyun.",
+        "Sosyolojik Düşüncenin Aşamaları bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Sosyoloji tek bir anahtar değil, modern toplumun düzen, çatışma, özgürlük ve anlamını farklı açılardan gösteren güçlü mercekler ailesidir.",
+        "Akılda tutulacak son görüntü, mor, toprak ve pirinç tonlarında aynı sanayi kentini çevreleyen yedi gözlem kulesinin ışınlarının merkezde bir toplumsal haritaya dönüştüğü katmanlı panoramadır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Sosyolojik Düşüncenin Aşamaları adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-sosyoloji-neden-birden-fazla-kurucuya-sahiptir": {
+      "image": "/images/summary-art-105-chapter-01-sosyoloji-neden-birden-fazla-kurucuya-sahiptir-v1.webp",
+      "imageCaption": "Sosyoloji neden birden fazla kurucuya sahiptir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-montesquieu-yasalar-bir-iklimde-yasar": {
+      "image": "/images/summary-art-105-chapter-02-montesquieu-yasalar-bir-iklimde-yasar-v1.webp",
+      "imageCaption": "Montesquieu: Yasalar bir iklimde yaşar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-montesquieu-gucu-gucle-sinirlamak": {
+      "image": "/images/summary-art-105-chapter-03-montesquieu-gucu-gucle-sinirlamak-v1.webp",
+      "imageCaption": "Montesquieu: Gücü güçle sınırlamak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-comte-bilimlerin-sirasi-ve-pozitif-cag": {
+      "image": "/images/summary-art-105-chapter-04-comte-bilimlerin-sirasi-ve-pozitif-cag-v1.webp",
+      "imageCaption": "Comte: Bilimlerin sırası ve pozitif çağ düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-marx-tarihin-motorunda-uretim": {
+      "image": "/images/summary-art-105-chapter-05-marx-tarihin-motorunda-uretim-v1.webp",
+      "imageCaption": "Marx: Tarihin motorunda üretim düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-marx-yabancilasma-ve-somuru": {
+      "image": "/images/summary-art-105-chapter-06-marx-yabancilasma-ve-somuru-v1.webp",
+      "imageCaption": "Marx: Yabancılaşma ve sömürü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-tocqueville-esitlik-caginin-cifte-yuzu": {
+      "image": "/images/summary-art-105-chapter-07-tocqueville-esitlik-caginin-cifte-yuzu-v1.webp",
+      "imageCaption": "Tocqueville: Eşitlik çağının çifte yüzü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-tocqueville-dernekler-ozgurlugun-okuludur": {
+      "image": "/images/summary-art-105-chapter-08-tocqueville-dernekler-ozgurlugun-okuludur-v1.webp",
+      "imageCaption": "Tocqueville: Dernekler özgürlüğün okuludur düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-durkheim-toplumsal-olguyu-sey-gibi-incelemek": {
+      "image": "/images/summary-art-105-chapter-09-durkheim-toplumsal-olguyu-sey-gibi-incelemek-v1.webp",
+      "imageCaption": "Durkheim: Toplumsal olguyu şey gibi incelemek düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-durkheim-is-bolumu-ve-dayanisma": {
+      "image": "/images/summary-art-105-chapter-10-durkheim-is-bolumu-ve-dayanisma-v1.webp",
+      "imageCaption": "Durkheim: İş bölümü ve dayanışma düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-durkheim-anomi-ve-intihar": {
+      "image": "/images/summary-art-105-chapter-11-durkheim-anomi-ve-intihar-v1.webp",
+      "imageCaption": "Durkheim: Anomi ve intihar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-pareto-mantiksiz-eylemin-mantigi": {
+      "image": "/images/summary-art-105-chapter-12-pareto-mantiksiz-eylemin-mantigi-v1.webp",
+      "imageCaption": "Pareto: Mantıksız eylemin mantığı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-pareto-seckinlerin-dolasimi": {
+      "image": "/images/summary-art-105-chapter-13-pareto-seckinlerin-dolasimi-v1.webp",
+      "imageCaption": "Pareto: Seçkinlerin dolaşımı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-weber-anlami-anlayarak-aciklamak": {
+      "image": "/images/summary-art-105-chapter-14-weber-anlami-anlayarak-aciklamak-v1.webp",
+      "imageCaption": "Weber: Anlamı anlayarak açıklamak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-weber-rasyonellesme-ve-demir-kafes": {
+      "image": "/images/summary-art-105-chapter-15-weber-rasyonellesme-ve-demir-kafes-v1.webp",
+      "imageCaption": "Weber: Rasyonelleşme ve demir kafes düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-yedi-mercekten-ortak-bir-sosyoloji": {
+      "image": "/images/summary-art-105-chapter-16-yedi-mercekten-ortak-bir-sosyoloji-v1.webp",
+      "imageCaption": "Yedi mercekten ortak bir sosyoloji düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}
