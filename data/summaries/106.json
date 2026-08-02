@@ -1,0 +1,354 @@
+{
+  "bookNo": 106,
+  "title": "Hapishane Defterleri",
+  "author": "Antonio Gramsci",
+  "subtitle": "İktidarın yalnız polis ve yasayla değil okul, gazete, kilise, dil ve gündelik sağduyu içinde rıza üreterek yaşadığını; değişimin uzun bir kültür ve örgütlenme mücadelesi istediğini anlatan hapishane düşüncesi.",
+  "coverImage": "/images/summary-cover-106-hapishane-defterleri-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/106-hapishane-defterleri-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#8B4A3A",
+  "meta": {
+    "originalTitle": "Quaderni del carcere / Prison Notebooks",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir işçi kendi zararına olan düzeni neden doğal ve değişmez sayar? Gramsci cevabı yalnız korkuda aramaz. Çocukken duyulan atasözü, okul kitabı, gazete manşeti ve 'başka türlüsü olmaz' cümlesi birlikte bir dünya görüşü kurar. İktidar bazen tam da normal görünerek güçlüdür.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Columbia University Press - Prison Notebooks",
+      "url": "https://cup.columbia.edu/book/prison-notebooks/9780231060837/"
+    },
+    {
+      "id": 2,
+      "title": "International Gramsci Society - Resources",
+      "url": "https://www.internationalgramscisociety.org/resources/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "İktidarın yalnız polis ve yasayla değil okul, gazete, kilise, dil ve gündelik sağduyu içinde rıza üreterek yaşadığını; değişimin uzun bir kültür ve örgütlenme mücadelesi istediğini anlatan hapishane düşüncesi.",
+        "Defterler faşist hapishanede sansür altında, parçalı ve tekrarlarla yazılmıştır; sonradan düzenlenen tek kitap planı değildir. Rehber hegemonya, sivil toplum, aydınlar, sağduyu, mevzi savaşı ve pasif devrim hatlarını bağlar; Gramsci'yi hazır slogan makinesine dönüştürmez.",
+        "Savcı Gramsci için 'bu beynin yirmi yıl çalışmasını durdurmalıyız' der. Hapishane bedeni sınırlar ama defterler okuldan fabrikaya uzanan iktidar haritasını üretir. Düşünce, tam susturulmak istendiği yerde rızanın nasıl kurulduğunu araştırır."
+      ]
+    },
+    {
+      "id": "durak-02-hapishanede-parcali-dusunce",
+      "section": "BİRİNCİ KISIM · DEFTERLER",
+      "title": "Hapishanede parçalı düşünce",
+      "paragraphs": [
+        "Gramsci sansür, hastalık ve sınırlı kaynak altında kavramlarını dolaylı adlarla ve tekrar tekrar geliştirir. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Machiavelli üzerine not görünürde eski tarih anlatırken güncel parti ve liderlik sorununu da tartışır. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Tek bir cümleyi bağlamından koparıp son görüş saymak yanıltıcıdır. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Bir alıntının tarihini, defterdeki komşularını ve sonraki yeniden yazımını kontrol etmek gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-03-hegemonya-zor-ile-rizanin-birlesmesi",
+      "section": "İKİNCİ KISIM · İKTİDAR",
+      "title": "Hegemonya: Zor ile rızanın birleşmesi",
+      "paragraphs": [
+        "Egemen grup yalnız baskı uygulamaz; kendi çıkarını ortak akıl ve doğal düzen gibi kabul ettiren rıza da kurar. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Uzun çalışma saatleri fedakâr yurttaşlık diye övülürken itiraz eden kişi bencil gösterilebilir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Rıza tamamen özgür değildir, baskı da ortadan kalkmaz. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Bir kurumun kuralında ceza kadar insanların onu neden haklı bulduğunu araştırmak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Hegemonya: Zor ile rızanın birleşmesi” ile Hapishane Defterleri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-siyasal-toplum-ve-sivil-toplum",
+      "section": "İKİNCİ KISIM · DEVLET",
+      "title": "Siyasal toplum ve sivil toplum",
+      "paragraphs": [
+        "Gramsci devleti yalnız hükümet ve polisten değil, okul, basın, dernek ve gündelik kültürle birlikte işleyen geniş bir düzen olarak düşünür. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Yasa eşitlik derken okul kitabı bazı insanları doğal yönetici, bazılarını yardımcı rolünde gösterir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Sivil toplum her zaman egemenlerin tek yönlü aracı değildir ve direniş alanı da olabilir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Bir politikanın mahkeme dışındaki öğretim, medya ve meslek örgütü ayağını da izlemek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Siyasal toplum ve sivil toplum” ile Hapishane Defterleri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-butunlesik-devlet",
+      "section": "İKİNCİ KISIM · AĞ",
+      "title": "Bütünleşik devlet",
+      "paragraphs": [
+        "Zor aygıtı ile rıza kurumları birlikte çalıştığında iktidar kalın bir savunma ağına dönüşür. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Fabrika kuralı işten çıkarma tehdidiyle, başarı hikâyeleri ve aile öğütleriyle aynı anda güçlenir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Her kurum merkezden yönetilen tek komplo değildir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Aynı düşüncenin farklı kurumlarda bağımsız çıkarlarla nasıl tekrarlandığını görmek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-06-geleneksel-aydin",
+      "section": "ÜÇÜNCÜ KISIM · AYDINLAR",
+      "title": "Geleneksel aydın",
+      "paragraphs": [
+        "Öğretmen, din görevlisi ve yazar kendini sınıfların üstünde görse de tarihsel düzen içinde belirli işlev ve bağlılık taşır. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Gazeteci yalnız gerçeği anlattığını söyler ama hangi konuya sayfa verdiği yerleşmiş önceliği yeniden üretir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Mesleki özerklik bütünüyle sahte değildir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Bir uzmanın bilgisini küçümsemeden kurum, gelir ve hedef ilişkisini de sormak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Geleneksel aydın” ile Hapishane Defterleri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-organik-aydin",
+      "section": "ÜÇÜNCÜ KISIM · ÖRGÜTLEYİCİ",
+      "title": "Organik aydın",
+      "paragraphs": [
+        "Her yükselen toplumsal grup kendi deneyimini dile, örgüte ve ortak projeye çeviren organik aydınlar üretir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Depo çalışanı iş arkadaşlarının dağınık şikâyetini veri, toplantı ve talep metnine dönüştürür. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Organik aydın yalnız ünlü konuşmacı veya parti görevlisi değildir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir toplulukta deneyimi ortak öğrenmeye çeviren görünmez kişileri fark etmek gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-08-herkes-dusunur-ama-herkesin-isi-dusunmek-degildir",
+      "section": "ÜÇÜNCÜ KISIM · KAPASİTE",
+      "title": "Herkes düşünür ama herkesin işi düşünmek değildir",
+      "paragraphs": [
+        "Gramsci her insanın dünya görüşü ve düşünsel faaliyeti olduğunu, fakat toplumun yalnız bazılarına aydın görevi verdiğini söyler. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Usta işçi makinenin sesinden sorunu çözer ama bilgisi yönetim raporunda uzmanlık sayılmaz. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Deneyim bilgisi teknik eğitimin bütün görevlerini karşılamaz. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Kararda diploma bilgisiyle işi yaşayanların bilgisini gerçek söz hakkıyla buluşturmak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Herkes düşünür ama herkesin işi düşünmek değildir” ile Hapishane Defterleri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-sagduyu-celiskili-bohca",
+      "section": "DÖRDÜNCÜ KISIM · GÜNDELİK AKIL",
+      "title": "Sağduyu: Çelişkili bohça",
+      "paragraphs": [
+        "Gündelik sağduyu geçmiş inanç, egemen fikir ve gerçek deneyimden oluşan tutarsız bir karışımdır. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Kişi 'kader böyle' derken aynı gün haksız ücrete karşı komşularıyla örgütlenebilir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Halk düşüncesini yalnız yanlış bilinç diye küçümsemek dönüşümü imkânsızlaştırır. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Bir yaygın sözde teslimiyetle direniş tohumunu ayrı ayrı bulmak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-10-iyi-duyu-icerideki-saglam-cekirdek",
+      "section": "DÖRDÜNCÜ KISIM · ELEŞTİRİ",
+      "title": "İyi duyu: İçerideki sağlam çekirdek",
+      "paragraphs": [
+        "Sağduyunun içinde yaşanmış deneyimden doğan daha tutarlı ve eleştirel 'iyi duyu' gelişebilir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Mahalleli yoksulluğu tembellik diye tekrarlar ama aynı insanların iki işte çalıştığını görünce söz çatlar. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Tek bir deneyim bütün sistemi açıklamaz. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Çelişkiyi utandırmadan görünür kılan soru ortak öğrenmenin başlangıcı olabilir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “İyi duyu: İçerideki sağlam çekirdek” ile Hapishane Defterleri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-felsefe-bir-gundelik-istir",
+      "section": "DÖRDÜNCÜ KISIM · PRATİK",
+      "title": "Felsefe bir gündelik iştir",
+      "paragraphs": [
+        "Dünya görüşü davranışta yaşandığı için felsefe yalnız kitap yazanların değil herkesin pratik seçimlerinde bulunur. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "'İnsan değişmez' diyen yönetici eğitim bütçesini keserek felsefi varsayımını kuruma dönüştürür. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Her sıradan görüş aynı tutarlılık ve kanıt düzeyinde değildir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir kararın arkasındaki insan, tarih ve değişim varsayımını açık cümleye çevirmek gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-12-mevzi-savasi",
+      "section": "BEŞİNCİ KISIM · STRATEJİ",
+      "title": "Mevzi savaşı",
+      "paragraphs": [
+        "Gelişmiş sivil toplumda iktidar tek sarayı ele geçirerek değişmez; okul, medya, sendika ve kültürde uzun süreli mevzi mücadelesi gerekir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Seçimi kazanmak kolay olabilir ama ders kitapları, işyeri alışkanlığı ve kamu dili yıllarca eski düzeni taşır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Uzun mücadele erteleme ve bürokrasi bahanesine dönüşebilir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Kısa siyasi hedefi kalıcı kurum, eğitim ve katılım çalışmasıyla bağlamak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Mevzi savaşı” ile Hapishane Defterleri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-manevra-savasi",
+      "section": "BEŞİNCİ KISIM · HÜCUM",
+      "title": "Manevra savaşı",
+      "paragraphs": [
+        "Devlet ile toplum bağının zayıf olduğu krizlerde hızlı doğrudan hamle mümkün olabilir; Gramsci bunu manevra savaşı diye ayırır. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Çökmüş rejimde büyük gösteri hükümeti değiştirir ama yeni gündelik düzen henüz kurulmamıştır. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Askerî benzetme toplumsal hayatı dost-düşman ikiliğine sıkıştırabilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Hızlı değişimin ardından rıza, hukuk ve kurum kurma aşamasını planlamak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Manevra savaşı” ile Hapishane Defterleri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-14-pasif-devrim",
+      "section": "BEŞİNCİ KISIM · YUKARIDAN DEĞİŞİM",
+      "title": "Pasif devrim",
+      "paragraphs": [
+        "Egemenler halk talebinin bir bölümünü benimseyip onu denetimli yukarıdan reformla etkisizleştirebilir ve düzeni yenileyebilir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Şirket çalışanların katılım talebine danışma uygulaması açar ama karar yetkisini değiştirmez. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Her reform sahte değildir ve gerçek kazanım sağlayabilir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Değişimde sonuç kadar kimin karar gücü ve örgüt kapasitesi kazandığını ölçmek gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-15-tarihsel-blok",
+      "section": "ALTINCI KISIM · BAĞ",
+      "title": "Tarihsel blok",
+      "paragraphs": [
+        "Fikirler, kurumlar, üretim ilişkileri ve toplumsal ittifaklar birlikte tutarlı bir tarihsel blok oluşturur. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Ucuz otomobil yalnız fabrika ürünü değil yol, kredi, reklam, aile ideali ve devlet yatırımıyla yaşam biçimine dönüşür. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Bütün ilişkileri tek merkezli plan gibi görmek yanlıştır. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir ekonomik düzeni üründen başlayıp kültür, altyapı ve koalisyonlara doğru izlemek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Tarihsel blok” ile Hapishane Defterleri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-amerikanizm-ve-fordizm",
+      "section": "ALTINCI KISIM · FABRİKA",
+      "title": "Amerikanizm ve Fordizm",
+      "paragraphs": [
+        "Kitle üretimi yalnız makineyi değil işçi disiplini, ücret, tüketim ve özel yaşamı birlikte yeniden düzenler. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Yüksek ücret alan işçi otomobil satın alır ama bant ritmi ve şirketin ahlak gözetimi hayatına kadar uzanır. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Fordizm her ülkede aynı biçimde kurulmadı ve işçiler edilgen kalmadı. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Yeni çalışma teknolojisinin ücret yanında zaman, beden ve ev hayatını nasıl değiştirdiğini sormak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-17-kotumser-akil-iyimser-irade",
+      "section": "YEDİNCİ KISIM · SONUÇ",
+      "title": "Kötümser akıl, iyimser irade",
+      "paragraphs": [
+        "Koşullar ağır görünse de doğru analiz umutsuz teslimiyet değil, örgütlü ve sabırlı eylem için gereklidir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Hapisteki yazar sağlığının bozulduğunu bilir ama bir sonraki defterde kavramını daha açık kurar. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "İrade sözü yapısal engelleri kişisel motivasyonla aşma masalına dönüşmemelidir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Zorluğu dürüstçe ölçüp küçük ama birikimli ortak adımı seçmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Kötümser akıl, iyimser irade” ile Hapishane Defterleri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Hegemonya, insanları uzaktan hipnotize eden tek propaganda merkezi değildir. Rıza gerçek ihtiyaçlar, kurumlar ve gündelik deneyim içinde kurulur; çatlaklar taşır ve karşı-hegemonya ihtimali de aynı alanlarda doğar.",
+        "Bir haber kanalının etkisi tek başına yetmez; okul, işyeri, aile sözü ve ekonomik bağımlılık aynı fikri normalleştiriyorsa hegemonya kalınlaşır. İnsanlar yine de bu ağı deneyimleriyle sorgulayabilir.",
+        "Hapishane Defterleri için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Hegemonya, organik aydın, sivil toplum ve mevzi savaşı kavramları siyaset kuramı, kültürel çalışmalar, eğitim ve toplumsal hareket analizlerinin temel araçları oldu.",
+        "Defterlerin parçalı yapısı farklı ve bazen çelişen Gramsci yorumlarına yol açtı; sınıf merkezli dilin toplumsal cinsiyet, ırk ve sömürge deneyimini ne ölçüde kapsadığı tartışıldı.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Hapishane Defterleri bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Bu düzen rızayı hangi kurumlarda üretiyor? Sağduyudaki hangi çatlak iyi duyuya açılıyor? Kısa zaferi kalıcı mevziye ne dönüştürür?",
+        "Size çok doğal gelen bir iş veya toplum kuralını seçin. Onu destekleyen aile sözü, medya görüntüsü, okul öğretisi ve maddi yaptırımı dört sütunda yazın.",
+        "Hapishane Defterleri bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İktidar yalnız zor kullanarak değil, kendi dünya görüşünü gündelik sağduyuya dönüştürerek yaşar; kalıcı değişim bu rıza ağında yeni dil, aydın ve kurumlar kurmayı gerektirir.",
+        "Akılda tutulacak son görüntü, tuğla kırmızısı, kömür siyahı ve kâğıt kremi tonlarında hapishane parmaklıklarından dışarı uzanan defter çizgilerinin okul, gazete, fabrika ve meydanı birbirine bağladığı dirençli bir şehir ağıdır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Hapishane Defterleri adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-hapishanede-parcali-dusunce": {
+      "image": "/images/summary-art-106-chapter-01-hapishanede-parcali-dusunce-v1.webp",
+      "imageCaption": "Hapishanede parçalı düşünce düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-hegemonya-zor-ile-rizanin-birlesmesi": {
+      "image": "/images/summary-art-106-chapter-02-hegemonya-zor-ile-rizanin-birlesmesi-v1.webp",
+      "imageCaption": "Hegemonya: Zor ile rızanın birleşmesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-siyasal-toplum-ve-sivil-toplum": {
+      "image": "/images/summary-art-106-chapter-03-siyasal-toplum-ve-sivil-toplum-v1.webp",
+      "imageCaption": "Siyasal toplum ve sivil toplum düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-butunlesik-devlet": {
+      "image": "/images/summary-art-106-chapter-04-butunlesik-devlet-v1.webp",
+      "imageCaption": "Bütünleşik devlet düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-geleneksel-aydin": {
+      "image": "/images/summary-art-106-chapter-05-geleneksel-aydin-v1.webp",
+      "imageCaption": "Geleneksel aydın düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-organik-aydin": {
+      "image": "/images/summary-art-106-chapter-06-organik-aydin-v1.webp",
+      "imageCaption": "Organik aydın düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-herkes-dusunur-ama-herkesin-isi-dusunmek-degildir": {
+      "image": "/images/summary-art-106-chapter-07-herkes-dusunur-ama-herkesin-isi-dusunmek-degil-v1.webp",
+      "imageCaption": "Herkes düşünür ama herkesin işi düşünmek değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-sagduyu-celiskili-bohca": {
+      "image": "/images/summary-art-106-chapter-08-sagduyu-celiskili-bohca-v1.webp",
+      "imageCaption": "Sağduyu: Çelişkili bohça düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-iyi-duyu-icerideki-saglam-cekirdek": {
+      "image": "/images/summary-art-106-chapter-09-iyi-duyu-icerideki-saglam-cekirdek-v1.webp",
+      "imageCaption": "İyi duyu: İçerideki sağlam çekirdek düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-felsefe-bir-gundelik-istir": {
+      "image": "/images/summary-art-106-chapter-10-felsefe-bir-gundelik-istir-v1.webp",
+      "imageCaption": "Felsefe bir gündelik iştir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-mevzi-savasi": {
+      "image": "/images/summary-art-106-chapter-11-mevzi-savasi-v1.webp",
+      "imageCaption": "Mevzi savaşı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-manevra-savasi": {
+      "image": "/images/summary-art-106-chapter-12-manevra-savasi-v1.webp",
+      "imageCaption": "Manevra savaşı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-pasif-devrim": {
+      "image": "/images/summary-art-106-chapter-13-pasif-devrim-v1.webp",
+      "imageCaption": "Pasif devrim düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-tarihsel-blok": {
+      "image": "/images/summary-art-106-chapter-14-tarihsel-blok-v1.webp",
+      "imageCaption": "Tarihsel blok düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-amerikanizm-ve-fordizm": {
+      "image": "/images/summary-art-106-chapter-15-amerikanizm-ve-fordizm-v1.webp",
+      "imageCaption": "Amerikanizm ve Fordizm düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-kotumser-akil-iyimser-irade": {
+      "image": "/images/summary-art-106-chapter-16-kotumser-akil-iyimser-irade-v1.webp",
+      "imageCaption": "Kötümser akıl, iyimser irade düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

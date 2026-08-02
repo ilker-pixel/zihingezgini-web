@@ -1,0 +1,351 @@
+{
+  "bookNo": 293,
+  "title": "Yaşamın Ağı",
+  "author": "Fritjof Capra",
+  "subtitle": "Canlılığı tek tek parçalardan çok ilişki, geri bildirim, kendini örgütleme ve ağ örüntüsü içinde gören; hücreden ekosisteme uzanan sistem düşüncesini sürdürülebilir yaşam çağrısına bağlayan geniş sentez.",
+  "coverImage": "/images/summary-cover-293-yasamin-agi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/293-yasamin-agi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#2F7D65",
+  "meta": {
+    "originalTitle": "The Web of Life",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Ormandaki ağacı tek başına düşündüğümüzde gövde ve yaprak görürüz. Toprağın altına baktığımızda mantar ağları, bakteriler, su, kökler ve komşu ağaçlarla sürekli alışveriş çıkar. Ağaç kaybolmaz; fakat ne olduğu ilişkilerinden ayrı anlaşılamaz. Capra'nın yaşam ağı tam bu bakış değişimidir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Penguin Random House - The Web of Life",
+      "url": "https://www.penguinrandomhouse.com/books/23768/the-web-of-life-by-fritjof-capra/"
+    },
+    {
+      "id": 2,
+      "title": "Fritjof Capra - The Web of Life",
+      "url": "https://www.fritjofcapra.net/books/the-web-of-life/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Canlılığı tek tek parçalardan çok ilişki, geri bildirim, kendini örgütleme ve ağ örüntüsü içinde gören; hücreden ekosisteme uzanan sistem düşüncesini sürdürülebilir yaşam çağrısına bağlayan geniş sentez.",
+        "Kitap fizik, biyoloji, sibernetik, karmaşıklık, biliş ve ekoloji arasında büyük bir köprü kurar. Rehber bilimsel kavramları gündelik sahnelerle açar; Gaia, öz-örgütlenme ve yaşam-biliş birliği gibi geniş sentezleri kesinleşmiş tek teori gibi sunmaz.",
+        "Bir göle fazla gübre karışır. Alg çoğalır, ışık azalır, oksijen düşer, balık ölür ve çürüme daha çok oksijen tüketir. Tek bir neden çizgisi yerine birbirini büyüten döngü vardır. Sistem düşüncesi bu döngüyü parçalara bakarken kaybetmemeyi öğretir."
+      ]
+    },
+    {
+      "id": "durak-02-parcadan-butune-bakis",
+      "section": "BİRİNCİ KISIM · DEĞİŞİM",
+      "title": "Parçadan bütüne bakış",
+      "paragraphs": [
+        "Sistem düşüncesi bütünü parçaların toplamı değil, ilişkilerden doğan özellikleri olan örgütlü ağ olarak görür. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Tek kalp hücresi ritim taşıyabilir ama dolaşım ancak damar, kan, sinir ve organ ilişkisiyle yaşamı sürdürür. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Bütüne bakmak parçaların ayrıntılı incelemesini gereksiz yapmaz. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Bir sorunda öğe listesinden sonra öğeler arasındaki akış ve geri bildirimi çizmek gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-03-derin-ekoloji",
+      "section": "BİRİNCİ KISIM · DEĞER",
+      "title": "Derin ekoloji",
+      "paragraphs": [
+        "Derin ekoloji insanı doğanın dış yöneticisi değil, karşılıklı bağımlı yaşam topluluğunun üyesi sayar. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Şehir suyunu yalnız musluk hizmeti değil havza, orman, yağış ve çiftçi ağı olarak görür. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "İnsan ihtiyaçlarını küçümsemek çevre adaletini zedeler. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Ekolojik kararda fayda kadar yükün yoksul ve gelecek kuşaklara dağılımını da sormak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Derin ekoloji” ile Yaşamın Ağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-mekanik-dunya-resmi",
+      "section": "İKİNCİ KISIM · ESKİ PARADİGMA",
+      "title": "Mekanik dünya resmi",
+      "paragraphs": [
+        "Modern bilimin bir döneminde doğa saat gibi ayrı parçalara ayrılan ve dışarıdan yönetilen makine olarak tasarlandı. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Fabrikada arızalı işçi parça gibi değiştirilir; dinlenme ve ilişki üretimin dışında sayılır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Mekanik model mühendislikte çok başarılıdır ve bütünüyle atılmaz. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Modelin işe yaradığı dar alanla canlı ve toplumsal sisteme taşındığında kaybettiklerini ayırmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-05-orgutlu-butunler",
+      "section": "İKİNCİ KISIM · SİSTEM",
+      "title": "Örgütlü bütünler",
+      "paragraphs": [
+        "Canlı sistemin temel özelliği maddesinden çok parçaların sürekli yenilenirken koruduğu örgütlenme örüntüsüdür. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Vücuttaki moleküller değişir ama metabolik ilişkiler sürdüğü için organizma devam eder. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Örüntü sözü maddi enerji ve sınır ihtiyacını silmemelidir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir kurumda insan değişse de süren karar ve bilgi akışını haritalamak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Örgütlü bütünler” ile Yaşamın Ağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-geri-bildirim-donguleri",
+      "section": "ÜÇÜNCÜ KISIM · SİBERNETİK",
+      "title": "Geri bildirim döngüleri",
+      "paragraphs": [
+        "Bir sistemin çıktısı kendisine dönerek değişimi azaltabilir veya büyütebilir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Termostat ısı yükselince kazanı kapatır; sosyal medyada öfke daha çok görünürlük, görünürlük daha çok öfke üretir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Her dairesel ilişki gerçek nedensel geri bildirim değildir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Döngüde ölçülebilir bağlantıları, gecikmeyi ve kırılabilecek noktayı ayrı belirlemek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-07-ag-canliligin-temel-oruntusu",
+      "section": "ÜÇÜNCÜ KISIM · BAĞ",
+      "title": "Ağ canlılığın temel örüntüsü",
+      "paragraphs": [
+        "Hücre içi tepkilerden ekosisteme kadar yaşam, birbirini besleyen ve sınırlayan ağlar halinde örgütlenir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Arı çiçeği tozlaştırır, çiçek arıyı besler ve mevsim ikisinin zamanını birlikte düzenler. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Ağ dili güç farkını ve tek yönlü sömürüyü romantik karşılıklılık gibi gösterebilir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Bağın iki tarafa sağladığı fayda, maliyet ve çıkış imkanını ayrı görmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Ağ canlılığın temel örüntüsü” ile Yaşamın Ağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-kendiliginden-orgutlenme",
+      "section": "DÖRDÜNCÜ KISIM · DÜZEN",
+      "title": "Kendiliğinden örgütlenme",
+      "paragraphs": [
+        "Açık sistemler merkezî komut olmadan yerel etkileşimlerden yeni düzen ve davranış üretebilir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Karınca tek başına şehir planı bilmez ama iz ve koku kurallarıyla yuva yolları oluşur. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Kendiliğinden düzen her zaman adil veya dayanıklı değildir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bir toplulukta düzeni kuran küçük tekrarları bulup kimin dışlandığını da incelemek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Kendiliğinden örgütlenme” ile Yaşamın Ağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-dengesizlik-yasami-besler",
+      "section": "DÖRDÜNCÜ KISIM · AKIŞ",
+      "title": "Dengesizlik yaşamı besler",
+      "paragraphs": [
+        "Canlılar dengede duran kapalı nesneler değil, enerji ve madde akışıyla uzak dengede biçimini koruyan yapılardır. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Mum alevi sürekli yakıt ve oksijen alır, atık çıkarır; akış durunca biçim söner. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Canlıyı alevle benzetmek üreme ve kalıtımın bütününü açıklamaz. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir sistemin sürekliliği için hangi giriş, çıkış ve yenilenme akışına bağımlı olduğunu sormak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-10-dagitici-yapilar",
+      "section": "DÖRDÜNCÜ KISIM · PRIGOGINE",
+      "title": "Dağıtıcı yapılar",
+      "paragraphs": [
+        "Enerji tüketen açık sistemlerde dalgalanma belirli eşikte eski düzeni bozup yeni örgütlenme biçimi doğurabilir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Isıtılan sıvıda düzensiz hareket belli sıcaklıkta düzenli altıgen akımlara dönüşür. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Fiziksel modeli toplum tarihine doğrudan yasa gibi taşımak tehlikelidir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Benzetmeyi tahmin değil, kriz sırasında alternatif düzen ihtimalini düşünme aracı olarak kullanmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Dağıtıcı yapılar” ile Yaşamın Ağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-kaos-ve-ongoru-siniri",
+      "section": "DÖRDÜNCÜ KISIM · KARMAŞIKLIK",
+      "title": "Kaos ve öngörü sınırı",
+      "paragraphs": [
+        "Basit kurallı doğrusal olmayan sistemler başlangıçtaki küçük farka aşırı duyarlı olup uzun vadede öngörülemez davranabilir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Hava modelindeki çok küçük ölçüm farkı haftalar sonra bambaşka tahmine dönüşür. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Kaos rastgelelik veya her şey mümkündür demek değildir; belirli biçimler ve sınırlar taşır. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Uzun tahmin yerine sık güncellenen kısa tahmin ve dayanıklılık planı kurmak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-12-fraktal-ve-oruntu",
+      "section": "BEŞİNCİ KISIM · BİÇİM",
+      "title": "Fraktal ve örüntü",
+      "paragraphs": [
+        "Doğadaki bazı biçimler farklı ölçeklerde benzer dallanma ve kıvrım örüntülerini tekrarlar. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Ağacın dalı, akciğer bronşu ve nehir kolu alanı verimli kullanmak için dallanır. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Görsel benzerlik aynı neden veya canlılık kanıtı değildir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Benzer örüntüde işlev, ölçek ve oluşum mekanizmasını ayrı karşılaştırmak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Fraktal ve örüntü” ile Yaşamın Ağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-autopoiesis-kendini-ureten-ag",
+      "section": "BEŞİNCİ KISIM · CANLI",
+      "title": "Autopoiesis: Kendini üreten ağ",
+      "paragraphs": [
+        "Canlı sistem bileşenlerini üreten süreç ağıyla kendi sınır ve örgütlenmesini sürekli yeniden kurar. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Hücre zar üretir, zar tepkileri içeride tutar, tepkiler yeni zar bileşeni üretir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Autopoiesis tek başına evrim, gelişim ve çok hücreli yaşamın bütün ayrıntısını açıklamaz. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bir yapının çıktısının kendi üretim koşullarını nasıl yenilediğini izlemek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-14-bilis-yasam-surecidir",
+      "section": "BEŞİNCİ KISIM · ZİHİN",
+      "title": "Biliş yaşam sürecidir",
+      "paragraphs": [
+        "Capra, Maturana ve Varela çizgisinde bilişi çevreden hazır bilgi almak değil canlının yapısına göre anlamlı değişim üretmesi olarak ele alır. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Bakteri şekeri insan gibi düşünmez ama kimyasal farkı yaşamını sürdüren hareket yönüne çevirir. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Bütün canlı tepkiyi bilinçli düşünceyle eşitlemek kavramları bulanıklaştırır. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Biliş, sinir sistemi ve bilinç düzeylerini benzerlikleri kadar farklarıyla ayırmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Biliş yaşam sürecidir” ile Yaşamın Ağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-gaia-gezegen-capinda-geri-bildirim",
+      "section": "ALTINCI KISIM · DÜNYA",
+      "title": "Gaia: Gezegen çapında geri bildirim",
+      "paragraphs": [
+        "Gaia yaklaşımı canlılar ile atmosfer, okyanus ve kaya döngülerinin yaşamı sürdüren koşulları karşılıklı etkilediğini vurgular. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Bitkiler karbonu, bulut ve sıcaklık döngülerini değiştirirken iklim de hangi bitkinin yaşayacağını belirler. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Dünya bilinçli anne gibi davranmak zorunda değildir ve denge her türü korumaz. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Gaia'yı amaçlı varlık yerine gezegensel geri bildirim hipotezleri olarak sınamak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-16-evrim-rekabetten-fazlasidir",
+      "section": "ALTINCI KISIM · TARİH",
+      "title": "Evrim rekabetten fazlasıdır",
+      "paragraphs": [
+        "Yaşam tarihi yalnız en güçlünün yarışı değil ortakyaşam, işbirliği ve birlikte değişim süreçleri de içerir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Bir zamanlar bağımsız bakterilerin hücre içinde mitokondri olarak ortak yaşama katıldığı anlatılır. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "İşbirliğini öne çıkarmak rekabet, avlanma ve çatışmayı yok etmez. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Bir ekosistemde rekabet ile karşılıklı bağımlılığın hangi koşullarda değiştiğini görmek gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-17-ekolojik-okuryazarlik",
+      "section": "YEDİNCİ KISIM · SÜRDÜRÜLEBİLİRLİK",
+      "title": "Ekolojik okuryazarlık",
+      "paragraphs": [
+        "Sürdürülebilir toplumlar atık, enerji, çeşitlilik, döngü ve ortaklık açısından ekosistemlerin uzun deneyiminden öğrenmelidir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Bir işletmenin atık ısısı komşu serayı, organik kalanı toprağı besler ve doğrusal çöp zinciri döngüye yaklaşır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Doğada olan her şey ahlaki model değildir ve ölçek farkı önemlidir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir ürünün kaynağını, kullanımını ve atığını tek yaşam döngüsü haritasında izlemek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Ekolojik okuryazarlık” ile Yaşamın Ağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Capra 'her şey birbirine bağlı, o halde ayrıntı ve kanıt gereksiz' demez. Sistem bakışı parçaları incelemeyi sürdürür; yalnız parçaların ilişki, geri bildirim ve tarih içinde kazandığı özellikleri kaybetmemeyi ister.",
+        "Göldeki balık ölümü yalnız 'ağ bozuldu' cümlesiyle açıklanmaz. Gübre, alg, ışık, oksijen ve çürüme adımları ölçülür; ağ düşüncesi bu ayrıntıların döngüsünü birlikte tutar.",
+        "Yaşamın Ağı için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap sistem düşüncesi, karmaşıklık ve ekolojiyi geniş okura bir arada sunarak sürdürülebilirlik eğitiminde etkili oldu; ağ metaforunu canlılığın ortak dili haline getirdi.",
+        "Farklı bilim alanlarını tek paradigma altında fazla rahat birleştirdiği, bazı toplumsal sonuçları biyolojik benzetmeden çıkardığı, Gaia ve derin ekolojiye normatif anlam yüklediği, mistik dil ile bilimi zaman zaman karıştırdığı eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Yaşamın Ağı bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Bu bütünün özelliği hangi ilişkiden doğuyor? Hangi geri bildirim değişimi büyütüyor? Çözüm bir yerdeki sorunu ağın başka yerine taşıyor mu?",
+        "Evde kullandığınız bir ürün seçin. Hammadde, enerji, emek, kullanım ve atık yolunu beş düğümle çizin; geri dönebilecek bir akış ve görünmeyen bir maliyet ekleyin.",
+        "Yaşamın Ağı bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Yaşam tek tek parçaların içinde değil, madde ve enerjiyi dolaştıran, kendini yenileyen ve çevresiyle birlikte değişen ilişki ağlarının örüntüsünde anlaşılır.",
+        "Akılda tutulacak son görüntü, zümrüt yeşili, turkuaz ve sıcak toprak tonlarında hücre damarının nehir koluna, mantar kökünün şehir yoluna ve yıldız ağının yaprak damarına dönüştüğü kesintisiz canlı bir ağdır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Yaşamın Ağı adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-parcadan-butune-bakis": {
+      "image": "/images/summary-art-293-chapter-01-parcadan-butune-bakis-v1.webp",
+      "imageCaption": "Parçadan bütüne bakış düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-derin-ekoloji": {
+      "image": "/images/summary-art-293-chapter-02-derin-ekoloji-v1.webp",
+      "imageCaption": "Derin ekoloji düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-mekanik-dunya-resmi": {
+      "image": "/images/summary-art-293-chapter-03-mekanik-dunya-resmi-v1.webp",
+      "imageCaption": "Mekanik dünya resmi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-orgutlu-butunler": {
+      "image": "/images/summary-art-293-chapter-04-orgutlu-butunler-v1.webp",
+      "imageCaption": "Örgütlü bütünler düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-geri-bildirim-donguleri": {
+      "image": "/images/summary-art-293-chapter-05-geri-bildirim-donguleri-v1.webp",
+      "imageCaption": "Geri bildirim döngüleri düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-ag-canliligin-temel-oruntusu": {
+      "image": "/images/summary-art-293-chapter-06-ag-canliligin-temel-oruntusu-v1.webp",
+      "imageCaption": "Ağ canlılığın temel örüntüsü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-kendiliginden-orgutlenme": {
+      "image": "/images/summary-art-293-chapter-07-kendiliginden-orgutlenme-v1.webp",
+      "imageCaption": "Kendiliğinden örgütlenme düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-dengesizlik-yasami-besler": {
+      "image": "/images/summary-art-293-chapter-08-dengesizlik-yasami-besler-v1.webp",
+      "imageCaption": "Dengesizlik yaşamı besler düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-dagitici-yapilar": {
+      "image": "/images/summary-art-293-chapter-09-dagitici-yapilar-v1.webp",
+      "imageCaption": "Dağıtıcı yapılar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-kaos-ve-ongoru-siniri": {
+      "image": "/images/summary-art-293-chapter-10-kaos-ve-ongoru-siniri-v1.webp",
+      "imageCaption": "Kaos ve öngörü sınırı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-fraktal-ve-oruntu": {
+      "image": "/images/summary-art-293-chapter-11-fraktal-ve-oruntu-v1.webp",
+      "imageCaption": "Fraktal ve örüntü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-autopoiesis-kendini-ureten-ag": {
+      "image": "/images/summary-art-293-chapter-12-autopoiesis-kendini-ureten-ag-v1.webp",
+      "imageCaption": "Autopoiesis: Kendini üreten ağ düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-bilis-yasam-surecidir": {
+      "image": "/images/summary-art-293-chapter-13-bilis-yasam-surecidir-v1.webp",
+      "imageCaption": "Biliş yaşam sürecidir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-gaia-gezegen-capinda-geri-bildirim": {
+      "image": "/images/summary-art-293-chapter-14-gaia-gezegen-capinda-geri-bildirim-v1.webp",
+      "imageCaption": "Gaia: Gezegen çapında geri bildirim düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-evrim-rekabetten-fazlasidir": {
+      "image": "/images/summary-art-293-chapter-15-evrim-rekabetten-fazlasidir-v1.webp",
+      "imageCaption": "Evrim rekabetten fazlasıdır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-ekolojik-okuryazarlik": {
+      "image": "/images/summary-art-293-chapter-16-ekolojik-okuryazarlik-v1.webp",
+      "imageCaption": "Ekolojik okuryazarlık düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

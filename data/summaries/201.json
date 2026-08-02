@@ -1,0 +1,351 @@
+{
+  "bookNo": 201,
+  "title": "Postmodern Durum",
+  "author": "Jean-François Lyotard",
+  "subtitle": "Bilgisayarlı toplumda bilginin kim tarafından doğru ve değerli sayıldığını; ilerleme ve özgürleşme gibi büyük hikâyelere güven azalırken küçük dil oyunları, performans baskısı ve yeni fikir üretme mücadelesini anlatan kısa rapor.",
+  "coverImage": "/images/summary-cover-201-postmodern-durum-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/201-postmodern-durum-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6B5C98",
+  "meta": {
+    "originalTitle": "La condition postmoderne: rapport sur le savoir",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Üniversite 'Bu araştırma doğru mu?' diye sorarken şirket 'Ne kadar kazandırır?', devlet 'Sistemi güçlendirir mi?', öğrenci 'İşe yarar mı?' diye sorabilir. Aynı bilgi farklı kurallarla değerlendirilir. Lyotard postmodern durumu bu tek hakemini kaybetmiş bilgi sahnesi olarak betimler.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "University of Minnesota Press - The Postmodern Condition",
+      "url": "https://www.upress.umn.edu/9780816611737/the-postmodern-condition/"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Lyotard",
+      "url": "https://plato.stanford.edu/entries/lyotard/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Bilgisayarlı toplumda bilginin kim tarafından doğru ve değerli sayıldığını; ilerleme ve özgürleşme gibi büyük hikâyelere güven azalırken küçük dil oyunları, performans baskısı ve yeni fikir üretme mücadelesini anlatan kısa rapor.",
+        "Metin 1979'da Quebec için hazırlanmış bilgi raporudur; bütün kültürün eksiksiz tarihi değildir. Rehber anlatı ve bilimsel bilgi, dil oyunları, meşrulaştırma, bilgisayarlaşma, performatiflik ve paralojiyi açar; 'her şey görecelidir' kolaycılığına düşmez.",
+        "Bir veri tabanında yalnız makinenin okuyabildiği bilgi dolaşıma girer. Yaşlı ustanın yıllarca edindiği ama forma sığmayan beceri görünmez kalır. Bilginin değeri artık yalnız doğru olmasından değil, aktarılabilir ve satılabilir biçime girmesinden de etkilenir."
+      ]
+    },
+    {
+      "id": "durak-02-bilgi-bicim-degistiriyor",
+      "section": "BİRİNCİ KISIM · DURUM",
+      "title": "Bilgi biçim değiştiriyor",
+      "paragraphs": [
+        "Bilgisayarlaşma bilgiyi makine diline çevrilebilir, depolanabilir ve dolaştırılabilir birimlere dönüştürür. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Ustanın el ayarı dosyaya girmediği için şirket kayıtlarında bilgi sayılmaz, sayısal ölçüm ise merkezden satın alınır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Dijitalleşme bilgiyi yok etmek kadar koruma ve erişim de sağlar. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir veri sisteminde forma girmeyen deneyimin nasıl temsil edileceğini sormak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Bilgi biçim değiştiriyor” ile Postmodern Durum kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-bilgi-meta-oldugunda",
+      "section": "BİRİNCİ KISIM · DEĞER",
+      "title": "Bilgi meta olduğunda",
+      "paragraphs": [
+        "Bilgi kendi başına eğitim amacı olmaktan çıkıp üretilecek, satılacak ve güç için kullanılacak mala dönüşebilir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Üniversite uzun temel araştırma yerine hızlı lisans geliri getiren projeyi seçer. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Piyasa kaynağı her araştırmayı yozlaştırmaz ve kamu fonu da tarafsız değildir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir bilgi projesinin doğruluk, kamu yararı ve gelir ölçülerini ayrı görmek gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-04-anlati-bilgisi",
+      "section": "İKİNCİ KISIM · HİKÂYE",
+      "title": "Anlatı bilgisi",
+      "paragraphs": [
+        "Toplumlar neyin iyi, doğru ve yapılabilir olduğunu masal, atasözü, tören ve örnek kişilerle aktarır. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Köyde iyi usta tanımı sınav kâğıdından çok yıllarca anlatılan adil paylaşım hikâyesiyle öğrenilir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Geleneksel anlatı romantikleştirilmemeli; dışlama ve baskı taşıyabilir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Bir kurumun yazılı kuralı yanında hangi kurucu hikâyeyi tekrar ettiğini araştırmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-05-bilimsel-bilgi-farkli-kural-oynar",
+      "section": "İKİNCİ KISIM · KANIT",
+      "title": "Bilimsel bilgi farklı kural oynar",
+      "paragraphs": [
+        "Bilim iddiayı kanıt, yöntem, tekrar ve uzman tartışmasıyla meşrulaştırır; anlatıdaki gibi sırf aktarılmış olduğu için kabul etmez. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "İlacın etkisi büyükannenin tek öyküsüyle değil karşılaştırmalı deney ve eleştiriyle sınanır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Bilim insanları da kurum, dil ve çıkar içinde çalışır; bu sonuçları keyfî yapmaz. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Kanıt ölçütünü reddetmeden araştırmanın finansman ve erişim koşullarını da incelemek gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Bilimsel bilgi farklı kural oynar” ile Postmodern Durum kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-dil-oyunlari",
+      "section": "ÜÇÜNCÜ KISIM · KURAL",
+      "title": "Dil oyunları",
+      "paragraphs": [
+        "Söylemek tek eylem değildir; betimleme, emir, söz verme, soru ve şaka farklı kurallı dil oyunlarıdır. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "'Kapı açık' cümlesi hava durumu verir, uyarı yapar veya birinden kapatmasını ister. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Oyunlar tamamen kapalı değildir ve insanlar kuralları tartışabilir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Bir anlaşmazlıkta tarafların aynı cümleden hangi tür hamle beklediğini açmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-07-buyuk-anlati-nedir",
+      "section": "ÜÇÜNCÜ KISIM · MEŞRUİYET",
+      "title": "Büyük anlatı nedir?",
+      "paragraphs": [
+        "Modern toplum bilim ve siyaseti insanlığın ilerlemesi, aklın gelişmesi veya özgürleşmesi gibi kapsayıcı hikâyelerle meşrulaştırdı. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Demiryolu yalnız ulaşım değil 'medeniyetin herkese gelişi' diye sunulur. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Büyük anlatıların ortak hak ve dayanışma kurma gücü de olmuştur. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Evrensel sözün hangi gerçek kazanımı taşıdığını ve hangi deneyimi sildiğini birlikte görmek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Büyük anlatı nedir?” ile Postmodern Durum kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-buyuk-anlatilara-guvensizlik",
+      "section": "ÜÇÜNCÜ KISIM · POSTMODERN",
+      "title": "Büyük anlatılara güvensizlik",
+      "paragraphs": [
+        "Lyotard postmoderni, bütün bilgi ve tarihi tek sona bağlayan üst anlatılara karşı artan inançsızlık olarak tanımlar. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Savaş ve sömürge deneyimi, teknik ilerlemenin otomatik ahlaki gelişme getirdiği hikâyesini kırar. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "İnançsızlık bütün ortak projeleri ve gerçekleri reddetmek zorunda değildir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Büyük vaat yerine belirli iddianın kanıtı, bedeli ve yerel sonucu sorulmalıdır. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-09-mesrulastirma-krizi",
+      "section": "DÖRDÜNCÜ KISIM · HAKEM",
+      "title": "Meşrulaştırma krizi",
+      "paragraphs": [
+        "Tek büyük hakem zayıflayınca bilginin neden öğretilip finanse edileceği tartışmalı hale gelir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Felsefe bölümü kısa vadeli iş geliri göstermediği için bütçede kendini savunamaz. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Eski meşruiyetin çözülmesi yeni demokratik ölçüler için fırsat da olabilir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Kaynak kararında gelir, hakikat, kültürel hafıza ve kamusal yararı açıkça tartmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Meşrulaştırma krizi” ile Postmodern Durum kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-performatiflik-en-iyi-girdi-cikti",
+      "section": "DÖRDÜNCÜ KISIM · VERİM",
+      "title": "Performatiflik: En iyi girdi-çıktı",
+      "paragraphs": [
+        "Sistem bilgiyi en az kaynakla en çok ölçülebilir çıktı üreten performansa göre seçmeye eğilimlidir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Öğretmen derin öğrenme yerine sınav puanını en hızlı artıran yönteme zorlanır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Verimlilik kıt kaynakta gerçek bir değer olabilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Göstergeyi iyileştirmenin asıl amacı bozup bozmadığını sonuç dışı örneklerle kontrol etmek gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-11-bilginin-sahibi-kim",
+      "section": "DÖRDÜNCÜ KISIM · GÜÇ",
+      "title": "Bilginin sahibi kim?",
+      "paragraphs": [
+        "Veri depolama ve hesaplama araçlarına sahip olan devlet ve şirketler karar gücünü merkezileştirebilir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Şehirde milyonlarca yol verisini toplayan platform ulaşım planını belediyeden daha iyi bilir ama veriyi paylaşmaz. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Merkezî veri afet ve sağlıkta yararlı olabilir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Mülkiyet, erişim, mahremiyet, denetim ve itiraz hakkını birlikte düzenlemek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Bilginin sahibi kim?” ile Postmodern Durum kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-12-universite-ne-ogretir",
+      "section": "BEŞİNCİ KISIM · EĞİTİM",
+      "title": "Üniversite ne öğretir?",
+      "paragraphs": [
+        "Bilgi aktarımı performans sistemine bağlandığında eğitim doğru fikirden çok işe yarayan beceri paketine indirgenebilir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Öğrenci 'Bu doğru mu?' yerine 'Sınavda ve işte çıkar mı?' diye sorar. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Mesleki beceri değersiz değildir ve eğitim hayatla bağ kurmalıdır. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Müfredatta işlev, eleştirel düşünme, merak ve yurttaşlık hedeflerini dengelemek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Üniversite ne öğretir?” ile Postmodern Durum kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-uzmanin-rolu-degisir",
+      "section": "BEŞİNCİ KISIM · YETKİ",
+      "title": "Uzmanın rolü değişir",
+      "paragraphs": [
+        "Tek ansiklopedik bilgin yerine veri tabanına soru soran, bağlantı kuran ve takım oluşturan uzman öne çıkar. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Doktor bütün makaleleri ezberlemez; doğru veri kaynağını seçip hastanın özgül durumuyla birleştirir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Arama becerisi alan bilgisinin ve etik sorumluluğun yerini tutmaz. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Uzmanlığı yalnız bilgi miktarı değil soru kalitesi, muhakeme ve hesap verme üzerinden değerlendirmek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-14-kucuk-anlatilar",
+      "section": "ALTINCI KISIM · YEREL",
+      "title": "Küçük anlatılar",
+      "paragraphs": [
+        "Tek evrensel kurtuluş hikâyesi yerine sınırlı toplulukların belirli sorunlar için kurduğu küçük anlatılar önem kazanır. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Mahalle kadınları tüm insanlığı temsil etmeden güvenli gece ulaşımı için deneyimlerini ortak talebe çevirir. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Yerellik güçlülerin ortak haklardan kaçmasına veya küçük grubun içine kapanmasına yol açabilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Küçük mücadeleyi daha geniş eşitlik ilkeleriyle bağlantılandırmak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Küçük anlatılar” ile Postmodern Durum kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-paraloji-yeni-hamle",
+      "section": "ALTINCI KISIM · YENİLİK",
+      "title": "Paraloji: Yeni hamle",
+      "paragraphs": [
+        "Bilgi yalnız sistemin verimini artırmak değil, yerleşik kuralda beklenmedik yeni hamle ve soru üreterek gelişir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Araştırmacı daha hızlı cevap yerine deneyin yanlış sorduğu soruyu gösterir ve yeni alan açar. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Her aykırı fikir değerli değildir; kanıt ve eleştiri gerekir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Yeniliği yalnız patent sayısıyla değil kuralları görünür kılan güçlü soruyla da ölçmek gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-16-farkli-oyunlar-arasinda-adalet",
+      "section": "ALTINCI KISIM · ÇOĞULLUK",
+      "title": "Farklı oyunlar arasında adalet",
+      "paragraphs": [
+        "Tek ölçü bütün dil oyunlarına hükmetmediğinde adalet, küçük ve geri alınabilir uzlaşmalarla farklı seslerin oyun kurabilmesini korumalıdır. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Hastane bütçesinde maliyet tablosu ile hastanın onur anlatısı aynı tür cümle değildir ama karar ikisini de dinler. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Ortak karar için bazı karşılaştırılabilir ilkeler yine gereklidir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Tarafları tek ölçüye zorlamadan hangi hakların pazarlık dışı olduğunu açıkça kurmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Farklı oyunlar arasında adalet” ile Postmodern Durum kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-postmodernlik-gorecelik-degildir",
+      "section": "YEDİNCİ KISIM · SONUÇ",
+      "title": "Postmodernlik görecelik değildir",
+      "paragraphs": [
+        "Büyük anlatının çöküşü her sözün eşit doğru olduğu anlamına değil, her iddianın kendi kural ve iktidar koşullarının görünür olmasına işaret eder. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Bilimsel deney kanıtla sınanır; şiir başka iş yapar; propaganda ise kanıt rolü oynayarak ikisini karıştırabilir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Dil oyunları kavramı yanlış bilgiye karşı ortak mücadeleyi zorlaştırabilir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "İddianın türünü belirleyip ona uygun kanıt ve hesap verme ölçüsü istemek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Lyotard 'hakikat yoktur, herkesin görüşü eşittir' demez. Bilimsel oyunun güçlü kanıt kuralları vardır; eleştirisi bu kuralların hangi büyük hikâye veya performans ölçüsüyle toplumsal olarak meşrulaştırıldığına yönelir.",
+        "Aşı etkinliği ile bir romanın güzelliği aynı yöntemle ölçülmez. Bu ayrım aşı hakkındaki her iddiayı eşit yapmaz; tersine hangi oyunda hangi kanıtın gerektiğini netleştirir.",
+        "Postmodern Durum için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "'Büyük anlatılara güvensizlik' sözü postmodernizm tartışmasının en tanınmış tanımlarından biri oldu; bilgi, üniversite, dijitalleşme ve kültür üzerine geniş bir literatürü etkiledi.",
+        "Kitabın postmodern toplumu tek cümleyle genellediği, bilimi aşırı dilsel gösterdiği, büyük anlatılara güvensizlik iddiasının kendisinin büyük anlatıya benzediği ve erken bilgisayar tahminlerinin bazı yönlerden eskidiği söylendi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Postmodern Durum bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Bu bilgi hangi dil oyununda konuşuyor? Onu kim ve ne meşrulaştırıyor? Performans ölçüsü hangi değeri görünmez yapıyor?",
+        "Bir kurumun başarı göstergesini seçin. Göstergenin iyileştiği halde asıl amacın kötüleşebileceği bir sahne yazın ve ikinci bir nitelik ölçüsü ekleyin.",
+        "Postmodern Durum bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Bilgi tek ilerleme hikâyesiyle değil, farklı dil oyunları, veri iktidarı ve performans ölçüleri içinde değer kazanır; yeni düşünce bazen sistemi hızlandırmak değil kuralını değiştirmektir.",
+        "Akılda tutulacak son görüntü, menekşe moru, petrol mavisi ve fosforlu yeşil tonlarında dev bir ana yolun küçük konuşma adalarına ayrıldığı, veri küplerinin arasında beklenmedik yeni bir çizginin sistemi çaprazladığı ağ manzarasıdır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Postmodern Durum adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-bilgi-bicim-degistiriyor": {
+      "image": "/images/summary-art-201-chapter-01-bilgi-bicim-degistiriyor-v1.webp",
+      "imageCaption": "Bilgi biçim değiştiriyor düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-bilgi-meta-oldugunda": {
+      "image": "/images/summary-art-201-chapter-02-bilgi-meta-oldugunda-v1.webp",
+      "imageCaption": "Bilgi meta olduğunda düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-anlati-bilgisi": {
+      "image": "/images/summary-art-201-chapter-03-anlati-bilgisi-v1.webp",
+      "imageCaption": "Anlatı bilgisi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-bilimsel-bilgi-farkli-kural-oynar": {
+      "image": "/images/summary-art-201-chapter-04-bilimsel-bilgi-farkli-kural-oynar-v1.webp",
+      "imageCaption": "Bilimsel bilgi farklı kural oynar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-dil-oyunlari": {
+      "image": "/images/summary-art-201-chapter-05-dil-oyunlari-v1.webp",
+      "imageCaption": "Dil oyunları düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-buyuk-anlati-nedir": {
+      "image": "/images/summary-art-201-chapter-06-buyuk-anlati-nedir-v1.webp",
+      "imageCaption": "Büyük anlatı nedir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-buyuk-anlatilara-guvensizlik": {
+      "image": "/images/summary-art-201-chapter-07-buyuk-anlatilara-guvensizlik-v1.webp",
+      "imageCaption": "Büyük anlatılara güvensizlik düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-mesrulastirma-krizi": {
+      "image": "/images/summary-art-201-chapter-08-mesrulastirma-krizi-v1.webp",
+      "imageCaption": "Meşrulaştırma krizi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-performatiflik-en-iyi-girdi-cikti": {
+      "image": "/images/summary-art-201-chapter-09-performatiflik-en-iyi-girdi-cikti-v1.webp",
+      "imageCaption": "Performatiflik: En iyi girdi-çıktı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-bilginin-sahibi-kim": {
+      "image": "/images/summary-art-201-chapter-10-bilginin-sahibi-kim-v1.webp",
+      "imageCaption": "Bilginin sahibi kim? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-universite-ne-ogretir": {
+      "image": "/images/summary-art-201-chapter-11-universite-ne-ogretir-v1.webp",
+      "imageCaption": "Üniversite ne öğretir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-uzmanin-rolu-degisir": {
+      "image": "/images/summary-art-201-chapter-12-uzmanin-rolu-degisir-v1.webp",
+      "imageCaption": "Uzmanın rolü değişir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-kucuk-anlatilar": {
+      "image": "/images/summary-art-201-chapter-13-kucuk-anlatilar-v1.webp",
+      "imageCaption": "Küçük anlatılar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-paraloji-yeni-hamle": {
+      "image": "/images/summary-art-201-chapter-14-paraloji-yeni-hamle-v1.webp",
+      "imageCaption": "Paraloji: Yeni hamle düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-farkli-oyunlar-arasinda-adalet": {
+      "image": "/images/summary-art-201-chapter-15-farkli-oyunlar-arasinda-adalet-v1.webp",
+      "imageCaption": "Farklı oyunlar arasında adalet düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-postmodernlik-gorecelik-degildir": {
+      "image": "/images/summary-art-201-chapter-16-postmodernlik-gorecelik-degildir-v1.webp",
+      "imageCaption": "Postmodernlik görecelik değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}
