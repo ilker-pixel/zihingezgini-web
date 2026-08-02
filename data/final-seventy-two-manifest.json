@@ -1,7 +1,7 @@
 {
   "version": 1,
   "createdAt": "2026-08-02T06:34:15+00:00",
-  "updatedAt": "2026-08-02T16:45:31+00:00",
+  "updatedAt": "2026-08-02T16:57:10+00:00",
   "targetCharacters": 20000,
   "characterGate": [
     18000,
@@ -121,7 +121,7 @@
       "category": "Sosyoloji & Zaman",
       "batch": 1,
       "position": 1,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "bibliographyVerified": true,
         "characterGatePassed": true,
@@ -138,9 +138,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T08:00:36+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 52,
@@ -149,7 +154,7 @@
       "category": "Sosyoloji",
       "batch": 1,
       "position": 2,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "bibliographyVerified": true,
         "characterGatePassed": true,
@@ -166,9 +171,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T08:00:36+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 83,
@@ -177,7 +187,7 @@
       "category": "Sosyoloji & Din",
       "batch": 1,
       "position": 3,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "bibliographyVerified": true,
         "characterGatePassed": true,
@@ -194,9 +204,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T08:00:36+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 84,
@@ -205,7 +220,7 @@
       "category": "Dinler Tarihi",
       "batch": 1,
       "position": 4,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "bibliographyVerified": true,
         "characterGatePassed": true,
@@ -222,9 +237,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T08:00:36+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 102,
@@ -233,7 +253,7 @@
       "category": "Siyaset Felsefesi",
       "batch": 1,
       "position": 5,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "bibliographyVerified": true,
         "characterGatePassed": true,
@@ -250,9 +270,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T08:00:36+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 113,
@@ -261,7 +286,7 @@
       "category": "Sosyoloji",
       "batch": 1,
       "position": 6,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "bibliographyVerified": true,
         "characterGatePassed": true,
@@ -278,9 +303,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T08:00:36+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 115,
@@ -289,7 +319,7 @@
       "category": "Siyasi Sosyoloji & Tarih",
       "batch": 1,
       "position": 7,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "bibliographyVerified": true,
         "characterGatePassed": true,
@@ -306,9 +336,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T08:00:36+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 117,
@@ -317,7 +352,7 @@
       "category": "Siyaset Sosyolojisi",
       "batch": 1,
       "position": 8,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "bibliographyVerified": true,
         "characterGatePassed": true,
@@ -334,9 +369,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T08:00:36+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 119,
@@ -345,7 +385,7 @@
       "category": "Tarih & Siyaset",
       "batch": 1,
       "position": 9,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "bibliographyVerified": true,
         "characterGatePassed": true,
@@ -362,9 +402,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T08:00:36+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 128,
@@ -373,7 +418,7 @@
       "category": "Epistemoloji & Felsefe",
       "batch": 2,
       "position": 1,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -395,9 +440,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T09:10:54+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 131,
@@ -406,7 +456,7 @@
       "category": "Klasik Felsefe",
       "batch": 2,
       "position": 2,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -428,9 +478,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T09:10:54+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 132,
@@ -439,7 +494,7 @@
       "category": "Klasik Felsefe",
       "batch": 2,
       "position": 3,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -461,9 +516,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T09:10:54+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 133,
@@ -472,7 +532,7 @@
       "category": "Klasik Felsefe",
       "batch": 2,
       "position": 4,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -494,9 +554,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T09:10:54+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 134,
@@ -505,7 +570,7 @@
       "category": "Felsefe & Mantık",
       "batch": 2,
       "position": 5,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -527,9 +592,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T09:10:54+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 144,
@@ -538,7 +608,7 @@
       "category": "Zihin Felsefesi & Biliş",
       "batch": 2,
       "position": 6,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -560,9 +630,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T09:10:54+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 148,
@@ -571,7 +646,7 @@
       "category": "Sosyal Bilimler",
       "batch": 2,
       "position": 7,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -593,9 +668,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T09:10:54+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 170,
@@ -604,7 +684,7 @@
       "category": "Sosyoloji & Coğrafya",
       "batch": 2,
       "position": 8,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -626,9 +706,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T09:10:54+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 174,
@@ -637,7 +722,7 @@
       "category": "Ekonomi Politik",
       "batch": 2,
       "position": 9,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -659,9 +744,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T09:10:54+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 175,
@@ -670,7 +760,7 @@
       "category": "Sosyoloji",
       "batch": 3,
       "position": 1,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -692,9 +782,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T10:22:13+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 177,
@@ -703,7 +798,7 @@
       "category": "Sosyoloji",
       "batch": 3,
       "position": 2,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -725,9 +820,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T10:22:13+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 180,
@@ -736,7 +836,7 @@
       "category": "Sosyoloji",
       "batch": 3,
       "position": 3,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -758,9 +858,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T10:22:13+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 198,
@@ -769,7 +874,7 @@
       "category": "Gazetecilik Tarihi",
       "batch": 3,
       "position": 4,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -791,9 +896,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T10:22:13+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 202,
@@ -802,7 +912,7 @@
       "category": "Post-Yapısalcı Felsefe",
       "batch": 3,
       "position": 5,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -824,9 +934,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T10:22:13+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 203,
@@ -835,7 +950,7 @@
       "category": "Post-Yapısalcı Felsefe",
       "batch": 3,
       "position": 6,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -857,9 +972,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T10:22:13+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 206,
@@ -868,7 +988,7 @@
       "category": "Edebi Teori",
       "batch": 3,
       "position": 7,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -890,9 +1010,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T10:22:13+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 207,
@@ -901,7 +1026,7 @@
       "category": "Estetik & Politika",
       "batch": 3,
       "position": 8,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -923,9 +1048,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T10:22:13+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 208,
@@ -934,7 +1064,7 @@
       "category": "Siyaset & Estetik",
       "batch": 3,
       "position": 9,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -956,9 +1086,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T10:22:13+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 219,
@@ -967,7 +1102,7 @@
       "category": "Feminist Kuram",
       "batch": 4,
       "position": 1,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -989,9 +1124,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T11:40:14+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 226,
@@ -1000,7 +1140,7 @@
       "category": "Siyaset Sosyolojisi",
       "batch": 4,
       "position": 2,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1022,9 +1162,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T11:40:14+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 227,
@@ -1033,7 +1178,7 @@
       "category": "Sosyoloji",
       "batch": 4,
       "position": 3,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1055,9 +1200,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T11:40:14+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 228,
@@ -1066,7 +1216,7 @@
       "category": "Post-kolonyal Teori",
       "batch": 4,
       "position": 4,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1088,9 +1238,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T11:40:14+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 230,
@@ -1099,7 +1254,7 @@
       "category": "Sosyoloji",
       "batch": 4,
       "position": 5,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1121,9 +1276,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T11:40:14+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 231,
@@ -1132,7 +1292,7 @@
       "category": "Post-kolonyal Teori",
       "batch": 4,
       "position": 6,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1154,9 +1314,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T11:40:14+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 232,
@@ -1165,7 +1330,7 @@
       "category": "Post-kolonyal Teori",
       "batch": 4,
       "position": 7,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1187,9 +1352,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T11:40:14+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 233,
@@ -1198,7 +1368,7 @@
       "category": "Kültürel Çalışmalar",
       "batch": 4,
       "position": 8,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1220,9 +1390,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T11:40:14+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 234,
@@ -1231,7 +1406,7 @@
       "category": "Tarih",
       "batch": 4,
       "position": 9,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1253,9 +1428,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T11:40:14+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 236,
@@ -1264,7 +1444,7 @@
       "category": "Tarih & Sosyoloji",
       "batch": 5,
       "position": 1,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1286,9 +1466,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T13:05:23+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 237,
@@ -1297,7 +1482,7 @@
       "category": "Sosyoloji & Cinsellik",
       "batch": 5,
       "position": 2,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1319,9 +1504,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T13:05:23+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 246,
@@ -1330,7 +1520,7 @@
       "category": "Siyaset Felsefesi",
       "batch": 5,
       "position": 3,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1352,9 +1542,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T13:05:23+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 247,
@@ -1363,7 +1558,7 @@
       "category": "Siyaset Felsefesi",
       "batch": 5,
       "position": 4,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1385,9 +1580,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T13:05:23+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 249,
@@ -1396,7 +1596,7 @@
       "category": "Teknoloji Felsefesi",
       "batch": 5,
       "position": 5,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1418,9 +1618,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T13:05:23+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 250,
@@ -1429,7 +1634,7 @@
       "category": "Sosyoloji",
       "batch": 5,
       "position": 6,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1451,9 +1656,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T13:05:23+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 252,
@@ -1462,7 +1672,7 @@
       "category": "Bilim Felsefesi",
       "batch": 5,
       "position": 7,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1484,9 +1694,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T13:05:23+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 257,
@@ -1495,7 +1710,7 @@
       "category": "Yapay Zeka & Fütürizm",
       "batch": 5,
       "position": 8,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1517,9 +1732,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T13:05:23+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 260,
@@ -1528,7 +1748,7 @@
       "category": "Fenomenoloji",
       "batch": 5,
       "position": 9,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1550,9 +1770,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T13:05:23+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 261,
@@ -1561,7 +1786,7 @@
       "category": "Teknoloji Felsefesi",
       "batch": 6,
       "position": 1,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1583,9 +1808,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T14:19:32+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 262,
@@ -1594,7 +1824,7 @@
       "category": "Varoluşçuluk",
       "batch": 6,
       "position": 2,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1616,9 +1846,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T14:19:32+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 264,
@@ -1627,7 +1862,7 @@
       "category": "Sanat & Felsefe",
       "batch": 6,
       "position": 3,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1649,9 +1884,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T14:19:32+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 265,
@@ -1660,7 +1900,7 @@
       "category": "Varoluşçu Felsefe",
       "batch": 6,
       "position": 4,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1682,9 +1922,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T14:19:32+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 267,
@@ -1693,7 +1938,7 @@
       "category": "Klasik Felsefe",
       "batch": 6,
       "position": 5,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1715,9 +1960,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T14:19:32+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 268,
@@ -1726,7 +1976,7 @@
       "category": "Klasik Felsefe",
       "batch": 6,
       "position": 6,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1748,9 +1998,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T14:19:32+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 269,
@@ -1759,7 +2014,7 @@
       "category": "Kritik Teori",
       "batch": 6,
       "position": 7,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1781,9 +2036,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T14:19:32+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 270,
@@ -1792,7 +2052,7 @@
       "category": "Kritik Teori",
       "batch": 6,
       "position": 8,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1814,9 +2074,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T14:19:32+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 272,
@@ -1825,7 +2090,7 @@
       "category": "Mistisizm & Tasavvuf",
       "batch": 6,
       "position": 9,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1847,9 +2112,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T14:19:32+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 273,
@@ -1858,7 +2128,7 @@
       "category": "Mistisizm & Felsefe",
       "batch": 7,
       "position": 1,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1880,9 +2150,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T15:38:08+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 274,
@@ -1891,7 +2166,7 @@
       "category": "Klasik Felsefe",
       "batch": 7,
       "position": 2,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1913,9 +2188,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T15:38:08+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 276,
@@ -1924,7 +2204,7 @@
       "category": "Bilişsel Psikoloji & Etik",
       "batch": 7,
       "position": 3,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1946,9 +2226,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T15:38:08+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 278,
@@ -1957,7 +2242,7 @@
       "category": "Sosyoloji",
       "batch": 7,
       "position": 4,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -1979,9 +2264,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T15:38:08+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 279,
@@ -1990,7 +2280,7 @@
       "category": "Sosyoloji",
       "batch": 7,
       "position": 5,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2012,9 +2302,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T15:38:08+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 280,
@@ -2023,7 +2318,7 @@
       "category": "Sosyoloji",
       "batch": 7,
       "position": 6,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2045,9 +2340,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T15:38:08+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 281,
@@ -2056,7 +2356,7 @@
       "category": "Sosyoloji",
       "batch": 7,
       "position": 7,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2078,9 +2378,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T15:38:08+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 282,
@@ -2089,7 +2394,7 @@
       "category": "Yönetim & Toplum",
       "batch": 7,
       "position": 8,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2111,9 +2416,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T15:38:08+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 283,
@@ -2122,7 +2432,7 @@
       "category": "Sosyoloji",
       "batch": 7,
       "position": 9,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2144,9 +2454,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T15:38:08+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 289,
@@ -2155,7 +2470,7 @@
       "category": "Sosyoloji & Antropoloji",
       "batch": 8,
       "position": 1,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2177,9 +2492,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T16:45:05+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 291,
@@ -2188,7 +2508,7 @@
       "category": "Zihin & Ekoloji",
       "batch": 8,
       "position": 2,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2210,9 +2530,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T16:45:05+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 292,
@@ -2221,7 +2546,7 @@
       "category": "Bütünsel Felsefe",
       "batch": 8,
       "position": 3,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2243,9 +2568,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T16:45:05+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 295,
@@ -2254,7 +2584,7 @@
       "category": "Ekonomi & Etik",
       "batch": 8,
       "position": 4,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2276,9 +2606,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T16:45:05+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 296,
@@ -2287,7 +2622,7 @@
       "category": "Sentez Çalışması",
       "batch": 8,
       "position": 5,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2309,9 +2644,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T16:45:05+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 297,
@@ -2320,7 +2660,7 @@
       "category": "Sentez Çalışması",
       "batch": 8,
       "position": 6,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2342,9 +2682,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T16:45:05+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 298,
@@ -2353,7 +2698,7 @@
       "category": "Sentez Çalışması",
       "batch": 8,
       "position": 7,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2375,9 +2720,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T16:45:05+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 299,
@@ -2386,7 +2736,7 @@
       "category": "Sentez Çalışması",
       "batch": 8,
       "position": 8,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2408,9 +2758,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T16:45:05+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     },
     {
       "no": 300,
@@ -2419,7 +2774,7 @@
       "category": "Kişisel Bildiri",
       "batch": 8,
       "position": 9,
-      "stage": "site_ready",
+      "stage": "published",
       "checks": {
         "chapterImages": 16,
         "coverIndependent": true,
@@ -2441,9 +2796,14 @@
         "repeatedLongSentences": 0,
         "allPagesRendered": true,
         "visualInspection": "passed",
-        "staticIntegration": true
+        "staticIntegration": true,
+        "liveDomain": "https://zihingezgini.net",
+        "liveAssetChecks": 1368,
+        "liveFailures": 0,
+        "liveMapEntries": 300,
+        "wholeRowClick": "passed"
       },
-      "updatedAt": "2026-08-02T16:45:05+00:00"
+      "updatedAt": "2026-08-02T16:57:10+00:00"
     }
   ]
 }
