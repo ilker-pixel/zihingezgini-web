@@ -1,0 +1,343 @@
+{
+  "bookNo": 84,
+  "title": "Dini İnanç ve Çağdaş Uygarlık",
+  "author": "Mircea Eliade",
+  "subtitle": "Modern insanın dinden uzaklaştığını söylerken bile köken, yenilenme, gizli bilgi ve başka bir dünyaya açılma özlemini yeni kültürel biçimlerde nasıl sürdürdüğünü araştıran denemeler.",
+  "coverImage": "/images/summary-cover-84-dini-inanc-ve-cagdas-uygarlik-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/84-dini-inanc-ve-cagdas-uygarlik-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#7C653F",
+  "meta": {
+    "originalTitle": "Occultism, Witchcraft, and Cultural Fashions: Essays in Comparative Religions",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Gazetede burç köşesi, sinemada dünyanın sonu ve yeniden doğuş hikâyesi, gençlik grubunda gizli öğreti merakı yan yana durur. Eliade bunları aynı şey ilan etmez. Yine de modern insanın kutsaldan bütünüyle kopup kopmadığını, eski simgelerin yeni giysilerle dönüp dönmediğini sorar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "University of Chicago Press / BiblioVault - Occultism, Witchcraft, and Cultural Fashions",
+      "url": "https://www.bibliovault.org/BV.book.epl?ISBN=9780226203911"
+    },
+    {
+      "id": 2,
+      "title": "University of Chicago Press - Mircea Eliade author catalogue",
+      "url": "https://press.uchicago.edu/ucp/books/author/E/M/au5298810.html"
+    }
+  ],
+  "enrichmentStandardVersion": 3,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Modern insanın dinden uzaklaştığını söylerken bile köken, yenilenme, gizli bilgi ve başka bir dünyaya açılma özlemini yeni kültürel biçimlerde nasıl sürdürdüğünü araştıran denemeler.",
+        "Sitedeki başlık birebir kitap adı değildir. 1978 tarihi ve açıklama, Occultism, Witchcraft, and Cultural Fashions denemelerine karşılık gelir. Rehber bu eseri merkez alır; kutsal-kutsal dışı, hiyerofani ve ebedi dönüş gibi Eliade'nin daha eski kavramlarını yalnız denemeleri anlaşılır kılmak için kısa biçimde açıklar.",
+        "Modern bir genç geleneksel ibadete gitmez ama dolunay gecesinde 'enerji temizliği' videosu izler. Bu davranış eski ritüelin doğrudan devamı değildir. Fakat gündelik hayatı sıradanlıktan çıkarıp özel bir başlangıç anına bağlama arzusu bakımından karşılaştırılabilir."
+      ]
+    },
+    {
+      "id": "durak-02-basligin-ardindaki-gercek-kitap",
+      "section": "BİRİNCİ KISIM · EŞLEŞTİRME",
+      "title": "Başlığın ardındaki gerçek kitap",
+      "paragraphs": [
+        "Eser tek bir sistem değil, modern okültizmden büyücülüğe ve ışık simgesine uzanan karşılaştırmalı din denemeleridir. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
+        "Bir denemede gençlik kültürü, diğerinde tarihsel cadılık belgeleri, bir başkasında mistik ışık anlatıları açılır. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
+        "Farklı örnekleri birleştiren soru kutsal anlamın modern kültürde hangi kılıklarla geri döndüğüdür. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
+        "Denemelerin ortak sorusu her örneğin aynı kökten geldiğini kanıtlamaz. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
+        "Her bölümde önce tarihsel olguyu, sonra Eliade'nin yaptığı simgesel yorumu ayrı tutun. Bu bibliyografik açıklık, tematik site adını gerçek eser sanıp yanlış içerik üretmemeyi sağlar. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+      ]
+    },
+    {
+      "id": "durak-03-modern-okultizm-neden-cekici",
+      "section": "BİRİNCİ KISIM · GİZLİ BİLGİ",
+      "title": "Modern okültizm neden çekici?",
+      "paragraphs": [
+        "Okült akımlar modern bilimin dışında kalan bütüncül anlam, kişisel dönüşüm ve gizli bilgi vaadiyle ilgi toplayabilir. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
+        "Gündüz teknoloji şirketinde çalışan kişi akşam kadim sırlar anlattığını söyleyen seminere katılır. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
+        "Parçalanmış gündelik hayat karşısında tek büyük açıklama ve seçilmiş gruba aidiyet güçlü bir çekim yaratır. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
+        "İlgi görmek bütün okült iddiaların eski, doğru veya zararsız olduğunu göstermez. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
+        "Bir gizli bilgi iddiasında kanıtı, kaynağı, ücret ilişkisini ve sorgulama özgürlüğünü sorun. Belirsizlik dönemlerinde kesin sır vaat eden kişi, yalnız fikir değil güven ve otorite de satabilir. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-04-karsi-kulturun-dogu-arayisi",
+      "section": "BİRİNCİ KISIM · GENÇLİK",
+      "title": "Karşı kültürün Doğu arayışı",
+      "paragraphs": [
+        "1960'lar ve 1970'lerde bazı Batılı gençler kurumlaşmış dinden uzaklaşıp yoga, meditasyon ve Asya geleneklerinde dönüşüm aradı. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
+        "Üniversite öğrencisi kiliseye gitmeyi bırakır, fakat Hintçe adını bilmediği bir mantra ile yeni hayat kurmaya çalışır. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
+        "Otoriteye itiraz eski aidiyeti zayıflatır; seyahat ve yayın piyasası uzak gelenekleri erişilebilir kılar. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
+        "Bu arayış sömürgeci seçme, bağlamdan koparma ve kültürü tüketim nesnesine çevirme riski taşır. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
+        "Bir uygulamanın yaşayan topluluktaki anlamıyla internette satılan sürümünü karşılaştırın. Çeviri yapılan kavramın ait olduğu disiplin ve etik kuralları çoğu popüler uyarlamada görünmez kalır. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-05-kulturel-moda-ile-yasayan-gelenek",
+      "section": "İKİNCİ KISIM · MODA",
+      "title": "Kültürel moda ile yaşayan gelenek",
+      "paragraphs": [
+        "Eliade geçici kültürel modanın bile dönemin bastırılmış özlem ve korkularını görünür kılabileceğini savunur. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
+        "Bir yıl herkes astrolojiyi, sonraki yıl şaman davulunu konuşur; simge değişir ama dönüşüm isteği sürer. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
+        "Medya belirli simgeyi çoğaltır, piyasa onu kolay ürüne dönüştürür ve insanlar kişisel hikâyelerine ekler. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
+        "Popülerlik derinlik veya tarihsel süreklilik kanıtı değildir. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
+        "Bir akımda uzun pratik isteyen bölümle hızlı sonuç vaat eden ticari bölümü ayırın. Moda geçince bile ona yönelen insanların yalnızlık, bütünlük ve aidiyet ihtiyacı sürebilir. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+      ]
+    },
+    {
+      "id": "durak-06-cadilik-hayal-ile-tarih-arasinda",
+      "section": "İKİNCİ KISIM · CADILIK",
+      "title": "Cadılık: Hayal ile tarih arasında",
+      "paragraphs": [
+        "Cadılık anlatıları halk inancı, mahkeme zorlaması, seçkin korkusu ve sonraki romantik yorumların karışımından oluşur. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
+        "İşkence altında verilen ifade, köy dedikodusu ve modern romandaki özgür cadı aynı belge türü değildir. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
+        "İktidar soruları ve kayıt yöntemi insanların söylediği hikâyeyi biçimlendirir. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
+        "Bütün cadılık suçlamalarını gerçek gizli kült veya bütünüyle uydurma diye toplamak kanıt ayrımını siler. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
+        "Bir tarihsel iddianın hangi belgeye ve o belgenin hangi baskı altında üretildiğine bakın. Avrupa cadı yargılamalarının kurbanlarını modern özgürlük simgesine çevirirken tarihsel acıyı süslememek gerekir. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-07-sir-secilme-ve-inisiyasyon",
+      "section": "İKİNCİ KISIM · EŞİK",
+      "title": "Sır, seçilme ve inisiyasyon",
+      "paragraphs": [
+        "Gizli öğretiye adım adım kabul edilmek kişiye eski benliğini geride bırakıp özel topluluğa girdiği duygusunu verir. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
+        "Aday bekler, sınanır, yeni ad alır ve yalnız üyelerin bildiği simgeyi öğrenir. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
+        "Zorluk ve sır üyeliğin değerini artırır; ortak deneyim güçlü sadakat kurar. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
+        "Sınav ve gizlilik istismar, ekonomik sömürü veya çıkışın engellenmesi için de kullanılabilir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
+        "Bir topluluğun sırrının mahremiyeti mi koruduğunu, hesap vermeyi mi önlediğini sorun. Çıkmak isteyen üyeye yönelen tehdit, manevi eğitimin güvenli topluluktan kapalı denetime döndüğünü gösterir. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-08-mit-kaybolmaz-bicim-degistirir",
+      "section": "ÜÇÜNCÜ KISIM · HİKÂYE",
+      "title": "Mit kaybolmaz, biçim değiştirir",
+      "paragraphs": [
+        "Eliade modern roman ve sinemada başlangıç, kahraman sınavı, ölüm ve dönüş gibi mitik örüntülerin yaşayabildiğini düşünür. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
+        "Sıradan genç evinden çıkar, karanlık sınavdan geçer ve dünyayı kurtararak başka biri olur. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
+        "Tanıdık örüntü kişisel korkuyu evrensel yolculuğa bağlayıp hikâyeye duygusal güç verir. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
+        "Benzer olay sırası doğrudan eski mitten alıntı veya gizli din kanıtı değildir. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
+        "Bir filmdeki mitik benzerliği gösterirken tarihsel aktarım ile yapısal benzerliği ayırın. Süper kahraman filmi bu yüzden hem eğlence endüstrisi hem çağdaş erginlenme hayali olarak okunabilir. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-09-kayip-cennet-ozlemi",
+      "section": "ÜÇÜNCÜ KISIM · BAŞLANGIÇ",
+      "title": "Kayıp cennet özlemi",
+      "paragraphs": [
+        "Modern ütopyalar bozulmadan önceki saf zaman ve mükemmel yer arzusunu dünyevi dille yeniden kurabilir. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
+        "Şehirden kaçıp teknolojisiz köyde bütün sorunların biteceğini düşünen kişi kusursuz başlangıç hayali kurar. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
+        "Bugünün karmaşası geçmişe seçici bakışı güçlendirir; unutulan zorluklar cennet resminden çıkarılır. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
+        "Daha sade hayat isteği yalnız kaçış değildir ve gerçek ekolojik ihtiyaç taşıyabilir. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
+        "Bir altın çağ anlatısında kimin deneyiminin ve hangi güçlüğün unutulduğunu sorun. Altın çağ söylemi bazen bugünkü demokratik ve toplumsal hakları da yozlaşma diye hedef alabilir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+      ]
+    },
+    {
+      "id": "durak-10-kutsal-ve-siradan-mekan",
+      "section": "ÜÇÜNCÜ KISIM · MEKAN",
+      "title": "Kutsal ve sıradan mekan",
+      "paragraphs": [
+        "Kutsal deney bazı yerleri eşdeğer boşluk olmaktan çıkarıp yön veren merkez ve eşik haline getirir. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
+        "Aynı taş turist için kaya, hacı için hayat hikâyesinin yönünü değiştiren buluşma noktasıdır. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
+        "Anlatı, ritüel ve tekrar mekânı kolektif hafızayla doldurur. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
+        "Bir yerin kutsal sayılması mülkiyet, tarih ve çatışma sorunlarını kendiliğinden çözmez. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
+        "Bir mekânın farklı gruplar için taşıdığı anlamı tek sahiplik hikâyesine indirmeyin. Hac yolu, yalnız coğrafi mesafe değil kişinin geçmişiyle bugünü arasında anlatısal bağ kurar. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+      ]
+    },
+    {
+      "id": "durak-11-hiyerofani-siradanda-beliren-kutsal",
+      "section": "ÜÇÜNCÜ KISIM · BELİRİŞ",
+      "title": "Hiyerofani: Sıradanda beliren kutsal",
+      "paragraphs": [
+        "Eliade kutsalın taş, ağaç, ışık veya söz gibi sıradan bir taşıyıcıda kendini gösterdiği ana hiyerofani der. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
+        "Ağaç fiziksel özelliklerini korur ama topluluk için ataların ve dünyanın merkezi olur. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
+        "Sembol görünen nesneyle aşkın anlamı bağlar; ritüel bu bağı kuşaktan kuşağa tekrarlar. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
+        "Araştırmacı hiyerofani kavramıyla inananın deneyimini açıklar, nesnenin doğaüstülüğünü bilimsel olarak kanıtlamaz. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
+        "Bir kutsal nesnede maddi özellik ile ona anlatıyla yüklenen anlamı ayrı gözleyin. Sembol taşıyıcı nesneyi yok etmez; tam tersine onun belirli rengini, yerini ve tarihini daha önemli yapar. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-12-isik-neden-askinligi-anlatir",
+      "section": "DÖRDÜNCÜ KISIM · IŞIK",
+      "title": "Işık neden aşkınlığı anlatır?",
+      "paragraphs": [
+        "Birçok gelenekte ani ışık deneyimi bilgi, kurtuluş ve başka gerçekliğe açılma diliyle anlatılır. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
+        "Karanlıkta dua eden kişi yoğun parlaklık hissedip bunu hayatının dönüm noktası sayar. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Görsel yoğunluk, duygu ve kültürel sembol birleşerek deneyime kalıcı yorum verir. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
+        "Benzer ışık anlatıları tek evrensel öz veya aynı nörolojik neden bulunduğunu kanıtlamaz. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
+        "Deneyimin yaşandığı hali, kişinin verdiği anlamı ve olası bedensel açıklamayı birbirine düşman yapmayın. Nörobilimsel açıklama deneyimin kişi için ahlaki sonucunu, dini yorum da bedensel mekanizmayı tek başına tüketmez. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+      ]
+    },
+    {
+      "id": "durak-13-olmek-ve-yeniden-baslamak",
+      "section": "DÖRDÜNCÜ KISIM · DÖNÜŞÜM",
+      "title": "Ölmek ve yeniden başlamak",
+      "paragraphs": [
+        "İnisiyasyon mitleri eski kimliğin simgesel ölümünü ve daha sorumlu yeni kişinin doğuşunu sahneler. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
+        "Ergen topluluktan ayrılır, sınav geçirir ve yeni görevlerle geri döner. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
+        "Eşik dönemi günlük kimliği askıya alır; tören dönüşü başkalarının tanıdığı statüye çevirir. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
+        "Zorlayıcı erginleme şiddetini yalnız simgesel anlamla romantikleştirmek doğru değildir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
+        "Bir dönüşüm töreninde kişinin rızasını, güvenliğini ve kazandığı toplumsal hakkı birlikte değerlendirin. Güvenli ve gönüllü eşik, kişiyi aşağılamak yerine yeni sorumluluğa hazırlanmasına yardım edebilir. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+      ]
+    },
+    {
+      "id": "durak-14-sekuler-hayatin-gizli-rituelleri",
+      "section": "DÖRDÜNCÜ KISIM · MODERNLİK",
+      "title": "Seküler hayatın gizli ritüelleri",
+      "paragraphs": [
+        "Dini dil kullanmayan mezuniyet, anma ve ulusal törenler de eşik, kutsal hafıza ve ortak simge biçimleri taşıyabilir. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
+        "Cübbe giyen öğrenci sahneden geçer, adı okunur ve yeni statüsü topluluk önünde onaylanır. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
+        "Tekrar, özel kıyafet ve ayrılmış mekan gündelik olayı toplumsal dönüşüme çevirir. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
+        "Her ciddi törene din demek kavramsal sınırı gereksiz biçimde genişletir. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
+        "Benzerliği fark edin ama katılımcıların kendi adlandırmasını ve tarihsel farkı koruyun. Ulusal anma töreninde sessizlik, ortak hafızayı bedenler arasında eşzamanlı hale getirir. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+      ]
+    },
+    {
+      "id": "durak-15-dinler-tarihi-yeni-humanizm-olabilir-mi",
+      "section": "BEŞİNCİ KISIM · KARŞILAŞMA",
+      "title": "Dinler tarihi yeni hümanizm olabilir mi?",
+      "paragraphs": [
+        "Eliade başka toplumların mit ve simgelerini öğrenmenin modern insanın kendi dar insan tanımını genişletebileceğini umar. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
+        "Batılı okur zamanı yalnız ileri çizgi sanırken döngüsel yenilenme töreniyle karşılaşır. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
+        "Yabancı anlam dünyası kendi varsayımımızı görünür yapar ve tek uygarlık ölçüsünü sarsar. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
+        "Karşılaştırma güç farkını ve sömürge tarihini görmezse örnekleri egzotik malzemeye çevirebilir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
+        "Başka geleneği kendinize benzetmeden önce onun dili, tarihi ve yaşayan yorumcularını dinleyin. Yeni hümanizm iddiası ancak çalışılan toplulukları bilgi üretiminde eşit konuşmacı sayarsa inandırıcı olur. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+      ]
+    },
+    {
+      "id": "durak-16-benzerlik-bulmanin-siniri",
+      "section": "BEŞİNCİ KISIM · YÖNTEM",
+      "title": "Benzerlik bulmanın sınırı",
+      "paragraphs": [
+        "Eliade uzak kültürlerde tekrarlanan simge örüntülerini karşılaştırarak insan deneyiminin geniş haritasını kurmaya çalışır. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
+        "İki kıtadaki dünya ağacı anlatısı yan yana getirildiğinde merkez ve göğe çıkış temaları belirir. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
+        "Karşılaştırma yeni soru açar; tarihsel temas ve yerel fark araştırılmazsa yüzeysel evrensellik üretir. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
+        "Benzer sembol aynı toplumsal işlev, köken veya anlam demek değildir. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
+        "Her benzerliğin yanına en az bir önemli fark ve olası aktarım yolu ekleyin. Benzerliğin heyecanı, çeviri hatasını ve birbirinden ayrı tarihleri görünmez yapmamalıdır. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+      ]
+    },
+    {
+      "id": "durak-17-eliade-yi-bugun-elestirel-okumak",
+      "section": "BEŞİNCİ KISIM · SINIR",
+      "title": "Eliade'yi bugün eleştirel okumak",
+      "paragraphs": [
+        "Eliade kutsal deneyimi ciddiye aldırdı; fakat evrensel insan ve arketip dili tarih, siyaset ve iç farklılıkları azaltabilir. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
+        "Aynı ritüelde erkek otorite kazanırken kadın dışarıda kalıyorsa yalnız kozmik simgeye bakmak eşitsizliği saklar. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
+        "Seçilen örnek ve yorum merceği bazı sesleri merkez, bazılarını ayrıntı yapar. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
+        "Eleştiri bütün simgesel karşılaştırmayı değersiz kılmaz; kanıt ve güç sorusunu ekler. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
+        "Bir bölümde 'insan' denildiğinde hangi insanların konuştuğunu ve hangilerinin sustuğunu sorun. Bu yüzden rehber Eliade'nin merakını korur, onun kesin evrensellik iddialarını ise açık soru halinde bırakır. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Kitap modern kültürde mit benzeri örüntü bulunca her filmi din, her modayı kadim hakikat ilan etmez. Benzerlik yorum için başlangıçtır; tarihsel bağ ve kanıtın yerine geçmez.",
+        "Mezuniyet töreni inisiyasyona benzeyebilir; fakat katılımcılar onu kutsal deneyim saymayabilir. Yapısal benzerlik ile insanların verdiği anlam aynı şey değildir.",
+        "Okur her örnekte üç katmanı ayırmalıdır: tarihsel belge, katılımcının kendi yorumu ve Eliade'nin karşılaştırmalı simge okuması. Bu ayrım hayranlığı da eleştiriyi de daha sağlam yapar."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eliade'nin denemeleri dinler tarihi bilgisini uzman çevrenin dışına taşıdı ve modern kültürün sandığından daha çok mitik imge barındırdığı fikrini yaygınlaştırdı.",
+        "Sonraki araştırmacılar onun evrensel kutsal öz varsayımını, bağlamdan kopuk karşılaştırmalarını, toplumsal cinsiyet ve iktidarı geri plana atmasını; ayrıca siyasal geçmişiyle hesaplaşma gereğini vurguladı.",
+        "Bir okur simgede ortak insanlık görürken tarihçi 'bu örnek hangi belgede?', feminist araştırmacı 'ritüelde kim yetkili?' diye sorar. Bugünkü iyi okuma üçünü aynı anda duyar."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Modern insan gerçekten kutsaldan koptu mu? Kültürel moda hangi ihtiyacı açığa çıkarıyor? Benzer semboller arasında tarihsel bağ var mı?",
+        "Bir hafta içinde gördüğünüz yeniden doğuş, gizli bilgi veya kayıp cennet anlatısını not edin; sonra bunun dini, ticari ve kişisel katmanlarını ayırın.",
+        "Bir reklamda 'eski bilgeliğe dön' sözüyle ürün satıldığını fark eden okur hem simgenin çekimini hem piyasanın onu nasıl kullandığını birlikte görür."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Modern hayat kutsalı bütünüyle yok etmeyebilir; onu sanat, moda, gizli bilgi ve dönüşüm hikâyeleri içinde yeni ve tartışmalı biçimlerde dolaşıma sokabilir.",
+        "Akılda tutulacak son görüntü, gece laciverti bir şehirde eski bir dünya ağacından sinema perdesine, mezuniyet eşiğine ve ince bir ışık kapısına uzanan altın iz.",
+        "Eser bizi her benzerliğe inanmaya değil, sıradan görünen kültürel biçimlerin hangi derin anlam açlığını taşıdığını merak etmeye çağırır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-basligin-ardindaki-gercek-kitap": {
+      "image": "/images/summary-art-84-chapter-01-basligin-ardindaki-gercek-kitap-v1.webp",
+      "imageCaption": "Başlığın ardındaki gerçek kitap düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-modern-okultizm-neden-cekici": {
+      "image": "/images/summary-art-84-chapter-02-modern-okultizm-neden-cekici-v1.webp",
+      "imageCaption": "Modern okültizm neden çekici? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-karsi-kulturun-dogu-arayisi": {
+      "image": "/images/summary-art-84-chapter-03-karsi-kulturun-dogu-arayisi-v1.webp",
+      "imageCaption": "Karşı kültürün Doğu arayışı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-kulturel-moda-ile-yasayan-gelenek": {
+      "image": "/images/summary-art-84-chapter-04-kulturel-moda-ile-yasayan-gelenek-v1.webp",
+      "imageCaption": "Kültürel moda ile yaşayan gelenek düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-cadilik-hayal-ile-tarih-arasinda": {
+      "image": "/images/summary-art-84-chapter-05-cadilik-hayal-ile-tarih-arasinda-v1.webp",
+      "imageCaption": "Cadılık: Hayal ile tarih arasında düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-sir-secilme-ve-inisiyasyon": {
+      "image": "/images/summary-art-84-chapter-06-sir-secilme-ve-inisiyasyon-v1.webp",
+      "imageCaption": "Sır, seçilme ve inisiyasyon düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-mit-kaybolmaz-bicim-degistirir": {
+      "image": "/images/summary-art-84-chapter-07-mit-kaybolmaz-bicim-degistirir-v1.webp",
+      "imageCaption": "Mit kaybolmaz, biçim değiştirir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-kayip-cennet-ozlemi": {
+      "image": "/images/summary-art-84-chapter-08-kayip-cennet-ozlemi-v1.webp",
+      "imageCaption": "Kayıp cennet özlemi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-kutsal-ve-siradan-mekan": {
+      "image": "/images/summary-art-84-chapter-09-kutsal-ve-siradan-mekan-v1.webp",
+      "imageCaption": "Kutsal ve sıradan mekan düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-hiyerofani-siradanda-beliren-kutsal": {
+      "image": "/images/summary-art-84-chapter-10-hiyerofani-siradanda-beliren-kutsal-v1.webp",
+      "imageCaption": "Hiyerofani: Sıradanda beliren kutsal düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-isik-neden-askinligi-anlatir": {
+      "image": "/images/summary-art-84-chapter-11-isik-neden-askinligi-anlatir-v1.webp",
+      "imageCaption": "Işık neden aşkınlığı anlatır? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-olmek-ve-yeniden-baslamak": {
+      "image": "/images/summary-art-84-chapter-12-olmek-ve-yeniden-baslamak-v1.webp",
+      "imageCaption": "Ölmek ve yeniden başlamak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-sekuler-hayatin-gizli-rituelleri": {
+      "image": "/images/summary-art-84-chapter-13-sekuler-hayatin-gizli-rituelleri-v1.webp",
+      "imageCaption": "Seküler hayatın gizli ritüelleri düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-dinler-tarihi-yeni-humanizm-olabilir-mi": {
+      "image": "/images/summary-art-84-chapter-14-dinler-tarihi-yeni-humanizm-olabilir-mi-v1.webp",
+      "imageCaption": "Dinler tarihi yeni hümanizm olabilir mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-benzerlik-bulmanin-siniri": {
+      "image": "/images/summary-art-84-chapter-15-benzerlik-bulmanin-siniri-v1.webp",
+      "imageCaption": "Benzerlik bulmanın sınırı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-eliade-yi-bugun-elestirel-okumak": {
+      "image": "/images/summary-art-84-chapter-16-eliade-yi-bugun-elestirel-okumak-v1.webp",
+      "imageCaption": "Eliade'yi bugün eleştirel okumak düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}
