@@ -1,0 +1,343 @@
+{
+  "bookNo": 268,
+  "title": "Ahlakın Soykütüğü",
+  "author": "Friedrich Nietzsche",
+  "subtitle": "İyi, kötü, suçluluk, vicdan, ceza ve çileci ideal gibi ahlak kelimelerinin zamansız özünü değil, hangi mücadeleler ve ruhsal dönüşümler içinde bugünkü anlamına geldiğini üç gerçek incelemenin sırasıyla anlatan sade bir rehber.",
+  "coverImage": "/images/summary-cover-268-ahlakin-soykutugu-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/268-ahlakin-soykutugu-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#7B5B45",
+  "meta": {
+    "originalTitle": "Zur Genealogie der Moral",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Nietzsche'nin 1887 tarihli eseri bir önsöz ve üç incelemeden oluşur: 'İyi ve Kötü, İyi ve Fena', 'Suç, Kötü Vicdan ve Benzerleri' ve 'Çileci İdeallerin Anlamı Nedir?' Yazar ahlakın yalnız nereden geldiğini değil, değerlerimizin değerinin ne olduğunu sorar. Rehber etimolojik iddiaları kesin tarih kanıtı gibi sunmadan, metnin psikolojik ve kültürel mekanizmalarını izler.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Broadview - On the Genealogy of Morality",
+      "url": "https://broadviewpress.com/product/on-the-genealogy-of-morality/"
+    },
+    {
+      "id": 2,
+      "title": "Cambridge - Nietzsche's On the Genealogy of Morality",
+      "url": "https://www.cambridge.org/core/books/nietzsches-on-the-genealogy-of-morality/7F44BA938FF89A4D9D4AC0D53989151B"
+    }
+  ],
+  "enrichmentStandardVersion": 3,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "İyi, kötü, suçluluk, vicdan, ceza ve çileci ideal gibi ahlak kelimelerinin zamansız özünü değil, hangi mücadeleler ve ruhsal dönüşümler içinde bugünkü anlamına geldiğini üç gerçek incelemenin sırasıyla anlatan sade bir rehber.",
+        "Soykütük kökeni bulunca değeri çürüttüğünü sanan basit dedektiflik değildir. Bir değerin kötü koşullarda doğması bugün mutlaka kötü olduğu anlamına gelmez. Aynı biçimde Nietzsche'nin soylu-köle dili biyolojik ırk veya güncel sınıf üstünlüğü için izin değildir; metnin kendi kanıt ve değer ölçüsü eleştirilmelidir.",
+        "İki kişi aynı 'iyi' kelimesini kullanır. Biri güçlü, eli açık ve kendinden emin davranışına iyi der; diğeri kendisine zarar vermeyeni iyi, tehdit edeni kötü sayar. Nietzsche kelimenin yalnız sözlükte değil, kimin konuştuğu ve hangi mücadelede konuştuğuyla anlam değiştirdiğini gösterir."
+      ]
+    },
+    {
+      "id": "durak-02-ahlakin-degerini-de-sormak-gerekir",
+      "section": "ÖNSÖZ · SORU",
+      "title": "Ahlakın değerini de sormak gerekir",
+      "paragraphs": [
+        "Nietzsche ahlak kurallarını doğru kabul edip kökenini anlatmak yerine, bu değerlerin insan yaşamını güçlendirip güçlendirmediğini araştırmayı önerir. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
+        "Fedakârlık herkesçe iyi sayılır; fakat sürekli kendini silen kişinin kapasitesi ve ilişkideki sömürü görünmez kalabilir. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
+        "Değer başka davranışları seçer, bedeni ve geleceği biçimlendirir; bu yüzden kendisi değerlendirme konusu olur. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
+        "Yaşamı güçlendirme ölçüsü açık tanımlanmazsa kişisel zevke ve ayrıcalığa dönüşebilir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
+        "Bir erdemin kime güç, kime sürekli borç ve küçülme verdiğini sorun. Değerlerin değeri sorusu eleştireni de kendi güç ve zarar ölçüsünü açıklamaya zorlar. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+      ]
+    },
+    {
+      "id": "durak-03-soykutuk-duz-baslangic-hikayesi-degildir",
+      "section": "YÖNTEM · SOYKÜTÜK",
+      "title": "Soykütük düz başlangıç hikâyesi değildir",
+      "paragraphs": [
+        "Soykütük bugünkü kavramın farklı dönemlerde değişen anlam ve işlevlerini, çatışma ve tesadüflerle izler. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
+        "Ceza aynı biçimde kalırken intikam, caydırma, borç ödeme veya gösteri işlevi kazanabilir. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
+        "Biçim ile amaç ayrılır; yeni güç eski uygulamayı başka anlama bağlar. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
+        "Nietzsche'nin bazı tarih iddiaları varsayımsal ve etimolojik olarak tartışmalıdır. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
+        "Bir kurumun başlangıç amacıyla bugünkü işlevini ayrı kaynaklardan araştırın. Soykütük tek kök bulmaz; aynı biçimin üst üste binen işlevlerini ayırır. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-04-ingiliz-psikologlarin-yarar-hikayesi-yetmez",
+      "section": "ÖNSÖZ · ELEŞTİRİ",
+      "title": "İngiliz psikologların yarar hikâyesi yetmez",
+      "paragraphs": [
+        "Nietzsche iyi davranışın önce yararlı olduğu, sonra yararı unutulup alışkanlıkla iyi sayıldığı açıklamasını yetersiz bulur. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
+        "Güçlü grup kendisini yararlı olduğu için değil kendi tarzını değerli bulduğu için iyi diye adlandırmış olabilir. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Değer yalnız toplumsal faydadan değil kendini adlandırma ve hiyerarşi kurma gücünden doğar. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
+        "Nietzsche'nin rakiplerini tek tip İngiliz psikolog diye toplaması onların farklarını küçültür. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
+        "Bir değer açıklamasında fayda, güç ve kimlik mekanizmalarını ayrı ayrı sınayın. Rakibin zayıf anlatımı Nietzsche'nin kendi alternatifine kanıt sağlamaz. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+      ]
+    },
+    {
+      "id": "durak-05-soylu-iyi-once-kendisini-adlandirir",
+      "section": "BİRİNCİ İNCELEME · İYİ-FENA",
+      "title": "Soylu iyi önce kendisini adlandırır",
+      "paragraphs": [
+        "Nietzsche ilk değer biçiminin etkin ve kendinden emin grubun kendi özelliklerine iyi, sıradan olana fena demesiyle kurulmuş olabileceğini savunur. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
+        "Savaşçı aristokrat cesaret, zenginlik ve sözünde durmayı iyi; güçsüz ve gündelik olanı aşağı sayar. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
+        "Değer dış düşmana tepki olmadan içeriden taşan öz-onayla başlar. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
+        "Bu anlatı aristokrat şiddeti ve emeği görünmezleştirebilir; soylu sözü ahlaki üstünlük kanıtı değildir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
+        "Kendini olumlayan bir değerin başkasını küçültmeden kurulup kurulamayacağını sorun. Öz-onay yaratıcı olabilir, fakat başkasının emeğini fena diye silerse kendi bedelini gizler. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+      ]
+    },
+    {
+      "id": "durak-06-kole-baskaldirisi-degerlerin-yonunu-cevirir",
+      "section": "BİRİNCİ İNCELEME · İYİ-KÖTÜ",
+      "title": "Köle başkaldırısı değerlerin yönünü çevirir",
+      "paragraphs": [
+        "Doğrudan güç kullanamayan grup tehdit eden soyluya kötü, kendi sabır ve zararsızlığına iyi diyerek değer haritasını tersine çevirir. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
+        "Dövüşemeyen kişi düşmanının gücünü erdem değil günah, kendi bekleyişini korku değil iyilik olarak yorumlar. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
+        "Tepkisel yorum davranış imkânsızlığını ahlaki üstünlüğe çevirir ve uzun vadeli kültürel güç kazanır. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
+        "Ezilenlerin ahlak talebini yalnız kıskançlık saymak adaletsizliği ve gerçek dayanışmayı inkâr edebilir. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
+        "Bir hak talebinde yalnız intikam mı, gerçekten eşit yaşam alanı mı bulunduğunu somut sonuçla ayırın. Tersine çevirme ezilene dil kazandırırken hayatı yalnız düşman etrafında kurma riski taşır. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+      ]
+    },
+    {
+      "id": "durak-07-hinc-bekleyen-intikamdir",
+      "section": "BİRİNCİ İNCELEME · RESSENTIMENT",
+      "title": "Hınç bekleyen intikamdır",
+      "paragraphs": [
+        "Ressentiment anında boşalamayan öfkenin hafızada tekrar edilip değer yargısına dönüşmesidir. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
+        "Çalışan patronuna karşı çıkamaz; yıllar sonra bütün başarıyı ahlaksızlık sayarak kendi hareketsizliğine kutsallık verebilir. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
+        "Bastırılan eylem hayali intikam ve yorum üretir; kişi ne istediğinden çok kimi suçladığıyla kimlik kurar. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
+        "Her kalıcı öfke hınç değildir; hatırlama adalet arayışı ve korunma için gerekli olabilir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
+        "Öfkenizin sizi eyleme mi, sürekli aynı düşman hikâyesine mi yönelttiğini gözleyin. Adalet öfkesi geleceği kurar; hınç ise geçmiş düşmanı kimliğin tek yakıtı yapar. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+      ]
+    },
+    {
+      "id": "durak-08-kuzu-ile-yirtici-kus-benzetmesi-tehlikeli-ve-ogreticidir",
+      "section": "BİRİNCİ İNCELEME · GÜÇ",
+      "title": "Kuzu ile yırtıcı kuş benzetmesi tehlikeli ve öğreticidir",
+      "paragraphs": [
+        "Nietzsche kuzuların yırtıcı kuşu kötü, kendilerini iyi ilan etmesini güçsüzlüğün ahlaki yorumu olarak anlatır. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
+        "Kuzu kuşun avlamamasını ister; kuş ise gücünün eyleminden ayrı özgür bir özneymiş gibi suçlanır. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
+        "Dil eylemin arkasına değişmez fail koyar ve güç kullanımını özgür seçim olarak yargılar. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
+        "İnsan yırtıcı kuş değildir; özdenetim, kurum ve sorumluluk kapasitesi benzetmenin doğal zorunluluk iddiasını sınırlar. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
+        "Doğal yetenek sözünün zarar veren davranışı kaçınılmaz gösterip göstermediğini sorun. Benzetmenin hayvan doğası insanın öğrenilmiş sorumluluğunu ortadan kaldıramaz. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+      ]
+    },
+    {
+      "id": "durak-09-borc-ile-suc-ayni-kelime-kokunde-bulusur",
+      "section": "İKİNCİ İNCELEME · BORÇ",
+      "title": "Borç ile suç aynı kelime kökünde buluşur",
+      "paragraphs": [
+        "Nietzsche Almancadaki Schuld sözcüğünün borç ve suç anlamından hareketle ahlaki suçluluğun alacaklı-borçlu ilişkisinden beslendiğini öne sürer. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
+        "Borçlu sözünü tutmadığında alacaklı yalnız mal değil acı verme hakkı talep edebilir. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
+        "Hatırlama ve karşılık ilişkisi ekonomik borcu vicdani borca, sonra kutsal yükümlülüğe çevirebilir. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
+        "Etimolojik bağ tek başına bütün ahlak tarihini kanıtlamaz ve başka diller farklı yollar gösterebilir. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
+        "Maddi borç konuşmasının kişilik ve değer hükmüne dönüştüğü cümleleri fark edin. Borç dili suçluluğu ölçülebilir hesap gibi göstererek sonsuz geri ödeme talep edebilir. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+      ]
+    },
+    {
+      "id": "durak-10-bellek-aciyla-kazinmis-olabilir",
+      "section": "İKİNCİ İNCELEME · HAFIZA",
+      "title": "Bellek acıyla kazınmış olabilir",
+      "paragraphs": [
+        "Söz verebilen insan gelecekteki davranışını hatırlamak için toplumsal eğitim ve acı yoluyla bir bellek geliştirmiştir. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
+        "Eski ceza töreni ihlalin bedelini bedene kazıyarak topluluğa unutulmaz işaret bırakır. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
+        "Acı dikkat ve korku yaratır; tekrar beklentiyi içselleştirir ve hesaplanabilir kişi üretir. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
+        "Belleğin yalnız şiddetle doğduğunu söylemek bakım, oyun, dil ve işbirliğinin rolünü küçümser. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
+        "Bir kuralı ceza korkusuyla mı, ortak anlamla mı hatırladığınızı ayırın. Hatırlama yalnız korkuyla değil güvenilen kişinin verdiği sözü tutma deneyimiyle de yetişir. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+      ]
+    },
+    {
+      "id": "durak-11-ceza-tek-bir-amaca-sahip-degildir",
+      "section": "İKİNCİ İNCELEME · CEZA",
+      "title": "Ceza tek bir amaca sahip değildir",
+      "paragraphs": [
+        "Nietzsche cezanın kökeni ile tarih içinde kazandığı caydırma, intikam, tecrit, gösteri ve eğitim amaçlarını ayırır. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
+        "Aynı hapis uygulaması bir dönemde hükümdarın öcü, başka dönemde topluma dönüş programı diye savunulur. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
+        "Güçler eski biçimi devralır ve yeni işlev ekler; anlam çoğalır, hatta birbiriyle çatışır. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
+        "İşlevlerin çokluğu cezanın etkisini ölçmeyi gereksiz yapmaz; gerçek sonuç araştırılmalıdır. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
+        "Bir ceza politikasında açıklanan amaçla gözlenen sonucu karşılaştırın. Ceza amaçlarının çoğalması reform sözünün gerçek uygulamada sınanmasını gerektirir. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-12-kotu-vicdan-ice-donen-guctur",
+      "section": "İKİNCİ İNCELEME · VİCDAN",
+      "title": "Kötü vicdan içe dönen güçtür",
+      "paragraphs": [
+        "Yerleşik toplum dışa taşan saldırgan içgüdüleri yasaklayınca insanın biçim verme gücü kendi içine dönerek suçluluk ve iç benlik üretir. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
+        "Sürekli denetlenen kişi öfkesini dışarı söyleyemez; kendi isteklerini tehlikeli sayıp kendisini cezalandırmaya başlar. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
+        "Dış eylem alanı daralır, enerji iç dünya, hayal ve kendine karşı yargı olarak örgütlenir. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
+        "İçsellik yalnız hastalık değildir; sanat, plan ve özdenetim de aynı dönüşümden çıkabilir. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
+        "Kendinize yönelttiğiniz sert bir cümlenin aslında kime söylenemediğini düşünün. İçe dönen güç kendine işkence kadar şiir, plan ve vicdani itiraz üretebilir. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-13-cileci-ideal-aciya-anlam-verir",
+      "section": "ÜÇÜNCÜ İNCELEME · İDEAL",
+      "title": "Çileci ideal acıya anlam verir",
+      "paragraphs": [
+        "İnsan acının kendisinden çok neden acı çektiğini bilememeye dayanamaz; çileci ideal acıyı suç, sınav ve arınma hikâyesine bağlar. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
+        "Hasta kişi rastlantı ve koşul yerine acısını kendi günahının cezası saydığında korkunç ama düzenli bir açıklama bulur. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
+        "Anlam çaresizliği azaltır; aynı anda öfkeyi kişinin kendisine yöneltir ve yaşam isteğini kuşku altına alır. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
+        "Dini anlam her zaman kendine nefret üretmez; topluluk, bakım ve dayanıklılık da sağlayabilir. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
+        "Acıya verdiğiniz açıklamanın sizi yardım aramaya mı kendinizi cezalandırmaya mı götürdüğünü sorun. Acının anlamı yardımla dayanışmayı büyütüyorsa kendini suçlayan açıklamadan ayrılır. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+      ]
+    },
+    {
+      "id": "durak-14-sanatci-cileci-ideali-odunc-kullanabilir",
+      "section": "ÜÇÜNCÜ İNCELEME · SANAT",
+      "title": "Sanatçı çileci ideali ödünç kullanabilir",
+      "paragraphs": [
+        "Nietzsche sanatçının eserinde saflık veya vazgeçişi yüceltse bile kendi yaşamında bu ideale bağımsız bağlı olmayabileceğini söyler. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
+        "Besteci sahnede dünyevi arzudan vazgeçen kahraman yaratır, fakat üretimini ün ve kurum desteğiyle sürdürür. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
+        "Sanatsal imge başka düşünür ve dinlerden değer ödünç alır; sanatçının kişiliği eserin kanıtı değildir. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
+        "Eseri yalnız biyografiye indirmek de sanatsal biçim ve izleyici etkisini kaçırır. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
+        "Bir eserde savunulan değerle eseri mümkün kılan maddi düzeni karşılaştırın. Sanat değeri sahneleyebilir; sahnelediği değerin zorunlu tanığı değildir. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-15-cileci-rahip-aciyi-yonetir",
+      "section": "ÜÇÜNCÜ İNCELEME · RAHİP",
+      "title": "Çileci rahip acıyı yönetir",
+      "paragraphs": [
+        "Rahip hasta topluluğun hıncını dış düşmana patlatmak yerine kişinin kendi suçuna yönlendirerek sürünün dağılmasını önler. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
+        "Öfkeli kalabalığa düşmanın kadar kendi günahını düşün denir; ortak tören duyguyu düzenler. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
+        "Acıya isim, ritüel ve hedef verilir; topluluk korunurken yaşamın kendisi sanık haline gelir. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
+        "Ruhsal bakımın tamamını manipülasyon saymak gerçek teselli ve yardımı görmezden gelir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
+        "Bir liderin toplu öfkeyi hangi hedefe çevirdiğini ve kimin yarar gördüğünü izleyin. Rahibin başarısı yalnız kandırmada değil gerçek acıya bir topluluk dili vermesindedir. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-16-bilim-de-hakikat-idealine-bagli-olabilir",
+      "section": "ÜÇÜNCÜ İNCELEME · BİLİM",
+      "title": "Bilim de hakikat idealine bağlı olabilir",
+      "paragraphs": [
+        "Nietzsche modern bilimin dine karşı görünse de koşulsuz hakikat isteğini sorgulamadan sürdürdüğünde çileci idealin mirasçısı olabileceğini savunur. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
+        "Araştırmacı hiçbir değer taşımadığını söylerken hakikatin her bedelden üstün olduğuna güçlü biçimde inanır. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
+        "Tanrı geri çekilir fakat duyusal hayat karşısında saf, tarafsız gerçeklik ideali korunur. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
+        "Bilimsel yöntem ile yaşam düşmanlığı eşitlenmemelidir; düzeltilebilir kanıt dogmaya karşı güçlü araçtır. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
+        "Bir araştırmada yöntemsel dürüstlükle hakikati insan zararından bağımsız kutsallaştırmayı ayırın. Bilimin eleştirel gücü kendi koşulsuz hakikat değerini de tartışabilmesine bağlıdır. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-17-insan-hic-istememektense-hicligi-ister",
+      "section": "SONUÇ · İSTEME",
+      "title": "İnsan hiç istememektense hiçliği ister",
+      "paragraphs": [
+        "Kitabın son cümle hattı çileci idealin gücünü, insana acı içinde bile yön ve isteme nesnesi vermesinde bulur. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
+        "Hayatını suç sayan kişi yine de arınma hedefi için disiplin kurar; amaç yaşamı küçültür ama iradeyi dağılmaktan korur. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
+        "Anlamsızlık korkusu olumsuz amacı bile amaçsızlığa tercih ettirir. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
+        "Bu teşhis insanın yalnız tek ideale mahkûm olduğu anlamına gelmez; ortak ve yaşamı destekleyen anlamlar kurulabilir. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
+        "Sizi harekete geçiren amacın kapasite mi yalnız kendini inkâr mı ürettiğini sorun. Yeni anlam üretmek istemeyi hiçliğe bağlamadan sürdürmenin siyasal ve kişisel yoludur. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Soykütük ahlakın kirli kökenini bulup bütün değerleri çöpe atmak veya güçlü insanı ahlak üstü ilan etmek değildir.",
+        "Hınç kavramını her adalet talebine yapıştırmak, güçlü kişinin verdiği gerçek zararı görünmez kılar ve kavramı ayrıcalık savunusuna çevirir.",
+        "Okur Nietzsche'nin köken hikâyelerini tarihsel varsayım olarak sınamalı; bir değerin kökeni, bugünkü işlevi ve etik sonucu arasında otomatik kısa yol kurmamalıdır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser ahlak felsefesi, psikoloji ve eleştirel teoride soykütük yönteminin başlıca kaynağı oldu; suçluluk, hınç ve çileci ideal çözümlemeleri sonraki düşünürleri derinden etkiledi.",
+        "Eleştiriler etimolojik ve tarihsel iddiaların sık sık spekülatif olduğunu, soylu-köle karşıtlığının toplumsal şiddeti basitleştirdiğini ve merhamet ile eşitliği gereksiz yere zayıflıkla ilişkilendirdiğini söyler.",
+        "Bir yorum kitapta cezalandırıcı vicdanın kökenini açan özgürleştirici psikoloji görür; diğeri soylu güç hayranlığının ezilenlerin haklı öfkesini küçülttüğünü savunur."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Bu değer hangi mücadelede doğdu? Zaman içinde hangi yeni işlevi kazandı? Bugün acıyı azaltıyor mu, yoksa yalnız başka yere mi yöneltiyor?",
+        "Suçluluk duyduğunuz bir kuralı seçip borç, ceza, topluluk beklentisi ve kendi benimsediğiniz değer olarak dört ayrı kaynağa ayırın.",
+        "Okur ahlak kelimelerinin tek kökü değil katmanlı tarihi olduğunu gördüğünde, hem itaat ettiği değeri hem Nietzsche'nin onu açıklama biçimini sorgulayabilir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Ahlakın soykütüğü değerlerin değişmez özünü değil, güç, hafıza, borç, içselleştirme ve acıya anlam verme mücadeleleri içinde değişen işlevlerini araştırır.",
+        "Akılda tutulacak son görüntü, pas ve koyu altın tonlarında borç defterinden vicdan aynasına, ceza meydanından boş çile taşına uzanan çatallı bir soy ağacı.",
+        "Nietzsche bizi bir değeri yalnız doğru mu diye değil, nereden geldi, kimde ne yapıyor ve hangi yaşam biçimini mümkün kılıyor diye sorgulamaya çağırır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-ahlakin-degerini-de-sormak-gerekir": {
+      "image": "/images/summary-art-268-chapter-01-ahlakin-degerini-de-sormak-gerekir-v1.webp",
+      "imageCaption": "Ahlakın değerini de sormak gerekir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-soykutuk-duz-baslangic-hikayesi-degildir": {
+      "image": "/images/summary-art-268-chapter-02-soykutuk-duz-baslangic-hikayesi-degildir-v1.webp",
+      "imageCaption": "Soykütük düz başlangıç hikâyesi değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-ingiliz-psikologlarin-yarar-hikayesi-yetmez": {
+      "image": "/images/summary-art-268-chapter-03-ingiliz-psikologlarin-yarar-hikayesi-yetmez-v1.webp",
+      "imageCaption": "İngiliz psikologların yarar hikâyesi yetmez düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-soylu-iyi-once-kendisini-adlandirir": {
+      "image": "/images/summary-art-268-chapter-04-soylu-iyi-once-kendisini-adlandirir-v1.webp",
+      "imageCaption": "Soylu iyi önce kendisini adlandırır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-kole-baskaldirisi-degerlerin-yonunu-cevirir": {
+      "image": "/images/summary-art-268-chapter-05-kole-baskaldirisi-degerlerin-yonunu-cevirir-v1.webp",
+      "imageCaption": "Köle başkaldırısı değerlerin yönünü çevirir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-hinc-bekleyen-intikamdir": {
+      "image": "/images/summary-art-268-chapter-06-hinc-bekleyen-intikamdir-v1.webp",
+      "imageCaption": "Hınç bekleyen intikamdır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-kuzu-ile-yirtici-kus-benzetmesi-tehlikeli-ve-ogreticidir": {
+      "image": "/images/summary-art-268-chapter-07-kuzu-ile-yirtici-kus-benzetmesi-tehlikeli-ve-o-v1.webp",
+      "imageCaption": "Kuzu ile yırtıcı kuş benzetmesi tehlikeli ve öğreticidir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-borc-ile-suc-ayni-kelime-kokunde-bulusur": {
+      "image": "/images/summary-art-268-chapter-08-borc-ile-suc-ayni-kelime-kokunde-bulusur-v1.webp",
+      "imageCaption": "Borç ile suç aynı kelime kökünde buluşur düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-bellek-aciyla-kazinmis-olabilir": {
+      "image": "/images/summary-art-268-chapter-09-bellek-aciyla-kazinmis-olabilir-v1.webp",
+      "imageCaption": "Bellek acıyla kazınmış olabilir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-ceza-tek-bir-amaca-sahip-degildir": {
+      "image": "/images/summary-art-268-chapter-10-ceza-tek-bir-amaca-sahip-degildir-v1.webp",
+      "imageCaption": "Ceza tek bir amaca sahip değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-kotu-vicdan-ice-donen-guctur": {
+      "image": "/images/summary-art-268-chapter-11-kotu-vicdan-ice-donen-guctur-v1.webp",
+      "imageCaption": "Kötü vicdan içe dönen güçtür düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-cileci-ideal-aciya-anlam-verir": {
+      "image": "/images/summary-art-268-chapter-12-cileci-ideal-aciya-anlam-verir-v1.webp",
+      "imageCaption": "Çileci ideal acıya anlam verir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-sanatci-cileci-ideali-odunc-kullanabilir": {
+      "image": "/images/summary-art-268-chapter-13-sanatci-cileci-ideali-odunc-kullanabilir-v1.webp",
+      "imageCaption": "Sanatçı çileci ideali ödünç kullanabilir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-cileci-rahip-aciyi-yonetir": {
+      "image": "/images/summary-art-268-chapter-14-cileci-rahip-aciyi-yonetir-v1.webp",
+      "imageCaption": "Çileci rahip acıyı yönetir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-bilim-de-hakikat-idealine-bagli-olabilir": {
+      "image": "/images/summary-art-268-chapter-15-bilim-de-hakikat-idealine-bagli-olabilir-v1.webp",
+      "imageCaption": "Bilim de hakikat idealine bağlı olabilir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-insan-hic-istememektense-hicligi-ister": {
+      "image": "/images/summary-art-268-chapter-16-insan-hic-istememektense-hicligi-ister-v1.webp",
+      "imageCaption": "İnsan hiç istememektense hiçliği ister düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

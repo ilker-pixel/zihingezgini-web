@@ -1,0 +1,348 @@
+{
+  "bookNo": 264,
+  "title": "Hiçlik Üzerine İnkılap",
+  "author": "Boris Groys",
+  "subtitle": "Modern sanatın neden sık sık sıfırdan başlama, eski dünyayı silme, arşive girme ve gündelik hayatı yeniden tasarlama hayali kurduğunu; Maleviç'in siyah karesinden müzeye ve dijital akışa uzanan sahnelerle anlatan açık bir rehber.",
+  "coverImage": "/images/summary-cover-264-hiclik-uzerine-inkilap-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/264-hiclik-uzerine-inkilap-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#8A514A",
+  "meta": {
+    "originalTitle": "Revolution of Nothingness / selected essays",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Okuma haritasında kullanılan bu Türkçe başlık, Groys'un devrim, hiçlik, avangard, arşiv ve çağdaş medya üzerine birbiriyle bağlantılı denemelerini tek kapıda toplar. Merkezde özellikle Rus avangardının sıfır noktası, devrimin eski bağlamı askıya alması, yeninin arşivde değer kazanması ve sanatın zaman karşısındaki koruma siyaseti bulunur. Rehber bunu tek, doğrusal bir tarih kitabı gibi değil, ortak bir düşünce hattı olarak açıkça belirtir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Verso - On the New",
+      "url": "https://books.google.com/books/about/On_the_New.html?id=D7pvDwAAQBAJ"
+    },
+    {
+      "id": 2,
+      "title": "MIT Press - Russian Cosmism",
+      "url": "https://mitpress.mit.edu/9780262037433/russian-cosmism/"
+    },
+    {
+      "id": 3,
+      "title": "NYU - Boris Groys",
+      "url": "https://as.nyu.edu/faculty/boris-groys.html"
+    }
+  ],
+  "enrichmentStandardVersion": 3,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Modern sanatın neden sık sık sıfırdan başlama, eski dünyayı silme, arşive girme ve gündelik hayatı yeniden tasarlama hayali kurduğunu; Maleviç'in siyah karesinden müzeye ve dijital akışa uzanan sahnelerle anlatan açık bir rehber.",
+        "Groys hiçliği boşluk veya dünyanın gerçekten yok olması diye kullanmaz. Hiçlik, hazır kimlik ve değerlerden geri çekilerek onları taşıyan bağlamı görebilme konumudur. Aynı biçimde müzeyi yalnız iyi, piyasa ve interneti yalnız kötü saymaz; her ortamın neyi görünür, değerli ve kalıcı yaptığını sorar.",
+        "Maleviç beyaz zemin üzerine siyah kareyi sergilediğinde izleyici tanıdık manzara, kahraman ve hikâye bulamaz. Resim sanki kültürün sıfır noktasıdır. Fakat bu hiçlik boş duvar olarak kalmaz; yeni biçimlerin hangi zeminde başlayabileceğini ve eski dünyanın gerçekten silinip silinemeyeceğini tartışmaya açar."
+      ]
+    },
+    {
+      "id": "durak-02-baslik-tek-bir-bosluk-kitabi-degildir",
+      "section": "GİRİŞ · KAPSAM",
+      "title": "Başlık tek bir boşluk kitabı değildir",
+      "paragraphs": [
+        "Bu okuma, Groys'un farklı dönemlerde yazdığı devrim, avangard, arşiv ve hiçlik denemelerini ortak bir soru çevresinde birleştirir. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
+        "Aynı düşünür bir metinde Maleviç'in karesini, diğerinde müze deposunu, başka bir metinde internet akışını inceler. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
+        "Ortak bağ eski değerin askıya alınması ve yeni değerin hangi kurumda kurulacağıdır. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
+        "Denemeleri sanki aynı yılda yazılmış tek sistem gibi sunmak tarihsel farkları siler. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
+        "Her bölümde fikrin hangi sanat ve medya bağlamına ait olduğunu ayrıca not edin. Kapsamı açıkça belirtmek, farklı denemelerden kurulan haritayı uydurma tek kitap olmaktan korur. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-03-yeni-gokten-dusmez-yer-degistirir",
+      "section": "YENİ · BAĞLAM",
+      "title": "Yeni gökten düşmez, yer değiştirir",
+      "paragraphs": [
+        "Groys yeniliği bütünüyle benzersiz nesne üretmekten çok, kültür arşivi ile değersiz sayılan dış alan arasındaki sınırı değiştirmek olarak açıklar. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
+        "Duchamp sıradan pisuvarı müzeye taşıdığında nesnenin maddesi değil bulunduğu bağlam ve bakış değişir. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
+        "Profan nesne arşive girer, eski değer hiyerarşisi sarsılır ve kurum yeni karşılaştırma düzeni kurar. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
+        "Bağlam her şeyi sanat yapmaz; seçme gücü, yorum ve koruma kararı ayrıca açıklanmalıdır. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
+        "Gündelik bir nesnenin müze, dükkân ve evde neden farklı değer gördüğünü karşılaştırın. Yenilik bağlam değişimiyse taşıma eylemini yapan kurum ve kişinin gücü temel mesele olur. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-04-arsiv-deger-ile-degersizi-ayirir",
+      "section": "ARŞİV · SINIR",
+      "title": "Arşiv değer ile değersizi ayırır",
+      "paragraphs": [
+        "Kültürel arşiv bazı eserleri zaman içinde korunmaya değer sayarken dışarıdaki büyük alanı geçici ve unutulabilir bırakır. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
+        "Müze tek bir sandalyeyi iklim kontrollü odada saklar, aynı tür binlerce sandalye çöpe gider. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
+        "Kayıt, sergileme ve bakım nesneye kültürel ömür verir; dışarıda kalan şey yenilik için potansiyel kaynak olur. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
+        "Arşiv tarafsız hafıza değildir ama yalnız baskı makinesi de değildir; kayıp karşısında gerçek koruma sağlar. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
+        "Mahallenizde neyin tabelayla anı, neyin iz bırakmadan atık yapıldığını gözleyin. Arşiv unutuşa direnç sağlar ama bu direncin eşit dağılmadığını da gösterir. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-05-degerli-ve-degersiz-surekli-yer-degistirir",
+      "section": "DEĞER · DEĞİŞİM",
+      "title": "Değerli ve değersiz sürekli yer değiştirir",
+      "paragraphs": [
+        "Modern kültür yeniyi üretirken daha önce değerli olanı sıradanlaştırır ve değersiz olanı merkeze taşıyabilir. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
+        "Eski reklam afişi yayımlandığı gün tüketim kâğıdıyken yıllar sonra tasarım arşivinin nadir parçası olur. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
+        "Kültürel ekonomi seçme, yeniden adlandırma ve korumayla değer sınırını tekrar çizer. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
+        "Piyasa fiyatı, estetik değer ve tarihsel önem aynı şey değildir; bazen kesişir bazen ayrılır. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
+        "Değer kazanan eski bir eşyanın fiyat dışında hangi hikâyeyle değiştiğini araştırın. Kültürel değer sabit öz değil, zaman içinde bakım ve karşılaştırmayla yaşayan ilişkidir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+      ]
+    },
+    {
+      "id": "durak-06-siyah-kare-sifir-noktasi-kurar",
+      "section": "AVANGARD · MALEVİÇ",
+      "title": "Siyah Kare sıfır noktası kurar",
+      "paragraphs": [
+        "Maleviç'in Siyah Kare'si geçmiş resim geleneğini devam ettiren bir konu yerine biçimlerin yok oluşunu ve yeniden başlama iddiasını sergiler. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
+        "İkonların asıldığı köşeye yerleştirilen kara yüzey hem eski kutsal yeri boşaltır hem yeni sanatın simgesine dönüşür. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
+        "Azaltma hareketi izleyiciyi tanıdık temsil bağından çıkarır ve resmin bağlamını görünür yapar. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
+        "Sıfır noktası geçmişin gerçekten yok olduğu kanıtı değildir; eser eski ikon düzeniyle konuşmaya devam eder. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
+        "Bir tasarımın her şeyi azaltarak hangi görünmez geleneği yine de taşıdığını bulun. Sıfır noktası kendi geleneğini reddederken o gelenekten alınan sergileme yerini kullanır. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+      ]
+    },
+    {
+      "id": "durak-07-devrim-once-baglami-sifirladigini-ilan-eder",
+      "section": "DEVRİM · BAŞLANGIÇ",
+      "title": "Devrim önce bağlamı sıfırladığını ilan eder",
+      "paragraphs": [
+        "Siyasi devrim yalnız yönetici değiştirmek değil, eski kurum ve anlamların geçerliliğini askıya alıp hayatı yeniden kurma iddiasıdır. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
+        "Ekim Devrimi sonrasında sanatçılar yeni takvim, afiş, bina, giysi ve gündelik eşya tasarlamayı aynı gelecek projesinin parçası sayar. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
+        "Eski bağlam değersizleştirilir; sanatçı nesne üretmekten toplumun görünür düzenini tasarlamaya geçer. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
+        "Hiçbir devrim tüm geçmişi silemez; alışkanlık, uzmanlık ve güç yeni düzende geri döner. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
+        "Bir büyük değişim sözünün hangi eski kurumları gerçekten, hangilerini yalnız ad olarak değiştirdiğini sorun. Devrim eski takvimi kesebilir; fakat insan hafızası ve maddi altyapı kesintiyi sürekli pazarlık konusu yapar. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-08-avangard-hayatin-tamamini-tasarlamak-ister",
+      "section": "TOPLAM TASARIM · ÜTOPYA",
+      "title": "Avangard hayatın tamamını tasarlamak ister",
+      "paragraphs": [
+        "Rus avangardı sanatın müze duvarında kalması yerine üretim, şehir ve gündelik davranışa karışmasını amaçlar. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
+        "Ressam tuval yapmakla yetinmeyip işçi kıyafeti, propaganda treni ve ortak yaşam mekânı tasarlar. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Sanatçı geleceğin toplumsal biçimlerini prova eden mühendis rolüne yaklaşır. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
+        "Toplam tasarım özgürleştirici ortaklık kadar herkese tek yaşam biçimi dayatma riski taşır. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
+        "İyi tasarlanmış bir kamusal alanın kullanıcıya imkân mı, tek doğru davranış mı verdiğine bakın. Hayatı tasarlama arzusu sanatçı ile yönetici arasındaki sınırı belirsizleştirir. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+      ]
+    },
+    {
+      "id": "durak-09-utopya-iktidara-yerlesince-bicim-degistirir",
+      "section": "SOVYET · KURUM",
+      "title": "Ütopya iktidara yerleşince biçim değiştirir",
+      "paragraphs": [
+        "Devrimci sanatın açık deneyi devlet projesine bağlandığında avangardın sıfır noktası resmî bütünlük ve denetim düzenine dönüşebilir. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
+        "Çoğul gelecek tasarıları yerini tek kahraman, tek tarih ve kolay okunan sosyalist gerçekçi görüntülere bırakır. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
+        "Siyasi merkez kültürü tüm toplum için küratör gibi seçer, korur ve görünür kılar. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
+        "Groys'un Stalinist kültürü toplam sanat eseri olarak okuması şiddeti estetik benzetmeye indirgeme riski taşır. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
+        "Bir devlet töreninde sanatın yalnız süs mü, davranış ve tarih düzenleyen araç mı olduğunu inceleyin. Toplam sanat benzetmesi estetiğin iktidardaki rolünü gösterirken kurban deneyimini örtemez. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+      ]
+    },
+    {
+      "id": "durak-10-muze-zamani-yavaslatan-bakim-makinesidir",
+      "section": "MÜZE · ÖMÜR",
+      "title": "Müze zamanı yavaşlatan bakım makinesidir",
+      "paragraphs": [
+        "Sanat eseri biyolojik insan ve gündelik eşya gibi eskir; müze onu seçilmiş bakım, onarım ve kayıtla yok oluştan geçici olarak korur. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
+        "Sokaktaki afiş yağmurda silinirken aynı afiş müze deposunda asitsiz kâğıt arasında yüz yıl yaşayabilir. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
+        "Koruma kültürel ölümsüzlük vaadi verir ve hangi geçmişin geleceğe ulaşacağını belirler. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
+        "Müze her şeyi saklayamaz; bakım kararı dışlama, bütçe ve uzmanlık içerir. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
+        "Bir yerel müzenin depoya aldığı ve almadığı nesnelerin ortak özelliğini araştırın. Koruma siyaseti kültürel hafızanın görünmeyen emek ve enerji maliyetini taşır. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+      ]
+    },
+    {
+      "id": "durak-11-kurator-gorunurlugun-yonetmenidir",
+      "section": "KÜRATÖR · SEÇİM",
+      "title": "Küratör görünürlüğün yönetmenidir",
+      "paragraphs": [
+        "Küratör yalnız eserleri yan yana koymaz; mekân, sıra ve açıklamayla izleyicinin neyi karşılaştıracağını belirler. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
+        "Aynı fotoğraf savaş belgeseli, aile hatırası veya estetik deney başlığı altında farklı anlam kazanır. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
+        "Yerleştirme nesneler arasında geçici bir dünya kurar ve seçme yetkisini görünür ya da görünmez kullanır. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
+        "İzleyici pasif değildir; rotayı bozabilir ve verilen yoruma karşı okuyabilir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
+        "Bir sergide ilk gördüğünüz eserle göz hizası dışında bırakılan eseri karşılaştırın. Küratörlük seçimi açıklarsa güç tartışılabilir, doğal sunarsa görünmezleşir. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+      ]
+    },
+    {
+      "id": "durak-12-belgeleme-gorunmeyen-sanati-tasir",
+      "section": "BELGE · PERFORMANS",
+      "title": "Belgeleme görünmeyen sanatı taşır",
+      "paragraphs": [
+        "Geçici performans ve süreç sanatı bittiğinde fotoğraf, metin ve video eserin gelecekteki temsilcisine dönüşür. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
+        "Bir saat süren eylemden geriye seçilmiş üç fotoğraf kalır ve sonraki kuşak olayı bu karelerle tanır. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
+        "Belge olayı korurken onu başka medya, çerçeve ve mülkiyet düzenine çevirir. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
+        "Belge eserin kendisiyle tamamen aynı değildir; fakat yalnız eksik gölge de sayılmaz. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
+        "Telefonla kaydettiğiniz bir anın kayıt yüzünden nasıl farklı yaşandığını düşünün. Belge geçmişi getirmez; geçmişle gelecekte kurulacak karşılaşmanın malzemesini seçer. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+      ]
+    },
+    {
+      "id": "durak-13-dijital-kopya-akista-yeniden-kurulur",
+      "section": "DİJİTAL · AKIŞ",
+      "title": "Dijital kopya akışta yeniden kurulur",
+      "paragraphs": [
+        "İnternette görüntü sonsuz kopyalanabilir görünür; fakat her gösterim yeni ekran, algoritma, hız ve yorum bağlamında gerçekleşir. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
+        "Aynı resim müze sitesinde yüksek çözünürlüklü arşiv, sosyal ağda birkaç saniyelik mizah malzemesi olur. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
+        "Dosya benzer kalsa da dolaşım koşulu değer, dikkat ve anlamı yeniden üretir. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
+        "Dijital ortam kendiliğinden demokratik değildir; platform sahipliği ve görünürlük sıralaması güçlü kapılar kurar. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
+        "Bir görselin kaynak sayfasıyla yeniden paylaşıldığı yerdeki başlık ve çevresini karşılaştırın. Dijital akış kopyayı çoğaltırken dikkat ömrünü kısaltabilir. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+      ]
+    },
+    {
+      "id": "durak-14-kendini-tasarlamak-cagdas-bir-zorunluluga-donusur",
+      "section": "ÖZ-TASARIM · KAMU",
+      "title": "Kendini tasarlamak çağdaş bir zorunluluğa dönüşür",
+      "paragraphs": [
+        "Modern birey yalnız yaptığı işle değil profil, fotoğraf, söz ve görünüşle kendi kamusal imgesinin sanatçısı olmaya çağrılır. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
+        "İş başvurusu yapan kişi deneyimini seçer, fotoğrafını düzenler ve tutarlı kişisel marka sunar. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
+        "Görünürlük fırsat sağlar; aynı anda kişi yaşayan çelişkilerini sergilenebilir yüzeye göre budar. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
+        "Öz-tasarım bütünüyle sahtecilik değildir; herkes farklı çevrelerde kendini seçerek anlatır. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
+        "Bir profilinizde özellikle gösterdiğiniz ve sistemli olarak dışarıda bıraktığınız yönleri yazın. Kişisel marka, insanın değişme hakkını dün yayımladığı görüntüye bağlayabilir. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+      ]
+    },
+    {
+      "id": "durak-15-sanat-ile-cop-arasindaki-fark-bakim-olabilir",
+      "section": "ZAMAN · ÇÖP",
+      "title": "Sanat ile çöp arasındaki fark bakım olabilir",
+      "paragraphs": [
+        "Groys teknolojik dünyanın ürettiği işlevsiz nesnelerin sanat veya çöp oluşunda koruma ve değer kararının belirleyici olduğunu vurgular. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
+        "Bozulan telefon çöpe gider; sanatçı aynı telefonu vitrinde çağın hafızası olarak korur. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
+        "İşlev bittiğinde nesnenin geleceği estetikleştirme ve bakım siyasetine bağlanır. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
+        "Her korunan nesne iyi sanat, her atılan nesne değersiz değildir; çevresel maliyet de hesaba katılmalıdır. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
+        "Attığınız bir eşyanın hangi hikâye eklense saklanmaya değer görüneceğini düşünün. Çöp kavramı zaman, bakım ve mülkiyetin ahlaki coğrafyasını açığa çıkarır. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-16-hiclik-gorunmez-bagi-gorunur-kilabilir",
+      "section": "HİÇLİK · MESAFE",
+      "title": "Hiçlik görünmez bağı görünür kılabilir",
+      "paragraphs": [
+        "Kişi hazır kimlik ve değerlerden geçici olarak geri çekildiğinde onları doğal değil kurulmuş bağlam olarak görebilir. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
+        "Sergide neredeyse boş oda, izleyiciyi nesneden çok duvar, ışık, güvenlik ve bekleme davranışıyla karşılaştırır. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
+        "Azaltma içerikten kaçış değil, içerik taşınırken görünmeyen kurumu öne çıkaran yöntem olur. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
+        "Hiçlik gerçek bağımlılıkları sihirli biçimde yok etmez; boşluk da mülkiyet ve emekle kurulur. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
+        "Bir mekândan ana nesneyi zihnen çıkarıp geriye kalan destek düzenini listeleyin. Hiçlik konumu bağımsızlık değil, bağımlılığı fark edecek kısa mesafe sağlar. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-17-devrim-yok-etmekten-cok-yeniden-arsivler",
+      "section": "SONUÇ · HAFIZA",
+      "title": "Devrim yok etmekten çok yeniden arşivler",
+      "paragraphs": [
+        "Eski dünyayı sıfırlama iddiasıyla başlayan devrim sonunda kendi simge, kahraman ve belgelerini koruyan yeni bir arşiv kurar. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
+        "Yıkılan heykelin fotoğrafı yeni müzede devrimin başlangıç nesnesi olarak sergilenebilir. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
+        "Değerden düşürme ve yeniden değer verme aynı tarihsel hareketin iki yüzüdür. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
+        "Yeni arşiv de kalıcı değildir; sonraki kuşak onun dışarıda bıraktıklarını geri çağırabilir. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
+        "Bir siyasi değişimden sonra hangi görüntünün kaldırılıp hangisinin ders kitabına girdiğini araştırın. Her devrim kendi unutma politikasını kurduğu anda yeni bir karşı-arşiv ihtiyacı doğurur. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Bu başlık altında hiçlik, sanatın anlamsız olduğu veya devrimin yalnız yıkım demek olduğu biçiminde okunmamalıdır.",
+        "Siyah Kare'yi içi boş bir resim diye geçmek, boşluğun ikon köşesi, devrim ve yeni başlangıç bağlamında nasıl çalıştığını kaçırır.",
+        "Okur her sıfır ve yenilik iddiasında hangi eski bağın askıya alındığını, hangi kurumun yeni değer verdiğini ve neyin yine dışarıda kaldığını göstermelidir."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Groys'un sanat, arşiv ve siyaset arasında kurduğu bağ çağdaş sanat kuramında etkili oldu; özellikle küratörlük, yerleştirme, Sovyet avangardı ve dijital dolaşım tartışmalarında geniş yankı buldu.",
+        "Eleştiriler güçlü paradoksların tarihsel şiddet ve sınıf farklarını estetik model içinde düzleştirebildiğini, müze ve küratör gücünü fazla bütünlüklü anlattığını söyler. Bu haritadaki Türkçe başlığın tek bir standart İngilizce kitap adına değil, seçilmiş deneme hattına karşılık geldiği de açık tutulmalıdır.",
+        "Bir okur Groys'u görünmez kültür kurumlarını şaşırtıcı örneklerle açan düşünür sayar; diğeri her şeyi arşiv ve sergileme mantığına çevirdiğinde gündelik direnişin canlılığını kaybettiğini düşünür."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Neyi sıfır sayıyoruz? Yeni değeri kim veriyor? Geleceğe hangi nesnenin ve hikâyenin ulaşmasına kim karar veriyor?",
+        "Evinizde saklanan üç ve atılan üç nesneyi seçip işlev, hatıra, bakım maliyeti ve gelecekteki iz başlıklarıyla karşılaştırın.",
+        "Okur boş görünen karenin aslında müze, tarih, devrim ve kendi bakışıyla dolu olduğunu fark ettiğinde Groys'un hiçlik hamlesi çalışmaya başlar."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Modern sanatın hiçliği saf boşluk değil, eski değer bağını askıya alıp arşiv, kurum ve izleyicinin yeniyi nasıl kurduğunu görünür yapan bir sıfır noktasıdır.",
+        "Akılda tutulacak son görüntü, kızıl ve siyah tonlarda boş bir kareden müze deposuna, devrim meydanına ve parlayan dijital ekrana uzanan görünürlük yolu.",
+        "Groys bizi yeni olanın nesnenin içinde saklı bir mucize değil, değer ile değersiz arasındaki sınırı kimin ve nasıl değiştirdiği sorusu olarak görmeye çağırır."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-baslik-tek-bir-bosluk-kitabi-degildir": {
+      "image": "/images/summary-art-264-chapter-01-baslik-tek-bir-bosluk-kitabi-degildir-v1.webp",
+      "imageCaption": "Başlık tek bir boşluk kitabı değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-yeni-gokten-dusmez-yer-degistirir": {
+      "image": "/images/summary-art-264-chapter-02-yeni-gokten-dusmez-yer-degistirir-v1.webp",
+      "imageCaption": "Yeni gökten düşmez, yer değiştirir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-arsiv-deger-ile-degersizi-ayirir": {
+      "image": "/images/summary-art-264-chapter-03-arsiv-deger-ile-degersizi-ayirir-v1.webp",
+      "imageCaption": "Arşiv değer ile değersizi ayırır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-degerli-ve-degersiz-surekli-yer-degistirir": {
+      "image": "/images/summary-art-264-chapter-04-degerli-ve-degersiz-surekli-yer-degistirir-v1.webp",
+      "imageCaption": "Değerli ve değersiz sürekli yer değiştirir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-siyah-kare-sifir-noktasi-kurar": {
+      "image": "/images/summary-art-264-chapter-05-siyah-kare-sifir-noktasi-kurar-v1.webp",
+      "imageCaption": "Siyah Kare sıfır noktası kurar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-devrim-once-baglami-sifirladigini-ilan-eder": {
+      "image": "/images/summary-art-264-chapter-06-devrim-once-baglami-sifirladigini-ilan-eder-v1.webp",
+      "imageCaption": "Devrim önce bağlamı sıfırladığını ilan eder düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-avangard-hayatin-tamamini-tasarlamak-ister": {
+      "image": "/images/summary-art-264-chapter-07-avangard-hayatin-tamamini-tasarlamak-ister-v1.webp",
+      "imageCaption": "Avangard hayatın tamamını tasarlamak ister düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-utopya-iktidara-yerlesince-bicim-degistirir": {
+      "image": "/images/summary-art-264-chapter-08-utopya-iktidara-yerlesince-bicim-degistirir-v1.webp",
+      "imageCaption": "Ütopya iktidara yerleşince biçim değiştirir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-muze-zamani-yavaslatan-bakim-makinesidir": {
+      "image": "/images/summary-art-264-chapter-09-muze-zamani-yavaslatan-bakim-makinesidir-v1.webp",
+      "imageCaption": "Müze zamanı yavaşlatan bakım makinesidir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-kurator-gorunurlugun-yonetmenidir": {
+      "image": "/images/summary-art-264-chapter-10-kurator-gorunurlugun-yonetmenidir-v1.webp",
+      "imageCaption": "Küratör görünürlüğün yönetmenidir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-belgeleme-gorunmeyen-sanati-tasir": {
+      "image": "/images/summary-art-264-chapter-11-belgeleme-gorunmeyen-sanati-tasir-v1.webp",
+      "imageCaption": "Belgeleme görünmeyen sanatı taşır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-dijital-kopya-akista-yeniden-kurulur": {
+      "image": "/images/summary-art-264-chapter-12-dijital-kopya-akista-yeniden-kurulur-v1.webp",
+      "imageCaption": "Dijital kopya akışta yeniden kurulur düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-kendini-tasarlamak-cagdas-bir-zorunluluga-donusur": {
+      "image": "/images/summary-art-264-chapter-13-kendini-tasarlamak-cagdas-bir-zorunluluga-donu-v1.webp",
+      "imageCaption": "Kendini tasarlamak çağdaş bir zorunluluğa dönüşür düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-sanat-ile-cop-arasindaki-fark-bakim-olabilir": {
+      "image": "/images/summary-art-264-chapter-14-sanat-ile-cop-arasindaki-fark-bakim-olabilir-v1.webp",
+      "imageCaption": "Sanat ile çöp arasındaki fark bakım olabilir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-hiclik-gorunmez-bagi-gorunur-kilabilir": {
+      "image": "/images/summary-art-264-chapter-15-hiclik-gorunmez-bagi-gorunur-kilabilir-v1.webp",
+      "imageCaption": "Hiçlik görünmez bağı görünür kılabilir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-devrim-yok-etmekten-cok-yeniden-arsivler": {
+      "image": "/images/summary-art-264-chapter-16-devrim-yok-etmekten-cok-yeniden-arsivler-v1.webp",
+      "imageCaption": "Devrim yok etmekten çok yeniden arşivler düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

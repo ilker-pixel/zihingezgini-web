@@ -1,7 +1,7 @@
 {
   "version": 1,
   "createdAt": "2026-08-02T06:34:15+00:00",
-  "updatedAt": "2026-08-02T13:05:24+00:00",
+  "updatedAt": "2026-08-02T14:19:33+00:00",
   "targetCharacters": 20000,
   "characterGate": [
     18000,
@@ -1561,9 +1561,31 @@
       "category": "Teknoloji Felsefesi",
       "batch": 6,
       "position": 1,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "261": 27,
+          "262": 27,
+          "264": 27,
+          "265": 27,
+          "267": 27,
+          "268": 27,
+          "269": 27,
+          "270": 27,
+          "272": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T14:19:32+00:00"
     },
     {
       "no": 262,
@@ -1572,9 +1594,31 @@
       "category": "Varoluşçuluk",
       "batch": 6,
       "position": 2,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "261": 27,
+          "262": 27,
+          "264": 27,
+          "265": 27,
+          "267": 27,
+          "268": 27,
+          "269": 27,
+          "270": 27,
+          "272": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T14:19:32+00:00"
     },
     {
       "no": 264,
@@ -1583,9 +1627,31 @@
       "category": "Sanat & Felsefe",
       "batch": 6,
       "position": 3,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "261": 27,
+          "262": 27,
+          "264": 27,
+          "265": 27,
+          "267": 27,
+          "268": 27,
+          "269": 27,
+          "270": 27,
+          "272": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T14:19:32+00:00"
     },
     {
       "no": 265,
@@ -1594,9 +1660,31 @@
       "category": "Varoluşçu Felsefe",
       "batch": 6,
       "position": 4,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "261": 27,
+          "262": 27,
+          "264": 27,
+          "265": 27,
+          "267": 27,
+          "268": 27,
+          "269": 27,
+          "270": 27,
+          "272": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T14:19:32+00:00"
     },
     {
       "no": 267,
@@ -1605,9 +1693,31 @@
       "category": "Klasik Felsefe",
       "batch": 6,
       "position": 5,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "261": 27,
+          "262": 27,
+          "264": 27,
+          "265": 27,
+          "267": 27,
+          "268": 27,
+          "269": 27,
+          "270": 27,
+          "272": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T14:19:32+00:00"
     },
     {
       "no": 268,
@@ -1616,9 +1726,31 @@
       "category": "Klasik Felsefe",
       "batch": 6,
       "position": 6,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "261": 27,
+          "262": 27,
+          "264": 27,
+          "265": 27,
+          "267": 27,
+          "268": 27,
+          "269": 27,
+          "270": 27,
+          "272": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T14:19:32+00:00"
     },
     {
       "no": 269,
@@ -1627,9 +1759,31 @@
       "category": "Kritik Teori",
       "batch": 6,
       "position": 7,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "261": 27,
+          "262": 27,
+          "264": 27,
+          "265": 27,
+          "267": 27,
+          "268": 27,
+          "269": 27,
+          "270": 27,
+          "272": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T14:19:32+00:00"
     },
     {
       "no": 270,
@@ -1638,9 +1792,31 @@
       "category": "Kritik Teori",
       "batch": 6,
       "position": 8,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "261": 27,
+          "262": 27,
+          "264": 27,
+          "265": 27,
+          "267": 27,
+          "268": 27,
+          "269": 27,
+          "270": 27,
+          "272": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T14:19:32+00:00"
     },
     {
       "no": 272,
@@ -1649,9 +1825,31 @@
       "category": "Mistisizm & Tasavvuf",
       "batch": 6,
       "position": 9,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "261": 27,
+          "262": 27,
+          "264": 27,
+          "265": 27,
+          "267": 27,
+          "268": 27,
+          "269": 27,
+          "270": 27,
+          "272": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T14:19:32+00:00"
     },
     {
       "no": 273,
