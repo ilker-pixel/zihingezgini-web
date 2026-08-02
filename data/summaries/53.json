@@ -1,0 +1,357 @@
+{
+  "bookNo": 53,
+  "title": "Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler?",
+  "author": "Alison Gopnik",
+  "subtitle": "Bebekleri eksik yetişkin değil, olasılıkları yetişkinlerden geniş gören küçük araştırmacılar olarak anlatan; öğrenme, hayal, sevgi, ahlak ve bilinç üzerine sıcak bilim yolculuğu.",
+  "coverImage": "/images/summary-cover-53-bebeklerin-bahcesi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/53-bebeklerin-bahcesi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#D66B58",
+  "meta": {
+    "originalTitle": "The Philosophical Baby",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir çocuk kaşığı yere atar, siz alırsınız; yeniden atar. Yetişkin için yaramazlık, bebek için yerçekimi, ses ve insan tepkisini sınayan bir deney olabilir. Gopnik çocuk zihnini henüz boş değil, araştırmaya açık olarak görür.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Macmillan - The Philosophical Baby",
+      "url": "https://us.macmillan.com/books/9780312429843/thephilosophicalbaby/"
+    },
+    {
+      "id": 2,
+      "title": "UC Berkeley - Alison Gopnik",
+      "url": "https://psychology.berkeley.edu/people/alison-gopnik"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Bebekleri eksik yetişkin değil, olasılıkları yetişkinlerden geniş gören küçük araştırmacılar olarak anlatan; öğrenme, hayal, sevgi, ahlak ve bilinç üzerine sıcak bilim yolculuğu.",
+        "Kitap gelişim psikolojisi deneylerini felsefi sorularla birleştirir. Rehber nedensel öğrenme, karşı olgular, hayal, geniş dikkat, benlik, bağlanma ve ahlaki anlayışı açar; tek laboratuvar deneyinden çocuk yetiştirme reçetesi çıkarmaz.",
+        "Dört yaşındaki çocuk görünmeyen bir makineyi çalıştıran parçayı birkaç denemede bulur. Yetişkin alışılmış düğmeye takılırken çocuk tuhaf olasılığı dener. Cehaleti yalnız eksiklik değil keşif alanı olur."
+      ]
+    },
+    {
+      "id": "durak-02-bebek-bos-levha-degildir",
+      "section": "BİRİNCİ KISIM · BAŞLANGIÇ",
+      "title": "Bebek boş levha değildir",
+      "paragraphs": [
+        "Bebek doğduğu andan itibaren örüntü, yüz, ses ve olasılık hakkında etkin beklentiler kurar. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Yeni doğan annenin ses ritmini yabancı sesten ayırır. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Erken yetenek yetişkin bilgisiyle aynı değildir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Şaşırtıcı beceriyi küçük yetişkinlik diye abartmamak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-03-besikteki-bilim-insani",
+      "section": "BİRİNCİ KISIM · ÖĞRENME",
+      "title": "Beşikteki bilim insanı",
+      "paragraphs": [
+        "Çocuklar hipotez kurar gibi farklı eylemleri deneyip sonuçlardan dünyadaki nedenleri öğrenir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Oyuncağın hangi bloğa basınca ışık verdiğini değiştirerek sınar. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Benzetme gerçek bilim eğitimi aldıkları anlamına gelmez. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Oyuna güvenli deneme ve hata alanı açmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Beşikteki bilim insanı” ile Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-olasiliklari-tartmak",
+      "section": "BİRİNCİ KISIM · İSTATİSTİK",
+      "title": "Olasılıkları tartmak",
+      "paragraphs": [
+        "Bebekler az sayıdaki örnekten hangi nedenin daha olası olduğuna dair şaşırtıcı çıkarımlar yapabilir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Torbadaki çoğu top mavi iken kırmızı top seçen yetişkine şaşırır. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Deney düzeni gündelik hayatın karmaşıklığını sadeleştirir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Sonucu farklı bağlam ve çocuklarla tekrarlamak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-05-bakistan-niyet-okumak",
+      "section": "İKİNCİ KISIM · İNSAN",
+      "title": "Bakıştan niyet okumak",
+      "paragraphs": [
+        "Çocuklar başkasının bakışı, amacı ve başarısız hareketinden ne yapmak istediğini çıkarır. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Yetişkin kutuyu açamazsa çocuk sonucu değil hedefi taklit eder. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Niyet okuma yanılabilir ve kültürle biçimlenir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Davranışın sonucuyla varsaydığımız amacı ayırmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Bakıştan niyet okumak” ile Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-yanlis-inanci-anlamak",
+      "section": "İKİNCİ KISIM · ZİHİN",
+      "title": "Yanlış inancı anlamak",
+      "paragraphs": [
+        "Çocuk zamanla başkasının dünyayı kendisinden farklı ve yanlış bilebileceğini kavrar. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Oyuncak kutu değiştirince dışarıdaki kişinin eski yere bakacağını söyler. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Görev başarısı dil ve dikkat koşuluna bağlıdır. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Çocuğun anlayışını tek testle etiketlememek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Yanlış inancı anlamak” ile Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-karsi-olgusal-dunya",
+      "section": "İKİNCİ KISIM · HAYAL",
+      "title": "Karşı olgusal dünya",
+      "paragraphs": [
+        "Hayal gücü olmayan durumu düşünerek gerçek neden ve seçenekleri anlamaya yardım eder. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Çocuk 'ya yağmur yukarı yağsaydı' diyerek kuralın sınırını dener. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Hayal gerçek bilgi yerine geçmez. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Oyunda kurulan ihtimali gözlem ve sonuçla ilişkilendirmek gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Karşı olgusal dünya” ile Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-rol-oyunu-ciddi-istir",
+      "section": "İKİNCİ KISIM · OYUN",
+      "title": "Rol oyunu ciddi iştir",
+      "paragraphs": [
+        "Mış gibi oyun çocukların sosyal rol, duygu ve fizik kuralını güvenli biçimde yeniden düzenlediği laboratuvardır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Muz telefon olur ama çocuk yenmeye devam edilebileceğini bilir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Her oyun gizli ders planı değildir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Yetişkin oyunu yönetmek yerine çocuğun kurduğu kuralı izlemelidir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Rol oyunu ciddi iştir” ile Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-fener-degil-projektor-dikkat",
+      "section": "ÜÇÜNCÜ KISIM · BİLİNÇ",
+      "title": "Fener değil projektör dikkat",
+      "paragraphs": [
+        "Yetişkin dikkati dar fener gibi hedefe odaklanırken küçük çocuk çevredeki çok sayıda ayrıntıyı geniş projektör gibi alabilir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Bebek konuşmaya bakarken duvardaki ışık değişimini de fark eder. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Geniş dikkat verimli iş yapmada dezavantaj yaratabilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Çocuğun dağınıklığını her zaman isteksizlik saymamak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-10-cocukluk-neden-uzun",
+      "section": "ÜÇÜNCÜ KISIM · EVRİM",
+      "title": "Çocukluk neden uzun?",
+      "paragraphs": [
+        "Uzun bağımlı çocukluk hızlı üretim yerine keşif ve beyin esnekliğine yatırım sağlayabilir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Karga yavrusu oyunla alet yolları denerken yetişkin yiyecek bulur. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Evrim hikâyeleri doğrudan kanıt ister. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Gelişim dönemini erken performans yarışıyla daraltmamak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Çocukluk neden uzun?” ile Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-benlik-yavasca-kurulur",
+      "section": "ÜÇÜNCÜ KISIM · KİMLİK",
+      "title": "Benlik yavaşça kurulur",
+      "paragraphs": [
+        "Küçük çocuk anı, beden ve başkalarının tepkilerinden zaman içinde süreklilik taşıyan benlik anlatısı geliştirir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Aynadaki lekeyi yüzünde aramaya başlaması beden benliğinin işaretidir. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Tek test iç dünyanın tamamını göstermez. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Çocuğun değişen kendilik sözlerini sabit karakter damgası yapmamak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-12-baglanma-kesfin-limanidir",
+      "section": "DÖRDÜNCÜ KISIM · AŞK",
+      "title": "Bağlanma keşfin limanıdır",
+      "paragraphs": [
+        "Güvenilir bakım çocuğu bağımlı kılmak yerine dünyayı araştırıp geri dönebileceği emniyetli temel sağlar. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Parkta uzaklaşan bebek dönüp bakar, bakım vereni görünce yeniden keşfe çıkar. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Tek bakım biçimi ve aile modeli evrensel değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Güveni yakınlık kadar tutarlılık ve onarımla değerlendirmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Bağlanma keşfin limanıdır” ile Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-sevgi-bilgi-degildir",
+      "section": "DÖRDÜNCÜ KISIM · BAKIM",
+      "title": "Sevgi bilgi değildir",
+      "paragraphs": [
+        "Ebeveyn çocuğu çok sevse de gelecekte kim olacağını bilemez; bakım kontrol değil bilinmeyen kişiyi desteklemektir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Bahçıvan bitkinin tam şeklini emretmez, gelişeceği ortamı korur. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Bahçıvan benzetmesi sınır ve öğretimi gereksiz yapmaz. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Sonuç tasarlamak yerine güvenli çeşitlilik koşulu kurmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-14-yardim-etmenin-ilk-izleri",
+      "section": "DÖRDÜNCÜ KISIM · AHLAK",
+      "title": "Yardım etmenin ilk izleri",
+      "paragraphs": [
+        "Çok küçük çocuklar yetişkinin düşen nesnesini kaldırmak gibi kendiliğinden yardım davranışları gösterebilir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Adam dolaba uzanamaz, çocuk kapıyı açar. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Yardım deneyleri yetişkin ahlakının tümünü açıklamaz. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "İyilik etiketinden çok davranışın bağlam ve tekrarına bakmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Yardım etmenin ilk izleri” ile Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-empati-ve-taraf-tutma",
+      "section": "DÖRDÜNCÜ KISIM · ADALET",
+      "title": "Empati ve taraf tutma",
+      "paragraphs": [
+        "Çocuk başkasının acısına duyarlı olurken tanıdığı kişiyi kayırabilir; ahlak bakım ile tarafsızlık arasında gelişir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Kurabiye paylaşımında arkadaşına fazla, yabancıya az verir. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Erken eğilim değişmez kader değildir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Farklı insanlarla güvenli temas ve açık paylaşım kuralı kurmak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Empati ve taraf tutma” ile Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-ebeveynlik-marangozluk-degildir",
+      "section": "BEŞİNCİ KISIM · YETİŞTİRME",
+      "title": "Ebeveynlik marangozluk değildir",
+      "paragraphs": [
+        "Çocuğu belirli ürüne dönüştürme hedefi gelişimin öngörülemez ve karşılıklı doğasını kaçırır. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Her dersi planlanan çocuk kendi oyun sorusuna zaman bulamaz. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Bakım verenin yönlendirme sorumluluğu vardır. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Kontrol ile çevre, sınır ve örnek sunmayı ayırmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-17-yetiskin-cocuk-zihninden-ne-ogrenir",
+      "section": "BEŞİNCİ KISIM · SONUÇ",
+      "title": "Yetişkin çocuk zihninden ne öğrenir?",
+      "paragraphs": [
+        "Çocukluk açık olasılık, hayal ve geniş dikkat sayesinde yetişkin kesinliğinin kör noktalarını görünür kılar. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Yetişkin bozuk oyuncağı atar, çocuk onu on farklı nesneye dönüştürür. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Çocuk masum bilge diye romantikleştirilmemelidir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Yeni soruda kısa süre uzmanlığımızı askıya alıp deneme alanı açmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Yetişkin çocuk zihninden ne öğrenir?” ile Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Gopnik çocukların yetişkinlerden her bakımdan daha akıllı olduğunu söylemez. Çocuk zihni keşif ve olasılıkta güçlü, uzun plan, özdenetim ve tehlike değerlendirmesinde ise yetişkin bakımına muhtaçtır.",
+        "Projektör ışığı odayı geniş gösterir ama tek iğneyi dikmekte zayıftır; yetişkin feneri iğneyi bulur ama odadaki yeni kapıyı kaçırabilir.",
+        "Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap gelişim bilimini geniş okura taşıdı; bebeklerin nedensel öğrenme, hayal ve ahlaki duyarlılığı üzerine bulgularla çocukluk felsefesini canlandırdı.",
+        "Laboratuvar görevlerinin kültür ve gerçek hayatı sadeleştirdiği, evrimsel açıklamaların bazen spekülatif kaldığı ve ebeveynlik sonuçlarına geçişin kanıttan daha geniş olduğu eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Çocuk hangi hipotezi deniyor? Geniş dikkati ne görüyor? Bakım kontrol etmek yerine hangi keşif alanını koruyor?",
+        "Bir çocuğun tekrarladığı davranışı yaramazlık diye adlandırmadan önce üç olası merak sorusu yazın ve güvenli bir mini deney alanı sunun.",
+        "Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Çocuk zihni boş ve eksik değil, olasılıkları geniş tarayan bir keşif sistemidir; sevgi bu sistemi istediğimiz ürüne çevirmek değil güvenli biçimde büyüyebileceği dünya kurmaktır.",
+        "Akılda tutulacak son görüntü, mercan, güneş sarısı ve turkuaz tonlarında dev bir bahçede oyuncak bloklardan olasılık yolları açan bebeğin çevresinde yıldız, yüz, hayali hayvan ve şefkatli ellerin belirdiği neşeli sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Bebeklerin Bahçesi: Çocuk Zihni Bize Aşk, Ahlak ve Hayatın Anlamı Hakkında Ne Söyler? adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-bebek-bos-levha-degildir": {
+      "image": "/images/summary-art-53-chapter-01-bebek-bos-levha-degildir-v1.webp",
+      "imageCaption": "Bebek boş levha değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-besikteki-bilim-insani": {
+      "image": "/images/summary-art-53-chapter-02-besikteki-bilim-insani-v1.webp",
+      "imageCaption": "Beşikteki bilim insanı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-olasiliklari-tartmak": {
+      "image": "/images/summary-art-53-chapter-03-olasiliklari-tartmak-v1.webp",
+      "imageCaption": "Olasılıkları tartmak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-bakistan-niyet-okumak": {
+      "image": "/images/summary-art-53-chapter-04-bakistan-niyet-okumak-v1.webp",
+      "imageCaption": "Bakıştan niyet okumak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-yanlis-inanci-anlamak": {
+      "image": "/images/summary-art-53-chapter-05-yanlis-inanci-anlamak-v1.webp",
+      "imageCaption": "Yanlış inancı anlamak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-karsi-olgusal-dunya": {
+      "image": "/images/summary-art-53-chapter-06-karsi-olgusal-dunya-v1.webp",
+      "imageCaption": "Karşı olgusal dünya düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-rol-oyunu-ciddi-istir": {
+      "image": "/images/summary-art-53-chapter-07-rol-oyunu-ciddi-istir-v1.webp",
+      "imageCaption": "Rol oyunu ciddi iştir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-fener-degil-projektor-dikkat": {
+      "image": "/images/summary-art-53-chapter-08-fener-degil-projektor-dikkat-v1.webp",
+      "imageCaption": "Fener değil projektör dikkat düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-cocukluk-neden-uzun": {
+      "image": "/images/summary-art-53-chapter-09-cocukluk-neden-uzun-v1.webp",
+      "imageCaption": "Çocukluk neden uzun? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-benlik-yavasca-kurulur": {
+      "image": "/images/summary-art-53-chapter-10-benlik-yavasca-kurulur-v1.webp",
+      "imageCaption": "Benlik yavaşça kurulur düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-baglanma-kesfin-limanidir": {
+      "image": "/images/summary-art-53-chapter-11-baglanma-kesfin-limanidir-v1.webp",
+      "imageCaption": "Bağlanma keşfin limanıdır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-sevgi-bilgi-degildir": {
+      "image": "/images/summary-art-53-chapter-12-sevgi-bilgi-degildir-v1.webp",
+      "imageCaption": "Sevgi bilgi değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-yardim-etmenin-ilk-izleri": {
+      "image": "/images/summary-art-53-chapter-13-yardim-etmenin-ilk-izleri-v1.webp",
+      "imageCaption": "Yardım etmenin ilk izleri düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-empati-ve-taraf-tutma": {
+      "image": "/images/summary-art-53-chapter-14-empati-ve-taraf-tutma-v1.webp",
+      "imageCaption": "Empati ve taraf tutma düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-ebeveynlik-marangozluk-degildir": {
+      "image": "/images/summary-art-53-chapter-15-ebeveynlik-marangozluk-degildir-v1.webp",
+      "imageCaption": "Ebeveynlik marangozluk değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-yetiskin-cocuk-zihninden-ne-ogrenir": {
+      "image": "/images/summary-art-53-chapter-16-yetiskin-cocuk-zihninden-ne-ogrenir-v1.webp",
+      "imageCaption": "Yetişkin çocuk zihninden ne öğrenir? düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "createdAt": "2026-08-01T18:39:02+00:00",
-  "updatedAt": "2026-08-02T02:08:05+00:00",
+  "updatedAt": "2026-08-02T03:09:40+00:00",
   "targetCharacters": 20000,
   "characterGate": [
     18500,
@@ -1398,9 +1398,18 @@
       "category": "Antropoloji & Sosyoloji",
       "batch": 7,
       "position": 1,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T03:09:40+00:00"
     },
     {
       "no": 53,
@@ -1409,9 +1418,18 @@
       "category": "Bilişsel Gelişim",
       "batch": 7,
       "position": 2,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T03:09:40+00:00"
     },
     {
       "no": 123,
@@ -1420,9 +1438,18 @@
       "category": "Klasik Felsefe",
       "batch": 7,
       "position": 3,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T03:09:40+00:00"
     },
     {
       "no": 114,
@@ -1431,9 +1458,18 @@
       "category": "Siyasi Sosyoloji & Tarih",
       "batch": 7,
       "position": 4,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T03:09:40+00:00"
     },
     {
       "no": 187,
@@ -1442,9 +1478,18 @@
       "category": "Bilişsel Dilbilim",
       "batch": 7,
       "position": 5,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T03:09:40+00:00"
     },
     {
       "no": 167,
@@ -1453,9 +1498,18 @@
       "category": "Sosyoloji & Felsefe",
       "batch": 7,
       "position": 6,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T03:09:40+00:00"
     },
     {
       "no": 209,
@@ -1464,9 +1518,18 @@
       "category": "Sosyoloji & Felsefe",
       "batch": 7,
       "position": 7,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T03:09:40+00:00"
     },
     {
       "no": 258,
@@ -1475,9 +1538,18 @@
       "category": "Karmaşıklık Bilimi",
       "batch": 7,
       "position": 8,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T03:09:40+00:00"
     },
     {
       "no": 57,
@@ -1486,9 +1558,18 @@
       "category": "Fenomenoloji",
       "batch": 7,
       "position": 9,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T03:09:40+00:00"
     },
     {
       "no": 245,
@@ -1497,9 +1578,18 @@
       "category": "Post-Yapısalcı Felsefe",
       "batch": 7,
       "position": 10,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-01T18:39:02+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "interiorImages": 16,
+        "coverIndependentAndColor": true,
+        "pageGate": true,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T03:09:40+00:00"
     },
     {
       "no": 56,

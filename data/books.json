@@ -343,7 +343,9 @@
         "description": "Etnik kimliğin biyolojik kökenlerden ziyade sosyal sınırların kurulması ve sürdürülmesiyle oluştuğunu savunan klasik.",
         "pubDate": "1969",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/29-etnik-gruplar-ve-sinirlar/"
     },
     {
         "no": 30,
@@ -625,7 +627,9 @@
         "description": "Bebeklerin dünyayı Bayesian çıkarımlarla ve sosyal öğrenmeyle keşfeden küçük dâhiler olduğunu kanıtlayan eser.",
         "pubDate": "2009",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/53-bebeklerin-bahcesi-cocuk-zihni-bize-ask-ahlak-ve-hayatin-anlami-hakkinda-ne-soyler/"
     },
     {
         "no": 54,
@@ -667,7 +671,9 @@
         "description": "Algının ve dünyayı deneyimlemenin bedensel varlığımız (beden-özne) aracılığıyla gerçekleştiğini savunan şaheser.",
         "pubDate": "1945",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/57-alginin-fenomenolojisi/"
     },
     {
         "no": 58,
@@ -1341,7 +1347,9 @@
         "description": "Siyasi kurumların modern çağa kadar olan gelişimini, çürümesini ve bürokrasinin doğasını inceleyen ikinci cilt.",
         "pubDate": "2014",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/114-siyasi-duzen-ve-siyasi-gerileme/"
     },
     {
         "no": 115,
@@ -1439,7 +1447,9 @@
         "description": "Evrenin bölünemez bilgi/enerji birimleri olan 'monadlardan' oluştuğunu savunan rasyonel metafizik.",
         "pubDate": "1714",
         "evre": 5,
-        "link": "/yazilar/wilhelm-leibniz-newtonun-golgesinde-kalan-deha/"
+        "link": "/yazilar/wilhelm-leibniz-newtonun-golgesinde-kalan-deha/",
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/123-monadoloji/"
     },
     {
         "no": 124,
@@ -1945,7 +1955,9 @@
         "description": "Paranın bireysel özgürlük, yabancılaşma ve modern kültür üzerindeki etkilerini inceleyen sosyolojik klasik.",
         "pubDate": "1900",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/167-para-nin-felsefesi/"
     },
     {
         "no": 168,
@@ -2171,7 +2183,9 @@
         "description": "Dilin dünyayı algılama şeklimizi ve beynimizi nasıl etkilediğini ampirik deneylerle kanıtlayan modern klasik.",
         "pubDate": "2010",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/187-dilin-aynasindan/"
     },
     {
         "no": 188,
@@ -2419,7 +2433,9 @@
         "description": "Gündelik yaşamın kapitalizm tarafından nasıl sömürgeleştirildiğini ve yabancılaştırıldığını inceleyen eser.",
         "pubDate": "1947",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/209-gundelik-hayatin-elestirisi/"
     },
     {
         "no": 210,
@@ -2825,7 +2841,9 @@
         "description": "Bilginin iktidar tarafından nasıl üretildiğini ve sınırlandırıldığını gösteren açılış dersi.",
         "pubDate": "1971",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/245-soylemin-duzeni/"
     },
     {
         "no": 246,
@@ -2967,7 +2985,9 @@
         "description": "Doğadaki, beyindeki ve yapay zekadaki karmaşık adaptif sistemleri ve kaos teorisini anlaşılır kılan rehber.",
         "pubDate": "2009",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/258-complexity-a-guided-tour/"
     },
     {
         "no": 259,
