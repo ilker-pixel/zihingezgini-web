@@ -1,7 +1,7 @@
 {
   "version": 1,
   "createdAt": "2026-08-02T06:34:15+00:00",
-  "updatedAt": "2026-08-02T15:38:09+00:00",
+  "updatedAt": "2026-08-02T16:45:31+00:00",
   "targetCharacters": 20000,
   "characterGate": [
     18000,
@@ -2155,9 +2155,31 @@
       "category": "Sosyoloji & Antropoloji",
       "batch": 8,
       "position": 1,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "289": 27,
+          "291": 27,
+          "292": 27,
+          "295": 27,
+          "296": 27,
+          "297": 27,
+          "298": 27,
+          "299": 27,
+          "300": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T16:45:05+00:00"
     },
     {
       "no": 291,
@@ -2166,9 +2188,31 @@
       "category": "Zihin & Ekoloji",
       "batch": 8,
       "position": 2,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "289": 27,
+          "291": 27,
+          "292": 27,
+          "295": 27,
+          "296": 27,
+          "297": 27,
+          "298": 27,
+          "299": 27,
+          "300": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T16:45:05+00:00"
     },
     {
       "no": 292,
@@ -2177,9 +2221,31 @@
       "category": "Bütünsel Felsefe",
       "batch": 8,
       "position": 3,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "289": 27,
+          "291": 27,
+          "292": 27,
+          "295": 27,
+          "296": 27,
+          "297": 27,
+          "298": 27,
+          "299": 27,
+          "300": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T16:45:05+00:00"
     },
     {
       "no": 295,
@@ -2188,9 +2254,31 @@
       "category": "Ekonomi & Etik",
       "batch": 8,
       "position": 4,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "289": 27,
+          "291": 27,
+          "292": 27,
+          "295": 27,
+          "296": 27,
+          "297": 27,
+          "298": 27,
+          "299": 27,
+          "300": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T16:45:05+00:00"
     },
     {
       "no": 296,
@@ -2199,9 +2287,31 @@
       "category": "Sentez Çalışması",
       "batch": 8,
       "position": 5,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "289": 27,
+          "291": 27,
+          "292": 27,
+          "295": 27,
+          "296": 27,
+          "297": 27,
+          "298": 27,
+          "299": 27,
+          "300": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T16:45:05+00:00"
     },
     {
       "no": 297,
@@ -2210,9 +2320,31 @@
       "category": "Sentez Çalışması",
       "batch": 8,
       "position": 6,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "289": 27,
+          "291": 27,
+          "292": 27,
+          "295": 27,
+          "296": 27,
+          "297": 27,
+          "298": 27,
+          "299": 27,
+          "300": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T16:45:05+00:00"
     },
     {
       "no": 298,
@@ -2221,9 +2353,31 @@
       "category": "Sentez Çalışması",
       "batch": 8,
       "position": 7,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "289": 27,
+          "291": 27,
+          "292": 27,
+          "295": 27,
+          "296": 27,
+          "297": 27,
+          "298": 27,
+          "299": 27,
+          "300": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T16:45:05+00:00"
     },
     {
       "no": 299,
@@ -2232,9 +2386,31 @@
       "category": "Sentez Çalışması",
       "batch": 8,
       "position": 8,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "289": 27,
+          "291": 27,
+          "292": 27,
+          "295": 27,
+          "296": 27,
+          "297": 27,
+          "298": 27,
+          "299": 27,
+          "300": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T16:45:05+00:00"
     },
     {
       "no": 300,
@@ -2243,9 +2419,31 @@
       "category": "Kişisel Bildiri",
       "batch": 8,
       "position": 9,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "289": 27,
+          "291": 27,
+          "292": 27,
+          "295": 27,
+          "296": 27,
+          "297": 27,
+          "298": 27,
+          "299": 27,
+          "300": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T16:45:05+00:00"
     }
   ]
 }
