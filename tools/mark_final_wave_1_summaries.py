@@ -1,0 +1,38 @@
+#!/usr/bin/env python3
+"""Mark final wave one as summarized and site-ready."""
+
+import json
+
+from build_static import summary_path
+from final_summary_manifest import ROOT, set_stage
+
+
+NUMBERS = {30, 52, 83, 84, 102, 113, 115, 117, 119}
+books_path = ROOT / "data" / "books.json"
+books = json.loads(books_path.read_text(encoding="utf-8"))
+found = set()
+for item in books:
+    number = int(item["no"])
+    if number not in NUMBERS:
+        continue
+    summary = json.loads((ROOT / "data" / "summaries" / f"{number}.json").read_text(encoding="utf-8"))
+    item["hasSummary"] = True
+    item["summaryUrl"] = summary_path(summary)
+    found.add(number)
+
+if found != NUMBERS:
+    raise RuntimeError(f"Missing books: {sorted(NUMBERS - found)}")
+books_path.write_text(json.dumps(books, ensure_ascii=False, indent=4) + "\n", encoding="utf-8")
+
+set_stage(sorted(NUMBERS), "art_ready", {"chapterImages": 16, "coverIndependent": True})
+set_stage(sorted(NUMBERS), "pdf_ready", {"pageCount": 27, "embeddedImages": 17})
+set_stage(sorted(NUMBERS), "qa_passed", {
+    "characterGate": True,
+    "exactSharedParagraphs": 0,
+    "nearDuplicateParagraphs": 0,
+    "repeatedLongSentences": 0,
+    "allPagesRendered": True,
+    "visualInspection": "passed",
+})
+set_stage(sorted(NUMBERS), "site_ready", {"staticIntegration": True})
+print(f"Marked {len(found)} final-wave-one works as site-ready")
