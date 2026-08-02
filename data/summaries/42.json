@@ -1,0 +1,342 @@
+{
+  "bookNo": 42,
+  "title": "Anxious",
+  "author": "Joseph LeDoux",
+  "subtitle": "Tehlikeye verilen otomatik beden tepkisiyle bilinçte yaşanan korkuyu ayırarak kaygının beyinde nasıl kurulduğunu ve tedavinin neden birden fazla yolu hedeflemesi gerektiğini anlatan sinirbilim yolculuğu.",
+  "coverImage": "/images/summary-cover-42-anxious-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/42-anxious-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#87504F",
+  "meta": {
+    "originalTitle": "Anxious: Using the Brain to Understand and Treat Fear and Anxiety",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Gece mutfakta kıvrılmış bir kabloyu yılan sanıp sıçrarsınız; bir saniye sonra yanıldığınızı anlarsınız ama kalbiniz hâlâ hızla atar. LeDoux bu kısa anda iki farklı sistemin çalıştığını söyler: Beden önce tehlikeye hazırlanmış, bilinç sonra 'korktum' hikâyesini kurmuştur.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Penguin Random House - Anxious",
+      "url": "https://www.penguinrandomhouse.com/books/313935/anxious-by-joseph-ledoux/"
+    },
+    {
+      "id": 2,
+      "title": "Joseph LeDoux Lab - Publications",
+      "url": "https://www.cns.nyu.edu/ledoux/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Tehlikeye verilen otomatik beden tepkisiyle bilinçte yaşanan korkuyu ayırarak kaygının beyinde nasıl kurulduğunu ve tedavinin neden birden fazla yolu hedeflemesi gerektiğini anlatan sinirbilim yolculuğu.",
+        "Kitap amigdalanın bir 'korku merkezi' olduğu kolay anlatısını düzeltir. Amigdala ve bağlantıları savunma tepkilerini düzenler; korku ve kaygı ise dikkat, bellek, beden duyumu ve dilin birleştiği bilinçli deneyimlerdir.",
+        "Bu ayrım yalnız kelime oyunu değildir. Otomatik devre ile bilinçli duyguyu aynı şey sanırsak farede donma davranışını azaltan tedavinin insanın kaygılı düşüncesini de mutlaka çözeceğini zannederiz."
+      ]
+    },
+    {
+      "id": "durak-02-korku-ile-savunma-tepkisi-ayni-degildir",
+      "section": "BİRİNCİ KISIM · İKİ SİSTEM",
+      "title": "Korku ile savunma tepkisi aynı değildir",
+      "paragraphs": [
+        "LeDoux bilinçte hissedilen korkuyu, beynin tehlike karşısında bedeni harekete geçiren savunma devrelerinden ayırır. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Yola aniden çıkan araç karşısında ayağınız frene gider, omuzlarınız kasılır; 'az kalsın çarpıyordum' cümlesi birkaç an sonra zihinde belirir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Beden tepkisi ile duygu birbirini etkiler ama birinin varlığı diğerinin bütün içeriğini açıklamaz. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Kaygı yükseldiğinde kalp atışını, kaçınma davranışını ve zihinden geçen cümleyi ayrı ayrı fark etmek sorunun hangi katmanda büyüdüğünü gösterebilir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-03-amigdala-korku-dugmesi-degildir",
+      "section": "BİRİNCİ KISIM · BEYİN",
+      "title": "Amigdala korku düğmesi değildir",
+      "paragraphs": [
+        "Amigdala tehdit işaretlerini savunma tepkilerine bağlayan ağlarda önemlidir; tek başına korku deneyimini üreten küçük bir oda değildir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Amigdala hasarı bulunan kişi bazı tehditlere bedenle daha az tepki verebilir ama dil yoluyla tehlikeyi anlayıp endişe ifade edebilir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Beyni tek merkezli harita gibi anlatmak araştırmayı kolaylaştırır fakat duyguya katılan korteks, bellek ve beden ağlarını gizler. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir haberde 'beynin şu noktası duyguyu yapıyor' dendiğinde deneyimin hangi ölçümle ve hangi ağ içinde bulunduğunu sormak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Amigdala korku düğmesi değildir” ile Anxious kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-hayatta-kalma-devreleri-eskidir",
+      "section": "BİRİNCİ KISIM · EVRİM",
+      "title": "Hayatta kalma devreleri eskidir",
+      "paragraphs": [
+        "Organizmaların tehlikeden kaçma, donma veya korunma düzenekleri bilinçli duygudan daha eski evrimsel köklere sahiptir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Kertenkele gölge yaklaşınca saklanır; onun insan gibi 'korku' yaşadığını kanıtlayamasak da davranışını koruyan devre çalışır. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Hayvan davranışını insan duygusunun eksiksiz modeli saymak antropomorfizm, bütünüyle ilgisiz saymak ise ortak biyolojiyi inkâr olur. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir tepkimizin çok hızlı ve otomatik olması onu değişmez kader yapmaz; eski devreler yeni öğrenmelerle yeniden ayarlanabilir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-05-pavlov-un-sesi",
+      "section": "İKİNCİ KISIM · ÖĞRENME",
+      "title": "Pavlov'un sesi",
+      "paragraphs": [
+        "Nötr bir işaret acı veya tehlikeyle tekrar eşleştiğinde savunma tepkisini tek başına başlatabilir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Dişçi matkabının sesi geçmişte acıyla eşleştiyse daha koltuğa oturmadan avuçlar terleyebilir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Koşullanma güçlüdür ama her kaygının tek açıklaması değildir; düşünce, toplumsal deneyim ve genetik duyarlılık da rol oynar. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Tepkiyi başlatan küçük sesi, kokuyu veya görüntüyü bulmak kaçınmanın neden belirli anlarda büyüdüğünü anlamaya yardım eder. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-06-bilincten-once-gelen-isaret",
+      "section": "İKİNCİ KISIM · HIZLI İŞLEME",
+      "title": "Bilinçten önce gelen işaret",
+      "paragraphs": [
+        "Bazı tehdit işaretleri kişi ne gördüğünü tam adlandırmadan savunma sistemlerini harekete geçirebilir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Kalabalıkta kızgın bir yüzü bilinçli olarak seçmeden bedeninizin gerildiğini, sonra o kişiyi fark ettiğinizi düşünün. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Bilinçdışı işleme her davranışın gizli güçlerce yönetildiği anlamına gelmez; sonradan gelen değerlendirme tepkiyi değiştirebilir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Ani gerilimde ilk dürtüyle hareket etmeden birkaç saniye durmak, yavaş değerlendirme sistemine sahneyi yeniden yorumlama fırsatı verir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-07-korku-zihinde-nasil-kurulur",
+      "section": "İKİNCİ KISIM · BİLİNÇ",
+      "title": "Korku zihinde nasıl kurulur?",
+      "paragraphs": [
+        "Bilinçli korku, tehdit işareti, beden durumu, geçmiş anı, dikkat ve kavramsal bilginin çalışma belleğinde birleşmesiyle oluşur. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Aynı kalp çarpıntısını sınav bekleyen öğrenci 'başarısız olacağım', koşucu ise 'hazırım' diye yorumlayabilir. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Duygunun kurulmuş olması sahte olduğu anlamına gelmez; inşa edilen deneyim de gerçek acı ve davranış üretir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Beden duyumuna hemen felaket adı vermek yerine ortam, geçmiş deneyim ve alternatif açıklamaları birlikte düşünmek yararlı olabilir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-08-korku-gecmise-kaygi-gelecege-bakar",
+      "section": "ÜÇÜNCÜ KISIM · ZAMAN",
+      "title": "Korku geçmişe, kaygı geleceğe bakar",
+      "paragraphs": [
+        "Korku çoğu kez mevcut veya yakın tehdide, kaygı ise henüz gerçekleşmemiş belirsiz olasılıklara yönelir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Köpek üzerinize koşarken korku, ertesi gün aynı sokaktan geçmeyi düşünürken kaygı baskın olabilir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Gerçek hayatta iki duygu iç içe geçer; keskin bir sözlük ayrımı her vakayı açıklamaz. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Kaygılı düşüncede 'şu anda ne oluyor?' ile 'olabilir diye neyi canlandırıyorum?' sorularını ayırmak zaman ufkunu netleştirir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Korku geçmişe, kaygı geleceğe bakar” ile Anxious kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-bellek-tehlikeyi-yeniden-yazar",
+      "section": "ÜÇÜNCÜ KISIM · HAFIZA",
+      "title": "Bellek tehlikeyi yeniden yazar",
+      "paragraphs": [
+        "Tehdit anıları sabit kayıtlar değildir; her hatırlamada yeni bilgiyle kısmen değişebilir ve tekrar depolanabilir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Çocukken asansörde kalan kişi yıllar sonra her kapı kapanışında eski sahneyi bugünün bedensel alarmıyla yeniden yaşayabilir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Belleğin değişebilirliği travmanın kolayca silineceği anlamına gelmez; yeniden etkinleşme bazen acıyı da güçlendirebilir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Güvenli ortamda eski anıyı yeni sonuçla eşleştirmek uzman eşliğinde öğrenilmiş beklentiyi yavaşça güncelleyebilir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-10-kacinma-kisa-rahatlik-uzun-yuk",
+      "section": "ÜÇÜNCÜ KISIM · DAVRANIŞ",
+      "title": "Kaçınma kısa rahatlık uzun yük",
+      "paragraphs": [
+        "Kaygı uyandıran durumdan kaçmak o anda rahatlatır, fakat tehlike beklentisinin yanlışlanmasını engelleyerek döngüyü sürdürebilir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Toplantıda konuşmaktan kaçınan kişi rezil olmadığını değil, yalnız konuşmadığını öğrenir; sonraki toplantı daha da büyür. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Her kaçınma zararlı değildir; gerçek tehlikeden uzak durmak koruyucudur ve sınır güvenlik değerlendirmesiyle çizilmelidir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Güvenli fakat korkulan davranışı küçük ve planlı adımlara bölmek, beynin beklenen felaketin gerçekleşmediğini öğrenmesini sağlar. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Kaçınma kısa rahatlık uzun yük” ile Anxious kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-panikte-bedenin-yankisi",
+      "section": "ÜÇÜNCÜ KISIM · PANİK",
+      "title": "Panikte bedenin yankısı",
+      "paragraphs": [
+        "Panikte beden duyumları tehlike işareti olarak yorumlanır; yorum yeni beden tepkisi doğurarak kendi kendini büyüten halka kurabilir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Kalp hızlanır, kişi 'kalp krizi geçiriyorum' der, korku adrenalini artırır ve kalp daha da hızlanır. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Göğüs ağrısı gibi belirtiler tıbbi değerlendirme gerektirebilir; psikolojik açıklama fiziksel riski peşinen dışlamamalıdır. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Uzman yardımıyla bedensel belirtileri güvenli biçimde tanımak ve felaket yorumunu sınamak panik döngüsünü zayıflatabilir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-12-sozcukler-kaygiyi-buyutebilir",
+      "section": "DÖRDÜNCÜ KISIM · DİL",
+      "title": "Sözcükler kaygıyı büyütebilir",
+      "paragraphs": [
+        "İnsan dili henüz var olmayan ayrıntılı felaketler kurabilir; bu yetenek planlama kadar kronik kaygının da kaynağıdır. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Uçuşa günler varken zihin motor arızası, türbülans ve vedalaşma sahnelerini sinema gibi tekrar tekrar oynatabilir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Düşünceyi durdurmaya çalışmak bazen onu daha görünür kılar; amaç her sözcüğü susturmak değildir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Kaygılı cümleyi kesin gelecek yerine zihnin ürettiği bir olasılık olarak adlandırmak onunla araya mesafe koyabilir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Sözcükler kaygıyı büyütebilir” ile Anxious kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-iki-sistem-iki-tedavi-yolu",
+      "section": "DÖRDÜNCÜ KISIM · TEDAVİ",
+      "title": "İki sistem iki tedavi yolu",
+      "paragraphs": [
+        "Savunma devreleri ile bilinçli kaygı farklı süreçlere dayandığı için yalnız birini hedefleyen tedavi herkeste yeterli olmayabilir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Kişi mantıken uçağın güvenli olduğunu bilir fakat pistte bedeni alarm verir; bilgi değişmiş, otomatik öğrenme geride kalmıştır. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Beyin katmanlarını ayırmak tedaviyi mekanik reçeteye indirmemelidir; kişinin yaşamı ve ilişkileri de önem taşır. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "İyileşmeyi yalnız 'artık korkmuyorum' diye değil, düşünce, beden ve kaçınmadaki ayrı değişimlerle izlemek daha gerçekçi olur. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-14-maruz-kalma-yeni-ogrenmedir",
+      "section": "DÖRDÜNCÜ KISIM · TEDAVİ",
+      "title": "Maruz kalma yeni öğrenmedir",
+      "paragraphs": [
+        "Güvenli koşullarda korkulan uyaranla kademeli karşılaşma eski anıyı silmekten çok onun yanına yeni bir güvenlik öğrenmesi ekler. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Köpekten korkan kişi önce fotoğrafa, sonra uzaktaki sakin köpeğe, sonunda kontrollü yakınlığa alışabilir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Zorlama ve hazırlıksız yüzleştirme zarar verebilir; hız, rıza ve güvenlik profesyonel plan gerektirir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Küçük adımın başarı ölçüsü kaygının hiç çıkmaması değil, kaygı varken güvenli davranışın sürdürülebilmesidir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-15-sonme-neden-geri-donebilir",
+      "section": "DÖRDÜNCÜ KISIM · ÖĞRENMENİN SINIRI",
+      "title": "Sönme neden geri dönebilir?",
+      "paragraphs": [
+        "Yeni güvenlik belleği eski tehdit belleğini tamamen yok etmediği için stres, zaman veya farklı ortam korku tepkisini geri getirebilir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Terapide sakin kalan kişi başka şehirde benzer köpeği görünce yeniden gerilebilir; güvenli öğrenme bağlama bağlı kalmıştır. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Belirtinin dönmesi tedavinin başarısız olduğu veya kişinin başa döndüğü anlamına gelmez. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Yeni öğrenmeyi farklı zaman ve ortamlarda tekrar etmek, tek bir güvenli odanın dışına taşınmasını kolaylaştırabilir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-16-ilac-ve-konusma-ayni-kapiya-gitmez",
+      "section": "BEŞİNCİ KISIM · BİRLEŞİK YAKLAŞIM",
+      "title": "İlaç ve konuşma aynı kapıya gitmez",
+      "paragraphs": [
+        "İlaçlar uyarılma ve bazı devreleri, psikoterapi ise değerlendirme, dikkat ve davranış öğrenmesini farklı yollarla etkileyebilir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Uykusuz ve sürekli alarmdaki kişi önce bedensel yük azaldığında düşünce çalışmalarına katılabilecek gücü bulabilir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Hangi tedavinin uygun olduğu kişiye ve tanıya bağlıdır; kitap kendi kendine ilaç başlama veya bırakma rehberi değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Kaygı günlük yaşamı bozuyorsa tedavi kararını hekim ve ruh sağlığı uzmanıyla birlikte almak güvenli yoldur. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-17-beyin-aciklamasi-kisiyi-silmez",
+      "section": "BEŞİNCİ KISIM · SONUÇ",
+      "title": "Beyin açıklaması kişiyi silmez",
+      "paragraphs": [
+        "Kaygının devrelerini anlamak yaşantıyı yalnız kimyaya indirgemek değil, neden bazı yolların diğerlerinden daha etkili olabileceğini görmek içindir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Yangın alarmının kablosunu bilmek evdeki dumanın anlamını yok etmez; yalnız yanlış alarmı gerçek yangından ayırmayı kolaylaştırır. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Sinirbilim tek başına yoksulluk, şiddet veya ilişkisel güvensizlik gibi kaygı kaynaklarını çözemez. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Beyin bilgisi en iyi, kişinin hikâyesi ve yaşadığı koşullarla birleştiğinde damgalamayı azaltan bir araç olur. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Beyin açıklaması kişiyi silmez” ile Anxious kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "LeDoux korkunun hayal olduğunu veya amigdalanın önemsiz olduğunu söylemez. Savunma devreleri gerçektir; yalnız bu devrelerin ölçülen tepkisiyle kişinin bilinçli olarak yaşadığı korkuyu aynı şey saymamamız gerektiğini savunur.",
+        "Fare ses duyunca donduğunda savunma öğrenmesini ölçeriz; farenin insan gibi 'başarısız olacağım' diye düşünüp düşünmediğini aynı deneyden çıkaramayız.",
+        "Anxious için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap korku araştırmalarındaki merkezci anlatıyı düzeltmesi, hayvan deneyleriyle insan duygusu arasındaki sınırı açık etmesi ve tedaviyi iki sistem üzerinden düşünmesiyle etkili oldu.",
+        "Bazı araştırmacılar bilinçli duyguyla savunma devrelerini fazla keskin ayırmanın beden geri bildirimini küçümseyebileceğini; klinisyenler ise ayrımın tedavi odasında her zaman kolay uygulanmadığını belirtti.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Anxious bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Şu anki alarm beden tepkisi mi, bilinçli felaket yorumu mu, yoksa ikisinin halkası mı? Kaçınma hangi yeni öğrenmeyi engelliyor? Bu belirti profesyonel yardım gerektiriyor mu?",
+        "Güvenli bir günlük kaygı anında tetikleyiciyi, beden tepkisini, zihinsel cümleyi ve davranışı dört ayrı satıra yazın; yoğun veya kalıcı belirtilerde bunu kendi kendine tedavi yerine uzman görüşmesine hazırlık olarak kullanın.",
+        "Anxious bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Tehlikeye otomatik tepki veren beyin sistemleri ile bilinçte yaşanan korku ve kaygı aynı şey değildir; etkili anlayış ve tedavi bu katmanların ilişkisini birlikte ele alır.",
+        "Akılda tutulacak son görüntü, karanlık koridorda yılan sanılan bir kablonun, altta kırmızı beden alarmına üstte düşünce balonlarına ayrıldığı çift katlı bir beyin sahnesidir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Anxious adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-korku-ile-savunma-tepkisi-ayni-degildir": {
+      "image": "/images/summary-art-42-chapter-01-korku-ile-savunma-tepkisi-ayni-degildir-v1.webp",
+      "imageCaption": "Korku ile savunma tepkisi aynı değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-amigdala-korku-dugmesi-degildir": {
+      "image": "/images/summary-art-42-chapter-02-amigdala-korku-dugmesi-degildir-v1.webp",
+      "imageCaption": "Amigdala korku düğmesi değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-hayatta-kalma-devreleri-eskidir": {
+      "image": "/images/summary-art-42-chapter-03-hayatta-kalma-devreleri-eskidir-v1.webp",
+      "imageCaption": "Hayatta kalma devreleri eskidir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-pavlov-un-sesi": {
+      "image": "/images/summary-art-42-chapter-04-pavlov-un-sesi-v1.webp",
+      "imageCaption": "Pavlov'un sesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-bilincten-once-gelen-isaret": {
+      "image": "/images/summary-art-42-chapter-05-bilincten-once-gelen-isaret-v1.webp",
+      "imageCaption": "Bilinçten önce gelen işaret düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-korku-zihinde-nasil-kurulur": {
+      "image": "/images/summary-art-42-chapter-06-korku-zihinde-nasil-kurulur-v1.webp",
+      "imageCaption": "Korku zihinde nasıl kurulur? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-korku-gecmise-kaygi-gelecege-bakar": {
+      "image": "/images/summary-art-42-chapter-07-korku-gecmise-kaygi-gelecege-bakar-v1.webp",
+      "imageCaption": "Korku geçmişe, kaygı geleceğe bakar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-bellek-tehlikeyi-yeniden-yazar": {
+      "image": "/images/summary-art-42-chapter-08-bellek-tehlikeyi-yeniden-yazar-v1.webp",
+      "imageCaption": "Bellek tehlikeyi yeniden yazar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-kacinma-kisa-rahatlik-uzun-yuk": {
+      "image": "/images/summary-art-42-chapter-09-kacinma-kisa-rahatlik-uzun-yuk-v1.webp",
+      "imageCaption": "Kaçınma kısa rahatlık uzun yük düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-panikte-bedenin-yankisi": {
+      "image": "/images/summary-art-42-chapter-10-panikte-bedenin-yankisi-v1.webp",
+      "imageCaption": "Panikte bedenin yankısı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-sozcukler-kaygiyi-buyutebilir": {
+      "image": "/images/summary-art-42-chapter-11-sozcukler-kaygiyi-buyutebilir-v1.webp",
+      "imageCaption": "Sözcükler kaygıyı büyütebilir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-iki-sistem-iki-tedavi-yolu": {
+      "image": "/images/summary-art-42-chapter-12-iki-sistem-iki-tedavi-yolu-v1.webp",
+      "imageCaption": "İki sistem iki tedavi yolu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-maruz-kalma-yeni-ogrenmedir": {
+      "image": "/images/summary-art-42-chapter-13-maruz-kalma-yeni-ogrenmedir-v1.webp",
+      "imageCaption": "Maruz kalma yeni öğrenmedir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-sonme-neden-geri-donebilir": {
+      "image": "/images/summary-art-42-chapter-14-sonme-neden-geri-donebilir-v1.webp",
+      "imageCaption": "Sönme neden geri dönebilir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-ilac-ve-konusma-ayni-kapiya-gitmez": {
+      "image": "/images/summary-art-42-chapter-15-ilac-ve-konusma-ayni-kapiya-gitmez-v1.webp",
+      "imageCaption": "İlaç ve konuşma aynı kapıya gitmez düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-beyin-aciklamasi-kisiyi-silmez": {
+      "image": "/images/summary-art-42-chapter-16-beyin-aciklamasi-kisiyi-silmez-v1.webp",
+      "imageCaption": "Beyin açıklaması kişiyi silmez düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

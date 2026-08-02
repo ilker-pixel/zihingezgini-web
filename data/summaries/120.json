@@ -1,0 +1,345 @@
+{
+  "bookNo": 120,
+  "title": "Demokratik Paradoks",
+  "author": "Chantal Mouffe",
+  "subtitle": "Liberal haklar ile halk egemenliğinin kusursuz uyum değil üretken bir gerilim taşıdığını; siyasetin çatışmayı yok etmek yerine düşmanlığı kurallı hasımlar mücadelesine çevirmesi gerektiğini savunan agonistik demokrasi kitabı.",
+  "coverImage": "/images/summary-cover-120-demokratik-paradoks-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/120-demokratik-paradoks-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#3E6678",
+  "meta": {
+    "originalTitle": "The Democratic Paradox",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Demokraside herkes anlaşırsa siyaset biter mi? Mouffe tam tersini söyler: Çatışma bitmiş görünüyorsa ya gerçek seçenekler kaybolmuş ya da dışlanan öfke başka yerde düşmanlık olarak birikiyor olabilir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Google Books - The Democratic Paradox",
+      "url": "https://books.google.com/books?id=5rwu0FA9aO4C"
+    },
+    {
+      "id": 2,
+      "title": "College for Creative Studies - The Democratic Paradox Contents",
+      "url": "https://lib.ccsdetroit.edu/cgi-bin/koha/opac-MARCdetail.pl?biblionumber=39926"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Liberal haklar ile halk egemenliğinin kusursuz uyum değil üretken bir gerilim taşıdığını; siyasetin çatışmayı yok etmek yerine düşmanlığı kurallı hasımlar mücadelesine çevirmesi gerektiğini savunan agonistik demokrasi kitabı.",
+        "Agonizm kavga sevgisi değildir. Antagonizmde karşı taraf yok edilmesi gereken düşmandır; agonizmde ise ortak demokratik kuralları tanıyan fakat projesiyle mücadele edilen meşru hasımdır.",
+        "Kitap liberalizmin bireysel hak dili ile demokrasinin halk egemenliği dilinin birbirine muhtaç ama tam uzlaşmaz olduğunu söyler. Amaç bu paradoksu çözmek değil, eşitlik ve özgürlük lehine canlı tutacak kurumlar kurmaktır."
+      ]
+    },
+    {
+      "id": "durak-02-iki-demokratik-dil",
+      "section": "BİRİNCİ KISIM · PARADOKS",
+      "title": "İki demokratik dil",
+      "paragraphs": [
+        "Modern demokrasi liberal hak, hukuk ve bireysel özgürlük diliyle halk egemenliği ve eşitlik dilini geçici birlik içinde taşır. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Mahkeme azınlık hakkını çoğunluk kararına karşı korur; çoğunluk ise yargıcın halk adına seçilmediğini söyler. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Gerilim her kararı krize çevirmek zorunda değildir; anayasa ve siyasal kültür onu üretken biçimde düzenleyebilir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bir tartışmada bireysel hakkın ve ortak kararın gerekçesini ayrı kurup nerede çatıştığını görünür yapmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-03-paradoks-cozulecek-hata-degildir",
+      "section": "BİRİNCİ KISIM · GERİLİM",
+      "title": "Paradoks çözülecek hata değildir",
+      "paragraphs": [
+        "Özgürlük ile eşitlik arasında tüm zamanlar için tarafsız ve kusursuz denge bulunamaz; demokratik karar geçici ve yeniden tartışılabilir eklemdir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "İfade özgürlüğü ile nefretin hedef aldığı kişinin eşit katılımı için çizilen sınır her yeni olayda yeniden tartışılır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Geçicilik hukukun keyfî olduğu anlamına gelmez; temel ilkeler ve gerekçe yine bağlar. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir çözümü sonsuz uzlaşma diye sunmak yerine hangi değeri neden öne aldığını ve yeniden değerlendirme yolunu açıklamak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-04-siyaset-ve-siyasal-olan",
+      "section": "BİRİNCİ KISIM · AYRIM",
+      "title": "Siyaset ve siyasal olan",
+      "paragraphs": [
+        "Mouffe 'siyasal olan'ı insan birliklerinde silinemeyen biz-onlar ve çatışma boyutu, 'siyaset'i ise bu çatışmayı düzenleyen uygulama ve kurumlar olarak ayırır. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Futbol rekabeti potansiyel biz-onlar duygusu taşır; kural, hakem ve lig bu enerjiyi oynanabilir mücadeleye çevirir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Her fark kaçınılmaz düşmanlık değildir ve işbirliği gerçek olabilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Bir çatışmada duyguyu yok saymadan onu şiddetsiz temsil, pazarlık ve değişim kanalına taşıyacak kurumu aramak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-05-iktidar-disaridan-gelen-kir-degildir",
+      "section": "İKİNCİ KISIM · KURULUŞ",
+      "title": "İktidar dışarıdan gelen kir değildir",
+      "paragraphs": [
+        "Toplumsal düzen tarafsız zeminde hazır durmaz; bazı anlam ve kimliklerin öne çıkması, başka seçeneklerin dışarıda kalmasıyla kurulur. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Şehir merkezinin 'normal kullanıcı' diye otomobil sürücüsünü varsayması kaldırım, bütçe ve zamanın kime göre düzenlendiğini belirler. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Her düzenleme kötü niyetli komplo değildir; karar vermek kaçınılmaz olarak seçim yapar. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Bir politikanın yalnız kime yardım ettiğini değil hangi yaşam biçimini normal ve görünür yaptığını sormak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ]
+    },
+    {
+      "id": "durak-06-nihai-akilci-uzlasma-hayali",
+      "section": "İKİNCİ KISIM · MÜZAKERE ELEŞTİRİSİ",
+      "title": "Nihai akılcı uzlaşma hayali",
+      "paragraphs": [
+        "Rawls ve Habermas çizgisindeki uzlaşma modellerinin güç, tutku ve değer çatışmasını usul içinde tamamen eritebileceğine kuşkuyla yaklaşır. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Toplantıda herkes teknik dil kullanır ama mülksüz kiracının öfkesi 'makul değil' diye gündem dışı kalırsa sakin uzlaşma eşitsizliği saklayabilir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Müzakere ve kanıt gereksiz değildir; Mouffe yalnız tarafsız son nokta iddiasını reddeder. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Bir uzlaşmada konuşma kurallarını kimin belirlediğini ve anlaşamayanın meşru kalıp kalmadığını incelemek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Nihai akılcı uzlaşma hayali” ile Demokratik Paradoks kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-schmitt-in-rahatsiz-edici-aynasi",
+      "section": "İKİNCİ KISIM · DOST-DÜŞMAN",
+      "title": "Schmitt'in rahatsız edici aynası",
+      "paragraphs": [
+        "Carl Schmitt liberalizmin çatışmayı sakladığı teşhisini kullanır fakat homojen halk ve düşmanı yok etme sonucunu reddeder. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Toplumu tek kimlikte birleştirmek isteyen lider farklı yurttaşı ulusun dışına atarak birlik üretir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Schmitt'ten kavram almak onun otoriter ve Nazi bağlantılı siyasetini normalleştirme riski taşır. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Güçlü bir teşhisi kullanırken yazarın siyasi sonucunu, tarihini ve hangi noktada ayrıldığınızı açıkça belirtmek gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ]
+    },
+    {
+      "id": "durak-08-biz-ve-onlar-butunuyle-kaybolmaz",
+      "section": "ÜÇÜNCÜ KISIM · KİMLİK",
+      "title": "Biz ve onlar bütünüyle kaybolmaz",
+      "paragraphs": [
+        "Siyasi kimlik ortak amaç kadar bir sınırla kurulur; çoğul demokrasinin görevi bu sınırı düşmanlaştırmadan ifade etmektir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Çevreci hareket fosil yakıt politikasına karşı 'biz' kurar, fakat çalışanı insanlık düşmanı değil ikna edilmesi ve geçişi güvenceye alınması gereken hasım sayabilir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Her kampanya keskin cephe kurmak zorunda değildir; bazı sorunlar ortak teknik çözüm taşır. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Bir 'biz' cümlesinde kimin dışarıda kaldığını ve dışarıdakinin hak sahibi olarak tanınıp tanınmadığını kontrol etmek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Biz ve onlar bütünüyle kaybolmaz” ile Demokratik Paradoks kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-dusman-degil-hasim",
+      "section": "ÜÇÜNCÜ KISIM · AGONİZM",
+      "title": "Düşman değil hasım",
+      "paragraphs": [
+        "Agonistik siyasette rakip proje sertçe yenilmek istenir ama rakibin demokratik mücadele hakkı kabul edilir. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Seçimde sendika ile işveren partisi zıt program savunur; biri kazanınca diğerinin gazetesini kapatmaz ve sonraki yarışa izin verir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Şiddeti ve eşit hakları reddeden aktörle hasımlık sınırı zorlaşır. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Karşı görüşü eleştirirken kişiyi insanlık dışına çıkaran sözcüklerle projesinin zararını gösteren gerekçeyi ayırmak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-10-tutkular-siyasetten-cikarilamaz",
+      "section": "ÜÇÜNCÜ KISIM · DUYGU",
+      "title": "Tutkular siyasetten çıkarılamaz",
+      "paragraphs": [
+        "Yurttaş yalnız çıkar hesabı yapan akıl makinesi değildir; aidiyet, umut, öfke ve gurur demokratik projelere bağlanır. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Soğuk vergi tablosu kalabalığı harekete geçirmezken adil şehir hikâyesi insanlara birlikte değişim duygusu verir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Duygu kullanmak manipülasyona dönüşebilir; kanıt ve hak sınırı kaybolmamalıdır. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir kampanyada duygunun hangi somut politika ve sorumlulukla bağlandığını sorgulamak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Tutkular siyasetten çıkarılamaz” ile Demokratik Paradoks kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-kurumlar-catismaya-sahne-acar",
+      "section": "ÜÇÜNCÜ KISIM · KANAL",
+      "title": "Kurumlar çatışmaya sahne açar",
+      "paragraphs": [
+        "Parlamento, sendika, bağımsız medya ve toplumsal hareketler anlaşmazlığın görünür ve etkili biçimde oynanacağı alanlar sağlar. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "İşçi öfkesi yalnız bireysel şikâyet hattında kaybolmak yerine sendika pazarlığına taşındığında rakip talepler ölçülebilir hale gelir. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Kurumlar donup temsil etmediği insanı dışarıda bırakabilir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bir grubun öfkesinin sandık, mahkeme, grev veya toplantı yoluyla gerçek sonuç üretip üretemediğini izlemek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-12-sol-sag-sinirinin-silinmesi",
+      "section": "DÖRDÜNCÜ KISIM · SEÇENEKSİZLİK",
+      "title": "Sol-sağ sınırının silinmesi",
+      "paragraphs": [
+        "Merkez siyasetin temel seçenekleri teknik zorunluluk diye birleştirmesi demokratik mücadeleyi zayıflatır ve öfkeyi sistem dışı sağ popülizme bırakabilir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Büyük partiler aynı ekonomik programı savununca kaybeden seçmen gerçek farkı göçmen düşmanlığı kuran harekette bulabilir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Her konu iki eski kutba sığmaz ve uzlaşma otomatik ihanet değildir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Seçimde yalnız üslup değil bütçe, emek, mülkiyet ve kamusal hizmette gerçek alternatif bulunup bulunmadığını karşılaştırmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-13-hasimsiz-siyaset-tehlikesi",
+      "section": "DÖRDÜNCÜ KISIM · ÜÇÜNCÜ YOL",
+      "title": "Hasımsız siyaset tehlikesi",
+      "paragraphs": [
+        "'Artık ideoloji bitti' söylemi iktidar seçimini uzman yönetimine çevirip meşru muhalefeti akıl dışı gösterir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Belediye özelleştirmeyi tek teknik çözüm ilan ettiğinde kamu seçeneği tartışılmadan siyaset dışına itilir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Uzman bilgisi gereklidir; her teknik gerçek oyla değişmez. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir kararın bilimsel sınırıyla değer ve dağıtım tercihini ayırmak, uzmanlığı demokrasiyle birlikte korur. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Hasımsız siyaset tehlikesi” ile Demokratik Paradoks kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-14-cogulculugun-siniri",
+      "section": "DÖRDÜNCÜ KISIM · KİM HASIM?",
+      "title": "Çoğulculuğun sınırı",
+      "paragraphs": [
+        "Çoğul demokrasi her görüşü koşulsuz kabul etmez; rakiplerin özgürlük ve eşitlik için ortak etik-siyasi ilkeleri tanıması gerekir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Bir parti oy alıp başka grubun oy hakkını kalıcı kaldırmak istiyorsa sıradan politika farkından daha temel sınırı aşar. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Sınırı iktidar kolayca muhalifi susturmak için genişletebilir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir yasak talebinde açık şiddet ve hak ihlali kanıtıyla yalnız rahatsız edici görüşü birbirinden titizlikle ayırmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-15-gecici-hegemonya",
+      "section": "DÖRDÜNCÜ KISIM · DÜZEN",
+      "title": "Geçici hegemonya",
+      "paragraphs": [
+        "Her demokratik düzen belirli güçlerin geçici üstünlüğüdür; doğal ve sonsuz görünse de başka bir eşitlik-özgürlük yorumu tarafından dönüştürülebilir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Bir zamanlar normal sayılan yalnız erkek oy hakkı, mücadeleyle evrensel yurttaşlık yönünde yeniden kuruldu. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Her değişim ilerleme değildir; gerici projeler de hegemonya kurabilir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Doğal denilen kuralın tarihini ve onu değiştiren mücadeleyi araştırmak siyasi seçenek alanını görünür kılar. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Geçici hegemonya” ile Demokratik Paradoks kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-demokratik-etik-belirsizlikle-yasar",
+      "section": "BEŞİNCİ KISIM · SORUMLULUK",
+      "title": "Demokratik etik belirsizlikle yaşar",
+      "paragraphs": [
+        "Demokratik kişi rakibinin ortadan kalkmadığı, kendi zaferinin geçici olduğu ve tam uzlaşmanın gelmeyeceği bir dünyada sorumluluk alır. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Seçimi kazanan belediye projesini uygular ama itiraz toplantısını kapatmaz; kaybeden de kararı eleştirirken şiddete başvurmaz. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Belirsizlik kararsızlık bahanesi değildir; geçici olsa da karar verilmelidir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Güç kullanırken kararın geri çevrilebilirliği ve muhalefetin yarın iktidar olma hakkını korumak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-17-catismayi-canli-ama-ortak-dunyayi-ayakta-tutmak",
+      "section": "BEŞİNCİ KISIM · SONUÇ",
+      "title": "Çatışmayı canlı ama ortak dünyayı ayakta tutmak",
+      "paragraphs": [
+        "Mouffe'nin hedefi uyumlu toplum değil, derin farkların düşmanlığa dönüşmeden temsil edildiği canlı radikal ve çoğul demokrasidir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Meydanın iki yanında zıt gösteriler yapılır, polis birini susturmak yerine ikisinin güvenliğini sağlar ve parlamento talepleri oylamaya taşır. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Agonistik sahne ağır ekonomik eşitsizlikte yalnız sembolik kalabilir; kaynak ve medya erişimi de önemlidir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Demokratik kaliteyi yalnız sakinlikle değil gerçek alternatif, eşit mücadele imkânı ve yenilgiden sonra devam eden haklarla ölçmek gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Çatışmayı canlı ama ortak dünyayı ayakta tutmak” ile Demokratik Paradoks kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Mouffe demokrasi için kavga ve kutuplaşma ne kadar çoksa o kadar iyi demez. Amaç şiddetli düşmanlığı, rakibin eşit mücadele hakkını tanıyan kurallı hasımlığa dönüştürmektir.",
+        "Rakibin vergisini yanlış bulup seçimde yenmek istemek agonizm olabilir; onu hain ilan edip konuşma hakkını kaldırmak antagonizmdir.",
+        "Demokratik Paradoks için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap müzakereci demokrasiye karşı agonistik çoğulculuğun temel metinlerinden oldu; popülizm, merkez siyaseti ve kutuplaşma tartışmalarında geniş yankı buldu.",
+        "Eleştirmenler agonizm ile zararlı kutuplaşma arasındaki kurumsal çizginin belirsiz kaldığını, ekonomik eşitsizliğin mücadele kapasitesini yeterince açıklamadığını ve Schmitt'ten alınan kavramların risk taşıdığını savundu.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Demokratik Paradoks bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Rakibi düşman mı hasım mı görüyorum? Uzlaşma hangi gücü görünmez bırakıyor? Kurum çatışmaya gerçek ve eşit bir kanal açıyor mu?",
+        "Katılmadığınız bir görüşü seçin; kişiyi küçümseyen cümleyi çıkarıp projesinin zararını, kendi alternatifinizi ve onun konuşma hakkını aynı paragrafta ifade edin.",
+        "Demokratik Paradoks bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Demokrasi çatışmanın sona ermesi değil; özgürlük ve eşitlik gerilimi içinde rakip projelerin birbirini yok etmeden, gerçek seçenekler ve ortak kurallarla mücadele edebilmesidir.",
+        "Akılda tutulacak son görüntü, lacivert bir kamusal meydanda karşı yönlerden gelen kırmızı ve turkuaz iki kalabalığın ortada birbirini ezmeden dönen ortak bir demokrasi halkası ve açık kürsüler çevresinde karşılaştığı güçlü bir kompozisyondur. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Demokratik Paradoks adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-iki-demokratik-dil": {
+      "image": "/images/summary-art-120-chapter-01-iki-demokratik-dil-v1.webp",
+      "imageCaption": "İki demokratik dil düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-paradoks-cozulecek-hata-degildir": {
+      "image": "/images/summary-art-120-chapter-02-paradoks-cozulecek-hata-degildir-v1.webp",
+      "imageCaption": "Paradoks çözülecek hata değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-siyaset-ve-siyasal-olan": {
+      "image": "/images/summary-art-120-chapter-03-siyaset-ve-siyasal-olan-v1.webp",
+      "imageCaption": "Siyaset ve siyasal olan düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-iktidar-disaridan-gelen-kir-degildir": {
+      "image": "/images/summary-art-120-chapter-04-iktidar-disaridan-gelen-kir-degildir-v1.webp",
+      "imageCaption": "İktidar dışarıdan gelen kir değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-nihai-akilci-uzlasma-hayali": {
+      "image": "/images/summary-art-120-chapter-05-nihai-akilci-uzlasma-hayali-v1.webp",
+      "imageCaption": "Nihai akılcı uzlaşma hayali düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-schmitt-in-rahatsiz-edici-aynasi": {
+      "image": "/images/summary-art-120-chapter-06-schmitt-in-rahatsiz-edici-aynasi-v1.webp",
+      "imageCaption": "Schmitt'in rahatsız edici aynası düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-biz-ve-onlar-butunuyle-kaybolmaz": {
+      "image": "/images/summary-art-120-chapter-07-biz-ve-onlar-butunuyle-kaybolmaz-v1.webp",
+      "imageCaption": "Biz ve onlar bütünüyle kaybolmaz düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-dusman-degil-hasim": {
+      "image": "/images/summary-art-120-chapter-08-dusman-degil-hasim-v1.webp",
+      "imageCaption": "Düşman değil hasım düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-tutkular-siyasetten-cikarilamaz": {
+      "image": "/images/summary-art-120-chapter-09-tutkular-siyasetten-cikarilamaz-v1.webp",
+      "imageCaption": "Tutkular siyasetten çıkarılamaz düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-kurumlar-catismaya-sahne-acar": {
+      "image": "/images/summary-art-120-chapter-10-kurumlar-catismaya-sahne-acar-v1.webp",
+      "imageCaption": "Kurumlar çatışmaya sahne açar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-sol-sag-sinirinin-silinmesi": {
+      "image": "/images/summary-art-120-chapter-11-sol-sag-sinirinin-silinmesi-v1.webp",
+      "imageCaption": "Sol-sağ sınırının silinmesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-hasimsiz-siyaset-tehlikesi": {
+      "image": "/images/summary-art-120-chapter-12-hasimsiz-siyaset-tehlikesi-v1.webp",
+      "imageCaption": "Hasımsız siyaset tehlikesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-cogulculugun-siniri": {
+      "image": "/images/summary-art-120-chapter-13-cogulculugun-siniri-v1.webp",
+      "imageCaption": "Çoğulculuğun sınırı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-gecici-hegemonya": {
+      "image": "/images/summary-art-120-chapter-14-gecici-hegemonya-v1.webp",
+      "imageCaption": "Geçici hegemonya düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-demokratik-etik-belirsizlikle-yasar": {
+      "image": "/images/summary-art-120-chapter-15-demokratik-etik-belirsizlikle-yasar-v1.webp",
+      "imageCaption": "Demokratik etik belirsizlikle yaşar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-catismayi-canli-ama-ortak-dunyayi-ayakta-tutmak": {
+      "image": "/images/summary-art-120-chapter-16-catismayi-canli-ama-ortak-dunyayi-ayakta-tutma-v1.webp",
+      "imageCaption": "Çatışmayı canlı ama ortak dünyayı ayakta tutmak düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

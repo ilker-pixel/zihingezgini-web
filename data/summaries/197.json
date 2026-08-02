@@ -1,0 +1,351 @@
+{
+  "bookNo": 197,
+  "title": "Medya Denetimi",
+  "author": "Edward S. Herman ve Noam Chomsky",
+  "subtitle": "Demokratik ve piyasa temelli medyada sansür emri olmadan da haber seçiminin sahiplik, reklam, kaynak bağımlılığı, tepki baskısı ve egemen korku çerçeveleriyle sistematik biçimde daralabildiğini savunan çalışma.",
+  "coverImage": "/images/summary-cover-197-medya-denetimi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/197-medya-denetimi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#9A3B3B",
+  "meta": {
+    "originalTitle": "Manufacturing Consent",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Editöre aynı saatte yüz olay düşer, akşam bülteninde yalnız onuna yer vardır. Kimse telefonda 'şunu sansürle' demese bile bütçe, reklam, resmî kaynak ve tepki korkusu hangi on olayın güvenli olduğunu öğretir. Kitap bu görünmez süzgeçleri araştırır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Noam Chomsky - Manufacturing Consent excerpt",
+      "url": "https://chomsky.info/consent01/"
+    },
+    {
+      "id": 2,
+      "title": "Noam Chomsky - Manufacturing Consent interview",
+      "url": "https://chomsky.info/200911__/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Demokratik ve piyasa temelli medyada sansür emri olmadan da haber seçiminin sahiplik, reklam, kaynak bağımlılığı, tepki baskısı ve egemen korku çerçeveleriyle sistematik biçimde daralabildiğini savunan çalışma.",
+        "Eserin özgün adı Rızanın İmalatı'dır; katalogda Medya Denetimi başlığıyla yer alıyor. Rehber propaganda modelinin beş filtresini ve vaka karşılaştırmalarını korur; modeli her gazeteciye komplo suçlaması olarak uygulamaz ve dijital çağdaki değişimleri ayrıca tartışır.",
+        "İki ülkede benzer saldırıda siviller ölür. Müttefik ülkedeki kurban sayfalarca isim ve fotoğrafla anlatılır; rakip ülke vakası kısa resmî sayı olarak geçer. Yazarlar 'değerli' ve 'değersiz' kurban farkını bu karşılaştırmayla görünür kılar."
+      ]
+    },
+    {
+      "id": "durak-02-propaganda-emirsiz-nasil-isler",
+      "section": "BİRİNCİ KISIM · MODEL",
+      "title": "Propaganda emirsiz nasıl işler?",
+      "paragraphs": [
+        "Herman ve Chomsky haber kurumlarının normal ekonomik ve kurumsal işleyişinin belirli görüşleri öne çıkarıp diğerlerini zayıflatabileceğini savunur. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Editör yasak listesi görmez ama pahalı araştırma yerine hazır resmî açıklamayı seçmenin bütçeyi koruduğunu öğrenir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Model her haber kararının gizli merkezden yönetildiğini iddia etmez. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir haberi değerlendirirken niyet aramak kadar tekrar eden teşvik ve seçme örüntüsüne bakmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-03-birinci-filtre-sahiplik-ve-olcek",
+      "section": "İKİNCİ KISIM · MÜLKİYET",
+      "title": "Birinci filtre: Sahiplik ve ölçek",
+      "paragraphs": [
+        "Büyük medya kuruluşlarının yüksek sermaye ihtiyacı ve şirket mülkiyeti, sahibin geniş ekonomik çıkarlarıyla çatışan araştırmaları zorlaştırabilir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Aynı grubun enerji yatırımı varken kanalın uzun çevre soruşturması bütçe ve yönetim baskısıyla karşılaşır. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Sahiplik etkisi her haberde doğrudan telefon talimatı biçiminde işlemez. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir kuruluşun ortaklık, borç, yan sektör ve yönetim bağlarını haber çizgisiyle karşılaştırmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Birinci filtre: Sahiplik ve ölçek” ile Medya Denetimi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-ikinci-filtre-reklam-veren-gercek-musteri-mi",
+      "section": "İKİNCİ KISIM · REKLAM",
+      "title": "İkinci filtre: Reklam veren gerçek müşteri mi?",
+      "paragraphs": [
+        "Reklama dayalı modelde izleyici yalnız müşteri değil reklam verene satılan dikkat haline gelir; içerik alım gücü yüksek ve markaya güvenli kitleyi çekmeye yönelir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "İşçi sağlığı belgeseli az reklam alırken tüketim programı ürün yerleştirmeyle kolay finanse edilir. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Abonelik veya kamu finansmanı da kendi baskı ve dışlama biçimlerini taşıyabilir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Bir içeriğin gelir kaynağını ve hangi izleyiciyi ekonomik olarak değerli saydığını sormak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-05-ucuncu-filtre-hazir-kaynaklarin-gucu",
+      "section": "İKİNCİ KISIM · KAYNAK",
+      "title": "Üçüncü filtre: Hazır kaynakların gücü",
+      "paragraphs": [
+        "Devlet ve büyük şirketler sürekli açıklama, uzman ve görüntü sağlayarak haber üretim maliyetini düşürür; muhalif kaynak aynı erişime sahip değildir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Bakanlık her sabah basın paketi gönderir, küçük mahalle grubu ise doğrulanacak belge ve sözcü bulmakta zorlanır. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Resmî kaynak her zaman yanlış, bağımsız kaynak her zaman doğru değildir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Haberde kimin sözü kolayca doğrulanmış sayılmış, kimin kanıt yükü artmış diye bakmak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Üçüncü filtre: Hazır kaynakların gücü” ile Medya Denetimi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-uzman-nasil-uretilir",
+      "section": "İKİNCİ KISIM · OTORİTE",
+      "title": "Uzman nasıl üretilir?",
+      "paragraphs": [
+        "Düşünce kuruluşu ve sektör fonları medyanın hızlıca çağırabileceği uzman ağları kurarak kabul edilebilir görüş sınırını etkiler. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Televizyon canlı yayına hazır, düzgün stüdyolu uzmanı çağırır; yıllarca sahada çalışan kişi bağlantı imkânı bulamaz. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Fon almak uzmanın sözünü otomatik olarak yanlış yapmaz. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Uzmanın kanıtı, finansmanı, çıkar çatışması ve karşı görüşe ayrılan süreyi birlikte değerlendirmek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-07-dorduncu-filtre-tepki-atesi",
+      "section": "ÜÇÜNCÜ KISIM · FLAK",
+      "title": "Dördüncü filtre: Tepki ateşi",
+      "paragraphs": [
+        "Şikâyet kampanyası, dava tehdidi, ilan çekme ve siyasi saldırı medyaya pahalı bir disiplin maliyeti yükleyebilir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Gazete güçlü kurum hakkında dosya yayımlar; ertesi gün yüzlerce aynı metinli şikâyet ve sponsor telefonu gelir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Haklı düzeltme talebiyle örgütlü susturma baskısı aynı şey değildir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Tepkinin kanıt sunduğunu mu yoksa yalnız maliyeti yükselttiğini mi ayırmak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Dördüncü filtre: Tepki ateşi” ile Medya Denetimi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-besinci-filtre-ortak-dusman-cercevesi",
+      "section": "ÜÇÜNCÜ KISIM · İDEOLOJİ",
+      "title": "Beşinci filtre: Ortak düşman çerçevesi",
+      "paragraphs": [
+        "Soğuk Savaş'ta anti-komünizm, sonrasında terör veya başka korku figürleri karmaşık olayları sadakat sınavına çevirebilir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Bir politika eleştirisi tartışılmadan 'düşmana yardım' etiketiyle konuşma alanının dışına itilir. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Gerçek güvenlik tehdidini propaganda diye küçümsemek de tehlikelidir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Tehdidin kanıtı, önerilen önlem ve eleştiriyi susturmak için kullanılan geniş etiketleri ayrı incelemek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Beşinci filtre: Ortak düşman çerçevesi” ile Medya Denetimi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-filtreler-zincir-gibi-birlesir",
+      "section": "ÜÇÜNCÜ KISIM · SİSTEM",
+      "title": "Filtreler zincir gibi birleşir",
+      "paragraphs": [
+        "Tek filtre her sonucu açıklamaz; sahiplik, reklam, kaynak ve tepki aynı yönde çalıştığında güçlü seçme örüntüsü doğar. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Pahalı savaş haberi resmî görüntüye dayanır, sponsor dostu çerçeve seçer ve sert itirazdan kaçınır. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Filtreler bazen çatışır ve gazetecilik özerkliği boşluk açabilir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Bir haberde hangi filtrenin gerçekten kanıtlandığını ve hangisinin varsayım olduğunu ayrı işaretlemek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-10-degerli-ve-degersiz-kurbanlar",
+      "section": "DÖRDÜNCÜ KISIM · KARŞILAŞTIRMA",
+      "title": "Değerli ve değersiz kurbanlar",
+      "paragraphs": [
+        "Benzer şiddet olaylarının failinin dost veya düşman oluşuna göre kurbanların insanlığı ve haber yoğunluğu farklı sunulabilir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Bir kurbana ad, çocukluk ve aile fotoğrafı verilir; diğerleri yalnız toplu sayı olarak kalır. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Vaka büyüklüğü, erişim ve doğrulama farkı da haber miktarını etkileyebilir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Karşılaştırmada tarih, ölçek, kaynak erişimi ve kullanılan insani ayrıntıları eşit cetvelle ölçmek gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Değerli ve değersiz kurbanlar” ile Medya Denetimi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-secim-haberi-ve-mesruiyet",
+      "section": "DÖRDÜNCÜ KISIM · SİYASET",
+      "title": "Seçim haberi ve meşruiyet",
+      "paragraphs": [
+        "Müttefik ülkedeki sorunlu seçimler ilerleme, rakip ülkedeki benzer kusurlar sahte demokrasi çerçevesine yerleştirilebilir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Aynı düşük katılım bir yerde normalleşme, başka yerde rejimin çöküşü diye başlığa çıkar. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Ülkelerin gerçek kurum farkları basit eşleştirmeyle silinmemelidir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Seçim haberinde gözlem ölçüsü, şiddet, rekabet ve hukuk verisini aynı standartla karşılaştırmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-12-savas-dilinde-edilgen-cumle",
+      "section": "DÖRDÜNCÜ KISIM · ÇERÇEVE",
+      "title": "Savaş dilinde edilgen cümle",
+      "paragraphs": [
+        "Dil fail ve sorumluluğu görünür ya da görünmez kılar; 'insanlar öldü' ile 'ordu insanları öldürdü' aynı bilgi değildir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Bombanın kimin tarafından atıldığı başlıktan çıkarılır, olay doğal afet gibi görünür. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "İlk anda fail doğrulanmamışsa temkinli dil etik bir gereklilik olabilir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Haberde fiilin öznesini, kesinlik derecesini ve düzeltme sürecini kontrol etmek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Savaş dilinde edilgen cümle” ile Medya Denetimi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-gazeteci-kotu-niyetli-olmak-zorunda-degil",
+      "section": "BEŞİNCİ KISIM · MESLEK",
+      "title": "Gazeteci kötü niyetli olmak zorunda değil",
+      "paragraphs": [
+        "Model bireysel gazetecinin yalan söylemesini değil, sisteme uyum sağlayan seçimlerin terfi ve kaynakla ödüllendirilmesini vurgular. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Muhabir araştırma ister ama her seferinde süre bulamaz; zamanla hangi dosyanın kabul edileceğini önceden sezerek oto-seçim yapar. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Gazeteciler filtreleri aşan cesur işler de üretir ve kurumlar aynı değildir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Eleştiriyi kişisel hakaret yerine zaman, bütçe, sahiplik ve erişim koşullarına yöneltmek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-14-muhalefetin-sinirlari",
+      "section": "BEŞİNCİ KISIM · TARTIŞMA ALANI",
+      "title": "Muhalefetin sınırları",
+      "paragraphs": [
+        "Ana akım içinde sert görünen tartışma bazen temel varsayımları paylaşan dar seçenekler arasında kalabilir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Programda savaşın hızlı mı yavaş mı yürütüleceği konuşulur, savaşın meşruiyeti masaya gelmez. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Sınır sabit değildir; kriz ve toplumsal hareket yeni görüşleri merkeze taşıyabilir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Bir tartışmada konuşulan seçenek kadar hiç sorulmayan başlangıç sorusunu da not etmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Muhalefetin sınırları” ile Medya Denetimi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-dijital-platformlar-filtreleri-bozdu-mu",
+      "section": "ALTINCI KISIM · YENİ MEDYA",
+      "title": "Dijital platformlar filtreleri bozdu mu?",
+      "paragraphs": [
+        "İnternet yayın eşiğini düşürmüş olsa da platform sahipliği, reklam, algoritma, veri ve görünürlük yeni filtreler yaratır. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Telefonla çekilen görüntü doğrudan yayımlanır ama algoritma öfke üreten kısa parçayı milyonlara, uzun kanıtı yüz kişiye gösterir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Dijital ortam tek merkezli değildir ve bağımsız topluluklara gerçek alan açar. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "İçerikle birlikte tavsiye sistemi, gelir modeli, moderasyon ve veri kaynağını incelemek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-16-propaganda-modelinin-sinirlari",
+      "section": "ALTINCI KISIM · ELEŞTİRİ",
+      "title": "Propaganda modelinin sınırları",
+      "paragraphs": [
+        "Model yapısal seçimi güçlü açıklar fakat izleyici yorumunu, kültürel farkı, gazetecilik mücadelesini ve devlet dışı ağları bazen eksik bırakır. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Aynı haberi iki izleyici biri onay, diğeri öfke ve örgütlenme çağrısı olarak okuyabilir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "İzleyici etkinliği kurumların eşitsiz görünürlük gücünü yok etmez. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Yapı, içerik ve alımlama verilerini birbirine indirgemeden birlikte kullanmak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-17-daha-ozgur-haber-duzeni-nasil-kurulur",
+      "section": "ALTINCI KISIM · SONUÇ",
+      "title": "Daha özgür haber düzeni nasıl kurulur?",
+      "paragraphs": [
+        "Çözüm yalnız bireysel medya okuryazarlığı değil sahiplik çeşitliliği, güçlü kamusal medya, bağımsız finansman, kaynak çoğulluğu ve şeffaflık ister. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Yerel kooperatif gazete aboneden gelir alır, yönetim kaydını açıklar ve mahalle kaynaklarına zaman ayırır. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Alternatif medya de kutuplaşma, hata ve kapalı grup baskısından muaf değildir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir haber düzeninde düzeltme, finansman açıklığı, editoryal bağımsızlık ve farklı kaynak erişimini birlikte güçlendirmek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Daha özgür haber düzeni nasıl kurulur?” ile Medya Denetimi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Propaganda modeli gazetecilerin gizli odada emir aldığı tek merkezli komplo anlatısı değildir. Kurumların olağan ekonomik ve haber üretim alışkanlıklarının sistematik sonuçlarını inceler.",
+        "Bir kanalın bir haberi vermemesi tek başına sansür kanıtı değildir; benzer olaylarda tekrar eden seçim, kaynak, reklam ve tepki örüntüsü gösterilmelidir.",
+        "Medya Denetimi için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap medya çalışmaları ve siyasi iletişimde çok etkili oldu; beş filtre ve değerli-değersiz kurban karşılaştırması eleştirel haber okumanın yaygın araçlarına dönüştü.",
+        "Model ekonomik belirlenimci ve fazla kapalı bulunmuş; gazeteci özerkliği, izleyici etkinliği, rekabet ve dijital parçalanmayı yetersiz açıkladığı savunulmuştur.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Medya Denetimi bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Haberi kim finanse ediyor? Hangi kaynak hazır kabul edildi? Benzer kurbanlara aynı insanlık ve kanıt ölçüsü uygulandı mı?",
+        "Aynı olayı üç kaynaktan okuyun. Başlık öznesini, alıntılanan kişileri, görseli, eksik soruyu ve gelir modelini küçük bir tabloya yazın.",
+        "Medya Denetimi bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Demokratik medyada denetim çoğu zaman açık yasaktan değil, haberin üretildiği sahiplik, gelir, kaynak ve tepki düzeninin sessiz süzgeçlerinden doğar.",
+        "Akılda tutulacak son görüntü, kızıl, antrasit ve krem tonlarında çok sayıda haber kâğıdının beş metal filtreden geçip tek dar ışık sütununa dönüştüğü, kenarda görünmeyen insan yüzlerinin kaldığı güçlü bir matbaa sahnesidir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Medya Denetimi adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-propaganda-emirsiz-nasil-isler": {
+      "image": "/images/summary-art-197-chapter-01-propaganda-emirsiz-nasil-isler-v1.webp",
+      "imageCaption": "Propaganda emirsiz nasıl işler? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-birinci-filtre-sahiplik-ve-olcek": {
+      "image": "/images/summary-art-197-chapter-02-birinci-filtre-sahiplik-ve-olcek-v1.webp",
+      "imageCaption": "Birinci filtre: Sahiplik ve ölçek düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-ikinci-filtre-reklam-veren-gercek-musteri-mi": {
+      "image": "/images/summary-art-197-chapter-03-ikinci-filtre-reklam-veren-gercek-musteri-mi-v1.webp",
+      "imageCaption": "İkinci filtre: Reklam veren gerçek müşteri mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-ucuncu-filtre-hazir-kaynaklarin-gucu": {
+      "image": "/images/summary-art-197-chapter-04-ucuncu-filtre-hazir-kaynaklarin-gucu-v1.webp",
+      "imageCaption": "Üçüncü filtre: Hazır kaynakların gücü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-uzman-nasil-uretilir": {
+      "image": "/images/summary-art-197-chapter-05-uzman-nasil-uretilir-v1.webp",
+      "imageCaption": "Uzman nasıl üretilir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-dorduncu-filtre-tepki-atesi": {
+      "image": "/images/summary-art-197-chapter-06-dorduncu-filtre-tepki-atesi-v1.webp",
+      "imageCaption": "Dördüncü filtre: Tepki ateşi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-besinci-filtre-ortak-dusman-cercevesi": {
+      "image": "/images/summary-art-197-chapter-07-besinci-filtre-ortak-dusman-cercevesi-v1.webp",
+      "imageCaption": "Beşinci filtre: Ortak düşman çerçevesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-filtreler-zincir-gibi-birlesir": {
+      "image": "/images/summary-art-197-chapter-08-filtreler-zincir-gibi-birlesir-v1.webp",
+      "imageCaption": "Filtreler zincir gibi birleşir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-degerli-ve-degersiz-kurbanlar": {
+      "image": "/images/summary-art-197-chapter-09-degerli-ve-degersiz-kurbanlar-v1.webp",
+      "imageCaption": "Değerli ve değersiz kurbanlar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-secim-haberi-ve-mesruiyet": {
+      "image": "/images/summary-art-197-chapter-10-secim-haberi-ve-mesruiyet-v1.webp",
+      "imageCaption": "Seçim haberi ve meşruiyet düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-savas-dilinde-edilgen-cumle": {
+      "image": "/images/summary-art-197-chapter-11-savas-dilinde-edilgen-cumle-v1.webp",
+      "imageCaption": "Savaş dilinde edilgen cümle düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-gazeteci-kotu-niyetli-olmak-zorunda-degil": {
+      "image": "/images/summary-art-197-chapter-12-gazeteci-kotu-niyetli-olmak-zorunda-degil-v1.webp",
+      "imageCaption": "Gazeteci kötü niyetli olmak zorunda değil düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-muhalefetin-sinirlari": {
+      "image": "/images/summary-art-197-chapter-13-muhalefetin-sinirlari-v1.webp",
+      "imageCaption": "Muhalefetin sınırları düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-dijital-platformlar-filtreleri-bozdu-mu": {
+      "image": "/images/summary-art-197-chapter-14-dijital-platformlar-filtreleri-bozdu-mu-v1.webp",
+      "imageCaption": "Dijital platformlar filtreleri bozdu mu? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-propaganda-modelinin-sinirlari": {
+      "image": "/images/summary-art-197-chapter-15-propaganda-modelinin-sinirlari-v1.webp",
+      "imageCaption": "Propaganda modelinin sınırları düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-daha-ozgur-haber-duzeni-nasil-kurulur": {
+      "image": "/images/summary-art-197-chapter-16-daha-ozgur-haber-duzeni-nasil-kurulur-v1.webp",
+      "imageCaption": "Daha özgür haber düzeni nasıl kurulur? düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

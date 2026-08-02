@@ -1,0 +1,351 @@
+{
+  "bookNo": 86,
+  "title": "Ya/Ya da",
+  "author": "Soren Kierkegaard",
+  "subtitle": "Hayatı haz ve ilginç anların peşinde mi, yoksa seçim, sadakat ve sorumlulukla mı kuracağımızı; iki takma adlı sesin birbirine meydan okuduğu edebî-felsefi bir sahnede anlatan büyük eser.",
+  "coverImage": "/images/summary-cover-86-ya-ya-da-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/86-ya-ya-da-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#815C9B",
+  "meta": {
+    "originalTitle": "Either/Or",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir genç her akşam başka eğlence arar; sıkılmaktan kurtulur ama sabah kim olduğunu açıklayacak bir hayat bulamaz. Evli bir yargıç aynı sofraya yıllardır oturur; rutinin içinde özgürlük ve sevgi üretildiğini söyler. Kierkegaard ikisini kürsüde değil, mektuplar ve günlükler aracılığıyla karşılaştırır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Cambridge - Kierkegaard's Either/Or Contents",
+      "url": "https://www.cambridge.org/core/books/abs/kierkegaards-eitheror/contents/CE9B0EF2045DA0AFAD438CD3E392F84D"
+    },
+    {
+      "id": 2,
+      "title": "Google Books - Either/Or",
+      "url": "https://books.google.com/books/about/Either_or.html?id=39sHAQAAMAAJ"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Hayatı haz ve ilginç anların peşinde mi, yoksa seçim, sadakat ve sorumlulukla mı kuracağımızı; iki takma adlı sesin birbirine meydan okuduğu edebî-felsefi bir sahnede anlatan büyük eser.",
+        "Eser tek bir öğretinin düz anlatımı değildir. Victor Eremita adlı kurgusal editörün bulduğu A ve B kâğıtları; şiir, deneme, mektup, baştan çıkarıcının günlüğü ve vaazdan oluşur. Rehber A'yı yalnız kötü hazcı, Yargıç William'ı da yazarın tartışmasız son sözü saymaz.",
+        "Eski bir yazı masasının gizli çekmecesinden iki deste kâğıt çıkar. Birinde parçalı, parlak, bazen acımasız estetik düşünceler; diğerinde evli bir yargıcın uzun mektupları vardır. Okur kimin haklı olduğunu söyleyen anlatıcı bulamaz ve kendi seçiminin sorumluluğuyla baş başa kalır."
+      ]
+    },
+    {
+      "id": "durak-02-victor-eremita-nin-cekmecesi",
+      "section": "BİRİNCİ KISIM · KURGU",
+      "title": "Victor Eremita'nın çekmecesi",
+      "paragraphs": [
+        "Kurgusal editör metinleri bulduğunu söyleyerek yazarı doğrudan otorite olmaktan çeker ve okuru sesler arasında karar vermeye zorlar. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Mahkemede hakem yokmuş gibi A'nın notlarıyla B'nin mektupları aynı masaya bırakılır. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Dolaylı anlatım her yorumun eşit doğru olduğu anlamına gelmez. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Bir metinde konuşanın karakteriyle yazarın görüşünü ayırıp sözün yaşam sonucuna bakmak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Victor Eremita'nın çekmecesi” ile Ya/Ya da kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-diapsalmata-parcalanmis-ruh",
+      "section": "BİRİNCİ KISIM · ESTETİK SES",
+      "title": "Diapsalmata: Parçalanmış ruh",
+      "paragraphs": [
+        "A'nın kısa parçaları zekâ, melankoli ve dünyadan uzaklığı bir arada taşır; hayat yoğun anlara bölünmüştür. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Kalabalığı güldüren kişi eve dönünce kendi içindeki sessiz boşluğu dinler. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Hüzünlü parlaklık romantikleştirilirse gerçek depresyon ve sorumluluk görünmez olabilir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Etkileyici cümlenin arkasında sürdürülebilir bir ilişki ve eylem bulunup bulunmadığını sormak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-04-estetik-yasam-nedir",
+      "section": "BİRİNCİ KISIM · HAZ",
+      "title": "Estetik yaşam nedir?",
+      "paragraphs": [
+        "Estetik kişi hayatı bağlayıcı bütün yerine ilginç deneyim, ruh hali ve olasılık koleksiyonu olarak yaşar. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Şehir değiştiren genç her başlangıçta canlı hisseder, ilişki ciddileşince başka bir olasılığa kaçar. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Haz aramak tek başına sığlık değildir; sanat ve oyun hayata değer katar. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Sorun zevkin varlığı değil, seçim sonucu doğan sürekliliği sürekli erteleyip ertelemediğimizdir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Estetik yaşam nedir?” ile Ya/Ya da kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-dolaysiz-erotik-asamalar",
+      "section": "İKİNCİ KISIM · DON GIOVANNI",
+      "title": "Dolaysız erotik aşamalar",
+      "paragraphs": [
+        "A Mozart'ın Don Giovanni'sinde düşünceden önce akan duyusal arzu ve müziğin anlık gücünü görür. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Opera kahramanı her kişide tekil bir sevgi değil, durmadan yeni nesne arayan arzunun ritmi olur. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Sanat yorumunu gerçek ilişkideki sömürüye mazeret yapmak yanlıştır. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Arzunun kişiyi gerçekten görüp görmediğini yoksa onu bir sonraki heyecanın aracı mı yaptığını sormak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-06-eski-trajedi-ile-modern-sucluluk",
+      "section": "İKİNCİ KISIM · TRAJEDİ",
+      "title": "Eski trajedi ile modern suçluluk",
+      "paragraphs": [
+        "Antik trajedide kişi kader ve soyun yükünü taşırken modern dünyada kendini daha yalnız ve bütünüyle sorumlu hisseder. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Antigone aile sırrı ile kişisel seçim arasında sıkışır; acısı yalnız özel hata değildir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Antik ve modern ayrımı tarihsel çeşitliliği fazla keskin bölebilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Bir hatada kişisel karar ile miras alınan koşulların payını birlikte düşünmek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Eski trajedi ile modern suçluluk” ile Ya/Ya da kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-golge-resimleri",
+      "section": "İKİNCİ KISIM · KEDER",
+      "title": "Gölge resimleri",
+      "paragraphs": [
+        "Terk edilmiş kadın figürleri görünür gündelik hayatın arkasında saklanan kederin farklı biçimlerini gösterir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Dışarıdan sakin görünen kişi eski nişanlısının tek cümlesini yıllarca içinde tekrar eder. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Başkasının acısını estetik seyir nesnesine çevirmek etik risk taşır. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir hikâyeyi güzel bulurken anlatılan kişinin ses ve mahremiyet hakkını korumak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-08-ilk-ask-ve-hatirlama",
+      "section": "İKİNCİ KISIM · ZAMAN",
+      "title": "İlk aşk ve hatırlama",
+      "paragraphs": [
+        "A ilk aşkı yaşanan ilişkiden çok hayalde korunan kusursuz ihtimal olarak büyütmenin çekiciliğini inceler. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Yıllar sonra karşılaşılan eski sevgili gerçek kişiden çok gençliğin kayıp kapısı gibi görünür. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Nostalji geçmişin çatışmalarını silebilir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Özlediğimiz kişinin kendisiyle o dönemde olduğumuz kişiyi birbirinden ayırmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “İlk aşk ve hatırlama” ile Ya/Ya da kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-ekin-nobeti-sikintiyi-yonetmek",
+      "section": "ÜÇÜNCÜ KISIM · CAN SIKINTISI",
+      "title": "Ekin nöbeti: Sıkıntıyı yönetmek",
+      "paragraphs": [
+        "A dünyayı değiştirmekten çok ilgiyi sürekli açı değiştirerek taze tutmayı, böylece sıkıntıdan kaçmayı önerir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Aynı kafeye başka saatlerde gidip insanları oyun gibi gözlemek yeni haz üretir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "İnsanları sıkıntı ilacı yapmak onları nesneleştirir ve kaçışın sonu yoktur. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Yeni uyaran aramadan önce sıkıntının bitkinlik, anlamsızlık veya bağ korkusu olup olmadığını anlamak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Ekin nöbeti: Sıkıntıyı yönetmek” ile Ya/Ya da kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-bastan-cikaricinin-gunlugu",
+      "section": "ÜÇÜNCÜ KISIM · JOHANNES",
+      "title": "Baştan Çıkarıcının Günlüğü",
+      "paragraphs": [
+        "Johannes Cordelia'yı sevmekten çok onun duygusunu kusursuz bir sanat eserine dönüştürmek için yaklaşır. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Mektup, rastlantı ve geri çekilmeyi hesaplayarak genç kadının kendi seçimi sanacağı bir bağ kurar. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Zekâ ve estetik incelik manipülasyonu ahlaken temizlemez. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir ilişkide belirsizliği kimin yönettiğini ve diğer kişinin özgür bilgisini azaltıp azaltmadığını sormak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-11-etik-olan-secmekle-baslar",
+      "section": "DÖRDÜNCÜ KISIM · YARGIÇ WILLIAM",
+      "title": "Etik olan seçmekle başlar",
+      "paragraphs": [
+        "Yargıç William'a göre kişi yalnız seçenekler arasında değil, seçme eylemiyle kendisini süreklilik taşıyan biri olarak seçer. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Genç 'bir gün dürüst olacağım' demek yerine bugün verdiği sözü tutarak kimliğini kurar. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Seçim gücünü vurgulamak yoksulluk ve baskı gibi gerçek seçenek eşitsizliklerini küçümsememelidir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Kararda niyetin yanında sürdürülen davranış ve mevcut imkanları birlikte görmek gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Etik olan seçmekle başlar” ile Ya/Ya da kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-12-evliligin-estetik-degeri",
+      "section": "DÖRDÜNCÜ KISIM · SEVGİ",
+      "title": "Evliliğin estetik değeri",
+      "paragraphs": [
+        "Yargıç evliliği aşkın ölümü değil, ilk duyguyu zaman, görev ve yenilenmeyle derinleştiren bir sanat sayar. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Aynı sofraya oturmak sıradan görünür; yıllar içinde dikkatle sürdürüldüğünde ortak bir dünya kurar. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Evlilik tek iyi hayat biçimi değildir ve kötü evliliği korumak erdem sayılmaz. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bağlılığı süreden çok karşılıklılık, güven, özgürlük ve onarım kapasitesiyle değerlendirmek gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-13-gorev-neden-ozgurlugu-yok-etmez",
+      "section": "DÖRDÜNCÜ KISIM · SORUMLULUK",
+      "title": "Görev neden özgürlüğü yok etmez?",
+      "paragraphs": [
+        "Etik yaşamda görev dışarıdan zincir değil, kişinin benimsediği söz aracılığıyla dağınık arzularını anlamlı bütüne bağlar. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Çocuğuna bakan baba bazı geceler eğlenceden vazgeçer ama seçtiği ilişki içinde kendisini tanır. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Zorunlu bakım yükünü gönüllü erdem diye övmek adaletsizliği saklayabilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Görevin gerçekten seçilip paylaşılabildiğini ve bakım verenin dinlenme hakkını sormak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Görev neden özgürlüğü yok etmez?” ile Ya/Ya da kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-14-calismak-ve-ortak-dunya",
+      "section": "BEŞİNCİ KISIM · MESLEK",
+      "title": "Çalışmak ve ortak dünya",
+      "paragraphs": [
+        "Yargıç düzenli işi yalnız para kazanmak değil, yeteneği ortak ihtiyaç ve süreklilik içinde biçimlendirmek olarak görür. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Usta her gün aynı tezgâha dönerek tek parlak gösteriden daha derin bir beceri geliştirir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Sömürücü veya anlamsız işi kutsamak doğru değildir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "İşin kişiye beceri, söz hakkı ve toplumsal yarar verip vermediğini ayrı değerlendirmek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-15-estetik-umutsuzluk",
+      "section": "BEŞİNCİ KISIM · KRİZ",
+      "title": "Estetik umutsuzluk",
+      "paragraphs": [
+        "Sürekli olasılık peşinde koşan kişi hiçbir seçeneği kendisi yapamadığı için görünmez bir umutsuzluğa düşebilir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Bütün kapıları açık tutan genç yıllar sonra hiçbir odada evi olmadığını fark eder. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Tek bir yaşam seçmek bütün merak ve değişimi öldürmez. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Ertelediğimiz kararın gerçekten bilgi eksikliğinden mi yoksa kayıp korkusundan mı doğduğunu sormak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Estetik umutsuzluk” ile Ya/Ya da kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-tanri-karsisinda-daima-haksiz-olmak",
+      "section": "ALTINCI KISIM · ULTİMATUM",
+      "title": "Tanrı karşısında daima haksız olmak",
+      "paragraphs": [
+        "Son vaaz etik kişinin bile kendi doğruluğuna bütünüyle yaslanamayacağını, alçakgönüllülük ve bağışlanma ihtiyacını açar. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Tartışmayı kazanan kişi sevdiğini kırdığını fark edip haklılığının yetmediğini görür. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Bu düşünce otorite karşısında mağdurun haklı itirazını susturmak için kullanılamaz. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Kendi sınırını kabul etmekle haksızlığa boyun eğmeyi kesin biçimde ayırmak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ]
+    },
+    {
+      "id": "durak-17-ya-ya-da-nin-gizli-ucuncu-kapisi",
+      "section": "ALTINCI KISIM · SONUÇ",
+      "title": "Ya/Ya da'nın gizli üçüncü kapısı",
+      "paragraphs": [
+        "Eser estetik ve etik seçenekleri çarpıştırırken dinî ilişkinin ikisini aşan bir boyutunu yalnız işaret eder. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Okur A'nın cazibesini ve B'nin ciddiyetini duyduktan sonra hazır formül değil kendi yaşanmış cevabını vermek zorunda kalır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Kierkegaard'ın sonraki eserlerini buraya eksiksiz sonuç gibi taşımak metnin açıklığını kapatabilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Bir düşünceyi seçerken yalnız ne söylediğini değil bizi hangi kişi olmaya çağırdığını görmek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Ya/Ya da basitçe 'eğlenmek kötüdür, evlenmek iyidir' demez. Estetik sesin güzelliği ve zekâsı ciddidir; etik ses de kusursuz son söz değildir. Kitabın yöntemi, okuru tarafların arkasına saklanamayacağı bir seçime götürmektir.",
+        "Bir müzisyen turne hayatını seçebilir ve etik açıdan son derece sorumlu yaşayabilir; evli bir kişi ise sözlerini sürekli bozabilir. Ayrım medeni durumdan çok hayatı anlık tüketmekle süreklilik içinde üstlenmek arasındadır.",
+        "Ya/Ya da için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser varoluşçuluğun öncülerinden sayıldı; takma ad, dolaylı iletişim, seçim, kaygı ve umutsuzluk temaları edebiyat, teoloji ve psikoloji üzerinde büyük etki bıraktı.",
+        "Yargıç William'ın evlilik savunusunun ataerkil ve burjuva koşulları yeterince sorgulamadığı, kadın karakterlerin çoğu kez erkek düşüncesinin sahnesi olduğu ve iki yaşam biçiminin aşırı keskin kurulduğu eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Ya/Ya da bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Bu seçim beni hangi kişi yapıyor? Olasılığı açık tutmak ne zaman kaçışa dönüşüyor? Söz verdiğim ilişki özgür ve karşılıklı mı?",
+        "Bir yıldır ertelediğiniz küçük bir seçim bulun. İki seçeneğin kazanç ve kaybını yazdıktan sonra 'hangisi hoş?' yerine 'hangisini sürdürürsem kim olurum?' diye sorun ve geri alınabilir ilk adımı atın.",
+        "Ya/Ya da bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "İnsan yalnız başına gelen duygularla değil, seçip tekrar ettiği ilişkiler ve sorumluluklarla benlik kazanır; fakat her gerçek seçim kaybedilen olasılıkların hüznünü de taşır.",
+        "Akılda tutulacak son görüntü, mor, altın ve gece mavisi tonlarında gizli çekmeceden çıkan iki yolun birinde maskeli opera ve dönen aynalar, diğerinde sıcak bir sofra ve uzun bir patika bulunduğu; ufukta üçüncü bir ışığın belirdiği sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Ya/Ya da adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-victor-eremita-nin-cekmecesi": {
+      "image": "/images/summary-art-86-chapter-01-victor-eremita-nin-cekmecesi-v1.webp",
+      "imageCaption": "Victor Eremita'nın çekmecesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-diapsalmata-parcalanmis-ruh": {
+      "image": "/images/summary-art-86-chapter-02-diapsalmata-parcalanmis-ruh-v1.webp",
+      "imageCaption": "Diapsalmata: Parçalanmış ruh düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-estetik-yasam-nedir": {
+      "image": "/images/summary-art-86-chapter-03-estetik-yasam-nedir-v1.webp",
+      "imageCaption": "Estetik yaşam nedir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-dolaysiz-erotik-asamalar": {
+      "image": "/images/summary-art-86-chapter-04-dolaysiz-erotik-asamalar-v1.webp",
+      "imageCaption": "Dolaysız erotik aşamalar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-eski-trajedi-ile-modern-sucluluk": {
+      "image": "/images/summary-art-86-chapter-05-eski-trajedi-ile-modern-sucluluk-v1.webp",
+      "imageCaption": "Eski trajedi ile modern suçluluk düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-golge-resimleri": {
+      "image": "/images/summary-art-86-chapter-06-golge-resimleri-v1.webp",
+      "imageCaption": "Gölge resimleri düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-ilk-ask-ve-hatirlama": {
+      "image": "/images/summary-art-86-chapter-07-ilk-ask-ve-hatirlama-v1.webp",
+      "imageCaption": "İlk aşk ve hatırlama düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-ekin-nobeti-sikintiyi-yonetmek": {
+      "image": "/images/summary-art-86-chapter-08-ekin-nobeti-sikintiyi-yonetmek-v1.webp",
+      "imageCaption": "Ekin nöbeti: Sıkıntıyı yönetmek düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-bastan-cikaricinin-gunlugu": {
+      "image": "/images/summary-art-86-chapter-09-bastan-cikaricinin-gunlugu-v1.webp",
+      "imageCaption": "Baştan Çıkarıcının Günlüğü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-etik-olan-secmekle-baslar": {
+      "image": "/images/summary-art-86-chapter-10-etik-olan-secmekle-baslar-v1.webp",
+      "imageCaption": "Etik olan seçmekle başlar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-evliligin-estetik-degeri": {
+      "image": "/images/summary-art-86-chapter-11-evliligin-estetik-degeri-v1.webp",
+      "imageCaption": "Evliliğin estetik değeri düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-gorev-neden-ozgurlugu-yok-etmez": {
+      "image": "/images/summary-art-86-chapter-12-gorev-neden-ozgurlugu-yok-etmez-v1.webp",
+      "imageCaption": "Görev neden özgürlüğü yok etmez? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-calismak-ve-ortak-dunya": {
+      "image": "/images/summary-art-86-chapter-13-calismak-ve-ortak-dunya-v1.webp",
+      "imageCaption": "Çalışmak ve ortak dünya düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-estetik-umutsuzluk": {
+      "image": "/images/summary-art-86-chapter-14-estetik-umutsuzluk-v1.webp",
+      "imageCaption": "Estetik umutsuzluk düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-tanri-karsisinda-daima-haksiz-olmak": {
+      "image": "/images/summary-art-86-chapter-15-tanri-karsisinda-daima-haksiz-olmak-v1.webp",
+      "imageCaption": "Tanrı karşısında daima haksız olmak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-ya-ya-da-nin-gizli-ucuncu-kapisi": {
+      "image": "/images/summary-art-86-chapter-16-ya-ya-da-nin-gizli-ucuncu-kapisi-v1.webp",
+      "imageCaption": "Ya/Ya da'nın gizli üçüncü kapısı düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

@@ -247,7 +247,9 @@
         "description": "Bilimsel gerçeklerin laboratuvarda insan ve insan-olmayan aktörlerin ağları tarafından nasıl inşa edildiğini gösteren eser.",
         "pubDate": "2005",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/21-dogayi-yeniden-bir-araya-getirmek/"
     },
     {
         "no": 22,
@@ -269,7 +271,9 @@
         "description": "Avcı-toplayıcı toplumların kıtlık içinde değil, bolluk içinde yaşadığını savunan antropolojik klasik.",
         "pubDate": "1972",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/23-tas-devri-ekonomisi/"
     },
     {
         "no": 24,
@@ -291,7 +295,9 @@
         "description": "Kirlilik, tabu ve temizlik kavramlarının sosyal düzenle olan ilişkisini inceleyen eser.",
         "pubDate": "1966",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/25-saflik-ve-tehlike/"
     },
     {
         "no": 26,
@@ -301,7 +307,9 @@
         "description": "Ritüellerin yapısı, liminallik ve topluluk bağı (communitas) kavramlarını açıklayan eser.",
         "pubDate": "1969",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/26-rituel-sureci/"
     },
     {
         "no": 27,
@@ -311,7 +319,9 @@
         "description": "Kültürü bir metin gibi okuyan ve 'yoğun betimleme' yöntemini sunan sembolik antropoloji eseri.",
         "pubDate": "1973",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/27-kulturlerin-yorumlanmasi/"
     },
     {
         "no": 28,
@@ -321,7 +331,9 @@
         "description": "Bedevi kadınlarının şiirleri üzerinden duygu yönetimini ve direniş biçimlerini inceleyen etnografik klasik.",
         "pubDate": "1986",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/28-peceli-duygular/"
     },
     {
         "no": 29,
@@ -331,7 +343,9 @@
         "description": "Etnik kimliğin biyolojik kökenlerden ziyade sosyal sınırların kurulması ve sürdürülmesiyle oluştuğunu savunan klasik.",
         "pubDate": "1969",
         "evre": 1,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/29-etnik-gruplar-ve-sinirlar/"
     },
     {
         "no": 30,
@@ -483,7 +497,9 @@
         "description": "Korku ve kaygının beyindeki nöral yollarını ve duygusal beynin evrimsel gelişimini inceleyen güncel sinirbilim eseri.",
         "pubDate": "2015",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/42-anxious/"
     },
     {
         "no": 43,
@@ -505,7 +521,9 @@
         "description": "Bilinci gizemli tözlerden arındırıp beynin paralel bilgi işleme süreçleriyle açıklayan materyalist eser.",
         "pubDate": "1991",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/44-bilincin-aciklamasi/"
     },
     {
         "no": 45,
@@ -515,17 +533,21 @@
         "description": "Bilinç deneyiminin fiziksel süreçlerle açıklanamayacağını (zor problem) savunan mülkiyet düalizmi eseri.",
         "pubDate": "1996",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/45-bilincli-zihin/"
     },
     {
         "no": 46,
-        "author": "Francisco Varela & Eleanor Rosch",
+        "author": "Francisco J. Varela, Evan Thompson ve Eleanor Rosch",
         "title": "Bedenleşmiş Zihin",
         "category": "Bilişsel Bilim",
         "description": "Bilişin sadece beyinde değil, beden ve çevreyle etkileşim halinde gerçekleştiğini savunan enaktif yaklaşım.",
         "pubDate": "1991",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/46-bedenlesmis-zihin/"
     },
     {
         "no": 47,
@@ -559,7 +581,9 @@
         "description": "Kararlarımızın arkasındaki devasa bilinçdışı mekanizmaları modern nörobilimsel deneylerle ortaya koyan popüler bilim klasiği.",
         "pubDate": "2011",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/49-incognito-beynin-gizli-hayati/"
     },
     {
         "no": 50,
@@ -581,7 +605,9 @@
         "description": "Tıpta normallik ve anormallik kavramlarının tarihsel ve felsefi kökenlerini inceleyen klasik.",
         "pubDate": "1943",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/51-normal-ve-patolojik/"
     },
     {
         "no": 52,
@@ -601,7 +627,9 @@
         "description": "Bebeklerin dünyayı Bayesian çıkarımlarla ve sosyal öğrenmeyle keşfeden küçük dâhiler olduğunu kanıtlayan eser.",
         "pubDate": "2009",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/53-bebeklerin-bahcesi-cocuk-zihni-bize-ask-ahlak-ve-hayatin-anlami-hakkinda-ne-soyler/"
     },
     {
         "no": 54,
@@ -611,7 +639,9 @@
         "description": "Bebeklerin dünyayı öğrenirken kullandığı insan türüne özgü sosyal ve bilişsel aktarım mekanizmalarını inceleyen bilişsel gelişim eseri.",
         "pubDate": "2009",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/54-natural-pedagogy/"
     },
     {
         "no": 55,
@@ -621,7 +651,9 @@
         "description": "Kişisel kimliğin sürekliliğini ve gelecek nesillere karşı ahlaki sorumluluklarımızı inceleyen analitik klasik.",
         "pubDate": "1984",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/55-kisiler-uzerine/"
     },
     {
         "no": 56,
@@ -631,7 +663,9 @@
         "description": "Bireysel anıların toplumsal gruplar tarafından nasıl yapılandırıldığını (kolektif bellek) açıklayan kurucu klasik.",
         "pubDate": "1950",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/56-kolektif-bellek/"
     },
     {
         "no": 57,
@@ -641,7 +675,9 @@
         "description": "Algının ve dünyayı deneyimlemenin bedensel varlığımız (beden-özne) aracılığıyla gerçekleştiğini savunan şaheser.",
         "pubDate": "1945",
         "evre": 2,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/57-alginin-fenomenolojisi/"
     },
     {
         "no": 58,
@@ -783,7 +819,9 @@
         "description": "Aşkın doğası, ruhun ölümsüzlüğü ve baldıran zehriyle ölüm anını ele alan diyaloglar.",
         "pubDate": "MÖ 380",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/69-solen-phaidon/"
     },
     {
         "no": 70,
@@ -841,7 +879,9 @@
         "description": "Boşluk (shunyata) ve kavramların bağımlı kökeni üzerine Budist felsefe zirvesi.",
         "pubDate": "150",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/74-orta-yol/"
     },
     {
         "no": 75,
@@ -875,7 +915,9 @@
         "description": "Farabi ve İbn Sina'nın Aristotelesçi görüşlerine yönelik yazılmış eleştirel yapıt.",
         "pubDate": "1095",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/77-felsefecilerin-tutarsizligi/"
     },
     {
         "no": 78,
@@ -885,7 +927,9 @@
         "description": "Gazali'nin felsefe eleştirisine rasyonel felsefeyi savunarak verilen felsefi yanıt.",
         "pubDate": "1180",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/78-tutarsizligin-tutarsizligi/"
     },
     {
         "no": 79,
@@ -907,7 +951,9 @@
         "description": "Dini deneyimin rasyonel olmayan 'numinous' boyutunu inceleyen klasik.",
         "pubDate": "1917",
         "evre": 3,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/80-kutsal/"
     },
     {
         "no": 81,
@@ -973,7 +1019,9 @@
         "description": "Estetik ve etik yaşam aşamaları arasındaki çatışmayı ele alan varoluşçuluğun ilk eseri.",
         "pubDate": "1843",
         "evre": 3,
-        "link": "/yazilar/soren-kierkegaard-inanc-sicramasi/"
+        "link": "/yazilar/soren-kierkegaard-inanc-sicramasi/",
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/86-ya-ya-da/"
     },
     {
         "no": 87,
@@ -1067,7 +1115,9 @@
         "description": "Mülkiyet haklarını, kuvvetler ayrılığını ve liberal demokrasilerin temelini atan klasik siyaset eseri.",
         "pubDate": "1689",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/94-yonetim-uzerine-ikinci-inceleme/"
     },
     {
         "no": 95,
@@ -1101,7 +1151,9 @@
         "description": "Demokrasinin getirdiği eşitlik arzusunu ve çoğunluğun despotizmi tehlikesini inceleyen analiz.",
         "pubDate": "1835",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/97-amerika-da-demokrasi/"
     },
     {
         "no": 98,
@@ -1147,7 +1199,9 @@
         "description": "Demokrasiyi ve düşünce özgürlüğünü savunan, kutsal metinlerin rasyonel analizini yapan devrimci yapıt.",
         "pubDate": "1670",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/101-teolojik-politik-inceleme/"
     },
     {
         "no": 102,
@@ -1191,7 +1245,9 @@
         "description": "Montesquieu, Comte, Marx, Tocqueville, Durkheim ve Weber sosyolojisini en berrak şekilde analiz eden sentez eser.",
         "pubDate": "1967",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/105-sosyolojik-dusuncenin-asamalari/"
     },
     {
         "no": 106,
@@ -1201,7 +1257,9 @@
         "description": "Kültürel hegemonya kuramını ve sivil toplumun iktidar ilişkilerindeki rolünü açıklayan notlar.",
         "pubDate": "1948",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/106-hapishane-defterleri/"
     },
     {
         "no": 107,
@@ -1271,7 +1329,9 @@
         "description": "Modernliğin getirdiği güven, risk ve zaman-mekan ayrışmasını inceleyen sosyolojik analiz.",
         "pubDate": "1990",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/112-modernligin-sonuclari/"
     },
     {
         "no": 113,
@@ -1291,7 +1351,9 @@
         "description": "Siyasi kurumların modern çağa kadar olan gelişimini, çürümesini ve bürokrasinin doğasını inceleyen ikinci cilt.",
         "pubDate": "2014",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/114-siyasi-duzen-ve-siyasi-gerileme/"
     },
     {
         "no": 115,
@@ -1311,7 +1373,9 @@
         "description": "Avrupa devletlerinin oluşumunda savaş hazırlığının (zor) ve finansal kaynakların (sermaye) etkisini inceleyen eser.",
         "pubDate": "1990",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/116-zorla-ve-sermaye/"
     },
     {
         "no": 117,
@@ -1331,7 +1395,9 @@
         "description": "Sivil toplum kavramının tarihsel gelişimini ve demokratik rejimlerdeki hayati rolünü inceleyen çalışma.",
         "pubDate": "1998",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/118-sivil-toplum/"
     },
     {
         "no": 119,
@@ -1351,7 +1417,9 @@
         "description": "Liberalizm ile demokrasi arasındaki gerilimi ve agonistik çoğulculuğu ele alan çalışma.  (121-150) empirizm, bilim felsefesi ve dogmalardan arınmayı sağlayan şüpheci bilimsel okuryazarlık buradadır. No Kategori",
         "pubDate": "2000",
         "evre": 4,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/120-demokratik-paradoks/"
     },
     {
         "no": 121,
@@ -1385,7 +1453,9 @@
         "description": "Evrenin bölünemez bilgi/enerji birimleri olan 'monadlardan' oluştuğunu savunan rasyonel metafizik.",
         "pubDate": "1714",
         "evre": 5,
-        "link": "/yazilar/wilhelm-leibniz-newtonun-golgesinde-kalan-deha/"
+        "link": "/yazilar/wilhelm-leibniz-newtonun-golgesinde-kalan-deha/",
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/123-monadoloji/"
     },
     {
         "no": 124,
@@ -1407,7 +1477,9 @@
         "description": "Zihnin doğuşta boş bir levha (tabula rasa) olduğunu savunan empirizmin kurucu eseri.",
         "pubDate": "1689",
         "evre": 5,
-        "link": "/yazilar/john-locke-tabula-rasa/"
+        "link": "/yazilar/john-locke-tabula-rasa/",
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/125-insan-anligi-uzerine-deneme/"
     },
     {
         "no": 126,
@@ -1417,7 +1489,9 @@
         "description": "Maddi dünyanın varlığını reddeden, sadece algılanan şeylerin var olduğunu (esse est percipi) savunan idealist klasik.",
         "pubDate": "1710",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/126-insan-bilgisinin-ilkeleri/"
     },
     {
         "no": 127,
@@ -1449,7 +1523,9 @@
         "description": "Kategorik imperatif (koşulsuz buyruk) ve ödev ahlakını temellendiren ahlak felsefesi eseri.",
         "pubDate": "1788",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/129-pratik-aklin-elestirisi/"
     },
     {
         "no": 130,
@@ -1523,7 +1599,9 @@
         "description": "Platon, Hegel ve Marx'ın tarihselci teorilerini ve açık toplum karşıtlığını eleştiren yapıt.",
         "pubDate": "1945",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/136-acik-toplum-ve-dusmanlari/"
     },
     {
         "no": 137,
@@ -1533,7 +1611,9 @@
         "description": "Tarihin önceden belirlenmiş yasaları olduğunu iddia eden determinist ve totaliter teorilerin metodolojik eleştirisi.",
         "pubDate": "1957",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/137-tarihselciligin-sefaleti/"
     },
     {
         "no": 138,
@@ -1567,7 +1647,9 @@
         "description": "Bilim felsefesinde Popper ve Kuhn arasındaki köprüyü kuran, bilimsel ilerlemenin rasyonel yapısını açıklayan eser.",
         "pubDate": "1978",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/140-bilimsel-arastirma-programlarinin-metodolojisi/"
     },
     {
         "no": 141,
@@ -1635,7 +1717,9 @@
         "description": "Kuantum mekaniğinin (özellikle belirsizlik ilkesinin) doğurduğu felsefi ve epistemolojik sonuçları ele alan klasik.",
         "pubDate": "1958",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/146-fizik-ve-felsefe/"
     },
     {
         "no": 147,
@@ -1645,7 +1729,9 @@
         "description": "Termodinamik ve karmaşıklık teorileri üzerinden doğada zamanın geri döndürülemezliğini ve kesinliğin sonunu savunan klasik.",
         "pubDate": "1996",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/147-kesinligin-sonu/"
     },
     {
         "no": 148,
@@ -1665,7 +1751,9 @@
         "description": "Bilgi sosyolojisinin temelini atan, düşüncelerin sosyal konumlarla ilişkisini inceleyen klasik.",
         "pubDate": "1929",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/149-ideoloji-ve-utopya/"
     },
     {
         "no": 150,
@@ -1675,7 +1763,9 @@
         "description": "Siyasi alanda gerçeklerin yalanlarla nasıl ikame edildiğini ve propagandanın doğasını inceleyen makale.  kurumsal yapıları ve tüketim kültürünün sosyo-ekonomik temellerini inceler. No Kategori",
         "pubDate": "1967",
         "evre": 5,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/150-gercek-ve-siyaset/"
     },
     {
         "no": 151,
@@ -1781,7 +1871,9 @@
         "description": "İnsanlığın toplumsal ve siyasi organizasyon çeşitliliğini kanıtlayan, determinist mitleri yıkan antropolojik yapıt.",
         "pubDate": "2021",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/159-her-seyin-safagi-insanligin-yeni-bir-tarihi/"
     },
     {
         "no": 160,
@@ -1791,7 +1883,9 @@
         "description": "Kapitalizmin lokomotifi olan 'yaratıcı yıkım' (creative destruction) kavramını sunan klasik.",
         "pubDate": "1942",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/160-kapitalizm-sosyalizm-ve-demokrasi/"
     },
     {
         "no": 161,
@@ -1813,7 +1907,9 @@
         "description": "Merkezi planlamanın ve devlet kontrolünün kaçınılmaz olarak totalitarizme yol açacağını savunan liberal klasik.",
         "pubDate": "1944",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/162-kolelik-yolu/"
     },
     {
         "no": 163,
@@ -1823,7 +1919,9 @@
         "description": "En büyük yeniliklerin arkasındaki asıl gücün özel sektör değil devlet yatırımları olduğunu gösteren ezber bozan ekonomi kitabı.",
         "pubDate": "2013",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/163-girisimci-devlet/"
     },
     {
         "no": 164,
@@ -1833,7 +1931,9 @@
         "description": "Teknolojinin bin yıllık tarihini inceleyerek, teknolojik yönü belirleyen iktidar ilişkilerinin refahın paylaşımını nasıl şekillendirdiğini gösteren eser.",
         "pubDate": "2023",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/164-iktidar-ve-teknoloji-power-and-progress/"
     },
     {
         "no": 165,
@@ -1855,7 +1955,9 @@
         "description": "Gösterişçi tüketim (conspicuous consumption) ve statü arayışının ekonomik davranışlardaki rolünü inceleyen klasik.",
         "pubDate": "1899",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/166-aylak-sinif-teorisi/"
     },
     {
         "no": 167,
@@ -1865,7 +1967,9 @@
         "description": "Paranın bireysel özgürlük, yabancılaşma ve modern kültür üzerindeki etkilerini inceleyen sosyolojik klasik.",
         "pubDate": "1900",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/167-para-nin-felsefesi/"
     },
     {
         "no": 168,
@@ -1875,7 +1979,9 @@
         "description": "Sermayenin getirisinin büyüme hızından yüksek olması nedeniyle zenginlik eşitsizliğinin tarihsel artışını analiz eden eser.",
         "pubDate": "2013",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/168-21-yuzyilda-sermaye/"
     },
     {
         "no": 169,
@@ -1885,7 +1991,9 @@
         "description": "Postmodern kültürün, kapitalizmin esnek birikim rejimine ve zaman-mekan sıkışmasına verdiği yanıt olduğunu savunan eser.",
         "pubDate": "1989",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/169-postmodernligin-durumu/"
     },
     {
         "no": 170,
@@ -1905,7 +2013,9 @@
         "description": "Enformasyon teknolojilerinin toplumsal yapıyı dikey hiyerarşilerden yatay ağlara nasıl dönüştürdüğünü inceleyen eser.",
         "pubDate": "1996",
         "evre": 6,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/171-ag-toplumunun-yukselisi/"
     },
     {
         "no": 172,
@@ -2015,7 +2125,9 @@
         "description": "Dilin sınırlarının dünyanın sınırları olduğunu savunan, mantıksal atomculuğu kuran felsefi yapıt.",
         "pubDate": "1921",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/181-tractatus-logico-philosophicus/"
     },
     {
         "no": 182,
@@ -2073,7 +2185,9 @@
         "description": "İnsan zihninin dünyayı nasıl kategorilere ayırdığını ve dilin bu kategorileri nasıl yansıttığını inceleyen bilişsel semantik başyapıtı.",
         "pubDate": "1987",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/186-kadinlar-ates-ve-tehlikeli-seyler/"
     },
     {
         "no": 187,
@@ -2083,7 +2197,9 @@
         "description": "Dilin dünyayı algılama şeklimizi ve beynimizi nasıl etkilediğini ampirik deneylerle kanıtlayan modern klasik.",
         "pubDate": "2010",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/187-dilin-aynasindan/"
     },
     {
         "no": 188,
@@ -2093,7 +2209,9 @@
         "description": "Siyasi söylemin dilbilimsel araçlarla ve zihinsel haritalarla nasıl manipüle edildiğini inceleyen eser.",
         "pubDate": "2004",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/188-soylem-ve-siyasi-analiz/"
     },
     {
         "no": 189,
@@ -2115,7 +2233,9 @@
         "description": "Akrabalık ilişkilerini ensest tabusu ve ittifak teorisi üzerinden yapısalcı yöntemle ele alan yapıt.",
         "pubDate": "1949",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/190-akrabaligin-temel-yapilari/"
     },
     {
         "no": 191,
@@ -2137,7 +2257,9 @@
         "description": "Sanat eserlerinin alımlayıcı tarafından tamamlanan açık yapılar olduğunu savunan, göstergebilim ve estetik klasiği.",
         "pubDate": "1962",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/192-acik-yapit/"
     },
     {
         "no": 193,
@@ -2183,7 +2305,9 @@
         "description": "Televizyon ve görsel medyanın yetişkinlik ile çocukluk arasındaki sınırları nasıl erittiğini inceleyen medya ekolojisi klasiği.",
         "pubDate": "1982",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/196-cocuklugun-yok-olusu/"
     },
     {
         "no": 197,
@@ -2193,7 +2317,9 @@
         "description": "Kitle iletişim araçlarının rıza imalatı (manufacturing consent) yoluyla halkı nasıl yönlendirdiğini inceleyen klasik.",
         "pubDate": "1988",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/197-medya-denetimi/"
     },
     {
         "no": 198,
@@ -2237,7 +2363,9 @@
         "description": "Büyük anlatıların inandırıcılığını yitirdiği postmodern bilgi çağını tanımlayan eser.",
         "pubDate": "1979",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/201-postmodern-durum/"
     },
     {
         "no": 202,
@@ -2279,7 +2407,9 @@
         "description": "Bir nesneyi sanat eseri yapan şeyin fiziksel özellikleri değil, arkasındaki sanat teorisi olduğunu savunan eser.",
         "pubDate": "1981",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/205-siradan-nesnelerin-donusumu/"
     },
     {
         "no": 206,
@@ -2319,7 +2449,9 @@
         "description": "Gündelik yaşamın kapitalizm tarafından nasıl sömürgeleştirildiğini ve yabancılaştırıldığını inceleyen eser.",
         "pubDate": "1947",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/209-gundelik-hayatin-elestirisi/"
     },
     {
         "no": 210,
@@ -2329,7 +2461,9 @@
         "description": "Sömürgeci gücün sadece askeri değil, edebi eserler ve kültürel söylemler aracılığıyla nasıl inşa edildiğini gösteren post-kolonyal analiz.  sömürgecilik sonrası (post-kolonyal) kimlik inşasının algımızı nasıl şekillendirdiğini gösterir. No Kategori",
         "pubDate": "1993",
         "evre": 7,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/210-kultur-ve-emperyalizm/"
     },
     {
         "no": 211,
@@ -2387,7 +2521,9 @@
         "description": "Müzelerin vatandaşlık bilincini ve devlet ideolojisini aşılayan seküler ritüel alanları olduğunu gösteren eser.",
         "pubDate": "1995",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/215-muze-kulturu/"
     },
     {
         "no": 216,
@@ -2409,7 +2545,9 @@
         "description": "Yaşlanmanın biyolojik gerçekliğini ve toplumun yaşlı bireyleri nasıl görünmez kılıp ötekileştirdiğini inceleyen anıtsal çalışma.",
         "pubDate": "1970",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/217-yaslilik/"
     },
     {
         "no": 218,
@@ -2453,7 +2591,9 @@
         "description": "Toplumsal cinsiyetin edimsel (performative) bir inşa olduğunu savunan kitap.",
         "pubDate": "1990",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/221-toplumsal-cinsiyet-belasi/"
     },
     {
         "no": 222,
@@ -2475,7 +2615,9 @@
         "description": "Geleneksel rasyonel adalet etiği yerine ilişkisel ve duyarlı bakım etiğini savunan feminist klasik.",
         "pubDate": "1984",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/223-bakim-etigi/"
     },
     {
         "no": 224,
@@ -2497,7 +2639,9 @@
         "description": "Sömürgeciliğin psikolojik yıkımını ve sömürge karşıtı şiddetin dinamiklerini inceleyen klasik.",
         "pubDate": "1961",
         "evre": 8,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/225-yeryuzunun-lanetlileri/"
     },
     {
         "no": 226,
@@ -2679,7 +2823,9 @@
         "description": "Her şeyin görünür ve ölçülebilir kılınmasının özgürlüğü nasıl yok ettiğini ve dijital kontrolü nasıl kolaylaştırdığını inceleyen güncel felsefe.",
         "pubDate": "2012",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/242-seffaflik-toplumu/"
     },
     {
         "no": 243,
@@ -2713,7 +2859,9 @@
         "description": "Bilginin iktidar tarafından nasıl üretildiğini ve sınırlandırıldığını gösteren açılış dersi.",
         "pubDate": "1971",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/245-soylemin-duzeni/"
     },
     {
         "no": 246,
@@ -2775,7 +2923,9 @@
         "description": "İnsan, makine ve hayvan arasındaki sınırların erimesiyle ortaya çıkan siborg kavramı üzerinden ikilikleri aşmayı öneren manifesto.",
         "pubDate": "1985",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/251-siborg-manifestosu/"
     },
     {
         "no": 252,
@@ -2831,7 +2981,9 @@
         "description": "Teknoloji devlerinin insan davranışlarını veri olarak avlayıp tahmin pazarlarında satarak kurduğu yeni dijital tahakküm düzenini anlatan modern başyapıt.",
         "pubDate": "2018",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/256-gozetim-kapitalizmi-cagi/"
     },
     {
         "no": 257,
@@ -2851,7 +3003,9 @@
         "description": "Doğadaki, beyindeki ve yapay zekadaki karmaşık adaptif sistemleri ve kaos teorisini anlaşılır kılan rehber.",
         "pubDate": "2009",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/258-complexity-a-guided-tour/"
     },
     {
         "no": 259,
@@ -2861,7 +3015,9 @@
         "description": "Yapay zekanın sadece soyut algoritmalar olmadığını; arkasındaki madencilik, sömürülen iş gücü ve ekolojik yıkım gibi fiziksel maliyetleri gösteren kitap.",
         "pubDate": "2021",
         "evre": 9,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/259-yapay-zekanin-atlasi/"
     },
     {
         "no": 260,
@@ -3145,7 +3301,9 @@
         "description": "Ezbere dayalı geleneksel eğitim yerine, yaşantıya ve deneyime dayalı ilerici eğitim modelini sunan yapıt.",
         "pubDate": "1938",
         "evre": 10,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/286-deneyim-ve-egitim/"
     },
     {
         "no": 287,
@@ -3221,7 +3379,9 @@
         "description": "Biyolojiyi ve ekolojiyi mekanik ve indirgemeci bilim yerine, sistem teorisi ve karmaşıklık bilimleri perspektifinden ele alan sentez eser.",
         "pubDate": "1996",
         "evre": 10,
-        "link": null
+        "link": null,
+        "hasSummary": true,
+        "summaryUrl": "/kitap-ozetleri/293-yasamin-agi/"
     },
     {
         "no": 294,

@@ -1,0 +1,351 @@
+{
+  "bookNo": 256,
+  "title": "Gözetim Kapitalizmi Çağı",
+  "author": "Shoshana Zuboff",
+  "subtitle": "Dijital şirketlerin deneyimlerimizi ücretsiz hammaddeye, davranışlarımızı tahmin ürününe ve giderek yönlendirilebilir hedefe çevirdiğini; bu yeni ekonomik gücün özerklik ve demokrasiyi nasıl tehdit ettiğini anlatan büyük uyarı.",
+  "coverImage": "/images/summary-cover-256-gozetim-kapitalizmi-cagi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/256-gozetim-kapitalizmi-cagi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#274F7D",
+  "meta": {
+    "originalTitle": "The Age of Surveillance Capitalism",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Telefonunuz haritada yolu gösterir. Aynı anda nerede durduğunuzu, ne kadar hızlı yürüdüğünüzü, hangi dükkâna baktığınızı kaydedebilir. Hizmet için gereken veriyle, gelecekte ne yapacağınızı tahmin edip satmak için alınan fazlalık arasındaki çizgi kitabın başladığı yerdir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "PublicAffairs - The Age of Surveillance Capitalism",
+      "url": "https://www.hachettebookgroup.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395700/"
+    },
+    {
+      "id": 2,
+      "title": "National Law School Library - Contents",
+      "url": "https://opac.nls.ac.in/bib/211561"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Dijital şirketlerin deneyimlerimizi ücretsiz hammaddeye, davranışlarımızı tahmin ürününe ve giderek yönlendirilebilir hedefe çevirdiğini; bu yeni ekonomik gücün özerklik ve demokrasiyi nasıl tehdit ettiğini anlatan büyük uyarı.",
+        "Eser Google'ın reklam modelinden akıllı eve, duygu çıkarımından davranış yönlendirmeye uzanır. Rehber davranışsal artık, tahmin ürünleri, el koyma döngüsü, kapsam ve eylem ekonomileri, araçsalcı güç, Büyük Öteki ve geleceğe sahip olma hakkını açıklar; her veri kullanımını aynı kötülük saymaz.",
+        "Bir ev termostatı sıcaklığı ayarlamak için veri toplar. Şirket bu veriden ne zaman evde olduğunuzu, uyku düzeninizi ve alışkanlık değişikliğinizi çıkarıp başka pazarlarda kullanırsa cihaz yalnız araç değildir; ev hayatı görünmeyen bir üretim alanına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-02-ev-mi-surgun-mu",
+      "section": "BİRİNCİ KISIM · BAŞLANGIÇ",
+      "title": "Ev mi sürgün mü?",
+      "paragraphs": [
+        "Zuboff dijital geleceği insanların kendini evinde hissettiği özerk bir dünya ile davranışının başkalarınca sahiplenildiği sürgün arasında ahlaki seçim olarak kurar. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Aile fotoğraf uygulamasını yakınlık için kullanır, yüz verisinin başka amaçla işlendiğini sonradan öğrenir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "İkili çerçeve kullanıcıların pazarlık ve karma deneyimlerini sadeleştirebilir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Kolaylığın yanında veri üzerindeki bilgi, itiraz ve çıkış hakkını ölçmek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Ev mi sürgün mü?” ile Gözetim Kapitalizmi Çağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-davranissal-artik",
+      "section": "BİRİNCİ KISIM · HAMMADDE",
+      "title": "Davranışsal artık",
+      "paragraphs": [
+        "Hizmeti iyileştirmek için gereken verinin ötesinde kalan davranış izleri tahmin üretimi için el konulan artığa dönüşür. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Arama motoru sorguyu cevaplar, yazma hızı ve tıklama tereddüdünü reklam tahmini için saklar. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Her ek veri zararlı değildir; dolandırıcılık önleme ve araştırma yararı olabilir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Toplanan her alan için amaç, saklama süresi ve gerçekten gerekli olup olmadığını sormak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Davranışsal artık” ile Gözetim Kapitalizmi Çağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-tahmin-urunleri",
+      "section": "BİRİNCİ KISIM · PAZAR",
+      "title": "Tahmin ürünleri",
+      "paragraphs": [
+        "Davranış verisi işlenerek kişinin ne alacağı, nereye gideceği veya neye inanacağı üzerine olasılık ürünlerine çevrilir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Reklamcı 'koşu ayakkabısı seven kişi' değil bu akşam satın almaya en yakın kullanıcı grubunu satın alır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Tahmin hiçbir bireyi kesin olarak bilmez ve hata payı taşır. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Olasılık puanının fiyat, kredi veya fırsatı haksız biçimde belirleyip belirlemediğini denetlemek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-05-davranissal-gelecek-piyasalari",
+      "section": "BİRİNCİ KISIM · MÜŞTERİ",
+      "title": "Davranışsal gelecek piyasaları",
+      "paragraphs": [
+        "Gözetim kapitalistinin gerçek müşterisi çoğu zaman kullanıcı değil, kullanıcının gelecekteki davranışına erişmek isteyen işletmedir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Ücretsiz uygulamada ekrana bakan kişi ürünün alıcısı değil tahmin kaynağı olur. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Abonelik modeli de otomatik olarak veri sömürüsünden temiz değildir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Hizmeti kimin ödediğini, gelirin nereden geldiğini ve hangi davranışın satıldığını izlemek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Davranışsal gelecek piyasaları” ile Gözetim Kapitalizmi Çağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-google-daki-kesif",
+      "section": "İKİNCİ KISIM · TARİH",
+      "title": "Google'daki keşif",
+      "paragraphs": [
+        "Zuboff arama verisinin reklam tıklamasını öngörmek için kullanılmasıyla yeni bir birikim mantığının keşfedildiğini savunur. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Arama kayıtları sistem hatası artığı olmaktan çıkıp hedefli reklamın değerli girdisi olur. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Dijital reklamın tarihi tek şirket ve tek buluş anından daha karmaşıktır. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Kurucu hikâyeyi piyasa, düzenleme ve önceki veri ticaretiyle birlikte okumak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-07-el-koyma-dongusu",
+      "section": "İKİNCİ KISIM · İLERLEYİŞ",
+      "title": "El koyma döngüsü",
+      "paragraphs": [
+        "Şirket önce izin sınırını aşar, tepkiyi bekler, alışkanlık oluştuktan sonra küçük tavizle uygulamayı kalıcılaştırır. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Sokak görüntüleme aracı özel kablosuz veriyi toplar; özür ve ceza sonrası ana hizmet sürer. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Her ürün yayılımı bilinçli dört aşamalı plan değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Yeni özellikte başlangıç izni, tepki, tasarım değişikliği ve kalıcı veri akışını zaman çizgisinde izlemek gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “El koyma döngüsü” ile Gözetim Kapitalizmi Çağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-kapsam-ekonomisi",
+      "section": "İKİNCİ KISIM · DERİNLİK",
+      "title": "Kapsam ekonomisi",
+      "paragraphs": [
+        "Tahmin kalitesini büyütmek için veri toplama ekran davranışından beden, ses, duygu ve gerçek mekâna doğru genişler. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Akıllı oyuncak çocuğun söylediği söz kadar ses tonundan ruh hali çıkarmaya çalışır. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Duygu çıkarımı bilimsel belirsizlik ve kültürel yanlılık taşır. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Hassas çıkarımlar için açık izin, bağımsız geçerlik ve kullanmama seçeneği istemek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-09-eylem-ekonomisi",
+      "section": "İKİNCİ KISIM · YÖNLENDİRME",
+      "title": "Eylem ekonomisi",
+      "paragraphs": [
+        "Sistem yalnız davranışı tahmin etmekle kalmaz, dürtme, ödül ve seçenek düzeniyle istenen sonuca doğru biçimlendirmeye çalışır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Uygulama prim indirimi için sürücüye anlık puan verir ve rotasını değiştirir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Dürtme bazen sağlık ve güvenlik yararı üretir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Hedefi kimin seçtiğini, kullanıcının reddedip edemediğini ve cezanın gizli olup olmadığını sormak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Eylem ekonomisi” ile Gözetim Kapitalizmi Çağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-rendition-hayati-veriye-cevirme",
+      "section": "ÜÇÜNCÜ KISIM · ÇEVİRİ",
+      "title": "Rendition: Hayatı veriye çevirme",
+      "paragraphs": [
+        "Gündelik deneyim ölçülebilir dijital işarete dönüştürüldüğünde insanın yaşadığı anlam sistemin kullanabildiği veri biçimine indirgenir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Yüz ifadesi tek mutluluk puanına çevrilir, yas ve yorgunluk aynı kutuya düşebilir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Ölçüm bütünü yakalamasa da yararlı örüntü gösterebilir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Veri temsilinin kaçırdığı bağlamı ve hataya itiraz yolunu açık tutmak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-11-onlari-dans-ettirmek",
+      "section": "ÜÇÜNCÜ KISIM · AYAR",
+      "title": "Onları dans ettirmek",
+      "paragraphs": [
+        "Bağlantılı cihazlar insan davranışını uzaktan ayarlama, sürü halinde yöneltme ve koşullandırma imkanını büyütür. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Oyun nadir ödülü tam bırakacakken vererek çocuğun ekranda kalma süresini uzatır. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Kullanıcılar bütünüyle kukla değildir ve stratejiyi fark edip direnebilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Tasarımın dikkat süresi, ödül aralığı ve varsayılan seçeneklerini görünür kılmak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-12-gelecek-zamana-sahip-olma-hakki",
+      "section": "ÜÇÜNCÜ KISIM · ÖZERKLİK",
+      "title": "Gelecek zamana sahip olma hakkı",
+      "paragraphs": [
+        "İnsan henüz ne yapacağı başkalarınca önceden sahiplenilmeden, sürpriz ve değişim payıyla kendi geleceğini kurabilmelidir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Ergenin eski aramaları yıllar sonra eğitim fırsatını sessizce daraltırsa geçmiş geleceğini rehin alır. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Hiçbir karar bütünüyle etkiden bağımsız değildir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Unutulma, düzeltme ve otomatik karara itiraz haklarını gerçek kullanım yolu haline getirmek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Gelecek zamana sahip olma hakkı” ile Gözetim Kapitalizmi Çağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-aracsalci-guc",
+      "section": "DÖRDÜNCÜ KISIM · İKTİDAR",
+      "title": "Araçsalcı güç",
+      "paragraphs": [
+        "Zuboff yeni gücü insanların iç inancını dönüştürmekten çok davranışı ölçen, karşılaştıran ve uzaktan ayarlayan araçsalcı bir düzen olarak tanımlar. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "İşyeri çalışanın düşüncesini ikna etmez; bileklik verisiyle temposunu otomatik değiştirir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Eski disiplin, devlet gözetimi ve işyeri kontrolüyle süreklilikler vardır. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Yeni kavramın gerçekten farklı mekanizmayı mı yoksa eski gücün dijital sürümünü mü anlattığını sınamak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-14-buyuk-oteki",
+      "section": "DÖRDÜNCÜ KISIM · ALTYAPI",
+      "title": "Büyük Öteki",
+      "paragraphs": [
+        "Her yerdeki sensör, hesaplama ve ağlar davranışı izleyen ve müdahale eden görünmez kurumsal bir çevre oluşturur. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Ev, araba, saat ve sokak kamerası ayrı cihaz görünür ama verileri aynı profil üzerinde birleşebilir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Tek merkezli her şeyi gören sistem resmi gerçek dağınıklığı abartabilir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Veri birleştirme yetkisini, aracı şirketleri ve güvenlik açıklarını somut olarak izlemek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Büyük Öteki” ile Gözetim Kapitalizmi Çağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-radikal-kayitsizlik",
+      "section": "DÖRDÜNCÜ KISIM · İÇERİK",
+      "title": "Radikal kayıtsızlık",
+      "paragraphs": [
+        "Otomatik sistem için bir içeriğin doğru veya iyi olmasından çok etkileşim ve tahmin üretmesi önemli olabilir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Yalan haber öfke ve tıklama getiriyorsa algoritma niyet taşımadan onu büyütür. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Platform politikaları ve çalışan kararları bütünüyle kayıtsız değildir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Başarı ölçüsüne doğruluk, zarar ve kamusal yarar eklenmeden yalnız etkileşime güvenmemek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-16-siginak-ihtiyaci",
+      "section": "BEŞİNCİ KISIM · MAHREMİYET",
+      "title": "Sığınak ihtiyacı",
+      "paragraphs": [
+        "Özerk benlik sürekli gözlenmediği, deney yapabildiği ve başkasının amacına çevrilmediği korunmuş alanlara ihtiyaç duyar. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Çocuk kaydedilmediğini bildiği odada yanlış şarkı söyleyip yeni sesini dener. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Mahremiyet gizlenecek suçu olanların ayrıcalığı değildir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Ev, okul ve dijital hizmette kayıtsız varsayılan alanlar ve kolay kapatma seçenekleri kurmak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Sığınak ihtiyacı” ile Gözetim Kapitalizmi Çağı kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-yukaridan-darbe-ve-demokratik-cevap",
+      "section": "BEŞİNCİ KISIM · SONUÇ",
+      "title": "Yukarıdan darbe ve demokratik cevap",
+      "paragraphs": [
+        "Özel şirketlerin bilgiyi ve davranış değiştirme gücünü toplumsal izin olmadan biriktirmesi demokratik egemenliği yukarıdan aşındırır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Şehir ulaşımının davranış puanını seçmen değil platform sözleşmesi belirler. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Şirket gücü yanında devlet gözetimi ve küresel eşitsizlik de hesaba katılmalıdır. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Veri hakkı, amaç sınırı, birlikte çalışabilirlik, bağımsız denetim ve kamusal alternatifleri birlikte kurmak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Zuboff 'telefon bizi tamamen kontrol ediyor' veya tüm kişiselleştirme kötüdür demez. Sorun, insan deneyiminin habersizce hammadde sayılması ve davranışı başkasının kazancı için tahmin edip yönlendiren asimetrik güçtür.",
+        "Müzik uygulamasının sevdiğiniz türü önermesi yararlı olabilir. Aynı veri sigorta fiyatınızı gizlice belirler ve düzeltme şansı vermezse ilişki değişir: hizmetten davranışsal pazara geçilmiştir.",
+        "Gözetim Kapitalizmi Çağı için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap 'gözetim kapitalizmi' kavramını küresel kamuoyuna taşıdı; dijital reklam, mahremiyet, platform gücü ve demokratik düzenleme tartışmalarında başlıca referanslardan oldu.",
+        "Yeni ekonomik biçimin geçmiş kapitalizm ve veri ticaretinden kopuşunun abartıldığı, devlet gözetimi, emek sömürüsü, kullanıcı direnci ve küresel Güney'in daha az işlendiği, kavramların bazen çok genişlediği eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Gözetim Kapitalizmi Çağı bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Bu veri hizmet için gerçekten gerekli mi? Davranış tahmini kime satılıyor? Sistem gelecekteki seçeneğimi ölçmekle kalmayıp şekillendiriyor mu?",
+        "Telefonunuzdaki bir uygulamanın izinlerini açın. Gerekli veri, davranışsal artık, olası alıcı, çıkarılan tahmin ve kapatma yolunu beş satırda yazın; gereksiz izni kaldırın.",
+        "Gözetim Kapitalizmi Çağı bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Gözetim kapitalizmi insan deneyimini ücretsiz hammaddeye, davranışı satılan tahmine ve geleceği yönlendirilecek alana çevirir; buna karşı özerklik demokratik veri haklarıyla korunmalıdır.",
+        "Akılda tutulacak son görüntü, elektrik mavisi, mor ve parlak turuncu tonlarında bir telefon ekranından çıkan veri nehrinin dev bir tahmin makinesine akarken küçük bir insanın önünde çatallanan geleceğe elini uzattığı çarpıcı sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Gözetim Kapitalizmi Çağı adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-ev-mi-surgun-mu": {
+      "image": "/images/summary-art-256-chapter-01-ev-mi-surgun-mu-v1.webp",
+      "imageCaption": "Ev mi sürgün mü? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-davranissal-artik": {
+      "image": "/images/summary-art-256-chapter-02-davranissal-artik-v1.webp",
+      "imageCaption": "Davranışsal artık düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-tahmin-urunleri": {
+      "image": "/images/summary-art-256-chapter-03-tahmin-urunleri-v1.webp",
+      "imageCaption": "Tahmin ürünleri düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-davranissal-gelecek-piyasalari": {
+      "image": "/images/summary-art-256-chapter-04-davranissal-gelecek-piyasalari-v1.webp",
+      "imageCaption": "Davranışsal gelecek piyasaları düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-google-daki-kesif": {
+      "image": "/images/summary-art-256-chapter-05-google-daki-kesif-v1.webp",
+      "imageCaption": "Google'daki keşif düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-el-koyma-dongusu": {
+      "image": "/images/summary-art-256-chapter-06-el-koyma-dongusu-v1.webp",
+      "imageCaption": "El koyma döngüsü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-kapsam-ekonomisi": {
+      "image": "/images/summary-art-256-chapter-07-kapsam-ekonomisi-v1.webp",
+      "imageCaption": "Kapsam ekonomisi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-eylem-ekonomisi": {
+      "image": "/images/summary-art-256-chapter-08-eylem-ekonomisi-v1.webp",
+      "imageCaption": "Eylem ekonomisi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-rendition-hayati-veriye-cevirme": {
+      "image": "/images/summary-art-256-chapter-09-rendition-hayati-veriye-cevirme-v1.webp",
+      "imageCaption": "Rendition: Hayatı veriye çevirme düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-onlari-dans-ettirmek": {
+      "image": "/images/summary-art-256-chapter-10-onlari-dans-ettirmek-v1.webp",
+      "imageCaption": "Onları dans ettirmek düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-gelecek-zamana-sahip-olma-hakki": {
+      "image": "/images/summary-art-256-chapter-11-gelecek-zamana-sahip-olma-hakki-v1.webp",
+      "imageCaption": "Gelecek zamana sahip olma hakkı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-aracsalci-guc": {
+      "image": "/images/summary-art-256-chapter-12-aracsalci-guc-v1.webp",
+      "imageCaption": "Araçsalcı güç düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-buyuk-oteki": {
+      "image": "/images/summary-art-256-chapter-13-buyuk-oteki-v1.webp",
+      "imageCaption": "Büyük Öteki düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-radikal-kayitsizlik": {
+      "image": "/images/summary-art-256-chapter-14-radikal-kayitsizlik-v1.webp",
+      "imageCaption": "Radikal kayıtsızlık düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-siginak-ihtiyaci": {
+      "image": "/images/summary-art-256-chapter-15-siginak-ihtiyaci-v1.webp",
+      "imageCaption": "Sığınak ihtiyacı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-yukaridan-darbe-ve-demokratik-cevap": {
+      "image": "/images/summary-art-256-chapter-16-yukaridan-darbe-ve-demokratik-cevap-v1.webp",
+      "imageCaption": "Yukarıdan darbe ve demokratik cevap düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

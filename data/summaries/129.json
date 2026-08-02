@@ -1,0 +1,363 @@
+{
+  "bookNo": 129,
+  "title": "Pratik Aklın Eleştirisi",
+  "author": "Immanuel Kant",
+  "subtitle": "İnsanın arzusundan ve çıkarından bağımsız ahlak yasasını nasıl tanıyabildiğini, özgürlüğün bu yasada nasıl açıldığını ve erdem ile mutluluk arasındaki gerilimi araştıran yoğun ahlak felsefesi.",
+  "coverImage": "/images/summary-cover-129-pratik-aklin-elestirisi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/129-pratik-aklin-elestirisi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#66578B",
+  "meta": {
+    "originalTitle": "Critique of Practical Reason",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Kasada size yanlışlıkla fazla para verilir. Kimse görmemiştir; geri vermek itibar ya da ceza hesabına dayanıyorsa davranış doğru olsa da ahlaki kaynağı çıkar olabilir. Kant soruyu sertleştirir: Yalnız doğru olduğu için ne yaparsınız?",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Project Gutenberg - Critique of Practical Reason",
+      "url": "https://www.gutenberg.org/ebooks/5683"
+    },
+    {
+      "id": 2,
+      "title": "Project Gutenberg - Kant Works and Contents",
+      "url": "https://www.gutenberg.org/files/59023/59023-h/59023-h.htm"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "İnsanın arzusundan ve çıkarından bağımsız ahlak yasasını nasıl tanıyabildiğini, özgürlüğün bu yasada nasıl açıldığını ve erdem ile mutluluk arasındaki gerilimi araştıran yoğun ahlak felsefesi.",
+        "1788 tarihli eser analitik, diyalektik ve yöntem bölümleriyle pratik aklın saf bir ilkesi olup olmadığını sınar. Rehber maksim, ahlak yasası, özerklik, özgürlük, saygı, en yüksek iyi ve postulatları açar; Kant'ı duygusuz kural makinesine indirgemez.",
+        "Bir arkadaşınıza verdiğiniz söz size zarar vermeye başladığında bozmak istersiniz. 'Herkes çıkar değişince sözünü bozsun' kuralı söz verme kurumunu çözer. Kant kişisel istisnanın evrensel yasa karşısında sınanmasını ister."
+      ]
+    },
+    {
+      "id": "durak-02-pratik-akil-nedir",
+      "section": "BİRİNCİ KISIM · AMAÇ",
+      "title": "Pratik akıl nedir?",
+      "paragraphs": [
+        "Akıl yalnız neyin doğru olduğunu bilmek değil, iradeye ne yapılması gerektiğini ilke olarak verebilmek bakımından pratiktir. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Açken pastayı istemek eğilimdir; adil paylaşma kuralını seçmek pratik yargıdır. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Akıl bedensiz boşlukta karar vermez. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Somut koşulu görüp ilkenin kaynağını ayırmak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Pratik akıl nedir?” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-maksim-kendime-koydugum-kural",
+      "section": "BİRİNCİ KISIM · İLKE",
+      "title": "Maksim: Kendime koyduğum kural",
+      "paragraphs": [
+        "Maksim kişinin belirli amaç için hangi durumda nasıl davranacağını anlatan öznel kuraldır. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Sıkışınca yalan söyleyerek kurtulacağım cümlesi gizli bir maksimdir. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "İnsan gerçek maksiminin farkında olmayabilir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Davranışın arkasındaki koşul-amaç-eylem üçlüsünü açık yazmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Maksim: Kendime koyduğum kural” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-kosullu-buyruk",
+      "section": "BİRİNCİ KISIM · ARAÇ",
+      "title": "Koşullu buyruk",
+      "paragraphs": [
+        "Bir hedefi istiyorsak ona yarayan araç akılca önerilir; kural hedefe bağlıdır. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Sınavı geçmek istiyorsan çalış denir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Teknik doğruluk hedefin ahlaken iyi olduğunu göstermez. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Önce amacın kendisini ahlak yasasıyla sınamak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Koşullu buyruk” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-ahlak-yasasinin-kosulsuzlugu",
+      "section": "İKİNCİ KISIM · YASA",
+      "title": "Ahlak yasasının koşulsuzluğu",
+      "paragraphs": [
+        "Ahlaki yükümlülük yalnız haz, başarı veya ödül istediğimiz sürece değil akıllı varlık olarak herkese geçerli olmayı talep eder. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Kimse görmese de emaneti iade etmek gerekir. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Evrensellik somut ayrıntıyı önemsiz yapmaz. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Maksimi gerçek bağlamıyla formüle etmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-06-yalniz-evrensel-yasa-olabilecek-bicimde-davran",
+      "section": "İKİNCİ KISIM · SINAMA",
+      "title": "Yalnız evrensel yasa olabilecek biçimde davran",
+      "paragraphs": [
+        "Kendi kuralımızın aynı durumda herkes için yasa olmasını tutarlı biçimde isteyip isteyemeyeceğimizi sınarız. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Yalan vaat herkesçe kural olursa kimse vaade inanmaz. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Formül her ikilemi otomatik çözmez. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Çatışan görev ve sonuçları dürüstçe görünür tutmak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Yalnız evrensel yasa olabilecek biçimde davran” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-ozerklik",
+      "section": "İKİNCİ KISIM · ÖZGÜRLÜK",
+      "title": "Özerklik",
+      "paragraphs": [
+        "İrade ahlak yasasını dış ödül veya emirden değil kendi akıl yetisiyle kendine verdiğinde özerktir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Kişi sırf patron bakıyor diye değil adil bulduğu için doğru kayıt tutar. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Kendi yasasını vermek istediğini yapmak değildir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Kuralın kişisel kapris değil evrensel akla dayanmasını istemek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-08-yaderklik",
+      "section": "İKİNCİ KISIM · DIŞ BAĞ",
+      "title": "Yaderklik",
+      "paragraphs": [
+        "İrade mutluluk, korku, otorite veya çıkar gibi dış koşulu en yüksek belirleyici yaptığında yaderk kalır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Bağış yalnız övgü fotoğrafı için yapılır. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Dış neden iyi davranışa destek olabilir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Ahlaki değerle faydalı sonucu birbirinden ayırmak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Yaderklik” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-aklin-olgusu",
+      "section": "ÜÇÜNCÜ KISIM · BİLİNÇ",
+      "title": "Aklın olgusu",
+      "paragraphs": [
+        "Kant ahlak yasasının bağlayıcılığını türetilecek deney olgusu değil pratik aklın doğrudan bilinci olarak sunar. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Yapabileceğimizden emin olmadığımız halde yapmalıyım duygusu belirir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Bu iddia tartışmalı ve açıklaması zor bir başlangıçtır. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bağlayıcılık deneyimini evrensel kanıt saymadan sorgulamak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Aklın olgusu” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-ozgurluk-nasil-gorunur",
+      "section": "ÜÇÜNCÜ KISIM · KAPI",
+      "title": "Özgürlük nasıl görünür?",
+      "paragraphs": [
+        "Teorik akıl özgürlüğü deney nesnesi olarak kanıtlayamaz; ahlak yasasına bağlılık kendimizi özgür fail düşünmemizi gerektirir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Çıkarın tersine doğruyu yapabilme yükümlülüğü başka türlü davranabilme fikrini açar. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Psikolojik ve toplumsal kısıtlar gerçektir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Ahlaki sorumlulukla fiilî hareket alanını birlikte değerlendirmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Özgürlük nasıl görünür?” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-saygi-duygusu",
+      "section": "ÜÇÜNCÜ KISIM · GÜDÜ",
+      "title": "Saygı duygusu",
+      "paragraphs": [
+        "Ahlak yasası benlik sevgisini sınırlandırırken yasaya yönelik özel saygı duygusu doğurur; bu duygu neden değil etkidir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Kişi çıkarına yenilmediğinde gururu incinir ama görevin ağırlığını hisseder. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Saygı soğuk küçümseme veya otorite korkusu değildir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Kişinin onurunu koruyan karşılıklı saygıyı somutlaştırmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Saygı duygusu” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-12-iyi-ve-kotu-nasil-belirlenir",
+      "section": "ÜÇÜNCÜ KISIM · NESNE",
+      "title": "İyi ve kötü nasıl belirlenir?",
+      "paragraphs": [
+        "İyi olan önce arzulanan sonuçla değil, ahlak yasasına uygun irade ilkesiyle belirlenir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Kazanç sağlayan yalan yararlı görünse de iyi olmaz. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Sonuçlar tümüyle önemsiz değildir; uygulamada bilgi ister. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "İlke ile öngörülebilir etkiyi birbirine karşı değil birlikte sorumlulukla düşünmek gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ]
+    },
+    {
+      "id": "durak-13-yarginin-tipi",
+      "section": "DÖRDÜNCÜ KISIM · UYGULAMA",
+      "title": "Yargının tipi",
+      "paragraphs": [
+        "Duyular üstü ahlak yasasını somut olaya uygularken doğa yasasının evrensel biçimini benzetme olarak kullanırız. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Davranış kuralım doğa yasası gibi düzenli olsaydı ortak yaşam mümkün mü diye sorarız. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Benzetme her bağlamı çözmez. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Vakayı doğru tanımlayıp istisnayı gizlememek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Yargının tipi” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-14-erdem-ile-mutluluk",
+      "section": "DÖRDÜNCÜ KISIM · GERİLİM",
+      "title": "Erdem ile mutluluk",
+      "paragraphs": [
+        "Ahlaken iyi olmak mutluluğu garanti etmez; yine de akıl en yüksek iyide erdemle ona uygun mutluluğun birleşmesini düşünür. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Dürüst kişi zarar, hilekâr kişi ödül görebilir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Ahlak mutluluk alışverişi değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Doğru davranışı ödül beklentisinden bağımsız tutmak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-15-pratik-aklin-catiskisi",
+      "section": "DÖRDÜNCÜ KISIM · DİYALEKTİK",
+      "title": "Pratik aklın çatışkısı",
+      "paragraphs": [
+        "Erdem mutluluğun nedeni gibi görünmez, mutluluk da erdem üretmez; en yüksek iyi isteği iki alanı gerilimde bırakır. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Adil hayat ile iyi talih dünyada sık sık ayrılır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Gerilim gerçek adaletsizliği öte dünyaya ertelemeye dönüşebilir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Kamusal adalet çabasını metafizik umutla değiştirmemek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Pratik aklın çatışkısı” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-olumsuzluk-ve-tanri-postulatlari",
+      "section": "BEŞİNCİ KISIM · UMUT",
+      "title": "Ölümsüzlük ve Tanrı postulatları",
+      "paragraphs": [
+        "Kant ruhun ölümsüzlüğü ve Tanrı'yı teorik bilgi değil, ahlaki ilerleme ve en yüksek iyi için pratik aklın postulatları olarak ele alır. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Bitmeyen ahlaki gelişim ve adil mutluluk uyumu düşünülür. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Postulat kanıtlanmış nesnel gerçek demek değildir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "İnanç, umut ve bilgi iddiasını açıkça ayırmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Ölümsüzlük ve Tanrı postulatları” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-yildizli-gok-ve-ahlak-yasasi",
+      "section": "ALTINCI KISIM · SONUÇ",
+      "title": "Yıldızlı gök ve ahlak yasası",
+      "paragraphs": [
+        "Kant dışımızdaki evrenin büyüklüğü ile içimizdeki ahlaki yükümlülüğün saygınlığını birlikte düşünür. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Gece göğe bakan kişi küçüklüğünü, verdiği söz karşısında sorumluluğunu hisseder. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Yüce cümle günlük ikilemi çözmez. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Hayranlığı küçük ve tekrarlanan dürüst eyleme bağlamak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Yıldızlı gök ve ahlak yasası” ile Pratik Aklın Eleştirisi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Kant duyguların ve sonuçların hayatta hiçbir önemi olmadığını söylemez. Sorusu ahlaki zorunluluğun en son kaynağının haz, korku veya ödül olup olamayacağıdır.",
+        "Bir doktor iyi niyetle ama bilgisizce zarar verebilir. İrade ahlaki değer için merkezdir; yine de mesleki sorumluluk sonuçları öğrenmeyi ve öngörmeyi gerektirir.",
+        "Pratik Aklın Eleştirisi için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser özerklik, özgürlük, ahlak yasası ve saygı düşünceleriyle modern etiğin temel metinlerinden oldu; pratik aklı Kant sisteminin merkezine yerleştirdi.",
+        "Aşırı biçimcilik, katı görev anlayışı, duygusal bakım ve ilişkilere az yer verme, somut eşitsiz koşulları inceltme ve postulatlara geçişin zorunlu olmaması eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Pratik Aklın Eleştirisi bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Davranışımın gerçek maksimi ne? Herkes için istemeye cesaret eder miyim? Doğruyu yalnız ödül veya korku için mi yapıyorum?",
+        "Bugün verdiğiniz küçük bir sözü seçin. Çıkarınız değiştiğinde de geçerli olacak biçimde maksimi yazın ve herkes uygulasa ne olacağını düşünün.",
+        "Pratik Aklın Eleştirisi bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Pratik akıl, arzunun ötesinde herkese geçerli ahlak yasasını tanır; bu yasaya kendi aklıyla bağlanmak özerkliğin ve kendimizi özgür fail saymanın kapısını açar.",
+        "Akılda tutulacak son görüntü, mor, gece mavisi ve altın tonlarında yıldızlı göğün altında elinde evrensel yasa halkası taşıyan insanın iki yol arasında çıkar gölgesinden özerkliğin ışığına yöneldiği sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Pratik Aklın Eleştirisi adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-pratik-akil-nedir": {
+      "image": "/images/summary-art-129-chapter-01-pratik-akil-nedir-v1.webp",
+      "imageCaption": "Pratik akıl nedir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-maksim-kendime-koydugum-kural": {
+      "image": "/images/summary-art-129-chapter-02-maksim-kendime-koydugum-kural-v1.webp",
+      "imageCaption": "Maksim: Kendime koyduğum kural düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-kosullu-buyruk": {
+      "image": "/images/summary-art-129-chapter-03-kosullu-buyruk-v1.webp",
+      "imageCaption": "Koşullu buyruk düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-ahlak-yasasinin-kosulsuzlugu": {
+      "image": "/images/summary-art-129-chapter-04-ahlak-yasasinin-kosulsuzlugu-v1.webp",
+      "imageCaption": "Ahlak yasasının koşulsuzluğu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-yalniz-evrensel-yasa-olabilecek-bicimde-davran": {
+      "image": "/images/summary-art-129-chapter-05-yalniz-evrensel-yasa-olabilecek-bicimde-davran-v1.webp",
+      "imageCaption": "Yalnız evrensel yasa olabilecek biçimde davran düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-ozerklik": {
+      "image": "/images/summary-art-129-chapter-06-ozerklik-v1.webp",
+      "imageCaption": "Özerklik düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-yaderklik": {
+      "image": "/images/summary-art-129-chapter-07-yaderklik-v1.webp",
+      "imageCaption": "Yaderklik düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-aklin-olgusu": {
+      "image": "/images/summary-art-129-chapter-08-aklin-olgusu-v1.webp",
+      "imageCaption": "Aklın olgusu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-ozgurluk-nasil-gorunur": {
+      "image": "/images/summary-art-129-chapter-09-ozgurluk-nasil-gorunur-v1.webp",
+      "imageCaption": "Özgürlük nasıl görünür? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-saygi-duygusu": {
+      "image": "/images/summary-art-129-chapter-10-saygi-duygusu-v1.webp",
+      "imageCaption": "Saygı duygusu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-iyi-ve-kotu-nasil-belirlenir": {
+      "image": "/images/summary-art-129-chapter-11-iyi-ve-kotu-nasil-belirlenir-v1.webp",
+      "imageCaption": "İyi ve kötü nasıl belirlenir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-yarginin-tipi": {
+      "image": "/images/summary-art-129-chapter-12-yarginin-tipi-v1.webp",
+      "imageCaption": "Yargının tipi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-erdem-ile-mutluluk": {
+      "image": "/images/summary-art-129-chapter-13-erdem-ile-mutluluk-v1.webp",
+      "imageCaption": "Erdem ile mutluluk düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-pratik-aklin-catiskisi": {
+      "image": "/images/summary-art-129-chapter-14-pratik-aklin-catiskisi-v1.webp",
+      "imageCaption": "Pratik aklın çatışkısı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-olumsuzluk-ve-tanri-postulatlari": {
+      "image": "/images/summary-art-129-chapter-15-olumsuzluk-ve-tanri-postulatlari-v1.webp",
+      "imageCaption": "Ölümsüzlük ve Tanrı postulatları düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-yildizli-gok-ve-ahlak-yasasi": {
+      "image": "/images/summary-art-129-chapter-16-yildizli-gok-ve-ahlak-yasasi-v1.webp",
+      "imageCaption": "Yıldızlı gök ve ahlak yasası düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

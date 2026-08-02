@@ -1,0 +1,348 @@
+{
+  "bookNo": 192,
+  "title": "Açık Yapıt",
+  "author": "Umberto Eco",
+  "subtitle": "Sanat eserinin tamamlanmış bir nesne olduğu hâlde okur, dinleyici veya izleyicinin etkin yorumuyla her karşılaşmada farklı düzenlenebildiğini; modern müzikten şiire, resimden televizyona açıklığın sınırlarını araştıran estetik klasiği.",
+  "coverImage": "/images/summary-cover-192-acik-yapit-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/192-acik-yapit-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#6E5C9A",
+  "meta": {
+    "originalTitle": "Opera aperta",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir besteci notaları verir ama bölümlerin sırasını icracıya bırakırsa eser kime aittir? Umberto Eco bu soruyu yalnız deneysel müziğe değil, okurun boşlukları doldurduğu her sanat karşılaşmasına doğru genişletir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Google Books - The Open Work",
+      "url": "https://books.google.com/books/about/Opera_Aperta.html?id=7jroM0M8TuwC"
+    },
+    {
+      "id": 2,
+      "title": "Harvard University Press - The Open Work",
+      "url": "https://www.hup.harvard.edu/books/9780674639768"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Sanat eserinin tamamlanmış bir nesne olduğu hâlde okur, dinleyici veya izleyicinin etkin yorumuyla her karşılaşmada farklı düzenlenebildiğini; modern müzikten şiire, resimden televizyona açıklığın sınırlarını araştıran estetik klasiği.",
+        "Açıklık sınırsız keyfîlik değildir. Eser bazı yolları çağıran, bazılarını zorlaştıran biçimlenmiş alandır; yorumcu ortak yaratıcı olur ama elinde bütünüyle boş kâğıt yoktur.",
+        "Kitap 1960'ların avangart heyecanını taşır ve sonraki göstergebilim çalışmalarının habercisidir. Bölümler müzik, bilgi kuramı, Joyce, soyut resim, canlı televizyon ve kitle kültürü arasında dolaşırken aynı soruyu korur: Biçim nasıl hem tamamlanmış hem çoğul olabilir?"
+      ]
+    },
+    {
+      "id": "durak-02-her-eser-yorumda-yeniden-tamamlanir",
+      "section": "BİRİNCİ KISIM · AÇIKLIK",
+      "title": "Her eser yorumda yeniden tamamlanır",
+      "paragraphs": [
+        "Eser maddi olarak bitmiş olsa bile algılayan kişi bağlantıları, vurguyu ve duygusal yönü yeniden kurar. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Aynı romanı yirmi yaşında özgürlük, elli yaşında pişmanlık hikâyesi olarak okumanız metnin değişmeden farklı düzenlenmesidir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Her farklı tepki eşit derecede metne uygun değildir; sözcük ve yapı yorum alanını sınırlar. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Bir eserde yorumunuzu destekleyen üç ayrıntı ve ona direnen bir ayrıntı bulmak açıklığı keyfîlikten ayırır. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Her eser yorumda yeniden tamamlanır” ile Açık Yapıt kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-hareketli-yapit",
+      "section": "BİRİNCİ KISIM · İCRACI",
+      "title": "Hareketli yapıt",
+      "paragraphs": [
+        "Bazı modern eserler yalnız anlamı değil parçaların gerçek sırasını veya ses örgüsünü icracının seçimine bırakır. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Besteci dört müzik bloğu yazar, piyanist o geceki salona göre giriş sırasını belirler; sonuç her konserde başka ama tanınabilir eserdir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Seçim sunan her ürün sanat değildir ve sınırsız seçenek çoğu kez biçimsizlik yaratır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Bir tasarımda kullanıcıya verilen seçeneğin deneyimi zenginleştirip zenginleştirmediğini ve bütünlüğü nerede koruduğunu sormak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-04-besteci-cerceveyi-yine-kurar",
+      "section": "BİRİNCİ KISIM · SINIR",
+      "title": "Besteci çerçeveyi yine kurar",
+      "paragraphs": [
+        "Açık müzikte besteci sonuçların tamamını belirlemez ama mümkün dönüşümlerin malzemesini ve ilişkisini tasarlar. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Caz doğaçlamasında müzisyen istediği her sesi değil tonal zemin, ritim ve diğer oyuncuların cevabı içinde yeni cümle kurar. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Kuralın görünmez olması kural olmadığı anlamına gelmez. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir ortak projede özgürlük alanı ile değiştirilemeyecek güvenlik ve amaç sınırını baştan görünür yapmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-05-geleneksel-eser-de-butunuyle-kapali-degildir",
+      "section": "İKİNCİ KISIM · OKUR",
+      "title": "Geleneksel eser de bütünüyle kapalı değildir",
+      "paragraphs": [
+        "Dante gibi sıkı simgesel düzen kuran eser bile dil, tarih ve okurun bakışı nedeniyle tek mekanik karşılığa kapanmaz. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Yüzyıllar önceki yolculuk şiiri bir okur için dinî düzen, diğeri için siyasi sürgün ve dil ustalığı olarak öne çıkabilir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Tarihsel bağlamı yok sayıp bugünkü her düşünceyi esere yüklemek yorum değil ele geçirmedir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Eski eseri okurken önce dönem anlamını, sonra bugünkü yankıyı ayrı cümlelerle yazmak yararlıdır. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Geleneksel eser de bütünüyle kapalı değildir” ile Açık Yapıt kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-belirsizlik-estetik-malzeme-olur",
+      "section": "İKİNCİ KISIM · ÇOK ANLAMLILIK",
+      "title": "Belirsizlik estetik malzeme olur",
+      "paragraphs": [
+        "Modern sanat alışılmış işaret bağını gevşetip izleyiciyi tek doğru mesaj almak yerine ilişkileri etkin kurmaya çağırır. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Sisli bir meydan tablosunda yüzler silik kaldıkça izleyici olayın kutlama mı kaçış mı olduğunu kendi ipuçlarıyla tartar. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Belirsizlik otomatik derinlik değildir; eksik iş de kendini gizemli diye sunabilir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir eserin belirsizliğinin yeni bağlantı üretip üretmediğini veya yalnız bilgi eksikliğini örttüğünü sınamak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-07-bilgi-arttikca-duzen-riske-girer",
+      "section": "İKİNCİ KISIM · ENFORMASYON",
+      "title": "Bilgi arttıkça düzen riske girer",
+      "paragraphs": [
+        "Eco bilgi kuramından yararlanarak beklenmedik seçeneğin daha çok bilgi taşıdığını, fakat aşırı düzensizliğin anlaşılır iletişimi yok edebileceğini tartışır. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Her cümlesi tahmin edilebilir şarkı sıkıcıdır; bütünüyle rastgele ses dizisi ise hatırlanabilir biçim kurmaz. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Matematiksel entropiyi estetik değere doğrudan eşitlemek yanlış olur. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Bir sunumda şaşırtıcı unsurun izleyiciyi uyandırdığı nokta ile mesajı kaybettirdiği noktayı ayrı ayrı gözlemek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Bilgi arttıkça düzen riske girer” ile Açık Yapıt kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-siir-dili-gundelik-baglantiyi-sarsar",
+      "section": "İKİNCİ KISIM · DİL",
+      "title": "Şiir dili gündelik bağlantıyı sarsar",
+      "paragraphs": [
+        "Şiir alışılmış sözcük ilişkisini yoğunlaştırıp ses, ritim ve çağrışımı aynı anda çalıştırarak okuru anlam üretimine çeker. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "'Gece düştü' gündelik cümleyken şair geceyi kırık bir mürekkep kabı gibi kurduğunda renk, ses ve kayıp birlikte açılır. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Her kapalı anlatım şiirsel değildir; okurun emeği yazarın özensizliğini telafi etmek zorunda değildir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir şiirde tek mecazın hangi duyuları ve anıları aynı anda çağırdığını küçük bir ağ olarak çizmek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-09-joyce-ve-cogul-dil",
+      "section": "ÜÇÜNCÜ KISIM · EDEBİYAT",
+      "title": "Joyce ve çoğul dil",
+      "paragraphs": [
+        "Joyce farklı dilleri, çağrışımları ve kültür katmanlarını üst üste bindirerek cümlenin tek yönde tüketilmesini engeller. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Bir sözcük aynı anda nehir adını, aile hatırasını ve başka dildeki şakayı taşıyınca okur yollar arasında dolaşır. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Bu çoğulluk erişimi zorlaştırabilir ve eğitim ayrıcalığını büyütebilir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Zor metinde her göndermeyi çözmeye çalışmadan tekrar eden ses ve görüntünün yarattığı yönü izlemek ilk kapıyı açabilir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Joyce ve çoğul dil” ile Açık Yapıt kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-soyut-resimde-bicim-arayisi",
+      "section": "ÜÇÜNCÜ KISIM · GÖRSEL SANAT",
+      "title": "Soyut resimde biçim arayışı",
+      "paragraphs": [
+        "Belirgin nesne sunmayan resim gözün renk, doku ve boşluklar arasında kendi güzergâhını kurmasına izin verir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Lekeli büyük tuvalde biri fırtına, diğeri duvar izi görür; fakat boya ağırlığı ve renk gerilimi ikisinin de hareketini yönlendirir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Her kişisel çağrışım eserin tarihsel ve maddi yapısını tüketmez. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Bir soyut esere bakarken önce gördüğünüz nesne adını değil gözünüzün izlediği çizgi ve renk sırasını tarif etmek yararlıdır. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-11-rastlanti-tasarlanabilir-mi",
+      "section": "ÜÇÜNCÜ KISIM · ŞANS",
+      "title": "Rastlantı tasarlanabilir mi?",
+      "paragraphs": [
+        "Sanatçı rastlantıyı içeri alırken bile hangi malzemenin, sınırın ve seçim anının şansa bırakılacağını belirler. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Mürekkep damlasının yayılışı kontrolsüzdür ama kâğıt, renk ve damlatma yüksekliği sanatçının çerçevesidir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Rastlantı sorumluluğu tümüyle ortadan kaldırmaz; seçilen sonuç yine sunulur. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Bir yaratıcı işte kontrol etmek istediğiniz sonuç ile sürprize açık bırakacağınız bölümü ayırmak yeniliği artırabilir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-12-canli-televizyonun-secilmis-ani",
+      "section": "DÖRDÜNCÜ KISIM · MEDYA",
+      "title": "Canlı televizyonun seçilmiş anı",
+      "paragraphs": [
+        "Canlı yayın önceden yazılmamış olayla karşılaşsa da kameranın yeri ve yönetmenin anlık seçimi olayı biçimlendirir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Maçta kavga çıkınca yönetmen top yerine tribünü gösterir ve milyonların 'olay' dediği sahneyi o saniye kurar. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Canlılık tarafsız pencere değildir; gösterilmeyen kamera da anlatının parçasıdır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Bir canlı yayında hangi görüntünün tekrarlandığını ve hangi sesin mikrofona hiç ulaşmadığını takip etmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Canlı televizyonun seçilmiş anı” ile Açık Yapıt kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-kitsch-hazir-duyguyu-satar",
+      "section": "DÖRDÜNCÜ KISIM · KİTLE KÜLTÜRÜ",
+      "title": "Kitsch hazır duyguyu satar",
+      "paragraphs": [
+        "Kitsch izleyiciye keşif alanı bırakmak yerine önceden paketlenmiş duygu ve sanat etkisi sunar. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Reklam keman sesi, günbatımı ve ağlayan çocukla ne zaman duygulanacağınızı söyler; ürün bu duygunun kestirme bileti olur. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Kolay anlaşılır ve duygulu her eser kitsch değildir; seçkinci küçümseme halk zevkini susturabilir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir görüntünün duyguyu hangi hazır işaretlerle yönettiğini fark etmek etkilenmeyi yasaklamaz, mekanizmayı görünür kılar. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-14-midcult-prestijin-kolay-kopyasi",
+      "section": "DÖRDÜNCÜ KISIM · ORTA KÜLTÜR",
+      "title": "Midcult: Prestijin kolay kopyası",
+      "paragraphs": [
+        "Kitle ürünü avangart biçimi riskinden arındırıp tüketiciye hem rahatlık hem yüksek kültür prestiji verebilir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Karmaşık romanın yalnız gizemli görüntülerini kullanan dizi izleyiciye zorluk yaşamadan seçkinlik hissi sunar. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Uyarlama otomatik sahtekârlık değildir; yeni kitleye gerçek yaratıcı kapı açabilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Bir uyarlamada biçimin yalnız dekorunun mu alındığını, yoksa asıl sorunun yeni araçta yeniden kurulup kurulmadığını araştırmak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Midcult: Prestijin kolay kopyası” ile Açık Yapıt kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-bicim-de-toplumsal-tavirdir",
+      "section": "BEŞİNCİ KISIM · SİYASET",
+      "title": "Biçim de toplumsal tavırdır",
+      "paragraphs": [
+        "Eco sanatın yalnız anlattığı konu değil, izleyiciyle kurduğu açık veya buyurgan ilişki yoluyla da toplumsal anlam taşıdığını söyler. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "İşçiyi öven ama seyirciye tek doğruyu ezberleten film ile sıradan insanın çelişkisini açık bırakan film aynı siyasi ilişkiyi kurmaz. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Açık biçim kendiliğinden özgürlükçü içerik garantilemez. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir eserin mesajından önce izleyiciyi pasif alıcı mı etkin yorumcu mu yaptığına bakmak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ]
+    },
+    {
+      "id": "durak-16-bicimlenme-sureci-olarak-yapit",
+      "section": "BEŞİNCİ KISIM · PAREYSON",
+      "title": "Biçimlenme süreci olarak yapıt",
+      "paragraphs": [
+        "Pareyson'dan hareketle eser önceden hazır kuralın uygulanması değil, yaparken kendi kuralını keşfeden biçimlenme sürecidir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Heykeltıraş taşın damarına cevap verdikçe ilk taslağı değiştirir; sonuç hem niyetin hem malzemenin tarihini taşır. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Sanatçı yalnız malzemenin sözcüsü değildir; seçim ve sorumluluk yine ona aittir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bir işte planı başarısızlık saymadan malzemeden gelen geri bildirimle güncellemek yaratıcı düşünmenin parçasıdır. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Biçimlenme süreci olarak yapıt” ile Açık Yapıt kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-acikligin-siniri-ve-asiri-yorum",
+      "section": "BEŞİNCİ KISIM · SONUÇ",
+      "title": "Açıklığın sınırı ve aşırı yorum",
+      "paragraphs": [
+        "Açık Yapıt çoğul yorumu savunur ama eserle bağını kaybeden sınırsız okumanın önünü açmaz; Eco sonraki çalışmalarında bu sınırı daha açık vurgular. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Bir polisiye romandaki kırmızı perdeyi kanıtlarla suç işareti okumak mümkündür; onu uzaylı mesajı saymak için metinden iz gerekir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Yazar niyeti tek hâkim değildir, fakat metnin düzeni tamamen savunmasız da değildir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Yorumunuzu metinsel ayrıntı, tarihsel bağlam ve alternatif açıklamayla sınamak özgürlüğü daha sağlam kılar. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Açık yapıt, içine istediğimiz her anlamı koyabileceğimiz boş kap değildir. Sanatçı olasılık alanını biçim, malzeme ve işaretlerle kurar; yorumcu bu alan içinde etkin hareket eder.",
+        "Cazcı doğaçlama yapar ama parçanın ritmi ve diğer müzisyenlerin cümlesiyle ilişki kurar; rastgele başka şarkıya geçmek aynı eserin yorumu sayılmaz.",
+        "Açık Yapıt için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser alımlama kuramı, göstergebilim ve çağdaş estetikte okur katılımı ile çoğulluk tartışmasını erkenden biçimlendirdi; müzikten medyaya geniş örnekleriyle Eco'nun kurucu kitaplarından oldu.",
+        "Bilgi kuramını estetiğe taşımasının zaman zaman mecazi kaldığı, avangardı özgürleştirici görürken popüler zevke seçkinci yaklaştığı ve açıklığın maddi erişim eşitsizliklerini az işlediği söylendi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Açık Yapıt bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Eser hangi seçimleri gerçekten açıyor? Yorumumu hangi ayrıntı destekliyor? Belirsizlik yeni anlam mı üretiyor, yoksa boşluğu mu örtüyor?",
+        "Sevdiğiniz bir şarkıyı iki farklı yorumcudan dinleyin; değişen tempo, vurgu ve sıraya rağmen eseri tanınır tutan üç biçimsel bağı yazın.",
+        "Açık Yapıt bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Sanat eseri tamamlanmış bir biçim olduğu hâlde tek tüketime kapanmaz; izleyicinin etkin yorumu içinde çoğalır, fakat bu özgürlük eserin kurduğu olasılık alanıyla anlam kazanır.",
+        "Akılda tutulacak son görüntü, mor, mercan ve turkuaz renkli hareketli nota yapraklarıyla açık kitap sayfalarının Calder benzeri dengede döndüğü, izleyicinin eli yaklaştıkça yeni fakat uyumlu düzen kuran şiirsel bir sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Açık Yapıt adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-her-eser-yorumda-yeniden-tamamlanir": {
+      "image": "/images/summary-art-192-chapter-01-her-eser-yorumda-yeniden-tamamlanir-v1.webp",
+      "imageCaption": "Her eser yorumda yeniden tamamlanır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-hareketli-yapit": {
+      "image": "/images/summary-art-192-chapter-02-hareketli-yapit-v1.webp",
+      "imageCaption": "Hareketli yapıt düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-besteci-cerceveyi-yine-kurar": {
+      "image": "/images/summary-art-192-chapter-03-besteci-cerceveyi-yine-kurar-v1.webp",
+      "imageCaption": "Besteci çerçeveyi yine kurar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-geleneksel-eser-de-butunuyle-kapali-degildir": {
+      "image": "/images/summary-art-192-chapter-04-geleneksel-eser-de-butunuyle-kapali-degildir-v1.webp",
+      "imageCaption": "Geleneksel eser de bütünüyle kapalı değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-belirsizlik-estetik-malzeme-olur": {
+      "image": "/images/summary-art-192-chapter-05-belirsizlik-estetik-malzeme-olur-v1.webp",
+      "imageCaption": "Belirsizlik estetik malzeme olur düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-bilgi-arttikca-duzen-riske-girer": {
+      "image": "/images/summary-art-192-chapter-06-bilgi-arttikca-duzen-riske-girer-v1.webp",
+      "imageCaption": "Bilgi arttıkça düzen riske girer düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-siir-dili-gundelik-baglantiyi-sarsar": {
+      "image": "/images/summary-art-192-chapter-07-siir-dili-gundelik-baglantiyi-sarsar-v1.webp",
+      "imageCaption": "Şiir dili gündelik bağlantıyı sarsar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-joyce-ve-cogul-dil": {
+      "image": "/images/summary-art-192-chapter-08-joyce-ve-cogul-dil-v1.webp",
+      "imageCaption": "Joyce ve çoğul dil düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-soyut-resimde-bicim-arayisi": {
+      "image": "/images/summary-art-192-chapter-09-soyut-resimde-bicim-arayisi-v1.webp",
+      "imageCaption": "Soyut resimde biçim arayışı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-rastlanti-tasarlanabilir-mi": {
+      "image": "/images/summary-art-192-chapter-10-rastlanti-tasarlanabilir-mi-v1.webp",
+      "imageCaption": "Rastlantı tasarlanabilir mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-canli-televizyonun-secilmis-ani": {
+      "image": "/images/summary-art-192-chapter-11-canli-televizyonun-secilmis-ani-v1.webp",
+      "imageCaption": "Canlı televizyonun seçilmiş anı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-kitsch-hazir-duyguyu-satar": {
+      "image": "/images/summary-art-192-chapter-12-kitsch-hazir-duyguyu-satar-v1.webp",
+      "imageCaption": "Kitsch hazır duyguyu satar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-midcult-prestijin-kolay-kopyasi": {
+      "image": "/images/summary-art-192-chapter-13-midcult-prestijin-kolay-kopyasi-v1.webp",
+      "imageCaption": "Midcult: Prestijin kolay kopyası düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-bicim-de-toplumsal-tavirdir": {
+      "image": "/images/summary-art-192-chapter-14-bicim-de-toplumsal-tavirdir-v1.webp",
+      "imageCaption": "Biçim de toplumsal tavırdır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-bicimlenme-sureci-olarak-yapit": {
+      "image": "/images/summary-art-192-chapter-15-bicimlenme-sureci-olarak-yapit-v1.webp",
+      "imageCaption": "Biçimlenme süreci olarak yapıt düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-acikligin-siniri-ve-asiri-yorum": {
+      "image": "/images/summary-art-192-chapter-16-acikligin-siniri-ve-asiri-yorum-v1.webp",
+      "imageCaption": "Açıklığın sınırı ve aşırı yorum düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

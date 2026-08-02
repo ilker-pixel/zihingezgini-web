@@ -1,0 +1,360 @@
+{
+  "bookNo": 150,
+  "title": "Gerçek ve Siyaset",
+  "author": "Hannah Arendt",
+  "subtitle": "Siyasetin görüş ve ikna alanı olduğunu kabul ederken, ortak dünyayı taşıyan olgusal gerçekler yok edildiğinde özgür tartışmanın da zeminsiz kaldığını anlatan sarsıcı deneme.",
+  "coverImage": "/images/summary-cover-150-gercek-ve-siyaset-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/150-gercek-ve-siyaset-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#8C4F52",
+  "meta": {
+    "originalTitle": "Truth and Politics",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir meydanda gerçekten kaç kişi vardı? Sayı hükümeti desteklemek ya da eleştirmek için yorumlanabilir; fakat meydanın hiç olmadığı söylenirse tartışmanın ortak zemini kırılır. Arendt görüş ayrılığıyla olgu inkârı arasındaki çizgiyi korur.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "HannahArendt.net - Truth and Politics Context",
+      "url": "https://www.hannaharendt.net/index.php/han/en/announcement/view/121"
+    },
+    {
+      "id": 2,
+      "title": "Penguin Random House - Between Past and Future",
+      "url": "https://www.penguinrandomhouse.com/books/320983/between-past-and-future-by-hannah-arendt/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Siyasetin görüş ve ikna alanı olduğunu kabul ederken, ortak dünyayı taşıyan olgusal gerçekler yok edildiğinde özgür tartışmanın da zeminsiz kaldığını anlatan sarsıcı deneme.",
+        "1967'de yayımlanıp Between Past and Future'a giren deneme akılsal ve olgusal gerçek, kanaat, yalan, imaj üretimi, tanık ve tarihçiyi inceler. Rehber gerçeği siyasetin tek hakimi yapmaz; siyasetin var olabilmesi için bazı gerçeklerin tartışma dışı sağlamlığına ihtiyaç olduğunu gösterir.",
+        "Bir yönetim başarısız operasyonu hiç yaşanmamış gibi arşivden siler. İnsanlar politika hakkında farklı görüş taşımaktan önce olayın olup olmadığına bölünür. Yalan artık tek cümleyi değil ortak gerçekliği yeniden kurma girişimini anlatır."
+      ]
+    },
+    {
+      "id": "durak-02-siyaset-ile-gercek-neden-gerilir",
+      "section": "BİRİNCİ KISIM · SORU",
+      "title": "Siyaset ile gerçek neden gerilir?",
+      "paragraphs": [
+        "Siyaset özgür insanların görüş, çıkar ve ikna mücadelesidir; gerçek ise bazı konularda tartışmayı kapatan zorlayıcı bir nitelik taşır. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "İki artı iki konusunda oy kullanılmaz ama bütçenin amacı tartışılır. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Her bilimsel bilgi siyasetten bağımsız uygulanmaz. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Olgu, yorum ve karar katmanlarını ayırmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Siyaset ile gerçek neden gerilir?” ile Gerçek ve Siyaset kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-akilsal-gercek",
+      "section": "BİRİNCİ KISIM · AYRIM",
+      "title": "Akılsal gerçek",
+      "paragraphs": [
+        "Matematik ve felsefe gibi akılsal gerçekler düşünce ve kanıtlama yoluyla zorunluluk iddiası taşır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Üçgen ilişkisi hükümet kararıyla değişmez. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Kuramların uygulanması tarihsel kurum ister. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Mantıksal doğrulukla siyasi önceliği birbirine karıştırmamak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-04-olgusal-gercek",
+      "section": "BİRİNCİ KISIM · OLAY",
+      "title": "Olgusal gerçek",
+      "paragraphs": [
+        "Kimin ne yaptığı, hangi anlaşmanın imzalandığı gibi olgular tanık ve kayda dayanır; zorunlu değil kırılgandır. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Bir toplantı farklı olabilirdi ama gerçekleştiyse olmuş olma niteliği taşır. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Kayıtlar eksik ve tanıklar yanılabilir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bağımsız kaynak ve maddi izleri korumak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Olgusal gerçek” ile Gerçek ve Siyaset kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-kanaat-ne-zaman-mesrudur",
+      "section": "İKİNCİ KISIM · ÇOĞULLUK",
+      "title": "Kanaat ne zaman meşrudur?",
+      "paragraphs": [
+        "Ortak olgular üzerinde insanlar farklı bakışlardan anlam ve politika görüşü geliştirebilir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Aynı grev biri için hak, diğeri için ekonomik risk olabilir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Her kanaat eşit kanıt taşımaz. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Görüş özgürlüğünü olgu uydurma özgürlüğüyle karıştırmamak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ]
+    },
+    {
+      "id": "durak-06-gercek-neden-siyaseten-gucsuzdur",
+      "section": "İKİNCİ KISIM · YALNIZLIK",
+      "title": "Gerçek neden siyaseten güçsüzdür?",
+      "paragraphs": [
+        "Gerçek kendisini savunan kalabalık veya ikna gücüne sahip olmayabilir; tanık hoş olmayan olguyla yalnız kalabilir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Herkesin çıkarına ters düşen kayıt arşiv memurunun elinde kalır. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Gerçek söyleyen kişi de yanılabilir veya çıkar taşıyabilir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Kişi kahramanlığı yerine doğrulama kurumları kurmak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Gerçek neden siyaseten güçsüzdür?” ile Gerçek ve Siyaset kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-yalan-neden-siyasetin-eski-aracidir",
+      "section": "İKİNCİ KISIM · EYLEM",
+      "title": "Yalan neden siyasetin eski aracıdır?",
+      "paragraphs": [
+        "İnsan eylemi dünyayı değiştirebildiği için yalancı da geçmiş ve gelecek anlatısını değiştirebileceğine güvenir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Diplomat niyetini gizleyerek pazarlık alanı açar. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Her gizlilik ve diplomatik manevra aynı derecede yalan değildir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Yalanın hedefi, kapsamı ve kamusal sonuçlarını ayırmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Yalan neden siyasetin eski aracıdır?” ile Gerçek ve Siyaset kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-geleneksel-yalan",
+      "section": "İKİNCİ KISIM · SINIRLI OYUN",
+      "title": "Geleneksel yalan",
+      "paragraphs": [
+        "Eski siyasi yalan belirli sır veya olayı gizler, yalancı gerçeği bilir ve dar hedef taşır. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Komutan düşmana birlik yerini yanlış bildirir. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Savaş hilesi iç kamuoyunu sürekli aldatmayı haklı kılmaz. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Muhatap ve süre sınırını açık tutmak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Geleneksel yalan” ile Gerçek ve Siyaset kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-orgutlu-yalan",
+      "section": "ÜÇÜNCÜ KISIM · SİSTEM",
+      "title": "Örgütlü yalan",
+      "paragraphs": [
+        "Modern örgütlü yalan tek olayı saklamak yerine belge, görüntü ve uzman ağıyla bütün gerçeklik tablosunu yeniden kurmaya çalışır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "İstatistik, haber ve arşiv aynı sahte başarı öyküsüne göre düzenlenir. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Tam kontrol hiçbir zaman kusursuz değildir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Bağımsız kayıt ve çoğul kurumların dayanıklılığını korumak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Örgütlü yalan” ile Gerçek ve Siyaset kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-imaj-uretimi",
+      "section": "ÜÇÜNCÜ KISIM · GÖRÜNTÜ",
+      "title": "İmaj üretimi",
+      "paragraphs": [
+        "Siyasetçi ve ülke karmaşık gerçek yerine hedef kitleye göre tasarlanmış tutarlı imaj olarak pazarlanabilir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Liderin her sahnesi kararlı baba rolüne göre çekilir. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Kamusal temsil kaçınılmaz olarak seçicidir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "İmajla doğrulanabilir karar ve sonuç arasındaki farkı izlemek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-11-yalanci-kendi-yalanina-inanirsa",
+      "section": "ÜÇÜNCÜ KISIM · TEHLİKE",
+      "title": "Yalancı kendi yalanına inanırsa",
+      "paragraphs": [
+        "Kendini tamamen imaja kaptıran yönetim gerçek geri bildirimi kaybedip karar verme kapasitesini zayıflatır. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Savaş raporları sürekli düzeltilince merkez gerçek kaybı göremez. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "İnançlı olmak sözü doğru yapmaz. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Kötü haberi taşıyacak güvenli kurumlar kurmak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Yalancı kendi yalanına inanırsa” ile Gerçek ve Siyaset kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-12-totaliter-gecmis-uretimi",
+      "section": "ÜÇÜNCÜ KISIM · SİLME",
+      "title": "Totaliter geçmiş üretimi",
+      "paragraphs": [
+        "Totaliter güç kişileri fotoğraftan ve olayları kayıttan çıkararak yalnız yorumu değil olmuşluğu yok etmeye yönelir. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Dün kahraman sayılan kişi bugün hiç yaşamamış gibi arşivden silinir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Bellek ve özel belgeler tam silmeyi zorlaştırır. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Dağınık kopya, tanıklık ve arşiv bağımsızlığını korumak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-13-tanigin-kirilganligi",
+      "section": "DÖRDÜNCÜ KISIM · TANIK",
+      "title": "Tanığın kırılganlığı",
+      "paragraphs": [
+        "Olgusal gerçek yaşayanların sözüne dayandığı için baskı, ölüm ve korkuyla kolayca kaybolabilir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Tek görgü tanığı susturulunca olay söylentiye dönüşür. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Tanık belleği kusursuz değildir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
+        "Çapraz tanıklık ve zamanında kayıt gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Tanığın kırılganlığı” ile Gerçek ve Siyaset kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-14-tarihci-ve-gazeteci",
+      "section": "DÖRDÜNCÜ KISIM · KURUMLAR",
+      "title": "Tarihçi ve gazeteci",
+      "paragraphs": [
+        "Tarihçi, gazeteci, yargıç ve araştırma kurumu siyasi çekişmenin dışında göreli bir konumdan olguyu koruyabilir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Gazete iktidarın sevmediği belgeyi yayımlar. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Hiçbir kurum bütünüyle siyasetsiz değildir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bağımsızlık, yöntem, düzeltme ve kaynak şeffaflığı gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Tarihçi ve gazeteci” ile Gerçek ve Siyaset kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-gercegin-zorlayici-yani",
+      "section": "DÖRDÜNCÜ KISIM · SINIR",
+      "title": "Gerçeğin zorlayıcı yanı",
+      "paragraphs": [
+        "Gerçek 'başka türlü düşünemezsin' niteliğiyle görüş özgürlüğüne dış sınır koyar ve siyasette rahatsızlık yaratır. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Sayım sonucu tercihimize uymasa da başlangıç verisi olur. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Veri ne yapılması gerektiğini tek başına söylemez. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Olgudan değere geçişte açık gerekçe sunmak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Gerçeğin zorlayıcı yanı” ile Gerçek ve Siyaset kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-ortak-dunya-olmadan-ozgurluk",
+      "section": "BEŞİNCİ KISIM · ZEMİN",
+      "title": "Ortak dünya olmadan özgürlük",
+      "paragraphs": [
+        "İnsanlar aynı masa etrafında farklı yerlerden bakar; masa kaldırılırsa çoğulluk karşılaşma değil ayrı gerçekliklere dağılır. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Seçim sonucu ortak kabul edilmezse politika tartışması yerini varlık kavgasına bırakır. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Ortak gerçek tek yorum ve zorunlu uzlaşma değildir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Asgari olguyu koruyup güçlü görüş ayrılığına alan açmak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Ortak dünya olmadan özgürlük” ile Gerçek ve Siyaset kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-sosyal-medya-caginda-gercek",
+      "section": "ALTINCI KISIM · BUGÜN",
+      "title": "Sosyal medya çağında gerçek",
+      "paragraphs": [
+        "Hızlı paylaşım ve kişiselleştirilmiş akış örgütlü yalanın parçalarını merkezsiz biçimde çoğaltabilir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Eski video yeni olay diye milyonlara ulaşır, düzeltme daha yavaş kalır. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Platform tek neden değildir; siyasal aktör ve kullanıcı seçimi önemlidir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Kaynak, tarih, özgün bağlam ve bağımsız doğrulamayı alışkanlık yapmak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Arendt gerçeğin siyaseti yönetmesi veya uzmanların seçilmişlerin yerini alması gerektiğini söylemez. Olgular zemini sağlar; ne yapılacağı yine çoğul görüş ve karar alanıdır.",
+        "İşsizlik oranı belirli yöntemle ölçülen olgudur; hangi politikanın adil olduğu kanaat ve değer tartışmasıdır. Sayıyı inkâr etmekle yöntemi eleştirmek aynı şey değildir.",
+        "Gerçek ve Siyaset için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Deneme yalan, propaganda ve hakikat-sonrası tartışmalarının temel metinlerinden biri oldu; olgusal gerçeğin kırılgan ama siyasi özgürlük için vazgeçilmez yerini güçlü biçimde kurdu.",
+        "Akılsal ve olgusal gerçek ayrımının keskinliği, 'siyaset dışı' kurumlara fazla güven, sömürge ve sınıf gücüne az yer verme ve medyanın ekonomik yapısını sınırlı ele alma yönlerinden eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Gerçek ve Siyaset bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Tartıştığımız şey olgu mu yorum mu karar mı? Kaydı kim koruyor? İddia yanlışlanırsa ortak dünyaya geri dönme yolu var mı?",
+        "Güncel bir tartışmadan üç cümle seçin; her birini olgu, yorum veya tercih diye işaretleyin ve olgu için iki bağımsız kaynak bulun.",
+        "Gerçek ve Siyaset bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Siyaset görüş ve ikna alanıdır; fakat insanların hakkında farklı düşüneceği ortak olgusal dünya örgütlü yalanla yok edilirse çoğulluk ve özgür karar da dayanacağı zemini kaybeder.",
+        "Akılda tutulacak son görüntü, bordo, kül mavisi ve fildişi tonlarında farklı yönlere bakan insanların çevrelediği ortak masanın üzerinde sağlam birkaç belge taşı dururken, arkada imaj makinelerinin sahte manzaralar ürettiği sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Gerçek ve Siyaset adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-siyaset-ile-gercek-neden-gerilir": {
+      "image": "/images/summary-art-150-chapter-01-siyaset-ile-gercek-neden-gerilir-v1.webp",
+      "imageCaption": "Siyaset ile gerçek neden gerilir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-akilsal-gercek": {
+      "image": "/images/summary-art-150-chapter-02-akilsal-gercek-v1.webp",
+      "imageCaption": "Akılsal gerçek düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-olgusal-gercek": {
+      "image": "/images/summary-art-150-chapter-03-olgusal-gercek-v1.webp",
+      "imageCaption": "Olgusal gerçek düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-kanaat-ne-zaman-mesrudur": {
+      "image": "/images/summary-art-150-chapter-04-kanaat-ne-zaman-mesrudur-v1.webp",
+      "imageCaption": "Kanaat ne zaman meşrudur? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-gercek-neden-siyaseten-gucsuzdur": {
+      "image": "/images/summary-art-150-chapter-05-gercek-neden-siyaseten-gucsuzdur-v1.webp",
+      "imageCaption": "Gerçek neden siyaseten güçsüzdür? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-yalan-neden-siyasetin-eski-aracidir": {
+      "image": "/images/summary-art-150-chapter-06-yalan-neden-siyasetin-eski-aracidir-v1.webp",
+      "imageCaption": "Yalan neden siyasetin eski aracıdır? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-geleneksel-yalan": {
+      "image": "/images/summary-art-150-chapter-07-geleneksel-yalan-v1.webp",
+      "imageCaption": "Geleneksel yalan düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-orgutlu-yalan": {
+      "image": "/images/summary-art-150-chapter-08-orgutlu-yalan-v1.webp",
+      "imageCaption": "Örgütlü yalan düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-imaj-uretimi": {
+      "image": "/images/summary-art-150-chapter-09-imaj-uretimi-v1.webp",
+      "imageCaption": "İmaj üretimi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-yalanci-kendi-yalanina-inanirsa": {
+      "image": "/images/summary-art-150-chapter-10-yalanci-kendi-yalanina-inanirsa-v1.webp",
+      "imageCaption": "Yalancı kendi yalanına inanırsa düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-totaliter-gecmis-uretimi": {
+      "image": "/images/summary-art-150-chapter-11-totaliter-gecmis-uretimi-v1.webp",
+      "imageCaption": "Totaliter geçmiş üretimi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-tanigin-kirilganligi": {
+      "image": "/images/summary-art-150-chapter-12-tanigin-kirilganligi-v1.webp",
+      "imageCaption": "Tanığın kırılganlığı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-tarihci-ve-gazeteci": {
+      "image": "/images/summary-art-150-chapter-13-tarihci-ve-gazeteci-v1.webp",
+      "imageCaption": "Tarihçi ve gazeteci düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-gercegin-zorlayici-yani": {
+      "image": "/images/summary-art-150-chapter-14-gercegin-zorlayici-yani-v1.webp",
+      "imageCaption": "Gerçeğin zorlayıcı yanı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-ortak-dunya-olmadan-ozgurluk": {
+      "image": "/images/summary-art-150-chapter-15-ortak-dunya-olmadan-ozgurluk-v1.webp",
+      "imageCaption": "Ortak dünya olmadan özgürlük düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-sosyal-medya-caginda-gercek": {
+      "image": "/images/summary-art-150-chapter-16-sosyal-medya-caginda-gercek-v1.webp",
+      "imageCaption": "Sosyal medya çağında gerçek düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

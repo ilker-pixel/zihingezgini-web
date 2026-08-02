@@ -1,0 +1,348 @@
+{
+  "bookNo": 163,
+  "title": "Girişimci Devlet",
+  "author": "Mariana Mazzucato",
+  "subtitle": "Büyük teknolojik sıçramaları yalnız cesur özel girişimcilerin yapmadığını; devletin belirsiz, uzun vadeli ve pahalı araştırmalarda risk alıp yeni pazarlar kurduğunu gösteren ekonomi politik çalışması.",
+  "coverImage": "/images/summary-cover-163-girisimci-devlet-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/163-girisimci-devlet-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#C05A36",
+  "meta": {
+    "originalTitle": "The Entrepreneurial State",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Akıllı telefonun kapağında şirket logosu vardır; fakat içindeki internet, GPS, dokunmatik ekran ve ses tanıma yıllarca kamu bütçesiyle desteklenen araştırmalara dayanır. Mazzucato görünmeyen yatırımcının kim olduğunu sorar ve başarı hikâyesinin fotoğrafını genişletir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Penguin - The Entrepreneurial State",
+      "url": "https://www.penguinrandomhouse.com/books/740768/the-entrepreneurial-state-by-mariana-mazzucato/"
+    },
+    {
+      "id": 2,
+      "title": "Mariana Mazzucato - Table of Contents",
+      "url": "https://cms.marianamazzucato.com/wp-content/uploads/2021/04/TOC_Entrepreneurial_State.pdf"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Büyük teknolojik sıçramaları yalnız cesur özel girişimcilerin yapmadığını; devletin belirsiz, uzun vadeli ve pahalı araştırmalarda risk alıp yeni pazarlar kurduğunu gösteren ekonomi politik çalışması.",
+        "Kitap ABD, ilaç, biyoteknoloji, temiz enerji ve Apple örneklerine ağırlık verir. Rehber devletin her yatırımını iyi saymaz; yön, sabır, uzmanlık, denetim ve kamu payı koşullarını ayrı tutar.",
+        "Özel fon henüz müşterisi olmayan bir teknolojiye beş yıl beklemeyi riskli bulur. Kamu laboratuvarı ise on yıllık araştırmaya başlar; sonuç alınca şirketler ürünü hızla pazara taşır. Başarı özel, ilk belirsizlik kamusal görünür."
+      ]
+    },
+    {
+      "id": "durak-02-devlet-yalniz-gece-bekcisi-mi",
+      "section": "BİRİNCİ KISIM · ESKİ HİKÂYE",
+      "title": "Devlet yalnız gece bekçisi mi?",
+      "paragraphs": [
+        "Yaygın anlatı devleti piyasa aksadığında tamir yapan yavaş görevli, özel sektörü ise yeniliğin tek dinamik kaynağı gibi gösterir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Belediye çukuru kapatır, girişimci yeni araç yapar denir; oysa aracın kullandığı uydu ve ağ altyapısı uzun kamu yatırımından doğabilir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Kamu bürokrasisinin başarısızlıkları gerçektir ve romantikleştirilmemelidir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir yenilik haberinde son üründen önceki araştırma, altyapı ve eğitim zincirini geriye doğru izlemek gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-03-piyasa-duzeltmekten-pazar-kurmaya",
+      "section": "BİRİNCİ KISIM · YÖN",
+      "title": "Piyasa düzeltmekten pazar kurmaya",
+      "paragraphs": [
+        "Girişimci devlet yalnız mevcut piyasanın hatasını düzeltmez, henüz talep ve şirket bulunmayan alanlarda hedef belirleyip pazarın doğmasını sağlayabilir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Uzay programı roket siparişi verirken malzeme, yazılım ve iletişim alanlarında daha önce olmayan tedarik ağları kurar. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Devletin yön seçmesi yanlış teknolojiye kaynak kilitleme riski taşır. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Hedefin kamusal sorunla bağını, alternatifleri ve vazgeçme ölçüsünü baştan açık yazmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Piyasa düzeltmekten pazar kurmaya” ile Girişimci Devlet kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-belirsizlik-hesaplanabilir-riskten-farklidir",
+      "section": "İKİNCİ KISIM · UZUN VADE",
+      "title": "Belirsizlik hesaplanabilir riskten farklıdır",
+      "paragraphs": [
+        "Radikal yenilikte olasılıklar ve pazar bilinmediği için özel yatırımcı erken aşamada bekleyebilir; kamu belirsizliği üstlenebilir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Yeni molekülün işe yarayıp yaramayacağı, on yıl sonraki düzenleme ve kullanıcı henüz belli değildir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Kamu parası sınırsız sabır demek değildir; aşamalı değerlendirme gerekir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bir projede bilinen risk, bilinmeyen belirsizlik ve öğrenme hedefini ayrı sütunlarda göstermek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-05-temel-arastirmanin-gorunmeyen-yolu",
+      "section": "İKİNCİ KISIM · BİLGİ",
+      "title": "Temel araştırmanın görünmeyen yolu",
+      "paragraphs": [
+        "Kısa vadede ürüne dönüşmeyen temel araştırma yıllar sonra çok farklı sektörlerin ortak zemini olabilir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Kuantum fiziği çalışması yapılırken akıllı telefon kamerası planlanmamıştır ama sensör teknolojisinin yolu açılmıştır. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Her temel araştırma ticari sonuç üretmez ve değeri yalnız satışla ölçülemez. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Araştırma bütçesinde bilgi, insan yetiştirme ve toplumsal kapasiteyi de getiri olarak değerlendirmek gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Temel araştırmanın görünmeyen yolu” ile Girişimci Devlet kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-yenilik-dogrusal-bir-merdiven-degildir",
+      "section": "İKİNCİ KISIM · AĞ",
+      "title": "Yenilik doğrusal bir merdiven değildir",
+      "paragraphs": [
+        "Bilimden ürüne tek yönlü sıra yerine laboratuvar, kullanıcı, üretici, düzenleyici ve finansman arasında geri bildirimli ağ çalışır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Hastane yeni cihazı dener, sorun mühendise döner, kamu standardı değişir ve araştırma yeni soruyla devam eder. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Ağ söylemi sorumluluğu dağıtıp başarısız kararı görünmez kılmamalıdır. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir yenilik ekosisteminde para kadar bilgi ve sorun geri bildirimlerinin hangi yönde aktığını çizmek gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-07-internetin-kamusal-kokleri",
+      "section": "ÜÇÜNCÜ KISIM · DİJİTAL ALTYAPI",
+      "title": "İnternetin kamusal kökleri",
+      "paragraphs": [
+        "İnternetin temel protokolleri ve ağ deneyleri savunma ve üniversite kamu programlarının uzun vadeli finansmanıyla gelişti. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Bugün tek dokunuşla alışveriş yapan kullanıcı, onlarca yıl önce birbirine bağlanan araştırma bilgisayarlarının mirasını kullanır. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Kamu kökü sonraki özel tasarım ve ölçekleme başarısını değersizleştirmez. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Bir platformun değerini konuşurken altyapı, standart, veri ve son hizmet katkılarını ayrı görmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-08-gps-dokunmatik-ekran-ve-ses-tanima",
+      "section": "ÜÇÜNCÜ KISIM · AKILLI TELEFON",
+      "title": "GPS, dokunmatik ekran ve ses tanıma",
+      "paragraphs": [
+        "Akıllı telefonun devrimci görünen birçok bileşeni kamu programlarının desteklediği araştırma ve satın alma yoluyla olgunlaştı. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Yol bulan telefon uydu ağına, parmağı izleyen ekran malzeme araştırmasına, sesli komut yıllarca süren dil çalışmalarına yaslanır. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Bileşenlerin üründe ustaca birleşimi ve kullanıcı deneyimi özel şirketin gerçek katkısıdır. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Başarı öyküsünde temel bileşen, bütünleştirme, tasarım, üretim ve pazarlamayı adil biçimde paylaştırmak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “GPS, dokunmatik ekran ve ses tanıma” ile Girişimci Devlet kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-ilacta-kamu-riski-ozel-fiyat",
+      "section": "DÖRDÜNCÜ KISIM · SAĞLIK",
+      "title": "İlaçta kamu riski, özel fiyat",
+      "paragraphs": [
+        "Birçok önemli ilacın erken biyomedikal araştırması kamu fonuna dayanırken kârlı ürünün patent ve fiyat geliri özel elde yoğunlaşabilir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Vergiyle desteklenen molekül çalışması şirkete lisanslanır, hasta yıllar sonra aynı ilaca yüksek bedelle erişir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Şirketler klinik deney, başarısız aday ve üretim riskini de taşır. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Bir ilacın tüm yatırım zincirini, vergi desteğini, fiyatını ve erişim koşulunu birlikte incelemek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-10-ulusal-saglik-kurumlarinin-sabirli-sermayesi",
+      "section": "DÖRDÜNCÜ KISIM · PORTFÖY",
+      "title": "Ulusal sağlık kurumlarının sabırlı sermayesi",
+      "paragraphs": [
+        "Kamu sağlık kurumları tek kazanan seçmek yerine çok sayıda araştırma hattını uzun süre destekleyerek bilgi portföyü kurar. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Yüz laboratuvardan çoğu sonuç vermese de birkaç buluş bütün tedavi alanını değiştirebilir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Portföy mantığı zayıf projeyi sonsuza kadar sürdürmek için bahane olamaz. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Başarı oranını tek projede değil portföyde ölçerken şeffaf durdurma ve paylaşma kuralları koymak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Ulusal sağlık kurumlarının sabırlı sermayesi” ile Girişimci Devlet kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-yesil-donusum-kendiliginden-gelmez",
+      "section": "BEŞİNCİ KISIM · TEMİZ TEKNOLOJİ",
+      "title": "Yeşil dönüşüm kendiliğinden gelmez",
+      "paragraphs": [
+        "Karbon maliyeti, altyapı ve uzun öğrenme süresi nedeniyle temiz enerji dönüşümü hedefli kamu yatırımı ve düzenleme ister. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Şarj ağı yokken kimse elektrikli araç almaz, araç yokken şirket şarj ağı kurmaz; kamu ilk düğümü çözebilir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Yanlış sübvansiyon kirli şirketi koruyabilir veya siyasi kayırma yaratabilir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Desteği emisyon, öğrenme, yerli kapasite ve süre sonu ölçülerine bağlamak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-12-devlet-basarisiz-olursa-ne-olur",
+      "section": "BEŞİNCİ KISIM · HATA",
+      "title": "Devlet başarısız olursa ne olur?",
+      "paragraphs": [
+        "Girişimci yatırım deneme ve başarısızlığı içerir; yalnız kamu hatasını skandal, özel hatayı doğal risk saymak çift standarttır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "On güneş enerjisi girişiminden biri batar, diğerinin teknolojisi bütün maliyeti düşürür. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Kamu hatası yurttaş parasını kullandığı için güçlü denetim ve açıklama borcu taşır. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Projeyi sonuçtan sonra yargılamak yerine başlangıç kanıtı, süreç öğrenmesi ve çıkar çatışmasını birlikte değerlendirmek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Devlet başarısız olursa ne olur?” ile Girişimci Devlet kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-risk-toplumsal-odul-ozel",
+      "section": "ALTINCI KISIM · PAYLAŞIM",
+      "title": "Risk toplumsal, ödül özel",
+      "paragraphs": [
+        "Kamu başarısızlığın maliyetini üstlenip başarı gelirinden pay almazsa yeni yatırımlar için kaynak ve toplumsal meşruiyet aşınır. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Devlet şirkete ucuz kredi verir; ürün tutunca hissedar kazanır, tutmayınca borç vergiye kalır. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Kamu getirisi yalnız nakit değil istihdam, sağlık ve bilgi olabilir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Destek sözleşmesinde telif, hisse, fiyat şartı, vergi, açık lisans ve toplumsal yarar seçeneklerini birlikte düşünmek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-14-vergi-ve-geri-donus",
+      "section": "ALTINCI KISIM · KAMU PAYI",
+      "title": "Vergi ve geri dönüş",
+      "paragraphs": [
+        "Yenilikçi şirketlerin vergi kaçırması veya kârı başka yere taşıması kamunun ilk yatırımını yeni kuşak projelere döndürmesini zorlaştırır. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Kamu altyapısıyla büyüyen firma patent gelirini düşük vergili ülkeye kaydırır ve araştırma bütçesi daralır. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Aşırı vergi ve belirsiz kural yatırım kararını olumsuz etkileyebilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Vergi tartışmasında oran kadar kamu katkısı, gerçek faaliyet yeri ve uzun vadeli yeniden yatırım etkisini görmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-15-misyon-aya-gitmekten-iklimi-onarmaya",
+      "section": "YEDİNCİ KISIM · ORTAK HEDEF",
+      "title": "Misyon: Aya gitmekten iklimi onarmaya",
+      "paragraphs": [
+        "Açık ama tek teknolojiye kilitlenmeyen toplumsal misyonlar farklı kurum ve şirketleri ölçülebilir büyük sorun etrafında harekete geçirebilir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Ay görevi tek vida tarifi vermez; malzeme, hesaplama ve iletişim ekiplerini somut tarihe ve sonuca bağlar. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Slogan gibi geniş misyon hesap verme sağlamaz. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Misyonu zaman, hedef nüfus, ölçü, portföy ve yurttaş katılımıyla tanımlamak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Misyon: Aya gitmekten iklimi onarmaya” ile Girişimci Devlet kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-devlet-kapasitesi-nasil-kurulur",
+      "section": "YEDİNCİ KISIM · KURUM",
+      "title": "Devlet kapasitesi nasıl kurulur?",
+      "paragraphs": [
+        "Cesur kamu yatırımı uzman personel, kurumsal hafıza, koordinasyon ve hatadan öğrenme kapasitesi olmadan yalnız bütçe dağıtımına dönüşür. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "İyi mühendisleri tutamayan kurum, şirket teklifini değerlendiremez ve danışmana bağımlı kalır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Kapasite bahanesiyle kapalı teknokrasi kurmak demokratik denetimi zayıflatır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Kurumun maaş, veri, değerlendirme, şeffaflık ve yurttaş geri bildirimi altyapısını birlikte güçlendirmek gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ]
+    },
+    {
+      "id": "durak-17-basari-hikayesini-yeniden-yazmak",
+      "section": "SEKİZİNCİ KISIM · SONUÇ",
+      "title": "Başarı hikâyesini yeniden yazmak",
+      "paragraphs": [
+        "Yeniliği yalnız yalnız kahraman girişimciye bağlayan masal kamu katkısını gizler; daha doğru anlatı kolektif risk ve karşılıklı ödül düzeni kurar. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Sahnedeki ürünü tanıtan yönetici alkış alır, perde arkasındaki öğretmen, laboratuvar ve altyapı görünmez kalır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Kolektif başarı bireysel yaratıcılığı silmek anlamına gelmez. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir ürünün öyküsünü ilk bilimsel sorudan kullanıcıya kadar aktör ve kaynak haritasıyla anlatmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Başarı hikâyesini yeniden yazmak” ile Girişimci Devlet kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Mazzucato devletin özel sektörün yerine geçmesini veya her kamu harcamasının yenilikçi olduğunu söylemez. Özel girişim, üretim ve pazarlama önemlidir; mesele ilk riski ve ödülü dürüst paylaşmaktır.",
+        "Bir bakanın sevdiği şirkete para vermesi girişimci devlet değildir. Açık misyon, uzman değerlendirme, portföy, şeffaf hata ve kamuya dönüş koşulları yoksa kavram yalnız süs olur.",
+        "Girişimci Devlet için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Kitap yenilik politikası tartışmasını etkiledi; Avrupa Birliği ve birçok ülkede görev odaklı kamu yatırımı, yeşil dönüşüm ve kamu getirisi konuşmalarına girdi.",
+        "Seçilmiş başarı örneklerine fazla yaslandığı, devlet başarısızlığı ve siyasi kayırmayı küçümsediği, ABD savunma modelinin başka ülkelere kolay taşınamayacağı yönünde itirazlar aldı.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Girişimci Devlet bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "İlk belirsizliği kim taşıdı? Başarı geliri kime döndü? Yatırım mevcut pazarı mı onardı, yeni yön mü kurdu?",
+        "Kullandığınız bir teknolojiyi seçip beş durağını araştırın: temel bilim, kamu programı, özel geliştirme, altyapı ve fiyat. Her durakta riski kimin aldığını yazın.",
+        "Girişimci Devlet bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Radikal yenilik çoğu kez kolektif ve kamusal riskle başlar; adil düzen, yalnız başarıyı kutlamak değil ödülü yeni toplumsal yatırımlara geri döndürmektir.",
+        "Akılda tutulacak son görüntü, turuncu, lacivert ve elektrik yeşili tonlarında kamusal laboratuvardan çıkan ışık yollarının uyduya, ilaca, rüzgâr türbinine ve akıllı telefona dönüştüğü canlı bir yenilik şehridir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Girişimci Devlet adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-devlet-yalniz-gece-bekcisi-mi": {
+      "image": "/images/summary-art-163-chapter-01-devlet-yalniz-gece-bekcisi-mi-v1.webp",
+      "imageCaption": "Devlet yalnız gece bekçisi mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-piyasa-duzeltmekten-pazar-kurmaya": {
+      "image": "/images/summary-art-163-chapter-02-piyasa-duzeltmekten-pazar-kurmaya-v1.webp",
+      "imageCaption": "Piyasa düzeltmekten pazar kurmaya düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-belirsizlik-hesaplanabilir-riskten-farklidir": {
+      "image": "/images/summary-art-163-chapter-03-belirsizlik-hesaplanabilir-riskten-farklidir-v1.webp",
+      "imageCaption": "Belirsizlik hesaplanabilir riskten farklıdır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-temel-arastirmanin-gorunmeyen-yolu": {
+      "image": "/images/summary-art-163-chapter-04-temel-arastirmanin-gorunmeyen-yolu-v1.webp",
+      "imageCaption": "Temel araştırmanın görünmeyen yolu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-yenilik-dogrusal-bir-merdiven-degildir": {
+      "image": "/images/summary-art-163-chapter-05-yenilik-dogrusal-bir-merdiven-degildir-v1.webp",
+      "imageCaption": "Yenilik doğrusal bir merdiven değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-internetin-kamusal-kokleri": {
+      "image": "/images/summary-art-163-chapter-06-internetin-kamusal-kokleri-v1.webp",
+      "imageCaption": "İnternetin kamusal kökleri düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-gps-dokunmatik-ekran-ve-ses-tanima": {
+      "image": "/images/summary-art-163-chapter-07-gps-dokunmatik-ekran-ve-ses-tanima-v1.webp",
+      "imageCaption": "GPS, dokunmatik ekran ve ses tanıma düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-ilacta-kamu-riski-ozel-fiyat": {
+      "image": "/images/summary-art-163-chapter-08-ilacta-kamu-riski-ozel-fiyat-v1.webp",
+      "imageCaption": "İlaçta kamu riski, özel fiyat düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-ulusal-saglik-kurumlarinin-sabirli-sermayesi": {
+      "image": "/images/summary-art-163-chapter-09-ulusal-saglik-kurumlarinin-sabirli-sermayesi-v1.webp",
+      "imageCaption": "Ulusal sağlık kurumlarının sabırlı sermayesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-yesil-donusum-kendiliginden-gelmez": {
+      "image": "/images/summary-art-163-chapter-10-yesil-donusum-kendiliginden-gelmez-v1.webp",
+      "imageCaption": "Yeşil dönüşüm kendiliğinden gelmez düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-devlet-basarisiz-olursa-ne-olur": {
+      "image": "/images/summary-art-163-chapter-11-devlet-basarisiz-olursa-ne-olur-v1.webp",
+      "imageCaption": "Devlet başarısız olursa ne olur? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-risk-toplumsal-odul-ozel": {
+      "image": "/images/summary-art-163-chapter-12-risk-toplumsal-odul-ozel-v1.webp",
+      "imageCaption": "Risk toplumsal, ödül özel düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-vergi-ve-geri-donus": {
+      "image": "/images/summary-art-163-chapter-13-vergi-ve-geri-donus-v1.webp",
+      "imageCaption": "Vergi ve geri dönüş düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-misyon-aya-gitmekten-iklimi-onarmaya": {
+      "image": "/images/summary-art-163-chapter-14-misyon-aya-gitmekten-iklimi-onarmaya-v1.webp",
+      "imageCaption": "Misyon: Aya gitmekten iklimi onarmaya düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-devlet-kapasitesi-nasil-kurulur": {
+      "image": "/images/summary-art-163-chapter-15-devlet-kapasitesi-nasil-kurulur-v1.webp",
+      "imageCaption": "Devlet kapasitesi nasıl kurulur? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-basari-hikayesini-yeniden-yazmak": {
+      "image": "/images/summary-art-163-chapter-16-basari-hikayesini-yeniden-yazmak-v1.webp",
+      "imageCaption": "Başarı hikâyesini yeniden yazmak düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

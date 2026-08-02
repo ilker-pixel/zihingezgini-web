@@ -1,0 +1,360 @@
+{
+  "bookNo": 188,
+  "title": "Söylem ve Siyasi Analiz",
+  "author": "Paul Chilton",
+  "subtitle": "Siyasetin yalnız fikirlerle değil, konuşanın bizi zihinsel bir sahnede yakına-uzak, dost-düşman, mümkün-zorunlu yerlere koymasıyla işlediğini gösteren canlı dil çözümlemesi.",
+  "coverImage": "/images/summary-cover-188-soylem-ve-siyasi-analiz-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/188-soylem-ve-siyasi-analiz-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#4E718E",
+  "meta": {
+    "originalTitle": "Analysing Political Discourse: Theory and Practice",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir lider 'tehdit kapımıza dayandı' dediğinde ortada gerçek kapı yoktur. Yine de cümle tehdidi uzak bir ihtimalden eve yaklaşan cisme çevirir, konuşanı koruyucu merkeze koyar ve hızlı eylemi doğal gösterir. Chilton siyasi dilin bu mekânsal işini açar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Routledge - Analysing Political Discourse",
+      "url": "https://www.routledge.com/Analysing-Political-Discourse-Theory-and-Practice/Chilton/p/book/9781003406990"
+    },
+    {
+      "id": 2,
+      "title": "Google Books - Analysing Political Discourse",
+      "url": "https://books.google.co.uk/books/about/Analysing_Political_Discourse.html?id=sAJ_AgAAQBAJ"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Siyasetin yalnız fikirlerle değil, konuşanın bizi zihinsel bir sahnede yakına-uzak, dost-düşman, mümkün-zorunlu yerlere koymasıyla işlediğini gösteren canlı dil çözümlemesi.",
+        "Eser dil, siyaset, etkileşim, temsil ve meşrulaştırmayı bilişsel-pragmatik araçlarla inceler. Rehber zamir, önvarsayım, kiplik, metafor, konuşma eylemi, söylem uzayı, uzaklaştırma ve duyguyu açıklar; tek kelimeden konuşanın gizli niyetini kesin teşhis etmez.",
+        "Muhabir 'Hatanızı kabul ediyor musunuz?' diye sorar. Soru henüz kabul edilmemiş bir hatayı varsayar. Politikacı cevaplasa da reddetse de çerçeveyle mücadele eder. Dil yalnız bilgi taşımaz; konuşmanın hangi zeminde yapılacağını da kurar."
+      ]
+    },
+    {
+      "id": "durak-02-siyaset-dilsiz-olabilir-mi",
+      "section": "BİRİNCİ KISIM · BAŞLANGIÇ",
+      "title": "Siyaset dilsiz olabilir mi?",
+      "paragraphs": [
+        "Kurum, ittifak ve çatışma fizik güç taşısa da ortak karar, meşruiyet ve temsil dil olmadan bildiğimiz siyaset biçimine gelemez. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Yasa yalnız kâğıt değil neyin yasak ve hak olduğunu ilan eden söz eylemidir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Dil her siyasi sonucu tek başına yaratmaz. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Söylemi ekonomi, kurum ve zor araçlarıyla birlikte incelemek gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+      ]
+    },
+    {
+      "id": "durak-03-konusmak-da-eylemdir",
+      "section": "BİRİNCİ KISIM · EDİM",
+      "title": "Konuşmak da eylemdir",
+      "paragraphs": [
+        "Söz verme, suçlama, ilan ve emir cümleleri yalnız durumu betimlemez; uygun yetki ve bağlamda yeni ilişki kurar. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Meclis başkanı oturumu açtığını söyleyince toplantı resmen başlar. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Sözün gücü konuşanın yetki ve kabul koşuluna bağlıdır. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Cümlenin kim tarafından hangi kurum içinde söylendiğine bakmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Konuşmak da eylemdir” ile Söylem ve Siyasi Analiz kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-biz-ve-onlar",
+      "section": "BİRİNCİ KISIM · ZAMİR",
+      "title": "Biz ve onlar",
+      "paragraphs": [
+        "Zamirler toplumsal sınırı kısa yoldan kurar; kapsayıcı görünen biz kimin içeride olduğunu belirsiz bırakabilir. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Lider 'hepimiz bedel ödeyeceğiz' der ama bedeli bazı gruplar daha çok taşır. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Biz her zaman manipülasyon değildir; dayanışma da kurar. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Kapsanan, dışlanan ve bedel ödeyen kişileri açık isimlerle yazmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Biz ve onlar” ile Söylem ve Siyasi Analiz kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-soylem-uzayi",
+      "section": "İKİNCİ KISIM · HARİTA",
+      "title": "Söylem uzayı",
+      "paragraphs": [
+        "Konuşan kendini ben-şimdi-burada merkezine koyup kişileri, zamanları ve ihtimalleri zihinsel uzaya yerleştirir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Hükümet kendini güvenli merkez, rakibi uzak ve belirsiz bölge gibi sunar. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Model gerçek zihnin birebir resmi değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Metindeki konumları analitik araç olarak sınamak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Söylem uzayı” ile Söylem ve Siyasi Analiz kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-yakinlastirma",
+      "section": "İKİNCİ KISIM · TEHDİT",
+      "title": "Yakınlaştırma",
+      "paragraphs": [
+        "Uzak olayın bize doğru geldiğini anlatan dil aciliyet ve savunma duygusu üretir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Göç dalgası sınırlarımıza akıyor cümlesi insanları yaklaşan kütleye çevirir. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Gerçek tehlike de yakın olabilir; metafor onu yok saymaz. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Mesafe, kapasite ve insan yüzünü ayrı kanıtlarla kontrol etmek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Yakınlaştırma” ile Söylem ve Siyasi Analiz kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-kiplik-olabilir-olmali-kesin",
+      "section": "İKİNCİ KISIM · İHTİMAL",
+      "title": "Kiplik: Olabilir, olmalı, kesin",
+      "paragraphs": [
+        "Kiplik konuşanın bir olayın olasılığına, zorunluluğuna veya arzusuna verdiği dereceyi gösterir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Risk oluşabilir cümlesi birkaç tekrarda risk kesindir ve önlem şarttır zincirine dönüşür. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Dilbilgisel derece gerçek istatistik değildir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Olasılık kelimesini sayısal ve kaynaklı kanıtla karşılaştırmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-08-mesrulastirma",
+      "section": "İKİNCİ KISIM · HAKLILIK",
+      "title": "Meşrulaştırma",
+      "paragraphs": [
+        "Siyasi aktör eylemi otorite, ortak değer, yararlı sonuç veya kaçınılmazlık üzerinden haklı gösterebilir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Kesinti uzmanlar istedi, çocukları koruyacak ve başka yol yok denir. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Gerekçeler doğru da olabilir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Her gerekçeyi kanıt, alternatif ve bedel yönünden ayrı sınamak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Meşrulaştırma” ile Söylem ve Siyasi Analiz kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-gayrimesrulastirma",
+      "section": "ÜÇÜNCÜ KISIM · DÜŞMAN",
+      "title": "Gayrimeşrulaştırma",
+      "paragraphs": [
+        "Rakip akılsız, ahlaksız veya insanlık dışı gösterildiğinde sözü tartışılmadan değersizleşir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Muhalif görüş yerine konuşanın sadakati hedef alınır. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Eleştiri ile insanlıktan çıkarma aynı şey değildir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "İddiayı kişi etiketinden ayırıp doğrulanabilir parçaya dönmek gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ]
+    },
+    {
+      "id": "durak-10-onvarsayimin-gizli-yuku",
+      "section": "ÜÇÜNCÜ KISIM · ZEMİN",
+      "title": "Önvarsayımın gizli yükü",
+      "paragraphs": [
+        "Cümle tartışmalı bilgiyi zaten kabul edilmiş arka plan gibi taşıyabilir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Ülkeyi yeniden ne zaman düzelteceksiniz sorusu ülkenin bozuk ve muhatabın sorumlu olduğunu varsayar. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Her önvarsayım kötü niyetli değildir; konuşmayı ekonomik kılar. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Tartışmalı zemini cevap vermeden önce görünür etmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Önvarsayımın gizli yükü” ile Söylem ve Siyasi Analiz kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-metaforla-dusunmek",
+      "section": "ÜÇÜNCÜ KISIM · ÇERÇEVE",
+      "title": "Metaforla düşünmek",
+      "paragraphs": [
+        "Siyasette aile, beden, yol, hastalık ve savaş metaforları karmaşık olayı anlaşılır kılarken çözüm seçeneklerini de sınırlar. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Ekonomi hasta denince acı reçete ve uzman doktor doğal görünür. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Metafor kanıt değildir ve başka yönleri gizler. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Aynı olayı ikinci bir metaforla anlatıp değişen çözümü görmek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-12-siyasi-roportajin-oyunu",
+      "section": "ÜÇÜNCÜ KISIM · ETKİLEŞİM",
+      "title": "Siyasi röportajın oyunu",
+      "paragraphs": [
+        "Röportaj soru-cevap değil, gündem, yüz koruma, kesme ve kaçınmanın stratejik sıralamasıdır. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Muhabir evet-hayır ister, siyasetçi sorunun çerçevesini değiştirir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Kaçınma her zaman suçluluk kanıtı değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Sorunun önvarsayımıyla cevabın verdiği somut bilgiyi ayrı değerlendirmek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Siyasi röportajın oyunu” ile Söylem ve Siyasi Analiz kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-parlamento-dili",
+      "section": "DÖRDÜNCÜ KISIM · KURUM",
+      "title": "Parlamento dili",
+      "paragraphs": [
+        "Meclis konuşması resmî hitap, sıra ve kayıt kurallarıyla çatışmayı yönetirken aynı zamanda gösteri ve parti mesajı üretir. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Vekil rakibine doğrudan değil başkan üzerinden seslenir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Nezaket kuralı sert dışlamayı engellemeyebilir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Usulün kimi susturup kimi koruduğunu incelemek gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Parlamento dili” ile Söylem ve Siyasi Analiz kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-14-uzak-yerleri-konusmak",
+      "section": "DÖRDÜNCÜ KISIM · DIŞ POLİTİKA",
+      "title": "Uzak yerleri konuşmak",
+      "paragraphs": [
+        "Harita, yön ve medeniyet dili başka toplumları uzak, geri veya tehdit alanına yerleştirebilir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Uzak kriz ekran başında boş bölge ve müdahale sahası gibi anlatılır. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Coğrafi uzaklık gerçektir ama ahlaki uzaklık kuruludur. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Oradaki insanların adını, ajansını ve yerel tarihini metne geri koymak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Uzak yerleri konuşmak” ile Söylem ve Siyasi Analiz kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-irkciligin-dolayli-dili",
+      "section": "DÖRDÜNCÜ KISIM · SINIR",
+      "title": "Irkçılığın dolaylı dili",
+      "paragraphs": [
+        "Açık ırk sözü kullanılmadan kültür, yük, uyum ve güvenlik kelimeleri kalıcı biz-onlar hiyerarşisi kurabilir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Bazı insanlar denir, hangi grup olduğu ima ve örnek sırasıyla anlaşılır. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Her kültürel eleştiri ırkçılık değildir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Genelleme, özcülük, hak sonucu ve karşı örneği birlikte aramak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Irkçılığın dolaylı dili” ile Söylem ve Siyasi Analiz kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-din-ve-siyasi-temsil",
+      "section": "BEŞİNCİ KISIM · İNANÇ",
+      "title": "Din ve siyasi temsil",
+      "paragraphs": [
+        "Dini dil kutsal otorite, topluluk ve nihai değer sağlayarak siyasi eylemi güçlü biçimde meşrulaştırabilir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Politika pazarlık değil vazgeçilmez inanç görevi olarak çerçevelenir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Dindar söylem zorunlu olarak şiddet veya irrasyonellik değildir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Aynı inanç içindeki farklı siyasi yorumları görünür tutmak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-17-algoritmik-siyasi-dil",
+      "section": "ALTINCI KISIM · BUGÜN",
+      "title": "Algoritmik siyasi dil",
+      "paragraphs": [
+        "Kısa video ve öneri sistemleri yüksek duygu, keskin biz-onlar ve yakın tehdit dilini ödüllendirerek söylem uzayını daraltabilir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Sakin açıklama kaybolur, kapımıza dayandı cümlesi binlerce kez paylaşılır. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Algoritma insan niyetinin yerine geçen tek fail değildir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Platform teşviki, üretici seçimi ve izleyici alışkanlığını birlikte incelemek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Algoritmik siyasi dil” ile Söylem ve Siyasi Analiz kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Siyasi söylem analizi tek bir kelimeyi bulup konuşanı kötü ilan etme yöntemi değildir. Aynı dil aracı farklı bağlamlarda dürüst açıklama, dayanışma veya manipülasyon için kullanılabilir.",
+        "'Aile bütçesi gibi devlet bütçesi' metaforu anlaşılırdır ama devletin para yaratma ve uzun vadeli yatırım kapasitesini saklayabilir. Metafor yanlış olmak zorunda değil, eksiktir.",
+        "Söylem ve Siyasi Analiz için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Chilton bilişsel dilbilim, pragmatik ve siyaset analizini bir araya getirerek siyasi metnin zihinsel mekân ve etkileşim kurmasını görünür kıldı.",
+        "Bilişsel modellerin toplumsal sınıf ve kurumsal gücü inceltebildiği, analistin yorumunun doğrulanmasının zor olduğu, örneklerin Batı siyasetine yoğunlaştığı ve dil etkisinin maddi nedenlere üstün tutulabildiği eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Söylem ve Siyasi Analiz bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Konuşan merkezi nereye koyuyor? Kim bize yaklaştırılıp tehdit yapılıyor? Olasılık nasıl zorunluluğa çevriliyor?",
+        "Bir siyasi cümlede zamirleri, mekân sözlerini, kipliği ve önvarsayımı işaretleyin; sonra aynı olayı başka merkezden yeniden yazın.",
+        "Söylem ve Siyasi Analiz bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Siyasi dil yalnız dünyayı anlatmaz; konuşanı ve dinleyeni bir zihinsel sahnede konumlandırır, ihtimal ve zorunluluk derecelerini ayarlar, eylemi meşru veya rakibi uzak gösterir.",
+        "Akılda tutulacak son görüntü, çelik mavisi, bordo ve soluk altın tonlarında bir konuşma kürsüsünden çıkan sözcüksüz dalgaların insanları yakın-uzak, biz-onlar ve mümkün-zorunlu halkalara yerleştirdiği soyut sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Söylem ve Siyasi Analiz adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-siyaset-dilsiz-olabilir-mi": {
+      "image": "/images/summary-art-188-chapter-01-siyaset-dilsiz-olabilir-mi-v1.webp",
+      "imageCaption": "Siyaset dilsiz olabilir mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-konusmak-da-eylemdir": {
+      "image": "/images/summary-art-188-chapter-02-konusmak-da-eylemdir-v1.webp",
+      "imageCaption": "Konuşmak da eylemdir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-biz-ve-onlar": {
+      "image": "/images/summary-art-188-chapter-03-biz-ve-onlar-v1.webp",
+      "imageCaption": "Biz ve onlar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-soylem-uzayi": {
+      "image": "/images/summary-art-188-chapter-04-soylem-uzayi-v1.webp",
+      "imageCaption": "Söylem uzayı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-yakinlastirma": {
+      "image": "/images/summary-art-188-chapter-05-yakinlastirma-v1.webp",
+      "imageCaption": "Yakınlaştırma düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-kiplik-olabilir-olmali-kesin": {
+      "image": "/images/summary-art-188-chapter-06-kiplik-olabilir-olmali-kesin-v1.webp",
+      "imageCaption": "Kiplik: Olabilir, olmalı, kesin düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-mesrulastirma": {
+      "image": "/images/summary-art-188-chapter-07-mesrulastirma-v1.webp",
+      "imageCaption": "Meşrulaştırma düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-gayrimesrulastirma": {
+      "image": "/images/summary-art-188-chapter-08-gayrimesrulastirma-v1.webp",
+      "imageCaption": "Gayrimeşrulaştırma düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-onvarsayimin-gizli-yuku": {
+      "image": "/images/summary-art-188-chapter-09-onvarsayimin-gizli-yuku-v1.webp",
+      "imageCaption": "Önvarsayımın gizli yükü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-metaforla-dusunmek": {
+      "image": "/images/summary-art-188-chapter-10-metaforla-dusunmek-v1.webp",
+      "imageCaption": "Metaforla düşünmek düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-siyasi-roportajin-oyunu": {
+      "image": "/images/summary-art-188-chapter-11-siyasi-roportajin-oyunu-v1.webp",
+      "imageCaption": "Siyasi röportajın oyunu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-parlamento-dili": {
+      "image": "/images/summary-art-188-chapter-12-parlamento-dili-v1.webp",
+      "imageCaption": "Parlamento dili düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-uzak-yerleri-konusmak": {
+      "image": "/images/summary-art-188-chapter-13-uzak-yerleri-konusmak-v1.webp",
+      "imageCaption": "Uzak yerleri konuşmak düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-irkciligin-dolayli-dili": {
+      "image": "/images/summary-art-188-chapter-14-irkciligin-dolayli-dili-v1.webp",
+      "imageCaption": "Irkçılığın dolaylı dili düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-din-ve-siyasi-temsil": {
+      "image": "/images/summary-art-188-chapter-15-din-ve-siyasi-temsil-v1.webp",
+      "imageCaption": "Din ve siyasi temsil düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-algoritmik-siyasi-dil": {
+      "image": "/images/summary-art-188-chapter-16-algoritmik-siyasi-dil-v1.webp",
+      "imageCaption": "Algoritmik siyasi dil düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

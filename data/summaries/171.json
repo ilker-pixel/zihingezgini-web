@@ -1,0 +1,354 @@
+{
+  "bookNo": 171,
+  "title": "Ağ Toplumunun Yükselişi",
+  "author": "Manuel Castells",
+  "subtitle": "Bilgi teknolojisi, küresel ekonomi ve esnek örgütlerin üretimden işe, medyadan şehir ve zamana kadar toplumu ağ mantığıyla yeniden kurduğunu anlatan Bilgi Çağı üçlemesinin büyük ilk cildi.",
+  "coverImage": "/images/summary-cover-171-ag-toplumunun-yukselisi-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/171-ag-toplumunun-yukselisi-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#2F6C8C",
+  "meta": {
+    "originalTitle": "The Rise of the Network Society",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir tasarım İstanbul'da yapılır, yazılım Hindistan'da yazılır, parça Vietnam'da üretilir, ödeme New York ağından geçer. Ortada tek fabrika yoktur; düğümler ve akışlar vardır. Castells yeni toplumun temel biçimini bu ağda görür.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Wiley - The Rise of the Network Society",
+      "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781444319514"
+    },
+    {
+      "id": 2,
+      "title": "Springer - Der Aufstieg der Netzwerkgesellschaft Contents",
+      "url": "https://link.springer.com/book/10.1007/978-3-658-11322-3"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Bilgi teknolojisi, küresel ekonomi ve esnek örgütlerin üretimden işe, medyadan şehir ve zamana kadar toplumu ağ mantığıyla yeniden kurduğunu anlatan Bilgi Çağı üçlemesinin büyük ilk cildi.",
+        "Kitap teknoloji her şeyi tek başına belirler demez; teknik yenilik, kapitalist yeniden yapılanma, devlet ve örgüt kararlarının karşılaşmasını inceler. Rehber teknoloji devrimi, enformasyonel ekonomi, ağ işletmesi, esnek iş, gerçek sanallık, akışlar uzamı ve zamansız zamanı sırayla ele alır.",
+        "Küçük şirketin siparişi bir gecede dünyanın dört yanındaki üretici, banka ve taşıyıcıya dağılır. Ağ iyi çalışınca hız görünür, çalışanlar görünmez. Tek liman kapanınca da bütün sistemin ne kadar kırılgan olduğu anlaşılır."
+      ]
+    },
+    {
+      "id": "durak-02-ag-ve-benlik",
+      "section": "BİRİNCİ KISIM · PROLOG",
+      "title": "Ağ ve benlik",
+      "paragraphs": [
+        "Castells ağların küresel gücü büyürken insanların anlam ve kimliği daha yerel, dinî veya ulusal dayanaklarda arayabildiği gerilimi kitabın başına koyar. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Uzaktan çalışan genç küresel şirkete bağlıyken mahalle hareketinde güçlü aidiyet bulur. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Ağ ile kimlik her zaman düşman değildir ve yeni topluluklar çevrimiçi kurulabilir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Bir çatışmada maddi bağlantıyla anlam veren aidiyeti ayrı ama ilişkili incelemek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Ağ ve benlik” ile Ağ Toplumunun Yükselişi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-03-bilgi-teknolojisi-devrimi",
+      "section": "İKİNCİ KISIM · TEKNOLOJİ",
+      "title": "Bilgi teknolojisi devrimi",
+      "paragraphs": [
+        "Mikroelektronik, bilgisayar, telekomünikasyon ve genetikteki yenilikler bilgiyi işleme ve yeniden uygulama kapasitesini sıçratmıştır. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Yazılım tasarımı aynı ağda anında denenip güncellenir, üretim bilgisi üretimin kendisini hızlandırır. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Buluşların kökü kamu yatırımı, savaş ve üniversite ağlarını da içerir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Teknoloji kahramanı hikâyesinin arkasındaki kurum ve ortak emeği görünür kılmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-04-teknoloji-toplumu-tek-basina-belirlemez",
+      "section": "İKİNCİ KISIM · ETKİLEŞİM",
+      "title": "Teknoloji toplumu tek başına belirlemez",
+      "paragraphs": [
+        "Teknik araçlar toplumsal ihtiyaç ve güç içinde seçilir; toplum da ortaya çıkan araçların açtığı imkanla yeniden biçimlenir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Aynı internet altyapısı bir ülkede kamusal eğitim, diğerinde ticari gözetim ağına ağırlık verebilir. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Seçim vurgusu maddi altyapının gerçek sınırlarını yok etmez. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir dijital dönüşümde teknik kapasite, iş modeli ve devlet kuralını birlikte incelemek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Teknoloji toplumu tek başına belirlemez” ile Ağ Toplumunun Yükselişi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-enformasyonalizm",
+      "section": "ÜÇÜNCÜ KISIM · YENİ ÜRETİM",
+      "title": "Enformasyonalizm",
+      "paragraphs": [
+        "Yeni kalkınma biçiminde üretkenliğin ana kaynağı bilgi üretme, işleme ve geri besleme kapasitesidir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Fabrikanın değeri yalnız makineden değil hatayı veriden öğrenip tasarımı hızla değiştiren sistemden gelir. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Maddi üretim ve kol emeği ortadan kalkmaz. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Dijital değerin arkasındaki maden, enerji, lojistik ve bakım emeğini hesaba katmak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Enformasyonalizm” ile Ağ Toplumunun Yükselişi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-kuresel-ekonomi",
+      "section": "ÜÇÜNCÜ KISIM · EŞZAMANLILIK",
+      "title": "Küresel ekonomi",
+      "paragraphs": [
+        "Sermaye, büyük pazarlar ve stratejik üretim unsurları dünya ölçeğinde gerçek zamanlı ağlar içinde birlikte işleyebilir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Döviz dalgası saniyeler içinde yatırım ve fabrika kararını farklı kıtalarda etkiler. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Dünya nüfusunun tamamı ağa eşit biçimde dahil değildir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Bağlantının merkez, çevre ve ağ dışında bırakılan bölgeler üzerindeki farklı sonucunu görmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-07-ag-isletmesi",
+      "section": "ÜÇÜNCÜ KISIM · ÖRGÜT",
+      "title": "Ağ işletmesi",
+      "paragraphs": [
+        "Başarılı örgüt tek dikey şirketten çok değişen proje ve pazara göre birleşip ayrılan firma, ekip ve tedarikçi ağına dönüşür. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Marka tasarım ve satışta kalır, üretimi birçok bağımsız atölyeye dağıtır. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Esneklik sorumluluğu ve riski zayıf düğümlere aktarabilir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Kârın ve kriz maliyetinin ağdaki hangi sözleşme halkasında toplandığını izlemek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Ağ işletmesi” ile Ağ Toplumunun Yükselişi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-agin-temel-mantigi",
+      "section": "DÖRDÜNCÜ KISIM · DÜĞÜM",
+      "title": "Ağın temel mantığı",
+      "paragraphs": [
+        "Ağ açık, genişleyebilir ve yeniden düzenlenebilir; değeri düğümlerin tekil gücü kadar bağlantı kurma ve akışı işleme kapasitesinden doğar. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Yeni satıcı ortak standarda uyarsa sisteme hızla eklenir, uymayan iyi üretici dışarıda kalır. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Açıklık her zaman demokratik erişim değildir; protokolü güçlü aktör belirler. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bağlanma şartını, ağdan çıkarılma hakkını ve standart yönetimini sorgulamak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-09-aglayanlar-issizler-esnek-zamanlilar",
+      "section": "DÖRDÜNCÜ KISIM · EMEK",
+      "title": "Ağlayanlar, işsizler, esnek zamanlılar",
+      "paragraphs": [
+        "Bilgi ekonomisi yüksek becerili ağ kurucularına fırsat verirken bazı işleri otomatikleştirir, parçalar ve güvencesizleştirir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Proje yöneticisi kıtalar arasında çalışır, depo işçisi saatlik çağrıya göre bekler. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Teknoloji tek başına işsizliğin değişmez nedeni değildir; kurum ve eğitim önemlidir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Verimlilik kazancıyla iş güvencesi, beceri ve pazarlık gücünü birlikte ölçmek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Ağlayanlar, işsizler, esnek zamanlılar” ile Ağ Toplumunun Yükselişi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-bireysellesen-emek",
+      "section": "DÖRDÜNCÜ KISIM · PARÇALANMA",
+      "title": "Bireyselleşen emek",
+      "paragraphs": [
+        "Standart toplu iş ilişkileri yerini kişiye özel sözleşme, proje ve performans değerlendirmesine bıraktıkça çalışanların ortak pazarlığı zorlaşır. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Aynı işi yapan iki serbest çalışan farklı ücret alır ve birbirinin koşulunu bilmez. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Esnek çalışma bazı kişilere gerçek özerklik sağlar. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Esnekliğin zaman kontrolünü çalışana mı şirkete mi verdiğini somut takvim üzerinden görmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-11-kitlesel-izleyicinin-sonu",
+      "section": "BEŞİNCİ KISIM · MEDYA",
+      "title": "Kitlesel izleyicinin sonu",
+      "paragraphs": [
+        "Çok kanallı ve etkileşimli iletişim tek merkezli kitle medyasını parçalayarak hedefli ve katılımcı ağlar üretir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Aile aynı akşam tek haber yerine farklı akış, oyun ve topluluk izler. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Parçalanma merkezî platform gücünün bittiği anlamına gelmez. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Seçenek çokluğunun arkasında öneri algoritması ve sahiplik yoğunlaşmasını incelemek gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Kitlesel izleyicinin sonu” ile Ağ Toplumunun Yükselişi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-12-gercek-sanallik-kulturu",
+      "section": "BEŞİNCİ KISIM · ANLAM",
+      "title": "Gerçek sanallık kültürü",
+      "paragraphs": [
+        "Elektronik iletişimde imgeler yalnız gerçeği temsil etmez; insanların deneyim ve eylemini düzenleyen gerçek bir ortam haline gelir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Çevrimiçi itibar iş görüşmesini ve gerçek gelir fırsatını doğrudan etkiler. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Sanal ile gerçek iki ayrı dünya değildir; bedensel ve maddi sonuçlar iç içedir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Ekrandaki mesajın hangi çevrimdışı karar, emek ve mekânı değiştirdiğini izlemek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-13-akislar-uzami",
+      "section": "ALTINCI KISIM · MEKÂN",
+      "title": "Akışlar uzamı",
+      "paragraphs": [
+        "Ağ toplumunun egemen işlevleri fiziksel yakınlıktan çok sermaye, bilgi ve yönetim akışlarını bağlayan düğümler arasında örgütlenir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Finans merkezi, veri merkezi ve havaalanı birbirine yan mahalleden daha yakın işleyebilir. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Yerlerin gündelik hayatı kaybolmaz; akışlara eşitsiz biçimde bağlanır. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Şehir yatırımında küresel düğüm kadar mahalle hizmeti ve konut hakkını değerlendirmek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Akışlar uzamı” ile Ağ Toplumunun Yükselişi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-14-kuresel-sehir-ve-ikili-yapi",
+      "section": "ALTINCI KISIM · ŞEHİR",
+      "title": "Küresel şehir ve ikili yapı",
+      "paragraphs": [
+        "Ağ düğümü olan kentler yüksek gelirli hizmetleri çekerken aynı altyapıyı ayakta tutan düşük ücretli emekle keskin mekânsal ayrım üretebilir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Gökdelen çalışanına yemek getiren işçi saatlerce uzaktaki mahalleden gelir. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Her büyük şehir aynı ikili kalıba uymaz ve kamu politikası fark yaratır. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Şehir başarısını yatırım yanında kira, ulaşım süresi ve hizmet erişimiyle ölçmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Küresel şehir ve ikili yapı” ile Ağ Toplumunun Yükselişi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-zamansiz-zaman",
+      "section": "YEDİNCİ KISIM · ZAMAN",
+      "title": "Zamansız zaman",
+      "paragraphs": [
+        "Ağlar olay sırasını sıkıştırıp bozarak anlık finans, sürekli çalışma ve arşivlenmiş geçmişi aynı şimdide birleştirir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Gece gelen e-posta iş gününü uzatır, eski video bugün yeniden siyasal olay olur. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Biyolojik ve kurumsal zaman tamamen ortadan kalkmaz. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Hızın kime kazanç sağladığını ve dinlenme ile bakım zamanını kimin koruduğunu sormak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-16-hiz-ile-uzun-omur-yan-yana",
+      "section": "YEDİNCİ KISIM · ÇELİŞKİ",
+      "title": "Hız ile uzun ömür yan yana",
+      "paragraphs": [
+        "Teknoloji işlemleri saniyelere indirirken tıp ömrü uzatır; ağ toplumu farklı zaman ritimlerini eşitsiz biçimde üst üste bindirir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Finansçı milisaniyede işlem yapar, yaşlı bakımında yıllar süren sabır gerekir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Her süreci hız ölçüsüne sokmak bakım ve öğrenmeyi bozar. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir kurumda hızlandırılacak iş ile yavaş kalması gereken ilişkiyi açıkça ayırmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Hız ile uzun ömür yan yana” ile Ağ Toplumunun Yükselişi kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-ag-toplumunun-secici-kapisi",
+      "section": "SEKİZİNCİ KISIM · SONUÇ",
+      "title": "Ağ toplumunun seçici kapısı",
+      "paragraphs": [
+        "Ağ mantığı toplumu kapsarken işe yaramayan insan ve yerleri bağlantıdan çıkarabilir; dahil olma kadar programı kimin yazdığı belirleyicidir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Hızlı internet gelmeyen köy bilgi ekonomisinde görünmezleşir, bağlantı geldiğinde de yalnız tüketici kalabilir. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Ağ dışı olmak bazen özerk alan koruyabilir fakat çoğu zaman güç kaybıdır. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Erişim politikasını cihazdan öte beceri, üretim yetkisi ve ortak standart yönetimiyle kurmak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Castells 'internet çıktı ve toplum kendiliğinden ağ oldu' demez. Ağ biçimi teknoloji, kapitalist yeniden yapılanma, devlet stratejisi ve kültürel kullanımın karşılaşmasıyla yükselir; teknoloji etkili ama tek başına kader değildir.",
+        "Uzaktan çalışma yazılımı bir kooperatifte kararları dağıtabilir, başka şirkette merkezi gözetimi artırabilir. Aynı teknik altyapı farklı mülkiyet ve kuralla başka ağ toplumu üretir.",
+        "Ağ Toplumunun Yükselişi için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser Bilgi Çağı üçlemesinin temel cildi olarak iletişim, kent, emek, ekonomi ve küreselleşme çalışmalarını derinden etkiledi; 'akışlar uzamı' ve 'zamansız zaman' kalıcı kavramlar oldu.",
+        "Teknoloji determinizminden kaçındığını söylese de teknolojiye fazla kurucu rol verdiği, ağ dışındaki hiyerarşi ve bakım ilişkilerini geri plana attığı, büyük veri yığınının nedensel açıklamayı zorlaştırdığı ve küresel Güney'i eşitsiz temsil ettiği eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Ağ Toplumunun Yükselişi bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Bu ağın düğümleri kim, protokolü kim yazıyor? Akış hızlanırken risk hangi zayıf halkaya gidiyor? Yerel hayat küresel düğüm uğruna ne kaybediyor?",
+        "Kullandığınız bir hizmetin ağını çizin: cihaz, çalışan, şirket, veri merkezi, ödeme ve lojistik düğümleri. Bir düğüm kesilince kimin işi ve geliri duruyor, işaretleyin.",
+        "Ağ Toplumunun Yükselişi bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Bilgi çağının temel örgütü ağdır: değer ve güç akışları esnek düğümler arasında dolaşır; bu yapı büyük hız ve yenilik kadar seçici dışlanma, güvencesizlik ve yeni zaman-mekân eşitsizliği yaratır.",
+        "Akılda tutulacak son görüntü, turkuaz, elektrik mavisi ve sıcak mercan tonlarında dünya haritası boyunca uzanan ışıklı düğümlerin fabrika, ekran, havaalanı ve evleri bağladığı; bazı karanlık yerlerin ağın dışında kaldığı geniş gece manzarasıdır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Ağ Toplumunun Yükselişi adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-ag-ve-benlik": {
+      "image": "/images/summary-art-171-chapter-01-ag-ve-benlik-v1.webp",
+      "imageCaption": "Ağ ve benlik düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-bilgi-teknolojisi-devrimi": {
+      "image": "/images/summary-art-171-chapter-02-bilgi-teknolojisi-devrimi-v1.webp",
+      "imageCaption": "Bilgi teknolojisi devrimi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-teknoloji-toplumu-tek-basina-belirlemez": {
+      "image": "/images/summary-art-171-chapter-03-teknoloji-toplumu-tek-basina-belirlemez-v1.webp",
+      "imageCaption": "Teknoloji toplumu tek başına belirlemez düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-enformasyonalizm": {
+      "image": "/images/summary-art-171-chapter-04-enformasyonalizm-v1.webp",
+      "imageCaption": "Enformasyonalizm düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-kuresel-ekonomi": {
+      "image": "/images/summary-art-171-chapter-05-kuresel-ekonomi-v1.webp",
+      "imageCaption": "Küresel ekonomi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-ag-isletmesi": {
+      "image": "/images/summary-art-171-chapter-06-ag-isletmesi-v1.webp",
+      "imageCaption": "Ağ işletmesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-agin-temel-mantigi": {
+      "image": "/images/summary-art-171-chapter-07-agin-temel-mantigi-v1.webp",
+      "imageCaption": "Ağın temel mantığı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-aglayanlar-issizler-esnek-zamanlilar": {
+      "image": "/images/summary-art-171-chapter-08-aglayanlar-issizler-esnek-zamanlilar-v1.webp",
+      "imageCaption": "Ağlayanlar, işsizler, esnek zamanlılar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-bireysellesen-emek": {
+      "image": "/images/summary-art-171-chapter-09-bireysellesen-emek-v1.webp",
+      "imageCaption": "Bireyselleşen emek düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-kitlesel-izleyicinin-sonu": {
+      "image": "/images/summary-art-171-chapter-10-kitlesel-izleyicinin-sonu-v1.webp",
+      "imageCaption": "Kitlesel izleyicinin sonu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-gercek-sanallik-kulturu": {
+      "image": "/images/summary-art-171-chapter-11-gercek-sanallik-kulturu-v1.webp",
+      "imageCaption": "Gerçek sanallık kültürü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-akislar-uzami": {
+      "image": "/images/summary-art-171-chapter-12-akislar-uzami-v1.webp",
+      "imageCaption": "Akışlar uzamı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-kuresel-sehir-ve-ikili-yapi": {
+      "image": "/images/summary-art-171-chapter-13-kuresel-sehir-ve-ikili-yapi-v1.webp",
+      "imageCaption": "Küresel şehir ve ikili yapı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-zamansiz-zaman": {
+      "image": "/images/summary-art-171-chapter-14-zamansiz-zaman-v1.webp",
+      "imageCaption": "Zamansız zaman düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-hiz-ile-uzun-omur-yan-yana": {
+      "image": "/images/summary-art-171-chapter-15-hiz-ile-uzun-omur-yan-yana-v1.webp",
+      "imageCaption": "Hız ile uzun ömür yan yana düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-ag-toplumunun-secici-kapisi": {
+      "image": "/images/summary-art-171-chapter-16-ag-toplumunun-secici-kapisi-v1.webp",
+      "imageCaption": "Ağ toplumunun seçici kapısı düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

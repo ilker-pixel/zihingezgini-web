@@ -1,0 +1,351 @@
+{
+  "bookNo": 51,
+  "title": "Normal ve Patolojik",
+  "author": "Georges Canguilhem",
+  "subtitle": "Sağlığı yalnız ortalamaya uymak değil, değişen koşullarda yeni yaşam kuralları yaratabilmek; hastalığı da sayılardaki sapmadan çok daralan hayat imkanı olarak düşündüren tıp felsefesi klasiği.",
+  "coverImage": "/images/summary-cover-51-normal-ve-patolojik-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/51-normal-ve-patolojik-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#397B72",
+  "meta": {
+    "originalTitle": "Le normal et le pathologique",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Laboratuvar sonucu nüfus ortalamasından sapmış olabilir, ama kişi dağa tırmanıyor, çalışıyor ve kendini iyi hissediyordur. Başka biri bütün sayıları normal olduğu halde yatağından kalkamaz. Canguilhem tıbbın en basit görünen sorusunu açar: Normal dediğimiz şeyi kim ve neye göre belirliyor?",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Springer - The Normal and the Pathological",
+      "url": "https://link.springer.com/book/10.1007/978-94-009-9853-7"
+    },
+    {
+      "id": 2,
+      "title": "Bibliothèque nationale de France - Le normal et le pathologique",
+      "url": "https://catalogue.bnf.fr/ark:/12148/cb414776630"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Sağlığı yalnız ortalamaya uymak değil, değişen koşullarda yeni yaşam kuralları yaratabilmek; hastalığı da sayılardaki sapmadan çok daralan hayat imkanı olarak düşündüren tıp felsefesi klasiği.",
+        "Metin doktorlara reçete veren klinik kılavuz değil, normal ve patolojik kavramlarının tarihsel-felsefi incelemesidir. Rehber istatistik, ideal, organizmanın norm kurması, hasta deneyimi ve klinik yargıyı ayırır; çağdaş tanı ve engellilik tartışmalarına temkinli köprüler kurar.",
+        "Şeker ölçümü tek başına rakamdır. Aynı rakam bir kişide geçici uyum, diğerinde susuzluk, yorgunluk ve organ hasarıyla giden hastalık olabilir. Tıp sayıyı ciddiye alır ama o sayının bir hayatın içinde ne yaptığını sormadan bitiremez."
+      ]
+    },
+    {
+      "id": "durak-02-normal-kelimesinin-iki-yuzu",
+      "section": "BİRİNCİ KISIM · SORU",
+      "title": "Normal kelimesinin iki yüzü",
+      "paragraphs": [
+        "Normal bazen sık görülen ortalamayı, bazen olması gereken iyi ve doğru durumu anlatır; iki anlam fark edilmeden birbirine geçirilir. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Çoğu insan günde sekiz saat oturuyor diye oturmak sağlığın ideali olmaz. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "İstatistik değersiz değildir fakat değer hükmünü tek başına vermez. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Bir sağlık tavsiyesinde 'yaygın' ile 'iyi' sözcüklerinin gizlice yer değiştirip değiştirmediğini sormak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ]
+    },
+    {
+      "id": "durak-03-ortalama-insan-yoktur",
+      "section": "BİRİNCİ KISIM · İSTATİSTİK",
+      "title": "Ortalama insan yoktur",
+      "paragraphs": [
+        "Ortalama ölçüm topluluğu karşılaştırmaya yarar ama yaşayan bireyin bütün işlevini temsil eden gerçek bir kişi değildir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Ortalama ayak ölçüsüne göre yapılan ayakkabı toplumun büyük bölümüne tam oturmayabilir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Bireysel fark vurgusu güvenli aralık ve nüfus araştırmasını geçersiz kılmaz. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Rakamı karar verirken belirtiler, geçmiş, çevre ve kişinin yapabildikleriyle birlikte okumak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Ortalama insan yoktur” ile Normal ve Patolojik kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-broussais-nin-nicelik-tezi",
+      "section": "İKİNCİ KISIM · TARİH",
+      "title": "Broussais'nin nicelik tezi",
+      "paragraphs": [
+        "On dokuzuncu yüzyıl tıbbında hastalığın normal işlevin yalnız fazla ya da eksik derecesi olduğu düşüncesi güç kazandı. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Ateş sağlıklı ısının yükselmiş miktarı, salgı bozukluğu normal salgının fazlası gibi açıklanır. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Nicelik ölçümü birçok hastalıkta vazgeçilmezdir ama yaşanan değişimin niteliğini tüketmez. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir eşik aşılınca yalnız miktarın değil kişinin dünyayla ilişkisinin de değişip değişmediğine bakmak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-05-claude-bernard-ve-sureklilik",
+      "section": "İKİNCİ KISIM · DENEY",
+      "title": "Claude Bernard ve süreklilik",
+      "paragraphs": [
+        "Deneysel fizyoloji normal ile hastalık arasında kesintisiz ölçülebilir geçiş arayarak tıbba güçlü bir bilimsel zemin verdi. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Kandaki şeker miktarı yükseldikçe belirli bedensel sonuçların izlendiği deney dizisi kurulur. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Laboratuvar koşulu hastanın gündelik çevresini ve anlamını sadeleştirir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Deney sonucunu kliniğe taşırken ölçümün hangi yaşam koşulunda üretildiğini belirtmek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Claude Bernard ve süreklilik” ile Normal ve Patolojik kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-hastalik-baska-bir-yasam-duzenidir",
+      "section": "ÜÇÜNCÜ KISIM · NİTELİK",
+      "title": "Hastalık başka bir yaşam düzenidir",
+      "paragraphs": [
+        "Canguilhem hastalığı yalnız daha az sağlık değil, organizmanın çevreyle ilişkisinin yeni ve çoğu kez daha dar bir biçimi sayar. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Astımı olan çocuk düz yolda rahat yürür ama soğuk hava ve merdiven bir anda dünyasını engellerle doldurur. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Her kronik farklılık sürekli acı veya eksik hayat anlamına gelmez. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Tanıyı kişinin değişen ortamlarda ne yapabildiği ve hangi bedeli ödediği üzerinden anlamak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Hastalık başka bir yaşam düzenidir” ile Normal ve Patolojik kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-hasta-oldugunu-once-kim-bilir",
+      "section": "ÜÇÜNCÜ KISIM · DENEYİM",
+      "title": "Hasta olduğunu önce kim bilir?",
+      "paragraphs": [
+        "Tıp insanların acı çekmesi, yapabildiklerini kaybetmesi ve yardım istemesiyle başlar; patoloji bilimi bu çağrıdan sonra gelişir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Laboratuvar değeri sınırda olan kişi 'artık nefesim yetmiyor' diyerek klinik soruyu başlatır. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Öznel his tek başına doğru tanı koymaz ve belirti vermeyen hastalıklar vardır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Hasta anlatısını ölçümün rakibi değil, neyin araştırılacağını gösteren birincil kanıt olarak dinlemek gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-08-canli-norm-kurar",
+      "section": "DÖRDÜNCÜ KISIM · NORMATİFLİK",
+      "title": "Canlı norm kurar",
+      "paragraphs": [
+        "Organizma çevreden gelen kurala pasifçe uymaz; yaşamak için kendi uygun sıcaklık, beslenme ve hareket sınırlarını etkin biçimde kurar. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Kutup insanı soğuğa giysi, barınak, metabolizma ve alışkanlıkla birlikte cevap verir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Norm kurma sınırsız irade değildir; beden ve çevre ciddi sınırlar koyar. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Uyumu yalnız kişiden beklemek yerine çevrenin değiştirilebilir bölümünü de hesaba katmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Canlı norm kurar” ile Normal ve Patolojik kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-saglik-degiskenlige-dayanabilmektir",
+      "section": "DÖRDÜNCÜ KISIM · SAĞLIK",
+      "title": "Sağlık değişkenliğe dayanabilmektir",
+      "paragraphs": [
+        "Sağlıklı olmak tek sabit dengede kalmaktan çok yeni sıcaklık, iş, mikrop ve alışkanlık karşısında başka normlar kurabilme gücüdür. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Tatile çıkan kişi farklı yemek ve uyku saatine geçip sonra eski düzenine dönebilir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Esneklik ideali insanı sürekli performansa zorlama bahanesi olmamalıdır. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Sağlığı tek sonuç yerine toparlanma, seçenek ve değişime tahammül kapasitesiyle değerlendirmek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-10-hastalik-dunyayi-daraltir",
+      "section": "DÖRDÜNCÜ KISIM · ÇEVRE",
+      "title": "Hastalık dünyayı daraltır",
+      "paragraphs": [
+        "Patolojik durumda kişi yaşayabilir ama daha az çevrede, daha katı koşullara bağlı ve sürprizlere daha dayanıksız hale gelebilir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
+        "Kalp hastası yalnız düz, serin ve yakın rotaları seçmek zorunda kaldığında şehir onun için küçülür. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Daralma tıbbi bakım ve erişilebilir tasarımla kısmen değiştirilebilir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Sorunu yalnız bedende değil merdiven, çalışma saati ve ulaşım düzeninde de aramak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Hastalık dünyayı daraltır” ile Normal ve Patolojik kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-anomali-hastalik-degildir",
+      "section": "BEŞİNCİ KISIM · FARK",
+      "title": "Anomali hastalık değildir",
+      "paragraphs": [
+        "Nadir veya ortalamadan farklı özellik kişi için zarar üretmiyorsa sırf alışılmadık olduğu için patolojik sayılamaz. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Solak çocuk sınıfta azınlıktadır ama bu farklılık tedavi edilmesi gereken bozukluk değildir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Zararsızlık değerlendirmesi koşula ve kişinin sesine bağlıdır. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Farklı olanı düzeltmeden önce gerçek acı, işlev kaybı ve kişinin isteği bulunup bulunmadığını sormak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-12-canavar-ornegi-ve-yasamin-imkani",
+      "section": "BEŞİNCİ KISIM · ANOMALİ",
+      "title": "Canavar örneği ve yaşamın imkanı",
+      "paragraphs": [
+        "Gelişimde sıra dışı biçimler doğanın tek kusursuz kalıba göre çalışmadığını, yaşamın yeni biçimler deneyebildiğini gösterir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Nadir doğumsal yapı doktor için bilgi, kişi için hem kimlik hem bakım ihtiyacı olabilir. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Tarihsel 'canavar' dili insan onurunu zedeleyen bir miras taşır. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Tıbbi sınıflamayı kişinin hak ve öz anlatısını silmeyecek bir dille kurmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Canavar örneği ve yaşamın imkanı” ile Normal ve Patolojik kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-cevre-tarafsiz-bir-kutu-degildir",
+      "section": "BEŞİNCİ KISIM · İLİŞKİ",
+      "title": "Çevre tarafsız bir kutu değildir",
+      "paragraphs": [
+        "Neyin hastalık gibi yaşandığı beden ile fiziksel ve toplumsal çevrenin karşılaşmasında belirginleşir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Tekerlekli sandalye kullanan kişinin güçlüğü kas yapısı kadar asansörsüz binadan doğar. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Çevresel açıklama ağrı ve biyolojik bakım ihtiyacını inkâr etmemelidir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Tedaviyi beden müdahalesi, yardımcı araç ve erişilebilir çevre seçenekleriyle birlikte tasarlamak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-14-klinik-ile-laboratuvarin-konusmasi",
+      "section": "ALTINCI KISIM · TIP",
+      "title": "Klinik ile laboratuvarın konuşması",
+      "paragraphs": [
+        "İyi tıp ölçülebilir hastalık süreçleriyle kişinin yaşadığı sıkıntıyı birbirine çeviren sürekli bir klinik yargı gerektirir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Görüntüleme temiz çıkar ama ağrı sürer; doktor sonucu son söz değil yeni soru olarak kullanır. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Klinik sezgi denetimsiz otoriteye dönüşebilir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Belirsizlikte ikinci görüş, izlem, açık gerekçe ve ortak karar mekanizması kurmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-15-tedavi-eskiye-donmek-degildir",
+      "section": "ALTINCI KISIM · İYİLEŞME",
+      "title": "Tedavi eskiye dönmek değildir",
+      "paragraphs": [
+        "Hastalıktan çıkan beden çoğu zaman önceki masum dengeye dönmez; yaşanabilir yeni norm ve alışkanlık kurar. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Kalp krizinden sonra kişi aynı tempoya dönmek yerine yürüyüş, ilaç ve dinlenmeyle başka bir hayat ritmi geliştirir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Yeni norma uyum bakım eksikliğini normalleştirmek için kullanılamaz. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "İyileşmeyi yalnız test sonucu değil kişinin geri kazandığı özgürlük ve anlamla da izlemek gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Tedavi eskiye dönmek değildir” ile Normal ve Patolojik kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-genetik-hata-dili",
+      "section": "YEDİNCİ KISIM · YENİ BİLİM",
+      "title": "Genetik hata dili",
+      "paragraphs": [
+        "Moleküler biyolojide hata ve kod dili açıklayıcı olsa da canlı farkını bozuk yazım gibi ahlaki çağrışımlarla damgalayabilir. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Bir gen varyantı belirli çevrede risk, başka çevrede nötr hatta koruyucu olabilir. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Bazı mutasyonlar açık ve ağır hastalık nedenidir; dil eleştirisi bunu silmez. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Genetik sonucu olasılık, çevre ve tedavi imkanıyla birlikte anlatmak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ]
+    },
+    {
+      "id": "durak-17-normalin-siyaseti",
+      "section": "YEDİNCİ KISIM · SONUÇ",
+      "title": "Normalin siyaseti",
+      "paragraphs": [
+        "Okul, sigorta ve işyeri normal beden ölçüsünü kural yaptığında tıbbi kavram toplumsal dışlama aracına dönüşebilir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Standart vardiyaya uymayan kronik hasta yetersiz sayılır, esnek saat verilince aynı işi başarır. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Her ortak standart baskı değildir ve koordinasyon için bazı eşikler gerekir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Standardın amacını, kanıtını ve makul uyarlama imkanını düzenli olarak yeniden sınamak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Normalin siyaseti” ile Normal ve Patolojik kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Canguilhem 'herkes kendi normalini seçer, tıbbi ölçüm önemsizdir' demez. Biyolojik gerçekliği ciddiye alır; itirazı, ölçüm ortalamasını yaşayan kişinin iyiliğiyle karıştırmaya ve hastalığı yalnız sayı farkına indirmeyedir.",
+        "Nabzı ortalamanın altında olan eğitimli koşucu sağlıklı olabilir; aynı sayı baygınlık yaşayan başka biri için tehlikelidir. Rakam aynıdır, organizmanın yaşam imkanı farklıdır.",
+        "Normal ve Patolojik için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser tıp felsefesi, bilim tarihi, engellilik çalışmaları ve Michel Foucault dahil Fransız düşüncesi üzerinde kalıcı iz bıraktı; sağlık tanımını uyum ve norm yaratma gücü üzerinden yeniledi.",
+        "Normatiflik kavramının bazen fazla geniş ve mecazi kaldığı, hasta deneyimine verilen önemin sessiz hastalıkları açıklamakta yetersiz olabileceği ve toplumsal eşitsizliklerin ilk metinde sınırlı işlendiği söylendi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Normal ve Patolojik bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Yaygın olan neden iyi sayılsın? Hastalık bu kişinin dünyasını nasıl daraltıyor? Tedavi hangi yeni özgürlüğü geri verecek?",
+        "Bir sağlık ölçümü seçin. Nüfus ortalamasını, kendi belirtilerinizi, günlük yapabildiklerinizi ve çevresel engelleri dört ayrı satırda yazın; hiçbirini tek başına hüküm yapmayın.",
+        "Normal ve Patolojik bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Sağlık kusursuz ortalamaya uymak değil, değişen dünyada yeni yaşama yolları kurabilme gücüdür; hastalık ise bu norm yaratma ve çevre değiştirme imkanının acı verici biçimde daralmasıdır.",
+        "Akılda tutulacak son görüntü, turkuaz, koyu yeşil ve mercan tonlarında düz bir ölçüm çizgisinin canlı bir nabız, dallanan patika ve farklı iklimlerde büyüyen bitkilere dönüştüğü hareketli yaşam haritasıdır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Normal ve Patolojik adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-normal-kelimesinin-iki-yuzu": {
+      "image": "/images/summary-art-51-chapter-01-normal-kelimesinin-iki-yuzu-v1.webp",
+      "imageCaption": "Normal kelimesinin iki yüzü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-ortalama-insan-yoktur": {
+      "image": "/images/summary-art-51-chapter-02-ortalama-insan-yoktur-v1.webp",
+      "imageCaption": "Ortalama insan yoktur düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-broussais-nin-nicelik-tezi": {
+      "image": "/images/summary-art-51-chapter-03-broussais-nin-nicelik-tezi-v1.webp",
+      "imageCaption": "Broussais'nin nicelik tezi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-claude-bernard-ve-sureklilik": {
+      "image": "/images/summary-art-51-chapter-04-claude-bernard-ve-sureklilik-v1.webp",
+      "imageCaption": "Claude Bernard ve süreklilik düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-hastalik-baska-bir-yasam-duzenidir": {
+      "image": "/images/summary-art-51-chapter-05-hastalik-baska-bir-yasam-duzenidir-v1.webp",
+      "imageCaption": "Hastalık başka bir yaşam düzenidir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-hasta-oldugunu-once-kim-bilir": {
+      "image": "/images/summary-art-51-chapter-06-hasta-oldugunu-once-kim-bilir-v1.webp",
+      "imageCaption": "Hasta olduğunu önce kim bilir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-canli-norm-kurar": {
+      "image": "/images/summary-art-51-chapter-07-canli-norm-kurar-v1.webp",
+      "imageCaption": "Canlı norm kurar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-saglik-degiskenlige-dayanabilmektir": {
+      "image": "/images/summary-art-51-chapter-08-saglik-degiskenlige-dayanabilmektir-v1.webp",
+      "imageCaption": "Sağlık değişkenliğe dayanabilmektir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-hastalik-dunyayi-daraltir": {
+      "image": "/images/summary-art-51-chapter-09-hastalik-dunyayi-daraltir-v1.webp",
+      "imageCaption": "Hastalık dünyayı daraltır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-anomali-hastalik-degildir": {
+      "image": "/images/summary-art-51-chapter-10-anomali-hastalik-degildir-v1.webp",
+      "imageCaption": "Anomali hastalık değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-canavar-ornegi-ve-yasamin-imkani": {
+      "image": "/images/summary-art-51-chapter-11-canavar-ornegi-ve-yasamin-imkani-v1.webp",
+      "imageCaption": "Canavar örneği ve yaşamın imkanı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-cevre-tarafsiz-bir-kutu-degildir": {
+      "image": "/images/summary-art-51-chapter-12-cevre-tarafsiz-bir-kutu-degildir-v1.webp",
+      "imageCaption": "Çevre tarafsız bir kutu değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-klinik-ile-laboratuvarin-konusmasi": {
+      "image": "/images/summary-art-51-chapter-13-klinik-ile-laboratuvarin-konusmasi-v1.webp",
+      "imageCaption": "Klinik ile laboratuvarın konuşması düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-tedavi-eskiye-donmek-degildir": {
+      "image": "/images/summary-art-51-chapter-14-tedavi-eskiye-donmek-degildir-v1.webp",
+      "imageCaption": "Tedavi eskiye dönmek değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-genetik-hata-dili": {
+      "image": "/images/summary-art-51-chapter-15-genetik-hata-dili-v1.webp",
+      "imageCaption": "Genetik hata dili düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-normalin-siyaseti": {
+      "image": "/images/summary-art-51-chapter-16-normalin-siyaseti-v1.webp",
+      "imageCaption": "Normalin siyaseti düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

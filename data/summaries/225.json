@@ -1,0 +1,351 @@
+{
+  "bookNo": 225,
+  "title": "Yeryüzünün Lanetlileri",
+  "author": "Frantz Fanon",
+  "subtitle": "Sömürge düzeninin toprağı, bedeni ve zihni nasıl böldüğünü; bağımsızlık mücadelesinin şiddet, sınıf, ulusal kültür ve ruhsal yaralarla dolu çelişkilerini anlatan sarsıcı çalışma.",
+  "coverImage": "/images/summary-cover-225-yeryuzunun-lanetlileri-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/225-yeryuzunun-lanetlileri-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#7D3A2E",
+  "meta": {
+    "originalTitle": "Les Damnés de la Terre",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir şehir ikiye ayrılmıştır: ışıklı, temiz, korunan sömürgeci bölgesi ve kontrol noktalarının ardındaki yoksul yerli mahalle. Fanon'a göre bu yalnız gelir farkı değildir; kimin insan, kimin tehdit sayıldığını her gün öğreten maddi bir duvardır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Grove Atlantic - The Wretched of the Earth",
+      "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia - Frantz Fanon",
+      "url": "https://plato.stanford.edu/entries/frantz-fanon/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Sömürge düzeninin toprağı, bedeni ve zihni nasıl böldüğünü; bağımsızlık mücadelesinin şiddet, sınıf, ulusal kültür ve ruhsal yaralarla dolu çelişkilerini anlatan sarsıcı çalışma.",
+        "Kitap Cezayir bağımsızlık savaşı sırasında, 1961'de yazıldı. Rehber Fanon'un şiddet analizini tarihsel ve eleştirel aktarır; sivillere zarar vermeyi övmez, ruhsal ve siyasi maliyeti görünür tutar. Sartre'ın önsözü Fanon'un kendi metni değildir.",
+        "Psikiyatrist Fanon, işkence gören kişiyi de işkence uygulayan askeri de klinikte görür. Sömürge savaşı yalnız sınır ve bayrak değil, uykusuzluk, korku, öfke ve parçalanmış benlik olarak bedenlerin içine girer."
+      ]
+    },
+    {
+      "id": "durak-02-bolunmus-somurge-dunyasi",
+      "section": "BİRİNCİ KISIM · MEKÂN",
+      "title": "Bölünmüş sömürge dünyası",
+      "paragraphs": [
+        "Fanon sömürge toplumunu yalnız eşitsiz değil polis, sınır ve ırk işaretleriyle iki ayrı insanlık bölgesine ayrılmış bir dünya olarak anlatır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Bir yanda geniş caddeler ve temiz su, öte yanda geçiş izniyle ulaşılan kalabalık mahalle vardır. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Bütün sömürge toplumları aynı şehir planına ve ikiliğe sahip değildir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir kentte hizmet farkının sınıf yanında etnik ve hukuki sınırlarla nasıl güçlendiğini haritalamak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-03-somurgecilik-yalniz-yonetim-degildir",
+      "section": "BİRİNCİ KISIM · İNSANLIK",
+      "title": "Sömürgecilik yalnız yönetim değildir",
+      "paragraphs": [
+        "Sömürge düzeni ekonomik el koymayı yerlinin aşağı, çocuksu veya tehlikeli olduğu hikâyesiyle meşrulaştırır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Toprağı alınan çiftçiye aynı anda çalışmayı bilmediği söylenir; kayıp onun kusuru gibi sunulur. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Yerel toplum içindeki sınıf ve cinsiyet eşitsizlikleri sömürgecilikle açıklanıp geçilemez. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bir üstünlük anlatısında maddi kazancı ve onu doğal gösteren insan tasvirini birlikte görmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Sömürgecilik yalnız yönetim değildir” ile Yeryüzünün Lanetlileri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-siddet-once-duzenin-icinde",
+      "section": "İKİNCİ KISIM · ZOR",
+      "title": "Şiddet önce düzenin içinde",
+      "paragraphs": [
+        "Fanon sömürge düzeninin baştan askerî zor ve gündelik tehdit üzerine kurulduğunu; karşı şiddetin boşluktan doğmadığını söyler. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Kontrol noktası, toprak zorla alma ve toplu ceza yıllarca olağan yönetim diye sürer. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Kökeni açıklamak sivile yönelen şiddeti haklı veya kaçınılmaz yapmaz. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir çatışmada yalnız son patlamayı değil öncesindeki hukuk, güç ve zarar zincirini incelemek gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Şiddet önce düzenin içinde” ile Yeryüzünün Lanetlileri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-05-siddetin-ozgurlestirici-oldugu-iddiasi",
+      "section": "İKİNCİ KISIM · TARTIŞMALI TEZ",
+      "title": "Şiddetin özgürleştirici olduğu iddiası",
+      "paragraphs": [
+        "Fanon bazı koşullarda ortak direnişin sömürgeleştirilmiş kişiye edilgen nesne değil siyasi özne olduğunu hissettirdiğini savunur. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Yıllarca başını eğmesi istenen kişi örgütlü eylemde korkunun paylaşılabildiğini ve karar verebildiğini görür. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Şiddet travma, intikam döngüsü, otoriter örgüt ve masum kayıp da üretir; özgürlük garantisi değildir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Tarihsel tezi bugünkü çatışmaya slogan olarak taşımadan sivil koruma ve şiddetsiz yolların imkânını öncelemek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-06-kendiliginden-isyanin-gucu",
+      "section": "ÜÇÜNCÜ KISIM · HAREKET",
+      "title": "Kendiliğinden isyanın gücü",
+      "paragraphs": [
+        "Kırsal halk ve kent yoksulları kurulu sömürge düzeninden daha az pay aldıkları için radikal kopuşun güçlü aktörleri olabilir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Parti yöneticileri görüşme beklerken köylerde vergi ve toprak baskısına karşı dayanışma hızla yayılır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Yoksulluk otomatik devrimci bilinç üretmez ve yerel çatışmalar hareketi bölebilir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir harekette öfkenin kaynağı, örgütlenme kapasitesi ve ortak hedefi ayrı değerlendirmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Kendiliğinden isyanın gücü” ile Yeryüzünün Lanetlileri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-07-kendiligindenligin-zayifligi",
+      "section": "ÜÇÜNCÜ KISIM · ÖRGÜT",
+      "title": "Kendiliğindenliğin zayıflığı",
+      "paragraphs": [
+        "Yerel patlama uzun vadeli program, iletişim ve hesap verme olmadan dağılabilir veya yeni seçkinlerce kullanılabilir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Bir kasabada başarı kazanan grup komşu bölgelerle bağ kuramaz ve güç boşluğu silahlı lidere kalır. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Aşırı merkezî örgüt de halkın sözünü susturabilir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Hızlı eylem ile açık karar usulü, yerel bilgi ve uzun vadeli kurum arasında denge kurmak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-08-ulusal-burjuvazinin-tuzagi",
+      "section": "DÖRDÜNCÜ KISIM · BAĞIMSIZLIK SONRASI",
+      "title": "Ulusal burjuvazinin tuzağı",
+      "paragraphs": [
+        "Sömürgeci yönetimin yerini alan yerli seçkinler üretim ve dönüşüm yerine eski aracılık gelirini paylaşırsa bayrak değişir, düzen sürer. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Yeni yönetici ithalat lisansını akrabaya verir; fabrika ve köy hizmeti kurulmaz ama makam yerelleşir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Yeni devletlerin bütün başarısızlığını yerli seçkine yüklemek dış müdahale ve yapısal mirası gizler. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bağımsızlık ölçüsünü yönetici kimliğinden çok mülkiyet, hizmet, katılım ve üretim değişimiyle değerlendirmek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Ulusal burjuvazinin tuzağı” ile Yeryüzünün Lanetlileri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-tek-parti-neden-tehlikeli-olabilir",
+      "section": "DÖRDÜNCÜ KISIM · İKTİDAR",
+      "title": "Tek parti neden tehlikeli olabilir?",
+      "paragraphs": [
+        "Kurtuluş hareketi devlete dönüşünce halkın canlı katılımını sürdürmek yerine parti bürokrasisini ulusun tek sesi ilan edebilir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Savaşta mahalle toplantısı yapan kadrolar iktidarda eleştiriyi ihanet saymaya başlar. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Yeni devletin güvenlik baskısı gerçek tehditlerle de karşılaşabilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Olağanüstü tedbirin süre, denetim, yargı ve itiraz sınırını açık tutmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-10-baskent-ile-koy-arasindaki-ucurum",
+      "section": "DÖRDÜNCÜ KISIM · KALKINMA",
+      "title": "Başkent ile köy arasındaki uçurum",
+      "paragraphs": [
+        "Bağımsızlık yatırımı yalnız başkent vitrini ve turizme akarsa kırsal çoğunluk sömürge dönemindeki dışlanmayı başka adla yaşar. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Yeni otel ve tören meydanı açılırken köy yolu, su ve sağlık ocağı bekler. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Kent yatırımı tümüyle gereksiz değildir; ülke ölçeğinde bağ ve hizmet dağılımı önemlidir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bütçede gösterişli proje ile gündelik kapasite harcamasını coğrafi olarak karşılaştırmak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Başkent ile köy arasındaki uçurum” ile Yeryüzünün Lanetlileri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-ulusal-bilinc-etnik-kabuga-sikisirsa",
+      "section": "DÖRDÜNCÜ KISIM · KİMLİK",
+      "title": "Ulusal bilinç etnik kabuğa sıkışırsa",
+      "paragraphs": [
+        "Ortak kurtuluş fikri sosyal programla beslenmezse etnik saflık, yabancı düşmanlığı ve bölgesel rekabete dönüşebilir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "İş azlığının nedeni eski ekonomi iken komşu topluluktan esnaf kolay hedef yapılır. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Kimlik bağı ve tarihsel onarım ihtiyacı başlı başına yanlış değildir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Bir ulusal söylemin hakları genişletip genişletmediğini ve maddi sorunu kime yönelttiğini sormak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-12-ulusal-kultur-muze-degildir",
+      "section": "BEŞİNCİ KISIM · KÜLTÜR",
+      "title": "Ulusal kültür müze değildir",
+      "paragraphs": [
+        "Fanon ulusal kültürü donmuş folklor değil halkın bugünkü özgürlük mücadelesi içinde ürettiği canlı anlam ve eylem olarak görür. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Sanatçı yalnız eski deseni kopyalamak yerine bugünkü işçinin ve köylünün değişen dilini eserine taşır. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Sanatı yalnız siyasi göreve bağlamak estetik özgürlüğü daraltabilir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir kültür politikasında geçmişi koruma, bugünkü yaratım ve farklı seslerin alanını birlikte düşünmek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-13-somurge-aydininin-uc-donemi",
+      "section": "BEŞİNCİ KISIM · AYDIN",
+      "title": "Sömürge aydınının üç dönemi",
+      "paragraphs": [
+        "Fanon aydının önce sömürgeci kültürü taklit ettiğini, sonra kayıp geçmişi romantikleştirdiğini, sonunda halkın mücadelesine katılan yeni dil aradığını anlatır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Yazar önce merkez edebiyatının biçimini kullanır, sonra efsanelere döner, en sonunda yaşayan mahalle dilini dinler. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Üç dönem herkesin izleyeceği zorunlu yol değildir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir üreticinin kimin için, hangi dilde ve hangi gerçek ilişki içinde konuştuğunu sormak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Sömürge aydınının üç dönemi” ile Yeryüzünün Lanetlileri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-14-dil-ve-insanlik-degeri",
+      "section": "BEŞİNCİ KISIM · SES",
+      "title": "Dil ve insanlık değeri",
+      "paragraphs": [
+        "Sömürge dili doğru konuşma ölçüsü üzerinden kişiye zekâ ve insanlık derecesi verir; yerli dilin değersizleştirilmesi benliği böler. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Çocuk evdeki aksanını okulda saklar, kabul görmek için ailesinin sesinden utanmaya başlar. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Ortak dil kamusal iletişim sağlayabilir; sorun zorunlu aşağılık hiyerarşisidir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Dil eğitiminde yeni erişim kazandırırken ana dili ve aksanı utanç kaynağı yapmamak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-15-savasin-ruhsal-yaralari",
+      "section": "ALTINCI KISIM · KLİNİK",
+      "title": "Savaşın ruhsal yaraları",
+      "paragraphs": [
+        "Fanon vaka öyküleriyle işkence, yerinden edilme ve sürekli korkunun uyku, beden, ilişki ve saldırganlık üzerinde kalıcı izler bıraktığını gösterir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "Gece baskını yaşayan çocuk kapı sesinde donar; savaş bitse bile beden tehlikenin sürdüğünü sanır. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Tarihsel vaka anlatıları bugünkü kişiye uzaktan tanı koymak için kullanılamaz. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Travma yaşayan kişiye siyasi açıklama kadar güvenli ortam, uzman bakım ve uzun süreli destek sağlamak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Savaşın ruhsal yaraları” ile Yeryüzünün Lanetlileri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-fail-de-siddetin-icine-bozulur",
+      "section": "ALTINCI KISIM · İŞKENCE",
+      "title": "Fail de şiddetin içine bozulur",
+      "paragraphs": [
+        "Sömürge şiddeti yalnız kurbanı değil emir uygulayan kişiyi de duyarsızlaşma, korku ve ruhsal parçalanma içine çeker. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "İşkenceci gündüz görev dediği eylemin ardından gece ailesine öfke ve kâbus taşır. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Failin ruhsal zararı mağdurla ahlaki eşitlik kurmaz ve sorumluluğu kaldırmaz. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Kurumda yasa dışı emri önleyen eğitim, denetim, tanıklık ve hesap verme kanalları kurmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-17-avrupa-yi-taklit-etmeden-yeni-insanlik",
+      "section": "YEDİNCİ KISIM · SONUÇ",
+      "title": "Avrupa'yı taklit etmeden yeni insanlık",
+      "paragraphs": [
+        "Fanon bağımsızlığın eski Avrupa devlet ve kalkınma modelini kopyalamak değil, daha katılımcı ve insani yeni kurumlar kurmak olduğunu söyler. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Eski valinin sarayına yeni bayrak asmak yerine köy toplantısının bütçe kararına katıldığı bir düzen hayal eder. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Yeni insan söylemi somut kurum ve hak olmadan boş romantizme dönüşebilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Özgürleşmeyi isim ve simgeden çok güç dağılımı, yaşam koşulu ve insan onurundaki değişimle ölçmek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Avrupa'yı taklit etmeden yeni insanlık” ile Yeryüzünün Lanetlileri kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Fanon'un kitabını 'şiddet her zaman iyidir' cümlesine indirmek hem metnin sömürge şiddeti teşhisini hem örgüt, kültür, sınıf ve ruhsal yaralar bölümlerini yok eder.",
+        "Bir kişinin öfke içinde güç hissetmesi özgür ve adil kurumların kurulduğunu göstermez; Fanon bağımsızlık sonrasında yeni seçkinlerin aynı düzeni sürdürebileceğini özellikle anlatır.",
+        "Yeryüzünün Lanetlileri için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser sömürgecilik sonrası düşünce, kurtuluş hareketleri, psikiyatri ve ırk çalışmalarının kurucu metinlerinden oldu; dünyanın farklı bölgelerinde hem ilham hem sert tartışma yarattı.",
+        "Şiddetin dönüştürücü gücünü romantikleştirme riski, erkek merkezli dil, kırsal kitle genellemeleri ve ulusal çerçevenin farklı kimlikleri sıkıştırması eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Yeryüzünün Lanetlileri bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Düzen şiddeti nerede görünmez kılıyor? Bayrak değişince mülkiyet ve katılım değişti mi? Özgürleşme bedende ve günlük hayatta hissediliyor mu?",
+        "Yaşadığınız kentte iki mahalleyi su, ulaşım, güvenlik denetimi ve kamusal söz hakkı bakımından karşılaştırın; farkı yalnız kültüre değil kurum ve bütçeye bağlayın.",
+        "Yeryüzünün Lanetlileri bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Sömürgecilik toprakla birlikte insanlık duygusunu da böler; gerçek özgürleşme yalnız yönetici yüzünü değil güç, kültür, ekonomi ve ruhsal yaşamın bütününü dönüştürmek zorundadır.",
+        "Akılda tutulacak son görüntü, pas kırmızısı, gece mavisi ve altın tonlarında duvarla ikiye bölünmüş bir şehrin çatlağından yükselen ortak insan siluetleri, arkada kırılan kontrol kapıları ve iyileşen köklerdir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Yeryüzünün Lanetlileri adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-bolunmus-somurge-dunyasi": {
+      "image": "/images/summary-art-225-chapter-01-bolunmus-somurge-dunyasi-v1.webp",
+      "imageCaption": "Bölünmüş sömürge dünyası düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-somurgecilik-yalniz-yonetim-degildir": {
+      "image": "/images/summary-art-225-chapter-02-somurgecilik-yalniz-yonetim-degildir-v1.webp",
+      "imageCaption": "Sömürgecilik yalnız yönetim değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-siddet-once-duzenin-icinde": {
+      "image": "/images/summary-art-225-chapter-03-siddet-once-duzenin-icinde-v1.webp",
+      "imageCaption": "Şiddet önce düzenin içinde düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-siddetin-ozgurlestirici-oldugu-iddiasi": {
+      "image": "/images/summary-art-225-chapter-04-siddetin-ozgurlestirici-oldugu-iddiasi-v1.webp",
+      "imageCaption": "Şiddetin özgürleştirici olduğu iddiası düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-kendiliginden-isyanin-gucu": {
+      "image": "/images/summary-art-225-chapter-05-kendiliginden-isyanin-gucu-v1.webp",
+      "imageCaption": "Kendiliğinden isyanın gücü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-kendiligindenligin-zayifligi": {
+      "image": "/images/summary-art-225-chapter-06-kendiligindenligin-zayifligi-v1.webp",
+      "imageCaption": "Kendiliğindenliğin zayıflığı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-ulusal-burjuvazinin-tuzagi": {
+      "image": "/images/summary-art-225-chapter-07-ulusal-burjuvazinin-tuzagi-v1.webp",
+      "imageCaption": "Ulusal burjuvazinin tuzağı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-tek-parti-neden-tehlikeli-olabilir": {
+      "image": "/images/summary-art-225-chapter-08-tek-parti-neden-tehlikeli-olabilir-v1.webp",
+      "imageCaption": "Tek parti neden tehlikeli olabilir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-baskent-ile-koy-arasindaki-ucurum": {
+      "image": "/images/summary-art-225-chapter-09-baskent-ile-koy-arasindaki-ucurum-v1.webp",
+      "imageCaption": "Başkent ile köy arasındaki uçurum düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-ulusal-bilinc-etnik-kabuga-sikisirsa": {
+      "image": "/images/summary-art-225-chapter-10-ulusal-bilinc-etnik-kabuga-sikisirsa-v1.webp",
+      "imageCaption": "Ulusal bilinç etnik kabuğa sıkışırsa düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-ulusal-kultur-muze-degildir": {
+      "image": "/images/summary-art-225-chapter-11-ulusal-kultur-muze-degildir-v1.webp",
+      "imageCaption": "Ulusal kültür müze değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-somurge-aydininin-uc-donemi": {
+      "image": "/images/summary-art-225-chapter-12-somurge-aydininin-uc-donemi-v1.webp",
+      "imageCaption": "Sömürge aydınının üç dönemi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-dil-ve-insanlik-degeri": {
+      "image": "/images/summary-art-225-chapter-13-dil-ve-insanlik-degeri-v1.webp",
+      "imageCaption": "Dil ve insanlık değeri düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-savasin-ruhsal-yaralari": {
+      "image": "/images/summary-art-225-chapter-14-savasin-ruhsal-yaralari-v1.webp",
+      "imageCaption": "Savaşın ruhsal yaraları düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-fail-de-siddetin-icine-bozulur": {
+      "image": "/images/summary-art-225-chapter-15-fail-de-siddetin-icine-bozulur-v1.webp",
+      "imageCaption": "Fail de şiddetin içine bozulur düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-avrupa-yi-taklit-etmeden-yeni-insanlik": {
+      "image": "/images/summary-art-225-chapter-16-avrupa-yi-taklit-etmeden-yeni-insanlik-v1.webp",
+      "imageCaption": "Avrupa'yı taklit etmeden yeni insanlık düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

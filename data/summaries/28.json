@@ -1,0 +1,351 @@
+{
+  "bookNo": 28,
+  "title": "Peçeli Duygular",
+  "author": "Lila Abu-Lughod",
+  "subtitle": "Mısır çölündeki Bedevi topluluğunda onur, akrabalık, kadınlık ve aşkın gündelik davranışla şiirde neden bambaşka seslere büründüğünü anlatan unutulmaz etnografi.",
+  "coverImage": "/images/summary-cover-28-peceli-duygular-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/28-peceli-duygular-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#9B5D55",
+  "meta": {
+    "originalTitle": "Veiled Sentiments: Honor and Poetry in a Bedouin Society",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir kadın kalabalığın içinde gözyaşını tutar, gece güvendiği arkadaşına iki dizelik bir şiir söyler. Gündüz güçlü görünen kişi şiirde özlemini açar. Abu-Lughod bu farkı ikiyüzlülük saymaz; aynı insanın farklı ilişkiler içinde taşıdığı iki gerçek dil olarak okur.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "University of California Press - Veiled Sentiments",
+      "url": "https://www.ucpress.edu/books/veiled-sentiments/epub-pdf"
+    },
+    {
+      "id": 2,
+      "title": "De Gruyter - Veiled Sentiments Contents",
+      "url": "https://www.degruyter.com/document/doi/10.1525/9780520965980-toc/html"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Mısır çölündeki Bedevi topluluğunda onur, akrabalık, kadınlık ve aşkın gündelik davranışla şiirde neden bambaşka seslere büründüğünü anlatan unutulmaz etnografi.",
+        "Kitap 1970'lerin sonlarında Mısır'ın batı çölünde Awlad Ali Bedevileri arasında yapılan saha çalışmasına dayanır. Bu rehber peçeyi tek anlamlı baskı işareti, şiiri de yalnız romantik süs saymaz; akrabalık, hiyerarşi, mahremiyet ve araştırmacının konumunu birlikte izler.",
+        "Araştırmacı köye isimsiz bir yabancı gibi değil, babasının Arap kökeni sayesinde bir ailenin korumasına alınmış genç kadın olarak girer. Bu kapı ona kadınların dünyasını açar; aynı kapı kiminle konuşabileceğini ve neyi görebileceğini de sınırlar."
+      ]
+    },
+    {
+      "id": "durak-02-colde-bir-eve-kabul-edilmek",
+      "section": "BİRİNCİ KISIM · SAHAYA GİRİŞ",
+      "title": "Çölde bir eve kabul edilmek",
+      "paragraphs": [
+        "Etnografik bilgi yalnız soru sormaktan değil, araştırmacının hangi akrabalık ve koruma ilişkisine yerleştirildiğinden doğar. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Bir ailenin kızı gibi görülen araştırmacı kadın sohbetlerine girer ama erkeklerle baş başa görüşmesi uygun sayılmaz. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Yakınlık güven sağlar fakat her kapıyı açmaz ve anlatılanları bütünüyle tarafsız yapmaz. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir insanın sözünü değerlendirirken onu kime, nerede ve hangi güven ilişkisi içinde söylediğini görmek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-03-awlad-ali-dunyasinin-haritasi",
+      "section": "BİRİNCİ KISIM · TOPLULUK",
+      "title": "Awlad Ali dünyasının haritası",
+      "paragraphs": [
+        "Çöl yaşamı göç, yerleşme, devlet sınırları ve pazarla temas içinde değişse de insanlar kendilerini soy, hane ve ahlak diliyle tanımlar. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Kamyon ve radyo eve girmiştir ama misafirin kimin çadırında oturacağı hâlâ akrabalıkla belirlenir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Topluluğu zamandan kopmuş saf gelenek gibi resmetmek sömürge ve devlet tarihini siler. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Gelenek sözcüğünü duyunca hangi parçanın yeni koşullarda yeniden kurulduğunu sormak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Awlad Ali dünyasının haritası” ile Peçeli Duygular kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-akrabalik-guvenlik-agidir",
+      "section": "İKİNCİ KISIM · YAKINLIK",
+      "title": "Akrabalık güvenlik ağıdır",
+      "paragraphs": [
+        "Soy bağı insanlara koruma, dayanışma ve kimlik verir; aynı zamanda kime borçlu ve kimin karşısında ölçülü davranacaklarını belirler. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Hasta birinin masrafını kuzenler paylaşır, fakat evlilik kararında aynı kuzenler güçlü söz sahibi olur. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Dayanışma romantikleştirilirse hiyerarşi ve bireysel sıkışma görünmez kalır. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Bir yakınlık ağının sunduğu desteği ve istediği itaati aynı tabloda görmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-05-onurun-cekirdegi-bagimsizlik",
+      "section": "İKİNCİ KISIM · ASL",
+      "title": "Onurun çekirdeği: Bağımsızlık",
+      "paragraphs": [
+        "Saygın kişi başkasının baskısıyla değil kendi iradesiyle hareket edebildiğini ve ihtiyaç karşısında eğilmediğini göstermeye çalışır. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Yardım isteyen genç ihtiyacını doğrudan söylemek yerine akrabasının kendiliğinden fark etmesini bekler. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Hiç kimse bütünüyle bağımsız değildir; ideal tam da gerçek bağımlılıkların içinde anlam kazanır. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Gurur gördüğümüz davranışın arkasında yardım istemenin nasıl bir statü bedeli taşıdığını düşünmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Onurun çekirdeği: Bağımsızlık” ile Peçeli Duygular kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-hiyerarsi-icinde-gonullu-boyun-egme",
+      "section": "İKİNCİ KISIM · SAYGI",
+      "title": "Hiyerarşi içinde gönüllü boyun eğme",
+      "paragraphs": [
+        "Bedevi ahlakında zayıfın güçlüye sırf korkudan değil, hak edilmiş korumayı kabul ederek saygı göstermesi onurla bağdaşabilir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Genç kadın yaşlı erkeğin yanında sessizleşir ama güvenmediği buyruğa dolaylı yollarla direnebilir. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
+        "Gönüllülük sözü gerçek zorlamayı perdelemek için kullanılabilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Bir itaat sahnesinde açık cezanın yanında ekonomik ve duygusal çıkış imkanını da ölçmek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-07-hasam-utanctan-fazlasi",
+      "section": "ÜÇÜNCÜ KISIM · ÖLÇÜLÜLÜK",
+      "title": "Haşam: Utançtan fazlası",
+      "paragraphs": [
+        "Haşam denen duygu utanma, çekingenlik ve uygun mesafeyi birleştirerek kişinin ahlak kurallarına duyarlılığını gösterir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Gelin kayınpederinin yanında sesini alçaltır; bu yalnız korku değil ilişkinin önemini sergileyen beden dilidir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Aynı davranış kişinin iç isteğini kesin olarak göstermez ve baskı ihtimalini ortadan kaldırmaz. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Sessizliği otomatik kabul saymadan kültürel anlamı ve kişinin manevra alanını birlikte araştırmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-08-pece-bir-iliski-isaretidir",
+      "section": "ÜÇÜNCÜ KISIM · BEDEN",
+      "title": "Peçe bir ilişki işaretidir",
+      "paragraphs": [
+        "Örtünme değişmez bir kadın özü değil, belirli erkeklerle mesafeyi ve saygınlığı düzenleyen bağlamsal bir davranıştır. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Kadın yakın akrabalarının yanında yüzünü açar, yabancı bir erkek yaklaşınca örtüsünü çeker ve ilişki sınırını görünür kılar. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
+        "Peçenin yerel anlamını anlatmak zorunluluk ve eşitsizlik eleştirisini yasaklamaz. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Bir kıyafeti tek simgeye indirgemeden kimin yanında, ne zaman ve hangi sonuçla kullanıldığına bakmak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Peçe bir ilişki işaretidir” ile Peçeli Duygular kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-09-kamusal-benligin-saglam-yuzu",
+      "section": "ÜÇÜNCÜ KISIM · ONUR DİLİ",
+      "title": "Kamusal benliğin sağlam yüzü",
+      "paragraphs": [
+        "Gündelik konuşmada insanlar özdenetim, sabır ve bağımsızlık göstererek saygın bir benlik sunar. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
+        "Sevdiği kişiyle evlenemeyen genç kalabalıkta kaderi küçümser ve işine devam eder. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Kamusal güç gösterisi gerçek acının yok olduğu anlamına gelmez. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Birinin 'önemli değil' sözünü yalnız kelimeyle değil ortam ve sonra seçtiği mahrem dille değerlendirmek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-10-ghinnawa-kucuk-siirin-buyuk-kapisi",
+      "section": "DÖRDÜNCÜ KISIM · ŞİİR",
+      "title": "Ghinnawa: Küçük şiirin büyük kapısı",
+      "paragraphs": [
+        "İki dizelik ghinnawa şiirleri gündelik onur dilinin söyleyemediği özlem, kırılma ve bağımlılığı kabul edilebilir bir biçimde açar. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Kadın kahve yaparken bir anda kayıp sevgiliyi anan kısa dize söyler, sonra sıradan sohbete döner. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
+        "Şiir bütün iç dünyayı saydam biçimde göstermez; geleneksel kalıplarla kurulur. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Dolaylı bir sözün neden doğrudan itiraftan daha güvenli ve etkili olduğunu düşünmek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Ghinnawa: Küçük şiirin büyük kapısı” ile Peçeli Duygular kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-11-duygu-ile-guc-ayni-sahnede",
+      "section": "DÖRDÜNCÜ KISIM · İLİŞKİ",
+      "title": "Duygu ile güç aynı sahnede",
+      "paragraphs": [
+        "Şiirde dile gelen aşk yalnız özel kalp meselesi değil, evlilik yetkisi, yaş ve soy hiyerarşisiyle biçimlenir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "İki genç birbirini sever ama ailelerin soy hesabı evliliği engeller; şiir kişisel acıyla toplumsal gücü birleştirir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Her aşk engelini yalnız yapı açıklamaz; kişiler farklı kararlar da verebilir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Romantik bir hikâyede kimin karar verdiğini, kimin bedel ödediğini ve hangi seçeneğin konuşulamadığını sormak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ]
+    },
+    {
+      "id": "durak-12-kadinlarin-siir-alani",
+      "section": "DÖRDÜNCÜ KISIM · CİNSİYET",
+      "title": "Kadınların şiir alanı",
+      "paragraphs": [
+        "Kadınlar şiir ve yakın sohbet sayesinde resmî otoritesi sınırlı olsa da yorum, dayanışma ve dolaylı itiraz alanı kurabilir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Zoraki evlilikten yakınan kadın akraba toplantısında açık kavga yerine herkesin anlayacağı bir dize söyler. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Dolaylı ses gerçek siyasal eşitliğin yerine geçmez. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Gizli direnişi överken kişinin açık karar ve hak imkanının bulunup bulunmadığını unutmamak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Kadınların şiir alanı” ile Peçeli Duygular kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-erkekler-de-kirilganlik-tasir",
+      "section": "DÖRDÜNCÜ KISIM · ERKEKLİK",
+      "title": "Erkekler de kırılganlık taşır",
+      "paragraphs": [
+        "Onur dili erkekten sertlik beklese de genç erkekler şiirde aşk acısı, yalnızlık ve bağımlılık ifade eder. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Arkadaşları yanında alaycı duran delikanlı gece kaset kaydına ayrılık şiiri söyler. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Şiirde duygu açmak gündelik erkek üstünlüğünü otomatik olarak bozmaz. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir duygusal itirafın ilişkideki davranış ve sorumluluğu değiştirip değiştirmediğine bakmak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-14-iki-dil-tek-insan",
+      "section": "BEŞİNCİ KISIM · ÇELİŞKİ",
+      "title": "İki dil, tek insan",
+      "paragraphs": [
+        "Onur söylemiyle şiir söylemi birbirini yok eden yalanlar değil, farklı bağlamlarda kişinin ahlaki dünyasını birlikte kuran iki dildir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Aynı kadın gündüz ayrılığı kabullendiğini söyler, gece kaybını şiirle anlatır; iki söz de kendi sahnesinde gerçektir. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
+        "Bağlama dikkat etmek her çelişkiyi açıklayıp eleştiriden kurtarmamalıdır. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir kişinin zıt görünen sözlerinde dinleyici, risk ve amaç farkını ayırmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “İki dil, tek insan” ile Peçeli Duygular kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-duygular-dogal-mi-kulturel-mi",
+      "section": "BEŞİNCİ KISIM · DUYGU",
+      "title": "Duygular doğal mı kültürel mi?",
+      "paragraphs": [
+        "Acı ve sevgi bedensel deneyimler olsa da ne zaman söyleneceği, hangi adla tanınacağı ve hangi davranışı doğuracağı kültürle biçimlenir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Özlem bir yerde açık ağlamaya, başka yerde kısa şiire, başka bir yerde sessiz işe dönüşür. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Kültürel biçim insanların aynı kuklalar olduğu veya biyolojinin önemsizliği anlamına gelmez. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Duygunun varlığıyla onu ifade etmek için öğrenilen yolu birbirinden ayırmak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+      ],
+      "extraParagraphs": [
+        "Büyük resmi yeniden kurduğumuzda, “Duygular doğal mı kültürel mi?” ile Peçeli Duygular kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-16-arastirmacinin-sesi-de-sahadadir",
+      "section": "BEŞİNCİ KISIM · ETNOGRAFİ",
+      "title": "Araştırmacının sesi de sahadadır",
+      "paragraphs": [
+        "Abu-Lughod kendi kabul edilme biçimini anlatarak bilginin görünmez, her yere erişen gözden gelmediğini açık eder. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Kadınlarla geçirilen akşamlar ayrıntılıdır; erkek meclisleri ise aracılı ve daha uzaktan görünür. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Kendini metne eklemek araştırmacının her yorumunu doğru yapmaz. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
+        "Bir anlatıda yazarın eriştiği kişileri, kaçırdığı alanları ve çeviri kararlarını görünür tutmak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-17-pecenin-arkasinda-tek-cevap-yok",
+      "section": "ALTINCI KISIM · SONUÇ",
+      "title": "Peçenin arkasında tek cevap yok",
+      "paragraphs": [
+        "Kitap Müslüman kadınları yalnız kurban veya egzotik kahraman yapan bakışı kırıp seçim ile baskının aynı ilişkide bulunabileceğini gösterir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
+        "Kadın örtünerek saygınlık ve hareket alanı kazanabilir, aynı düzen başka bir kararını sınırlayabilir. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Karmaşıklık demek açık eşitsizliği adlandırmaktan vazgeçmek değildir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Dışarıdan kurtarma sloganı yerine kadınların kendi sözlerini, istek ayrılıklarını ve maddi seçeneklerini dinlemek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Peçenin arkasında tek cevap yok” ile Peçeli Duygular kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Kitap peçeyi ya bütünüyle özgür seçim ya da bütünüyle baskı diye mühürlemez. Yerel anlamı anlamak eleştiriyi susturmaz; eleştiri de kadınların kendi ahlak ve duygu dilini dinlemeyi gereksiz yapmaz.",
+        "Bir kadın örtüsü sayesinde yabancı erkeklerin bulunduğu pazarda rahat hareket ederken evlilik kararında ailesine karşı söz hakkı bulamayabilir. Aynı düzen hem bir imkan hem bir sınır üretmiştir.",
+        "Peçeli Duygular için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser duygu antropolojisi, şiirsel söylem ve feminist etnografide klasikleşti; Müslüman kadınları tek simgeyle açıklayan dış bakışa karşı etkili bir karşı örnek sundu.",
+        "Akrabalık ve onur düzeninin içeriden anlamına verilen ağırlığın ekonomik ve devlet kaynaklı eşitsizlikleri geri plana atabildiği, ayrıca tek topluluktan geniş İslam dünyasına genelleme yapılamayacağı belirtildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Peçeli Duygular bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Bu söz hangi dinleyici önünde söylendi? Şiir gündelik dilin hangi yasağını aşabiliyor? Anlamı açıklamakla eşitsizliği onaylamak arasındaki çizgi nerede?",
+        "Bugün zıt görünen iki sözünüzü seçin. Her birinin söylendiği ortamı, dinleyiciyi, riski ve korumaya çalıştığı ilişkiyi yazın; çelişkinin altında bağlam farkı olup olmadığına bakın.",
+        "Peçeli Duygular bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Onur ile duygu birbirinin düşmanı değildir; insanlar kamusal özdenetim ve mahrem şiir arasında dolaşarak akrabalık, cinsiyet ve güç içinde yaşanabilir bir benlik kurar.",
+        "Akılda tutulacak son görüntü, çöl pembesi, gece laciverti ve bakır tonlarında yarı saydam bir peçenin kıvrımlarından çıkan iki şiir dizesinin aile çadırı, ay ve uzak yol arasında ince bir bağ kurduğu sessiz sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Peçeli Duygular adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-colde-bir-eve-kabul-edilmek": {
+      "image": "/images/summary-art-28-chapter-01-colde-bir-eve-kabul-edilmek-v1.webp",
+      "imageCaption": "Çölde bir eve kabul edilmek düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-awlad-ali-dunyasinin-haritasi": {
+      "image": "/images/summary-art-28-chapter-02-awlad-ali-dunyasinin-haritasi-v1.webp",
+      "imageCaption": "Awlad Ali dünyasının haritası düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-akrabalik-guvenlik-agidir": {
+      "image": "/images/summary-art-28-chapter-03-akrabalik-guvenlik-agidir-v1.webp",
+      "imageCaption": "Akrabalık güvenlik ağıdır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-onurun-cekirdegi-bagimsizlik": {
+      "image": "/images/summary-art-28-chapter-04-onurun-cekirdegi-bagimsizlik-v1.webp",
+      "imageCaption": "Onurun çekirdeği: Bağımsızlık düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-hiyerarsi-icinde-gonullu-boyun-egme": {
+      "image": "/images/summary-art-28-chapter-05-hiyerarsi-icinde-gonullu-boyun-egme-v1.webp",
+      "imageCaption": "Hiyerarşi içinde gönüllü boyun eğme düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-hasam-utanctan-fazlasi": {
+      "image": "/images/summary-art-28-chapter-06-hasam-utanctan-fazlasi-v1.webp",
+      "imageCaption": "Haşam: Utançtan fazlası düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-pece-bir-iliski-isaretidir": {
+      "image": "/images/summary-art-28-chapter-07-pece-bir-iliski-isaretidir-v1.webp",
+      "imageCaption": "Peçe bir ilişki işaretidir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-kamusal-benligin-saglam-yuzu": {
+      "image": "/images/summary-art-28-chapter-08-kamusal-benligin-saglam-yuzu-v1.webp",
+      "imageCaption": "Kamusal benliğin sağlam yüzü düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-ghinnawa-kucuk-siirin-buyuk-kapisi": {
+      "image": "/images/summary-art-28-chapter-09-ghinnawa-kucuk-siirin-buyuk-kapisi-v1.webp",
+      "imageCaption": "Ghinnawa: Küçük şiirin büyük kapısı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-duygu-ile-guc-ayni-sahnede": {
+      "image": "/images/summary-art-28-chapter-10-duygu-ile-guc-ayni-sahnede-v1.webp",
+      "imageCaption": "Duygu ile güç aynı sahnede düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-kadinlarin-siir-alani": {
+      "image": "/images/summary-art-28-chapter-11-kadinlarin-siir-alani-v1.webp",
+      "imageCaption": "Kadınların şiir alanı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-erkekler-de-kirilganlik-tasir": {
+      "image": "/images/summary-art-28-chapter-12-erkekler-de-kirilganlik-tasir-v1.webp",
+      "imageCaption": "Erkekler de kırılganlık taşır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-iki-dil-tek-insan": {
+      "image": "/images/summary-art-28-chapter-13-iki-dil-tek-insan-v1.webp",
+      "imageCaption": "İki dil, tek insan düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-duygular-dogal-mi-kulturel-mi": {
+      "image": "/images/summary-art-28-chapter-14-duygular-dogal-mi-kulturel-mi-v1.webp",
+      "imageCaption": "Duygular doğal mı kültürel mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-arastirmacinin-sesi-de-sahadadir": {
+      "image": "/images/summary-art-28-chapter-15-arastirmacinin-sesi-de-sahadadir-v1.webp",
+      "imageCaption": "Araştırmacının sesi de sahadadır düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-pecenin-arkasinda-tek-cevap-yok": {
+      "image": "/images/summary-art-28-chapter-16-pecenin-arkasinda-tek-cevap-yok-v1.webp",
+      "imageCaption": "Peçenin arkasında tek cevap yok düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

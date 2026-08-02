@@ -1,0 +1,348 @@
+{
+  "bookNo": 55,
+  "title": "Kişiler Üzerine",
+  "author": "Derek Parfit",
+  "subtitle": "Akılcı çıkar, zaman içindeki benlik, kişisel özdeşlik ve gelecek kuşaklara karşı sorumluluğu tuhaf ama berrak düşünce deneyleriyle yeniden kuran çağdaş ahlak felsefesi klasiği.",
+  "coverImage": "/images/summary-cover-55-kisiler-uzerine-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/55-kisiler-uzerine-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#526B8A",
+  "meta": {
+    "originalTitle": "Reasons and Persons",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Işınlanma makinesi bedeninizi tarıyor, Mars'ta kusursuz kopyanızı kuruyor ve Dünya'daki bedeni yok ediyor. Mars'ta uyanan siz misiniz? Parfit bu bilimkurgu sahnesini eğlence için değil, hayatta kalmada gerçekten neyin önemli olduğunu ayırmak için kullanır.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Oxford Academic - Reasons and Persons",
+      "url": "https://academic.oup.com/book/12484"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia - Personal Identity and Ethics",
+      "url": "https://plato.stanford.edu/entries/identity-ethics/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Akılcı çıkar, zaman içindeki benlik, kişisel özdeşlik ve gelecek kuşaklara karşı sorumluluğu tuhaf ama berrak düşünce deneyleriyle yeniden kuran çağdaş ahlak felsefesi klasiği.",
+        "Özgün eser dört bölümde kişisel çıkar kuramlarını, zaman ve akılcılığı, kişisel özdeşliği, gelecek kuşak ve nüfus etiğini tartışır. Rehber sonuçları kesin ahlak yasası gibi sunmaz; düşünce deneylerinin sezgiyi sınadığını, gerçek politika için ayrıca kanıt gerektiğini belirtir.",
+        "Bugünkü siz emeklilik hesabından para çekip harcıyor; yetmiş yaşındaki siz ise yıllar sonra bu karara kızıyor. İkisi aynı kişi olsa bile aralarındaki bağ ne kadar güçlü? Parfit, zaman içindeki kendimize davranışımızın başkalarına davranışa sandığımızdan daha çok benzediğini söyler."
+      ]
+    },
+    {
+      "id": "durak-02-bir-kuram-kendi-yenilgisine-yol-acabilir",
+      "section": "BİRİNCİ KISIM · KENDİNİ BOZGUNA UĞRATMA",
+      "title": "Bir kuram kendi yenilgisine yol açabilir",
+      "paragraphs": [
+        "Parfit bir ilkenin herkes tarafından izlenmesi kendi amacını kötüleştiriyorsa doğrudan veya dolaylı biçimde kendini bozguna uğratabileceğini gösterir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Herkes yalnız kendi sırasını hızlandırmak için kavşağa girince kimse ilerleyemez. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Ortak kötü sonuç her kişinin niyetinin kötü olduğunu göstermez. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bir kuralı değerlendirirken tek kişinin kazancı yanında herkes uyguladığında doğan dengeyi düşünmek gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-03-kisisel-cikar-kurami-yeterli-mi",
+      "section": "BİRİNCİ KISIM · AKILCILIK",
+      "title": "Kişisel çıkar kuramı yeterli mi?",
+      "paragraphs": [
+        "Yalnız kişinin bütün yaşamı boyunca kendi çıkarını en çoklamasını akılcılığın tek ölçüsü sayan kuramın zaman ve işbirliği sorunları ürettiğini savunur. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Bugünkü kişi keyif için borçlanır, gelecekteki kişi aynı borcun yıllarca yükünü taşır. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
+        "Kendi iyiliğini gözetmek ahlaken şüpheli değildir; sorun onu tek neden saymaktır. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Kararda bugünkü, gelecekteki ve başkalarının maliyetini ayrı satırlarda görmek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "İddianın sınırını denemek için, “Kişisel çıkar kuramı yeterli mi?” ile Kişiler Üzerine kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-mahkumun-ikilemi-neden-gundeliktir",
+      "section": "BİRİNCİ KISIM · İŞBİRLİĞİ",
+      "title": "Mahkûmun ikilemi neden gündeliktir?",
+      "paragraphs": [
+        "Tek tek akılcı görünen seçimler karşılıklı güven yoksa herkes için daha kötü ortak sonuç doğurabilir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "İki komşu su tasarrufu yapmayınca ikisi de kısa süre rahat eder, yaz sonunda ikisinin kuyusu kurur. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "İkilem her ortak kaynakta aynı ödeme yapısına sahip değildir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Teşvikleri çizip güven, tekrar, yaptırım ve iletişimin sonucu nasıl değiştireceğini araştırmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-05-ahlak-da-topluca-kendini-yenebilir-mi",
+      "section": "BİRİNCİ KISIM · KURAL",
+      "title": "Ahlak da topluca kendini yenebilir mi?",
+      "paragraphs": [
+        "Bazı ahlak ilkeleri kişiyi iyi eyleme yöneltirken herkes uyguladığında amaçlanan değeri azaltabilir; kuramın yapısı sınanmalıdır. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Herkes sevdiği kişiye sınırsız öncelik verince acil serviste ihtiyaca göre sıra kurulamaz. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Yakın ilişkilere özel değer vermek otomatik olarak yanlış değildir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "İlkenin istisna, kurum ve tarafsız ölçüyle birlikte nasıl çalıştığını sınamak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Ahlak da topluca kendini yenebilir mi?” ile Kişiler Üzerine kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-simdiki-ben-neden-ayricalikli",
+      "section": "İKİNCİ KISIM · ZAMAN",
+      "title": "Şimdiki ben neden ayrıcalıklı?",
+      "paragraphs": [
+        "Salt bugün olduğu için şimdiki arzuyu gelecekteki daha büyük iyiliğin önüne koymak gerekçesiz zaman tarafgirliği olabilir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Diş tedavisini ertelemek bugün korkuyu azaltır ama gelecek ay daha büyük ağrı ve maliyet getirir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Belirsiz gelecek ve acil ihtiyaç bazen bugüne gerçek ağırlık verir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
+        "Ertelemede zaman önyargısı ile makul belirsizlik payını birbirinden ayırmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-07-gelecek-sali-kayitsizligi",
+      "section": "İKİNCİ KISIM · TUHAF TERCİH",
+      "title": "Gelecek Salı kayıtsızlığı",
+      "paragraphs": [
+        "Bir kişinin yalnız Salı günü yaşayacağı acıyı önemsememesi, tercihin kendisinin her zaman iyi bir neden olmadığını gösteren düşünce deneyidir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
+        "Kişi pazartesi ve çarşamba bir iğneden kaçarken salı on kat acıya aldırmaz. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Gerçek insanların tutarsız tercihi klinik veya kültürel neden taşıyabilir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir seçimin arkasındaki nedenin olayla ilgili mi yoksa rastgele tarih etiketi mi olduğunu sormak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Gelecek Salı kayıtsızlığı” ile Kişiler Üzerine kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-gecmis-ve-gelecek-aci-asimetrisi",
+      "section": "İKİNCİ KISIM · YÖN",
+      "title": "Geçmiş ve gelecek acı asimetrisi",
+      "paragraphs": [
+        "İnsanlar aynı acı geçmişte kaldıysa rahatlar, gelecekteyse korkar; zaman yönü değer ve kaygıyı değiştirir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Dişçinin on saatlik işlemi dün mü bitti, bir saatlik işlem yarın mı diye sorulunca kişi geçmişteki uzun acıyı tercih edebilir. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Duygusal asimetri ahlaki olarak bütün gelecek tercihlerini belirlemek zorunda değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
+        "Bir kaygıda olayın büyüklüğüyle henüz yaşanmamış olmasının ek ağırlığını ayırmak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ]
+    },
+    {
+      "id": "durak-09-kisi-ayni-beden-midir",
+      "section": "ÜÇÜNCÜ KISIM · ÖZDEŞLİK",
+      "title": "Kişi aynı beden midir?",
+      "paragraphs": [
+        "Beden sürekliliği günlük kimlik için güçlü ölçü olsa da beyin aktarımı ve kopyalama düşünce deneyleri tek başına yeterli olup olmadığını sınar. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Kalbiniz değişince aynı kişi sayılırsınız; peki bütün beyin işleviniz başka bedene aktarılsa ne olur? Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Bilimkurgu olasılığı gerçek tıbbi vakayla aynı kanıt gücüne sahip değildir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Kimlik tartışmasında biyolojik, hukuki, psikolojik ve ilişkisel ölçüleri ayrı tutmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Kişi aynı beden midir?” ile Kişiler Üzerine kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-10-psikolojik-sureklilik",
+      "section": "ÜÇÜNCÜ KISIM · HAFIZA VE NİYET",
+      "title": "Psikolojik süreklilik",
+      "paragraphs": [
+        "Parfit anı, niyet, karakter ve düşünce bağlarının doğru tür nedenlerle birbirini sürdürmesini kişisel devamlılığın merkezine alır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Bugünkü kararınız dünkü planı hatırlar ve yarınki eylemi doğurursa zaman içindeki zincir güçlenir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Hatıralar yanılabilir ve başkalarının tanıklığı kimliği destekler. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Büyük yaşam kararında geçmiş istek, bugünkü değer ve geleceğe bırakılan niyeti birbirine bağlamak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-11-baglilik-ile-sureklilik-farki",
+      "section": "ÜÇÜNCÜ KISIM · DERECE",
+      "title": "Bağlılık ile süreklilik farkı",
+      "paragraphs": [
+        "Psikolojik bağlılık doğrudan güçlü bağları, süreklilik ise örtüşen bağ zincirini anlatır; benlik ya hep ya hiç olmayan derece yapısı kazanır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Seksen yaşındaki kişi çocukluğunun çoğunu hatırlamaz ama aradaki her dönem komşu döneme anı ve alışkanlıkla bağlıdır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Dereceli bağ hukuki kimliği her olayda dereceli yapmayı gerektirmez. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Uzun vadeli hedefi her yıl küçük hatırlatıcı ve ilişki zinciriyle yenilemek gelecekteki benle bağı güçlendirebilir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ]
+    },
+    {
+      "id": "durak-12-isinlanma-kopya-siz-misiniz",
+      "section": "ÜÇÜNCÜ KISIM · DÜŞÜNCE DENEYİ",
+      "title": "Işınlanma: Kopya siz misiniz?",
+      "paragraphs": [
+        "Kusursuz psikolojik ve bedensel kopya başka yerde oluştuğunda hayatta kalma ile sayısal özdeşliğin ayrılabileceğini gösterir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Mars'taki kopya bütün anılarınızı anlatır ama Dünya'daki beden de birkaç dakika yaşamaya devam ederse iki kişi birden tek siz olamaz. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Bu teknoloji yoktur; deney kavramı gerer, gelecek öngörüsü değildir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir düşünce deneyinde hangi sezginin değiştiğini ve gerçek hayata hangi ölçüde taşınabileceğini belirtmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ],
+      "extraParagraphs": [
+        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Işınlanma: Kopya siz misiniz?” ile Kişiler Üzerine kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-bolunme-bir-kisi-iki-devamci",
+      "section": "ÜÇÜNCÜ KISIM · DALLANMA",
+      "title": "Bölünme: Bir kişi iki devamcı",
+      "paragraphs": [
+        "Beynin iki yarısının iki bedene aktarılması varsayımında her yeni kişi eski hayatla güçlü bağ taşır ama birbirleriyle aynı değildir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "İki devamcı annenizin anısını, borcunuzu ve yarım kitabınızı eşit doğrulukla sahiplenir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Dallanma tıbbi bölünmüş beyin vakalarının basit açıklaması değildir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
+        "Kimliğin tek cevap vermediği yerde bakım, sorumluluk ve beklentiyi hangi ilişkilerin taşıdığını sormak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-14-onemli-olan-ozdeslik-olmayabilir",
+      "section": "ÜÇÜNCÜ KISIM · R İLİŞKİSİ",
+      "title": "Önemli olan özdeşlik olmayabilir",
+      "paragraphs": [
+        "Parfit hayatta kalmada gerçekten değer verdiğimiz şeyin tek ve değişmez benlik değil, uygun nedenli psikolojik bağlılık ve süreklilik olabileceğini savunur. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
+        "Nehir aynı suyu tutmaz ama akış, kıyı ve yön sürekliliği nedeniyle aynı adla yaşar. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Kişiyi nehre benzetmek sevgi, beden ve toplumsal tanınmanın bütününü açıklamaz. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
+        "Gelecek ben için fedakârlığı mistik özden değil somut anı, proje ve ilişki bağından kurmak mümkündür. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Önemli olan özdeşlik olmayabilir” ile Kişiler Üzerine kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-benlik-hafiflerse-ahlak-genisler-mi",
+      "section": "ÜÇÜNCÜ KISIM · BAŞKALARI",
+      "title": "Benlik hafiflerse ahlak genişler mi?",
+      "paragraphs": [
+        "Kendimizle gelecek ben arasındaki bağ dereceliyse, kendimiz ile başkaları arasındaki duvar da sandığımız kadar mutlak görünmeyebilir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Yıllar sonraki yabancılaşmış kendinize para bırakmakla bugün yakındaki yabancıya yardım etmek arasındaki psikolojik mesafe karşılaştırılır. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Benliğin hafiflemesi otomatik özveri üretmez ve kişisel sınırlar önemlidir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Bir kararda 'benim' etiketinden önce acı, ihtiyaç ve bağın gerçek ağırlığını düşünmek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+      ]
+    },
+    {
+      "id": "durak-16-kimliksiz-zarar-dogmayan-kisi-sorunu",
+      "section": "DÖRDÜNCÜ KISIM · GELECEK KUŞAK",
+      "title": "Kimliksiz zarar: Doğmayan kişi sorunu",
+      "paragraphs": [
+        "Bir politika gelecekte başka kişilerin doğmasına yol açıyorsa kötü koşuldan etkilenen kişi daha iyi alternatifte hiç var olmayacak olabilir; zarar dili zorlaşır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Kirli enerji politikası yüz yıl sonraki nüfusu değiştirir; doğan kişi hayatını yaşamaya değer bulsa da daha temiz dünya seçilmeliydi deriz. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Kimsenin tek tek daha kötü olmaması politikanın adil olduğu anlamına gelmeyebilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Gelecek kararında kişi karşılaştırması yanında hak, eşik ve ortak dünya ölçülerini kullanmak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Kimliksiz zarar: Doğmayan kişi sorunu” ile Kişiler Üzerine kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-17-igrenc-sonuc-ve-nufus-etigi",
+      "section": "DÖRDÜNCÜ KISIM · TOPLAM İYİLİK",
+      "title": "İğrenç sonuç ve nüfus etiği",
+      "paragraphs": [
+        "Toplam mutluluğu yalnız toplarsak çok kalabalık ama herkesin hayatı zar zor iyi olan dünya, az nüfuslu çok iyi hayattan üstün çıkabilir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "On kişinin çok zengin yaşamına karşı milyarlarca kişinin tek bir küçük olumlu deneyimi toplamda daha büyük sayı verir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Düşünce deneyi gerçek nüfus politikasının tüm değerlerini içermez. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Toplam, ortalama, hak, eşitlik ve asgari yaşam kalitesini aynı karar tablosunda tutmak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Parfit 'insanlar yoktur' veya kişisel kimlik önemsizdir demez. Kesin, bölünmez bir öz aramanın gereksiz olabileceğini; önemli ilişkilerin anı, niyet, beden ve bağ üzerinden korunabildiğini savunur.",
+        "Yarınki siz bugünkünden biraz farklı diye borcunuzu yok sayamazsınız. Dereceli psikolojik bağ, hukuk ve verilen söz gibi toplumsal sorumlulukları ortadan kaldırmaz.",
+        "Kişiler Üzerine için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Eser çağdaş ahlak felsefesi ve kişisel özdeşlik tartışmalarının dönüm noktası oldu; özdeşlik, gelecek kuşak ve nüfus etiği bölümleri geniş literatür doğurdu.",
+        "Düşünce deneylerinin gerçek insan ilişkilerini fazla soyutladığı, psikolojik sürekliliğin beden ve toplumu küçümsediği, nüfus sonuçlarının sezgiye aşırı dayandığı eleştirildi.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Kişiler Üzerine bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Gelecekteki benle bağımı ne kuruyor? Bir tercih kendi amacını topluca bozuyor mu? Kimseyi tek tek kötüleştirmeden yine de yanlış yapabilir miyiz?",
+        "Bugünkü bir kararınızı üç kişiye bölün: bugünkü siz, bir yıl sonraki siz, karardan etkilenen yabancı. Her biri için kazanç, kayıp ve bağ gücünü yazın.",
+        "Kişiler Üzerine bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Bölünmez bir benlikten vazgeçmek sorumluluğu yok etmez; zaman içindeki psikolojik bağları ve başkalarının iyiliğini daha tarafsız görme imkânı açar.",
+        "Akılda tutulacak son görüntü, füme mavi ve gümüş tonlarında tek insan yolunun iki ışıklı devamcıya ayrıldığı, geride anı halkaları ve ileride henüz doğmamış kuşakların ufuk çizgisinin görüldüğü düşünsel bir manzaradır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Kişiler Üzerine adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-bir-kuram-kendi-yenilgisine-yol-acabilir": {
+      "image": "/images/summary-art-55-chapter-01-bir-kuram-kendi-yenilgisine-yol-acabilir-v1.webp",
+      "imageCaption": "Bir kuram kendi yenilgisine yol açabilir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-kisisel-cikar-kurami-yeterli-mi": {
+      "image": "/images/summary-art-55-chapter-02-kisisel-cikar-kurami-yeterli-mi-v1.webp",
+      "imageCaption": "Kişisel çıkar kuramı yeterli mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-mahkumun-ikilemi-neden-gundeliktir": {
+      "image": "/images/summary-art-55-chapter-03-mahkumun-ikilemi-neden-gundeliktir-v1.webp",
+      "imageCaption": "Mahkûmun ikilemi neden gündeliktir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-ahlak-da-topluca-kendini-yenebilir-mi": {
+      "image": "/images/summary-art-55-chapter-04-ahlak-da-topluca-kendini-yenebilir-mi-v1.webp",
+      "imageCaption": "Ahlak da topluca kendini yenebilir mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-simdiki-ben-neden-ayricalikli": {
+      "image": "/images/summary-art-55-chapter-05-simdiki-ben-neden-ayricalikli-v1.webp",
+      "imageCaption": "Şimdiki ben neden ayrıcalıklı? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-gelecek-sali-kayitsizligi": {
+      "image": "/images/summary-art-55-chapter-06-gelecek-sali-kayitsizligi-v1.webp",
+      "imageCaption": "Gelecek Salı kayıtsızlığı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-gecmis-ve-gelecek-aci-asimetrisi": {
+      "image": "/images/summary-art-55-chapter-07-gecmis-ve-gelecek-aci-asimetrisi-v1.webp",
+      "imageCaption": "Geçmiş ve gelecek acı asimetrisi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-kisi-ayni-beden-midir": {
+      "image": "/images/summary-art-55-chapter-08-kisi-ayni-beden-midir-v1.webp",
+      "imageCaption": "Kişi aynı beden midir? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-psikolojik-sureklilik": {
+      "image": "/images/summary-art-55-chapter-09-psikolojik-sureklilik-v1.webp",
+      "imageCaption": "Psikolojik süreklilik düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-baglilik-ile-sureklilik-farki": {
+      "image": "/images/summary-art-55-chapter-10-baglilik-ile-sureklilik-farki-v1.webp",
+      "imageCaption": "Bağlılık ile süreklilik farkı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-isinlanma-kopya-siz-misiniz": {
+      "image": "/images/summary-art-55-chapter-11-isinlanma-kopya-siz-misiniz-v1.webp",
+      "imageCaption": "Işınlanma: Kopya siz misiniz? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-bolunme-bir-kisi-iki-devamci": {
+      "image": "/images/summary-art-55-chapter-12-bolunme-bir-kisi-iki-devamci-v1.webp",
+      "imageCaption": "Bölünme: Bir kişi iki devamcı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-onemli-olan-ozdeslik-olmayabilir": {
+      "image": "/images/summary-art-55-chapter-13-onemli-olan-ozdeslik-olmayabilir-v1.webp",
+      "imageCaption": "Önemli olan özdeşlik olmayabilir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-benlik-hafiflerse-ahlak-genisler-mi": {
+      "image": "/images/summary-art-55-chapter-14-benlik-hafiflerse-ahlak-genisler-mi-v1.webp",
+      "imageCaption": "Benlik hafiflerse ahlak genişler mi? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-kimliksiz-zarar-dogmayan-kisi-sorunu": {
+      "image": "/images/summary-art-55-chapter-15-kimliksiz-zarar-dogmayan-kisi-sorunu-v1.webp",
+      "imageCaption": "Kimliksiz zarar: Doğmayan kişi sorunu düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-igrenc-sonuc-ve-nufus-etigi": {
+      "image": "/images/summary-art-55-chapter-16-igrenc-sonuc-ve-nufus-etigi-v1.webp",
+      "imageCaption": "İğrenç sonuç ve nüfus etiği düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "bookNo": 69,
+  "title": "Şölen & Phaidon",
+  "author": "Platon",
+  "subtitle": "Bir ziyafette aşkın ne olduğunu, hapishane odasında ölüm karşısında felsefenin ne işe yaradığını tartışan iki Platon diyaloğunu karakterleri ve unutulmaz sahneleriyle birlikte okuyan rehber.",
+  "coverImage": "/images/summary-cover-69-solen-ve-phaidon-v1.webp",
+  "coverStyle": "artwork",
+  "pdfUrl": "/data/pdfs/69-solen-ve-phaidon-ozeti.pdf",
+  "pdfLabel": "25-50 sayfalık PDF'yi indir",
+  "longForm": true,
+  "chapterArtStyle": "monochrome-engraving",
+  "chapterArtColor": "#795D86",
+  "meta": {
+    "originalTitle": "Symposium & Phaedo",
+    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
+    "date": "Ağustos 2026",
+    "language": "Türkçe"
+  },
+  "intro": "Bir odada şarap kâseleri dolaşır ve herkes aşkı över; başka bir odada Sokrates zehir kâsesini beklerken ruhun ölümden sonra sürüp sürmediğini tartışır. Şölen ile Phaidon ilk bakışta biri hayata, diğeri ölüme bakıyor gibidir. İkisini bağlayan soru ise insanın geçici güzellikten kalıcı iyiye nasıl yükselebileceğidir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Stanford Encyclopedia of Philosophy - Plato",
+      "url": "https://plato.stanford.edu/entries/plato/"
+    },
+    {
+      "id": 2,
+      "title": "Internet Encyclopedia of Philosophy - Plato: Phaedo",
+      "url": "https://iep.utm.edu/phaedo/"
+    }
+  ],
+  "enrichmentStandardVersion": 2,
+  "chapters": [
+    {
+      "id": "durak-01-bu-kitap-nasil-okunmali",
+      "section": "BAŞLANGIÇ",
+      "title": "Bu kitap nasıl okunmalı?",
+      "paragraphs": [
+        "Bir ziyafette aşkın ne olduğunu, hapishane odasında ölüm karşısında felsefenin ne işe yaradığını tartışan iki Platon diyaloğunu karakterleri ve unutulmaz sahneleriyle birlikte okuyan rehber.",
+        "Platon kendi görüşünü ders kitabı cümlesiyle açıklamaz; farklı karakterlere konuşma yaptırır. Bu nedenle her konuşmayı doğrudan 'Platon böyle düşünüyor' diye almak yerine sahnedeki kişinin karakteri, sözü ve sonradan gelen itirazlarla birlikte okumak gerekir.",
+        "Şölen'de düşünce konuşmacıdan konuşmacıya yükselen bir merdiven gibi kurulur. Phaidon'da aynı düşünce ölüm saati yaklaştıkça sınanır. Rehber iki diyaloğun edebî sahnesini felsefi iddiadan ayırmadan izleyecek."
+      ]
+    },
+    {
+      "id": "durak-02-ziyafetin-cercevesi",
+      "section": "BİRİNCİ DİYALOG · ŞÖLEN",
+      "title": "Ziyafetin çerçevesi",
+      "paragraphs": [
+        "Şölen bir teoriyi boş sınıfta değil, zafer kutlayan şair Agathon'un evinde farklı hayat tarzlarını temsil eden insanların konuşmalarıyla kurar. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "İçkiyi azaltmaya karar veren grup sırayla Eros'u övecektir; felsefe sofradaki rekabet, şaka ve çekicilikten ayrı değildir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Anlatılan ziyafet geçmişte kalmıştır ve bize başkasının hatırlamasıyla ulaşır; bu katman kesin tarih tutanağı değil edebî kurgu uyarısıdır. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
+        "Bir tartışmada yalnız sözü değil, sözü söyleyen kişinin konumunu ve neyi kanıtlamak istediğini görmek Şölen'in yöntemini bugüne taşır. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-03-phaidros-ask-kahraman-yapar",
+      "section": "BİRİNCİ DİYALOG · ŞÖLEN",
+      "title": "Phaidros: Aşk kahraman yapar",
+      "paragraphs": [
+        "İlk konuşmacı Phaidros, âşığın sevdiği kişinin gözünde utanmamak için cesur ve onurlu davranacağını savunur. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
+        "Savaşta sevgilisinin kendisini izlediğini bilen asker geri çekilmekten utanır ve tek başına yapamayacağı fedakârlığı göze alır. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Utanç ve hayranlık erdemi teşvik edebilir ama ahlakı yalnız başkasının bakışına bağlamak gösteriş tehlikesi taşır. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Takdir edilme isteğinin sizi gerçekten iyi davranışa mı, yalnız iyi görünmeye mi ittiğini ayırmak bu konuşmanın güncel sorusudur. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+      ],
+      "extraParagraphs": [
+        "Sahnedeki zamanı biraz yavaşlattığımızda, “Phaidros: Aşk kahraman yapar” ile Şölen & Phaidon kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-04-pausanias-her-ask-ayni-degildir",
+      "section": "BİRİNCİ DİYALOG · ŞÖLEN",
+      "title": "Pausanias: Her aşk aynı değildir",
+      "paragraphs": [
+        "Pausanias bedene yönelen geçici arzuyla karakter ve bilgelik arayan daha yüksek sevgiyi birbirinden ayırır. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Yalnız güzellik sürdüğü sürece devam eden ilişkiyle iki insanın birbirini daha iyi kişi olmaya çağırdığı bağ aynı kefeye konmaz. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
+        "Konuşma dönemin sınıf, cinsiyet ve yurttaşlık eşitsizliklerini taşır; 'yüce aşk' dili sömürüyü gizlemek için de kullanılabilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir ilişkiyi değerlendirirken güzel sözden önce tarafların özgürlüğüne, sürekliliğine ve birbirini geliştirme biçimine bakmak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ]
+    },
+    {
+      "id": "durak-05-eryksimakhos-evrenin-dengesi",
+      "section": "BİRİNCİ DİYALOG · ŞÖLEN",
+      "title": "Eryksimakhos: Evrenin dengesi",
+      "paragraphs": [
+        "Hekim Eryksimakhos aşkı yalnız insanlar arasında değil beden, müzik, mevsim ve evrendeki uyum ilkesi olarak genişletir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
+        "Doktor sağlıklı bedende sıcak-soğuk, kuru-yaş gibi karşıtların ölçülü uyumunu kurmaya çalışır. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
+        "Her şeyi aşk kavramına sığdırmak sözcüğü açıklayıcı olmaktan çıkarabilir; konuşmanın genişliği aynı zamanda zayıflığıdır. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
+        "Uyum sözcüğü kullanıldığında gerçek çatışmanın çözülüp çözülmediğini, yoksa yalnız üstünün örtülüp örtülmediğini sormak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+      ],
+      "extraParagraphs": [
+        "Örneği tersinden düşündüğümüzde, “Eryksimakhos: Evrenin dengesi” ile Şölen & Phaidon kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-06-aristophanes-in-ikiye-bolunen-insani",
+      "section": "BİRİNCİ DİYALOG · ŞÖLEN",
+      "title": "Aristophanes'in ikiye bölünen insanı",
+      "paragraphs": [
+        "Aristophanes insanların eskiden bütünken tanrılar tarafından ikiye ayrıldığını ve aşkın kayıp yarıyı arama isteği olduğunu anlatır. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Yuvarlak bedenli eski insanlar bölününce her yarı ötekine sarılır; yemek yemeyi bile unutacak kadar birleşmeyi ister. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Ruh eşi masalı yakınlık arzusunu güçlü anlatır fakat tek başına eksik olduğumuz ve partnerin bizi tamamlamak zorunda olduğu baskısını yaratabilir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
+        "Sevdiğiniz kişiyi eksik parçanız değil ayrı bir hayat olarak görebilmek, yakınlık ile bağımlılık arasındaki çizgiyi korur. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-07-agathon-un-guzel-konusmasi",
+      "section": "BİRİNCİ DİYALOG · ŞÖLEN",
+      "title": "Agathon'un güzel konuşması",
+      "paragraphs": [
+        "Şair Agathon aşkı genç, zarif, adil ve bütün erdemlerin kaynağı olarak över; konuşması içerikten çok kusursuz biçimiyle etkiler. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
+        "Sofradakiler alkışlar, çünkü cümleler çiçekli ve ritimlidir; Sokrates ise övgünün doğru olup olmadığını sormaya hazırlanır. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Güzel retorik yanlış olmak zorunda değildir, fakat dinleyicinin kanıt arama isteğini uyuşturabilir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Etkileyici bir konuşmadan sonra akılda kalan duygu ile gerçekten savunulan iddiayı iki ayrı cümle halinde yazmak iyi bir sınamadır. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+      ],
+      "extraParagraphs": [
+        "Bu bağlantıyı bir adım daha izlediğimizde, “Agathon'un güzel konuşması” ile Şölen & Phaidon kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-08-sokrates-ve-diotima-arzu-neyi-ister",
+      "section": "BİRİNCİ DİYALOG · ŞÖLEN",
+      "title": "Sokrates ve Diotima: Arzu neyi ister?",
+      "paragraphs": [
+        "Sokrates aşkın sahip olunmayan güzele yöneldiğini söyler; Diotima da Eros'u ne kusursuz ne bütünüyle yoksun, ölümlü ile tanrısal arasında arayan bir varlık olarak tanımlar. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
+        "Susuz insan suyu ister; yoksulluk ile çarenin oğlu sayılan Eros da eksik olduğu için arar, becerikli olduğu için güzelliğe giden yeni yollar bulur. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
+        "Arzuyu yalnız eksiklik saymak bolluk ve paylaşımı küçümseyebilir; ayrıca tarihsel Diotima'nın kimliği ve Sokrates'in ağzındaki rolü belirsizdir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Bir istekte 'neyim eksik?' kadar 'bu arayış beni hangi iyiyi üretmeye götürüyor?' sorusunu sormak bilgisizlik ile umutsuzluk arasındaki üretken alanı açar. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-09-ask-merdiveni",
+      "section": "BİRİNCİ DİYALOG · ŞÖLEN",
+      "title": "Aşk merdiveni",
+      "paragraphs": [
+        "Diotima'nın merdiveninde insan tek güzel bedenden bütün güzel bedenlere, güzel ruhlara, yasalara, bilgilere ve sonunda güzelliğin kendisine yükselir. Mesele sözcüğün tanımından çok, tanımın hangi eski alışkanlığı görmemizi sağladığıdır.",
+        "Bir yüzün çekiciliğiyle başlayan hayranlık, zamanla iyi karakteri ve güzel bir düşünceyi tanıyabilecek daha geniş göz haline gelir. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Merdiven bedensel ve kişisel sevgiyi aşağı basamak saydığı için tekil insanın değerini soyut ideale feda etmekle eleştirilmiştir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Bir kişide sevdiğiniz özelliğin başka insan ve işlerdeki örneklerini görmek sevgiyi küçültmeden bakışı genişletebilir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-10-alkibiades-kapidan-girer",
+      "section": "BİRİNCİ DİYALOG · ŞÖLEN",
+      "title": "Alkibiades kapıdan girer",
+      "paragraphs": [
+        "Sarhoş Alkibiades aşk üzerine teori yerine Sokrates'e duyduğu hayranlık, arzu ve öfkeyi anlatarak konuşmaların soyut düzenini bozar. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Başında sarmaşıklarla içeri girer, Sokrates'in güzel sözlerle değil utandırıcı sorularla insanın içini açtığını söyler. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
+        "Alkibiades'in tutkusu Sokrates'i putlaştırır; hayranlık kişinin kendi sorumluluğunun yerini alamaz. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
+        "Bir öğretmene veya lidere hayranlık duyarken onun sözünü kopyalamak yerine kendi hayatınızda neyi değiştirdiğinize bakmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+      ]
+    },
+    {
+      "id": "durak-11-hapishanedeki-son-sabah",
+      "section": "İKİNCİ DİYALOG · PHAİDON",
+      "title": "Hapishanedeki son sabah",
+      "paragraphs": [
+        "Phaidon Sokrates'in idam gününü dostlarının yasını ve felsefi konuşmayı iç içe geçirerek anlatır. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Sokrates'in ayaklarındaki zincir çıkarılınca acının ardından gelen hazzı fark eder; ölüm konuşması bedensel ayrıntıyla başlar. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
+        "Sakin sahne Sokrates'in tarihsel ölümünün birebir kaydı değil, Platon'un örnek filozof portresidir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
+        "Zor zamanda söylenen sakin sözleri romantikleştirmeden, kişinin korkusuyla nasıl ilişki kurduğuna bakmak daha gerçekçidir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+      ]
+    },
+    {
+      "id": "durak-12-felsefe-olume-hazirlik-mi",
+      "section": "İKİNCİ DİYALOG · PHAİDON",
+      "title": "Felsefe ölüme hazırlık mı?",
+      "paragraphs": [
+        "Sokrates gerçek filozofun bedensel dikkat dağıtıcılardan uzaklaşıp aklın izlediği hakikate yöneldiğini, bu nedenle ölümü çalıştığını söyler. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
+        "Açlık, ağrı ve haz zihni çekerken filozof değişmeyen adalet veya güzellik fikrine yoğunlaşmaya çalışır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
+        "Bedenin yalnız engel sayılması hastalık, bakım, duygu ve bedenli bilginin değerini küçümser. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
+        "Geçici hazdan uzak durmak ile bedeni düşman görmek arasındaki farkı korumak, bu sert iddiayı ölçülü okumayı sağlar. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+      ],
+      "extraParagraphs": [
+        "Kavramı gerçek bir karara uyguladığımızda, “Felsefe ölüme hazırlık mı?” ile Şölen & Phaidon kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-13-karsitlardan-dogma-savi",
+      "section": "İKİNCİ DİYALOG · PHAİDON",
+      "title": "Karşıtlardan doğma savı",
+      "paragraphs": [
+        "Sokrates büyük-küçük, uyku-uyanıklık gibi karşıtların birbirinden geldiğini söyleyerek yaşamın ölümden yeniden doğabileceğini savunur. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
+        "Uyuyan uyanır, uyanan yeniden uyur; döngü tek yönde olsaydı sonunda herkes sonsuz uykuda kalırdı. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
+        "Doğadaki bazı döngüler ruhun bireysel olarak sürdüğünü kanıtlamaz; benzetmeden metafizik sonuca geçiş tartışmalıdır. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Bir argümanda örneğin sonucu gerçekten gerektirip gerektirmediğini, yalnız hayal etmeyi kolaylaştırıp kolaylaştırmadığını ayırmak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-14-hatirlama-ve-esitligin-kendisi",
+      "section": "İKİNCİ DİYALOG · PHAİDON",
+      "title": "Hatırlama ve eşitliğin kendisi",
+      "paragraphs": [
+        "Eşit çubukların hiçbir zaman kusursuz eşit olmadığını fark etmemiz, Sokrates'e göre deneyimden önce 'eşitliğin kendisi' hakkında bir ölçü taşıdığımızı gösterir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
+        "İki tahtayı yan yana koyup eşit deriz, sonra küçük farkı görürüz; kusurlu örneği kusursuz ölçüyle karşılaştırırız. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
+        "Doğuştan kavram sonucu zorunlu değildir; zihin benzer örneklerden soyutlama yaparak da ölçü kurabilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
+        "Bir standardın nereden geldiğini sorarken deneyim, dil ve zihnin sınıflandırma gücünü birlikte değerlendirmek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+      ],
+      "extraParagraphs": [
+        "Bölümün görünmeyen ikinci katında, “Hatırlama ve eşitliğin kendisi” ile Şölen & Phaidon kitabının ana sorusu arasındaki bağ belirginleşir. İlk paragraftaki iddia ile örnekteki somut sonuç yan yana durduğunda, tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın neden yetersiz kaldığı görülür. Burada önemli olan ayrıntıları rastgele çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini bulmaktır. Böylece bölüm, ezberlenecek bir cümleden çıkıp yeni bir olay karşısında sınanabilecek düşünme aracına dönüşür."
+      ]
+    },
+    {
+      "id": "durak-15-ruhun-benzerligi-savi",
+      "section": "İKİNCİ DİYALOG · PHAİDON",
+      "title": "Ruhun benzerliği savı",
+      "paragraphs": [
+        "Görünen beden değişip dağılırken görünmeyen ve akılla kavranan ruhun değişmeyen Formlara daha çok benzediği ileri sürülür. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
+        "Güzel nesne eskir fakat 'güzellik nedir?' sorusu tek nesnenin ömrünü aşar; Sokrates ruhu bu ikinci alana yaklaştırır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
+        "Görünmez olanın yok olmaz olduğu sonucu kendiliğinden çıkmaz; ses ve düşünce gibi görünmez şeyler de sona erebilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
+        "Bir benzerlik argümanında ortak özellikten hangi sonuca geçildiğini ve aradaki boşluğu görmek eleştirel okumayı güçlendirir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+      ]
+    },
+    {
+      "id": "durak-16-simmias-ve-kebes-in-itirazlari",
+      "section": "İKİNCİ DİYALOG · PHAİDON",
+      "title": "Simmias ve Kebes'in itirazları",
+      "paragraphs": [
+        "Simmias ruhun lirdeki uyum gibi bedenin ürünü olabileceğini, Kebes ise birçok beden eskiten dokumacı gibi ruhun da sonunda ölebileceğini söyler. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
+        "Lir kırılınca uyum kaybolur; dokumacı birçok paltoyu eskitse bile son paltosundan önce ölebilir. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
+        "Platon karşı görüşleri kukla yapmaz; güçlü itirazlar Sokrates'in savını yeniden kurmaya zorlar. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
+        "Bir fikre inanıyor olsanız bile ona yöneltilebilecek en güçlü iki itirazı kendiniz yazmak düşünceyi savunmadan önce sınar. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+      ]
+    },
+    {
+      "id": "durak-17-zehir-kasesi-ve-horoz-borcu",
+      "section": "İKİNCİ DİYALOG · PHAİDON",
+      "title": "Zehir kâsesi ve horoz borcu",
+      "paragraphs": [
+        "Sokrates zehri sakinlikle içer ve son sözünde Asklepios'a bir horoz borçlu olduklarını söyler; felsefi yaşam bedensel ölüm sahnesinde tamamlanır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
+        "Baldırlarından yukarı soğukluk ilerlerken dostları ağlar, Sokrates ise Kriton'a unutulmaması gereken küçük borcu hatırlatır. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
+        "Son sözün anlamı kesin değildir; ölümü hastalıktan iyileşme saymak çekici ama tartışmalı yorumlardan yalnız biridir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
+        "Büyük vedalarda bile küçük bir söz, borç veya bakım işi insanın değerlerini gösterebilir; anlam bazen görkemden değil ayrıntıdan doğar. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+      ]
+    },
+    {
+      "id": "durak-18-kitabin-kolay-yanlis-anlasilacagi-yer",
+      "section": "SON DURAKLAR · SINIR",
+      "title": "Kitabın kolay yanlış anlaşılacağı yer",
+      "paragraphs": [
+        "Şölen her romantik arzunun ruh eşi arayışı olduğunu, Phaidon ise ölümün kanıtlanmış biçimde güzel olduğunu söyleyen basit metinler değildir. Diyaloglar farklı sesleri ve itirazları sahneleyerek okuru sonuca ortak eder.",
+        "Aristophanes'in yarım insan masalı akılda kalır; fakat diyaloğun son sözü değildir. Ardından Diotima'nın eksiklik, üretme ve güzelliğe yükselme anlatısı gelir.",
+        "Şölen & Phaidon için doğru okuma, güçlü cümleyi tek başına taşımak yerine onu destekleyen örneği ve sınırını da birlikte hatırlamaktır."
+      ]
+    },
+    {
+      "id": "durak-19-kitap-hakkinda-suren-tartisma",
+      "section": "SON DURAKLAR · TARTIŞMA",
+      "title": "Kitap hakkında süren tartışma",
+      "paragraphs": [
+        "Şölen aşk felsefesinin, Phaidon ruh ve ölüm tartışmasının en etkili metinleri arasında kaldı; edebî sahneleri felsefi argümanla birleştirmeleri yüzyıllar boyunca yeni yorumlar üretti.",
+        "Modern yorumcular bedenin ve tekil ilişkinin aşağı görülmesini, kadınların çoğunlukla anlatı dışında kalmasını ve ruhun ölümsüzlüğü için verilen savların mantıksal boşluklarını tartışır.",
+        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Şölen & Phaidon bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+      ]
+    },
+    {
+      "id": "durak-20-bugune-tasinan-uc-soru",
+      "section": "SON DURAKLAR · BUGÜN",
+      "title": "Bugüne taşınan üç soru",
+      "paragraphs": [
+        "Arzum yalnız sahip olmak mı, beni daha geniş bir iyiyi görmeye mi götürüyor? Güzel söz ile iyi argümanı ayırabiliyor muyum? Ölüm korkusu bugün nasıl yaşamam gerektiğini değiştiriyor mu?",
+        "Sevdiğiniz bir kişi veya şeyden başlayıp onda sizi çeken niteliği daha geniş insanlarda, işlerde ve fikirlerde nerede gördüğünüzü yazın; sonra bu yükselişin tekil kişiyi silip silmediğini kontrol edin.",
+        "Şölen & Phaidon bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+      ]
+    },
+    {
+      "id": "durak-21-bir-cumlede-kitabin-ozu",
+      "section": "SON DURAKLAR · ÖZ",
+      "title": "Bir cümlede kitabın özü",
+      "paragraphs": [
+        "Aşk eksiklikten doğan fakat insanı güzellik ve iyilik arayışında yükseltebilen bir hareket; felsefe ise bu arayışı ölüm karşısında bile sorgulamayı sürdüren yaşam biçimidir.",
+        "Akılda tutulacak son görüntü, bir yanında şarap kâseleri ve aşk merdiveni, öte yanında hapishane yatağı ve zehir kâsesi bulunan; ortasında Sokrates'in sorusu yükselen mor-altın çift sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
+        "Şölen & Phaidon adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+      ]
+    }
+  ],
+  "chapterArtworks": {
+    "durak-02-ziyafetin-cercevesi": {
+      "image": "/images/summary-art-69-chapter-01-ziyafetin-cercevesi-v1.webp",
+      "imageCaption": "Ziyafetin çerçevesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-03-phaidros-ask-kahraman-yapar": {
+      "image": "/images/summary-art-69-chapter-02-phaidros-ask-kahraman-yapar-v1.webp",
+      "imageCaption": "Phaidros: Aşk kahraman yapar düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-04-pausanias-her-ask-ayni-degildir": {
+      "image": "/images/summary-art-69-chapter-03-pausanias-her-ask-ayni-degildir-v1.webp",
+      "imageCaption": "Pausanias: Her aşk aynı değildir düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-05-eryksimakhos-evrenin-dengesi": {
+      "image": "/images/summary-art-69-chapter-04-eryksimakhos-evrenin-dengesi-v1.webp",
+      "imageCaption": "Eryksimakhos: Evrenin dengesi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-06-aristophanes-in-ikiye-bolunen-insani": {
+      "image": "/images/summary-art-69-chapter-05-aristophanes-in-ikiye-bolunen-insani-v1.webp",
+      "imageCaption": "Aristophanes'in ikiye bölünen insanı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-07-agathon-un-guzel-konusmasi": {
+      "image": "/images/summary-art-69-chapter-06-agathon-un-guzel-konusmasi-v1.webp",
+      "imageCaption": "Agathon'un güzel konuşması düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-08-sokrates-ve-diotima-arzu-neyi-ister": {
+      "image": "/images/summary-art-69-chapter-07-sokrates-ve-diotima-arzu-neyi-ister-v1.webp",
+      "imageCaption": "Sokrates ve Diotima: Arzu neyi ister? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-09-ask-merdiveni": {
+      "image": "/images/summary-art-69-chapter-08-ask-merdiveni-v1.webp",
+      "imageCaption": "Aşk merdiveni düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-10-alkibiades-kapidan-girer": {
+      "image": "/images/summary-art-69-chapter-09-alkibiades-kapidan-girer-v1.webp",
+      "imageCaption": "Alkibiades kapıdan girer düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-11-hapishanedeki-son-sabah": {
+      "image": "/images/summary-art-69-chapter-10-hapishanedeki-son-sabah-v1.webp",
+      "imageCaption": "Hapishanedeki son sabah düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-12-felsefe-olume-hazirlik-mi": {
+      "image": "/images/summary-art-69-chapter-11-felsefe-olume-hazirlik-mi-v1.webp",
+      "imageCaption": "Felsefe ölüme hazırlık mı? düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-13-karsitlardan-dogma-savi": {
+      "image": "/images/summary-art-69-chapter-12-karsitlardan-dogma-savi-v1.webp",
+      "imageCaption": "Karşıtlardan doğma savı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-14-hatirlama-ve-esitligin-kendisi": {
+      "image": "/images/summary-art-69-chapter-13-hatirlama-ve-esitligin-kendisi-v1.webp",
+      "imageCaption": "Hatırlama ve eşitliğin kendisi düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-15-ruhun-benzerligi-savi": {
+      "image": "/images/summary-art-69-chapter-14-ruhun-benzerligi-savi-v1.webp",
+      "imageCaption": "Ruhun benzerliği savı düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-16-simmias-ve-kebes-in-itirazlari": {
+      "image": "/images/summary-art-69-chapter-15-simmias-ve-kebes-in-itirazlari-v1.webp",
+      "imageCaption": "Simmias ve Kebes'in itirazları düşüncesini hatırlatan simgesel bölüm resmi."
+    },
+    "durak-17-zehir-kasesi-ve-horoz-borcu": {
+      "image": "/images/summary-art-69-chapter-16-zehir-kasesi-ve-horoz-borcu-v1.webp",
+      "imageCaption": "Zehir kâsesi ve horoz borcu düşüncesini hatırlatan simgesel bölüm resmi."
+    }
+  }
+}
