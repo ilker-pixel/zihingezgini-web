@@ -119,6 +119,23 @@
     "language": "Türkçe"
   },
   "intro": "Bir ülkeyi yalnız haber görüntüleri, filmler ve turistik afişlerden tanırsak gerçekten o toplumu mu görürüz, yoksa seçilmiş dar bir çerçeveyi mi? Edward Said'in kitabı gezi yazısı, roman, resim, okul, müze ve devlet raporlarının tekrar eden bir Doğu görüntüsünü nasıl kurduğunu inceler. Bu özet bilgi ile güç arasındaki bağı anlatırken 'Batı'dan gelen her bilgi kötüdür' gibi kolay ve yanlış bir sonuca düşmez.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Penguin Random House - Orientalism",
+      "url": "https://www.penguinrandomhouse.com/books/159783/orientalism-by-edward-w-said/"
+    },
+    {
+      "id": 2,
+      "title": "Stanford Encyclopedia of Philosophy - Colonialism",
+      "url": "https://plato.stanford.edu/entries/colonialism/"
+    },
+    {
+      "id": 3,
+      "title": "UNESCO - Media Pluralism and Diversity",
+      "url": "https://www.unesco.org/en/media-pluralism-diversity/media-diversity"
+    }
+  ],
   "chapters": [
     {
       "id": "baslangic-01-bir-ulkeyi-tek-fotografla-taniyabilir-miyiz",

@@ -32,6 +32,21 @@
       "id": 3,
       "title": "Zihin Gezgini - Başlangıç",
       "url": "/"
+    },
+    {
+      "id": 4,
+      "title": "UNESCO - Recommendation on the Ethics of Artificial Intelligence",
+      "url": "https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence"
+    },
+    {
+      "id": 5,
+      "title": "NIST - AI Risk Management Framework",
+      "url": "https://airc.nist.gov/airmf-resources/airmf/"
+    },
+    {
+      "id": 6,
+      "title": "OECD - AI Principles",
+      "url": "https://www.oecd.org/en/topics/ai-principles.html"
     }
   ],
   "enrichmentStandardVersion": 3,

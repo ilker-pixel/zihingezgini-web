@@ -17,6 +17,28 @@
     "language": "Türkçe"
   },
   "intro": "Büyük Tarih kamerasını insanlardan çok önceye çevirir. Evrenin başlangıcından yıldızlara, Dünya'dan yaşama, kolektif öğrenmeden tarıma ve sanayi çağına kadar uzanan bağlantıları günlük örneklerle görünür kılar. Bu özet tarih ezberletmek yerine bir sofradaki ekmeğin bile milyarlarca yıllık kozmik, biyolojik ve toplumsal hazırlık taşıdığını gösterir.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "University of California Press - Maps of Time",
+      "url": "https://www.ucpress.edu/books/maps-of-time/paper"
+    },
+    {
+      "id": 2,
+      "title": "Big History Project - About",
+      "url": "https://www.bighistoryproject.com/about"
+    },
+    {
+      "id": 3,
+      "title": "NASA Science - Universe Overview",
+      "url": "https://science.nasa.gov/universe/overview/"
+    },
+    {
+      "id": 4,
+      "title": "USGS - Geologic Time",
+      "url": "https://pubs.usgs.gov/gip/geotime/"
+    }
+  ],
   "chapters": [
     {
       "id": "baslangic-01-bu-kitap-neden-insanlardan-once-basliyor",

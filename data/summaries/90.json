@@ -17,6 +17,23 @@
     "language": "Türkçe"
   },
   "intro": "Sisifos Söyleni bir roman değil, insanın en rahatsız edici sorularından birinin çevresinde yürüyen denemedir: Dünya kesin bir anlam vermiyorsa yaşamaya nasıl devam edeceğiz? Bu özet gündelik tekrar, ölüm, aklın sınırı, özgürlük, sanat ve Sisifos görüntüsünü ağır felsefe diline boğmadan anlatır. Metindeki yaşamdan vazgeçme tartışmasını ölüm övgüsü gibi değil, yaşam tarafında kalma çabası olarak açıkça sınırlar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Penguin Random House - The Myth of Sisyphus",
+      "url": "https://www.penguinrandomhouse.com/books/23470/the-myth-of-sisyphus-by-albert-camus/9780525564454/"
+    },
+    {
+      "id": 2,
+      "title": "Nobel Prize - Albert Camus Facts",
+      "url": "https://www.nobelprize.org/prizes/literature/1957/camus/facts/"
+    },
+    {
+      "id": 3,
+      "title": "Stanford Encyclopedia of Philosophy - Albert Camus",
+      "url": "https://plato.stanford.edu/entries/camus/"
+    }
+  ],
   "chapters": [
     {
       "id": "baslangic-01-bu-kitap-aslinda-ne-yapiyor",

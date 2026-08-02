@@ -119,6 +119,23 @@
     "language": "Türkçe"
   },
   "intro": "Risk Toplumu, modern üretimin yalnız refah değil, görünmeyen ve sınır aşan tehlikeler de ürettiğini gösterir. Kazancı kim alıyor, riski kim taşıyor ve zarar ortaya çıktığında kim hesap veriyor? Bu özet çevre krizinden çalışma hayatına, bilimden medyaya ve bireyselleşmeden siyasete uzanan yolu gündelik sahnelerle açıklar. Riskin yalnız teknik sayı değil, güven, eşitsizlik ve sorumluluk meselesi olduğunu görünür kılar.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "SAGE - Risk Society",
+      "url": "https://www.sagepub.com/shop/buy-a-book/risk-society-1-203184"
+    },
+    {
+      "id": 2,
+      "title": "IPCC AR6 - Summary for Policymakers",
+      "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/summary-for-policymakers/"
+    },
+    {
+      "id": 3,
+      "title": "UNDRR - Briefing Note on Systemic Risk",
+      "url": "https://www.undrr.org/publication/briefing-note-systemic-risk"
+    }
+  ],
   "chapters": [
     {
       "id": "baslangic-01-gormedigimiz-seyden-neden-korkariz",

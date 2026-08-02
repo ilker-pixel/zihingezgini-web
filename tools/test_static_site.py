@@ -100,6 +100,16 @@ def check_html(path: Path) -> None:
 
 
 def main() -> int:
+    summary_files = sorted((ROOT / "data/summaries").glob("*.json"))
+    summary_records = [json.loads(path.read_text(encoding="utf-8")) for path in summary_files]
+    for path, summary in zip(summary_files, summary_records):
+        sources = summary.get("sources") or []
+        if not sources:
+            ERRORS.append(f"{path.relative_to(ROOT)}: missing sources")
+            continue
+        if not any(re.match(r"^https?://", source.get("url", "")) for source in sources):
+            ERRORS.append(f"{path.relative_to(ROOT)}: missing external source URL")
+
     generated_roots = [
         "yazilar", "zihin-odasi", "okuma-haritasi", "arastirma-arsivi",
         "arastirma", "kitap-ozetleri", "rastgele",
@@ -117,7 +127,7 @@ def main() -> int:
     if len(locations) != len(set(locations)):
         ERRORS.append("sitemap.xml contains duplicate URLs")
     expected_url_count = 5 + len(json.loads((ROOT / "data/posts.json").read_text(encoding="utf-8")))
-    expected_url_count += len(list((ROOT / "data/summaries").glob("*.json")))
+    expected_url_count += len(summary_records)
     expected_url_count += len(json.loads((ROOT / "data/kutuphane_index.json").read_text(encoding="utf-8")))
     if len(locations) != expected_url_count:
         ERRORS.append(f"sitemap.xml has {len(locations)} URLs; expected {expected_url_count}")
@@ -129,9 +139,16 @@ def main() -> int:
     error_parser.feed((ROOT / "404.html").read_text(encoding="utf-8"))
     if not any("noindex" in value for value in error_parser.robots):
         ERRORS.append("404.html must be marked noindex")
-    for book in json.loads((ROOT / "data/books.json").read_text(encoding="utf-8")):
+    books = json.loads((ROOT / "data/books.json").read_text(encoding="utf-8"))
+    expected_titles = {
+        244: "Sapiens: Hayvanlardan Tanrılara",
+        248: "Yapay Zekâ: Düşünen İnsanlar İçin Bir Rehber",
+    }
+    for book in books:
         if book.get("hasSummary") and not local_target_exists(book.get("summaryUrl", "")):
             ERRORS.append(f"book #{book.get('no')} has no valid summaryUrl")
+        if book.get("no") in expected_titles and book.get("title") != expected_titles[book["no"]]:
+            ERRORS.append(f"book #{book['no']} has an incomplete title")
 
     scoped_search_pages = {
         "yazilar/index.html": len(json.loads((ROOT / "data/posts.json").read_text(encoding="utf-8"))),

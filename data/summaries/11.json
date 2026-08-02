@@ -17,6 +17,28 @@
     "language": "Türkçe"
   },
   "intro": "İnsan doğanın dışında duran ayrı bir varlık mı, yoksa hayvansal geçmişinin üzerine olağanüstü bir kültür kurmuş yakın bir kuzen mi? Bu geniş özet, Jared Diamond'ın on dokuz bölümlük yolunu genetik yakınlıktan dile, sanattan tarıma, sömürgecilikten çevre krizine kadar izliyor. Tartışmalı eski iddiaları bugünkü bilgiyle sınırlıyor; cinsellik, ırk ve şiddet gibi hassas konuları açıklama ile onayı birbirine karıştırmadan ele alıyor.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Penguin Random House - The Third Chimpanzee",
+      "url": "https://www.penguinrandomhouse.com/books/220289/the-third-chimpanzee-by-jared-diamond/"
+    },
+    {
+      "id": 2,
+      "title": "Smithsonian Human Origins Program",
+      "url": "https://humanorigins.si.edu/"
+    },
+    {
+      "id": 3,
+      "title": "National Human Genome Research Institute - Human Genome Project",
+      "url": "https://www.genome.gov/15515096"
+    },
+    {
+      "id": 4,
+      "title": "IPBES - Global Assessment Report",
+      "url": "https://www.ipbes.net/global-assessment"
+    }
+  ],
   "chapters": [
     {
       "id": "baslangic-01-bu-kitap-aslinda-hangi-soruyu-soruyor",
