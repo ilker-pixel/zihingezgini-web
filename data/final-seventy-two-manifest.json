@@ -1,7 +1,7 @@
 {
   "version": 1,
   "createdAt": "2026-08-02T06:34:15+00:00",
-  "updatedAt": "2026-08-02T09:10:54+00:00",
+  "updatedAt": "2026-08-02T10:23:03+00:00",
   "targetCharacters": 20000,
   "characterGate": [
     18000,
@@ -670,9 +670,31 @@
       "category": "Sosyoloji",
       "batch": 3,
       "position": 1,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "175": 27,
+          "177": 27,
+          "180": 27,
+          "198": 27,
+          "202": 27,
+          "203": 27,
+          "206": 27,
+          "207": 27,
+          "208": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T10:22:13+00:00"
     },
     {
       "no": 177,
@@ -681,9 +703,31 @@
       "category": "Sosyoloji",
       "batch": 3,
       "position": 2,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "175": 27,
+          "177": 27,
+          "180": 27,
+          "198": 27,
+          "202": 27,
+          "203": 27,
+          "206": 27,
+          "207": 27,
+          "208": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T10:22:13+00:00"
     },
     {
       "no": 180,
@@ -692,9 +736,31 @@
       "category": "Sosyoloji",
       "batch": 3,
       "position": 3,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "175": 27,
+          "177": 27,
+          "180": 27,
+          "198": 27,
+          "202": 27,
+          "203": 27,
+          "206": 27,
+          "207": 27,
+          "208": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T10:22:13+00:00"
     },
     {
       "no": 198,
@@ -703,9 +769,31 @@
       "category": "Gazetecilik Tarihi",
       "batch": 3,
       "position": 4,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "175": 27,
+          "177": 27,
+          "180": 27,
+          "198": 27,
+          "202": 27,
+          "203": 27,
+          "206": 27,
+          "207": 27,
+          "208": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T10:22:13+00:00"
     },
     {
       "no": 202,
@@ -714,9 +802,31 @@
       "category": "Post-Yapısalcı Felsefe",
       "batch": 3,
       "position": 5,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "175": 27,
+          "177": 27,
+          "180": 27,
+          "198": 27,
+          "202": 27,
+          "203": 27,
+          "206": 27,
+          "207": 27,
+          "208": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T10:22:13+00:00"
     },
     {
       "no": 203,
@@ -725,9 +835,31 @@
       "category": "Post-Yapısalcı Felsefe",
       "batch": 3,
       "position": 6,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "175": 27,
+          "177": 27,
+          "180": 27,
+          "198": 27,
+          "202": 27,
+          "203": 27,
+          "206": 27,
+          "207": 27,
+          "208": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T10:22:13+00:00"
     },
     {
       "no": 206,
@@ -736,9 +868,31 @@
       "category": "Edebi Teori",
       "batch": 3,
       "position": 7,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "175": 27,
+          "177": 27,
+          "180": 27,
+          "198": 27,
+          "202": 27,
+          "203": 27,
+          "206": 27,
+          "207": 27,
+          "208": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T10:22:13+00:00"
     },
     {
       "no": 207,
@@ -747,9 +901,31 @@
       "category": "Estetik & Politika",
       "batch": 3,
       "position": 8,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "175": 27,
+          "177": 27,
+          "180": 27,
+          "198": 27,
+          "202": 27,
+          "203": 27,
+          "206": 27,
+          "207": 27,
+          "208": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T10:22:13+00:00"
     },
     {
       "no": 208,
@@ -758,9 +934,31 @@
       "category": "Siyaset & Estetik",
       "batch": 3,
       "position": 9,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "175": 27,
+          "177": 27,
+          "180": 27,
+          "198": 27,
+          "202": 27,
+          "203": 27,
+          "206": 27,
+          "207": 27,
+          "208": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T10:22:13+00:00"
     },
     {
       "no": 219,
