@@ -1,7 +1,7 @@
 {
   "version": 1,
   "createdAt": "2026-08-02T06:34:15+00:00",
-  "updatedAt": "2026-08-02T11:40:15+00:00",
+  "updatedAt": "2026-08-02T13:05:24+00:00",
   "targetCharacters": 20000,
   "characterGate": [
     18000,
@@ -1264,9 +1264,31 @@
       "category": "Tarih & Sosyoloji",
       "batch": 5,
       "position": 1,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "236": 27,
+          "237": 27,
+          "246": 27,
+          "247": 27,
+          "249": 27,
+          "250": 27,
+          "252": 27,
+          "257": 27,
+          "260": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T13:05:23+00:00"
     },
     {
       "no": 237,
@@ -1275,9 +1297,31 @@
       "category": "Sosyoloji & Cinsellik",
       "batch": 5,
       "position": 2,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "236": 27,
+          "237": 27,
+          "246": 27,
+          "247": 27,
+          "249": 27,
+          "250": 27,
+          "252": 27,
+          "257": 27,
+          "260": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T13:05:23+00:00"
     },
     {
       "no": 246,
@@ -1286,9 +1330,31 @@
       "category": "Siyaset Felsefesi",
       "batch": 5,
       "position": 3,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "236": 27,
+          "237": 27,
+          "246": 27,
+          "247": 27,
+          "249": 27,
+          "250": 27,
+          "252": 27,
+          "257": 27,
+          "260": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T13:05:23+00:00"
     },
     {
       "no": 247,
@@ -1297,9 +1363,31 @@
       "category": "Siyaset Felsefesi",
       "batch": 5,
       "position": 4,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "236": 27,
+          "237": 27,
+          "246": 27,
+          "247": 27,
+          "249": 27,
+          "250": 27,
+          "252": 27,
+          "257": 27,
+          "260": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T13:05:23+00:00"
     },
     {
       "no": 249,
@@ -1308,9 +1396,31 @@
       "category": "Teknoloji Felsefesi",
       "batch": 5,
       "position": 5,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "236": 27,
+          "237": 27,
+          "246": 27,
+          "247": 27,
+          "249": 27,
+          "250": 27,
+          "252": 27,
+          "257": 27,
+          "260": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T13:05:23+00:00"
     },
     {
       "no": 250,
@@ -1319,9 +1429,31 @@
       "category": "Sosyoloji",
       "batch": 5,
       "position": 6,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "236": 27,
+          "237": 27,
+          "246": 27,
+          "247": 27,
+          "249": 27,
+          "250": 27,
+          "252": 27,
+          "257": 27,
+          "260": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T13:05:23+00:00"
     },
     {
       "no": 252,
@@ -1330,9 +1462,31 @@
       "category": "Bilim Felsefesi",
       "batch": 5,
       "position": 7,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "236": 27,
+          "237": 27,
+          "246": 27,
+          "247": 27,
+          "249": 27,
+          "250": 27,
+          "252": 27,
+          "257": 27,
+          "260": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T13:05:23+00:00"
     },
     {
       "no": 257,
@@ -1341,9 +1495,31 @@
       "category": "Yapay Zeka & Fütürizm",
       "batch": 5,
       "position": 8,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "236": 27,
+          "237": 27,
+          "246": 27,
+          "247": 27,
+          "249": 27,
+          "250": 27,
+          "252": 27,
+          "257": 27,
+          "260": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T13:05:23+00:00"
     },
     {
       "no": 260,
@@ -1352,9 +1528,31 @@
       "category": "Fenomenoloji",
       "batch": 5,
       "position": 9,
-      "stage": "selected",
-      "checks": {},
-      "updatedAt": "2026-08-02T06:34:15+00:00"
+      "stage": "site_ready",
+      "checks": {
+        "chapterImages": 16,
+        "coverIndependent": true,
+        "pageCounts": {
+          "236": 27,
+          "237": 27,
+          "246": 27,
+          "247": 27,
+          "249": 27,
+          "250": 27,
+          "252": 27,
+          "257": 27,
+          "260": 27
+        },
+        "embeddedImages": 17,
+        "characterGate": true,
+        "exactSharedParagraphs": 0,
+        "nearDuplicateParagraphs": 0,
+        "repeatedLongSentences": 0,
+        "allPagesRendered": true,
+        "visualInspection": "passed",
+        "staticIntegration": true
+      },
+      "updatedAt": "2026-08-02T13:05:23+00:00"
     },
     {
       "no": 261,
