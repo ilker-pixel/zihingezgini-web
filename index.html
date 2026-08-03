@@ -1,19 +1,10 @@
 <!DOCTYPE html>
 <html lang="tr" class="light-theme">
 <head>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0JV113Z5L4"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-0JV113Z5L4');
-  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Zihin Gezgini | Kişisel Düşünce Arşivi</title>
-  <link rel="icon" type="image/png" href="/images/zihin_gezgini_logo_sketch.png">
+  <link rel="icon" type="image/webp" href="/images/optimized/zihin_gezgini_logo_sketch-960.webp">
   
   <!-- SEO Meta Tags -->
   <meta name="description" content="Yapay zekâ çağında insan kalma çabası. İlker Manavoğlu'nun kişisel yazıları, okuma notları ve analog üretimleri.">
@@ -35,11 +26,6 @@
   <meta property="twitter:description" id="twitter-description" content="Yapay zekâ çağında insan kalma çabası. İlker Manavoğlu'nun kişisel yazıları, okuma notları ve analog üretimleri.">
   <meta property="twitter:image" id="twitter-image" content="https://zihingezgini.net/images/thinking_man_sketch.png">
 
-  <!-- Google Fonts: Playfair Display (Headers) & Lora (Body Text) & Inter (UI Elements) -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
-  
   <link rel="stylesheet" href="/style.css?v=65">
   <link rel="stylesheet" href="/zihin-v2.css?v=4">
   <script src="/legacy-routes.js"></script>
@@ -58,8 +44,8 @@
     <!-- Site Header -->
     <header class="site-header">
       <div class="header-inner">
-        <a href="/" class="logo-link" id="logo-link" aria-label="Zihin Gezgini ana sayfa">
-          <img src="/images/zihin_gezgini_logo_sketch.png" class="header-logo" alt="">
+        <a href="/" class="logo-link" id="logo-link" aria-label="Zihin Gezgini kişisel düşünce arşivi ana sayfası">
+          <img src="/images/optimized/zihin_gezgini_logo_sketch-960.webp" class="header-logo" width="72" height="72" alt="">
           <span class="brand-copy">
             <span class="brand-kicker">Kişisel düşünce arşivi</span>
             <span class="site-title">Zihin Gezgini</span>
@@ -71,6 +57,7 @@
           <a href="/okuma-haritasi/" class="nav-link" id="nav-roadmap">Okuma Haritası</a>
           <a href="/arastirma-arsivi/" class="nav-link" id="nav-library">Araştırma Arşivi</a>
           <a href="/zihin-odasi/" class="nav-link" id="nav-about">Zihin Odası</a>
+          <a href="/arama/" class="nav-link">Arama</a>
           <a href="/rastgele/" class="nav-link nav-link-random" id="nav-random" title="Rastgele bir yazı">Rastgele ↝</a>
           <button id="theme-toggle" class="theme-toggle-btn" title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
         </nav>
@@ -85,7 +72,7 @@
         <section class="home-hero" aria-labelledby="home-hero-title">
           <div class="home-hero-copy">
             <p class="hero-kicker">İlker Manavoğlu'nun kişisel alanı</p>
-            <h2 id="home-hero-title">Yapay zekâ çağında<br><em>insan kalma</em> çabası.</h2>
+            <h1 id="home-hero-title">Yapay zekâ çağında<br><em>insan kalma</em> çabası.</h1>
             <p class="hero-lead">Okuduklarımı, düşündüklerimi ve denediklerimi biriktirdiğim sade bir zihin odası. Yapay zekâ burada araç; yaşanan, düşünülen ve analog kalan şey ise öz.</p>
             <div class="hero-actions">
               <a href="/zihin-odasi/" class="primary-link">Bu alanın hikâyesi <span>↗</span></a>
@@ -94,7 +81,7 @@
           </div>
           <figure class="home-hero-visual">
             <div class="hero-image-frame">
-              <img src="/images/thinking_man_sketch.png" alt="Düşünen insan çizimi">
+              <img src="/images/optimized/thinking_man_sketch-960.webp" width="720" height="720" decoding="async" fetchpriority="high" alt="Düşünen insan çizimi">
             </div>
             <figcaption>Yapay zekâ araç.<br>Analog olan öz.</figcaption>
           </figure>
@@ -231,15 +218,13 @@
               <a href="/okuma-haritasi/" class="back-to-roadmap-btn">← Yol Haritasına Dön</a>
               <div class="summary-meta-top">
                 <span class="summary-meta-book-no" id="reader-book-no">#1</span>
-                <h1 class="summary-book-title" id="summary-reader-book-title">Zamanın Kısa Tarihi</h1>
+                <h2 class="summary-book-title" id="summary-reader-book-title">Zamanın Kısa Tarihi</h2>
                 <span class="summary-book-author" id="reader-book-author">Stephen Hawking</span>
               </div>
               <p class="summary-book-subtitle" id="reader-book-subtitle"></p>
               
               <div class="summary-book-meta-box">
                   <div class="meta-box-item"><strong>Orijinal Adı:</strong> <span id="reader-meta-original"></span></div>
-                  <div class="meta-box-item"><strong>Derleyen:</strong> <span id="reader-meta-compiler"></span></div>
-                  <div class="meta-box-item"><strong>Tarih:</strong> <span id="reader-meta-date"></span></div>
               </div>
             </div>
             <div class="summary-hero-right">
@@ -296,11 +281,11 @@
         </div>
 
         <div class="footer-socials">
-          <a href="https://www.youtube.com/@Zihin_Gezgini" target="_blank" title="YouTube">YouTube</a>
-          <a href="https://zihingezgini.substack.com" target="_blank" title="Substack">Substack</a>
-          <a href="https://open.spotify.com/show/3PLOqIu8IrkzFu30aA6cQB?si=b2e1cb1716954477" target="_blank" title="Spotify">Spotify</a>
-          <a href="https://podcasts.apple.com/tr/podcast/zihin-gezgini/id1812203751" target="_blank" title="Apple Podcasts">Apple Podcasts</a>
-          <a href="https://instagram.com/zihin_gezgini" target="_blank" title="Instagram">Instagram</a>
+          <a href="https://www.youtube.com/@Zihin_Gezgini" target="_blank" rel="noopener" title="YouTube">YouTube</a>
+          <a href="https://zihingezgini.substack.com" target="_blank" rel="noopener" title="Substack">Substack</a>
+          <a href="https://open.spotify.com/show/3PLOqIu8IrkzFu30aA6cQB?si=b2e1cb1716954477" target="_blank" rel="noopener" title="Spotify">Spotify</a>
+          <a href="https://podcasts.apple.com/tr/podcast/zihin-gezgini/id1812203751" target="_blank" rel="noopener" title="Apple Podcasts">Apple Podcasts</a>
+          <a href="https://instagram.com/zihin_gezgini" target="_blank" rel="noopener" title="Instagram">Instagram</a>
         </div>
         <p>&copy; 2026 Zihin Gezgini · İlker Manavoğlu'nun kişisel düşünce arşivi.</p>
         <p class="footer-sub">Analog düşünceler, dijital kâğıt üzerine.</p>
@@ -331,7 +316,7 @@
         </aside>
         
         <!-- Right Panel: Main Text Reader -->
-        <main class="reader-body">
+        <div class="reader-body" role="document">
           <div class="reader-toolbar">
             <button id="reader-toc-toggle" class="tool-btn mobile-toc-toggle-btn">☰ Fihrist</button>
             <div class="font-controls">
@@ -351,7 +336,7 @@
           <article class="reader-text-content" id="reader-text-container">
             <!-- Active chapter text renders here -->
           </article>
-        </main>
+        </div>
       </div>
     </div>
   </div>

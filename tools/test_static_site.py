@@ -112,7 +112,7 @@ def main() -> int:
 
     generated_roots = [
         "yazilar", "zihin-odasi", "okuma-haritasi", "arastirma-arsivi",
-        "arastirma", "kitap-ozetleri", "rastgele",
+        "arastirma", "kitap-ozetleri", "rastgele", "arama",
     ]
     html_files = [ROOT / "index.html", ROOT / "404.html"]
     for directory in generated_roots:
@@ -126,7 +126,7 @@ def main() -> int:
         ERRORS.append("sitemap.xml contains fragment URLs")
     if len(locations) != len(set(locations)):
         ERRORS.append("sitemap.xml contains duplicate URLs")
-    expected_url_count = 5 + len(json.loads((ROOT / "data/posts.json").read_text(encoding="utf-8")))
+    expected_url_count = 6 + len(json.loads((ROOT / "data/posts.json").read_text(encoding="utf-8")))
     expected_url_count += len(summary_records)
     expected_url_count += len(json.loads((ROOT / "data/kutuphane_index.json").read_text(encoding="utf-8")))
     if len(locations) != expected_url_count:
@@ -150,6 +150,20 @@ def main() -> int:
         if book.get("no") in expected_titles and book.get("title") != expected_titles[book["no"]]:
             ERRORS.append(f"book #{book['no']} has an incomplete title")
 
+    for summary in summary_records:
+        pdf_url = summary.get("pdfUrl")
+        if not pdf_url or not local_target_exists(pdf_url):
+            ERRORS.append(f"summary #{summary.get('bookNo')} has no valid PDF download")
+
+    search_index = json.loads((ROOT / "data/search-index.json").read_text(encoding="utf-8"))
+    expected_search_count = len(summary_records)
+    expected_search_count += len(json.loads((ROOT / "data/posts.json").read_text(encoding="utf-8")))
+    expected_search_count += len(json.loads((ROOT / "data/kutuphane_index.json").read_text(encoding="utf-8")))
+    if len(search_index) != expected_search_count:
+        ERRORS.append(f"search index has {len(search_index)} records; expected {expected_search_count}")
+    if {record.get("type") for record in search_index} != {"post", "summary", "research"}:
+        ERRORS.append("search index does not contain all three content types")
+
     scoped_search_pages = {
         "yazilar/index.html": len(json.loads((ROOT / "data/posts.json").read_text(encoding="utf-8"))),
         "okuma-haritasi/index.html": len(json.loads((ROOT / "data/books.json").read_text(encoding="utf-8"))),
@@ -169,6 +183,31 @@ def main() -> int:
         ERRORS.append("index.html still contains the verification placeholder")
     if re.search(r"new Date\(\)\.getTime\(\)", (ROOT / "app.js").read_text(encoding="utf-8")):
         ERRORS.append("app.js still bypasses caches with timestamps")
+
+    homepage = (ROOT / "index.html").read_text(encoding="utf-8")
+    if homepage.count("<main") != 1:
+        ERRORS.append(f"index.html must contain exactly one main landmark; found {homepage.count('<main')}")
+    if homepage.count("<h1") != 1:
+        ERRORS.append(f"index.html must contain exactly one h1; found {homepage.count('<h1')}")
+    if "googletagmanager.com" in homepage or "fonts.googleapis.com" in homepage:
+        ERRORS.append("index.html still contains a blocking analytics or remote-font request")
+
+    roadmap = (ROOT / "okuma-haritasi/index.html").read_text(encoding="utf-8")
+    required_roadmap_features = (
+        "data-roadmap-filter=", "data-random-book", "data-export-progress",
+        "data-import-progress", "data-roadmap-jump", "start-routes-grid",
+    )
+    for feature in required_roadmap_features:
+        if feature not in roadmap:
+            ERRORS.append(f"reading map is missing feature marker {feature}")
+
+    for path in (ROOT / "kitap-ozetleri").glob("*/index.html"):
+        source = path.read_text(encoding="utf-8")
+        if "<strong>Derleyen:</strong>" in source or "<strong>Tarih:</strong>" in source:
+            ERRORS.append(f"{path.relative_to(ROOT)} exposes disallowed editorial status metadata")
+        for marker in ("data-reading-progress", "data-reader-resume", "data-reader-print", "data-reader-width"):
+            if marker not in source:
+                ERRORS.append(f"{path.relative_to(ROOT)} is missing reader feature {marker}")
 
     if ERRORS:
         print("Static site checks failed:")

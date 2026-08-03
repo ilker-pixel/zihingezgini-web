@@ -30,8 +30,8 @@
     },
     {
       "id": 3,
-      "title": "Cornell Messenger Lectures - Richard Feynman",
-      "url": "https://www.cornell.edu/video/playlist/richard-feynman-messenger-lectures"
+      "title": "Caltech - Feynman's Messenger Lectures",
+      "url": "https://www.feynmanlectures.caltech.edu/messenger.html"
     }
   ],
   "enrichmentStandardVersion": 1,
@@ -51,13 +51,13 @@
       "section": "BİRİNCİ KONFERANS · ÇEKİM",
       "title": "Kütleçekim yasası neden örnek yasadır?",
       "paragraphs": [
-        "Newton'un kütleçekimi göksel ve yersel hareketi tek ilişkiye bağladığı için fizik yasasının karakterini sergiler: sade matematik çok farklı olayları açıklar. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Newton'un kütleçekimi göksel ve yersel hareketi tek ilişkiye bağladığı için fizik yasasının karakterini sergiler: sade matematik çok farklı olayları açıklar.",
         "Düşen elma ile Ay'ın yörüngesi ayrı hikâyeler görünür; Ay aslında sürekli düşer ama yatay hızı yüzünden Dünya'yı ıskalar.",
-        "Newton yasası göreliliğin sınırında yaklaşık kalır; yine de günlük ve gezegensel ölçekte olağanüstü işler. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Newton yasası göreliliğin sınırında yaklaşık kalır; yine de günlük ve gezegensel ölçekte olağanüstü işler.",
         "Bir modelin yanlışlanmış değil, hangi ölçekte yeterli yaklaşık olduğunu sorun."
       ],
       "extraParagraphs": [
-        "Bu durağı biraz daha yakından düşündüğümüzde, “Kütleçekim yasası neden örnek yasadır?” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+        "Bu durağı biraz daha yakından düşündüğümüzde, “Kütleçekim yasası neden örnek yasadır?” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -65,13 +65,13 @@
       "section": "BİRİNCİ KONFERANS · GEOMETRİ",
       "title": "Ters kare neden yayılmanın izidir?",
       "paragraphs": [
-        "Kütleçekim şiddetinin uzaklığın karesiyle azalması, etkinin büyüyen küre yüzeyine yayılmasıyla geometrik sezgi kazanır. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Kütleçekim şiddetinin uzaklığın karesiyle azalması, etkinin büyüyen küre yüzeyine yayılmasıyla geometrik sezgi kazanır.",
         "Aynı ışık daha büyük kürenin üzerine dağıldıkça her küçük alana daha az düşer.",
-        "Geometrik benzetme kuvvetin mekanizmasını tek başına açıklamaz; alan teorisinin ayrıntısı gerekir. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Geometrik benzetme kuvvetin mekanizmasını tek başına açıklamaz; alan teorisinin ayrıntısı gerekir.",
         "Bir formülde üssün yalnız ezber değil hangi geometrik yayılmadan doğduğunu araştırın."
       ],
       "extraParagraphs": [
-        "Aynı bağlantıya başka bir açıdan bakarsak, “Ters kare neden yayılmanın izidir?” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+        "Aynı bağlantıya başka bir açıdan bakarsak, “Ters kare neden yayılmanın izidir?” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -79,13 +79,13 @@
       "section": "İKİNCİ KONFERANS · MATEMATİK",
       "title": "Matematik doğanın dili mi?",
       "paragraphs": [
-        "Fizik yasaları gündelik sözle tam anlatılamayan ilişkileri matematikle kesinleştirir. Matematik yalnız hesap aracı değil olası sonuçların yapısını taşır. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Fizik yasaları gündelik sözle tam anlatılamayan ilişkileri matematikle kesinleştirir. Matematik yalnız hesap aracı değil olası sonuçların yapısını taşır.",
         "Müzik tarifini 'biraz hızlı' demekle nota ve tempo yazmak arasındaki fark, nicel yasanın gücünü gösterir.",
-        "Denklem anlamın yerine geçmez; ölçüm, fiziksel yorum ve yaklaşık koşul gerekir. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Denklem anlamın yerine geçmez; ölçüm, fiziksel yorum ve yaklaşık koşul gerekir.",
         "Bir grafik gördüğünüzde eksen, birim ve model varsayımını okumadan eğriye hayran kalmayın."
       ],
       "extraParagraphs": [
-        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Matematik doğanın dili mi?” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Matematik doğanın dili mi?” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -93,13 +93,13 @@
       "section": "İKİNCİ KONFERANS · EŞDEĞERLİK",
       "title": "Aynı yasa farklı matematiklerde görünebilir",
       "paragraphs": [
-        "Klasik mekanik kuvvet, enerji ya da en az eylem biçimlerinde eşdeğer anlatılabilir. Aynı doğa farklı matematik kapılarından görülür. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Klasik mekanik kuvvet, enerji ya da en az eylem biçimlerinde eşdeğer anlatılabilir. Aynı doğa farklı matematik kapılarından görülür.",
         "Şehre yol haritası, metro şeması ve yürüyüş tarifiyle bakmak farklı ayrıntıları öne çıkarır ama aynı yere götürür.",
-        "Eşdeğer formülasyonlar yeni teoride aynı derecede kolay genellenmeyebilir; seçim araştırmayı yönlendirir. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Eşdeğer formülasyonlar yeni teoride aynı derecede kolay genellenmeyebilir; seçim araştırmayı yönlendirir.",
         "Tek açıklamaya bağlanmadan aynı sonucu hangi alternatif temsilin daha görünür kıldığını sorun."
       ],
       "extraParagraphs": [
-        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Aynı yasa farklı matematiklerde görünebilir” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Aynı yasa farklı matematiklerde görünebilir” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -107,13 +107,13 @@
       "section": "ÜÇÜNCÜ KONFERANS · KORUNUM",
       "title": "Korunum yasası muhasebe değildir",
       "paragraphs": [
-        "Enerji gibi korunan büyüklük biçim değiştirir ama kapalı sistemin toplam hesabında sabit kalır. Feynman bunu görünmeyen taşlarla oynanan çocuk oyununa benzetir. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Enerji gibi korunan büyüklük biçim değiştirir ama kapalı sistemin toplam hesabında sabit kalır. Feynman bunu görünmeyen taşlarla oynanan çocuk oyununa benzetir.",
         "Kutudaki blok sayısı eksik görünür; biri suya düşmüş, biri halının altındadır. Farklı formüller gizli biçimleri hesaba katar.",
-        "Enerji elle tutulur madde değildir ve genel görelilikte küresel enerji kavramı incelir. Benzetme klasik bağlamdadır. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Enerji elle tutulur madde değildir ve genel görelilikte küresel enerji kavramı incelir. Benzetme klasik bağlamdadır.",
         "Enerji haberinde türleri, sistem sınırını ve kayıp denilen şeyin hangi biçime geçtiğini sorun."
       ],
       "extraParagraphs": [
-        "Buradaki gerilimi akılda tutmanın bir yolu da, “Korunum yasası muhasebe değildir” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+        "Buradaki gerilimi akılda tutmanın bir yolu da, “Korunum yasası muhasebe değildir” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -121,13 +121,13 @@
       "section": "ÜÇÜNCÜ KONFERANS · ALAN",
       "title": "Yerellik: etki komşudan komşuya gider",
       "paragraphs": [
-        "Modern fizik uzaktan anlık etki yerine alanın uzayın her noktasında yerel değişim taşımasını tercih eder. Alan enerji ve momentum taşıyabilir. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Modern fizik uzaktan anlık etki yerine alanın uzayın her noktasında yerel değişim taşımasını tercih eder. Alan enerji ve momentum taşıyabilir.",
         "Stadyum dalgasında kimse bütün tribüne aynı anda emir vermez; hareket komşudan komşuya ilerler.",
-        "Kuantum dolaşıklık yerellik sezgisini zorlar, fakat bilgi ışık hızını aşan basit sinyal gibi taşınmaz. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Kuantum dolaşıklık yerellik sezgisini zorlar, fakat bilgi ışık hızını aşan basit sinyal gibi taşınmaz.",
         "Uzak etki iddiasında aradaki taşıyıcı ve yayılma hızının ne olduğunu sorun."
       ],
       "extraParagraphs": [
-        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Yerellik: etki komşudan komşuya gider” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Yerellik: etki komşudan komşuya gider” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -135,13 +135,13 @@
       "section": "DÖRDÜNCÜ KONFERANS · SİMETRİ",
       "title": "Simetri yalnız güzellik değildir",
       "paragraphs": [
-        "Bir deney döndürüldüğünde, başka yere ya da zamana taşındığında yasa değişmiyorsa simetri vardır. Bu değişmezlik korunum yasalarıyla derin bağ taşır. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Bir deney döndürüldüğünde, başka yere ya da zamana taşındığında yasa değişmiyorsa simetri vardır. Bu değişmezlik korunum yasalarıyla derin bağ taşır.",
         "Futbol kuralı sahanın doğu tarafında başka olsaydı oyun anlamsızlaşırdı; fizik de konumdan bağımsız düzen arar.",
-        "Her durum simetrik değildir; evrenin belirli hali simetriyi kırabilir. Yasa ile çözüm ayrılır. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Her durum simetrik değildir; evrenin belirli hali simetriyi kırabilir. Yasa ile çözüm ayrılır. Bu sınır, kitabı değersizleştirmez.",
         "Bir düzenin görünüşteki simetrisiyle kuralların dönüşüm altındaki değişmezliğini karıştırmayın."
       ],
       "extraParagraphs": [
-        "Bu fikri gerçek bir sınamaya sokmak için, “Simetri yalnız güzellik değildir” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür. İlk sahnede anlatılan durum ile bölümün sonunda açılan güncel sorun yan yana konduğunda, neden tek bir kişiyi suçlamanın ya da tek bir kurala sığınmanın yetersiz kaldığı anlaşılır. Burada önemli olan ayrıntıları çoğaltmak değil, hangi ayrıntının sonucu gerçekten değiştirdiğini fark etmektir. Böyle okunduğunda kavram, soyut bir tanım olmaktan çıkar ve karşılaştığımız yeni bir durumda kendi başımıza sınayabileceğimiz canlı bir düşünme aracına dönüşür."
+        "Bu fikri gerçek bir sınamaya sokmak için, “Simetri yalnız güzellik değildir” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -149,9 +149,9 @@
       "section": "DÖRDÜNCÜ KONFERANS · KIRILAN SİMETRİ",
       "title": "Ayna dünyası her zaman aynı mı?",
       "paragraphs": [
-        "Zayıf etkileşim parite simetrisini ihlal eder; doğa sağ ile solu bazı süreçlerde ayırt eder. Güzel görünen ilke deney karşısında bırakılmalıdır. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Zayıf etkileşim parite simetrisini ihlal eder; doğa sağ ile solu bazı süreçlerde ayırt eder. Güzel görünen ilke deney karşısında bırakılmalıdır.",
         "Ayna filminde vidanın yönü değişir; çoğu fizik olayı çalışır, fakat belirli parçacık bozunmaları aynadaki gibi değildir.",
-        "Simetri kırılması yasasızlık değil daha derin yapının işaretidir. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Simetri kırılması yasasızlık değil daha derin yapının işaretidir.",
         "Bilimde estetik beklentinin veriyle çatıştığında hangisinin kazanması gerektiğini bu örnekle hatırlayın."
       ]
     },
@@ -160,9 +160,9 @@
       "section": "BEŞİNCİ KONFERANS · ZAMAN",
       "title": "Zaman yönü nereden gelir?",
       "paragraphs": [
-        "Temel mikroskobik yasaların çoğu zaman tersine çevrilebilir görünürken kırılan bardak kendiliğinden birleşmez. Makroskobik ok istatistik ve düşük entropili geçmişle ilişkilidir. Yazarın asıl hamlesi, tanıdık görünen bu olayı başka bir merceğin altına koymaktır; mesele tek bir örnek değil, örnekleri birbirine bağlayan düzendir.",
+        "Temel mikroskobik yasaların çoğu zaman tersine çevrilebilir görünürken kırılan bardak kendiliğinden birleşmez. Makroskobik ok istatistik ve düşük entropili geçmişle ilişkilidir.",
         "Filmde bilardo toplarının dağılması doğal, dağınık parçaların tek vuruşta toplanması kuşkulu görünür.",
-        "Kuantum ölçümü ve kozmolojik başlangıç zaman oku sorununu derinleştirir; basit 'düzensizlik artar' sözü yeterli değildir. Ayrıca sonraki araştırmaların ve farklı deneyimlerin eklediği ayrıntılar vardır. Klasik bir eseri canlı tutan şey, ona itiraz edilebilmesi ve yine de iyi sorular bırakabilmesidir.",
+        "Kuantum ölçümü ve kozmolojik başlangıç zaman oku sorununu derinleştirir; basit 'düzensizlik artar' sözü yeterli değildir.",
         "Geri döndürülemez süreçte enerji kadar bilgi ve olası mikrodurum sayısını düşünün."
       ]
     },
@@ -171,9 +171,9 @@
       "section": "ALTINCI KONFERANS · KUANTUM",
       "title": "Kuantum olasılığı bilgisizlikten fazla",
       "paragraphs": [
-        "Kuantum teorisi tek olayın sonucunu yalnız gizli klasik ayrıntılarla değil, temel olasılık genlikleriyle verir. Doğa belirli deneylerde kesin yol sunmaz. Bu fikir ilk bakışta kuru bir tanım gibi durabilir, fakat kitabın geri kalanında hangi ayrıntıları görüp hangilerini kaçıracağımızı belirleyen anahtar tam da budur.",
+        "Kuantum teorisi tek olayın sonucunu yalnız gizli klasik ayrıntılarla değil, temel olasılık genlikleriyle verir. Doğa belirli deneylerde kesin yol sunmaz.",
         "Tek elektronun hangi deliği seçtiğini izlemeyince girişim deseni oluşur; klasik bilye benzetmesi bozulur.",
-        "Kuantum yorumları ölçümün anlamında ayrılır. Teori sonuçlarda olağanüstü kesin, felsefi yorumda çoğuldur. Okurun dikkat etmesi gereken yer tam burasıdır: açıklayıcı bir benzetme ile gerçek dünyanın bütün karmaşıklığı aynı şey değildir.",
+        "Kuantum yorumları ölçümün anlamında ayrılır. Teori sonuçlarda olağanüstü kesin, felsefi yorumda çoğuldur.",
         "Kuantum kelimesini gündelik belirsizliğe süs olarak kullanan iddiada gerçek deney ve denklem bağını sorun."
       ]
     },
@@ -182,9 +182,9 @@
       "section": "ALTINCI KONFERANS · GİRİŞİM",
       "title": "Genlikler önce toplanır",
       "paragraphs": [
-        "Klasik olasılıklar alternatifler için toplanırken kuantumda karmaşık genlikler toplanır, sonra karesi olasılık verir. Alternatifler birbirini güçlendirebilir ya da silebilir. Burada ileri sürülen şey değişmez bir doğa yasası değil, olayların çoğu zaman neden beklediğimizden farklı geliştiğini açıklayan bir düşünme aracıdır.",
+        "Klasik olasılıklar alternatifler için toplanırken kuantumda karmaşık genlikler toplanır, sonra karesi olasılık verir. Alternatifler birbirini güçlendirebilir ya da silebilir.",
         "İki su dalgası tepede buluşunca büyür, tepe ile çukur buluşunca söner; parçacık olasılığı dalga benzeri hesap taşır.",
-        "Genlik fiziksel su dalgası değildir; matematik benzetmesi sınırlıdır. Karşı örnekler özellikle değerlidir; çünkü hangi koşulun eksik olduğunu gösterir ve iddiayı kaba genellemeden daha hassas bir açıklamaya taşır.",
+        "Genlik fiziksel su dalgası değildir; matematik benzetmesi sınırlıdır.",
         "Sonucu anlamak için yalnız olasılık sayısını değil alternatiflerin girişim kurup kurmadığını görün."
       ]
     },
@@ -193,9 +193,9 @@
       "section": "ALTINCI KONFERANS · ÖLÇÜM",
       "title": "Gözlemci insan zihni olmak zorunda değil",
       "paragraphs": [
-        "Hangi yol bilgisini fiziksel olarak kaydeden düzenek girişimi değiştirir. 'Gözlem' bilinçli bakıştan çok sistemle geri döndürülemez etkileşimdir. Bölümün gücü, büyük iddiayı gündelik hayatın içine indirmesinde yatar: görünmez kabul ettiğimiz ilişki görünür olunca eski açıklama artık yetmez.",
+        "Hangi yol bilgisini fiziksel olarak kaydeden düzenek girişimi değiştirir. 'Gözlem' bilinçli bakıştan çok sistemle geri döndürülemez etkileşimdir.",
         "Yarıktan geçen parçacığı işaretleyen dedektör kimse ekrana bakmasa da deney düzenini değiştirir.",
-        "Ölçüm problemi yorumlara açıktır; popüler bilinç-madde iddiaları standart deneyden çıkmaz. Yazarın dili zaman zaman kesin görünse de okurun burada olasılık, bağlam ve karşı örnek payını açık tutması gerekir; aksi halde açıklama yeni bir dogmaya dönüşür.",
+        "Ölçüm problemi yorumlara açıktır; popüler bilinç-madde iddiaları standart deneyden çıkmaz.",
         "Bir kuantum iddiasında gözlemcinin fiziksel etkileşim mi, insan niyeti mi anlamına geldiğini sorun."
       ]
     },
@@ -204,9 +204,9 @@
       "section": "YEDİNCİ KONFERANS · KEŞİF",
       "title": "Yeni yasa nasıl aranır?",
       "paragraphs": [
-        "Feynman yeni yasayı tahmin et, sonuçlarını hesapla ve deneyle karşılaştır şeklinde özetler. Tahmin ne kadar güzel olursa olsun deneyle uyuşmazsa yanlıştır. Bu ayrımı korumak önemlidir; çünkü iki kavram birbirine karıştığında yazarın kanıtı kolayca slogana, hatta tam tersine çevrilebilir.",
+        "Feynman yeni yasayı tahmin et, sonuçlarını hesapla ve deneyle karşılaştır şeklinde özetler. Tahmin ne kadar güzel olursa olsun deneyle uyuşmazsa yanlıştır.",
         "Anahtarın şeklini tahmin edip kilitte denersiniz; unvan ve niyet kapıyı açmaz.",
-        "Bilim pratikte veri toplama, model seçme ve araç geliştirme gibi daha karmaşık döngüler içerir. Özet yön gösterir. Bu eleştiri, yazarın ana düşüncesini çöpe atmak yerine ölçüsünü belirler. Ölçüsü bilinen fikir, hayranlık uyandıran ama belirsiz bir slogandan daha kullanışlıdır.",
+        "Bilim pratikte veri toplama, model seçme ve araç geliştirme gibi daha karmaşık döngüler içerir. Özet yön gösterir.",
         "Bir iddiada onu yanlış çıkarabilecek açık gözlemin ne olduğunu sorun."
       ]
     },
@@ -215,9 +215,9 @@
       "section": "YEDİNCİ KONFERANS · ANOMALİ",
       "title": "İstisna yeni fiziğin kapısı olabilir",
       "paragraphs": [
-        "Mevcut yasayla uyuşmayan sağlam sonuç hata, yanlış varsayım ya da yeni yasanın işareti olabilir. Küçük çatlak dikkatle doğrulanmalıdır. Kitap bu noktada okuru uzaktan seyreden biri olmaktan çıkarır ve kendi alışkanlıklarının da aynı düzenin içinde bulunduğunu fark etmeye çağırır.",
+        "Mevcut yasayla uyuşmayan sağlam sonuç hata, yanlış varsayım ya da yeni yasanın işareti olabilir. Küçük çatlak dikkatle doğrulanmalıdır.",
         "Merkür yörüngesindeki küçük sapma Newton'u günlük ölçekte yıkmadı; genel göreliliğe pencere açtı.",
-        "Her gürültü devrim değildir. Kalibrasyon, tekrar ve bağımsız doğrulama olmadan anomali avcılığı yanıltır. Bu noktada yazarın betimlediği durumla savunduğu değer birbirinden ayrılmalıdır. Bir şeyin nasıl işlediğini göstermek, onun böyle işlemesi gerektiğini söylemek değildir.",
+        "Her gürültü devrim değildir. Kalibrasyon, tekrar ve bağımsız doğrulama olmadan anomali avcılığı yanıltır.",
         "Çarpıcı tek sonucun örneklem, cihaz ve tekrar durumunu kontrol edin."
       ]
     },
@@ -226,9 +226,9 @@
       "section": "YEDİNCİ KONFERANS · SINIR",
       "title": "Yaklaşık yasa yine gerçek bilgi verir",
       "paragraphs": [
-        "Fizik yasaları belirli hız, enerji ve ölçeklerde yaklaşık olabilir. Daha genel teori eskiyi çöpe atmaz; onun neden çalıştığını ve sınırını gösterir. Savın ilginç tarafı yalnız ne söylediği değildir; doğruysa hangi eski açıklamayı bırakmamız ve hangi yeni soruyu sormamız gerektiğini de değiştirir.",
+        "Fizik yasaları belirli hız, enerji ve ölçeklerde yaklaşık olabilir. Daha genel teori eskiyi çöpe atmaz; onun neden çalıştığını ve sınırını gösterir.",
         "Dünya haritası mahalle yolunda yetersiz, kıta yolculuğunda yararlıdır. Ölçek doğruysa sade model güçlüdür.",
-        "Yaklaşık sözü keyfîlik değildir; hata payı ve geçerlilik alanı nicel olarak belirlenir. Bu sınır, kitabı değersizleştirmez. Tersine, güçlü bir fikri her kapıyı açan sihirli anahtar olmaktan kurtarıp gerçekten işe yaradığı kapılarda kullanmamızı sağlar.",
+        "Yaklaşık sözü keyfîlik değildir; hata payı ve geçerlilik alanı nicel olarak belirlenir. Bu sınır, kitabı değersizleştirmez.",
         "Bir model için 'doğru mu?' yanında 'hangi hata payıyla, hangi koşulda?' diye sorun."
       ]
     },
@@ -237,9 +237,9 @@
       "section": "SEKİZİNCİ KISIM · ALÇAKGÖNÜLLÜLÜK",
       "title": "Bilmediğimiz yer bilimin canlı kısmıdır",
       "paragraphs": [
-        "Feynman kesinlik görüntüsü yerine bilmemeyi kabul eder. Yasa arayışı hayreti azaltmaz; daha derin sorular üretir. Bu nedenle bölüm, tek başına ezberlenecek sonuç değil, sonraki örnekleri taşıyan bir köprü gibi okunmalıdır.",
+        "Feynman kesinlik görüntüsü yerine bilmemeyi kabul eder. Yasa arayışı hayreti azaltmaz; daha derin sorular üretir.",
         "Kapalı kutunun tek yüzünü açmak içindeki bütün mekanizmayı bitirmez, yeni dişlileri görünür kılar.",
-        "Bilmemek her görüşün eşit olduğu anlamına gelmez; kanıt dereceleri vardır. Kitabın yazıldığı tarih, kullanılan dil ve seçilen örnekler de merceğin kenarını oluşturur. Görüntü güçlü olabilir ama bütün dünyayı tek başına kapsamaz.",
+        "Bilmemek her görüşün eşit olduğu anlamına gelmez; kanıt dereceleri vardır.",
         "Bir tartışmada eminlik yüzdesini ve fikrinizi değiştirecek bulguyu açıkça söyleyin."
       ]
     },

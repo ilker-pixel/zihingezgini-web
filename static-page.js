@@ -104,9 +104,11 @@
 
       items.forEach((item) => {
         const haystack = normalizeSearchText(item.dataset.searchText);
-        const matches = tokens.length === 0 || tokens.every((token) => haystack.includes(token));
-        item.hidden = !matches;
-        if (matches) visibleCount += 1;
+        const searchMatches = tokens.length === 0 || tokens.every((token) => haystack.includes(token));
+        const filterMatches = item.dataset.filterMatches !== "false";
+        item.dataset.searchMatches = String(searchMatches);
+        item.hidden = !(searchMatches && filterMatches);
+        if (!item.hidden) visibleCount += 1;
       });
 
       groups.forEach((group) => {
@@ -140,6 +142,7 @@
 
     const initialQuery = new URL(window.location.href).searchParams.get("arama") || "";
     if (initialQuery) input.value = initialQuery;
+    panel.addEventListener("zg:refilter", () => applySectionSearch({ updateUrl: false }));
     applySectionSearch({ updateUrl: false });
   });
 
@@ -147,6 +150,41 @@
   if (roadmapChecks.length) {
     let readBooks = storage.get("zg_read_books", []);
     if (!Array.isArray(readBooks)) readBooks = [];
+    const roadmapItems = Array.from(document.querySelectorAll("[data-book-no]"));
+    const roadmapTools = document.querySelector("[data-roadmap-tools]");
+    const roadmapSearch = document.querySelector('[data-search-scope="roadmap"]');
+    const filterControls = Array.from(roadmapTools?.querySelectorAll("[data-roadmap-filter]") || []);
+    const sortControl = roadmapTools?.querySelector("[data-roadmap-sort]");
+    const filterStatus = roadmapTools?.querySelector("[data-roadmap-filter-status]");
+
+    const refreshFilters = () => {
+      const selected = Object.fromEntries(filterControls.map((control) => [control.dataset.roadmapFilter, control.value]));
+      roadmapItems.forEach((item) => {
+        const number = Number(item.dataset.bookNo);
+        const matches = (
+          (selected.category === "all" || item.dataset.bookCategory === selected.category)
+          && (selected.phase === "all" || item.dataset.bookPhase === selected.phase)
+          && (selected.pdf === "all" || item.dataset.bookPdf === selected.pdf)
+          && (selected.status === "all"
+            || (selected.status === "read" && readBooks.includes(number))
+            || (selected.status === "unread" && !readBooks.includes(number)))
+        );
+        item.dataset.filterMatches = String(matches);
+      });
+
+      document.querySelectorAll(".roadmap-books-list").forEach((list) => {
+        const sorted = Array.from(list.querySelectorAll("[data-book-no]")).sort((a, b) => {
+          if (sortControl?.value === "title") return a.dataset.bookTitle.localeCompare(b.dataset.bookTitle, "tr");
+          if (sortControl?.value === "author") return a.dataset.bookAuthor.localeCompare(b.dataset.bookAuthor, "tr");
+          return Number(a.dataset.bookNo) - Number(b.dataset.bookNo);
+        });
+        sorted.forEach((item) => list.append(item));
+      });
+
+      roadmapSearch?.dispatchEvent(new CustomEvent("zg:refilter"));
+      const visible = roadmapItems.filter((item) => !item.hidden).length;
+      if (filterStatus) filterStatus.textContent = `${visible} kitap gösteriliyor.`;
+    };
 
     const refreshRoadmap = () => {
       const normalized = [...new Set(readBooks.map(Number).filter(Number.isFinite))];
@@ -162,6 +200,7 @@
       const fill = document.querySelector("[data-roadmap-fill]");
       if (label) label.textContent = `${percentage}% (${count} / 300)`;
       if (fill) fill.style.width = `${percentage}%`;
+      refreshFilters();
     };
 
     roadmapChecks.forEach((checkbox) => {
@@ -173,6 +212,67 @@
         storage.set("zg_read_books", [...new Set(readBooks)]);
         refreshRoadmap();
       });
+    });
+    filterControls.forEach((control) => control.addEventListener("change", refreshFilters));
+    sortControl?.addEventListener("change", refreshFilters);
+
+    roadmapTools?.querySelector("[data-reset-filters]")?.addEventListener("click", () => {
+      filterControls.forEach((control) => { control.value = "all"; });
+      if (sortControl) sortControl.value = "number";
+      refreshFilters();
+    });
+
+    roadmapTools?.querySelector("[data-random-book]")?.addEventListener("click", () => {
+      const candidates = roadmapItems.filter((item) => !item.hidden);
+      const target = candidates[Math.floor(Math.random() * candidates.length)] || roadmapItems[0];
+      target?.scrollIntoView({ behavior: "smooth", block: "center" });
+      target?.classList.add("is-highlighted");
+      window.setTimeout(() => target?.classList.remove("is-highlighted"), 1800);
+    });
+
+    roadmapTools?.querySelector("[data-roadmap-jump]")?.addEventListener("submit", (event) => {
+      event.preventDefault();
+      const input = event.currentTarget.querySelector("input");
+      const number = Number(input?.value);
+      const target = document.querySelector(`#kitap-${number}`);
+      if (!target) {
+        if (filterStatus) filterStatus.textContent = "1 ile 300 arasında bir kitap numarası yaz.";
+        input?.focus();
+        return;
+      }
+      filterControls.forEach((control) => { control.value = "all"; });
+      refreshFilters();
+      target.scrollIntoView({ behavior: "smooth", block: "center" });
+      target.classList.add("is-highlighted");
+      window.setTimeout(() => target.classList.remove("is-highlighted"), 1800);
+    });
+
+    roadmapTools?.querySelector("[data-export-progress]")?.addEventListener("click", () => {
+      const payload = JSON.stringify({ version: 1, readBooks: [...new Set(readBooks)].sort((a, b) => a - b) }, null, 2);
+      const url = URL.createObjectURL(new Blob([payload], { type: "application/json" }));
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = "zihin-gezgini-okuma-ilerlemesi.json";
+      link.click();
+      URL.revokeObjectURL(url);
+      if (filterStatus) filterStatus.textContent = "Okuma ilerlemesi yedeklendi.";
+    });
+
+    const importInput = roadmapTools?.querySelector("[data-import-progress-file]");
+    roadmapTools?.querySelector("[data-import-progress]")?.addEventListener("click", () => importInput?.click());
+    importInput?.addEventListener("change", async () => {
+      try {
+        const payload = JSON.parse(await importInput.files[0].text());
+        if (payload.version !== 1 || !Array.isArray(payload.readBooks)) throw new Error("Invalid progress file");
+        readBooks = [...new Set(payload.readBooks.map(Number).filter((number) => Number.isInteger(number) && number >= 1 && number <= 300))];
+        storage.set("zg_read_books", readBooks);
+        refreshRoadmap();
+        if (filterStatus) filterStatus.textContent = `${readBooks.length} kitaplık ilerleme geri yüklendi.`;
+      } catch (_) {
+        if (filterStatus) filterStatus.textContent = "Bu dosya geçerli bir Zihin Gezgini ilerleme yedeği değil.";
+      } finally {
+        importInput.value = "";
+      }
     });
     refreshRoadmap();
   }
@@ -190,6 +290,121 @@
 
     row.addEventListener("click", openSummary);
   });
+
+  const globalSearch = document.querySelector("[data-global-search]");
+  if (globalSearch) {
+    const form = globalSearch.querySelector(".global-search-form");
+    const input = globalSearch.querySelector("#global-search-input");
+    const type = globalSearch.querySelector("#global-search-type");
+    const status = globalSearch.querySelector("[data-global-search-status]");
+    const results = globalSearch.querySelector("[data-global-search-results]");
+    let index = [];
+
+    const escapeHtml = (value) => String(value ?? "").replace(/[&<>\"']/g, (char) => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;"
+    })[char]);
+
+    const search = () => {
+      const rawQuery = input.value.trim();
+      const tokens = normalizeSearchText(rawQuery).split(" ").filter(Boolean);
+      const matches = index.filter((item) => {
+        if (type.value !== "all" && item.type !== type.value) return false;
+        const haystack = normalizeSearchText(`${item.title} ${item.subtitle} ${item.description}`);
+        return tokens.length === 0 || tokens.every((token) => haystack.includes(token));
+      }).slice(0, tokens.length ? 80 : 18);
+      results.innerHTML = matches.map((item) => `
+        <a class="global-search-result" href="${escapeHtml(item.url)}">
+          <span>${escapeHtml(item.label)}</span><h2>${escapeHtml(item.title)}</h2>
+          <strong>${escapeHtml(item.subtitle)}</strong><p>${escapeHtml(item.description)}</p>
+        </a>`).join("");
+      status.textContent = tokens.length
+        ? `${matches.length} sonuç gösteriliyor${matches.length === 80 ? " · aramanı daraltabilirsin" : ""}.`
+        : `Arşivde ${index.length} kayıt var; son eklenenlerden ${matches.length} tanesi gösteriliyor.`;
+      const url = new URL(window.location.href);
+      if (rawQuery) url.searchParams.set("q", rawQuery); else url.searchParams.delete("q");
+      if (type.value !== "all") url.searchParams.set("tur", type.value); else url.searchParams.delete("tur");
+      window.history.replaceState({}, "", `${url.pathname}${url.search}`);
+    };
+
+    fetch("/data/search-index.json")
+      .then((response) => {
+        if (!response.ok) throw new Error("Search index not found");
+        return response.json();
+      })
+      .then((records) => {
+        index = records;
+        const params = new URL(window.location.href).searchParams;
+        input.value = params.get("q") || "";
+        if (["post", "summary", "research"].includes(params.get("tur"))) type.value = params.get("tur");
+        search();
+      })
+      .catch(() => { status.textContent = "Arama dizini şu anda yüklenemedi."; });
+    form.addEventListener("submit", (event) => { event.preventDefault(); search(); });
+    input.addEventListener("input", search);
+    type.addEventListener("change", search);
+  }
+
+  const summaryArticle = document.querySelector("[data-summary-book]");
+  if (summaryArticle) {
+    const bookNumber = summaryArticle.dataset.summaryBook;
+    const chapters = Array.from(summaryArticle.querySelectorAll(".reader-chapter-section[id]"));
+    const progress = document.querySelector("[data-reading-progress] span");
+    const resumeButton = summaryArticle.querySelector("[data-reader-resume]");
+    let positions = storage.get("zg_summary_positions", {});
+    if (!positions || typeof positions !== "object" || Array.isArray(positions)) positions = {};
+    const savedChapter = positions[bookNumber];
+    if (savedChapter && document.getElementById(savedChapter)) resumeButton.hidden = false;
+
+    resumeButton?.addEventListener("click", () => document.getElementById(positions[bookNumber])?.scrollIntoView({ behavior: "smooth" }));
+    summaryArticle.querySelector("[data-reader-print]")?.addEventListener("click", () => window.print());
+
+    let fontScale = Number(storage.get("zg_summary_font_scale", 1));
+    if (!Number.isFinite(fontScale)) fontScale = 1;
+    const applyFontScale = () => {
+      fontScale = Math.min(1.3, Math.max(0.85, fontScale));
+      summaryArticle.style.setProperty("--summary-reader-font-size", `${fontScale}rem`);
+      storage.set("zg_summary_font_scale", fontScale);
+    };
+    summaryArticle.querySelectorAll("[data-reader-font]").forEach((button) => {
+      button.addEventListener("click", () => {
+        fontScale += button.dataset.readerFont === "increase" ? 0.1 : -0.1;
+        applyFontScale();
+      });
+    });
+    applyFontScale();
+
+    const widthButton = summaryArticle.querySelector("[data-reader-width]");
+    const compact = storage.get("zg_summary_compact_width", false) === true;
+    summaryArticle.classList.toggle("compact-reader", compact);
+    widthButton?.setAttribute("aria-pressed", String(compact));
+    widthButton?.addEventListener("click", () => {
+      const next = !summaryArticle.classList.contains("compact-reader");
+      summaryArticle.classList.toggle("compact-reader", next);
+      widthButton.setAttribute("aria-pressed", String(next));
+      storage.set("zg_summary_compact_width", next);
+    });
+
+    const updateReadingProgress = () => {
+      const rect = summaryArticle.getBoundingClientRect();
+      const distance = Math.max(1, summaryArticle.offsetHeight - window.innerHeight);
+      const percentage = Math.min(100, Math.max(0, (-rect.top / distance) * 100));
+      if (progress) progress.style.width = `${percentage}%`;
+    };
+    window.addEventListener("scroll", updateReadingProgress, { passive: true });
+    updateReadingProgress();
+
+    const observer = new IntersectionObserver((entries) => {
+      const visible = entries.filter((entry) => entry.isIntersecting).sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+      if (!visible) return;
+      positions[bookNumber] = visible.target.id;
+      storage.set("zg_summary_positions", positions);
+      resumeButton.hidden = true;
+      summaryArticle.querySelectorAll(".summary-toc a").forEach((link) => {
+        link.classList.toggle("is-current", link.getAttribute("href") === `#${visible.target.id}`);
+      });
+    }, { rootMargin: "-20% 0px -65%", threshold: [0, 0.25, 0.6] });
+    chapters.forEach((chapter) => observer.observe(chapter));
+  }
 
   const article = document.querySelector('[data-post-slug="derinlik-ve-sabir-auteur-sinemasinin-anlami"]');
   const filmList = article?.querySelector(".post-body ol");
