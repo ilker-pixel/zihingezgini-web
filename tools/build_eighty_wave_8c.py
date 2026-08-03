@@ -6,7 +6,7 @@ from build_eighty_wave_6a import book
 
 
 SPECS = [
-book(259,"yapay-zekanin-atlasi","Yapay Zekanın Atlası","Kate Crawford","Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence","#4D6A75",
+book(259,"yapay-zekanin-atlasi","Yapay Zekânın Atlası","Kate Crawford","Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence","#4D6A75",
 "Yapay zekâyı buluttaki sihirli zekâ değil, maden, enerji, düşük ücretli emek, dev veri kümeleri, sınıflandırma ve devlet gücünden oluşan gezegen ölçekli çıkarım sistemi olarak haritalayan güçlü inceleme.",
 "Telefonunuza 'buluttan' bir cevap gelir. O görünmez anın arkasında lityum madeni, soğutma suyu, veri merkezi, gece vardiyasında etiket yapan işçi ve milyonlarca insanın toplanmış verisi vardır. Crawford atlası gökyüzünden toprağa indirir.",
 "Kitap her bölümde yapay zekânın başka maddi katmanını izler: yeryüzü, emek, veri, sınıflandırma, duygu ve devlet. Rehber teknoloji karşıtı korku üretmez; kimin kaynak sağladığını, kimin karar verdiğini ve bedeli kimin taşıdığını sorar.",

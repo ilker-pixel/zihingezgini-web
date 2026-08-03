@@ -57,6 +57,7 @@
       "paragraphs": [
         "Sistemin durumu kurallar altında zamanla ilerler ve geri bildirim yeni yolu belirler.",
         "Sarkaç her anda önceki konum ve hızdan ilerler.",
+        "Analizin odağı tek bir denge noktası değil, durumların izlediği yörüngedir; küçük geri bildirimler zaman içinde durağanlık, salınım veya büyüme üretebilir.",
         "Denklem gerçek dünyanın bütün ayrıntısını içermez.",
         "Model varsayımlarını açık tutmak gerekir."
       ]
@@ -68,6 +69,7 @@
       "paragraphs": [
         "Belirlenimci kural başlangıçtaki küçük farka hassassa uzun vadeli tahmin çöker.",
         "Hava ölçümündeki küçücük hata haftalar sonra büyür.",
+        "Sistem kurallı olsa bile başlangıç koşulunu sonsuz kesinlikle ölçemeyiz; hata büyüdüğünde tek sonuç tahmini yerine olası davranış aralıkları önem kazanır.",
         "Kaos rastgelelik değildir.",
         "Kısa tahmin ve dayanıklılığı uzun kesinliğe tercih etmek gerekir."
       ]
@@ -79,6 +81,7 @@
       "paragraphs": [
         "Bilgi kuramı mesajın anlamından çok belirsizliği ne kadar azalttığını ölçer.",
         "Adil parada sonuç haberi bir bitlik ayrım taşır.",
+        "Shannon ölçüsü, nadir mesajın daha çok şaşırtması fikrine dayanır; olası seçeneklerin dağılımı bilinmeden bir işaretin taşıdığı bilgi miktarı hesaplanamaz.",
         "Bit sayısı anlam ve değer ölçüsü değildir.",
         "Teknik bilgiyle insan için önemini ayırmak gerekir."
       ]
@@ -101,6 +104,7 @@
       "paragraphs": [
         "Kalıtım, çeşitlilik ve seçilim merkezi plan olmadan karmaşık uyumlar üretir.",
         "Kanat nesiller boyunca küçük yararlı farkların birikimiyle gelişir.",
+        "Karmaşık yapı tek adımda hedeflenmez; işe yarayan küçük değişimler korunur, mevcut yapı yeni işlevlere uyarlanır ve tasarım tarihsel kısıtlarla ilerler.",
         "Her özellik kusursuz uyum değildir.",
         "Tarih, yan ürün ve tesadüfü hesaba katmak gerekir."
       ]
@@ -112,6 +116,7 @@
       "paragraphs": [
         "Canlı biçim gen, hücre, çevre ve düzenleyici ağların etkileşiminden oluşur.",
         "Aynı DNA farklı hücrede başka genleri çalıştırır.",
+        "Genler sabit bir çıktı listesi yerine başka süreçlerle birlikte çalışan kaynaklar sunar; gelişim, aynı talimatın bağlama göre farklı sonuçlar vermesidir.",
         "Çevre vurgusu kalıtımı silmez.",
         "Nedenleri ağ içinde ve farklı ölçeklerde aramak gerekir."
       ]
@@ -123,6 +128,7 @@
       "paragraphs": [
         "Von Neumann basit bileşenlerin talimatı okuyup kendini kuran makine oluşturabileceğini gösterdi.",
         "Hücre ızgarasında kopya yapan örüntü tasarlanır.",
+        "Kurucu mekanizma hem betimi taşımalı hem bu betimi okuyacak düzeni üretmelidir; kopyalama sorunu talimat ile uygulayıcı arasındaki döngüyü görünür kılar.",
         "Dijital kopya canlılıkla aynı değildir.",
         "Benzetmenin metabolizma ve evrim sınırını belirtmek gerekir."
       ]
@@ -134,6 +140,7 @@
       "paragraphs": [
         "Çözüm adaylarını seçip değiştirerek bilgisayar evrimi büyük arama alanında iyi sonuç bulabilir.",
         "Anten biçimleri mutasyon ve seçilimle gelişir.",
+        "Yöntem her olasılığı taramak yerine başarılı adayların parçalarını yeni birleşimlerde dener; çeşitlilik erken tek çözüme sıkışmayı önleyen temel kaynaktır.",
         "Algoritma amacı ve başarı ölçüsünü insandan alır.",
         "Uygunluk işlevinin neyi dışladığını sormak gerekir."
       ]
@@ -145,6 +152,7 @@
       "paragraphs": [
         "Izgara hücrelerinin komşuya göre basit güncellenmesi uzun ömürlü hareketli ve hesaplayıcı örüntüler yaratabilir.",
         "Yaşam Oyunu'nda planör ekranda ilerler.",
+        "Ortaya çıkan düzen herhangi bir hücrenin planında bulunmaz; zaman boyunca yinelenen yerel etkileşim, üst ölçekte kalıcı ve hareketli yapılar oluşturur.",
         "Güzel örüntü doğanın aynı kuralla çalıştığını kanıtlamaz.",
         "Modeli açıklama ve benzetme düzeyinde sınamak gerekir."
       ]
@@ -167,6 +175,7 @@
       "paragraphs": [
         "Yerel sinyaller çarpışıp yayılırken merkezi işlemci olmadan küresel hesaplama oluşabilir.",
         "Karınca izleri yiyeceğe giden kısa yolu güçlendirir.",
+        "Hesap burada simgeleri sırayla işleyen merkez değil, etkileşen öğelerin ortak sonucu olarak düşünülür; bilgi sistem boyunca taşınır ve dönüştürülür.",
         "Parçacık dili biyolojik niyeti açıklamaz.",
         "Mekanizma ve metaforu ayırmak gerekir."
       ]
@@ -178,6 +187,7 @@
       "paragraphs": [
         "Bağışıklık, beyin ve koloni çevreden sinyal alıp dağıtık karar üretir.",
         "Bağışıklık hücreleri tek komutan olmadan tehdide cevap verir.",
+        "Dağıtık işlem tek bir öğenin bütünü bilmesini gerektirmez; yerel tepkiler birbirini etkileyerek çevreye uyarlanmış ortak bir davranış oluşturabilir.",
         "Bilgi sözcüğü anlamlı zihin varsaymamalıdır.",
         "Sinyal, tepki ve işlevi somut belirtmek gerekir."
       ]
@@ -189,6 +199,7 @@
       "paragraphs": [
         "Zekâ yüzey benzerliğinden çok farklı durumlar arasındaki derin ilişkiyi esnekçe görmeyi gerektirir.",
         "Güneş sistemi ile atom görsel benzer ama mekanizma farklıdır.",
+        "İyi benzetme nesneleri değil ilişkiler sistemini eşler; bir alandaki neden-sonuç yapısı diğer alana taşındığında hem keşif hem yanlış genelleme ihtimali doğar.",
         "Her analoji açıklama değildir.",
         "Eşleşen ilişkiyle kopan noktayı birlikte yazmak gerekir."
       ]
@@ -200,6 +211,7 @@
       "paragraphs": [
         "Gerçek ağlarda az sayıda merkez, kısa yollar ve topluluk yapısı yayılım ile kırılganlığı belirler.",
         "Havalimanı merkezi kapanınca uzak şehirler etkilenir.",
+        "Aynı düğüm sayısı farklı bağlantı düzenlerinde bambaşka davranır; bu yüzden karmaşıklık öğelerin özellikleri kadar aralarındaki yol ve kümelenmelerde aranır.",
         "Ağ deseni nedensel tarihi tek başına açıklamaz.",
         "Bağlantı verisini güç ve işlevle birleştirmek gerekir."
       ]

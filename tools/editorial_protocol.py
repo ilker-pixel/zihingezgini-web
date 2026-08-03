@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SUMMARY_DIR = ROOT / "data" / "summaries"
 RESEARCH_DIR = ROOT / "data" / "books"
 STOCK_SENTENCE_THRESHOLD = 5
+GUIDE_MIN_WORDS = 1_000
 LEGACY_META_FIELDS = ("compiler", "date")
 AI_NARRATOR_MARKERS = (
     "Bir yapay zekâ olarak",
@@ -63,6 +64,10 @@ def normalize(value) -> str:
     elif not isinstance(value, str):
         value = str(value or "")
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", value or "")).strip()
+
+
+def word_count(value) -> int:
+    return len(normalize(value).split())
 
 
 def sentences(value: str) -> list[str]:
@@ -237,6 +242,16 @@ def check() -> list[str]:
             for marker in SAPIENS_MISMATCH_MARKERS:
                 if marker.casefold() in summary_text.casefold():
                     errors.append(f"summary #244 retains mismatched generated scene: {marker}")
+        guide_words = word_count(summary.get("intro", "")) + sum(
+            word_count(paragraph)
+            for chapter in summary.get("chapters", [])
+            for paragraph in chapter.get("paragraphs", [])
+        )
+        if guide_words < GUIDE_MIN_WORDS:
+            errors.append(
+                f"summary #{book_number} has only {guide_words} editorial words; "
+                f"expected at least {GUIDE_MIN_WORDS}"
+            )
 
     for path in sorted(RESEARCH_DIR.glob("*.json")):
         book = load(path)
