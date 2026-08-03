@@ -12,8 +12,6 @@
   "chapterArtColor": "#55606A",
   "meta": {
     "originalTitle": "Sein und Zeit",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Heidegger'in 1927 tarihli eseri varlığın anlamı sorusunu Dasein, yani kendi varlığı kendisi için mesele olan insan üzerinden araştırır. Birinci ayrım dünya-içinde-varlık, araçlar, başkaları ve gündelik düşüşü; ikinci ayrım ölüm, vicdan, kararlılık, zamansallık ve tarihselliği inceler. Planlanan üçüncü ayrım yayımlanmadığı için proje bilinçli biçimde eksik kalmıştır.",
@@ -46,11 +44,11 @@
       "section": "GİRİŞ · SORU",
       "title": "Varlık sorusu unutulmuştur",
       "paragraphs": [
-        "Heidegger nesnelerin ne olduğunu araştırırken onların var olmasının ne anlama geldiği sorusunu kendiliğinden açık saydığımızı söyler. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Masada bardak, insan ve sayı vardır deriz; vardır sözünün her biri için nasıl anlam taşıdığını sormayız. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Varlık bir varlık değildir; tek nesne aramak yerine nesnelerin anlaşılabilir olduğu ufuk araştırılır. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Soru çok genel diye boş değildir, fakat cevap gizli bir madde veya tanrı adı olarak verilmez. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Günlük bir cümlede vardır sözünün eşya, kişi ve ihtimal için nasıl farklı çalıştığını düşünün. Varlık sorusunun unutulması mevcut olanı yalnız ölçülebilir özelliklere indirgeme alışkanlığıyla bağlantılıdır. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Heidegger nesnelerin ne olduğunu araştırırken onların var olmasının ne anlama geldiği sorusunu kendiliğinden açık saydığımızı söyler.",
+        "Masada bardak, insan ve sayı vardır deriz; vardır sözünün her biri için nasıl anlam taşıdığını sormayız.",
+        "Varlık bir varlık değildir; tek nesne aramak yerine nesnelerin anlaşılabilir olduğu ufuk araştırılır.",
+        "Soru çok genel diye boş değildir, fakat cevap gizli bir madde veya tanrı adı olarak verilmez.",
+        "Günlük bir cümlede vardır sözünün eşya, kişi ve ihtimal için nasıl farklı çalıştığını düşünün. Varlık sorusunun unutulması mevcut olanı yalnız ölçülebilir özelliklere indirgeme alışkanlığıyla bağlantılıdır."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "GİRİŞ · DASEIN",
       "title": "Dasein kendi varlığını dert eden varlıktır",
       "paragraphs": [
-        "Dasein insanı biyolojik tür listesiyle değil, nasıl yaşayacağını önemseyen ve kendi olma ihtimalleriyle ilişkili varlık olarak adlandırır. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Sandalye ne tür sandalye olacağı için kaygılanmaz; insan hangi mesleği ve ilişkiyi seçeceğini mesele eder. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Kendini yorumlama yaşamın dışına eklenen düşünce değil, davranış ve projelerin yapısıdır. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Dasein sözcüğü kahraman birey özü değildir; bedensel, tarihsel ve toplumsal insan yaşamını analiz etmek için kullanılır. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Bir kararın sizi yalnız sonuca değil kim olmaya bağladığını görün. Dasein tanımı hazır insan özü sunmaz; kendi yaşamını yorumlayan açık bir varoluş yapısı gösterir. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Dasein insanı biyolojik tür listesiyle değil, nasıl yaşayacağını önemseyen ve kendi olma ihtimalleriyle ilişkili varlık olarak adlandırır.",
+        "Sandalye ne tür sandalye olacağı için kaygılanmaz; insan hangi mesleği ve ilişkiyi seçeceğini mesele eder.",
+        "Kendini yorumlama yaşamın dışına eklenen düşünce değil, davranış ve projelerin yapısıdır.",
+        "Dasein sözcüğü kahraman birey özü değildir; bedensel, tarihsel ve toplumsal insan yaşamını analiz etmek için kullanılır.",
+        "Bir kararın sizi yalnız sonuca değil kim olmaya bağladığını görün. Dasein tanımı hazır insan özü sunmaz; kendi yaşamını yorumlayan açık bir varoluş yapısı gösterir."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "AYRIM I · DÜNYA",
       "title": "Dünyanın içinde değil, dünya-içinde varız",
       "paragraphs": [
-        "İnsan kutunun içindeki eşya gibi mekânda bulunmaz; anlamlı görev, ilişki ve yönler ağı içinde zaten yer alır. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Mutfak aşçı için santimetrelerle dolu oda değil kesme, pişirme, sunma ve birlikte yeme imkânlarıdır. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Dünya nesneler toplamından önce şeylerin ne işe yaradığı ve kime bağlı olduğu anlam bütünüdür. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Fiziksel mekân gerçektir; fenomenolojik analiz onun yaşamda nasıl yakın ve uzak olduğunu açıklar. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Evinizde fiziksel olarak yakın ama yaşamınızda uzak olan bir nesneyi düşünün. Dünya-içinde olma özne ile nesne arasındaki köprüyü sonradan kurma sorununu baştan değiştirir. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "İnsan kutunun içindeki eşya gibi mekânda bulunmaz; anlamlı görev, ilişki ve yönler ağı içinde zaten yer alır.",
+        "Mutfak aşçı için santimetrelerle dolu oda değil kesme, pişirme, sunma ve birlikte yeme imkânlarıdır.",
+        "Dünya nesneler toplamından önce şeylerin ne işe yaradığı ve kime bağlı olduğu anlam bütünüdür.",
+        "Fiziksel mekân gerçektir; fenomenolojik analiz onun yaşamda nasıl yakın ve uzak olduğunu açıklar.",
+        "Evinizde fiziksel olarak yakın ama yaşamınızda uzak olan bir nesneyi düşünün. Dünya-içinde olma özne ile nesne arasındaki köprüyü sonradan kurma sorununu baştan değiştirir."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "AYRIM I · ALET",
       "title": "Alet önce kullanıma hazırdır",
       "paragraphs": [
-        "Çekiç gibi aletle ilk karşılaşma ona bakıp özellik çıkarmak değil, işi yaparken ustaca kullanmaktır. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Dikiş diken kişi iğnenin metal bileşimini düşünmeden kumaş, ip ve beden ölçüsüyle birlikte hareket eder. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Alet anlamını gönderme ağından alır; tek başına duran madde değil, bir iş için olan şeydir. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Kullanım her ilişkiyi açıklamaz; sanat eseri, canlı ve yabancı kişi alet mantığına indirgenmemelidir. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir aletin anlam kazanması için bağlı olduğu beş başka şey ve kişiyi yazın. Alet ağı amaçların başka insan ve kurumlarla paylaşıldığını görünür kılar. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Çekiç gibi aletle ilk karşılaşma ona bakıp özellik çıkarmak değil, işi yaparken ustaca kullanmaktır.",
+        "Dikiş diken kişi iğnenin metal bileşimini düşünmeden kumaş, ip ve beden ölçüsüyle birlikte hareket eder.",
+        "Alet anlamını gönderme ağından alır; tek başına duran madde değil, bir iş için olan şeydir.",
+        "Kullanım her ilişkiyi açıklamaz; sanat eseri, canlı ve yabancı kişi alet mantığına indirgenmemelidir.",
+        "Bir aletin anlam kazanması için bağlı olduğu beş başka şey ve kişiyi yazın. Alet ağı amaçların başka insan ve kurumlarla paylaşıldığını görünür kılar."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "AYRIM I · KIRILMA",
       "title": "Bozulma dünyayı görünür yapar",
       "paragraphs": [
-        "Araç kırıldığında, eksik olduğunda veya yolu kestiğinde normalde görünmeyen gönderme ağı belirginleşir. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "İnternet kesilince modem, kablo, şirket, iş takvimi ve uzaktaki ekip birden fark edilir. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Akışın bozulması teorik bakışı doğurur; nesne kullanımdan çıkıp özellikleri incelenen karşıda-varlığa dönüşür. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Teori yalnız arıza ürünü değildir; merak ve bilim kendi kurumları içinde daha zengin pratiklerdir. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir arıza anında daha önce görünmeyen altyapı ve emeği listeleyin. Bozulma fenomeni gündelik ustalığın bilgisiz değil, çoğu kez söze dökülmemiş bilgi olduğunu gösterir. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Araç kırıldığında, eksik olduğunda veya yolu kestiğinde normalde görünmeyen gönderme ağı belirginleşir.",
+        "İnternet kesilince modem, kablo, şirket, iş takvimi ve uzaktaki ekip birden fark edilir.",
+        "Akışın bozulması teorik bakışı doğurur; nesne kullanımdan çıkıp özellikleri incelenen karşıda-varlığa dönüşür.",
+        "Teori yalnız arıza ürünü değildir; merak ve bilim kendi kurumları içinde daha zengin pratiklerdir.",
+        "Bir arıza anında daha önce görünmeyen altyapı ve emeği listeleyin. Bozulma fenomeni gündelik ustalığın bilgisiz değil, çoğu kez söze dökülmemiş bilgi olduğunu gösterir."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "AYRIM I · BİRLİKTE",
       "title": "Dünya başkalarıyla ortaktır",
       "paragraphs": [
-        "Dasein başkalarını sonradan tahmin eden yalnız zihin değil, başından beri ortak iş ve dil dünyasında birlikte-varlıktır. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Otobüs durağı onu kullanan yabancıların davranışını önceden hesaba katar; kişi kimse yokken bile sıraya göre durur. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Nesneler ve kurallar başkalarının beklentisini taşır; sosyal ilişki yüz yüze konuşmadan önce dünyaya yerleşmiştir. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Birlikte-varlık uyum demek değildir; çatışma, yabancılaşma ve yalnızlık da ortak dünya içinde yaşanır. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Tek başınıza yaptığınız bir davranışta görünmeyen başkalarının kuralını bulun. Birlikte-varlık empatiyi çıkarım olmaktan önce ortak dünyada karşılaşma imkânı yapar. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Dasein başkalarını sonradan tahmin eden yalnız zihin değil, başından beri ortak iş ve dil dünyasında birlikte-varlıktır.",
+        "Otobüs durağı onu kullanan yabancıların davranışını önceden hesaba katar; kişi kimse yokken bile sıraya göre durur.",
+        "Nesneler ve kurallar başkalarının beklentisini taşır; sosyal ilişki yüz yüze konuşmadan önce dünyaya yerleşmiştir.",
+        "Birlikte-varlık uyum demek değildir; çatışma, yabancılaşma ve yalnızlık da ortak dünya içinde yaşanır.",
+        "Tek başınıza yaptığınız bir davranışta görünmeyen başkalarının kuralını bulun. Birlikte-varlık empatiyi çıkarım olmaktan önce ortak dünyada karşılaşma imkânı yapar."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "AYRIM I · DAS MAN",
       "title": "Herkes benliği rahatlatır ve dağıtır",
       "paragraphs": [
-        "Gündelik hayatta 'insan böyle yapar' veya 'herkes bilir' sesi seçim sorumluluğunu belirsiz çoğunluğa devredebilir. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Kişi istemediği mesleği seçer ve kim istedi diye sorulduğunda yapılması gereken buydu der. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Kamusal norm seçenekleri hazırlar, belirsiz 'onlar' kararı kimsenin değilmiş gibi gösterir. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Ortak norm yalnız baskı değildir; dil, güven ve koordinasyon sağlar, sahicilik toplumu terk etmek değildir. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Bugün yaptığınız bir seçimde gerekçe yerine herkes sözünün geçip geçmediğini sorun. Das Man hem yaşamı kolaylaştıran kamu ortalaması hem sorumluluğu anonimleştiren kaçış yoludur. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Gündelik hayatta 'insan böyle yapar' veya 'herkes bilir' sesi seçim sorumluluğunu belirsiz çoğunluğa devredebilir.",
+        "Kişi istemediği mesleği seçer ve kim istedi diye sorulduğunda yapılması gereken buydu der.",
+        "Kamusal norm seçenekleri hazırlar, belirsiz 'onlar' kararı kimsenin değilmiş gibi gösterir.",
+        "Ortak norm yalnız baskı değildir; dil, güven ve koordinasyon sağlar, sahicilik toplumu terk etmek değildir.",
+        "Bugün yaptığınız bir seçimde gerekçe yerine herkes sözünün geçip geçmediğini sorun. Das Man hem yaşamı kolaylaştıran kamu ortalaması hem sorumluluğu anonimleştiren kaçış yoludur."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "AYRIM I · BULUNUŞ",
       "title": "Ruh hali dünyayı açar",
       "paragraphs": [
-        "Kaygı, sıkıntı veya neşe içerideki renkli gözlük değil, dünyanın bize hangi imkân ve önemle göründüğünün biçimidir. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Aynı sokak acele eden kişiye engeller, âşık kişiye buluşma yolu, korkan kişiye tehditler olarak açılır. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Duygu önce nötr dünyaya eklenmez; neyin dikkate değer olduğunu baştan seçer. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Ruh hali gerçeği istediği gibi yaratmaz; dünya direnmeye ve sürpriz yapmaya devam eder. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir karar anında ruh halinizin hangi seçeneği görünür, hangisini görünmez yaptığını fark edin. Bulunuş insanın kendi seçmediği bir dünyaya her zaman belirli ruh hali içinde atılmış olduğunu açar. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Kaygı, sıkıntı veya neşe içerideki renkli gözlük değil, dünyanın bize hangi imkân ve önemle göründüğünün biçimidir.",
+        "Aynı sokak acele eden kişiye engeller, âşık kişiye buluşma yolu, korkan kişiye tehditler olarak açılır.",
+        "Duygu önce nötr dünyaya eklenmez; neyin dikkate değer olduğunu baştan seçer.",
+        "Ruh hali gerçeği istediği gibi yaratmaz; dünya direnmeye ve sürpriz yapmaya devam eder.",
+        "Bir karar anında ruh halinizin hangi seçeneği görünür, hangisini görünmez yaptığını fark edin. Bulunuş insanın kendi seçmediği bir dünyaya her zaman belirli ruh hali içinde atılmış olduğunu açar."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "AYRIM I · ANLAMA",
       "title": "Anlamak ihtimal tasarlamaktır",
       "paragraphs": [
-        "Heidegger'de anlamak bilgi ezberi değil, kendini yapabileceği imkânlara doğru tasarlama yeteneğidir. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Çırak çekicin tanımını bilmekten çok ustayla çalışarak neleri yapabileceğini görmeye başlar. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "İnsan mevcut durumu gelecekteki olabilirlik ışığında yorumlar; proje bugünkü davranışı düzenler. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Her ihtimal gerçekçi veya özgür değildir; tarih, beden ve kaynaklar tasarım alanını sınırlar. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Bir hedefinizin bugünkü nesneleri ve insanları nasıl başka anlamda gösterdiğini düşünün. Tasarı sınırsız hayal değil, atılmış koşullar içinde görülen gerçek olabilirliktir; ön-anlayış deneyimle düzeltilebilir. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Heidegger'de anlamak bilgi ezberi değil, kendini yapabileceği imkânlara doğru tasarlama yeteneğidir.",
+        "Çırak çekicin tanımını bilmekten çok ustayla çalışarak neleri yapabileceğini görmeye başlar.",
+        "İnsan mevcut durumu gelecekteki olabilirlik ışığında yorumlar; proje bugünkü davranışı düzenler.",
+        "Her ihtimal gerçekçi veya özgür değildir; tarih, beden ve kaynaklar tasarım alanını sınırlar.",
+        "Bir hedefinizin bugünkü nesneleri ve insanları nasıl başka anlamda gösterdiğini düşünün. Tasarı sınırsız hayal değil, atılmış koşullar içinde görülen gerçek olabilirliktir; ön-anlayış deneyimle düzeltilebilir."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "AYRIM I · DİL",
       "title": "Söylem dünya paylaşımıdır",
       "paragraphs": [
-        "Dil içeride tamamlanmış düşünceyi paketlemekten öte, ortak dünyada neyin önemli olduğunu açığa çıkaran söylem yapısıdır. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Usta yalnız cümleyle değil dur, şimdi ve bu jestleriyle ortak işi anlaşılır kılar. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Konuşma dinleme ve susmayla birlikte anlam bağlantılarını paylaşır; kelime dünyadaki ilgiden doğar. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Dil yalnız açık hakikat değildir; klişe ve boş konuşma da dünyayı örtebilir. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir konuşmada söylenen kadar dinleme, vurgu ve suskunluğun ne açtığını görün. Söylem anlamı paylaşırken susma bazen klişe konuşmadan daha sahici bir açıklık kurabilir. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Dil içeride tamamlanmış düşünceyi paketlemekten öte, ortak dünyada neyin önemli olduğunu açığa çıkaran söylem yapısıdır.",
+        "Usta yalnız cümleyle değil dur, şimdi ve bu jestleriyle ortak işi anlaşılır kılar.",
+        "Konuşma dinleme ve susmayla birlikte anlam bağlantılarını paylaşır; kelime dünyadaki ilgiden doğar.",
+        "Dil yalnız açık hakikat değildir; klişe ve boş konuşma da dünyayı örtebilir.",
+        "Bir konuşmada söylenen kadar dinleme, vurgu ve suskunluğun ne açtığını görün. Söylem anlamı paylaşırken susma bazen klişe konuşmadan daha sahici bir açıklık kurabilir."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "AYRIM I · DÜŞÜŞ",
       "title": "Gevezelik, merak ve belirsizlik düşüşü kurar",
       "paragraphs": [
-        "Gündelik kamu dili şeyi gerçekten yaşamadan herkesçe bilinir hale getirir; sürekli yenilik merakı derin ilişkiyi dağıtabilir. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Kişi kitabı okumadan yorum özetlerini tekrarlar, sonraki başlığa geçer ve yine bilgili hisseder. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Bilgi dolaşımı kökünden kopar; merak kalıcı uğraş yerine sürekli başka uyarana atlar. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Gündeliklik ahlaki günah değildir; hepimizin zorunlu başlangıç ortamıdır ve güvenilir bilgi de dolaştırır. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Bugün bildiğinizi sandığınız bir şeyin doğrudan deneyim veya kaynağını kontrol edin. Düşüş ortadan kaldırılacak hata değil, sahici seçimin her gün yeniden içinden çıkacağı kamusal zemindir. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Gündelik kamu dili şeyi gerçekten yaşamadan herkesçe bilinir hale getirir; sürekli yenilik merakı derin ilişkiyi dağıtabilir.",
+        "Kişi kitabı okumadan yorum özetlerini tekrarlar, sonraki başlığa geçer ve yine bilgili hisseder.",
+        "Bilgi dolaşımı kökünden kopar; merak kalıcı uğraş yerine sürekli başka uyarana atlar.",
+        "Gündeliklik ahlaki günah değildir; hepimizin zorunlu başlangıç ortamıdır ve güvenilir bilgi de dolaştırır.",
+        "Bugün bildiğinizi sandığınız bir şeyin doğrudan deneyim veya kaynağını kontrol edin. Düşüş ortadan kaldırılacak hata değil, sahici seçimin her gün yeniden içinden çıkacağı kamusal zemindir."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "AYRIM I · KAYGI",
       "title": "Kaygı tanıdık dünyayı gevşetir",
       "paragraphs": [
-        "Belirli bir şeyden korkudan farklı olarak kaygı, gündelik işlerin ve rollerin birden anlamsızlaşmasıyla insanı kendi imkânına açık bırakır. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Başarılı kişi sabah işe giderken hiçbir olay yokken bütün düzenin neden yapıldığını sorgular. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Dünya içi dayanaklar geri çekilir; kişi 'herkes'in cevabıyla kapatılamayan kendi seçimine döner. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Klinik kaygı bozukluğu felsefi kavrama indirgenmemeli; ruh sağlığı desteği gerektiren acı farklı düzeydir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Bir anlamsızlık anını romantikleştirmeden hangi hazır rolü görünür kıldığını düşünün. Kaygı tek tek araçların işe yararlığını değil, bütün uğraş ağının niçinini gevşetir. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Belirli bir şeyden korkudan farklı olarak kaygı, gündelik işlerin ve rollerin birden anlamsızlaşmasıyla insanı kendi imkânına açık bırakır.",
+        "Başarılı kişi sabah işe giderken hiçbir olay yokken bütün düzenin neden yapıldığını sorgular.",
+        "Dünya içi dayanaklar geri çekilir; kişi 'herkes'in cevabıyla kapatılamayan kendi seçimine döner.",
+        "Klinik kaygı bozukluğu felsefi kavrama indirgenmemeli; ruh sağlığı desteği gerektiren acı farklı düzeydir.",
+        "Bir anlamsızlık anını romantikleştirmeden hangi hazır rolü görünür kıldığını düşünün. Kaygı tek tek araçların işe yararlığını değil, bütün uğraş ağının niçinini gevşetir."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "AYRIM II · ÖLÜME-DOĞRU",
       "title": "Ölüm benim yerime yaşanamaz",
       "paragraphs": [
-        "Ölüm herkesin başına gelen olaydan önce, hiçbir başkasının kişinin yerine üstlenemeyeceği en kendi ve kesin ihtimalidir. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Aile sevdiğinin yanında olabilir ama onun ölümünü onun yerine yaşayamaz. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Sonluluk bütün projelerin süresini ve seçimin geri alınamazlığını görünür kılar. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Ölüme-doğru-varlık sürekli ölüm düşünmek veya tehlikeye koşmak değildir; sınırlı zamanı sahiplenmektir. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Ertelediğiniz bir kararın sonsuz zaman varsayımına dayanıp dayanmadığını sorun. Ölümün kesin fakat zamanı belirsiz oluşu her seçimi benzersiz ve ertelenebilir kılar. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Ölüm herkesin başına gelen olaydan önce, hiçbir başkasının kişinin yerine üstlenemeyeceği en kendi ve kesin ihtimalidir.",
+        "Aile sevdiğinin yanında olabilir ama onun ölümünü onun yerine yaşayamaz.",
+        "Sonluluk bütün projelerin süresini ve seçimin geri alınamazlığını görünür kılar.",
+        "Ölüme-doğru-varlık sürekli ölüm düşünmek veya tehlikeye koşmak değildir; sınırlı zamanı sahiplenmektir.",
+        "Ertelediğiniz bir kararın sonsuz zaman varsayımına dayanıp dayanmadığını sorun. Ölümün kesin fakat zamanı belirsiz oluşu her seçimi benzersiz ve ertelenebilir kılar."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "AYRIM II · ÇAĞRI",
       "title": "Vicdan sessiz bir çağrı olabilir",
       "paragraphs": [
-        "Vicdan hazır ahlak kuralı okumaktan çok, kişinin 'herkes' içinde kayboluşundan kendi seçim sorumluluğuna çağrılmasıdır. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Telefon sessizken kişi yıllardır başkalarının planını uyguladığını bir anda kabul eder. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Çağrı belirli emir vermez; kişinin zaten seçerek bazı ihtimalleri dışladığını ve borçlu olduğunu açar. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Vicdanı yalnız iç ses saymak toplumsal zarar ve ortak sorumluluğu küçültmemelidir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bir iç çağrının somut başkasına etkisini ve düzeltme yükümlülüğünü de sorun. Suçluluk burada işlenmiş tek suçtan önce, her seçimin seçilmeyen ihtimallere borç bırakmasıdır. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Vicdan hazır ahlak kuralı okumaktan çok, kişinin 'herkes' içinde kayboluşundan kendi seçim sorumluluğuna çağrılmasıdır.",
+        "Telefon sessizken kişi yıllardır başkalarının planını uyguladığını bir anda kabul eder.",
+        "Çağrı belirli emir vermez; kişinin zaten seçerek bazı ihtimalleri dışladığını ve borçlu olduğunu açar.",
+        "Vicdanı yalnız iç ses saymak toplumsal zarar ve ortak sorumluluğu küçültmemelidir.",
+        "Bir iç çağrının somut başkasına etkisini ve düzeltme yükümlülüğünü de sorun. Suçluluk burada işlenmiş tek suçtan önce, her seçimin seçilmeyen ihtimallere borç bırakmasıdır."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "AYRIM II · SAHİCİLİK",
       "title": "Kararlılık kesin kişilik değildir",
       "paragraphs": [
-        "Sahici kararlılık kişinin sonluluğu ve temelsiz seçimi kabul ederek kendi durumunda sorumluluk üstlenmesidir. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Kişi aile beklentisini körlemesine reddetmez; bakım borcu ve kendi yönünü açıkça tartıp karar verir. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Ölüm farkındalığı seçenekleri ciddileştirir, vicdan çağrısı kararı geri alınamaz sahiplenmeye çevirir. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Sahicilik üstün bireycilik veya tek seferlik cesur karar değildir; başkalarıyla ve değişebilir yaşam içinde sürer. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Bir kararınızda sonucu kadar seçmemenin de sizin seçiminiz olduğunu kabul edin. Kararlılık başkalarını silmez; atılmış durum içindeki somut bağları seçerek üstlenir. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Sahici kararlılık kişinin sonluluğu ve temelsiz seçimi kabul ederek kendi durumunda sorumluluk üstlenmesidir.",
+        "Kişi aile beklentisini körlemesine reddetmez; bakım borcu ve kendi yönünü açıkça tartıp karar verir.",
+        "Ölüm farkındalığı seçenekleri ciddileştirir, vicdan çağrısı kararı geri alınamaz sahiplenmeye çevirir.",
+        "Sahicilik üstün bireycilik veya tek seferlik cesur karar değildir; başkalarıyla ve değişebilir yaşam içinde sürer.",
+        "Bir kararınızda sonucu kadar seçmemenin de sizin seçiminiz olduğunu kabul edin. Kararlılık başkalarını silmez; atılmış durum içindeki somut bağları seçerek üstlenir."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "AYRIM II · ZAMANSALLIK",
       "title": "Zaman üç ayrı kutu değil tek harekettir",
       "paragraphs": [
-        "Heidegger gelecek, geçmiş ve şimdiyi ardışık anlar yerine birbirine açılan üç zamansal ufuk olarak düşünür. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Verdiğiniz söz gelecekteki imkânı öne getirir, geçmiş kimliğinizi devralır ve bugünkü davranışı belirler. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Dasein geleceğe tasarlanır, atılmış geçmişten gelir ve şimdide şeylerle uğraşır; bakımın birliği zamansaldır. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Saat zamanı gereksiz değildir; ortak koordinasyon sağlar, fakat yaşanan anlam zamanının tamamı değildir. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Bugünkü bir işinizde gelecek beklenti ve geçmiş mirasın aynı anda nasıl bulunduğunu yazın. Ekstatik zaman insanın saat içindeki nokta değil, geçmişi devralıp geleceğe açılan hareket olduğunu gösterir. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Heidegger gelecek, geçmiş ve şimdiyi ardışık anlar yerine birbirine açılan üç zamansal ufuk olarak düşünür.",
+        "Verdiğiniz söz gelecekteki imkânı öne getirir, geçmiş kimliğinizi devralır ve bugünkü davranışı belirler.",
+        "Dasein geleceğe tasarlanır, atılmış geçmişten gelir ve şimdide şeylerle uğraşır; bakımın birliği zamansaldır.",
+        "Saat zamanı gereksiz değildir; ortak koordinasyon sağlar, fakat yaşanan anlam zamanının tamamı değildir.",
+        "Bugünkü bir işinizde gelecek beklenti ve geçmiş mirasın aynı anda nasıl bulunduğunu yazın. Ekstatik zaman insanın saat içindeki nokta değil, geçmişi devralıp geleceğe açılan hareket olduğunu gösterir."
       ]
     },
     {

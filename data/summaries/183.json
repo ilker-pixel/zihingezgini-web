@@ -12,8 +12,6 @@
   "chapterArtColor": "#4D6371",
   "meta": {
     "originalTitle": "Syntactic Structures",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Daha önce hiç duymadığınız bir cümleyi anlayabilir ve kimsenin söylemediği yeni bir cümle kurabilirsiniz. Dil yalnız ezberlenmiş ifadeler deposuysa bu yaratıcılık şaşırtıcıdır. Chomsky küçük kitapta, dilbilgisinin sonsuz cümle üreten açık bir sistem olarak modellenmesi gerektiğini gösterir.",
@@ -43,7 +41,7 @@
       "paragraphs": [
         "Sınırlı sayıda kuralın sonsuz sayıda yeni cümle üretmesini açıklamak için dili kelime listesi ya da alışkanlık zinciri değil, üretici bir yapı olarak ele alan modern dilbilimin dönüm noktası.",
         "1957 metni sonraki Chomsky kuramlarının tamamı değildir; dönüşümsel dilbilgisinin erken ve teknik bir programıdır. Tarihsel etkisini görürken kullanım temelli, bilişsel ve istatistiksel dilbilimin sonraki eleştirilerini de hesaba katmak gerekir.",
-        "Bu rehber, Noam Chomsky tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+        "Bu rehber, Noam Chomsky tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler."
       ]
     },
     {
@@ -55,9 +53,6 @@
         "Sözlükte bütün olası ev cümleleri yoktur; çocuk 'bahçedeki kediyi dün gören komşu geldi' gibi yenisini kurar.",
         "Gerçek konuşma sonlu bellekle sınırlıdır; sonsuzluk ideal kapasite modelidir.",
         "Bir dil modelinin gördüğünü tekrarlamakla yeni yapıyı kurmak arasındaki farkını düşünün."
-      ],
-      "extraParagraphs": [
-        "Bu durağı biraz daha yakından düşündüğümüzde, “Dilbilgisi cümle listesi değildir” başlığının yalnız kendi örneğini değil Sözdizimsel Yapılar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -69,9 +64,6 @@
         "Uzun cümlede nefesiniz kesilip hata yapmanız kuralı bilmediğinizi göstermez; piyano bilgisi ile sahne sürçmesi farklıdır.",
         "Keskin ayrım kullanımın dil bilgisini nasıl biçimlendirdiğini küçümseyebilir. Korpus dilbilimi gerçek veriyi merkeze alır.",
         "Tek bir konuşma hatasını zihinsel kuralın kanıtı saymadan tekrar eden yapısal örüntüyü arayın."
-      ],
-      "extraParagraphs": [
-        "Aynı bağlantıya başka bir açıdan bakarsak, “Dilsel yeterlik ile gerçekleşme” başlığının yalnız kendi örneğini değil Sözdizimsel Yapılar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -83,9 +75,6 @@
         "Açılan her parantezin uygun yerde kapanması gerekir; yalnız son kelimeye bakmak derin gömülmeyi izlemeye yetmez.",
         "Modern istatistiksel modeller uzun bağımlılıkları öğrenebilir. 1957'nin teknik sınırı bugünkü mimarilere doğrudan uygulanmamalıdır.",
         "Bir modelin akıcı sıra üretmesiyle cümlenin hiyerarşik ilişkisini temsil etmesini ayırın."
-      ],
-      "extraParagraphs": [
-        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Dil olasılıklı kelime zinciri mi?” başlığının yalnız kendi örneğini değil Sözdizimsel Yapılar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -97,9 +86,6 @@
         "'Küçük çocuk topu attı' cümlesinde 'küçük çocuk' birlikte hareket eden bir paket, 'topu attı' başka pakettir.",
         "Dillerin öbek yapısı aynı şablona sığmaz ve sözcük sırası esnek olabilir. Kurallar dil özel verilerle sınanır.",
         "Bir belirsiz cümlede kelimeleri değil hangi parçaların birlikte öbek oluşturduğunu çizin."
-      ],
-      "extraParagraphs": [
-        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Öbek yapı kuralları” başlığının yalnız kendi örneğini değil Sözdizimsel Yapılar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -111,9 +97,6 @@
         "'Çocuk topu attı' ile 'Top çocuk tarafından atıldı' farklı sıra taşır ama rol ilişkileri bağlantılıdır.",
         "Erken dönüşüm sistemi zamanla büyük ölçüde değişti. Kavramın tarihsel işlevi, ilişkili cümleleri tek tek listelememektir.",
         "Bir dil kuralında yüzey sırası değişirken kim-ne yaptı ilişkisini hangi işaretin koruduğunu görün."
-      ],
-      "extraParagraphs": [
-        "Buradaki gerilimi akılda tutmanın bir yolu da, “Dönüşüm neden gerekir?” başlığının yalnız kendi örneğini değil Sözdizimsel Yapılar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -125,9 +108,6 @@
         "Hamurdan ekmek, simit ve pide yapılır; ürünler farklıdır ama hazırlama ilişkileri ortak olabilir.",
         "Bütün cümleleri tek çekirdek ailesine zorlamak diller arası çeşitliliği basitleştirebilir.",
         "Dil öğretiminde örnekleri ezberletmek yerine hangi ortak yapıdan dönüştüklerini gösterin."
-      ],
-      "extraParagraphs": [
-        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Çekirdek cümlelerden çeşitlilik” başlığının yalnız kendi örneğini değil Sözdizimsel Yapılar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -139,9 +119,6 @@
         "Boş bir çerçeve düzgün yapılmış olabilir ama içine konan resim gerçek dışıdır; yapı ile içerik ayrılır.",
         "Anlam ile sözdizimi gerçek kullanımda sürekli etkileşir. Ayrım bağımsızlık derecesini araştırmak içindir. Bu sınır, kitabı değersizleştirmez.",
         "Bir yapay zekâ cümlesinin akıcı gramerini, dünyaya uygun anlam ve doğruluktan ayrı değerlendirin."
-      ],
-      "extraParagraphs": [
-        "Bu fikri gerçek bir sınamaya sokmak için, “Dilbilgisellik ile anlamlılık farklıdır” başlığının yalnız kendi örneğini değil Sözdizimsel Yapılar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -153,9 +130,6 @@
         "Kimse size her yeni merdiven cümlesini öğretmez; yine de hangi basamağın eğri olduğunu sezersiniz.",
         "Ana dili sezgileri sosyal, bölgesel ve bağlamsal değişir; araştırmacının kendi yargısı tek veri olmamalıdır.",
         "Korpus örüntüsü ile konuşur deneyini birbirinin rakibi değil tamamlayıcı kanıt yapın."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Korpus tek başına sınır mı?” başlığının yalnız kendi örneğini değil Sözdizimsel Yapılar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -252,8 +226,8 @@
       "title": "Kitabın en kolay yanlış anlaşılacağı yer",
       "paragraphs": [
         "Kitap bütün dillerin aynı söz sırasına sahip olduğunu ya da anlamın önemsiz olduğunu söylemez. Sözdizimin belirli ölçüde bağımsız biçimsel düzen taşıdığını ve dilbilgisinin sonlu kurallarla sınırsız yapı üretmesini açıklaması gerektiğini savunur.",
-        "Sözdizimsel Yapılar tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
-        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Noam Chomsky ile verimli tartışma böyle başlar."
+        "Sözdizimsel Yapılar tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur.",
+        "Noam Chomsky ile verimli tartışma böyle başlar."
       ]
     },
     {
@@ -262,8 +236,8 @@
       "title": "Kitap hakkında süren tartışma",
       "paragraphs": [
         "Eser modern dilbilimin dönüm noktası ve bilişsel devrimin önemli metni sayılmıştır. Erken dönüşüm kuralları sonraki Chomsky modellerinde değişmiş; kullanım temelli, işlevsel, tipolojik ve istatistiksel yaklaşımlar doğuştanlık, veri ve dil çeşitliliği iddialarını eleştirmiştir.",
-        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Sözdizimsel Yapılar için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
-        "Sözdizimsel Yapılar için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+        "Sözdizimsel Yapılar için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Sözdizimsel Yapılar için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek."
       ]
     },
     {
@@ -272,8 +246,8 @@
       "title": "Bugünkü hayata taşınan üç soru",
       "paragraphs": [
         "Model yalnız sık dizileri mi tekrar ediyor, yoksa yeni hiyerarşik yapı mı kuruyor? Dilbilgisellik, anlamlılık ve doğruluk burada nasıl ayrılıyor? Evrensel iddia hangi dil çeşitliliğiyle sınandı?",
-        "Bu sorular Sözdizimsel Yapılar için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
-        "Sözdizimsel Yapılar üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+        "Bu sorular Sözdizimsel Yapılar için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir.",
+        "Sözdizimsel Yapılar üzerine cevapların hemen gelmemesi bir eksiklik değildir."
       ]
     },
     {
@@ -282,8 +256,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Dil ezberlenmiş cümle deposu değil, sonlu zihinsel araçlarla sınırsız yeni yapı kurabilen üretici bir sistemdir; onu açıklamak kelime sırasının altında çalışan hiyerarşik ilişkileri modellemeyi gerektirir.",
-        "Akılda kalacak son görüntü, az sayıda mavi kural dişlisinden yükselip sonsuz renkli cümle dallarına dönüşen dil ağacıdır. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
-        "Sözdizimsel Yapılar adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+        "Akılda kalacak son görüntü, az sayıda mavi kural dişlisinden yükselip sonsuz renkli cümle dallarına dönüşen dil ağacıdır.",
+        "Sözdizimsel Yapılar adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

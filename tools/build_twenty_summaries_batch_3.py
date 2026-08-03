@@ -419,9 +419,8 @@ BOOKS.append(base(195, "Televizyon Öldürüyor", "Neil Postman",
     "#6C4D48", "Amusing Ourselves to Death", "televizyon-olduruyor",
     [
         {"id": 1, "title": "Penguin Random House - Amusing Ourselves to Death", "url": "https://www.penguinrandomhouse.com/books/297276/amusing-ourselves-to-death-by-neil-postman/"},
-        {"id": 2, "title": "Neil Postman resmi arşivi", "url": "https://neilpostman.org/"},
-        {"id": 3, "title": "Library of Congress - Televizyon ve kamusal söylem", "url": "https://www.loc.gov/programs/national-film-preservation-board/resources/television/"},
-        {"id": 4, "title": "Pew Research Center - Haber tüketimi", "url": "https://www.pewresearch.org/topic/news-habits-media/news-platforms-sources/"},
+        {"id": 2, "title": "NYU Steinhardt - Neil Postman ve Medya Ekolojisi", "url": "https://steinhardt.nyu.edu/news/50-years-media-studies-nyu-steinhardt"},
+        {"id": 3, "title": "Pew Research Center - Haber tüketimi", "url": "https://www.pewresearch.org/topic/news-habits-media/news-platforms-sources/"},
     ], [
         entry("Bu kitap nasıl okunmalı?", [
             "Türkçe başlık serttir; özgün başlık 'Kendimizi Ölesiye Eğlendirmek' anlamına gelir. Postman televizyonun insan öldürdüğünü değil kamusal düşünceyi eğlence biçimine çevirdiğini savunur.",

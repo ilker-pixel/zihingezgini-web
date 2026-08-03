@@ -12,16 +12,14 @@
   "chapterArtColor": "#6B4C83",
   "meta": {
     "originalTitle": "L'ordre du discours",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Konferans salonunda mikrofona herkes çıkamaz. Konuşmacı seçilir, unvanı okunur, söz süresi belirlenir, bazı iddialar bilimsel bazıları saçma sayılır. Foucault söylemin yalnız kelime değil dağıtılan bir hak ve risk olduğunu gösterir.",
   "sources": [
     {
       "id": 1,
-      "title": "BnF - L'ordre du discours",
-      "url": "https://catalogue.bnf.fr/ark:/12148/cb351883777"
+      "title": "PhilPapers - L'ordre du discours",
+      "url": "https://philpapers.org/rec/FOULDD-7"
     },
     {
       "id": 2,
@@ -47,9 +45,9 @@
       "title": "Söz neden tehlikelidir?",
       "paragraphs": [
         "Toplum söylemin tesadüf, güç ve arzu taşıyan üretimini denetleyip seçer ve dağıtır.",
-        "Mikrofonun kime verildiği toplantı sonucunu değiştirir. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
-        "Her düzenleme baskı değildir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
-        "Koordinasyonla susturma arasındaki çizgiyi görmek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+        "Mikrofonun kime verildiği toplantı sonucunu değiştirir.",
+        "Her düzenleme baskı değildir.",
+        "Koordinasyonla susturma arasındaki çizgiyi görmek gerekir."
       ]
     },
     {
@@ -57,13 +55,10 @@
       "section": "BİRİNCİ KISIM · DIŞLAMA",
       "title": "Yasak",
       "paragraphs": [
-        "Her konuda, her yerde ve herkesin konuşmasına izin verilmez; konu, durum ve konuşan kişi birlikte sınırlandırılır. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
-        "Çalışan işyerinde ücret konuşunca uygunsuz sayılır. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
-        "Mahremiyet ve güvenlik bazı sınırlar gerektirir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
-        "Yasağın kimi ve hangi gücü koruduğunu sormak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Sahnedeki zamanı biraz yavaşlattığımızda, “Yasak” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Her konuda, her yerde ve herkesin konuşmasına izin verilmez; konu, durum ve konuşan kişi birlikte sınırlandırılır.",
+        "Çalışan işyerinde ücret konuşunca uygunsuz sayılır.",
+        "Mahremiyet ve güvenlik bazı sınırlar gerektirir.",
+        "Yasağın kimi ve hangi gücü koruduğunu sormak gerekir."
       ]
     },
     {
@@ -71,13 +66,10 @@
       "section": "BİRİNCİ KISIM · SES",
       "title": "Delilik ile akıl ayrımı",
       "paragraphs": [
-        "Tarih boyunca bazı kişilerin sözü anlamsız gürültü sayılmış, bazen de gizemli hakikat gibi ayrı yere konmuştur. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Hastanın cümlesi kendi deneyimi yerine yalnız belirti olarak kaydedilir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Klinik değerlendirme bütünüyle keyfî değildir. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
-        "Kişinin söz hakkıyla bakım ihtiyacını birlikte korumak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Delilik ile akıl ayrımı” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Tarih boyunca bazı kişilerin sözü anlamsız gürültü sayılmış, bazen de gizemli hakikat gibi ayrı yere konmuştur.",
+        "Hastanın cümlesi kendi deneyimi yerine yalnız belirti olarak kaydedilir.",
+        "Klinik değerlendirme bütünüyle keyfî değildir.",
+        "Kişinin söz hakkıyla bakım ihtiyacını birlikte korumak gerekir."
       ]
     },
     {
@@ -86,12 +78,9 @@
       "title": "Doğru ile yanlış iradesi",
       "paragraphs": [
         "Neyin doğru söz sayılacağı yalnız kanıta değil kurum, eğitim ve tarihsel doğrulama düzenine de bağlıdır.",
-        "Laboratuvar makalesi belirli biçim ve yetkiyle duyulur. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
-        "Kurumsal koşul gerçeği keyfî yapmaz. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Kanıtla erişim ve kaynak dağılımını ayrı incelemek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Doğru ile yanlış iradesi” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Laboratuvar makalesi belirli biçim ve yetkiyle duyulur.",
+        "Kurumsal koşul gerçeği keyfî yapmaz.",
+        "Kanıtla erişim ve kaynak dağılımını ayrı incelemek gerekir."
       ]
     },
     {
@@ -99,13 +88,10 @@
       "section": "İKİNCİ KISIM · İÇ DENETİM",
       "title": "Yorum tükenmez dönüş",
       "paragraphs": [
-        "Yorum yeni söz üretirken kutsal veya kurucu metne geri bağlanarak yeniliği sınırlar. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
-        "Mahkeme her yeni vakada eski maddeyi yeniden açıklar. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
-        "Yorum ortak süreklilik sağlar. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
-        "Metnin otoritesiyle yeni bağlamın hakkını dengelemek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Yorum tükenmez dönüş” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Yorum yeni söz üretirken kutsal veya kurucu metne geri bağlanarak yeniliği sınırlar.",
+        "Mahkeme her yeni vakada eski maddeyi yeniden açıklar.",
+        "Yorum ortak süreklilik sağlar.",
+        "Metnin otoritesiyle yeni bağlamın hakkını dengelemek gerekir."
       ]
     },
     {
@@ -113,13 +99,10 @@
       "section": "İKİNCİ KISIM · İMZA",
       "title": "Yazar işlevi",
       "paragraphs": [
-        "Yazar adı metinleri sınıflandıran, sorumluluk ve değer dağıtan bir işlev görür. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
-        "İmzasız not sıradan, ünlü düşünürün notu arşivlik sayılır. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
-        "Gerçek kişi ve emek bütünüyle önemsiz değildir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
-        "İsim etkisiyle metindeki kanıtı ayırmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Yazar işlevi” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Yazar adı metinleri sınıflandıran, sorumluluk ve değer dağıtan bir işlev görür.",
+        "İmzasız not sıradan, ünlü düşünürün notu arşivlik sayılır.",
+        "Gerçek kişi ve emek bütünüyle önemsiz değildir.",
+        "İsim etkisiyle metindeki kanıtı ayırmak gerekir."
       ]
     },
     {
@@ -127,13 +110,10 @@
       "section": "İKİNCİ KISIM · KURAL",
       "title": "Disiplin",
       "paragraphs": [
-        "Disiplin neyin nesne, yöntem ve kabul edilebilir önerme sayılacağını belirleyerek sonsuz söz içinden alan kurar. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
-        "Astrolojik tahmin fizik dergisinin oyununa giremez. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
-        "Disiplin güvenilir bilgi üretir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Sınırın yeni soruyu gereksizce dışlayıp dışlamadığını sınamak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
-      ],
-      "extraParagraphs": [
-        "Büyük resmi yeniden kurduğumuzda, “Disiplin” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Disiplin neyin nesne, yöntem ve kabul edilebilir önerme sayılacağını belirleyerek sonsuz söz içinden alan kurar.",
+        "Astrolojik tahmin fizik dergisinin oyununa giremez.",
+        "Disiplin güvenilir bilgi üretir.",
+        "Sınırın yeni soruyu gereksizce dışlayıp dışlamadığını sınamak gerekir."
       ]
     },
     {
@@ -141,10 +121,10 @@
       "section": "İKİNCİ KISIM · YETKİ",
       "title": "Doğru cümle ama yanlış yerde",
       "paragraphs": [
-        "Bir önerme olgusal olarak doğruya yakın olsa bile dönemin disiplin kurallarına uymadığı için bilimsel söylemde görünmez kalabilir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Yeni bulgu uygun kavram ve yöntem olmadan ciddiye alınmaz. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
-        "Dışlanma her aykırı fikri dâhi yapmaz. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
-        "Aykırılığı bağımsız kanıt ve tekrar ile sınamak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+        "Bir önerme olgusal olarak doğruya yakın olsa bile dönemin disiplin kurallarına uymadığı için bilimsel söylemde görünmez kalabilir.",
+        "Yeni bulgu uygun kavram ve yöntem olmadan ciddiye alınmaz.",
+        "Dışlanma her aykırı fikri dâhi yapmaz.",
+        "Aykırılığı bağımsız kanıt ve tekrar ile sınamak gerekir."
       ]
     },
     {
@@ -152,13 +132,10 @@
       "section": "ÜÇÜNCÜ KISIM · ERİŞİM",
       "title": "Konuşan öznenin seyreltilmesi",
       "paragraphs": [
-        "Ritüel, eğitim ve yeterlilik kimin hangi söz konumuna girebileceğini sınırlar. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
-        "Doktor reçete yazar, hasta aynı kâğıdı yazamaz. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Uzmanlık güvenlik sağlayabilir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Yetkinliğin şeffaf, erişilebilir ve itiraza açık olması gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
-      ],
-      "extraParagraphs": [
-        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Konuşan öznenin seyreltilmesi” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Ritüel, eğitim ve yeterlilik kimin hangi söz konumuna girebileceğini sınırlar.",
+        "Doktor reçete yazar, hasta aynı kâğıdı yazamaz.",
+        "Uzmanlık güvenlik sağlayabilir.",
+        "Yetkinliğin şeffaf, erişilebilir ve itiraza açık olması gerekir."
       ]
     },
     {
@@ -167,9 +144,9 @@
       "title": "Ritüel",
       "paragraphs": [
         "Söylem ritüeli beden, zaman, mekân ve unvanı düzenleyerek sözün gücünü üretir.",
-        "Yemin, cübbe ve kürsü mahkeme cümlesini gündelik sözden ayırır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
-        "Ritüel tek başına meşruiyet kanıtı değildir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
-        "Biçimin arkasındaki hesap verme ve kanıtı görmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Yemin, cübbe ve kürsü mahkeme cümlesini gündelik sözden ayırır.",
+        "Ritüel tek başına meşruiyet kanıtı değildir.",
+        "Biçimin arkasındaki hesap verme ve kanıtı görmek gerekir."
       ]
     },
     {
@@ -177,13 +154,10 @@
       "section": "ÜÇÜNCÜ KISIM · DOLAŞIM",
       "title": "Söylem cemaatleri",
       "paragraphs": [
-        "Bazı gruplar özel bilgi ve konuşma biçimini koruyup üyeler arasında dolaştırır. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
-        "Meslek jargonu iç iletişimi kolaylaştırır, dışarıdakini uzak tutar. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
-        "Ortak dil teknik hassasiyet sağlayabilir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
-        "Jargonu gerektiğinde açık dile çevirmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Söylem cemaatleri” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Bazı gruplar özel bilgi ve konuşma biçimini koruyup üyeler arasında dolaştırır.",
+        "Meslek jargonu iç iletişimi kolaylaştırır, dışarıdakini uzak tutar.",
+        "Ortak dil teknik hassasiyet sağlayabilir.",
+        "Jargonu gerektiğinde açık dile çevirmek gerekir."
       ]
     },
     {
@@ -191,13 +165,10 @@
       "section": "ÜÇÜNCÜ KISIM · AİDİYET",
       "title": "Doktrin",
       "paragraphs": [
-        "Doktrin sözü yalnız doğru içeriğe değil konuşanın gruba bağlılığına göre kabul edip kişiyi de cümleye bağlar. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Aynı söz üyeden sadakat, yabancıdan tehdit sayılır. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
-        "Ortak ilke dayanışma yaratabilir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
-        "İddianın kanıtını konuşanın kimliğinden ayırmak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Doktrin” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Doktrin sözü yalnız doğru içeriğe değil konuşanın gruba bağlılığına göre kabul edip kişiyi de cümleye bağlar.",
+        "Aynı söz üyeden sadakat, yabancıdan tehdit sayılır.",
+        "Ortak ilke dayanışma yaratabilir.",
+        "İddianın kanıtını konuşanın kimliğinden ayırmak gerekir."
       ]
     },
     {
@@ -205,13 +176,10 @@
       "section": "ÜÇÜNCÜ KISIM · OKUL",
       "title": "Eğitimin dağıtım gücü",
       "paragraphs": [
-        "Eğitim söyleme erişim verirken hangi bilgi ve konuşma biçiminin meşru olduğunu da dağıtır. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
-        "Diploma bazı kapıları açar, başka deneyim bilgisini değersizleştirir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Eğitim hareketlilik ve eleştiri sağlar. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
-        "Müfredat ve erişimde dışarıda kalan sesleri görmek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Eğitimin dağıtım gücü” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Eğitim söyleme erişim verirken hangi bilgi ve konuşma biçiminin meşru olduğunu da dağıtır.",
+        "Diploma bazı kapıları açar, başka deneyim bilgisini değersizleştirir.",
+        "Eğitim hareketlilik ve eleştiri sağlar.",
+        "Müfredat ve erişimde dışarıda kalan sesleri görmek gerekir."
       ]
     },
     {
@@ -219,13 +187,10 @@
       "section": "DÖRDÜNCÜ KISIM · YÖNTEM",
       "title": "Tersine çevirme",
       "paragraphs": [
-        "Araştırma söylemin kaynağında özgür yaratıcı özne yerine üretimi sınırlayan mekanizmaları aramalıdır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "Büyük konuşmacı anlatısı yerine kürsü, arşiv ve seçim kuruluna bakılır. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
-        "Yapı vurgusu kişisel yaratıcılığı silmemelidir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Kişiyle onu mümkün kılan düzeni birlikte incelemek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Tersine çevirme” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Araştırma söylemin kaynağında özgür yaratıcı özne yerine üretimi sınırlayan mekanizmaları aramalıdır.",
+        "Büyük konuşmacı anlatısı yerine kürsü, arşiv ve seçim kuruluna bakılır.",
+        "Yapı vurgusu kişisel yaratıcılığı silmemelidir.",
+        "Kişiyle onu mümkün kılan düzeni birlikte incelemek gerekir."
       ]
     },
     {
@@ -233,10 +198,10 @@
       "section": "DÖRDÜNCÜ KISIM · OLAY",
       "title": "Süreksizlik ve özgüllük",
       "paragraphs": [
-        "Söylemi tek ilerleyen bilinç yerine tarihsel olaylar, kopuşlar ve özgül pratikler dizisi olarak incelemek gerekir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
-        "Bir tıbbi kavram belirli hastane ve kayıt tekniğiyle doğar. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
-        "Kopuş geçmiş sürekliliklerini yok etmez. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Değişen kural ve süren alışkanlığı birlikte haritalamak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+        "Söylemi tek ilerleyen bilinç yerine tarihsel olaylar, kopuşlar ve özgül pratikler dizisi olarak incelemek gerekir.",
+        "Bir tıbbi kavram belirli hastane ve kayıt tekniğiyle doğar.",
+        "Kopuş geçmiş sürekliliklerini yok etmez.",
+        "Değişen kural ve süren alışkanlığı birlikte haritalamak gerekir."
       ]
     },
     {
@@ -244,13 +209,10 @@
       "section": "DÖRDÜNCÜ KISIM · SONUÇ",
       "title": "Sözün maddiliği",
       "paragraphs": [
-        "Söylem yalnız fikir değil arşiv, kurum, beden ve yaptırımla gerçek sonuç üreten maddi pratiktir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Bir tanı cümlesi tedavi, sigorta ve kimlik yolunu değiştirir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Dil maddi nedeni tek başına açıklamaz. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Sözün kurum üzerinden hangi eyleme dönüştüğünü izlemek gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
-      ],
-      "extraParagraphs": [
-        "İddianın sınırını denemek için, “Sözün maddiliği” ile Söylemin Düzeni kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Söylem yalnız fikir değil arşiv, kurum, beden ve yaptırımla gerçek sonuç üreten maddi pratiktir.",
+        "Bir tanı cümlesi tedavi, sigorta ve kimlik yolunu değiştirir.",
+        "Dil maddi nedeni tek başına açıklamaz.",
+        "Sözün kurum üzerinden hangi eyleme dönüştüğünü izlemek gerekir."
       ]
     },
     {
@@ -270,7 +232,7 @@
       "paragraphs": [
         "Ders Foucault'nun arkeoloji ile soykütük arasında kurduğu araştırma programının kısa özeti oldu; söylem analizi, eğitim, medya ve kültür çalışmalarında çok etkili oldu.",
         "Güç kavramının fazla yayılması, doğruluk ölçüsünün belirsiz kalması, direniş ve öznenin yaratıcılığının geri planda olması ve kurumsal açıklamanın içerik analizini gölgelemesi eleştirildi.",
-        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Söylemin Düzeni bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+        "Söylemin Düzeni bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
       ]
     },
     {
@@ -280,7 +242,7 @@
       "paragraphs": [
         "Kim konuşabiliyor? Hangi cümle disiplin dışında kalıyor? Söz hangi ritüel ve kurum sayesinde gerçek sonuç üretiyor?",
         "Bir toplantı veya haber programını seçin. Konuşmacı seçimi, süre, jargon, kanıt ölçüsü ve hiç duyulmayan kişiyi beş satırda yazın.",
-        "Söylemin Düzeni bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+        "Söylemin Düzeni bu soruların hemen cevaplanmasını beklemez."
       ]
     },
     {
@@ -289,8 +251,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Söylem kendiliğinden akan saf fikir değildir; yasak, uzmanlık, ritüel, disiplin ve kurumlar neyin kim tarafından doğru söz olarak dolaşacağını düzenler.",
-        "Akılda tutulacak son görüntü, mor, kömür siyahı ve bakır tonlarında ışıklı bir kürsüye giden yolun yasak kapıları, arşiv rafları, cübbe ve mikrofon halkaları arasından geçtiği dramatik söylem labirentidir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
-        "Söylemin Düzeni adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+        "Akılda tutulacak son görüntü, mor, kömür siyahı ve bakır tonlarında ışıklı bir kürsüye giden yolun yasak kapıları, arşiv rafları, cübbe ve mikrofon halkaları arasından geçtiği dramatik söylem labirentidir.",
+        "Söylemin Düzeni adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

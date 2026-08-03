@@ -12,8 +12,6 @@
   "chapterArtColor": "#496A73",
   "meta": {
     "originalTitle": "Tractatus Logico-Philosophicus",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Masada fincan, kitap ve anahtar vardır. Ama dünya yalnız bu eşyalar değildir: anahtar kitabın üstündedir, fincan boştur, kapı kilitlidir. Wittgenstein için dünyayı kuran şeyler değil, şeylerin belirli biçimde durduğu olgulardır. Dil de bu olası düzenleri resmedebildiği ölçüde anlam taşır.",
@@ -46,10 +44,10 @@
       "section": "BİRİNCİ ÖNERME · DÜNYA",
       "title": "Dünya olan her şeydir",
       "paragraphs": [
-        "Kitap dünyayı tek tek nesnelerin toplamı değil, gerçekleşmiş olguların bütünü olarak açar. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Top, masa ve kutu aynı kalırken topun kutuda ya da masada olması farklı dünyasal durumlar kurar. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
-        "Nesneler gereksiz değildir; olguların bağlanabildiği öğelerdir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
-        "Bir haberde kimlerin var olduğundan önce aralarındaki hangi ilişkinin gerçekten gerçekleştiğini sormak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+        "Kitap dünyayı tek tek nesnelerin toplamı değil, gerçekleşmiş olguların bütünü olarak açar.",
+        "Top, masa ve kutu aynı kalırken topun kutuda ya da masada olması farklı dünyasal durumlar kurar.",
+        "Nesneler gereksiz değildir; olguların bağlanabildiği öğelerdir.",
+        "Bir haberde kimlerin var olduğundan önce aralarındaki hangi ilişkinin gerçekten gerçekleştiğini sormak gerekir."
       ]
     },
     {
@@ -57,13 +55,10 @@
       "section": "İKİNCİ ÖNERME · YAPI",
       "title": "Olgu ile durum",
       "paragraphs": [
-        "Olgu nesnelerin belirli bağlantısıdır; olası durum gerçekleşirse dünyanın parçası olur. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
-        "Anahtar cebinizde olabilir, masada olabilir veya kayıp olabilir; bu olasılıklardan biri şu anki olgudur. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
-        "Gündelik karmaşık olayları atomik parçalara ayırmanın kesin yolu tartışmalıdır. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
-        "Bir iddiayı kişi, ilişki ve zaman öğelerine ayırarak neyin doğrulanacağını açık etmek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
-      ],
-      "extraParagraphs": [
-        "Sahnedeki zamanı biraz yavaşlattığımızda, “Olgu ile durum” ile Tractatus Logico-Philosophicus kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Olgu nesnelerin belirli bağlantısıdır; olası durum gerçekleşirse dünyanın parçası olur.",
+        "Anahtar cebinizde olabilir, masada olabilir veya kayıp olabilir; bu olasılıklardan biri şu anki olgudur.",
+        "Gündelik karmaşık olayları atomik parçalara ayırmanın kesin yolu tartışmalıdır.",
+        "Bir iddiayı kişi, ilişki ve zaman öğelerine ayırarak neyin doğrulanacağını açık etmek gerekir."
       ]
     },
     {
@@ -71,10 +66,10 @@
       "section": "İKİNCİ ÖNERME · BİÇİM",
       "title": "Nesneler olasılık taşır",
       "paragraphs": [
-        "Bir nesnenin mantıksal biçimi onun hangi durumların içinde yer alabileceğini belirler. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
-        "Satranç fili taş olarak her yerde durabilir ama kurallar içinde yalnız çapraz hareket imkânı taşır. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
-        "Dünya satranç gibi önceden tamamlanmış tek kural kitabına sahip görünmeyebilir. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
-        "Bir kavramı kullanırken onun hangi cümle bağlantılarına gerçekten izin verdiğini sınamak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Bir nesnenin mantıksal biçimi onun hangi durumların içinde yer alabileceğini belirler.",
+        "Satranç fili taş olarak her yerde durabilir ama kurallar içinde yalnız çapraz hareket imkânı taşır.",
+        "Dünya satranç gibi önceden tamamlanmış tek kural kitabına sahip görünmeyebilir.",
+        "Bir kavramı kullanırken onun hangi cümle bağlantılarına gerçekten izin verdiğini sınamak gerekir."
       ]
     },
     {
@@ -82,13 +77,10 @@
       "section": "İKİNCİ ÖNERME · RESİM",
       "title": "Cümle gerçeğin resmi olur",
       "paragraphs": [
-        "Anlamlı önerme parçalarıyla olası durum arasında ortak bir düzen kurduğu için gerçeği resmeder. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
-        "Metro haritası tünelin rengine ve büyüklüğüne benzemez ama istasyon ilişkisini koruduğu için yol gösterir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "Her dil kullanımı fotoğraf benzeri bildirim değildir; soru, emir ve şaka daha karmaşıktır. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
-        "Bir modelin gerçeğin hangi ilişkisini koruyup hangisini bilerek attığını belirtmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Cümle gerçeğin resmi olur” ile Tractatus Logico-Philosophicus kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Anlamlı önerme parçalarıyla olası durum arasında ortak bir düzen kurduğu için gerçeği resmeder.",
+        "Metro haritası tünelin rengine ve büyüklüğüne benzemez ama istasyon ilişkisini koruduğu için yol gösterir.",
+        "Her dil kullanımı fotoğraf benzeri bildirim değildir; soru, emir ve şaka daha karmaşıktır.",
+        "Bir modelin gerçeğin hangi ilişkisini koruyup hangisini bilerek attığını belirtmek gerekir."
       ]
     },
     {
@@ -96,10 +88,10 @@
       "section": "İKİNCİ ÖNERME · SINAMA",
       "title": "Doğru resim, yanlış resim",
       "paragraphs": [
-        "Cümle anlamlı olmak için doğru olmak zorunda değildir; mümkün durumu kurar ve gerçekle karşılaştırıldığında doğru ya da yanlış çıkar. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
-        "'Kedi sandalyede' cümlesi kedi yerdeyken yanlıştır ama ne söylediği açıkça anlaşılır. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Mantıksal olarak kurulabilir her cümle bilimsel olarak makul değildir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Yanlış iddia ile anlamsız sözcük dizisini ayırmak tartışmayı temizler. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+        "Cümle anlamlı olmak için doğru olmak zorunda değildir; mümkün durumu kurar ve gerçekle karşılaştırıldığında doğru ya da yanlış çıkar.",
+        "'Kedi sandalyede' cümlesi kedi yerdeyken yanlıştır ama ne söylediği açıkça anlaşılır.",
+        "Mantıksal olarak kurulabilir her cümle bilimsel olarak makul değildir.",
+        "Yanlış iddia ile anlamsız sözcük dizisini ayırmak tartışmayı temizler."
       ]
     },
     {
@@ -107,13 +99,10 @@
       "section": "ÜÇÜNCÜ ÖNERME · DÜŞÜNCE",
       "title": "Düşünce anlamlı önermedir",
       "paragraphs": [
-        "Düşünce olası durumun mantıksal resmidir ve dilde algılanabilir işarete dönüşür. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Zihinde odanın yeni düzenini kurup sonra eşyaları o plana göre taşırız. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
-        "Düşünceyi yalnız cümle biçimine indirgemek imge, beden ve duygu boyutunu eksik bırakabilir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Bir planı sözcüğe, çizime ve eylem sırasına çevirerek farklı temsil biçimlerini karşılaştırmak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Düşünce anlamlı önermedir” ile Tractatus Logico-Philosophicus kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Düşünce olası durumun mantıksal resmidir ve dilde algılanabilir işarete dönüşür.",
+        "Zihinde odanın yeni düzenini kurup sonra eşyaları o plana göre taşırız.",
+        "Düşünceyi yalnız cümle biçimine indirgemek imge, beden ve duygu boyutunu eksik bırakabilir.",
+        "Bir planı sözcüğe, çizime ve eylem sırasına çevirerek farklı temsil biçimlerini karşılaştırmak gerekir."
       ]
     },
     {
@@ -121,13 +110,10 @@
       "section": "DÖRDÜNCÜ ÖNERME · GÜNDELİK DİL",
       "title": "Dil düşüncenin giysisidir",
       "paragraphs": [
-        "Gündelik dil düşünceyi örter; yüzeyde benzer cümleler altta farklı mantıksal işlev taşıyabilir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "'Saat kaç?' bilgi isterken 'Bir saatin var mı?' bazen kişinin acele etmesini ima eder. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "Gündelik dil yalnız hata kaynağı değildir ve yaşamı başarıyla düzenler. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
-        "Bir anlaşmazlıkta aynı sözcüğün taraflarca hangi işlevle kullanıldığını açmak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
-      ],
-      "extraParagraphs": [
-        "Büyük resmi yeniden kurduğumuzda, “Dil düşüncenin giysisidir” ile Tractatus Logico-Philosophicus kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Gündelik dil düşünceyi örter; yüzeyde benzer cümleler altta farklı mantıksal işlev taşıyabilir.",
+        "'Saat kaç?' bilgi isterken 'Bir saatin var mı?' bazen kişinin acele etmesini ima eder.",
+        "Gündelik dil yalnız hata kaynağı değildir ve yaşamı başarıyla düzenler.",
+        "Bir anlaşmazlıkta aynı sözcüğün taraflarca hangi işlevle kullanıldığını açmak gerekir."
       ]
     },
     {
@@ -135,10 +121,10 @@
       "section": "DÖRDÜNCÜ ÖNERME · GÖSTERME",
       "title": "Mantıksal biçim söylenmez, gösterilir",
       "paragraphs": [
-        "Cümle dünya ile ortak biçimini başka bir cümleyle anlatmak yerine anlamlı oluşunda gösterir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
-        "Harita kendi haritalama ilkesini sonsuz ikinci haritayla açıklamaz; kullanıldığında bağlantı görünür. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
-        "Söyleme-gösterme ayrımı kitabın en tartışmalı ve kendi kendine uygulandığında sorunlu yanıdır. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
-        "Bir kuralın içeriği ile onu mümkün kılan arka planı aynı düzeyde ifade etmeye çalışmamak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+        "Cümle dünya ile ortak biçimini başka bir cümleyle anlatmak yerine anlamlı oluşunda gösterir.",
+        "Harita kendi haritalama ilkesini sonsuz ikinci haritayla açıklamaz; kullanıldığında bağlantı görünür.",
+        "Söyleme-gösterme ayrımı kitabın en tartışmalı ve kendi kendine uygulandığında sorunlu yanıdır.",
+        "Bir kuralın içeriği ile onu mümkün kılan arka planı aynı düzeyde ifade etmeye çalışmamak gerekir."
       ]
     },
     {
@@ -146,13 +132,10 @@
       "section": "DÖRDÜNCÜ ÖNERME · TAUTOLOJİ",
       "title": "Mantık dünya hakkında haber vermez",
       "paragraphs": [
-        "Mantık önermeleri bütün olasılıklarda doğru olan tautolojilerdir; belirli olay bildirmez, temsilin iskeletini gösterir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
-        "'Ya yağmur ya yağmur değil' cümlesi kesin doğrudur ama şemsiye alıp almayacağınızı söylemez. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
-        "Mantığın içeriksizliği değersiz olduğu anlamına gelmez. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Kesin ama boş bir formülle gerçek veri veren cümleyi ayırmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Mantık dünya hakkında haber vermez” ile Tractatus Logico-Philosophicus kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Mantık önermeleri bütün olasılıklarda doğru olan tautolojilerdir; belirli olay bildirmez, temsilin iskeletini gösterir.",
+        "'Ya yağmur ya yağmur değil' cümlesi kesin doğrudur ama şemsiye alıp almayacağınızı söylemez.",
+        "Mantığın içeriksizliği değersiz olduğu anlamına gelmez.",
+        "Kesin ama boş bir formülle gerçek veri veren cümleyi ayırmak gerekir."
       ]
     },
     {
@@ -160,10 +143,10 @@
       "section": "BEŞİNCİ ÖNERME · BİLEŞİM",
       "title": "Bütün önermeler doğruluk işlevleridir",
       "paragraphs": [
-        "Karmaşık önermeler temel önermelerin doğru ve yanlış olma biçimlerinden mantıksal olarak kurulabilir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
-        "'Yağmur yağıyor ve yol ıslak' cümlesi iki daha basit iddianın birlikte doğru olmasını ister. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
-        "Doğal dilde bağlam ve belirsizlik salt doğruluk tablosunu aşabilir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
-        "Uzun bir savı küçük iddialara bölüp hangi bağla birleştiğini göstermek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+        "Karmaşık önermeler temel önermelerin doğru ve yanlış olma biçimlerinden mantıksal olarak kurulabilir.",
+        "'Yağmur yağıyor ve yol ıslak' cümlesi iki daha basit iddianın birlikte doğru olmasını ister.",
+        "Doğal dilde bağlam ve belirsizlik salt doğruluk tablosunu aşabilir.",
+        "Uzun bir savı küçük iddialara bölüp hangi bağla birleştiğini göstermek gerekir."
       ]
     },
     {
@@ -171,13 +154,10 @@
       "section": "BEŞİNCİ ÖNERME · İŞLEM",
       "title": "Mantık işlemi yeni nesne değildir",
       "paragraphs": [
-        "Değil, ve, veya gibi mantıksal işlemler dünyaya gizemli varlık eklemez; cümleleri dönüştürme yollarıdır. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "'Kapı açık değil' derken odaya 'değil' adlı yeni eşya koymayız. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
-        "Dilbilgisi ile mantıksal yapı her zaman kolay örtüşmez. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Soyut sözcüğü nesne sanıp sanmadığımızı cümledeki işlevine bakarak kontrol etmek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Mantık işlemi yeni nesne değildir” ile Tractatus Logico-Philosophicus kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Değil, ve, veya gibi mantıksal işlemler dünyaya gizemli varlık eklemez; cümleleri dönüştürme yollarıdır.",
+        "'Kapı açık değil' derken odaya 'değil' adlı yeni eşya koymayız.",
+        "Dilbilgisi ile mantıksal yapı her zaman kolay örtüşmez.",
+        "Soyut sözcüğü nesne sanıp sanmadığımızı cümledeki işlevine bakarak kontrol etmek gerekir."
       ]
     },
     {
@@ -185,10 +165,10 @@
       "section": "ALTINCI ÖNERME · BİLİM",
       "title": "Bilim dünyanın nasıl olduğunu söyler",
       "paragraphs": [
-        "Doğa biliminin anlamlı önermeleri gerçekleşen olguları ve yasalarla düzenli ilişkileri anlatır. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
-        "Termometre sıcaklığı ölçer, deney ilacın etkisini karşılaştırır ve sonuç yanlışlanabilir. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
-        "Bilimsel açıklama neyin değerli olduğunu tek başına belirlemez. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Bir tartışmada olgu sorusuyla amaç ve değer sorusunu aynı veriden otomatik çıkarmamak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+        "Doğa biliminin anlamlı önermeleri gerçekleşen olguları ve yasalarla düzenli ilişkileri anlatır.",
+        "Termometre sıcaklığı ölçer, deney ilacın etkisini karşılaştırır ve sonuç yanlışlanabilir.",
+        "Bilimsel açıklama neyin değerli olduğunu tek başına belirlemez.",
+        "Bir tartışmada olgu sorusuyla amaç ve değer sorusunu aynı veriden otomatik çıkarmamak gerekir."
       ]
     },
     {
@@ -196,13 +176,10 @@
       "section": "ALTINCI ÖNERME · YASA",
       "title": "Nedensellik zorunluluğu nerede?",
       "paragraphs": [
-        "Wittgenstein nedensellik yasasını dünyanın içinde görülen ek bağdan çok olayları düzenleme biçimi olarak ele alır. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Topa vurunca hareketi tekrar görürüz ama zorunluluğu ayrı bir ip gibi gözle göremeyiz. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
-        "Bilimsel nedensellik yalnız alışkanlık değildir; deney ve tahmin gücü taşır. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
-        "Neden iddiasında düzenli birlik, mekanizma ve karşı olasılığı ayrı değerlendirmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Nedensellik zorunluluğu nerede?” ile Tractatus Logico-Philosophicus kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Wittgenstein nedensellik yasasını dünyanın içinde görülen ek bağdan çok olayları düzenleme biçimi olarak ele alır.",
+        "Topa vurunca hareketi tekrar görürüz ama zorunluluğu ayrı bir ip gibi gözle göremeyiz.",
+        "Bilimsel nedensellik yalnız alışkanlık değildir; deney ve tahmin gücü taşır.",
+        "Neden iddiasında düzenli birlik, mekanizma ve karşı olasılığı ayrı değerlendirmek gerekir."
       ]
     },
     {
@@ -210,13 +187,10 @@
       "section": "ALTINCI ÖNERME · BEN",
       "title": "Özne dünyanın sınırıdır",
       "paragraphs": [
-        "Metafizik özne dünyadaki başka bir nesne gibi bulunmaz; dünyanın bana görünme sınırı olarak işlev görür. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
-        "Göz görüş alanındaki her şeyi görür ama kendi kendisini aynı alan içinde doğrudan göremez. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
-        "Benzetme bedensel ve toplumsal benliğin gerçekliğini yok etmez. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
-        "Deneyimin bakış noktasını kabul ederken başkalarının tanıklığı ve ortak ölçümü kullanmak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Özne dünyanın sınırıdır” ile Tractatus Logico-Philosophicus kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Metafizik özne dünyadaki başka bir nesne gibi bulunmaz; dünyanın bana görünme sınırı olarak işlev görür.",
+        "Göz görüş alanındaki her şeyi görür ama kendi kendisini aynı alan içinde doğrudan göremez.",
+        "Benzetme bedensel ve toplumsal benliğin gerçekliğini yok etmez.",
+        "Deneyimin bakış noktasını kabul ederken başkalarının tanıklığı ve ortak ölçümü kullanmak gerekir."
       ]
     },
     {
@@ -225,9 +199,9 @@
       "title": "Etik ve estetik söylenebilir olgunun ötesinde",
       "paragraphs": [
         "Dünyadaki olgular nasıl olduğunu anlatır ama mutlak değer, hayatın anlamı ve etik zorunluluk aynı tür olgu cümlesine sığmaz.",
-        "Bir tablo fiyatı ve boyasıyla ölçülür; neden hayat değiştirici bulunduğu aynı ölçekte tükenmez. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
-        "Değer hakkında susmak kamusal ahlak tartışmasını reddetmek gibi okunmamalıdır. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Değer yargısını olgu kılığına sokmadan gerekçe, deneyim ve sonuçla açıkça tartışmak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+        "Bir tablo fiyatı ve boyasıyla ölçülür; neden hayat değiştirici bulunduğu aynı ölçekte tükenmez.",
+        "Değer hakkında susmak kamusal ahlak tartışmasını reddetmek gibi okunmamalıdır.",
+        "Değer yargısını olgu kılığına sokmadan gerekçe, deneyim ve sonuçla açıkça tartışmak gerekir."
       ]
     },
     {
@@ -235,13 +209,10 @@
       "section": "YEDİNCİ ÖNERME · SINIR",
       "title": "Merdiven ve susma",
       "paragraphs": [
-        "Kitap kendi önermelerini doğru görüşe çıkmak için kullanılan, sonra anlamsızlığı görülüp bırakılan merdivene benzetir ve söylenemeyen hakkında susmayı ister. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "İskele işçiyi çatıya taşır ama bitmiş evin odasında kalmaz. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
-        "Kitabın söyleyerek söylemenin sınırını çizmesi güçlü bir öz çelişki eleştirisi doğurur. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
-        "Bir kavram işini yaptıktan sonra onu dünyanın değişmez eşyası gibi taşımamayı öğrenmek gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
-      ],
-      "extraParagraphs": [
-        "İddianın sınırını denemek için, “Merdiven ve susma” ile Tractatus Logico-Philosophicus kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Kitap kendi önermelerini doğru görüşe çıkmak için kullanılan, sonra anlamsızlığı görülüp bırakılan merdivene benzetir ve söylenemeyen hakkında susmayı ister.",
+        "İskele işçiyi çatıya taşır ama bitmiş evin odasında kalmaz.",
+        "Kitabın söyleyerek söylemenin sınırını çizmesi güçlü bir öz çelişki eleştirisi doğurur.",
+        "Bir kavram işini yaptıktan sonra onu dünyanın değişmez eşyası gibi taşımamayı öğrenmek gerekir."
       ]
     },
     {
@@ -261,7 +232,7 @@
       "paragraphs": [
         "Eser analitik felsefe, mantıksal pozitivizm ve dil felsefesini derinden etkiledi; kısa yapısı ve sonundaki susma çağrısı yirminci yüzyılın en çok tartışılan metinlerinden biri oldu.",
         "Resim kuramının dilin soru, emir, şaka ve toplumsal kullanım çeşitliliğini daralttığı; basit nesne ve temel önerme fikrinin açıklanmadığı; söyleme-gösterme ayrımının kendi kendini çürüttüğü söylendi. Wittgenstein sonraki döneminde birçok görüşünü değiştirdi.",
-        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Tractatus Logico-Philosophicus bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+        "Tractatus Logico-Philosophicus bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
       ]
     },
     {
@@ -271,7 +242,7 @@
       "paragraphs": [
         "Cümle hangi olası durumu resmediyor? Mantıksal biçim ile içerik nerede ayrılıyor? Olgu dilinin dışına taşan değer sorusunu nasıl dürüstçe konuşabiliriz?",
         "Bugün duyduğunuz karmaşık bir iddiayı üç basit cümleye bölün. Hangisi olgu, hangisi mantıksal bağlantı, hangisi değer yargısı; her birinin nasıl sınanacağını yazın.",
-        "Tractatus Logico-Philosophicus bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+        "Tractatus Logico-Philosophicus bu soruların hemen cevaplanmasını beklemez."
       ]
     },
     {
@@ -280,8 +251,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Dil olası olguları ortak mantıksal biçimle resmeder; bilim dünyanın nasıl olduğunu söyler, fakat etik ve hayatın anlamı bu olgu dilinin sınırını gösterir.",
-        "Akılda tutulacak son görüntü, petrol mavisi ve açık gri tonlarında nesne noktalarını birbirine bağlayan ince mantık çizgilerinin bir dünya haritası kurduğu, haritanın kenarında sessiz ve yıldızlı bir boşluğa dayanan yedi basamaklı merdivendir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
-        "Tractatus Logico-Philosophicus adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+        "Akılda tutulacak son görüntü, petrol mavisi ve açık gri tonlarında nesne noktalarını birbirine bağlayan ince mantık çizgilerinin bir dünya haritası kurduğu, haritanın kenarında sessiz ve yıldızlı bir boşluğa dayanan yedi basamaklı merdivendir.",
+        "Tractatus Logico-Philosophicus adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

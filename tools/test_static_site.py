@@ -26,6 +26,7 @@ class DocumentParser(HTMLParser):
         self.descriptions: list[str] = []
         self.robots: list[str] = []
         self.schemas: list[str] = []
+        self.unsafe_blank_targets: list[str] = []
         self._schema_buffer: list[str] | None = None
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
@@ -36,6 +37,10 @@ class DocumentParser(HTMLParser):
             value = values.get("href") or values.get("src")
             if value:
                 self.links.append(value)
+        if tag == "a" and values.get("target") == "_blank":
+            rel_values = (values.get("rel") or "").split()
+            if "noopener" not in rel_values:
+                self.unsafe_blank_targets.append(values.get("href") or "unknown link")
         if tag == "link" and values.get("rel") == "canonical" and values.get("href"):
             self.canonical.append(values["href"] or "")
         if tag == "meta" and values.get("name") == "description":
@@ -97,18 +102,28 @@ def check_html(path: Path) -> None:
             continue
         if not local_target_exists(link):
             ERRORS.append(f"{relative}: missing local target {link}")
+    for link in parser.unsafe_blank_targets:
+        ERRORS.append(f"{relative}: target=_blank link lacks noopener: {link}")
 
 
 def main() -> int:
     summary_files = sorted((ROOT / "data/summaries").glob("*.json"))
     summary_records = [json.loads(path.read_text(encoding="utf-8")) for path in summary_files]
+    if len(summary_records) != 300:
+        ERRORS.append(f"summary archive has {len(summary_records)} records; expected 300")
     for path, summary in zip(summary_files, summary_records):
         sources = summary.get("sources") or []
-        if not sources:
-            ERRORS.append(f"{path.relative_to(ROOT)}: missing sources")
+        if len(sources) < 2:
+            ERRORS.append(f"{path.relative_to(ROOT)}: has {len(sources)} sources; expected at least 2")
             continue
         if not any(re.match(r"^https?://", source.get("url", "")) for source in sources):
             ERRORS.append(f"{path.relative_to(ROOT)}: missing external source URL")
+        meta = summary.get("meta", {})
+        for field in ("compiler", "date"):
+            if field in meta:
+                ERRORS.append(f"{path.relative_to(ROOT)}: retains legacy meta.{field}")
+        if any("extraParagraphs" in chapter for chapter in summary.get("chapters", [])):
+            ERRORS.append(f"{path.relative_to(ROOT)}: retains generated extraParagraphs")
 
     generated_roots = [
         "yazilar", "zihin-odasi", "okuma-haritasi", "arastirma-arsivi",
@@ -117,6 +132,8 @@ def main() -> int:
     html_files = [ROOT / "index.html", ROOT / "404.html"]
     for directory in generated_roots:
         html_files.extend((ROOT / directory).rglob("*.html"))
+    if len(html_files) != 358:
+        ERRORS.append(f"generated site has {len(html_files)} HTML pages; expected 358")
     for path in html_files:
         check_html(path)
 
@@ -131,6 +148,8 @@ def main() -> int:
     expected_url_count += len(json.loads((ROOT / "data/kutuphane_index.json").read_text(encoding="utf-8")))
     if len(locations) != expected_url_count:
         ERRORS.append(f"sitemap.xml has {len(locations)} URLs; expected {expected_url_count}")
+    if len(locations) != 356:
+        ERRORS.append(f"sitemap.xml has {len(locations)} URLs; approved release expects 356")
     try:
         ElementTree.parse(ROOT / "feed.xml")
     except ElementTree.ParseError as exc:
@@ -193,6 +212,12 @@ def main() -> int:
         ERRORS.append("index.html still contains a blocking analytics or remote-font request")
 
     roadmap = (ROOT / "okuma-haritasi/index.html").read_text(encoding="utf-8")
+    methodology = (
+        "Bu bölüm, kitapları okumadan önce temel fikirlerine hazırlanmak için yapay zekâya hazırlattığım "
+        "300 ön okuma rehberinden oluşuyor."
+    )
+    if methodology not in roadmap:
+        ERRORS.append("reading map is missing the collection-level AI methodology statement")
     required_roadmap_features = (
         "data-roadmap-filter=", "data-random-book", "data-export-progress",
         "data-import-progress", "data-roadmap-jump", "start-routes-grid",
@@ -203,11 +228,26 @@ def main() -> int:
 
     for path in (ROOT / "kitap-ozetleri").glob("*/index.html"):
         source = path.read_text(encoding="utf-8")
-        if "<strong>Derleyen:</strong>" in source or "<strong>Tarih:</strong>" in source:
-            ERRORS.append(f"{path.relative_to(ROOT)} exposes disallowed editorial status metadata")
+        forbidden_status_copy = ("<strong>Derleyen:</strong>", "<strong>Tarih:</strong>", "Editoryal durum", "Bende kalan", "Bu kitap şuna bağlanıyor")
+        if any(marker in source for marker in forbidden_status_copy):
+            ERRORS.append(f"{path.relative_to(ROOT)} exposes disallowed per-book editorial status copy")
         for marker in ("data-reading-progress", "data-reader-resume", "data-reader-print", "data-reader-width"):
             if marker not in source:
                 ERRORS.append(f"{path.relative_to(ROOT)} is missing reader feature {marker}")
+
+    about = (ROOT / "zihin-odasi/index.html").read_text(encoding="utf-8")
+    if "Kişisel yazılar" not in about or "bütünüyle yapay zekâ tarafından oluşturuldu" not in about:
+        ERRORS.append("about page does not clearly separate personal work from the AI reading collection")
+
+    admin_parser = DocumentParser()
+    admin_parser.feed((ROOT / "admin/index.html").read_text(encoding="utf-8"))
+    if not any("noindex" in value and "nofollow" in value for value in admin_parser.robots):
+        ERRORS.append("admin/index.html must be marked noindex and nofollow")
+    admin_script = (ROOT / "admin/admin.js").read_text(encoding="utf-8")
+    if "sessionStorage.setItem" not in admin_script:
+        ERRORS.append("admin token is not stored in sessionStorage")
+    if "localStorage.setItem" in admin_script:
+        ERRORS.append("admin script still persists configuration in localStorage")
 
     if ERRORS:
         print("Static site checks failed:")

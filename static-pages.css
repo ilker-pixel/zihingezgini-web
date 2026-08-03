@@ -625,6 +625,21 @@
   margin: 5rem 0;
 }
 
+.static-roadmap .roadmap-method-note {
+  max-width: 760px;
+  margin: 1.6rem 0 0;
+  padding: 1.15rem 1.3rem;
+  border-left: 3px solid var(--v2-accent);
+  background: var(--v2-accent-soft);
+  color: var(--v2-muted);
+  font: 400 0.9rem/1.75 var(--v2-sans);
+}
+
+.static-roadmap .roadmap-method-note strong {
+  color: var(--v2-ink);
+  font-weight: 650;
+}
+
 .static-roadmap .roadmap-phase > h2 {
   display: flex;
   gap: 1rem;

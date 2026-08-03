@@ -115,7 +115,7 @@ SPECS = [
     "reading_note": "Kitap Tanrı'nın varlığını kanıtlamaya veya çürütmeye çalışmaz; insanlar ve toplulukların Tanrı'yı nasıl düşündüğünün tarihini anlatır. Çok geniş coğrafya ve yüzyılları tek ciltte topladığı için çerçeveyi yol haritası, ayrıntıları tartışmaya açık yorum olarak okumak gerekir.",
     "sources": [
         {"id": 1, "title": "Penguin Random House - A History of God", "url": "https://www.penguinrandomhouse.com/books/5782/a-history-of-god-by-karen-armstrong/"},
-        {"id": 2, "title": "Karen Armstrong official - A History of God", "url": "https://www.karenarmstrong.org/books/a-history-of-god"},
+        {"id": 2, "title": "Penguin UK - A History of God", "url": "https://www.penguin.co.uk/books/355414/a-history-of-god-by-karen-armstrong/9780099273677"},
     ],
     "chapters": [
         t("Tek kelime, değişen tasavvurlar", "BİRİNCİ KISIM · YÖNTEM", "Armstrong Tanrı fikrini donmuş bir paket değil tarih boyunca ihtiyaç, dil ve düşünceyle değişen bir tasavvur olarak inceler. Aynı gelenek içinde bile farklı çağların Tanrısı aynı biçimde anlaşılmaz", "Bir ailede 'ev' kelimesi çocuğa oyun, yetişkine borç, yaşlıya hatıra demektir; kelime aynı, yaşanan anlam farklıdır", "Tarihsel değişim inancın sahte olduğunu kanıtlamaz; inananlar değişimi vahyin yeni yorumları olarak görebilir", "Dini tartışmada kullanılan aynı kelimenin taraflar için hangi farklı resmi taşıdığını sorun"),

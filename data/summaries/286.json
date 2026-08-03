@@ -12,8 +12,6 @@
   "chapterArtColor": "#4E7657",
   "meta": {
     "originalTitle": "Experience and Education",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Çocuk müzede çok eğlenmiş olabilir ama hiçbir şeye daha dikkatli bakmayı öğrenmediyse gezi iyi eğitim midir? Dewey'in şaşırtıcı cevabı şudur: Her deneyim yaşanır, fakat her deneyim eğitmez.",
@@ -47,9 +45,9 @@
       "title": "Eski okul ile yeni okul ikiliği",
       "paragraphs": [
         "Geleneksel okul dışarıdan bilgi ve disiplin verirken ilerici okul özgürlük ile deneyimi öne çıkarır; Dewey yalnız karşıt kutba geçmenin yetmediğini söyler.",
-        "Öğretmen konuşuyor diye kötü, öğrenci hareket ediyor diye iyi ders sonucu çıkarılamaz. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
-        "Geleneksel bilgi birikimi tümüyle değersiz, çocuk ilgisi de her anda doğru rehber değildir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Bir ders yöntemini adına göre değil öğrencinin ne yaptığı, düşündüğü ve sonra ne yapabilir hale geldiğiyle değerlendirmek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+        "Öğretmen konuşuyor diye kötü, öğrenci hareket ediyor diye iyi ders sonucu çıkarılamaz.",
+        "Geleneksel bilgi birikimi tümüyle değersiz, çocuk ilgisi de her anda doğru rehber değildir.",
+        "Bir ders yöntemini adına göre değil öğrencinin ne yaptığı, düşündüğü ve sonra ne yapabilir hale geldiğiyle değerlendirmek gerekir."
       ]
     },
     {
@@ -57,13 +55,10 @@
       "section": "BİRİNCİ KISIM · ÖLÇÜ",
       "title": "Deneyim kuramına ihtiyaç",
       "paragraphs": [
-        "İlerici eğitim 'deneyim iyidir' demekle kalırsa hangi yaşantının büyüttüğünü ve hangisinin yolu kapattığını ayıramaz. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "Çocuk laboratuvarda malzemeyle oynar ama soru kurmazsa etkinlik canlı, öğrenme dağınık kalabilir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
-        "Her dersin sonucu hemen ölçülemez; merak ve güven uzun sürede görünür. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Etkinlikten önce beklenen düşünme değişimini, sonra gözlenen yeni soruyu kaydetmek gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
-      ],
-      "extraParagraphs": [
-        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Deneyim kuramına ihtiyaç” ile Deneyim ve Eğitim kitabının ana sorusu arasındaki bağ belirginleşir."
+        "İlerici eğitim 'deneyim iyidir' demekle kalırsa hangi yaşantının büyüttüğünü ve hangisinin yolu kapattığını ayıramaz.",
+        "Çocuk laboratuvarda malzemeyle oynar ama soru kurmazsa etkinlik canlı, öğrenme dağınık kalabilir.",
+        "Her dersin sonucu hemen ölçülemez; merak ve güven uzun sürede görünür.",
+        "Etkinlikten önce beklenen düşünme değişimini, sonra gözlenen yeni soruyu kaydetmek gerekir."
       ]
     },
     {
@@ -71,10 +66,10 @@
       "section": "BİRİNCİ KISIM · NİTELİK",
       "title": "Her deneyim eğitici değildir",
       "paragraphs": [
-        "Bazı deneyimler kişiyi gelecekteki öğrenmeden uzaklaştıran alışkanlık, bıkkınlık veya dar beceri üretir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Sert öğretmen altında doğru cevabı ezberleyen öğrenci sınavı geçer ama soru sormaktan korkmayı öğrenir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
-        "Zorlanma her zaman kötü deneyim değildir; uygun destekle güç ve sebat geliştirebilir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Bir başarının yanında öğrencinin merak, bağımsızlık ve yeniden deneme isteğinin artıp artmadığını gözlemek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+        "Bazı deneyimler kişiyi gelecekteki öğrenmeden uzaklaştıran alışkanlık, bıkkınlık veya dar beceri üretir.",
+        "Sert öğretmen altında doğru cevabı ezberleyen öğrenci sınavı geçer ama soru sormaktan korkmayı öğrenir.",
+        "Zorlanma her zaman kötü deneyim değildir; uygun destekle güç ve sebat geliştirebilir.",
+        "Bir başarının yanında öğrencinin merak, bağımsızlık ve yeniden deneme isteğinin artıp artmadığını gözlemek gerekir."
       ]
     },
     {
@@ -82,13 +77,10 @@
       "section": "İKİNCİ KISIM · ZAMAN",
       "title": "Süreklilik ilkesi",
       "paragraphs": [
-        "Her deneyim öncekilerden alışkanlık alır ve sonraki deneyimlerin nasıl yaşanacağını değiştirir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
-        "Bir kez konuşurken alay edilen çocuk sonraki toplantıya yalnız bugünkü konuyla değil önceki korkunun merceğiyle girer. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
-        "Geçmiş etki kader değildir; yeni güvenli deneyimler alışkanlığı dönüştürebilir. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
-        "Bir öğrenme sorununun yalnız bugünkü hatasına değil onu hazırlayan tekrar zincirine bakmak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Süreklilik ilkesi” ile Deneyim ve Eğitim kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Her deneyim öncekilerden alışkanlık alır ve sonraki deneyimlerin nasıl yaşanacağını değiştirir.",
+        "Bir kez konuşurken alay edilen çocuk sonraki toplantıya yalnız bugünkü konuyla değil önceki korkunun merceğiyle girer.",
+        "Geçmiş etki kader değildir; yeni güvenli deneyimler alışkanlığı dönüştürebilir.",
+        "Bir öğrenme sorununun yalnız bugünkü hatasına değil onu hazırlayan tekrar zincirine bakmak gerekir."
       ]
     },
     {
@@ -96,10 +88,10 @@
       "section": "İKİNCİ KISIM · ÇEVRE",
       "title": "Etkileşim ilkesi",
       "paragraphs": [
-        "Deneyim kişinin ihtiyaç, yetenek ve geçmişiyle nesnel çevre koşullarının karşılaşmasında oluşur. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Aynı kitap ileri okuyucuya meydan okuma, yeni okuyucuya anlaşılmaz duvar olabilir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Kişiye uyarlama ortak bilgi ve yüksek beklentiden vazgeçmek değildir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Zorlukta hemen öğrenciyi suçlamak yerine görev, araç, zaman, grup ve önceki bilgiyi birlikte değiştirmeyi denemek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+        "Deneyim kişinin ihtiyaç, yetenek ve geçmişiyle nesnel çevre koşullarının karşılaşmasında oluşur.",
+        "Aynı kitap ileri okuyucuya meydan okuma, yeni okuyucuya anlaşılmaz duvar olabilir.",
+        "Kişiye uyarlama ortak bilgi ve yüksek beklentiden vazgeçmek değildir.",
+        "Zorlukta hemen öğrenciyi suçlamak yerine görev, araç, zaman, grup ve önceki bilgiyi birlikte değiştirmeyi denemek gerekir."
       ]
     },
     {
@@ -107,13 +99,10 @@
       "section": "İKİNCİ KISIM · DURUM",
       "title": "Deneyimin iç ve dış koşulları",
       "paragraphs": [
-        "Eğitimci öğrencinin iç dürtüsünü doğrudan yönetemez ama onunla etkileşecek oda, malzeme, ilişki ve problemi tasarlayabilir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
-        "Sessiz okuma isteyen öğretmen sandalyeleri gürültülü koridora koyarsa irade vaazı çevre hatasını örtmez. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
-        "Çevre tasarımı kişisel sorumluluğu tamamen kaldırmaz. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
-        "İstenmeyen davranışta önce ortamın o davranışı kolaylaştıran küçük işaretlerini değiştirmek pratik bir deneydir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Deneyimin iç ve dış koşulları” ile Deneyim ve Eğitim kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Eğitimci öğrencinin iç dürtüsünü doğrudan yönetemez ama onunla etkileşecek oda, malzeme, ilişki ve problemi tasarlayabilir.",
+        "Sessiz okuma isteyen öğretmen sandalyeleri gürültülü koridora koyarsa irade vaazı çevre hatasını örtmez.",
+        "Çevre tasarımı kişisel sorumluluğu tamamen kaldırmaz.",
+        "İstenmeyen davranışta önce ortamın o davranışı kolaylaştıran küçük işaretlerini değiştirmek pratik bir deneydir."
       ]
     },
     {
@@ -121,10 +110,10 @@
       "section": "ÜÇÜNCÜ KISIM · DÜZEN",
       "title": "Sosyal kontrol ortak etkinlikten doğabilir",
       "paragraphs": [
-        "İyi sınıfta kural yalnız öğretmenin keyfî emri değil, ortak faaliyetin işlemesi için herkesçe anlaşılabilir ihtiyaç olur. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
-        "Futbolcular hakemden bağımsız olarak saha çizgisine uyar; çizgi oyunu mümkün kılar. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
-        "Ortak amaç söylemi baskıyı saklayabilir; öğrencinin kurala itiraz yolu bulunmalıdır. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
-        "Bir sınıf kuralını 'öğretmen istiyor' yerine koruduğu ortak işi ve ihlal edildiğinde doğan somut sonucu açıklamak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+        "İyi sınıfta kural yalnız öğretmenin keyfî emri değil, ortak faaliyetin işlemesi için herkesçe anlaşılabilir ihtiyaç olur.",
+        "Futbolcular hakemden bağımsız olarak saha çizgisine uyar; çizgi oyunu mümkün kılar.",
+        "Ortak amaç söylemi baskıyı saklayabilir; öğrencinin kurala itiraz yolu bulunmalıdır.",
+        "Bir sınıf kuralını 'öğretmen istiyor' yerine koruduğu ortak işi ve ihlal edildiğinde doğan somut sonucu açıklamak gerekir."
       ]
     },
     {
@@ -132,10 +121,10 @@
       "section": "ÜÇÜNCÜ KISIM · REHBER",
       "title": "Öğretmen otoritesi kaybolmaz, biçim değiştirir",
       "paragraphs": [
-        "İlerici eğitim öğretmeni odadan çıkarmaz; daha deneyimli kişi olarak ortamı seçme ve deneyimin yönünü görme sorumluluğunu artırır. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
-        "Geziyi çocuklar seçse bile öğretmen güvenli rota, kaynak kişi ve soruyu hazırlayarak görünmez mimarlık yapar. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Rehberlik öğrencinin sesini süs olarak kullanıp sonucu önceden dayatmaya dönüşebilir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
-        "Bir etkinlikte öğretmenin karar verdiği, öğrencinin seçtiği ve birlikte müzakere edilen alanları açıkça ayırmak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+        "İlerici eğitim öğretmeni odadan çıkarmaz; daha deneyimli kişi olarak ortamı seçme ve deneyimin yönünü görme sorumluluğunu artırır.",
+        "Geziyi çocuklar seçse bile öğretmen güvenli rota, kaynak kişi ve soruyu hazırlayarak görünmez mimarlık yapar.",
+        "Rehberlik öğrencinin sesini süs olarak kullanıp sonucu önceden dayatmaya dönüşebilir.",
+        "Bir etkinlikte öğretmenin karar verdiği, öğrencinin seçtiği ve birlikte müzakere edilen alanları açıkça ayırmak gerekir."
       ]
     },
     {
@@ -143,13 +132,10 @@
       "section": "ÜÇÜNCÜ KISIM · ÖZGÜRLÜK",
       "title": "Dış hareket özgürlüğü yeterli değildir",
       "paragraphs": [
-        "Sınıfta dolaşabilmek baskıyı azaltabilir ama Dewey için asıl özgürlük amaç kurma, düşünme ve dürtüyü akıllıca yönetme gücüdür. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
-        "Çocuk istediği masaya geçer fakat ilk sıkıntıda her işi bırakıyorsa hareket serbestliği kalıcı seçim gücüne dönüşmemiştir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Bedensel hareket özellikle küçük çocuk ve engelli öğrenci için öğrenmenin gerçek koşulu olabilir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
-        "Özgür etkinlikte seçenek sayısından çok öğrencinin seçimin sonucunu düşünüp sürdürebilmesine bakmak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
-      ],
-      "extraParagraphs": [
-        "İddianın sınırını denemek için, “Dış hareket özgürlüğü yeterli değildir” ile Deneyim ve Eğitim kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Sınıfta dolaşabilmek baskıyı azaltabilir ama Dewey için asıl özgürlük amaç kurma, düşünme ve dürtüyü akıllıca yönetme gücüdür.",
+        "Çocuk istediği masaya geçer fakat ilk sıkıntıda her işi bırakıyorsa hareket serbestliği kalıcı seçim gücüne dönüşmemiştir.",
+        "Bedensel hareket özellikle küçük çocuk ve engelli öğrenci için öğrenmenin gerçek koşulu olabilir.",
+        "Özgür etkinlikte seçenek sayısından çok öğrencinin seçimin sonucunu düşünüp sürdürebilmesine bakmak gerekir."
       ]
     },
     {
@@ -157,10 +143,10 @@
       "section": "DÖRDÜNCÜ KISIM · AMAÇ",
       "title": "Dürtüden amaca",
       "paragraphs": [
-        "Amaç anlık isteğin peşinden gitmek değil, dürtünün sonucunu gözlem, bilgi ve yargıyla tasarlanan eyleme çevrilmesidir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
-        "Çocuk kulübe yapmak ister; yer, malzeme, hava ve iş bölümü düşünülünce istek gerçek projeye dönüşür. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
-        "Aşırı planlama merakı söndürebilir; plan deneyimden geri bildirim almalıdır. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
-        "Bir isteği uygulamadan önce hedef, engel, araç ve ilk küçük adımı dört cümlede kurmak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+        "Amaç anlık isteğin peşinden gitmek değil, dürtünün sonucunu gözlem, bilgi ve yargıyla tasarlanan eyleme çevrilmesidir.",
+        "Çocuk kulübe yapmak ister; yer, malzeme, hava ve iş bölümü düşünülünce istek gerçek projeye dönüşür.",
+        "Aşırı planlama merakı söndürebilir; plan deneyimden geri bildirim almalıdır.",
+        "Bir isteği uygulamadan önce hedef, engel, araç ve ilk küçük adımı dört cümlede kurmak gerekir."
       ]
     },
     {
@@ -168,13 +154,10 @@
       "section": "DÖRDÜNCÜ KISIM · SORUŞTURMA",
       "title": "Gözlem tek başına düşünme değildir",
       "paragraphs": [
-        "Akıllı amaç çevredeki koşulları görmek, geçmiş bilgiyi çağırmak ve olası sonuçlar arasında yargı vermekle oluşur. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Bahçedeki yaprak sararınca öğrenci yalnız rengi kaydetmez; su, ışık ve toprak ihtimallerini karşılaştırıp küçük deney kurar. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
-        "Ön bilgi olmadan gözlem neyin önemli olduğunu seçemez; bilgi ezber değil araçtır. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
-        "Bir sorun karşısında ilk açıklamayı kabul etmeden iki alternatif neden ve onları ayıracak gözlemi yazmak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
-      ],
-      "extraParagraphs": [
-        "Sahnedeki zamanı biraz yavaşlattığımızda, “Gözlem tek başına düşünme değildir” ile Deneyim ve Eğitim kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Akıllı amaç çevredeki koşulları görmek, geçmiş bilgiyi çağırmak ve olası sonuçlar arasında yargı vermekle oluşur.",
+        "Bahçedeki yaprak sararınca öğrenci yalnız rengi kaydetmez; su, ışık ve toprak ihtimallerini karşılaştırıp küçük deney kurar.",
+        "Ön bilgi olmadan gözlem neyin önemli olduğunu seçemez; bilgi ezber değil araçtır.",
+        "Bir sorun karşısında ilk açıklamayı kabul etmeden iki alternatif neden ve onları ayıracak gözlemi yazmak gerekir."
       ]
     },
     {
@@ -182,10 +165,10 @@
       "section": "DÖRDÜNCÜ KISIM · KONU",
       "title": "Geçmiş bilgi bugünün aracı olmalı",
       "paragraphs": [
-        "Geleneksel okul geçmişi hazır paket diye dayatır; ilerici okul geçmişi unutursa bugünkü deneyimi anlamlandıracak birikimi kaybeder. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
-        "Nehir kirliliğini araştıran sınıf yerel tarih, kimya ve eski haritaları gerçek sorunun içinde öğrenebilir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
-        "Her bilgi anlık ilgiye bağlanamaz; gelecekte işe yarayacak temel alıştırma da gerekir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Bir konuyu 'bunu niye öğreniyoruz?' sorusuna sahte sloganla değil bugünkü ve gelecekteki kullanım yollarıyla cevaplamak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Geleneksel okul geçmişi hazır paket diye dayatır; ilerici okul geçmişi unutursa bugünkü deneyimi anlamlandıracak birikimi kaybeder.",
+        "Nehir kirliliğini araştıran sınıf yerel tarih, kimya ve eski haritaları gerçek sorunun içinde öğrenebilir.",
+        "Her bilgi anlık ilgiye bağlanamaz; gelecekte işe yarayacak temel alıştırma da gerekir.",
+        "Bir konuyu 'bunu niye öğreniyoruz?' sorusuna sahte sloganla değil bugünkü ve gelecekteki kullanım yollarıyla cevaplamak gerekir."
       ]
     },
     {
@@ -193,13 +176,10 @@
       "section": "BEŞİNCİ KISIM · PROGRAM",
       "title": "Konu adım adım örgütlenir",
       "paragraphs": [
-        "İlerici program rastgele ilgi dizisi değil, bir deneyimin çıkardığı sorunun daha geniş ve düzenli bilgiye bağlandığı gelişim çizgisi olmalıdır. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
-        "Pazar alışverişi merakı ölçü, oran, üretim coğrafyası ve emek konusuna planlı biçimde açılabilir. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
-        "Her çocuğun ilgisini izlemek ortak program ve zaman sınırında zordur. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
-        "Etkinlikler arasında bir önceki kazanımın sonraki soruda gerçekten kullanılıp kullanılmadığını kontrol etmek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Konu adım adım örgütlenir” ile Deneyim ve Eğitim kitabının ana sorusu arasındaki bağ belirginleşir."
+        "İlerici program rastgele ilgi dizisi değil, bir deneyimin çıkardığı sorunun daha geniş ve düzenli bilgiye bağlandığı gelişim çizgisi olmalıdır.",
+        "Pazar alışverişi merakı ölçü, oran, üretim coğrafyası ve emek konusuna planlı biçimde açılabilir.",
+        "Her çocuğun ilgisini izlemek ortak program ve zaman sınırında zordur.",
+        "Etkinlikler arasında bir önceki kazanımın sonraki soruda gerçekten kullanılıp kullanılmadığını kontrol etmek gerekir."
       ]
     },
     {
@@ -207,10 +187,10 @@
       "section": "BEŞİNCİ KISIM · DENEY",
       "title": "Bilimsel yöntem eğitim modeli",
       "paragraphs": [
-        "Dewey için bilimsel yöntem fikirleri sonuçlarıyla sınayan, hatayı düzeltip deneyimi büyüten en gelişmiş araştırma biçimidir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
-        "Öğrenci köprünün neden çöktüğünü tahmin eder, model kurar, yük ekler ve kırılma sonucuna göre tasarımı değiştirir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Bilimsel yöntem tek katı basamak listesi değildir; sanat ve ahlak sorusunu yalnız ölçüme indirgeyemez. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Bir projede tahmin, deneme, kayıt ve düzeltmenin görünür olması 'yaparak' kısmını öğrenmeye bağlar. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+        "Dewey için bilimsel yöntem fikirleri sonuçlarıyla sınayan, hatayı düzeltip deneyimi büyüten en gelişmiş araştırma biçimidir.",
+        "Öğrenci köprünün neden çöktüğünü tahmin eder, model kurar, yük ekler ve kırılma sonucuna göre tasarımı değiştirir.",
+        "Bilimsel yöntem tek katı basamak listesi değildir; sanat ve ahlak sorusunu yalnız ölçüme indirgeyemez.",
+        "Bir projede tahmin, deneme, kayıt ve düzeltmenin görünür olması 'yaparak' kısmını öğrenmeye bağlar."
       ]
     },
     {
@@ -218,13 +198,10 @@
       "section": "BEŞİNCİ KISIM · SEBAT",
       "title": "Disiplin içeriden büyüyebilir",
       "paragraphs": [
-        "Dış cezanın yerine anlamlı amaç ve ortak iş geldiğinde öğrenci zorluk karşısında kendi davranışını düzenlemeyi öğrenebilir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "Tiyatro ekibi temsil tarihi yaklaştığı için provalara zamanında gelir; düzen yalnız öğretmen korkusundan doğmaz. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "İç motivasyon romantikleştirilmemelidir; rutin ve açık sınır yine gerekir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
-        "Bir kuralı yalnız ceza ile değil kişinin önemsediği işin kalitesi ve başkalarına verdiği sözle bağlamak daha kalıcı olabilir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Disiplin içeriden büyüyebilir” ile Deneyim ve Eğitim kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Dış cezanın yerine anlamlı amaç ve ortak iş geldiğinde öğrenci zorluk karşısında kendi davranışını düzenlemeyi öğrenebilir.",
+        "Tiyatro ekibi temsil tarihi yaklaştığı için provalara zamanında gelir; düzen yalnız öğretmen korkusundan doğmaz.",
+        "İç motivasyon romantikleştirilmemelidir; rutin ve açık sınır yine gerekir.",
+        "Bir kuralı yalnız ceza ile değil kişinin önemsediği işin kalitesi ve başkalarına verdiği sözle bağlamak daha kalıcı olabilir."
       ]
     },
     {
@@ -232,10 +209,10 @@
       "section": "BEŞİNCİ KISIM · SONUÇ",
       "title": "Deneyim hem araç hem amaç",
       "paragraphs": [
-        "Eğitim yaşamdan sonraki hayata hazırlık değil, bugünkü deneyimi daha zengin gelecek deneyimlere açacak biçimde yeniden kurma sürecidir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
-        "Çocuk yalnız ileride yurttaş olmak için değil bugün sınıf kararına katılırken yurttaşlık yaşar ve sonraki katılım gücünü büyütür. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Her hayat deneyimini okul dersi yapmak kişiye dinlenme ve mahremiyet bırakmayabilir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "İyi öğrenmeyi sınav sonucunun yanında bir sonraki soruyu kurma, yeni ortama uyarlama ve ortak sorumluluk gücüyle ölçmek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+        "Eğitim yaşamdan sonraki hayata hazırlık değil, bugünkü deneyimi daha zengin gelecek deneyimlere açacak biçimde yeniden kurma sürecidir.",
+        "Çocuk yalnız ileride yurttaş olmak için değil bugün sınıf kararına katılırken yurttaşlık yaşar ve sonraki katılım gücünü büyütür.",
+        "Her hayat deneyimini okul dersi yapmak kişiye dinlenme ve mahremiyet bırakmayabilir.",
+        "İyi öğrenmeyi sınav sonucunun yanında bir sonraki soruyu kurma, yeni ortama uyarlama ve ortak sorumluluk gücüyle ölçmek gerekir."
       ]
     },
     {
@@ -255,7 +232,7 @@
       "paragraphs": [
         "Kısa kitap deneyimsel ve ilerici eğitimin en etkili metinlerinden biri oldu; süreklilik, etkileşim ve eğitici olmayan deneyim ayrımları öğretmen eğitiminde hâlâ temel başvuru noktalarıdır.",
         "İlkelerin somut müfredat ve ölçme tasarımına nasıl çevrileceği belirsiz kalabilir; iyi donanım, küçük sınıf ve yetişmiş öğretmen gerektiren yaklaşımın eşitsiz koşullarda uygulanması zordur.",
-        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Deneyim ve Eğitim bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+        "Deneyim ve Eğitim bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
       ]
     },
     {
@@ -265,7 +242,7 @@
       "paragraphs": [
         "Bu deneyim sonraki öğrenmeyi açıyor mu kapatıyor mu? Kişi ile çevre nasıl etkileşiyor? Özgürlük düşünülmüş amaç ve sorumluluğa dönüşüyor mu?",
         "Öğrendiğiniz son beceriyi seçin; önceki alışkanlık, çevre koşulu, size rehberlik eden kişi ve bir sonraki öğrenmeye açılan kapıyı dört satırda yazın.",
-        "Deneyim ve Eğitim bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+        "Deneyim ve Eğitim bu soruların hemen cevaplanmasını beklemez."
       ]
     },
     {
@@ -274,8 +251,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Eğitim herhangi bir etkinlik değil; geçmiş alışkanlık ile çevreyi akıllıca buluşturarak kişiyi gelecekte daha dikkatli, özgür ve güçlü deneyimlere açan sürekli yeniden kurma işidir.",
-        "Akılda tutulacak son görüntü, orman yeşili ve sıcak sarı bir atölyede çocuk ellerinin tohum, cetvel, köprü modeli ve açık kitaptan geçen spiral bir öğrenme yolunu birlikte kurduğu canlı ama sakin bir eğitim manzarasıdır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
-        "Deneyim ve Eğitim adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+        "Akılda tutulacak son görüntü, orman yeşili ve sıcak sarı bir atölyede çocuk ellerinin tohum, cetvel, köprü modeli ve açık kitaptan geçen spiral bir öğrenme yolunu birlikte kurduğu canlı ama sakin bir eğitim manzarasıdır.",
+        "Deneyim ve Eğitim adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

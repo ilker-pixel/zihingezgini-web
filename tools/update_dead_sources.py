@@ -34,7 +34,6 @@ REPLACEMENTS = {
     "https://iep.utm.edu/barthes/": ("https://www.britannica.com/biography/Roland-Gerard-Barthes", "Encyclopaedia Britannica - Roland Barthes"),
     "https://www.cambridge.org/core/books/interpretation-and-overinterpretation/": ("https://www.cambridge.org/core/books/interpretation-and-overinterpretation/1E7557106821FE18EA4D741F9342D3F2", "Cambridge University Press - Interpretation and Overinterpretation"),
     "https://plato.stanford.edu/entries/eco/": ("https://www.britannica.com/biography/Umberto-Eco", "Encyclopaedia Britannica - Umberto Eco"),
-    "https://www.loc.gov/programs/national-film-preservation-board/resources/television/": ("https://www.penguin.co.uk/books/261355/ways-of-seeing-by-john-berger/9780141035796", "Penguin - Ways of Seeing"),
     "https://www.mit.edu/people/sturkle/": ("https://sherryturkle.mit.edu/", "MIT - Sherry Turkle"),
     "https://www.wiley.com/en-us/The+Ideology+of+the+Aesthetic-p-9780631163028": ("https://books.google.com/books/about/The_Ideology_of_the_Aesthetic.html?id=QzYDaoaUyLYC", "Google Books - The Ideology of the Aesthetic"),
     "https://www.versobooks.com/products/1548-critique-of-everyday-life": ("https://www.versobooks.com/products/1353-critique-of-everyday-life-vol-1", "Verso - Critique of Everyday Life"),

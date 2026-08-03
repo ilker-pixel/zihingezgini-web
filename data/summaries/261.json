@@ -12,8 +12,6 @@
   "chapterArtColor": "#546F75",
   "meta": {
     "originalTitle": "Die Frage nach der Technik",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Heidegger'in 1953'te verdiği konferanstan doğan ve 1954'te yayımlanan bu kısa metin, teknik araçların yararlı mı zararlı mı olduğuna karar vermeye çalışmaz. Daha kökten bir soru sorar: Modern teknoloji bir şeyi karşımıza hangi biçimde çıkarır? Bu yüzden metnin yolu araç tanımından dört nedene, oradan açığa çıkarma, hazırda bekletme, çerçeveleme, tehlike ve sanat düşüncesine gider.",
@@ -46,11 +44,11 @@
       "section": "GİRİŞ · TANIM",
       "title": "Teknoloji araçtan daha fazlasıdır",
       "paragraphs": [
-        "Gündelik tanım teknolojiyi bir amaca ulaşmak için kullanılan araç ve insan etkinliği sayar; Heidegger bu tanımı doğru fakat henüz yeterince derin bulmaz. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Telefon haberleşme aracıdır deriz, fakat günün hangi anının kayda değer, hangi ilişkinin hızlı cevap vermeye mecbur göründüğünü telefonun düzenlediğini unutabiliriz. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Araç tanımı niyete bakar; ontolojik soru ise aracın dünya ile insan arasındaki görünme düzenini nasıl kurduğunu araştırır. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Bir teknolojinin görünme biçimini etkilemesi onu gizli iradeli canlı veya her kötülüğün nedeni yapmaz. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Kullandığınız bir aracın yalnız ne yaptığını değil, size neyi önemli ve ölçülebilir gösterdiğini yazın. Araç sorusu kontrolü, öz sorusu ise neyin kontrol edilebilir göründüğünü inceler. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Gündelik tanım teknolojiyi bir amaca ulaşmak için kullanılan araç ve insan etkinliği sayar; Heidegger bu tanımı doğru fakat henüz yeterince derin bulmaz.",
+        "Telefon haberleşme aracıdır deriz, fakat günün hangi anının kayda değer, hangi ilişkinin hızlı cevap vermeye mecbur göründüğünü telefonun düzenlediğini unutabiliriz.",
+        "Araç tanımı niyete bakar; ontolojik soru ise aracın dünya ile insan arasındaki görünme düzenini nasıl kurduğunu araştırır.",
+        "Bir teknolojinin görünme biçimini etkilemesi onu gizli iradeli canlı veya her kötülüğün nedeni yapmaz.",
+        "Kullandığınız bir aracın yalnız ne yaptığını değil, size neyi önemli ve ölçülebilir gösterdiğini yazın. Araç sorusu kontrolü, öz sorusu ise neyin kontrol edilebilir göründüğünü inceler."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "GİRİŞ · İLİŞKİ",
       "title": "Tarafsızlık sözü bağı gizleyebilir",
       "paragraphs": [
-        "Teknoloji kendi başına iyi ya da kötü değildir sözü kullanım sorumluluğunu hatırlatır; fakat aracın seçenekleri önceden biçimlendirdiği gerçeğini örtebilir. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Sosyal ağda paylaş düğmesi konuşmayı kolaylaştırır, aynı anda düşünceyi görünür tepki ve sayılabilir beğeniye göre düzenler. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Tasarım bazı hareketleri kolay, bazılarını pahalı veya görünmez yaparak kullanıcı kararından önce bir alan kurar. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "İnsan yine seçim yapar ve aynı araç beklenmedik dayanışmalar için de kullanılabilir. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Bir uygulamada öne çıkarılan tek hareketle menünün gerisine saklanan hareketi karşılaştırın. Tarafsızlık iddiası tasarım kararlarını görünmez doğal çevre gibi sunabilir. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Teknoloji kendi başına iyi ya da kötü değildir sözü kullanım sorumluluğunu hatırlatır; fakat aracın seçenekleri önceden biçimlendirdiği gerçeğini örtebilir.",
+        "Sosyal ağda paylaş düğmesi konuşmayı kolaylaştırır, aynı anda düşünceyi görünür tepki ve sayılabilir beğeniye göre düzenler.",
+        "Tasarım bazı hareketleri kolay, bazılarını pahalı veya görünmez yaparak kullanıcı kararından önce bir alan kurar.",
+        "İnsan yine seçim yapar ve aynı araç beklenmedik dayanışmalar için de kullanılabilir.",
+        "Bir uygulamada öne çıkarılan tek hareketle menünün gerisine saklanan hareketi karşılaştırın. Tarafsızlık iddiası tasarım kararlarını görünmez doğal çevre gibi sunabilir."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "NEDENSELLİK · DÖRT NEDEN",
       "title": "Dört neden birlikte sorumludur",
       "paragraphs": [
-        "Heidegger Aristoteles'in maddi, biçimsel, ereksel ve etkileyici nedenlerini bir nesnenin ortaya çıkmasına birlikte katkı veren sorumluluk biçimleri olarak okur. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Gümüş kâseyi yalnız ustanın yaptığını söylemek gümüşü, kâse biçimini ve törendeki amacı hikâyeden çıkarır. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Nedenler nesneyi yokluktan iterek üretmez; bir araya gelerek onun görünür ve kullanılabilir hale gelmesine yol açar. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Bu eski neden şeması her modern üretim zincirini eksiksiz açıklamaz; metinde araç tanımını açmak için kullanılır. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir kahve fincanını malzeme, biçim, amaç ve yapım emeğiyle dört ayrı yönden anlatın. Dört neden nesnenin ortaya çıkışını tek kahraman ustadan ilişkiler ağına taşır. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Heidegger Aristoteles'in maddi, biçimsel, ereksel ve etkileyici nedenlerini bir nesnenin ortaya çıkmasına birlikte katkı veren sorumluluk biçimleri olarak okur.",
+        "Gümüş kâseyi yalnız ustanın yaptığını söylemek gümüşü, kâse biçimini ve törendeki amacı hikâyeden çıkarır.",
+        "Nedenler nesneyi yokluktan iterek üretmez; bir araya gelerek onun görünür ve kullanılabilir hale gelmesine yol açar.",
+        "Bu eski neden şeması her modern üretim zincirini eksiksiz açıklamaz; metinde araç tanımını açmak için kullanılır.",
+        "Bir kahve fincanını malzeme, biçim, amaç ve yapım emeğiyle dört ayrı yönden anlatın. Dört neden nesnenin ortaya çıkışını tek kahraman ustadan ilişkiler ağına taşır."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "AÇIĞA ÇIKARMA · POIESIS",
       "title": "Poiesis bir şeyi görünmeye getirir",
       "paragraphs": [
-        "El sanatı ile doğadaki büyüme, henüz görünmeyeni görünür hale getiren poiesis başlığı altında düşünülebilir. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Çömlekçi kili zorla herhangi bir şekle sokmak yerine malzeme, el ve kullanım arasında bir kap biçiminin doğmasına eşlik eder. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Ortaya çıkarma, var olanı saklılıktan açıklığa taşıdığı için teknik yalnız mekanik işlem değil hakikatle ilişki olur. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Doğal büyüme ile insan yapımını tamamen aynı saymak aralarındaki emek ve niyet farkını silebilir. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir şey üretirken malzemenin size koyduğu sınırın sonucu nasıl değiştirdiğini gözleyin. Poiesis üretimi yalnız sonuç değil, görünürlük olayı olarak düşünmeyi sağlar. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "El sanatı ile doğadaki büyüme, henüz görünmeyeni görünür hale getiren poiesis başlığı altında düşünülebilir.",
+        "Çömlekçi kili zorla herhangi bir şekle sokmak yerine malzeme, el ve kullanım arasında bir kap biçiminin doğmasına eşlik eder.",
+        "Ortaya çıkarma, var olanı saklılıktan açıklığa taşıdığı için teknik yalnız mekanik işlem değil hakikatle ilişki olur.",
+        "Doğal büyüme ile insan yapımını tamamen aynı saymak aralarındaki emek ve niyet farkını silebilir.",
+        "Bir şey üretirken malzemenin size koyduğu sınırın sonucu nasıl değiştirdiğini gözleyin. Poiesis üretimi yalnız sonuç değil, görünürlük olayı olarak düşünmeyi sağlar."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "KAVRAM · TECHNE",
       "title": "Techne bilgi ve sanatla akrabadır",
       "paragraphs": [
-        "Eski Yunancadaki techne yalnız alet kullanma becerisi değil, bir şeyi nasıl görünür kılacağını bilen zanaat ve sanat bilgisidir. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Marangoz masayı yapmadan önce ağacı yalnız hammadde değil damar, direnç ve biçim imkânı olarak görür. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Bilme, yapma ve açığa çıkarma aynı hareketin parçalarıdır; teknik bu yüzden hakikatten tümüyle ayrı tutulamaz. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Antik techne'yi saf ve masum, modern tekniği bütünüyle kötü diye iki kutba ayırmak Heidegger'in asıl sorusunu basitleştirir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir ustanın yaptığı işi yalnız hızla değil malzemeyi tanıma biçimiyle tarif edin. Techne'nin unutulan bilgi yanı teknoloji eğitiminin yalnız kullanım becerisine daralmasını sorgulatır. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Eski Yunancadaki techne yalnız alet kullanma becerisi değil, bir şeyi nasıl görünür kılacağını bilen zanaat ve sanat bilgisidir.",
+        "Marangoz masayı yapmadan önce ağacı yalnız hammadde değil damar, direnç ve biçim imkânı olarak görür.",
+        "Bilme, yapma ve açığa çıkarma aynı hareketin parçalarıdır; teknik bu yüzden hakikatten tümüyle ayrı tutulamaz.",
+        "Antik techne'yi saf ve masum, modern tekniği bütünüyle kötü diye iki kutba ayırmak Heidegger'in asıl sorusunu basitleştirir.",
+        "Bir ustanın yaptığı işi yalnız hızla değil malzemeyi tanıma biçimiyle tarif edin. Techne'nin unutulan bilgi yanı teknoloji eğitiminin yalnız kullanım becerisine daralmasını sorgulatır."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "MODERNLİK · ZORLAMA",
       "title": "Modern teknik doğaya meydan okur",
       "paragraphs": [
-        "Modern teknoloji doğanın kendi ritminde açılmasını beklemekten çok, ondan önceden hesaplanmış enerjiyi sürekli vermesini ister. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Rüzgâr değirmeni esen rüzgârla dönerken kömür madeni toprağı çıkarılabilir enerji deposu olarak düzenler. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Zorlama, doğayı açar, dönüştürür, depolar, dağıtır ve yeniden sipariş eder; her halka bir sonrakine göre hesaplanır. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Eski aletlerin doğayla her zaman uyumlu olduğu söylenemez; ayrım tek makinenin büyüklüğünden çok açığa çıkarma tarzıdır. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Bir enerji sisteminde doğanın hangi bölümünün stok, hangisinin atık yapıldığını izleyin. Zorlayıcı açma doğayı gelecekteki sipariş için bugünden düzenler. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Modern teknoloji doğanın kendi ritminde açılmasını beklemekten çok, ondan önceden hesaplanmış enerjiyi sürekli vermesini ister.",
+        "Rüzgâr değirmeni esen rüzgârla dönerken kömür madeni toprağı çıkarılabilir enerji deposu olarak düzenler.",
+        "Zorlama, doğayı açar, dönüştürür, depolar, dağıtır ve yeniden sipariş eder; her halka bir sonrakine göre hesaplanır.",
+        "Eski aletlerin doğayla her zaman uyumlu olduğu söylenemez; ayrım tek makinenin büyüklüğünden çok açığa çıkarma tarzıdır.",
+        "Bir enerji sisteminde doğanın hangi bölümünün stok, hangisinin atık yapıldığını izleyin. Zorlayıcı açma doğayı gelecekteki sipariş için bugünden düzenler."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "ÖRNEK · NEHİR",
       "title": "Ren Nehri iki farklı dünyada görünür",
       "paragraphs": [
-        "Heidegger hidroelektrik santralinin nehri enerji sağlayan bir düzene bağladığını, eski köprünün ise nehir boyunca yerleşen bir dünyaya ait olduğunu söyler. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Turist aynı yerde manzara fotoğrafı çekerken işletmeci suyu megavat ve debi tablosu olarak görebilir. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Teknik düzen nesneyi yok etmeden onun baskın anlamını değiştirir; nehir öncelikle enerji potansiyeli haline gelir. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Nehirden enerji almak otomatik olarak yanlış değildir; çevre, ihtiyaç ve alternatifler somut olarak tartışılmalıdır. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Yaşadığınız yerde bir su kaynağının harita, şiir ve şirket raporunda nasıl farklı göründüğünü karşılaştırın. Nehir örneği fiziksel değişimden önce anlamın nasıl değiştiğini gösterir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Heidegger hidroelektrik santralinin nehri enerji sağlayan bir düzene bağladığını, eski köprünün ise nehir boyunca yerleşen bir dünyaya ait olduğunu söyler.",
+        "Turist aynı yerde manzara fotoğrafı çekerken işletmeci suyu megavat ve debi tablosu olarak görebilir.",
+        "Teknik düzen nesneyi yok etmeden onun baskın anlamını değiştirir; nehir öncelikle enerji potansiyeli haline gelir.",
+        "Nehirden enerji almak otomatik olarak yanlış değildir; çevre, ihtiyaç ve alternatifler somut olarak tartışılmalıdır.",
+        "Yaşadığınız yerde bir su kaynağının harita, şiir ve şirket raporunda nasıl farklı göründüğünü karşılaştırın. Nehir örneği fiziksel değişimden önce anlamın nasıl değiştiğini gösterir."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "KAVRAM · BESTAND",
       "title": "Her şey hazırda bekleyen stoğa dönüşebilir",
       "paragraphs": [
-        "Modern açığa çıkarma varlıkları bağımsız nesnelerden çok gerektiğinde kullanılmak üzere hazır bekleyen kaynaklar gibi gösterir. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Orman yalnız ağaç topluluğu değil kereste miktarı, çalışan yalnız insan değil vardiya kapasitesi, dikkat yalnız yaşantı değil reklam envanteri olur. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Hazırda bekletme dili, bir şeyi taşıdığı ilişkilerden koparıp değiştirilebilir birim halinde sıralar. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Kaynak hesabı her zaman insanlıktan çıkarıcı değildir; kamu planlaması da stok bilgisine ihtiyaç duyabilir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Bir kurumun insanlardan söz ederken kullandığı kapasite ve kaynak kelimelerinin neyi sildiğini sorun. Stok bakışı bakım görmeyen ve kolayca değiştirilebilir hayatlar üretebilir. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Modern açığa çıkarma varlıkları bağımsız nesnelerden çok gerektiğinde kullanılmak üzere hazır bekleyen kaynaklar gibi gösterir.",
+        "Orman yalnız ağaç topluluğu değil kereste miktarı, çalışan yalnız insan değil vardiya kapasitesi, dikkat yalnız yaşantı değil reklam envanteri olur.",
+        "Hazırda bekletme dili, bir şeyi taşıdığı ilişkilerden koparıp değiştirilebilir birim halinde sıralar.",
+        "Kaynak hesabı her zaman insanlıktan çıkarıcı değildir; kamu planlaması da stok bilgisine ihtiyaç duyabilir.",
+        "Bir kurumun insanlardan söz ederken kullandığı kapasite ve kaynak kelimelerinin neyi sildiğini sorun. Stok bakışı bakım görmeyen ve kolayca değiştirilebilir hayatlar üretebilir."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "İNSAN · KAYNAK",
       "title": "İnsan da sipariş veren kadar sipariş edilendir",
       "paragraphs": [
-        "İnsan modern tekniği yönettiğini düşünürken kendisi de işgücü, kullanıcı, veri ve tüketici olarak düzenin hazır stoğuna katılabilir. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Çağrı merkezindeki yönetici çalışanları ekrandan sıralar; aynı anda kendi performansı başka bir gösterge tablosunda puanlanır. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Çerçeveleme tek merkezden verilen emir değil, herkesin başkasını ve kendini ölçülebilir kaynak olarak görmeye çağrıldığı ağdır. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "İnsan bütünüyle kukla değildir; düzeni fark edebilir, reddedebilir ve başka ilişki biçimleri kurabilir. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir gün içinde kendinizi hangi anlarda kişi, hangi anlarda kapasite veya profil olarak sunduğunuzu not edin. İnsan kaynakları sözü hem örgütleme kolaylığı hem kişi kaybı taşıyan iyi bir testtir. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "İnsan modern tekniği yönettiğini düşünürken kendisi de işgücü, kullanıcı, veri ve tüketici olarak düzenin hazır stoğuna katılabilir.",
+        "Çağrı merkezindeki yönetici çalışanları ekrandan sıralar; aynı anda kendi performansı başka bir gösterge tablosunda puanlanır.",
+        "Çerçeveleme tek merkezden verilen emir değil, herkesin başkasını ve kendini ölçülebilir kaynak olarak görmeye çağrıldığı ağdır.",
+        "İnsan bütünüyle kukla değildir; düzeni fark edebilir, reddedebilir ve başka ilişki biçimleri kurabilir.",
+        "Bir gün içinde kendinizi hangi anlarda kişi, hangi anlarda kapasite veya profil olarak sunduğunuzu not edin. İnsan kaynakları sözü hem örgütleme kolaylığı hem kişi kaybı taşıyan iyi bir testtir."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "KAVRAM · GESTELL",
       "title": "Çerçeveleme cihaz değil çağrıdır",
       "paragraphs": [
-        "Heidegger modern teknolojinin özüne Gestell, yani insanı gerçeği sipariş edilebilir kaynak olarak açmaya toplayan çerçeveleme adını verir. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Depo yazılımı yalnız kutuları saymaz; tedarikçiyi, yolu, çalışanı ve zamanı aynı teslimat hedefinin çevresinde dizer. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Çerçeveleme tek tek makinelerin toplamı değil, makineyi kurmadan önce neyin gerçek ve değerli sayılacağını belirleyen yönelimdir. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Kavram görünmez bir komplo anlamına gelmez ve bütün insanlar aynı ölçüde bu çağrıya uymaz. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Bir karar tablosunda yalnız sayılabilenlerin gerçek kabul edilip edilmediğine bakın. Gestell bireysel kötü niyetten daha geniş, fakat insan kararından bağımsız kaderden daha dar okunmalıdır. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Heidegger modern teknolojinin özüne Gestell, yani insanı gerçeği sipariş edilebilir kaynak olarak açmaya toplayan çerçeveleme adını verir.",
+        "Depo yazılımı yalnız kutuları saymaz; tedarikçiyi, yolu, çalışanı ve zamanı aynı teslimat hedefinin çevresinde dizer.",
+        "Çerçeveleme tek tek makinelerin toplamı değil, makineyi kurmadan önce neyin gerçek ve değerli sayılacağını belirleyen yönelimdir.",
+        "Kavram görünmez bir komplo anlamına gelmez ve bütün insanlar aynı ölçüde bu çağrıya uymaz.",
+        "Bir karar tablosunda yalnız sayılabilenlerin gerçek kabul edilip edilmediğine bakın. Gestell bireysel kötü niyetten daha geniş, fakat insan kararından bağımsız kaderden daha dar okunmalıdır."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "BİLİM · HESAP",
       "title": "Bilim tekniğin basit nedeni değildir",
       "paragraphs": [
-        "Yaygın hikâye önce modern bilimin doğduğunu, sonra teknolojinin onu uyguladığını söyler; Heidegger bilimsel doğa tasarımının da teknik çerçeveyle akraba olduğunu savunur. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Fizik nehrin rengini ve hikâyesini değil ölçülebilir kuvvet, kütle ve enerji ilişkilerini araştırarak çok güçlü sonuçlar üretir. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Doğanın önceden hesaplanabilir sistem olarak tasarlanması deney ve makineyi karşılıklı besler. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Bu görüş bilimsel bulguların yanlış olduğu anlamına gelmez; araştırmanın açtığı kadar örttüğü boyutu sorar. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Bir bilimsel modelin başarıyla ölçtüğü şeyi ve yöntem gereği dışarıda bıraktığı ayrıntıyı ayırın. Bilimsel kesinlik hangi sorunun sorulmaya değer sayıldığını tek başına belirlememelidir. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Yaygın hikâye önce modern bilimin doğduğunu, sonra teknolojinin onu uyguladığını söyler; Heidegger bilimsel doğa tasarımının da teknik çerçeveyle akraba olduğunu savunur.",
+        "Fizik nehrin rengini ve hikâyesini değil ölçülebilir kuvvet, kütle ve enerji ilişkilerini araştırarak çok güçlü sonuçlar üretir.",
+        "Doğanın önceden hesaplanabilir sistem olarak tasarlanması deney ve makineyi karşılıklı besler.",
+        "Bu görüş bilimsel bulguların yanlış olduğu anlamına gelmez; araştırmanın açtığı kadar örttüğü boyutu sorar.",
+        "Bir bilimsel modelin başarıyla ölçtüğü şeyi ve yöntem gereği dışarıda bıraktığı ayrıntıyı ayırın. Bilimsel kesinlik hangi sorunun sorulmaya değer sayıldığını tek başına belirlememelidir."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "TEHLİKE · KÖRLÜK",
       "title": "Asıl tehlike makinelerin saldırması değildir",
       "paragraphs": [
-        "Heidegger için en büyük tehlike insanın her şeyi kaynak olarak görmeye alışıp bunun yalnızca bir açığa çıkarma biçimi olduğunu unutmasıdır. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Şehir ağacı yalnız gölge puanı, insan dostluğu yalnız etkileşim sayısı olarak görünmeye başladığında başka değer dili gereksiz sayılabilir. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Tek biçimli açıklık, alternatif ilişkiyi saklar ve insanı kendisini dünyanın mutlak efendisi sanmaya iter. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Somut teknolojik zararlar yine önemlidir; ontolojik tehlike çevre, iş ve mahremiyet zararlarının yerine geçmez. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir ölçümün yararlı olduğu halde hangi değeri konuşulamaz kıldığını bulun. Tek gözlü açıklık kendi başarısı yüzünden başka hakikat türlerini gereksiz gösterebilir. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Heidegger için en büyük tehlike insanın her şeyi kaynak olarak görmeye alışıp bunun yalnızca bir açığa çıkarma biçimi olduğunu unutmasıdır.",
+        "Şehir ağacı yalnız gölge puanı, insan dostluğu yalnız etkileşim sayısı olarak görünmeye başladığında başka değer dili gereksiz sayılabilir.",
+        "Tek biçimli açıklık, alternatif ilişkiyi saklar ve insanı kendisini dünyanın mutlak efendisi sanmaya iter.",
+        "Somut teknolojik zararlar yine önemlidir; ontolojik tehlike çevre, iş ve mahremiyet zararlarının yerine geçmez.",
+        "Bir ölçümün yararlı olduğu halde hangi değeri konuşulamaz kıldığını bulun. Tek gözlü açıklık kendi başarısı yüzünden başka hakikat türlerini gereksiz gösterebilir."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "TUTUM · ÖZGÜRLÜK",
       "title": "Özgür ilişki ne teslimiyet ne düşmanlıktır",
       "paragraphs": [
-        "Teknolojiye özgürce yaklaşmak onu körce benimsemek veya öfkeyle reddetmek değil, özünü ve sınırını görerek ilişki kurmaktır. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Telefonu hiç bırakmamak kadar bütün dijital araçları şeytan ilan etmek de telefonun hayatı nasıl düzenlediğini düşünmeyi engelleyebilir. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Soru sormak büyüyü bozar; araç kullanılmaya devam ederken tek gerçeklik ölçüsü olma iddiası gevşer. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Eleştirel mesafe kişinin sistem dışına bütünüyle çıktığı anlamına gelmez. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bir aracı bir hafta daha yavaş ve amaçlı kullanarak hangi otomatik beklentinin görünür olduğunu not edin. Özgür ilişki kullanım kuralları kadar dikkat ve dil alışkanlığını da değiştirir. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Teknolojiye özgürce yaklaşmak onu körce benimsemek veya öfkeyle reddetmek değil, özünü ve sınırını görerek ilişki kurmaktır.",
+        "Telefonu hiç bırakmamak kadar bütün dijital araçları şeytan ilan etmek de telefonun hayatı nasıl düzenlediğini düşünmeyi engelleyebilir.",
+        "Soru sormak büyüyü bozar; araç kullanılmaya devam ederken tek gerçeklik ölçüsü olma iddiası gevşer.",
+        "Eleştirel mesafe kişinin sistem dışına bütünüyle çıktığı anlamına gelmez.",
+        "Bir aracı bir hafta daha yavaş ve amaçlı kullanarak hangi otomatik beklentinin görünür olduğunu not edin. Özgür ilişki kullanım kuralları kadar dikkat ve dil alışkanlığını da değiştirir."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "DÖNÜŞ · KURTARICI",
       "title": "Tehlikenin içinde kurtarıcı imkân büyür",
       "paragraphs": [
-        "Heidegger Hölderlin'den hareketle tehlikenin yoğunlaştığı yerde başka bir açığa çıkarma ihtimalinin de fark edilebileceğini söyler. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Her şeyin puana dönüştüğü bir işyerinde çalışanlar sayının örttüğü bakım emeğini birlikte görünür kılabilir. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Çerçeveleme kendi sınırını açığa vurduğunda insan onun tek kader olmadığını düşünmeye başlayabilir. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Kurtarıcı güç otomatik iyimserlik veya teknolojinin kendi kendini düzelteceği vaadi değildir. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Bir sistemin en sert ölçümünün aynı zamanda hangi görünmez değeri savunma ihtiyacı doğurduğunu sorun. Tehlikeyi görmek kurtuluşun kendisi değil, başka ölçü kurmanın başlangıcıdır. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Heidegger Hölderlin'den hareketle tehlikenin yoğunlaştığı yerde başka bir açığa çıkarma ihtimalinin de fark edilebileceğini söyler.",
+        "Her şeyin puana dönüştüğü bir işyerinde çalışanlar sayının örttüğü bakım emeğini birlikte görünür kılabilir.",
+        "Çerçeveleme kendi sınırını açığa vurduğunda insan onun tek kader olmadığını düşünmeye başlayabilir.",
+        "Kurtarıcı güç otomatik iyimserlik veya teknolojinin kendi kendini düzelteceği vaadi değildir.",
+        "Bir sistemin en sert ölçümünün aynı zamanda hangi görünmez değeri savunma ihtiyacı doğurduğunu sorun. Tehlikeyi görmek kurtuluşun kendisi değil, başka ölçü kurmanın başlangıcıdır."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "SANAT · POIESIS",
       "title": "Sanat başka türlü açığa çıkarabilir",
       "paragraphs": [
-        "Şiir ve sanat nesneyi hemen kullanıma sokmadan görünmeye getirerek teknik çağın tek boyutlu bakışına karşı açıklık yaratabilir. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Fotoğrafçı eski fabrikayı verimsiz bina diye silmek yerine orada yaşanmış emek, ışık ve sessizliği görünür kılar. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Sanatsal poiesis hesap dışı ilişkiyi deneyimletir; dünyayı yalnız komut ve sonuç zinciri olmaktan çıkarır. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Sanat kendiliğinden politik çözüm değildir ve piyasa içinde o da stok ve markaya dönüşebilir. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Bir sanat eserinin bildiğiniz bir nesneyi hangi alışılmadık ayrıntısıyla yeniden gösterdiğini anlatın. Sanat hesaplamayı yok etmez; hesap dışında kalan ilişkiyi yeniden duyulur kılar. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Şiir ve sanat nesneyi hemen kullanıma sokmadan görünmeye getirerek teknik çağın tek boyutlu bakışına karşı açıklık yaratabilir.",
+        "Fotoğrafçı eski fabrikayı verimsiz bina diye silmek yerine orada yaşanmış emek, ışık ve sessizliği görünür kılar.",
+        "Sanatsal poiesis hesap dışı ilişkiyi deneyimletir; dünyayı yalnız komut ve sonuç zinciri olmaktan çıkarır.",
+        "Sanat kendiliğinden politik çözüm değildir ve piyasa içinde o da stok ve markaya dönüşebilir.",
+        "Bir sanat eserinin bildiğiniz bir nesneyi hangi alışılmadık ayrıntısıyla yeniden gösterdiğini anlatın. Sanat hesaplamayı yok etmez; hesap dışında kalan ilişkiyi yeniden duyulur kılar."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SONUÇ · SORU",
       "title": "Soru sormak düşüncenin dindarlığıdır",
       "paragraphs": [
-        "Metnin son hamlesi kesin bir teknik program vermek değil, çerçevelemenin açtığı ve örttüğü şeyi sürekli sorabilen dikkat geliştirmektir. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Bir belediye akıllı şehir sistemi kurarken yalnız hız kazancını değil hangi hayatın veriye sığmadığını da masaya getirebilir. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Soru, doğru tanımdan varlıkla ilişkiye uzanır ve karar vericiyi hesap dışındaki sorumlulukla karşılaştırır. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Yalnız soru sormak acil zararlarda eylemsizliğe bahane olmamalıdır; düşünme ve karar birlikte yürür. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Yeni bir teknoloji karşısında ne işe yarar sorusuna, dünyayı nasıl gösteriyor sorusunu ekleyin. Soru ancak tasarım, hukuk ve gündelik kullanım kararına döndüğünde yaşayan düşünce olur. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Metnin son hamlesi kesin bir teknik program vermek değil, çerçevelemenin açtığı ve örttüğü şeyi sürekli sorabilen dikkat geliştirmektir.",
+        "Bir belediye akıllı şehir sistemi kurarken yalnız hız kazancını değil hangi hayatın veriye sığmadığını da masaya getirebilir.",
+        "Soru, doğru tanımdan varlıkla ilişkiye uzanır ve karar vericiyi hesap dışındaki sorumlulukla karşılaştırır.",
+        "Yalnız soru sormak acil zararlarda eylemsizliğe bahane olmamalıdır; düşünme ve karar birlikte yürür.",
+        "Yeni bir teknoloji karşısında ne işe yarar sorusuna, dünyayı nasıl gösteriyor sorusunu ekleyin. Soru ancak tasarım, hukuk ve gündelik kullanım kararına döndüğünde yaşayan düşünce olur."
       ]
     },
     {

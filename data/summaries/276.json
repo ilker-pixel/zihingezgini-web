@@ -12,8 +12,6 @@
   "chapterArtColor": "#506D74",
   "meta": {
     "originalTitle": "The Righteous Mind",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Sitedeki 'Doğruluk Aklı' başlığı Jonathan Haidt'in 2012 tarihli The Righteous Mind kitabını karşılar. Eser üç ana bölüm kurar: önce sezgilerin akıl yürütmeden önce gelmesini, sonra ahlakın zarar ve adaletten daha geniş tatlar taşımasını, son olarak insanın hem bencil hem grupçu olabilmesini anlatır.",
@@ -46,11 +44,11 @@
       "section": "GİRİŞ · SORU",
       "title": "İyi insanlar gerçekten ayrılabilir",
       "paragraphs": [
-        "Haidt siyasi ve dini anlaşmazlığın yalnız kötü niyet veya cehaletten çıkmadığını; insanların farklı ahlaki kaygıları samimiyetle öne alabileceğini savunur. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Bir komşu düzen bozulmasın diye sert kural ister, öteki masum kişi zarar görmesin diye istisna ister; ikisi de koruduğu değeri ahlak sayar. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Zihin önce belirli değeri tehdit altında hisseder, sonra dünyayı o tehdidi doğrulayacak ayrıntılarla düzenler. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Samimiyet yanlış bilgiyi veya ayrımcılığı masum yapmaz; iyi niyet sonuç sorumluluğunu ortadan kaldırmaz. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Katılmadığınız bir görüşte kişinin korumaya çalıştığı ahlaki değeri, kullandığı yöntemden ayrı adlandırın. Ayrılığın ahlaki kaynağını görmek, yanlış bilgi ve zararı eleştirmeyi engellemez. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Haidt siyasi ve dini anlaşmazlığın yalnız kötü niyet veya cehaletten çıkmadığını; insanların farklı ahlaki kaygıları samimiyetle öne alabileceğini savunur.",
+        "Bir komşu düzen bozulmasın diye sert kural ister, öteki masum kişi zarar görmesin diye istisna ister; ikisi de koruduğu değeri ahlak sayar.",
+        "Zihin önce belirli değeri tehdit altında hisseder, sonra dünyayı o tehdidi doğrulayacak ayrıntılarla düzenler.",
+        "Samimiyet yanlış bilgiyi veya ayrımcılığı masum yapmaz; iyi niyet sonuç sorumluluğunu ortadan kaldırmaz.",
+        "Katılmadığınız bir görüşte kişinin korumaya çalıştığı ahlaki değeri, kullandığı yöntemden ayrı adlandırın. Ayrılığın ahlaki kaynağını görmek, yanlış bilgi ve zararı eleştirmeyi engellemez."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "BİRİNCİ KISIM · SEZGİ",
       "title": "Sezgi önce, gerekçe çoğu zaman sonra gelir",
       "paragraphs": [
-        "Haidt ahlaki hükümlerin çoğunun hızlı bir beğenme, tiksinme veya öfke sezgisiyle doğduğunu; akıl yürütmenin sık sık sonradan savunma kurduğunu söyler. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Bir haberi başlığından görüp öfkelenen kişi, ayrıntıyı okumadan paylaşır; sorulunca öfkesini destekleyen ilk nedeni bulur. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Hızlı değerlendirme dikkati seçer, yavaş akıl seçilmiş malzemeyi tutarlı hikâyeye dönüştürür. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Akıl her zaman avukat değildir; eğitim, merak ve güvenli tartışma sezgiyi gerçekten düzeltebilir. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Kesin hükme vardığınız anda nedeni yazmadan önce ilk beden duygunuzu ve gördüğünüz ilk ayrıntıyı not edin. Sezgi hızlıdır; hızın yararlı geçmişi bugünkü her hükmü doğru yapmaz. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Haidt ahlaki hükümlerin çoğunun hızlı bir beğenme, tiksinme veya öfke sezgisiyle doğduğunu; akıl yürütmenin sık sık sonradan savunma kurduğunu söyler.",
+        "Bir haberi başlığından görüp öfkelenen kişi, ayrıntıyı okumadan paylaşır; sorulunca öfkesini destekleyen ilk nedeni bulur.",
+        "Hızlı değerlendirme dikkati seçer, yavaş akıl seçilmiş malzemeyi tutarlı hikâyeye dönüştürür.",
+        "Akıl her zaman avukat değildir; eğitim, merak ve güvenli tartışma sezgiyi gerçekten düzeltebilir.",
+        "Kesin hükme vardığınız anda nedeni yazmadan önce ilk beden duygunuzu ve gördüğünüz ilk ayrıntıyı not edin. Sezgi hızlıdır; hızın yararlı geçmişi bugünkü her hükmü doğru yapmaz."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "BİRİNCİ KISIM · BENZETME",
       "title": "Fil ve sürücü birlikte yol alır",
       "paragraphs": [
-        "Büyük fil hızlı, duygusal ve alışkanlıklı zihni; küçük sürücü ise açıklayan ve planlayan akıl yürütmeyi temsil eder. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Sürücü sağlıklı yaşamak ister, fakat gece mutfaktaki kokuyu alan fil pastaya yönelir; sürücü sonra bugün zordu diyerek kararını savunur. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Sürücü fili zorla her an yönetemez, fakat çevreyi, alışkanlığı ve uzun vadeli eğitimi değiştirerek yönü etkiler. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Benzetme aklı güçsüz kukla yapmamalıdır; kurumlar, kanıt ve pratik düşünme davranışı değiştirebilir. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Değiştirmek istediğiniz bir alışkanlıkta nasihat yerine filin yolundaki tek çevre işaretini değiştirin. Sürücü çevre ve alışkanlık tasarladığında küçük gücünü zaman içinde büyütebilir. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Büyük fil hızlı, duygusal ve alışkanlıklı zihni; küçük sürücü ise açıklayan ve planlayan akıl yürütmeyi temsil eder.",
+        "Sürücü sağlıklı yaşamak ister, fakat gece mutfaktaki kokuyu alan fil pastaya yönelir; sürücü sonra bugün zordu diyerek kararını savunur.",
+        "Sürücü fili zorla her an yönetemez, fakat çevreyi, alışkanlığı ve uzun vadeli eğitimi değiştirerek yönü etkiler.",
+        "Benzetme aklı güçsüz kukla yapmamalıdır; kurumlar, kanıt ve pratik düşünme davranışı değiştirebilir.",
+        "Değiştirmek istediğiniz bir alışkanlıkta nasihat yerine filin yolundaki tek çevre işaretini değiştirin. Sürücü çevre ve alışkanlık tasarladığında küçük gücünü zaman içinde büyütebilir."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "BİRİNCİ KISIM · DENEY",
       "title": "Ahlaki şaşkınlık gerekçesiz hükmü gösterir",
       "paragraphs": [
-        "Haidt zarar vermediği söylenen fakat tiksinti uyandıran hayalî olaylarda insanların önce yanlış hükmü verip sağlam gerekçe bulamayınca da hükmü koruduğunu gösterir. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Kişi zararsız olduğu özellikle belirtilen tuhaf bir davranışa yine de 'yanlış, sadece yanlış' der ve her gerekçesi kaldırıldığında yenisini arar. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Sezgi kararı üretir, konuşan zihin gerekçe arar; gerekçe tükenince ahlaki şaşkınlık görünür olur. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Yapay senaryolar gerçek hayatın ilişki ve sonuçlarını eksiltir; tiksinti her kültürde aynı anlamı taşımaz. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir 'çok ayıp' hükmünde somut zarar, gelenek ihlali ve yalnız kişisel tiksintiyi ayrı ayrı sorun. Gerekçesiz tiksinti, kanıt ihtiyacını kaldırmak yerine daha görünür hale getirir. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Haidt zarar vermediği söylenen fakat tiksinti uyandıran hayalî olaylarda insanların önce yanlış hükmü verip sağlam gerekçe bulamayınca da hükmü koruduğunu gösterir.",
+        "Kişi zararsız olduğu özellikle belirtilen tuhaf bir davranışa yine de 'yanlış, sadece yanlış' der ve her gerekçesi kaldırıldığında yenisini arar.",
+        "Sezgi kararı üretir, konuşan zihin gerekçe arar; gerekçe tükenince ahlaki şaşkınlık görünür olur.",
+        "Yapay senaryolar gerçek hayatın ilişki ve sonuçlarını eksiltir; tiksinti her kültürde aynı anlamı taşımaz.",
+        "Bir 'çok ayıp' hükmünde somut zarar, gelenek ihlali ve yalnız kişisel tiksintiyi ayrı ayrı sorun. Gerekçesiz tiksinti, kanıt ihtiyacını kaldırmak yerine daha görünür hale getirir."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "BİRİNCİ KISIM · TOPLUM",
       "title": "Sosyal sezgici model başkalarını hesaba katar",
       "paragraphs": [
-        "Ahlaki fikirler yalnız kişinin içinde kanıt tartarak değil, insanların tepkileri, itibarı ve güven ilişkileri üzerinden dolaşır. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Aynı şakaya arkadaş grubu gülerse genç rahatlar, saygı duyduğu biri incindiğini söyleyince hükmünü yeniden düşünür. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Başkalarının sezgisi bizim sezgimizi tetikler; gerekçe çoğu zaman karşı tarafın filine ulaşırsa değişim başlar. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Sosyal etki doğruyu garanti etmez; kalabalık önyargıyı da hızla büyütebilir. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Birini ikna ederken veri vermeden önce hangi değerine ve güven ilişkisine seslendiğinizi fark edin. İkna yalnız içerik değil güven, itibar ve ait olunan topluluğun etkisiyle çalışır. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Ahlaki fikirler yalnız kişinin içinde kanıt tartarak değil, insanların tepkileri, itibarı ve güven ilişkileri üzerinden dolaşır.",
+        "Aynı şakaya arkadaş grubu gülerse genç rahatlar, saygı duyduğu biri incindiğini söyleyince hükmünü yeniden düşünür.",
+        "Başkalarının sezgisi bizim sezgimizi tetikler; gerekçe çoğu zaman karşı tarafın filine ulaşırsa değişim başlar.",
+        "Sosyal etki doğruyu garanti etmez; kalabalık önyargıyı da hızla büyütebilir.",
+        "Birini ikna ederken veri vermeden önce hangi değerine ve güven ilişkisine seslendiğinizi fark edin. İkna yalnız içerik değil güven, itibar ve ait olunan topluluğun etkisiyle çalışır."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "İKİNCİ KISIM · TATLAR",
       "title": "Ahlak yalnız zarar ve adalet değildir",
       "paragraphs": [
-        "Haidt bazı modern eğitimli çevrelerin ahlakı zarar vermeme ve bireysel adaletle sınırladığını; birçok toplumun sadakat, otorite ve kutsallığı da ahlak saydığını anlatır. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Biri yetişkinlerin özgür seçimi var der, köydeki diğeri davranışın aile onuru ve kutsal düzeni zedelediğini düşünür. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Kültür doğuştan gelen hassasiyetleri öykü, tören ve kurumlarla farklı ölçülerde geliştirir. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Geniş ahlak tanımı baskıcı geleneği haklı çıkarmaz; anlamak onaylamak değildir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir tartışmada zarar dışında hangi sadakat, düzen veya kutsallık kaygısının çalıştığını adlandırın. Geniş ahlak repertuvarı, insanları anlamak için harita; baskıyı onaylamak için izin değildir. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Haidt bazı modern eğitimli çevrelerin ahlakı zarar vermeme ve bireysel adaletle sınırladığını; birçok toplumun sadakat, otorite ve kutsallığı da ahlak saydığını anlatır.",
+        "Biri yetişkinlerin özgür seçimi var der, köydeki diğeri davranışın aile onuru ve kutsal düzeni zedelediğini düşünür.",
+        "Kültür doğuştan gelen hassasiyetleri öykü, tören ve kurumlarla farklı ölçülerde geliştirir.",
+        "Geniş ahlak tanımı baskıcı geleneği haklı çıkarmaz; anlamak onaylamak değildir.",
+        "Bir tartışmada zarar dışında hangi sadakat, düzen veya kutsallık kaygısının çalıştığını adlandırın. Geniş ahlak repertuvarı, insanları anlamak için harita; baskıyı onaylamak için izin değildir."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "TEMEL 1 · BAKIM",
       "title": "Bakım ve zarar savunmasızı korur",
       "paragraphs": [
-        "Bakım temeli acı, kırılganlık ve zalimlik işaretlerine duyarlılık verir; yavru bakımından geniş insan ve hayvan merhametine uzanabilir. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Sokakta ağlayan çocuğu görenler konuşmayı keser, yüzleri yumuşar ve yardım için hareket eder. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Acı işareti hızlı empatiyi tetikler; kültür kimin 'bizim korunacaklarımız' sayıldığını genişletir veya daraltır. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Empati yakındaki görünür acıya aşırı, uzaktaki sessiz zarara az tepki verebilir. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Bir yardım kararında en canlı fotoğrafı değil, görünmeyen toplam zararı da araştırın. Bakımın sınırı kimin acısının görünür ve anlatılabilir sayıldığıyla belirlenir. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Bakım temeli acı, kırılganlık ve zalimlik işaretlerine duyarlılık verir; yavru bakımından geniş insan ve hayvan merhametine uzanabilir.",
+        "Sokakta ağlayan çocuğu görenler konuşmayı keser, yüzleri yumuşar ve yardım için hareket eder.",
+        "Acı işareti hızlı empatiyi tetikler; kültür kimin 'bizim korunacaklarımız' sayıldığını genişletir veya daraltır.",
+        "Empati yakındaki görünür acıya aşırı, uzaktaki sessiz zarara az tepki verebilir.",
+        "Bir yardım kararında en canlı fotoğrafı değil, görünmeyen toplam zararı da araştırın. Bakımın sınırı kimin acısının görünür ve anlatılabilir sayıldığıyla belirlenir."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "TEMEL 2 · ADALET",
       "title": "Adalet eşitlik kadar karşılıklılıktır",
       "paragraphs": [
-        "Adalet temeli hileye, karşılıksız almaya ve orantısız paya tepki verir; sağ ve sol yorumlarda eşitlik, emek veya haklı karşılık öne çıkabilir. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Ortak yemeğe herkes para koyarken bir kişi sürekli unutursa küçük miktar bile büyük öfke doğurur. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "İnsan kimin ne verdiğini ve ne aldığını izler; ihlal güven ve işbirliği düzenini tehdit eder. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Her eşitsizlik hile değildir ve başlangıç koşulları görülmeden yalnız katkı hesabı adaletsiz olabilir. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir paylaşımda eşit pay, ihtiyaç ve katkı ölçülerinin ayrı sonuçlarını karşılaştırın. Adalet tartışması aynı kelime altında eşitlik, hak ediş ve ihtiyaç ölçülerini çatıştırabilir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Adalet temeli hileye, karşılıksız almaya ve orantısız paya tepki verir; sağ ve sol yorumlarda eşitlik, emek veya haklı karşılık öne çıkabilir.",
+        "Ortak yemeğe herkes para koyarken bir kişi sürekli unutursa küçük miktar bile büyük öfke doğurur.",
+        "İnsan kimin ne verdiğini ve ne aldığını izler; ihlal güven ve işbirliği düzenini tehdit eder.",
+        "Her eşitsizlik hile değildir ve başlangıç koşulları görülmeden yalnız katkı hesabı adaletsiz olabilir.",
+        "Bir paylaşımda eşit pay, ihtiyaç ve katkı ölçülerinin ayrı sonuçlarını karşılaştırın. Adalet tartışması aynı kelime altında eşitlik, hak ediş ve ihtiyaç ölçülerini çatıştırabilir."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "TEMEL 3 · SADAKAT",
       "title": "Sadakat grubu ayakta tutar",
       "paragraphs": [
-        "Sadakat temeli birlikte mücadele eden grubun işaretlerine, fedakârlığına ve ihanete hassasiyet kazandırır. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Takımın zor gününde yanında kalan oyuncu alkışlanır, sırları rakibe veren kişi verdiği bilgi doğru olsa bile hain sayılır. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Ortak simge ve geçmiş bireyi geniş bir 'biz' içine alır, karşılıklı güven ve fedakârlık üretir. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Sadakat yanlış yapan grubu koruma baskısına ve dışarıdakini insanlıktan çıkarma tehlikesine dönüşebilir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Bir kuruma sadakatin hangi durumda dürüst eleştiriyi gerektirdiğini önceden belirleyin. Sadakat en güçlü halinde grubun yanlışını düzeltme cesaretini de korur. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Sadakat temeli birlikte mücadele eden grubun işaretlerine, fedakârlığına ve ihanete hassasiyet kazandırır.",
+        "Takımın zor gününde yanında kalan oyuncu alkışlanır, sırları rakibe veren kişi verdiği bilgi doğru olsa bile hain sayılır.",
+        "Ortak simge ve geçmiş bireyi geniş bir 'biz' içine alır, karşılıklı güven ve fedakârlık üretir.",
+        "Sadakat yanlış yapan grubu koruma baskısına ve dışarıdakini insanlıktan çıkarma tehlikesine dönüşebilir.",
+        "Bir kuruma sadakatin hangi durumda dürüst eleştiriyi gerektirdiğini önceden belirleyin. Sadakat en güçlü halinde grubun yanlışını düzeltme cesaretini de korur."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "TEMEL 4 · OTORİTE",
       "title": "Otorite yalnız kör itaat değildir",
       "paragraphs": [
-        "Otorite temeli rol, yaş, görev ve meşru hiyerarşiye ilişkin beklentileri düzenler; iyi liderin koruma yükümlülüğü de bu yapının parçasıdır. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Yangında ekip komutanının sözü hızla dinlenir, fakat komutan çalışanı gereksiz tehlikeye atarsa otoritenin karşılıklı yükü bozulur. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Hiyerarşi koordinasyon sağlar; ritüel saygı rolleri görünür kılar ve çatışma maliyetini azaltabilir. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Meşruiyet, uzmanlık ve hesap verme yoksa otorite korkuya dayanan tahakküme dönüşür. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir emri değerlendirirken makamın yanında görev alanını, gerekçeyi ve itiraz yolunu sorun. Meşru otorite yukarıya ayrıcalık kadar aşağıya koruma ve gerekçe borcu yükler. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Otorite temeli rol, yaş, görev ve meşru hiyerarşiye ilişkin beklentileri düzenler; iyi liderin koruma yükümlülüğü de bu yapının parçasıdır.",
+        "Yangında ekip komutanının sözü hızla dinlenir, fakat komutan çalışanı gereksiz tehlikeye atarsa otoritenin karşılıklı yükü bozulur.",
+        "Hiyerarşi koordinasyon sağlar; ritüel saygı rolleri görünür kılar ve çatışma maliyetini azaltabilir.",
+        "Meşruiyet, uzmanlık ve hesap verme yoksa otorite korkuya dayanan tahakküme dönüşür.",
+        "Bir emri değerlendirirken makamın yanında görev alanını, gerekçeyi ve itiraz yolunu sorun. Meşru otorite yukarıya ayrıcalık kadar aşağıya koruma ve gerekçe borcu yükler."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "TEMEL 5 · KUTSALLIK",
       "title": "Kutsallık bedeni ve topluluğu sınırlar",
       "paragraphs": [
-        "Kutsallık temeli kirlenme ve yücelik duygularını yalnız yiyecekte değil beden, doğa, bayrak ve manevi değerlerde örgütler. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Eski bir ormana fabrika kurulması bazıları için yalnız çevre hesabı değil dokunulmaması gereken bir yere saldırıdır. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Tiksinti biyolojik tehlikeden sembolik saflığa genişler; tören sıradan nesneyi dokunulmaz işarete dönüştürür. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Saflık dili azınlıkları kirli göstererek dışlayabilir ve kanıt yerine bedensel tepkiyi kullanabilir. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Tiksindiğiniz bir durumda gerçek sağlık riskiyle sembolik ihlali ayrı ayrı araştırın. Kutsal dil en derin bağlılığı anlatabilir; insanı kirli saydığı anda alarm vermelidir. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Kutsallık temeli kirlenme ve yücelik duygularını yalnız yiyecekte değil beden, doğa, bayrak ve manevi değerlerde örgütler.",
+        "Eski bir ormana fabrika kurulması bazıları için yalnız çevre hesabı değil dokunulmaması gereken bir yere saldırıdır.",
+        "Tiksinti biyolojik tehlikeden sembolik saflığa genişler; tören sıradan nesneyi dokunulmaz işarete dönüştürür.",
+        "Saflık dili azınlıkları kirli göstererek dışlayabilir ve kanıt yerine bedensel tepkiyi kullanabilir.",
+        "Tiksindiğiniz bir durumda gerçek sağlık riskiyle sembolik ihlali ayrı ayrı araştırın. Kutsal dil en derin bağlılığı anlatabilir; insanı kirli saydığı anda alarm vermelidir."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "TEMEL 6 · ÖZGÜRLÜK",
       "title": "Özgürlük zorbalığa karşı alarmdır",
       "paragraphs": [
-        "Haidt sonradan belirginleştirdiği özgürlük temelini güçlü kişi veya kurumun insanları ezmesine, orantısız kısıtlamasına karşı tepki olarak açıklar. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Mahalleli küçük esnafı keyfî harçla ezen yönetime karşı ideolojik farklarını bırakıp birleşir. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Baskı işareti öfke ve dayanışma doğurur; sol eşitsiz güç, sağ müdahaleci yönetim tarafını daha çok vurgulayabilir. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Her kural zorbalık değildir; ortak zararları önlemek için meşru ve denetlenebilir sınırlamalar gerekebilir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Bir özgürlük tartışmasında kim kimi, hangi araçla ve hangi itiraz yolu olmadan sınırlıyor diye sorun. Özgürlük ölçüsü yalnız engelin varlığı değil, engeli koyan gücün keyfîliği ve denetlenebilirliğidir. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Haidt sonradan belirginleştirdiği özgürlük temelini güçlü kişi veya kurumun insanları ezmesine, orantısız kısıtlamasına karşı tepki olarak açıklar.",
+        "Mahalleli küçük esnafı keyfî harçla ezen yönetime karşı ideolojik farklarını bırakıp birleşir.",
+        "Baskı işareti öfke ve dayanışma doğurur; sol eşitsiz güç, sağ müdahaleci yönetim tarafını daha çok vurgulayabilir.",
+        "Her kural zorbalık değildir; ortak zararları önlemek için meşru ve denetlenebilir sınırlamalar gerekebilir.",
+        "Bir özgürlük tartışmasında kim kimi, hangi araçla ve hangi itiraz yolu olmadan sınırlıyor diye sorun. Özgürlük ölçüsü yalnız engelin varlığı değil, engeli koyan gücün keyfîliği ve denetlenebilirliğidir."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "İKİNCİ KISIM · SİYASET",
       "title": "Ahlaki tat profilleri siyaset dilini değiştirir",
       "paragraphs": [
-        "Haidt Amerikan araştırmalarında liberallerin bakım ve adaleti, muhafazakârların altı temeli daha dengeli kullandığını; özgürlükçülerin baskı karşıtlığını öne aldığını bulur. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Aynı çevre yasası bir gruba canlıları koruma, diğerine kutsal vatanı emanet, üçüncüye devlet baskısı olarak anlatılınca farklı tepkiler alır. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Siyasi anlatı seçmenin hassas olduğu ahlaki reseptörlere temas ederek politikayı kimlik ve duyguya bağlar. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Bulgular ülke, dönem ve ölçümle değişir; bireyler parti ortalamasının kopyası değildir. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Savunduğunuz bir politikayı alışık olmadığınız ikinci bir ahlaki temelle dürüstçe anlatmayı deneyin. Aynı politikayı farklı değer dilleriyle anlatmak manipülasyon değil gerçek çok yönünü göstermek olabilir. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Haidt Amerikan araştırmalarında liberallerin bakım ve adaleti, muhafazakârların altı temeli daha dengeli kullandığını; özgürlükçülerin baskı karşıtlığını öne aldığını bulur.",
+        "Aynı çevre yasası bir gruba canlıları koruma, diğerine kutsal vatanı emanet, üçüncüye devlet baskısı olarak anlatılınca farklı tepkiler alır.",
+        "Siyasi anlatı seçmenin hassas olduğu ahlaki reseptörlere temas ederek politikayı kimlik ve duyguya bağlar.",
+        "Bulgular ülke, dönem ve ölçümle değişir; bireyler parti ortalamasının kopyası değildir.",
+        "Savunduğunuz bir politikayı alışık olmadığınız ikinci bir ahlaki temelle dürüstçe anlatmayı deneyin. Aynı politikayı farklı değer dilleriyle anlatmak manipülasyon değil gerçek çok yönünü göstermek olabilir."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "ÜÇÜNCÜ KISIM · GRUPÇULUK",
       "title": "İnsan yüzde yüz arı değildir",
       "paragraphs": [
-        "Haidt insanı yalnız bencil şempanze değil, belirli koşullarda ortak amaç için benliğini aşabilen kısmen arı benzeri canlı olarak betimler. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Sel sırasında birbirini tanımayan insanlar kum torbası zinciri kurar; saatlerce kendi rahatlarını unuturlar. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Ortak tehdit, eşzamanlı hareket ve paylaşılan simge bireysel hesabı geçici olarak grup kimliğine dönüştürür. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Grup seçilimi açıklaması tartışmalıdır; dayanışma kadar savaş ve itaat de aynı mekanizmadan beslenebilir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bir ekipte birlik yaratan uygulamanın dışarıdakine düşmanlık üretip üretmediğini de gözleyin. Grup yeteneği büyük fedakârlık kadar kör düşmanlık ürettiği için ahlaki denetim ister. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Haidt insanı yalnız bencil şempanze değil, belirli koşullarda ortak amaç için benliğini aşabilen kısmen arı benzeri canlı olarak betimler.",
+        "Sel sırasında birbirini tanımayan insanlar kum torbası zinciri kurar; saatlerce kendi rahatlarını unuturlar.",
+        "Ortak tehdit, eşzamanlı hareket ve paylaşılan simge bireysel hesabı geçici olarak grup kimliğine dönüştürür.",
+        "Grup seçilimi açıklaması tartışmalıdır; dayanışma kadar savaş ve itaat de aynı mekanizmadan beslenebilir.",
+        "Bir ekipte birlik yaratan uygulamanın dışarıdakine düşmanlık üretip üretmediğini de gözleyin. Grup yeteneği büyük fedakârlık kadar kör düşmanlık ürettiği için ahlaki denetim ister."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "ÜÇÜNCÜ KISIM · KOVAN",
       "title": "Kovan düğmesi ortak coşkuyu açar",
       "paragraphs": [
-        "Müzik, dans, ibadet, spor ve ortak emek bazen kişide ayrı benliğin sınırlarının eridiği yoğun bir birlik deneyimi yaratır. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Binlerce kişi aynı şarkıyı söylerken yabancılar omuz omuza verir ve kısa süreliğine tek beden gibi hareket eder. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Ritim, eşzamanlılık ve ortak dikkat güveni artırır, kovan düğmesi denen grup halini etkinleştirir. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Yoğun birlik doğru amaç garantisi değildir; tarikat ve saldırgan kalabalık da aynı coşkuyu kullanabilir. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Toplu bir coşkudan sonra grubun eleştiriye, dışarıdakine ve bireysel sınıra nasıl davrandığını izleyin. Kovan deneyiminden sonra bireyin hayır deme hakkı korunuyorsa birlik daha güvenlidir. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Müzik, dans, ibadet, spor ve ortak emek bazen kişide ayrı benliğin sınırlarının eridiği yoğun bir birlik deneyimi yaratır.",
+        "Binlerce kişi aynı şarkıyı söylerken yabancılar omuz omuza verir ve kısa süreliğine tek beden gibi hareket eder.",
+        "Ritim, eşzamanlılık ve ortak dikkat güveni artırır, kovan düğmesi denen grup halini etkinleştirir.",
+        "Yoğun birlik doğru amaç garantisi değildir; tarikat ve saldırgan kalabalık da aynı coşkuyu kullanabilir.",
+        "Toplu bir coşkudan sonra grubun eleştiriye, dışarıdakine ve bireysel sınıra nasıl davrandığını izleyin. Kovan deneyiminden sonra bireyin hayır deme hakkı korunuyorsa birlik daha güvenlidir."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SONUÇ · KÖPRÜ",
       "title": "Anlaşmak filin gördüğü değeri tanımakla başlar",
       "paragraphs": [
-        "Haidt karşı tarafı aptal ilan etmek yerine onun ahlaki matrisine girmeyi, haklı olduğu parçayı bulmayı ve kendi zihnimizin de kabileci olduğunu kabul etmeyi önerir. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Tartışan iki kardeş önce birbirinin korktuğu kaybı doğru cümleyle tekrar edince, aynı çözümü seçmeseler de bağırma azalır. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Tanınma savunmayı düşürür, ortak değer küçük bir güven alanı açar ve akıl gerçek karşılaştırma yapabilir. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Empati uzlaşma zorunluluğu değildir; yalan, şiddet ve hak ihlali açıkça sınırlandırılabilir. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Karşı görüşü sahibi 'evet, beni doğru anladın' diyene kadar tek cümlede kurup sonra itiraz edin. Köprü kurmak iki tarafı eşit derecede doğru saymak değil, eleştirinin duyulacağı insan bağını korumaktır. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Haidt karşı tarafı aptal ilan etmek yerine onun ahlaki matrisine girmeyi, haklı olduğu parçayı bulmayı ve kendi zihnimizin de kabileci olduğunu kabul etmeyi önerir.",
+        "Tartışan iki kardeş önce birbirinin korktuğu kaybı doğru cümleyle tekrar edince, aynı çözümü seçmeseler de bağırma azalır.",
+        "Tanınma savunmayı düşürür, ortak değer küçük bir güven alanı açar ve akıl gerçek karşılaştırma yapabilir.",
+        "Empati uzlaşma zorunluluğu değildir; yalan, şiddet ve hak ihlali açıkça sınırlandırılabilir.",
+        "Karşı görüşü sahibi 'evet, beni doğru anladın' diyene kadar tek cümlede kurup sonra itiraz edin. Köprü kurmak iki tarafı eşit derecede doğru saymak değil, eleştirinin duyulacağı insan bağını korumaktır."
       ]
     },
     {

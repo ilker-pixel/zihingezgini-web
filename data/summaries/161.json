@@ -12,8 +12,6 @@
   "chapterArtColor": "#3B6174",
   "meta": {
     "originalTitle": "The General Theory of Employment, Interest and Money",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Bir kasabada herkes korkup harcamayı keser. Bakkal satış yapamaz, çalışan çıkarır; işsiz kalan kişi daha da az harcar. Tek tek bakınca tasarruf akıllıdır, topluca bakınca gelir küçülür. Keynes'in devrimi, ekonominin kendi kendine hızla tam istihdama dönmeyebileceğini göstermesidir.",
@@ -38,7 +36,7 @@
       "paragraphs": [
         "Piyasaların neden herkes çalışmak isterken bile uzun süre işsiz kalabildiğini; harcama, beklenti, yatırım, faiz, para ve devlet politikası arasındaki zincirle açıklayan ekonomi klasiği.",
         "Genel Teori her durumda daha çok devlet harcaması öneren tek cümle değildir. Keynes özellikle toplam talebin yetersiz olduğu, beklentilerin çöktüğü ve para politikasının etkisizleştiği koşulları inceler. Kavramları ev bütçesi benzetmesine hapsetmeden birbirine bağlamak gerekir.",
-        "Bu rehber, John Maynard Keynes tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+        "Bu rehber, John Maynard Keynes tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler."
       ]
     },
     {
@@ -48,11 +46,8 @@
       "paragraphs": [
         "Keynes ücret ve fiyatların esnemesiyle ekonominin otomatik tam istihdama döneceği varsayımını sorgular.",
         "Dükkân fiyatı indirse bile herkes gelirinden korkuyorsa müşteri gelmeyebilir; ucuzluk tek başına talep yaratmaz.",
-        "Aynı kavram hem aydınlatıcı hem de kötüye kullanılmaya açık olabilir. klasik teorinin boş bıraktığı yer insanlara etiket yapıştırmak için değil, ilişkileri daha dikkatli çözmek için işe yarar.",
+        "klasik teorinin boş bıraktığı yer insanlara etiket yapıştırmak için değil, ilişkileri daha dikkatli çözmek için işe yarar.",
         "Gündelik bir karar öncesinde klasik teorinin boş bıraktığı yer açısından kısa vadeli kazancı ve uzun vadeli bedeli iki ayrı sütuna yazmak şaşırtıcı bir açıklık sağlar."
-      ],
-      "extraParagraphs": [
-        "Bu durağı biraz daha yakından düşündüğümüzde, “Klasik teorinin boş bıraktığı yer” başlığının yalnız kendi örneğini değil İstihdam Faiz ve Paranın Genel Teorisi boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -62,11 +57,8 @@
       "paragraphs": [
         "Firmalar kaç kişiyi çalıştıracağına üretebilecekleri miktardan çok satmayı bekledikleri miktara göre karar verir.",
         "Restoran yüz kişilik mutfağa sahip olsa da akşam on müşteri bekliyorsa beş aşçı tutmaz.",
-        "Benzetme akılda kalıcıdır fakat gerçek dünyanın yerini tutmaz. etkin talep fikrini kullanırken benzetmenin nerede bittiğini ayrıca görmek gerekir.",
+        "etkin talep fikrini kullanırken benzetmenin nerede bittiğini ayrıca görmek gerekir.",
         "Sosyal medyada kesin bir hüküm gördüğünüzde etkin talep için hangi kanıtın eksik olduğunu sormak, heyecan verici fakat yanlış genellemeyi durdurabilir."
-      ],
-      "extraParagraphs": [
-        "Aynı bağlantıya başka bir açıdan bakarsak, “Etkin talep” başlığının yalnız kendi örneğini değil İstihdam Faiz ve Paranın Genel Teorisi boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -76,11 +68,8 @@
       "paragraphs": [
         "İnsanlar geçerli ücretle çalışmak istediği halde toplam talep yetersizse iş bulamayabilir; işsizlik yalnız ücret tercihi değildir.",
         "Fabrika sipariş yok diye kapanır; işçiler daha düşük ücret teklif etse bile satılmayan ürüne ihtiyaç doğmaz.",
-        "Bu örnek iddiayı anlaşılır kılar ama tek başına kanıtlamaz. i̇stemsiz işsizlik için farklı dönemlerden ve toplumlardan karşı örnekler aramak düşünceyi daha sağlam hale getirir.",
+        "i̇stemsiz işsizlik için farklı dönemlerden ve toplumlardan karşı örnekler aramak düşünceyi daha sağlam hale getirir.",
         "Kamusal bir karar değerlendirilirken i̇stemsiz işsizlik yalnız ortalama sonucu değil, bedeli kimin ödediğini ve kimin söz sahibi olduğunu sormayı gerektirir."
-      ],
-      "extraParagraphs": [
-        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “İstemsiz işsizlik” başlığının yalnız kendi örneğini değil İstihdam Faiz ve Paranın Genel Teorisi boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -90,11 +79,8 @@
       "paragraphs": [
         "Gelir arttığında tüketim de artar fakat genellikle gelirin tamamı harcanmaz; kalan tasarrufun yatırıma dönüşmesi gerekir.",
         "Maaşı yükselen aile ek harcama yapar ama artışın bir bölümünü hesapta tutar.",
-        "Yazarın dili yer yer kesin olsa da sonuç olasılıklar dünyasında işler. tüketim eğilimi konusunda belirsizlik payını korumak, fikri zayıflatmak değil dürüstleştirmektir.",
+        "tüketim eğilimi konusunda belirsizlik payını korumak, fikri zayıflatmak değil dürüstleştirmektir.",
         "Kendinize şu küçük deneyi verin: tüketim eğilimi etkisini azaltan tek bir kural değişse insanların davranışı nasıl farklılaşırdı?"
-      ],
-      "extraParagraphs": [
-        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Tüketim eğilimi” başlığının yalnız kendi örneğini değil İstihdam Faiz ve Paranın Genel Teorisi boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -104,7 +90,7 @@
       "paragraphs": [
         "Herkes aynı anda daha çok tasarruf etmeye çalışırsa harcama ve gelir düşer; toplum toplamda planladığı kadar tasarruf bile edemeyebilir.",
         "Seyirciler daha iyi görmek için ayağa kalkınca kimse daha iyi görmez, yalnız herkes yorulur.",
-        "Betimleme ile onay birbirine karıştırılmamalıdır. Kitap tasarruf paradoksu düzeninin nasıl çalıştığını gösterirken, bunun ahlaken doğru olduğunu söylemiş olmaz.",
+        "Kitap tasarruf paradoksu düzeninin nasıl çalıştığını gösterirken, bunun ahlaken doğru olduğunu söylemiş olmaz.",
         "Bölümü hayata taşımanın en sade yolu, tasarruf paradoksu için 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir sahneye uygulamaktır."
       ]
     },
@@ -115,7 +101,7 @@
       "paragraphs": [
         "Yeni yatırım birinin gelirine, onun harcaması başkasının gelirine dönüşerek ilk tutardan daha büyük toplam üretim etkisi yaratabilir.",
         "Belediyenin yol işçisine ödediği para bakkala, bakkalın harcaması tamirciye gider.",
-        "Kavramı yalnız olumlu ya da yalnız olumsuz görmek eksik kalır. çarpan etkisi aynı anda imkân, maliyet ve beklenmeyen yan etki üretebilir.",
+        "çarpan etkisi aynı anda imkân, maliyet ve beklenmeyen yan etki üretebilir.",
         "Bir iddia çok rahatlatıcı geliyorsa çarpan etkisi konusunda onu yanlışlayabilecek olayı da düşünün. İyi fikir sınanmaktan korkmaz."
       ]
     },
@@ -126,7 +112,7 @@
       "paragraphs": [
         "Yatırım kararı makinenin bugünkü maliyetiyle gelecekte beklenen gelirlerinin karşılaştırılmasına dayanır; gelecek belirsizliği merkezîdir.",
         "Otelci odaların dolacağına inanmıyorsa kredi ucuz olsa bile yeni kat yapmaz.",
-        "Benzetme akılda kalıcıdır fakat gerçek dünyanın yerini tutmaz. sermayenin marjinal etkinliği fikrini kullanırken benzetmenin nerede bittiğini ayrıca görmek gerekir. Bu sınır, kitabı değersizleştirmez.",
+        "sermayenin marjinal etkinliği fikrini kullanırken benzetmenin nerede bittiğini ayrıca görmek gerekir. Bu sınır, kitabı değersizleştirmez.",
         "Sosyal medyada kesin bir hüküm gördüğünüzde sermayenin marjinal etkinliği için hangi kanıtın eksik olduğunu sormak, heyecan verici fakat yanlış genellemeyi durdurabilir."
       ]
     },
@@ -137,7 +123,7 @@
       "paragraphs": [
         "Uzak geleceğin kesin olasılıklarını bilmediğimiz için yatırım hesapları gelenek, güven ve başkalarının davranışına dayanır.",
         "On yıllık fabrika yatırımı yarının haberinden etkilenir, çünkü geleceği cetvelle ölçmek mümkün değildir.",
-        "Bir olayın ardından kurulan düzgün hikâye, yaşanırken var olan belirsizliği gizleyebilir. uzun vadeli beklentiler geriye dönük kolaycılığa karşı dikkatle okunmalıdır.",
+        "uzun vadeli beklentiler geriye dönük kolaycılığa karşı dikkatle okunmalıdır.",
         "Bir hafta boyunca uzun vadeli beklentiler fikrinin küçük örneklerini not edin; kavramın gerçekten açıklayıcı mı, yoksa yalnız kulağa etkileyici mi geldiği ortaya çıkar."
       ]
     },
@@ -148,7 +134,7 @@
       "paragraphs": [
         "Girişimcilerin olumlu eylem dürtüsü yalnız matematiksel ortalamadan gelmez; güven çöktüğünde kâğıt üzerindeki fırsat yatırım doğurmayabilir.",
         "Fırtına ihtimali düşük olsa da kaptan korkudan limandan çıkmazsa ticaret hesabı hareket üretemez.",
-        "Burada anlatılan mekanizma kaçınılmaz bir kader gibi okunmamalıdır. Koşullar, kurumlar ve insanların tepkileri değiştiğinde hayvani ruhlar bambaşka sonuçlar verebilir.",
+        "Koşullar, kurumlar ve insanların tepkileri değiştiğinde hayvani ruhlar bambaşka sonuçlar verebilir.",
         "Bir kurumun açıklamasını dinlerken hayvani ruhlar açısından söylenen amaç ile ortaya çıkan gerçek sonucu karşılaştırın."
       ]
     },
@@ -159,7 +145,7 @@
       "paragraphs": [
         "İnsanlar işlem, ihtiyat ve spekülasyon için elde para tutmak ister; belirsizlik arttıkça likit kalmanın değeri yükselir.",
         "Ev fiyatı düşecek sanan kişi yatırım yapmak yerine nakitte bekler, çünkü seçenek özgürlüğünü kaybetmek istemez.",
-        "Bu örnek iddiayı anlaşılır kılar ama tek başına kanıtlamaz. likidite tercihi için farklı dönemlerden ve toplumlardan karşı örnekler aramak düşünceyi daha sağlam hale getirir.",
+        "likidite tercihi için farklı dönemlerden ve toplumlardan karşı örnekler aramak düşünceyi daha sağlam hale getirir.",
         "Kamusal bir karar değerlendirilirken likidite tercihi yalnız ortalama sonucu değil, bedeli kimin ödediğini ve kimin söz sahibi olduğunu sormayı gerektirir."
       ]
     },
@@ -181,7 +167,7 @@
       "paragraphs": [
         "Faiz çok düşük ve güven zayıfsa ek para elde tutulabilir; merkez bankasının para vermesi yatırım ve harcamaya dönüşmeyebilir.",
         "Depoya daha çok su pompalanır ama vanalar korkudan kapalıysa tarlaya su gitmez.",
-        "Yazar güçlü bir karşıtlık kurar, fakat gerçek hayat iki kutup arasında birçok ara ton taşır. likidite tuzağı bu tonları silmek için değil, görünür kılmak için kullanılmalıdır.",
+        "likidite tuzağı bu tonları silmek için değil, görünür kılmak için kullanılmalıdır.",
         "Bir haber okurken likidite tuzağı başlığını aklınıza getirin; görünen olayın arkasındaki kuralı, teşviki ve sessiz kalan kişiyi ayrı ayrı arayın."
       ]
     },
@@ -192,7 +178,7 @@
       "paragraphs": [
         "Genel ücret kesintisi maliyeti azaltırken çalışanların gelir ve tüketimini de düşürür; borç yükünü ağırlaştırıp beklentiyi bozabilir.",
         "Bütün lokantalar garson ücretini kesince garsonlar müşteri olarak kaybolur.",
-        "Bu örnek iddiayı anlaşılır kılar ama tek başına kanıtlamaz. ücretleri düşürmek neden yetmez? için farklı dönemlerden ve toplumlardan karşı örnekler aramak düşünceyi daha sağlam hale getirir.",
+        "ücretleri düşürmek neden yetmez? için farklı dönemlerden ve toplumlardan karşı örnekler aramak düşünceyi daha sağlam hale getirir.",
         "Kamusal bir karar değerlendirilirken ücretleri düşürmek neden yetmez? yalnız ortalama sonucu değil, bedeli kimin ödediğini ve kimin söz sahibi olduğunu sormayı gerektirir."
       ]
     },
@@ -214,7 +200,7 @@
       "paragraphs": [
         "Özel yatırım korku nedeniyle çöktüğünde kamu harcaması talep boşluğunu doldurup gelir ve güven zincirini başlatabilir.",
         "Yangın sonrası herkes dükkân açmayı beklerken belediyenin altyapıyı onarması müşterinin ve yatırımın geri dönmesini sağlar.",
-        "Yazar güçlü bir karşıtlık kurar, fakat gerçek hayat iki kutup arasında birçok ara ton taşır. devlet harcaması ne zaman devreye girer? bu tonları silmek için değil, görünür kılmak için kullanılmalıdır. Bu sınır, kitabı değersizleştirmez.",
+        "devlet harcaması ne zaman devreye girer? bu tonları silmek için değil, görünür kılmak için kullanılmalıdır. Bu sınır, kitabı değersizleştirmez.",
         "Bir haber okurken devlet harcaması ne zaman devreye girer? başlığını aklınıza getirin; görünen olayın arkasındaki kuralı, teşviki ve sessiz kalan kişiyi ayrı ayrı arayın."
       ]
     },
@@ -225,7 +211,7 @@
       "paragraphs": [
         "Keynes ekonominin yatırım hacmini yalnız oynak özel beklentilere bırakmamak için kamunun uzun vadeli yönlendirme rolünü büyütür; özel girişimi tümüyle kaldırmayı savunmaz.",
         "Kent su şebekesini günlük borsa heyecanına bırakamaz; uzun ömürlü yatırım ortak plan ister.",
-        "Yazar güçlü bir karşıtlık kurar, fakat gerçek hayat iki kutup arasında birçok ara ton taşır. yatırımın toplumsallaşması bu tonları silmek için değil, görünür kılmak için kullanılmalıdır.",
+        "yatırımın toplumsallaşması bu tonları silmek için değil, görünür kılmak için kullanılmalıdır.",
         "Bir haber okurken yatırımın toplumsallaşması başlığını aklınıza getirin; görünen olayın arkasındaki kuralı, teşviki ve sessiz kalan kişiyi ayrı ayrı arayın."
       ]
     },
@@ -235,8 +221,8 @@
       "title": "Kitabın en kolay yanlış anlaşılacağı yer",
       "paragraphs": [
         "Keynes devletin sınırsız para basmasını veya her dönemde bütçe açığı vermesini savunmaz. Sorunu, özel talebin ve yatırımın çöktüğü durumda ekonominin kendi kendine hızla tam istihdama dönememesi ve para politikasının bazen yetersiz kalmasıdır.",
-        "İstihdam Faiz ve Paranın Genel Teorisi tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
-        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? John Maynard Keynes ile verimli tartışma böyle başlar."
+        "İstihdam Faiz ve Paranın Genel Teorisi tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur.",
+        "John Maynard Keynes ile verimli tartışma böyle başlar."
       ]
     },
     {
@@ -245,8 +231,8 @@
       "title": "Kitap hakkında süren tartışma",
       "paragraphs": [
         "Eser makroekonomiyi kurdu, savaş sonrası tam istihdam politikalarını ve modern merkez bankacılığını etkiledi. Monetaristler enflasyon ve para arzını, yeni klasikler beklenti ve piyasa uyumunu öne çıkararak eleştirdi; 1970'ler stagflasyonu ve sonraki krizler tartışmayı yeniledi.",
-        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. İstihdam Faiz ve Paranın Genel Teorisi için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
-        "İstihdam Faiz ve Paranın Genel Teorisi için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+        "İstihdam Faiz ve Paranın Genel Teorisi için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "İstihdam Faiz ve Paranın Genel Teorisi için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek."
       ]
     },
     {
@@ -255,8 +241,8 @@
       "title": "Bugünkü hayata taşınan üç soru",
       "paragraphs": [
         "Tek kişinin akıllı tasarrufu toplum çapında geliri düşürüyor mu? Firma üretim kapasitesine mi satış beklentisine mi bakıyor? Güven çöktüğünde hangi harcama zinciri yeniden başlatılabilir?",
-        "Bu sorular İstihdam Faiz ve Paranın Genel Teorisi için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
-        "İstihdam Faiz ve Paranın Genel Teorisi üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+        "Bu sorular İstihdam Faiz ve Paranın Genel Teorisi için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir.",
+        "İstihdam Faiz ve Paranın Genel Teorisi üzerine cevapların hemen gelmemesi bir eksiklik değildir."
       ]
     },
     {
@@ -265,8 +251,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Ekonomi toplam talep ve yatırım beklentisi yetersiz olduğunda uzun süre eksik üretim ve işsizlikte kalabilir; para, faiz ve kamu politikası bu harcama zincirini yeniden kurmak için önemlidir.",
-        "Akılda kalacak son görüntü, kapalı dükkânlar arasında dolaşan soluk para oklarının, kamu köprüsünden geçince işçi, market ve fabrika ışıklarını yeniden yaktığı mavi bir şehir devresidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
-        "İstihdam Faiz ve Paranın Genel Teorisi adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+        "Akılda kalacak son görüntü, kapalı dükkânlar arasında dolaşan soluk para oklarının, kamu köprüsünden geçince işçi, market ve fabrika ışıklarını yeniden yaktığı mavi bir şehir devresidir.",
+        "İstihdam Faiz ve Paranın Genel Teorisi adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

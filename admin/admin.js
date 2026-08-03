@@ -39,7 +39,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Configuration management
   function loadConfig() {
-    const saved = localStorage.getItem("zg_git_config");
+    const legacySaved = localStorage.getItem("zg_git_config");
+    if (legacySaved) {
+      try {
+        const legacyConfig = JSON.parse(legacySaved);
+        ownerInput.value = legacyConfig.owner || "";
+        repoInput.value = legacyConfig.repo || "";
+      } catch (e) {
+        // Invalid legacy settings are discarded below.
+      }
+      localStorage.removeItem("zg_git_config");
+    }
+
+    const saved = sessionStorage.getItem("zg_git_config");
     if (saved) {
       try {
         config = JSON.parse(saved);
@@ -80,15 +92,15 @@ document.addEventListener("DOMContentLoaded", () => {
       showToast("Lütfen tüm alanları doldurun.");
       return;
     }
-    
+
     config = { owner, repo, token };
-    localStorage.setItem("zg_git_config", JSON.stringify(config));
+    sessionStorage.setItem("zg_git_config", JSON.stringify(config));
     
     syncStatus.textContent = "BAĞLANDI";
     syncStatus.style.color = "#10b981";
     
     hideConfigModal();
-    showToast("Bağlantı ayarları kaydedildi!");
+    showToast("Bağlantı ayarları bu oturum için kaydedildi!");
   });
 
   // Default publication date set to current local time

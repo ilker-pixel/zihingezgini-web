@@ -12,10 +12,9 @@ MORE_BOOKS.append(make_book(
     "Bir insanın iyilik ya da şiddet anını tek bir nedene bağlamayı reddeden; davranıştan bir saniye önceki beyin faaliyetinden çocukluğa, hormonlardan kültüre ve evrime doğru zamanı geriye saran büyük biyoloji hikâyesi.",
     "#53645B", "Behave: The Biology of Humans at Our Best and Worst",
     [
-        {"id": 1, "title": "Robert Sapolsky - Behave", "url": "https://www.robertsapolskyrocks.com/behave"},
-        {"id": 2, "title": "Penguin Random House - Behave", "url": "https://www.penguinrandomhouse.com/books/311787/behave-by-robert-m-sapolsky/"},
-        {"id": 3, "title": "Stanford - Robert Sapolsky", "url": "https://profiles.stanford.edu/robert-sapolsky"},
-        {"id": 4, "title": "Nature Reviews Neuroscience - Stress and the brain", "url": "https://www.nature.com/articles/nrn2639"},
+        {"id": 1, "title": "Penguin Random House - Behave", "url": "https://www.penguinrandomhouse.com/books/311787/behave-by-robert-m-sapolsky/"},
+        {"id": 2, "title": "Stanford - Robert Sapolsky", "url": "https://profiles.stanford.edu/robert-sapolsky"},
+        {"id": 3, "title": "Nature Reviews Neuroscience - Stress and the brain", "url": "https://www.nature.com/articles/nrn2639"},
     ],
     [
         chapter("Bir saniye önce", "BAŞLANGIÇ · ZAMAN MAKİNESİ",

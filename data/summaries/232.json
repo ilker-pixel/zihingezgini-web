@@ -12,8 +12,6 @@
   "chapterArtColor": "#765A73",
   "meta": {
     "originalTitle": "Can the Subaltern Speak?",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Bir toplantıda mevsimlik tarım işçisi konuşur. Uzman onun sözünü istatistiğe, siyasetçi mağdur hikâyesine, şirket iletişim sorunu raporuna çevirir. Ses fiziksel olarak çıkmıştır ama karar alanına kendi anlamıyla ulaşmamıştır. Spivak'ın sorusu 'ses teli çalışıyor mu' değil, söz kim tarafından nasıl duyulur ve temsil edilir sorusudur.",
@@ -46,11 +44,11 @@
       "section": "BAŞLANGIÇ · KAVRAM",
       "title": "Subaltern yalnız azınlık demek değildir",
       "paragraphs": [
-        "Spivak subalterni basitçe sayıca az veya mağdur kişi değil, devlet, piyasa ve temsil kanallarına düzenli erişimi bulunmayan konum olarak ele alır. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Ünlü muhalif sanatçı baskı görebilir ama medyaya ve yayınevine ulaşır; kayıtsız ev işçisi aynı söz dolaşımına sahip değildir. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Subalternlik kimlikten çok hareket, ittifak ve temsil yollarının kesilmesidir; kişi koşullar değişince bu konumdan çıkabilir. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Bütün yoksullar aynı subaltern değildir ve kavram insanların gerçek örgütlenme kapasitesini küçümsememelidir. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir grubun yalnız acısını değil sözünü bütçe, hukuk ve karar alanına taşıyacak kanallarını inceleyin. Subalternlik kişiye yapışan sonsuz kimlik değil, hareket kanallarının yapısal olarak kesildiği ilişkisel konumdur. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Spivak subalterni basitçe sayıca az veya mağdur kişi değil, devlet, piyasa ve temsil kanallarına düzenli erişimi bulunmayan konum olarak ele alır.",
+        "Ünlü muhalif sanatçı baskı görebilir ama medyaya ve yayınevine ulaşır; kayıtsız ev işçisi aynı söz dolaşımına sahip değildir.",
+        "Subalternlik kimlikten çok hareket, ittifak ve temsil yollarının kesilmesidir; kişi koşullar değişince bu konumdan çıkabilir.",
+        "Bütün yoksullar aynı subaltern değildir ve kavram insanların gerçek örgütlenme kapasitesini küçümsememelidir.",
+        "Bir grubun yalnız acısını değil sözünü bütçe, hukuk ve karar alanına taşıyacak kanallarını inceleyin. Subalternlik kişiye yapışan sonsuz kimlik değil, hareket kanallarının yapısal olarak kesildiği ilişkisel konumdur."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "BAŞLANGIÇ · TARİH",
       "title": "Gramsci'den gelen aşağı konum",
       "paragraphs": [
-        "Gramsci egemen sınıfın dışında kalan dağınık grupların tarihinin devlet arşivinde kesintili göründüğünü söyler; Spivak kavramı sömürge ve cinsiyet alanına taşır. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Köylü isyanı resmi kayıtta asayiş olayı, yerel hafızada toprak adaleti olabilir. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Arşivi egemen kurum düzenlediği için aşağı grubun eylemi kendi siyasi diliyle değil yönetimin kategorisiyle kaydolur. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Arşiv bütünüyle yalan değildir; satır arası ve karşı kaynaklarla farklı özne izleri okunabilir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir tarih kaydında eylemi adlandıran kurumla eylemcinin olası talebini ayırın. Arşiv sessizliğini doldururken araştırmacı kendi tahminini subalternin saf sesi diye sunmamalıdır. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Gramsci egemen sınıfın dışında kalan dağınık grupların tarihinin devlet arşivinde kesintili göründüğünü söyler; Spivak kavramı sömürge ve cinsiyet alanına taşır.",
+        "Köylü isyanı resmi kayıtta asayiş olayı, yerel hafızada toprak adaleti olabilir.",
+        "Arşivi egemen kurum düzenlediği için aşağı grubun eylemi kendi siyasi diliyle değil yönetimin kategorisiyle kaydolur.",
+        "Arşiv bütünüyle yalan değildir; satır arası ve karşı kaynaklarla farklı özne izleri okunabilir.",
+        "Bir tarih kaydında eylemi adlandıran kurumla eylemcinin olası talebini ayırın. Arşiv sessizliğini doldururken araştırmacı kendi tahminini subalternin saf sesi diye sunmamalıdır."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "FOUCAULT-DELEUZE · ELEŞTİRİ",
       "title": "İyi niyetli düşünür de merkezi yeniden kurabilir",
       "paragraphs": [
-        "Spivak baskı altındakilerin kendi çıkarını zaten bildiğini ve kuramcının yalnız alan açacağını söyleyen Batılı düşünürlerin kendi temsil rolünü görünmez yaptığını savunur. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Akademisyen 'ben onlar adına konuşmuyorum, mikrofon veriyorum' der ama konuyu, davetliyi, dili ve yayını kendisi seçer. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Şeffaf aracı hayali kurumun seçim ve çeviri gücünü saklar; Batılı özne eleştirilirken sessizce merkezde kalır. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "İnsanlar kendi deneyimini bilir; eleştiri onların bilgisini küçümsemek değil dolaşım koşulunu görünür yapmaktır. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Bir katılım etkinliğinde mikrofon kadar gündem, çeviri, süre ve son kararın kimde olduğunu sorun. Mikrofon verme jesti gündem ve yayın sahipliği değişmedikçe merkezdeki özneyi daha da masum gösterebilir. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Spivak baskı altındakilerin kendi çıkarını zaten bildiğini ve kuramcının yalnız alan açacağını söyleyen Batılı düşünürlerin kendi temsil rolünü görünmez yaptığını savunur.",
+        "Akademisyen 'ben onlar adına konuşmuyorum, mikrofon veriyorum' der ama konuyu, davetliyi, dili ve yayını kendisi seçer.",
+        "Şeffaf aracı hayali kurumun seçim ve çeviri gücünü saklar; Batılı özne eleştirilirken sessizce merkezde kalır.",
+        "İnsanlar kendi deneyimini bilir; eleştiri onların bilgisini küçümsemek değil dolaşım koşulunu görünür yapmaktır.",
+        "Bir katılım etkinliğinde mikrofon kadar gündem, çeviri, süre ve son kararın kimde olduğunu sorun. Mikrofon verme jesti gündem ve yayın sahipliği değişmedikçe merkezdeki özneyi daha da masum gösterebilir."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "FOUCAULT-DELEUZE · ARZU",
       "title": "Arzu kendiliğinden özgür politika değildir",
       "paragraphs": [
-        "Baskı gören kişinin arzusu sistem dışında saf gerçeklik olmayabilir; sömürge, ataerki ve piyasa arzu seçeneklerini de biçimlendirir. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "İşçi tehlikeli işi statü ve aile geçimi için isteyebilir; bu istek koşulların adil olduğunu kanıtlamaz. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Özne güç ilişkilerinin içinde oluşur; söylediklerini dinlemekle seçeneği üreten sınırları araştırmak birlikte gerekir. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Arzuyu sahte saymak paternalizmdir; kişi yerine karar vermeden koşulların darlığı gösterilmelidir. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir tercih açıklamasında gerçek isteği küçümsemeden hangi seçeneklerin hiç sunulmadığını görün. Koşullu tercihi anlamak kişiyi çocuklaştırmadan seçenek kümesinin nasıl kurulduğunu araştırmayı gerektirir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Baskı gören kişinin arzusu sistem dışında saf gerçeklik olmayabilir; sömürge, ataerki ve piyasa arzu seçeneklerini de biçimlendirir.",
+        "İşçi tehlikeli işi statü ve aile geçimi için isteyebilir; bu istek koşulların adil olduğunu kanıtlamaz.",
+        "Özne güç ilişkilerinin içinde oluşur; söylediklerini dinlemekle seçeneği üreten sınırları araştırmak birlikte gerekir.",
+        "Arzuyu sahte saymak paternalizmdir; kişi yerine karar vermeden koşulların darlığı gösterilmelidir.",
+        "Bir tercih açıklamasında gerçek isteği küçümsemeden hangi seçeneklerin hiç sunulmadığını görün. Koşullu tercihi anlamak kişiyi çocuklaştırmadan seçenek kümesinin nasıl kurulduğunu araştırmayı gerektirir."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "MARX · VERTRETEN/DARSTELLEN",
       "title": "Temsilin iki ayrı işi vardır",
       "paragraphs": [
-        "Spivak Marx'taki siyasi olarak vekâlet etme ile sanatsal/bilgisel olarak yeniden sunma anlamlarını ayırır; ikisi sürekli birbirine karışır. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Sendika temsilcisi işçi adına pazarlık eder, belgesel yönetmeni işçinin görüntüsünü kurar; ikisi aynı temsil değildir. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Vekâlet yetki ve hesap, yeniden sunum dil ve çerçeve sorunu taşır; görüntü siyasi yetki gibi davranabilir. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Temsil kaçınılmaz ve bazen gereklidir; sorun kendi aracılığını inkâr edip kişinin saf sesi olduğunu iddia etmesidir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Bir sözcünün kime hesap verdiğini, bir anlatıcının hangi seçimlerle görüntü kurduğunu ayrı sorun. Vertreten ile Darstellung ayrımı siyasi hesap verebilirlik ve anlatısal çerçeve sorunlarını birbirine ezdirmemeyi sağlar. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Spivak Marx'taki siyasi olarak vekâlet etme ile sanatsal/bilgisel olarak yeniden sunma anlamlarını ayırır; ikisi sürekli birbirine karışır.",
+        "Sendika temsilcisi işçi adına pazarlık eder, belgesel yönetmeni işçinin görüntüsünü kurar; ikisi aynı temsil değildir.",
+        "Vekâlet yetki ve hesap, yeniden sunum dil ve çerçeve sorunu taşır; görüntü siyasi yetki gibi davranabilir.",
+        "Temsil kaçınılmaz ve bazen gereklidir; sorun kendi aracılığını inkâr edip kişinin saf sesi olduğunu iddia etmesidir.",
+        "Bir sözcünün kime hesap verdiğini, bir anlatıcının hangi seçimlerle görüntü kurduğunu ayrı sorun. Vertreten ile Darstellung ayrımı siyasi hesap verebilirlik ve anlatısal çerçeve sorunlarını birbirine ezdirmemeyi sağlar."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "DÜNYA SİSTEMİ · EMEK",
       "title": "Uluslararası işbölümü sesi uzaklaştırır",
       "paragraphs": [
-        "Küresel üretimde en düşük ücretli kadın emeği tüketici ve karar merkezinden uzaklaştıkça deneyimin siyasi görünürlüğü azalır. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Markanın reklamında özgür çalışan kadın görünür, taşeron atölyedeki uzun mesai ve sendika engeli sözleşme katmanlarında kaybolur. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Tedarik zinciri sorumluluğu böler; işçinin talebi yerel patron, devlet ve küresel şirket arasında geri gönderilir. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Küresel iş işçiye gelir ve hareket alanı sağlayabilir; soru kazanç, risk ve söz hakkının nasıl dağıldığıdır. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir ürünün fiyat etiketinden üretim yerine gidip işçinin hangi kuruma itiraz edebildiğini izleyin. Küresel zincirde görünmezlik fiziksel uzaklıktan çok sorumluluğun sözleşmeler arasında parçalanmasıyla büyür. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Küresel üretimde en düşük ücretli kadın emeği tüketici ve karar merkezinden uzaklaştıkça deneyimin siyasi görünürlüğü azalır.",
+        "Markanın reklamında özgür çalışan kadın görünür, taşeron atölyedeki uzun mesai ve sendika engeli sözleşme katmanlarında kaybolur.",
+        "Tedarik zinciri sorumluluğu böler; işçinin talebi yerel patron, devlet ve küresel şirket arasında geri gönderilir.",
+        "Küresel iş işçiye gelir ve hareket alanı sağlayabilir; soru kazanç, risk ve söz hakkının nasıl dağıldığıdır.",
+        "Bir ürünün fiyat etiketinden üretim yerine gidip işçinin hangi kuruma itiraz edebildiğini izleyin. Küresel zincirde görünmezlik fiziksel uzaklıktan çok sorumluluğun sözleşmeler arasında parçalanmasıyla büyür."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "SÖMÜRGE · BİLGİ",
       "title": "Epistemik şiddet dünyayı tanımlar",
       "paragraphs": [
-        "Sömürge yönetimi yalnız fiziksel zor kullanmaz; yerel toplumun kavramlarını anlaşılmaz, irrasyonel veya geçmişe ait sayarak kendini tek bilen özne yapar. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Kadının arazi üzerindeki ortak kullanım hakkı tapu formuna uymadığı için hukuken yokmuş gibi işlem görür. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Yönetim kendi kategorisini gerçekliğin tek biçimi yapar; tercüme edilemeyen ilişki karar alanından silinir. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Yerel uygulama eleştiriden muaf değildir; epistemik adalet her iddiayı eşit kanıtla sınamayı gerektirir. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Bir politika formunun hangi yaşam biçimini kutuya sığmadığı için görünmez yaptığını sorun. Epistemik şiddet başka bilgiyi yalnız reddetmez, onu kendi dilinde tanınamaz hale getirir. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Sömürge yönetimi yalnız fiziksel zor kullanmaz; yerel toplumun kavramlarını anlaşılmaz, irrasyonel veya geçmişe ait sayarak kendini tek bilen özne yapar.",
+        "Kadının arazi üzerindeki ortak kullanım hakkı tapu formuna uymadığı için hukuken yokmuş gibi işlem görür.",
+        "Yönetim kendi kategorisini gerçekliğin tek biçimi yapar; tercüme edilemeyen ilişki karar alanından silinir.",
+        "Yerel uygulama eleştiriden muaf değildir; epistemik adalet her iddiayı eşit kanıtla sınamayı gerektirir.",
+        "Bir politika formunun hangi yaşam biçimini kutuya sığmadığı için görünmez yaptığını sorun. Epistemik şiddet başka bilgiyi yalnız reddetmez, onu kendi dilinde tanınamaz hale getirir."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "TARİH · AŞAĞIDAN",
       "title": "Subaltern Çalışmaları arşivi ters okur",
       "paragraphs": [
-        "Güney Asya Subaltern Çalışmaları seçkin milliyetçi tarih yerine köylü ve alt grupların bağımsız siyasi eylemini arşivde görünür kılmaya çalıştı. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Resmi rapordaki yağma sözcüğü köylü için borç belgesini yok etme ve adalet eylemi olabilir. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Araştırmacı yönetimin kategorisini ters çevirip eylemdeki bilinç ve örgüt izini bulur. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Eyleme tek ve saf subaltern bilinci atfetmek iç farklılıkları ve araştırmacının yorumunu saklayabilir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Bir isyan kaydında kalabalığın yalnız tepkisini değil hedef seçimi ve örgüt biçimini inceleyin. Aşağıdan tarih yönetim belgesini çöpe atmaz, belgenin korku ve sınıflandırmasından eylem izlerini söker. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Güney Asya Subaltern Çalışmaları seçkin milliyetçi tarih yerine köylü ve alt grupların bağımsız siyasi eylemini arşivde görünür kılmaya çalıştı.",
+        "Resmi rapordaki yağma sözcüğü köylü için borç belgesini yok etme ve adalet eylemi olabilir.",
+        "Araştırmacı yönetimin kategorisini ters çevirip eylemdeki bilinç ve örgüt izini bulur.",
+        "Eyleme tek ve saf subaltern bilinci atfetmek iç farklılıkları ve araştırmacının yorumunu saklayabilir.",
+        "Bir isyan kaydında kalabalığın yalnız tepkisini değil hedef seçimi ve örgüt biçimini inceleyin. Aşağıdan tarih yönetim belgesini çöpe atmaz, belgenin korku ve sınıflandırmasından eylem izlerini söker."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "CİNSİYET · KESİŞİM",
       "title": "Subaltern kadın iki kez silinir",
       "paragraphs": [
-        "Sömürge ile yerli patriyarka çatışırken yoksul kadının sözü iki tarafın kendi meşruiyet hikâyesine araç olabilir. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Sömürge yönetimi kadını kurtardığını, yerli seçkin geleneği koruduğunu söyler; kadın hangi hayatı istediğini söyleyecek kuruma sahip değildir. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Irk, sınıf ve cinsiyet tek tek eklenmekten çok temsil konumunu birlikte kapatır. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Kadınlar yalnız mağdur değildir; örgüt, kaçış ve gündelik pazarlık yapar, fakat bu eylem arşivde tanınmayabilir. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir tartışmada kadın adına konuşan iki gücün de ona hangi somut karar yetkisini verdiğini sorun. Subaltern kadın tek bir sessizlik yaşamaz; iki rakip egemenlik anlatısında farklı biçimlerde araçlaştırılır. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Sömürge ile yerli patriyarka çatışırken yoksul kadının sözü iki tarafın kendi meşruiyet hikâyesine araç olabilir.",
+        "Sömürge yönetimi kadını kurtardığını, yerli seçkin geleneği koruduğunu söyler; kadın hangi hayatı istediğini söyleyecek kuruma sahip değildir.",
+        "Irk, sınıf ve cinsiyet tek tek eklenmekten çok temsil konumunu birlikte kapatır.",
+        "Kadınlar yalnız mağdur değildir; örgüt, kaçış ve gündelik pazarlık yapar, fakat bu eylem arşivde tanınmayabilir.",
+        "Bir tartışmada kadın adına konuşan iki gücün de ona hangi somut karar yetkisini verdiğini sorun. Subaltern kadın tek bir sessizlik yaşamaz; iki rakip egemenlik anlatısında farklı biçimlerde araçlaştırılır."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "SATI · SÖMÜRGE ANLATISI",
       "title": "Sati tartışmasında iki büyük cümle",
       "paragraphs": [
-        "İngiliz sömürge söylemi dul yakmayı yasaklamayı beyaz erkeklerin kahverengi kadınları kahverengi erkeklerden kurtarması hikâyesine çevirdi. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Yasak gerçek yaşam kurtarabilir, aynı zamanda imparatorluğu ahlaki kahraman yapıp başka şiddetlerini görünmez kılabilir. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Reformun sonucu ile kendini anlatma biçimi ayrılır; kadın korunan nesne olarak kalır. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Sömürge karşıtlığı kadınların zararını geleneğe saygı adına inkâr etmemelidir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bir insan hakları müdahalesinde gerçek korumayla müdahalecinin kahramanlık anlatısını ayrı değerlendirin. Kurtarma eylemi gerekli olabilir, fakat kurtarılanın siyasi özne değil minnet nesnesi yapılması sorgulanmalıdır. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "İngiliz sömürge söylemi dul yakmayı yasaklamayı beyaz erkeklerin kahverengi kadınları kahverengi erkeklerden kurtarması hikâyesine çevirdi.",
+        "Yasak gerçek yaşam kurtarabilir, aynı zamanda imparatorluğu ahlaki kahraman yapıp başka şiddetlerini görünmez kılabilir.",
+        "Reformun sonucu ile kendini anlatma biçimi ayrılır; kadın korunan nesne olarak kalır.",
+        "Sömürge karşıtlığı kadınların zararını geleneğe saygı adına inkâr etmemelidir.",
+        "Bir insan hakları müdahalesinde gerçek korumayla müdahalecinin kahramanlık anlatısını ayrı değerlendirin. Kurtarma eylemi gerekli olabilir, fakat kurtarılanın siyasi özne değil minnet nesnesi yapılması sorgulanmalıdır."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "SATI · YERLİ ANLATISI",
       "title": "Gelenek savunusu da kadını susturabilir",
       "paragraphs": [
-        "Sömürgeci eleştiriye cevap veren yerli patriyarka kadınların zaten fedakârlığı istediğini söyleyerek kadın arzusunu tek gelenek sesine indirger. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Aile bir geleneği gönüllü sayar, o geleneği reddeden kişinin yaşayacağı dışlanmayı hesaba katmaz. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Rıza seçenek, bilgi ve geri çekilme hakkı olmadan gelenek tarafından önceden yazılmış olabilir. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "İnsanlar inanç uğruna zor seçim yapabilir; eleştiri her bağlılığı sahte saymadan özgür ret imkânını araştırır. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Bir rıza iddiasında hayır diyen kişinin güvenlik ve aidiyet kaybını sorun. Rıza ancak kişinin hayır diyebildiği, alternatif bilgiye ve yaşama sahip olduğu koşulda güçlü anlam taşır. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Sömürgeci eleştiriye cevap veren yerli patriyarka kadınların zaten fedakârlığı istediğini söyleyerek kadın arzusunu tek gelenek sesine indirger.",
+        "Aile bir geleneği gönüllü sayar, o geleneği reddeden kişinin yaşayacağı dışlanmayı hesaba katmaz.",
+        "Rıza seçenek, bilgi ve geri çekilme hakkı olmadan gelenek tarafından önceden yazılmış olabilir.",
+        "İnsanlar inanç uğruna zor seçim yapabilir; eleştiri her bağlılığı sahte saymadan özgür ret imkânını araştırır.",
+        "Bir rıza iddiasında hayır diyen kişinin güvenlik ve aidiyet kaybını sorun. Rıza ancak kişinin hayır diyebildiği, alternatif bilgiye ve yaşama sahip olduğu koşulda güçlü anlam taşır."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "SATI · ÇİFTE BAĞ",
       "title": "İki hikâye arasında kadın kaybolur",
       "paragraphs": [
-        "Sömürgeci kurtarma ile yerli gelenek savunusu birbirine karşı görünür ama ikisi de kadını kendi siyasi öznesi değil simge yapabilir. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Tartışma imparatorluk mu kültür mü diye kurulur; dul kadının mülkiyet, bakım ve yaşam seçenekleri gündem dışı kalır. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "İkili çerçeve üçüncü sözü tanınamaz kılar; konuşma iki hazır role tercüme edilir. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Dış müdahale ve yerel mücadele arasında yalnız iki seçenek yoktur; kadın örgütlerinin kendi talepleri merkez olabilir. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Bir kutuplaşmada iki tarafın da sormadığı maddi soruyu bulun. İki kutbu reddetmek kültürel görecilik değil, kadınların somut hak ve taleplerini üçüncü merkez yapmak demektir. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Sömürgeci kurtarma ile yerli gelenek savunusu birbirine karşı görünür ama ikisi de kadını kendi siyasi öznesi değil simge yapabilir.",
+        "Tartışma imparatorluk mu kültür mü diye kurulur; dul kadının mülkiyet, bakım ve yaşam seçenekleri gündem dışı kalır.",
+        "İkili çerçeve üçüncü sözü tanınamaz kılar; konuşma iki hazır role tercüme edilir.",
+        "Dış müdahale ve yerel mücadele arasında yalnız iki seçenek yoktur; kadın örgütlerinin kendi talepleri merkez olabilir.",
+        "Bir kutuplaşmada iki tarafın da sormadığı maddi soruyu bulun. İki kutbu reddetmek kültürel görecilik değil, kadınların somut hak ve taleplerini üçüncü merkez yapmak demektir."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "ÖRNEK · BHUVANESWARI",
       "title": "Bhuvaneswari'nin mesajı neden okunmadı?",
       "paragraphs": [
-        "Genç Bhuvaneswari Bhaduri intiharının yasak ilişki hamileliği diye okunmaması için regl dönemini bekledi, fakat siyasi eylemle bağlantılı mesajı yine toplumsal anlatıda kayboldu. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Bedensel işaret hazır kadınlık hikâyesini bozmak için bırakılır, aile ve sonraki kuşaklar olayı yine aşk ve utanç çerçevesine çeker. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Söz yalnız cümle değildir; işaretin anlaşılması için kabul eden yorum topluluğu gerekir. Kod yoksa mesaj eski kalıba emilir. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Tek bir ölüm bütün subaltern kadınları temsil etmez ve kişinin niyetini kesin olarak bütünüyle bilemeyiz. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Bir olayın kanıtı hazır klişeye uymadığında kurumun klişeyi mi, yorumunu mu değiştirdiğine bakın. Bhuvaneswari örneği niyetin kendi başına yeterli olmadığını, yorum kurumunun mesajı yeniden yazabildiğini gösterir. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Genç Bhuvaneswari Bhaduri intiharının yasak ilişki hamileliği diye okunmaması için regl dönemini bekledi, fakat siyasi eylemle bağlantılı mesajı yine toplumsal anlatıda kayboldu.",
+        "Bedensel işaret hazır kadınlık hikâyesini bozmak için bırakılır, aile ve sonraki kuşaklar olayı yine aşk ve utanç çerçevesine çeker.",
+        "Söz yalnız cümle değildir; işaretin anlaşılması için kabul eden yorum topluluğu gerekir. Kod yoksa mesaj eski kalıba emilir.",
+        "Tek bir ölüm bütün subaltern kadınları temsil etmez ve kişinin niyetini kesin olarak bütünüyle bilemeyiz.",
+        "Bir olayın kanıtı hazır klişeye uymadığında kurumun klişeyi mi, yorumunu mu değiştirdiğine bakın. Bhuvaneswari örneği niyetin kendi başına yeterli olmadığını, yorum kurumunun mesajı yeniden yazabildiğini gösterir."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "BAŞLIK · UPTAKE",
       "title": "Konuşamamak ses çıkaramamak değildir",
       "paragraphs": [
-        "Makaledeki sert sonuç, subaltern kişinin kelime üretememesi değil sözünün egemen bilgi ve temsil düzeninde kendi siyasi konumuyla tanınamamasıdır. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "İşçi toplantıda konuşur, tutanak sözünü duygusal yakınma diye özetler; karar yalnız uzman raporuna dayanır. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Konuşma dinlenme, kayda geçme, karşılık ve sonuç üretme zinciridir; zincirin kopması sesi gürültüye çevirir. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "'Asla konuşamaz' sözü yeni çaresizlik dogmasına dönüşmemeli; kurum ve örgüt değişince konum değişebilir. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Katılımı mikrofon sayısıyla değil sözün karara giden izini takip ederek ölçün. Uptake yokluğu sözün varlığını değil, kamusal anlam ve sonuç üretme kapasitesini keser. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Makaledeki sert sonuç, subaltern kişinin kelime üretememesi değil sözünün egemen bilgi ve temsil düzeninde kendi siyasi konumuyla tanınamamasıdır.",
+        "İşçi toplantıda konuşur, tutanak sözünü duygusal yakınma diye özetler; karar yalnız uzman raporuna dayanır.",
+        "Konuşma dinlenme, kayda geçme, karşılık ve sonuç üretme zinciridir; zincirin kopması sesi gürültüye çevirir.",
+        "'Asla konuşamaz' sözü yeni çaresizlik dogmasına dönüşmemeli; kurum ve örgüt değişince konum değişebilir.",
+        "Katılımı mikrofon sayısıyla değil sözün karara giden izini takip ederek ölçün. Uptake yokluğu sözün varlığını değil, kamusal anlam ve sonuç üretme kapasitesini keser."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "SORUMLULUK · UNLEARNING",
       "title": "Entelektüel ayrıcalığını öğrenerek bırakır",
       "paragraphs": [
-        "Spivak iyi niyetli uzmanın kendi bilgi ayrıcalığını görünmez kılmak yerine onu öğrenmesi, sınırlaması ve temsil hesabı vermesi gerektiğini söyler. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Araştırmacı köylü kadınlardan veri alıp makalede onları adsız örnek yapmaz; soruyu, çeviriyi ve sonucu onlarla tartışır. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Ayrıcalığı öğrenmek suçluluk gösterisi değil erişim, ücret, atıf ve karar gücünü yeniden düzenleyen pratik olur. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Uzman tamamen geri çekilirse kaynak yine güçlü kuruma kalabilir; sorumlu aracılık gereklidir. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Bir projede konuşma ücreti, çeviri, veri sahipliği ve veto hakkının kimde olduğunu yazın. Ayrıcalığı unutmak mümkün değildir; veri ve temsil ilişkisini yeniden düzenlemek mümkündür. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Spivak iyi niyetli uzmanın kendi bilgi ayrıcalığını görünmez kılmak yerine onu öğrenmesi, sınırlaması ve temsil hesabı vermesi gerektiğini söyler.",
+        "Araştırmacı köylü kadınlardan veri alıp makalede onları adsız örnek yapmaz; soruyu, çeviriyi ve sonucu onlarla tartışır.",
+        "Ayrıcalığı öğrenmek suçluluk gösterisi değil erişim, ücret, atıf ve karar gücünü yeniden düzenleyen pratik olur.",
+        "Uzman tamamen geri çekilirse kaynak yine güçlü kuruma kalabilir; sorumlu aracılık gereklidir.",
+        "Bir projede konuşma ücreti, çeviri, veri sahipliği ve veto hakkının kimde olduğunu yazın. Ayrıcalığı unutmak mümkün değildir; veri ve temsil ilişkisini yeniden düzenlemek mümkündür."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SONUÇ · PRATİK",
       "title": "Dinlemek kurum kurmayı gerektirir",
       "paragraphs": [
-        "Subaltern konuşma sorunu yalnız daha dikkatli bireysel kulakla çözülmez; örgüt, eğitim, hukuki statü ve ekonomik hareketlilik kanalları gerekir. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Ev işçileri yalnız hikâye etkinliği değil sendika, güvenli şikâyet hattı ve sözleşme hakkı kurduğunda sözleri karar gücü kazanır. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Temsil zinciri hesap verebilir hale gelir, kişiler subaltern konumdan siyasi özne konumuna hareket eder. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Kurumsallaşma yeni sözcüler ve dışlamalar yaratabilir; yapı sürekli öz eleştiriye açık olmalıdır. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir dinleme projesinin ertesi gün hangi bütçe, kural veya yetkiyi değiştirdiğini sorun. Sürdürülebilir dinleme kişiyi proje nesnesinden bütçe ve kural üzerinde etkili ortak özneye taşır. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Subaltern konuşma sorunu yalnız daha dikkatli bireysel kulakla çözülmez; örgüt, eğitim, hukuki statü ve ekonomik hareketlilik kanalları gerekir.",
+        "Ev işçileri yalnız hikâye etkinliği değil sendika, güvenli şikâyet hattı ve sözleşme hakkı kurduğunda sözleri karar gücü kazanır.",
+        "Temsil zinciri hesap verebilir hale gelir, kişiler subaltern konumdan siyasi özne konumuna hareket eder.",
+        "Kurumsallaşma yeni sözcüler ve dışlamalar yaratabilir; yapı sürekli öz eleştiriye açık olmalıdır.",
+        "Bir dinleme projesinin ertesi gün hangi bütçe, kural veya yetkiyi değiştirdiğini sorun. Sürdürülebilir dinleme kişiyi proje nesnesinden bütçe ve kural üzerinde etkili ortak özneye taşır."
       ]
     },
     {

@@ -51,7 +51,7 @@ SPECS = [
     "reading_note": "Kitap iki parçalıdır: önce çocukluğun matbaa ve okulla doğuşunu, sonra telgraf, fotoğraf ve özellikle televizyonla çözülüşünü anlatır. Rehber tezi bugünün telefon ve sosyal medya dünyasına taşır ama 1982 metnine sonradan olmuş şeyleri söyletmez.",
     "opening_scene": "Basılı kitabın sırrına ulaşmak için harfleri öğrenmek, yıllarca okulda ilerlemek gerekir. Televizyon görüntüsü ise okuma bilmeyen çocuğa da yetişkinle aynı anda ulaşır. Postman'ın bütün hikâyesi bu erişim farkından doğar.",
     "sources": [
-        {"id": 1, "title": "Neil Postman - The Disappearance of Childhood", "url": "https://neilpostman.org/books/the-disappearance-of-childhood.html"},
+        {"id": 1, "title": "Google Books - The Disappearance of Childhood", "url": "https://books.google.com/books/about/The_Disappearance_of_Childhood.html?id=wfaMtAEACAAJ"},
         {"id": 2, "title": "Penguin Random House - The Disappearance of Childhood", "url": "https://www.penguinrandomhouse.com/books/132785/the-disappearance-of-childhood-by-neil-postman/"},
     ],
     "chapters": [

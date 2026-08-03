@@ -12,8 +12,6 @@
   "chapterArtColor": "#467A72",
   "meta": {
     "originalTitle": "Steps to an Ecology of Mind",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Gregory Bateson'ın 1972 tarihli kitabı tek çizgide yazılmış bir tez değil, antropoloji, psikiyatri, evrim, iletişim ve sibernetik üzerine yıllara yayılan denemelerin altı parçalı seçkisidir: metaloglar, antropolojide biçim ve örüntü, ilişkide patoloji, biyoloji ve evrim, epistemoloji ve ekoloji, zihin ekolojisinin krizi. Rehber bu parçalı yapıyı saklamaz.",
@@ -46,11 +44,11 @@
       "section": "GİRİŞ · SEÇKİ",
       "title": "Kitap bir yol değil basamaklar takımıdır",
       "paragraphs": [
-        "Bateson farklı yıllarda yazdığı konuşma ve denemeleri, aynı örüntü düşüncesinin kültürden psikiyatriye, evrimden ekolojiye nasıl geçtiğini gösterecek biçimde toplar. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Okur bir bölümde babayla kızın oyunlu konuşmasını, ötekinde Bali törenini, sonra alkol bağımlılığı ve yunus iletişimini görür. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Alan değişir ama ilişki, fark, bağlam, geri bildirim ve öğrenme düzeyi soruları tekrar eder. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Seçkiyi sonradan kusursuz kurulmuş tek sistem sanmak metinler arasındaki değişim ve gerilimi gizler. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Bir kavramın üç ayrı alanda aynı kaldığı ve anlam değiştirdiği noktaları yan yana yazın. Seçkinin bütünlüğü tek doğrusal savdan değil aynı ilişkinin farklı alanlarda yeniden görülmesinden doğar. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Bateson farklı yıllarda yazdığı konuşma ve denemeleri, aynı örüntü düşüncesinin kültürden psikiyatriye, evrimden ekolojiye nasıl geçtiğini gösterecek biçimde toplar.",
+        "Okur bir bölümde babayla kızın oyunlu konuşmasını, ötekinde Bali törenini, sonra alkol bağımlılığı ve yunus iletişimini görür.",
+        "Alan değişir ama ilişki, fark, bağlam, geri bildirim ve öğrenme düzeyi soruları tekrar eder.",
+        "Seçkiyi sonradan kusursuz kurulmuş tek sistem sanmak metinler arasındaki değişim ve gerilimi gizler.",
+        "Bir kavramın üç ayrı alanda aynı kaldığı ve anlam değiştirdiği noktaları yan yana yazın. Seçkinin bütünlüğü tek doğrusal savdan değil aynı ilişkinin farklı alanlarda yeniden görülmesinden doğar."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "BİRİNCİ KISIM · METALOG",
       "title": "Metalog biçimi anlattığı sorunu canlandırır",
       "paragraphs": [
-        "Metalog yalnız bir konu hakkında konuşma değil, konuşmanın biçiminin de konuya örnek olduğu baba-kız diyaloğudur. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "'Neden işler karışır?' diye soran kızın masadaki kâğıtları dağıtması, düzen ve dağınıklık konuşmasını bizzat dağınık hale getirir. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "İçerik ile ilişki düzeyi aynı anda işler; okur cevabı değil düşünmenin hareketini izler. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Oyunlu biçim her kavramı açık kanıtla sonuçlandırmaz ve bazı okurlar için gereksiz bilmece yaratabilir. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Birine bir şeyi öğretirken kullandığınız yöntemin söylediğiniz değerle çelişip çelişmediğine bakın. Metalog cevap öğretmek kadar öğrenme ilişkisinin nasıl kurulduğunu gösterir. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Metalog yalnız bir konu hakkında konuşma değil, konuşmanın biçiminin de konuya örnek olduğu baba-kız diyaloğudur.",
+        "'Neden işler karışır?' diye soran kızın masadaki kâğıtları dağıtması, düzen ve dağınıklık konuşmasını bizzat dağınık hale getirir.",
+        "İçerik ile ilişki düzeyi aynı anda işler; okur cevabı değil düşünmenin hareketini izler.",
+        "Oyunlu biçim her kavramı açık kanıtla sonuçlandırmaz ve bazı okurlar için gereksiz bilmece yaratabilir.",
+        "Birine bir şeyi öğretirken kullandığınız yöntemin söylediğiniz değerle çelişip çelişmediğine bakın. Metalog cevap öğretmek kadar öğrenme ilişkisinin nasıl kurulduğunu gösterir."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "METALOG · ENTROPİ",
       "title": "Düzenin çok, dağınıklığın sayısız yolu vardır",
       "paragraphs": [
-        "Bir masa belirli düzen kurallarından biriyle toplu görünür, dağınık görünmenin ise neredeyse sınırsız biçimi vardır; düzen açıklama ve enerji ister. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Çorapların çiftler halinde çekmecede durması tek plan ister, odanın her noktasına rastgele dağılması binlerce olasılıkla oluşur. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Kısıt bazı seçenekleri eler, örüntü olasılık alanını daraltır ve bilgi bu farkta görünür. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "İnsan düzeni yalnız fiziksel entropiyle açıklanamaz; anlam ve kültürel beklenti hangi dizilişi düzen saydığımızı belirler. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Dağınık dediğiniz bir yerin gerçekten işlevsiz mi, yalnız sizin kuralınıza uymuyor mu olduğunu sorun. Düzen kısıtla oluşur; hangi kısıtın anlamlı olduğunu sistemin amacı ve katılımcıları belirler. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Bir masa belirli düzen kurallarından biriyle toplu görünür, dağınık görünmenin ise neredeyse sınırsız biçimi vardır; düzen açıklama ve enerji ister.",
+        "Çorapların çiftler halinde çekmecede durması tek plan ister, odanın her noktasına rastgele dağılması binlerce olasılıkla oluşur.",
+        "Kısıt bazı seçenekleri eler, örüntü olasılık alanını daraltır ve bilgi bu farkta görünür.",
+        "İnsan düzeni yalnız fiziksel entropiyle açıklanamaz; anlam ve kültürel beklenti hangi dizilişi düzen saydığımızı belirler.",
+        "Dağınık dediğiniz bir yerin gerçekten işlevsiz mi, yalnız sizin kuralınıza uymuyor mu olduğunu sorun. Düzen kısıtla oluşur; hangi kısıtın anlamlı olduğunu sistemin amacı ve katılımcıları belirler."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "EPİSTEMOLOJİ · BİLGİ",
       "title": "Bilgi fark yaratan farktır",
       "paragraphs": [
-        "Bateson bilgiyi maddi nesne gibi değil, alıcı sistemde bir değişiklik üreten fark olarak tanımlar. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Ağaç gövdesindeki halka orada durur; ormancı onu yaş ve kuraklık işareti olarak okuyabildiğinde fark kararını değiştirir. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Dışarıdaki ayrım algılayan devreye girer, başka seçenekleri eler ve davranışta sonuç üretir. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Her fark herkes için bilgi değildir; alıcının yapısı, sorusu ve hata payı belirleyicidir. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Bugün gördüğünüz bir verinin hangi kararı gerçekten değiştirdiğini, hangisinin yalnız gürültü olduğunu ayırın. Fark alıcıda davranış değiştirmiyorsa veri olabilir ama o devre için bilgi değildir. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Bateson bilgiyi maddi nesne gibi değil, alıcı sistemde bir değişiklik üreten fark olarak tanımlar.",
+        "Ağaç gövdesindeki halka orada durur; ormancı onu yaş ve kuraklık işareti olarak okuyabildiğinde fark kararını değiştirir.",
+        "Dışarıdaki ayrım algılayan devreye girer, başka seçenekleri eler ve davranışta sonuç üretir.",
+        "Her fark herkes için bilgi değildir; alıcının yapısı, sorusu ve hata payı belirleyicidir.",
+        "Bugün gördüğünüz bir verinin hangi kararı gerçekten değiştirdiğini, hangisinin yalnız gürültü olduğunu ayırın. Fark alıcıda davranış değiştirmiyorsa veri olabilir ama o devre için bilgi değildir."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "İLETİŞİM · ÇERÇEVE",
       "title": "Bağlam mesajın ne olduğunu belirler",
       "paragraphs": [
-        "Aynı hareket oyun, tehdit, şaka veya tören içinde başka mesaj taşır; iletişim yalnız işareti değil işaretin hangi çerçevede olduğunu da bildirir. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "İki köpek diş göstererek boğuşur; oyun ısırığı hareketi saldırıya benzer ama beden ve ilişki 'bu oyundur' üst mesajını verir. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Meta-iletişim alıcıya işareti hangi düzeyde yorumlayacağını söyler ve davranışın sonucunu değiştirir. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Bağlam sınırsız yorum bahanesi değildir; beden yarası ve açık güç farkı 'şakaydı' sözüyle silinemez. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir yanlış anlaşılmada cümlenin içeriğiyle ilişkinin verdiği üst mesajı ayrı yazın. Meta-iletişim, sözün sözlük anlamından daha güçlü ilişki mesajı taşıyabilir. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Aynı hareket oyun, tehdit, şaka veya tören içinde başka mesaj taşır; iletişim yalnız işareti değil işaretin hangi çerçevede olduğunu da bildirir.",
+        "İki köpek diş göstererek boğuşur; oyun ısırığı hareketi saldırıya benzer ama beden ve ilişki 'bu oyundur' üst mesajını verir.",
+        "Meta-iletişim alıcıya işareti hangi düzeyde yorumlayacağını söyler ve davranışın sonucunu değiştirir.",
+        "Bağlam sınırsız yorum bahanesi değildir; beden yarası ve açık güç farkı 'şakaydı' sözüyle silinemez.",
+        "Bir yanlış anlaşılmada cümlenin içeriğiyle ilişkinin verdiği üst mesajı ayrı yazın. Meta-iletişim, sözün sözlük anlamından daha güçlü ilişki mesajı taşıyabilir."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "İKİNCİ KISIM · KÜLTÜR",
       "title": "Şismogenez ilişkiyi giderek büyüten döngüdür",
       "paragraphs": [
-        "Şismogenez, tarafların karşılıklı tepkilerinin simetrik rekabet veya tamamlayıcı üstünlük-boyun eğme biçiminde giderek sertleşmesidir. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "İki komşu daha gösterişli düğünle yarışırsa simetrik; biri emrettikçe öteki daha çok susarsa tamamlayıcı tırmanış doğar. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Her tepki ötekinin sonraki davranışını besler, küçük fark geri bildirimle ilişki düzenine dönüşür. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Simetrik eşitlik veya tamamlayıcı rol her zaman patolojik değildir; dengeleyici süreç ve çıkış yolu önemlidir. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir ilişkide tekrar eden hareketinizin karşı tarafta hangi tepkiyi büyüttüğünü döngü şeklinde çizin. Tırmanan ilişkiyi düzeltmek karşı tarafı yenmekten önce kendi geri bildirimimizi değiştirmeyi gerektirir. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Şismogenez, tarafların karşılıklı tepkilerinin simetrik rekabet veya tamamlayıcı üstünlük-boyun eğme biçiminde giderek sertleşmesidir.",
+        "İki komşu daha gösterişli düğünle yarışırsa simetrik; biri emrettikçe öteki daha çok susarsa tamamlayıcı tırmanış doğar.",
+        "Her tepki ötekinin sonraki davranışını besler, küçük fark geri bildirimle ilişki düzenine dönüşür.",
+        "Simetrik eşitlik veya tamamlayıcı rol her zaman patolojik değildir; dengeleyici süreç ve çıkış yolu önemlidir.",
+        "Bir ilişkide tekrar eden hareketinizin karşı tarafta hangi tepkiyi büyüttüğünü döngü şeklinde çizin. Tırmanan ilişkiyi düzeltmek karşı tarafı yenmekten önce kendi geri bildirimimizi değiştirmeyi gerektirir."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "İKİNCİ KISIM · DURAĞAN DURUM",
       "title": "Bali toplumu doruk yerine denge arar",
       "paragraphs": [
-        "Bateson ve Mead Bali örneklerinde rekabetin sürekli tırmanmadığı, ritüel ve çocuk yetiştirme yoluyla dengeli bir toplumsal örüntünün korunduğunu öne sürer. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Tören yoğun heyecanı büyük zafer patlamasına götürmek yerine tekrar ve biçim içinde dağıtır; ilişki belirli eşikte sakinleşir. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Kültürel öğrenme geri bildirimi sınırlar, simetrik yarışın büyümesini engeller ve durağan denge üretir. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Antropologun Bali'yi tek dengeli sistem gibi sunması iç çatışma ve tarihsel değişimi romantikleştirebilir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Başarıyı sürekli yükseliş değil sürdürülebilir denge olarak ölçebileceğiniz bir alan seçin. Denge, ilerlemesizlik değil sistemi kendi sınırları içinde sürdürebilme başarısı olabilir. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Bateson ve Mead Bali örneklerinde rekabetin sürekli tırmanmadığı, ritüel ve çocuk yetiştirme yoluyla dengeli bir toplumsal örüntünün korunduğunu öne sürer.",
+        "Tören yoğun heyecanı büyük zafer patlamasına götürmek yerine tekrar ve biçim içinde dağıtır; ilişki belirli eşikte sakinleşir.",
+        "Kültürel öğrenme geri bildirimi sınırlar, simetrik yarışın büyümesini engeller ve durağan denge üretir.",
+        "Antropologun Bali'yi tek dengeli sistem gibi sunması iç çatışma ve tarihsel değişimi romantikleştirebilir.",
+        "Başarıyı sürekli yükseliş değil sürdürülebilir denge olarak ölçebileceğiniz bir alan seçin. Denge, ilerlemesizlik değil sistemi kendi sınırları içinde sürdürebilme başarısı olabilir."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "İKİNCİ KISIM · SANAT",
       "title": "Sanatta zarafet bilinç ile bilinçdışını bağlar",
       "paragraphs": [
-        "Bateson sanatın yalnız temsil ettiği nesnede değil, parçalar arasındaki örüntü ve sanatçının bilinçli amacıyla daha geniş zihinsel süreç arasındaki bağda bilgi taşıdığını savunur. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Bir desen tek balığı göstermez; tekrar ve boşluk su, hareket ve topluluk duygusunu birlikte kurar. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Biçim ilişkiler hakkında örtük bilgi iletir, izleyici bütünü yalnız sözel çözümleme olmadan algılar. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "İlkel sanat gibi eski ifadeler hiyerarşik ve sömürgeci bakış taşır; eserler kendi topluluk bağlamında okunmalıdır. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Bir sanat eserinde nesne adından önce tekrar, simetri ve kopuşun size ne hissettirdiğini yazın. Sanat bilinçli açıklamanın dışındaki ilişki bilgisini biçim yoluyla taşır. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Bateson sanatın yalnız temsil ettiği nesnede değil, parçalar arasındaki örüntü ve sanatçının bilinçli amacıyla daha geniş zihinsel süreç arasındaki bağda bilgi taşıdığını savunur.",
+        "Bir desen tek balığı göstermez; tekrar ve boşluk su, hareket ve topluluk duygusunu birlikte kurar.",
+        "Biçim ilişkiler hakkında örtük bilgi iletir, izleyici bütünü yalnız sözel çözümleme olmadan algılar.",
+        "İlkel sanat gibi eski ifadeler hiyerarşik ve sömürgeci bakış taşır; eserler kendi topluluk bağlamında okunmalıdır.",
+        "Bir sanat eserinde nesne adından önce tekrar, simetri ve kopuşun size ne hissettirdiğini yazın. Sanat bilinçli açıklamanın dışındaki ilişki bilgisini biçim yoluyla taşır."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "ÜÇÜNCÜ KISIM · ÖĞRENME",
       "title": "Öğrenme düzeyleri aynı şeyi öğrenmez",
       "paragraphs": [
-        "Bateson sıfır öğrenmeyi sabit tepki, birinci düzeyi seçenekler içinden düzeltme, ikinciyi nasıl öğrendiğimizin bağlamını öğrenme olarak ayırır. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Çocuk doğru cevabı öğrenir; sonra öğretmenin yüzünden hangi tür cevabın ödüllendirildiğini, daha sonra da okulda nasıl öğrenci olması gerektiğini öğrenir. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Tekil hata düzeltilir, tekrar eden bağlam alışkanlık üretir ve alışkanlık benlik ile dünya varsayımına dönüşür. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Düzeyler kesin beyin katları değildir; karmaşık davranışı düşünmek için analitik ayrımdır. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir beceride öğrendiğiniz kuralın yanında o ortamda fark etmeden öğrendiğiniz 'nasıl davranılır' dersini bulun. Öğrenme düzeyleri yanlış cevabı düzeltmekle yanlış öğrenme ortamını düzeltmenin farkını gösterir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Bateson sıfır öğrenmeyi sabit tepki, birinci düzeyi seçenekler içinden düzeltme, ikinciyi nasıl öğrendiğimizin bağlamını öğrenme olarak ayırır.",
+        "Çocuk doğru cevabı öğrenir; sonra öğretmenin yüzünden hangi tür cevabın ödüllendirildiğini, daha sonra da okulda nasıl öğrenci olması gerektiğini öğrenir.",
+        "Tekil hata düzeltilir, tekrar eden bağlam alışkanlık üretir ve alışkanlık benlik ile dünya varsayımına dönüşür.",
+        "Düzeyler kesin beyin katları değildir; karmaşık davranışı düşünmek için analitik ayrımdır.",
+        "Bir beceride öğrendiğiniz kuralın yanında o ortamda fark etmeden öğrendiğiniz 'nasıl davranılır' dersini bulun. Öğrenme düzeyleri yanlış cevabı düzeltmekle yanlış öğrenme ortamını düzeltmenin farkını gösterir."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "ÜÇÜNCÜ KISIM · DEUTERO-LEARNING",
       "title": "İkinci dereceden öğrenme karakter gibi görünür",
       "paragraphs": [
-        "Kişi tekrar eden öğrenme ortamlarından yalnız cevap değil, dünyanın güvenilir, rekabetçi veya değişmez olduğu hakkında alışkanlık kazanır. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Her soruda alay edilen öğrenci yeni sınıfta cevap bilmese bile susmanın güvenli olduğunu varsayar. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Bağlamlar üst üste gelir, beklenti otomatikleşir ve kişi bunu dış koşul değil kendi karakteri sanabilir. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Her kişilik özelliğini öğrenilmiş bağlama indirmek mizaç, beden ve iradeyi küçültür. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Kendiniz hakkında 'ben böyleyim' dediğiniz bir özelliğin hangi tekrar eden ortamda güçlendiğini düşünün. Bağlam alışkanlığı görünmezleştiğinde kişi değişebilir koşulu değişmez kişilik sanabilir. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Kişi tekrar eden öğrenme ortamlarından yalnız cevap değil, dünyanın güvenilir, rekabetçi veya değişmez olduğu hakkında alışkanlık kazanır.",
+        "Her soruda alay edilen öğrenci yeni sınıfta cevap bilmese bile susmanın güvenli olduğunu varsayar.",
+        "Bağlamlar üst üste gelir, beklenti otomatikleşir ve kişi bunu dış koşul değil kendi karakteri sanabilir.",
+        "Her kişilik özelliğini öğrenilmiş bağlama indirmek mizaç, beden ve iradeyi küçültür.",
+        "Kendiniz hakkında 'ben böyleyim' dediğiniz bir özelliğin hangi tekrar eden ortamda güçlendiğini düşünün. Bağlam alışkanlığı görünmezleştiğinde kişi değişebilir koşulu değişmez kişilik sanabilir."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "ÜÇÜNCÜ KISIM · DOUBLE BIND",
       "title": "Çifte bağ çıkışı olmayan iletişim düğümüdür",
       "paragraphs": [
-        "Çifte bağda önemli ilişkide kişi çelişen mesajlar alır, hangi düzeyin geçerli olduğunu soramaz ve ilişkiden çıkamaz; her cevap yanlış hale gelir. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Anne 'gel sarıl' derken bedeni geri çekilir; çocuk uzak kalsa sevgisiz, yaklaşsa reddedilmiş olur, çelişkiyi söylemesi de saygısızlık sayılır. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "İçerik ve ilişki mesajı çatışır, meta-iletişim yasaklanır, tekrar öğrenilmiş yorum güvensizliği doğurur. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Şizofreniyi aile iletişiminin tek sonucu saymak güncel bilimle uyumlu değildir ve aileleri haksızca suçlamıştır. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir ilişkide çelişkiyi güvenle adlandırma ve geçici olarak çıkma hakkının bulunup bulunmadığını sorun. Çifte bağın ana tehlikesi çelişki kadar çelişkiyi konuşma ve ilişkiden çıkma yasağıdır. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Çifte bağda önemli ilişkide kişi çelişen mesajlar alır, hangi düzeyin geçerli olduğunu soramaz ve ilişkiden çıkamaz; her cevap yanlış hale gelir.",
+        "Anne 'gel sarıl' derken bedeni geri çekilir; çocuk uzak kalsa sevgisiz, yaklaşsa reddedilmiş olur, çelişkiyi söylemesi de saygısızlık sayılır.",
+        "İçerik ve ilişki mesajı çatışır, meta-iletişim yasaklanır, tekrar öğrenilmiş yorum güvensizliği doğurur.",
+        "Şizofreniyi aile iletişiminin tek sonucu saymak güncel bilimle uyumlu değildir ve aileleri haksızca suçlamıştır.",
+        "Bir ilişkide çelişkiyi güvenle adlandırma ve geçici olarak çıkma hakkının bulunup bulunmadığını sorun. Çifte bağın ana tehlikesi çelişki kadar çelişkiyi konuşma ve ilişkiden çıkma yasağıdır."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "ÜÇÜNCÜ KISIM · SİBERNETİK BENLİK",
       "title": "Alkolizmde benlik devrenin tamamı değildir",
       "paragraphs": [
-        "Bateson bağımlı kişinin 'irademle içkiyi yenerim' mücadelesinin benliği içki karşısında ayrı ve kontrolcü kurarak aynı simetrik savaşı büyütebildiğini tartışır. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Kişi her bırakışta gücünü kanıtlamak ister, bir hata bütün benlik iddiasını çökertir; yardım grubunda kontrol sınırını kabul etmek döngüyü değiştirir. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Benlik çevreden kopuk komutan değil ilişki devresinin parçası olarak yeniden tanımlanır, geri bildirim ve topluluk yeni düzen kurar. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Bağımlılık tıbbi ve toplumsal destek gerektirir; sibernetik benzetme tedavi reçetesi veya suçlama değildir. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Bir alışkanlıkta yalnız irade savaşını değil tetikleyici, çevre, yardım ve geri dönüş döngüsünü haritalayın. Bağımlılık devresinde yardım iradeyi küçültmez, iradenin tek başına taşıyamadığı çevreyi düzenler. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Bateson bağımlı kişinin 'irademle içkiyi yenerim' mücadelesinin benliği içki karşısında ayrı ve kontrolcü kurarak aynı simetrik savaşı büyütebildiğini tartışır.",
+        "Kişi her bırakışta gücünü kanıtlamak ister, bir hata bütün benlik iddiasını çökertir; yardım grubunda kontrol sınırını kabul etmek döngüyü değiştirir.",
+        "Benlik çevreden kopuk komutan değil ilişki devresinin parçası olarak yeniden tanımlanır, geri bildirim ve topluluk yeni düzen kurar.",
+        "Bağımlılık tıbbi ve toplumsal destek gerektirir; sibernetik benzetme tedavi reçetesi veya suçlama değildir.",
+        "Bir alışkanlıkta yalnız irade savaşını değil tetikleyici, çevre, yardım ve geri dönüş döngüsünü haritalayın. Bağımlılık devresinde yardım iradeyi küçültmez, iradenin tek başına taşıyamadığı çevreyi düzenler."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "DÖRDÜNCÜ KISIM · EVRİM",
       "title": "Evrim doğrusal merdiven değil geri bildirim tarihidir",
       "paragraphs": [
-        "Organizma ile çevre birbirini seçen ve değiştiren döngü içinde evrilir; uyum tek canlının bağımsız başarısı değildir. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Kunduzun dişi ağacı kesmeye uyar, yaptığı baraj su çevresini değiştirir, yeni çevre sonraki seçilim koşulunu kurar. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Genetik değişim, davranış ve çevresel sonuç birbirine geri döner; hayatta kalma biriminden çok ilişki ağı önem kazanır. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Bateson'ın geniş sistem dili belirli genetik mekanizma ve ölçümü bulanıklaştırmamalıdır. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Bir canlı özelliğini yalnız işe yarıyor diye değil hangi çevreyi değiştirip yeni baskı kurduğuyla anlatın. Evrimsel başarı tek organizmanın değil organizma ile çevre arasındaki uzun geri bildirimin sonucudur. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Organizma ile çevre birbirini seçen ve değiştiren döngü içinde evrilir; uyum tek canlının bağımsız başarısı değildir.",
+        "Kunduzun dişi ağacı kesmeye uyar, yaptığı baraj su çevresini değiştirir, yeni çevre sonraki seçilim koşulunu kurar.",
+        "Genetik değişim, davranış ve çevresel sonuç birbirine geri döner; hayatta kalma biriminden çok ilişki ağı önem kazanır.",
+        "Bateson'ın geniş sistem dili belirli genetik mekanizma ve ölçümü bulanıklaştırmamalıdır.",
+        "Bir canlı özelliğini yalnız işe yarıyor diye değil hangi çevreyi değiştirip yeni baskı kurduğuyla anlatın. Evrimsel başarı tek organizmanın değil organizma ile çevre arasındaki uzun geri bildirimin sonucudur."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "BEŞİNCİ KISIM · EKOLOJİ",
       "title": "Zihnin birimi organizma-artı-çevredir",
       "paragraphs": [
-        "Bilgi farklar boyunca dolaşıyor ve geri bildirim davranışı düzeltiyorsa zihinsel sürecin sınırı deriyle bitmeyebilir; baston, yol ve insan aynı devreye katılabilir. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Görme engelli kişi baston ucundaki farkı el, sinir sistemi ve zemin döngüsüyle algılar; bilginin tek yerini ayırmak zordur. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Dönüşen fark devrede dolaşır, karşılaştırma hata düzeltir ve bütün sistem amaca uygun davranır. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Dağıtılmış zihin sözü her nesnenin bilinçli olduğu anlamına gelmez; bilinç ile zihinsel devre ayrılmalıdır. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir işi yaparken düşüncenizin telefona, not defterine, insana ve mekâna nasıl dağıldığını çizin. Dağıtılmış zihin düşünmenin araç ve ilişkilere bağımlılığını gösterir, bilinç iddiasını genişletmez. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Bilgi farklar boyunca dolaşıyor ve geri bildirim davranışı düzeltiyorsa zihinsel sürecin sınırı deriyle bitmeyebilir; baston, yol ve insan aynı devreye katılabilir.",
+        "Görme engelli kişi baston ucundaki farkı el, sinir sistemi ve zemin döngüsüyle algılar; bilginin tek yerini ayırmak zordur.",
+        "Dönüşen fark devrede dolaşır, karşılaştırma hata düzeltir ve bütün sistem amaca uygun davranır.",
+        "Dağıtılmış zihin sözü her nesnenin bilinçli olduğu anlamına gelmez; bilinç ile zihinsel devre ayrılmalıdır.",
+        "Bir işi yaparken düşüncenizin telefona, not defterine, insana ve mekâna nasıl dağıldığını çizin. Dağıtılmış zihin düşünmenin araç ve ilişkilere bağımlılığını gösterir, bilinç iddiasını genişletmez."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "BEŞİNCİ-ALTINCI KISIM · KRİZ",
       "title": "Bilinçli amaç kısa yolu seçerken bütünü yaralayabilir",
       "paragraphs": [
-        "İnsan bilinci sistemin küçük bir bölümünü görüp tek hedefi en kısa yoldan büyüttüğünde, ekolojik geri bildirim ve yan etkileri kesebilir. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Tarım yalnız verimi artırmak için zehir kullanır, zararlı azalırken toprak, su ve yararlı böcek ağı çöker; çözüm yeni sorun üretir. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Dar amaç sonucu seçer, görünmeyen ilişki maliyetini dışarı atar ve geri bildirim gecikince hata büyür. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Her amaçlı plan zararlı değildir; izleme, çeşitlilik ve düzeltilebilirlik bilinçli eylemi sistemle uyumlu kılabilir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bir hedefte başarı göstergenizin dışında etkilenen üç ilişkiyi ve gecikmiş sonucu yazın. Dar amaç, dışarı attığı maliyet gecikmeli döndüğünde kendi başarısını da yok edebilir. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "İnsan bilinci sistemin küçük bir bölümünü görüp tek hedefi en kısa yoldan büyüttüğünde, ekolojik geri bildirim ve yan etkileri kesebilir.",
+        "Tarım yalnız verimi artırmak için zehir kullanır, zararlı azalırken toprak, su ve yararlı böcek ağı çöker; çözüm yeni sorun üretir.",
+        "Dar amaç sonucu seçer, görünmeyen ilişki maliyetini dışarı atar ve geri bildirim gecikince hata büyür.",
+        "Her amaçlı plan zararlı değildir; izleme, çeşitlilik ve düzeltilebilirlik bilinçli eylemi sistemle uyumlu kılabilir.",
+        "Bir hedefte başarı göstergenizin dışında etkilenen üç ilişkiyi ve gecikmiş sonucu yazın. Dar amaç, dışarı attığı maliyet gecikmeli döndüğünde kendi başarısını da yok edebilir."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SONUÇ · EKOLOJİK ZİHİN",
       "title": "Bilgelik bildiğimizin sınırını devreye katmaktır",
       "paragraphs": [
-        "Bateson için ekolojik bilgelik insanı doğanın dışındaki denetleyici değil, yalnız kısmen görebildiği daha büyük zihin örüntüsünün katılımcısı olarak kavramaktır. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Nehri düzeltmek isteyen mühendis balıkçı, taşkın ovası, kuş, çocuk ve gelecek yağış verisini aynı kararın geri bildirimi yapar. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Çeşitli bakış ve yavaş ölçüm kör noktayı azaltır, karar hata sinyalini duyacak esneklik taşır. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Bütünlük dili somut sorumluluğu dağıtmamalı; karar veren kurum ve çıkar sahibi açıkça görünmelidir. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Önemli bir kararda sizi durdurup yön değiştirecek erken hata işaretini önceden belirleyin. Ekolojik bilgelik kesin bütün bilgiyi değil yanıldığını duyabilecek devreyi tasarlar. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Bateson için ekolojik bilgelik insanı doğanın dışındaki denetleyici değil, yalnız kısmen görebildiği daha büyük zihin örüntüsünün katılımcısı olarak kavramaktır.",
+        "Nehri düzeltmek isteyen mühendis balıkçı, taşkın ovası, kuş, çocuk ve gelecek yağış verisini aynı kararın geri bildirimi yapar.",
+        "Çeşitli bakış ve yavaş ölçüm kör noktayı azaltır, karar hata sinyalini duyacak esneklik taşır.",
+        "Bütünlük dili somut sorumluluğu dağıtmamalı; karar veren kurum ve çıkar sahibi açıkça görünmelidir.",
+        "Önemli bir kararda sizi durdurup yön değiştirecek erken hata işaretini önceden belirleyin. Ekolojik bilgelik kesin bütün bilgiyi değil yanıldığını duyabilecek devreyi tasarlar."
       ]
     },
     {

@@ -12,8 +12,6 @@
   "chapterArtColor": "#7E6F3D",
   "meta": {
     "originalTitle": "Small Is Beautiful: Economics as if People Mattered",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "E. F. Schumacher'in 1973 tarihli kitabı dört kısım ve on dokuz denemeden oluşur. İlk kısım üretim, büyüme, ekonomi, iyi iş ve ölçeği; ikinci kısım eğitim, toprak, sanayi kaynakları, nükleer enerji ve insan yüzlü teknolojiyi; üçüncü kısım kalkınma ile ara teknolojiyi; son kısım tahmin, büyük örgüt, sosyalizm ve mülkiyeti tartışır.",
@@ -46,11 +44,11 @@
       "section": "BİRİNCİ KISIM · ÜRETİM",
       "title": "Üretim sorunu çözülmüş değildir",
       "paragraphs": [
-        "Modern ekonomi doğanın verdiği hava, su, toprak ve fosil yakıtı ücretsiz ve tükenmez sayınca yüksek üretimi gerçek zenginlik artışı gibi gösterir. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Aile miras kalan arsayı satar, parayı gelir sanıp harcar; bilanço bir yıl parlar ama üretken temel geri gelmez. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Yenilenemeyen doğa varlığı gelir değil sermaye gibi düşünülür, tüketim onun azalmasını da hesaba katmak zorunda kalır. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Doğal sermaye benzetmesi doğanın yalnız para değerini değil yaşam değerini de kapsamalıdır. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Kullandığınız bir ürünün fiyatına girmeyen su, toprak, hava ve gelecek kuşak maliyetini araştırın. Doğayı sermaye saymak tükenmeyi görünür kılar, onu yalnız satılabilir varlığa indirmemelidir. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Modern ekonomi doğanın verdiği hava, su, toprak ve fosil yakıtı ücretsiz ve tükenmez sayınca yüksek üretimi gerçek zenginlik artışı gibi gösterir.",
+        "Aile miras kalan arsayı satar, parayı gelir sanıp harcar; bilanço bir yıl parlar ama üretken temel geri gelmez.",
+        "Yenilenemeyen doğa varlığı gelir değil sermaye gibi düşünülür, tüketim onun azalmasını da hesaba katmak zorunda kalır.",
+        "Doğal sermaye benzetmesi doğanın yalnız para değerini değil yaşam değerini de kapsamalıdır.",
+        "Kullandığınız bir ürünün fiyatına girmeyen su, toprak, hava ve gelecek kuşak maliyetini araştırın. Doğayı sermaye saymak tükenmeyi görünür kılar, onu yalnız satılabilir varlığa indirmemelidir."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "BİRİNCİ KISIM · SÜREKLİLİK",
       "title": "Barış kalıcı yaşam düzeni ister",
       "paragraphs": [
-        "Sınırsız büyüme için kaynak ve pazar yarışı süren dünyada barışı yalnız iyi niyetle korumak zordur; kalıcılık üretim ve arzu düzeninin değişmesini gerektirir. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "İki ülke aynı kıt enerjiye bağımlı büyüdükçe diplomatik dostluklarına rağmen kaynak üzerinde baskı ve korku artar. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Artan talep kıtlık algısı, kıtlık güvenlik yarışı ve güvenlik yarışı yeni tüketim üretir. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Kaynak rekabeti savaşın tek nedeni değildir; iktidar, kimlik ve kurumlar da açıklamaya katılmalıdır. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir büyüme hedefinin başka bölgenin kaynak veya emeğine ne ölçüde bağımlı olduğunu sorun. Kalıcı barış kıt kaynak için sonsuz talep üreten ekonomiyle aynı zeminde zorlaşır. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Sınırsız büyüme için kaynak ve pazar yarışı süren dünyada barışı yalnız iyi niyetle korumak zordur; kalıcılık üretim ve arzu düzeninin değişmesini gerektirir.",
+        "İki ülke aynı kıt enerjiye bağımlı büyüdükçe diplomatik dostluklarına rağmen kaynak üzerinde baskı ve korku artar.",
+        "Artan talep kıtlık algısı, kıtlık güvenlik yarışı ve güvenlik yarışı yeni tüketim üretir.",
+        "Kaynak rekabeti savaşın tek nedeni değildir; iktidar, kimlik ve kurumlar da açıklamaya katılmalıdır.",
+        "Bir büyüme hedefinin başka bölgenin kaynak veya emeğine ne ölçüde bağımlı olduğunu sorun. Kalıcı barış kıt kaynak için sonsuz talep üreten ekonomiyle aynı zeminde zorlaşır."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "BİRİNCİ KISIM · EKONOMİNİN ROLÜ",
       "title": "Ekonomi amaç değil yardımcı bilimdir",
       "paragraphs": [
-        "Schumacher ekonomik hesabın seçilmiş fiyat ve verim ölçüleriyle araçları karşılaştırabileceğini, fakat hayatın nihai amacını tek başına belirleyemeyeceğini savunur. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Parkı otoparka çevirmek gelir yaratır; çocuk oyunu, gölge ve mahalle bağı piyasada fiyatlanmadığı için hesapta sıfır görünebilir. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Fiyat değiş tokuşu ölçer, değerin bütününü değil; siyasi ve etik karar hangi yararın korunacağını belirler. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Fiyat sinyalini tümüyle reddetmek kıt kaynak ve fırsat maliyetini görünmez yapabilir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir kamu kararında para tablosunun dışında kalan üç değeri açıkça karar belgesine ekleyin. Ekonomi araçların verimini karşılaştırır; hangi amacın iyi olduğunu kamusal etik belirler. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Schumacher ekonomik hesabın seçilmiş fiyat ve verim ölçüleriyle araçları karşılaştırabileceğini, fakat hayatın nihai amacını tek başına belirleyemeyeceğini savunur.",
+        "Parkı otoparka çevirmek gelir yaratır; çocuk oyunu, gölge ve mahalle bağı piyasada fiyatlanmadığı için hesapta sıfır görünebilir.",
+        "Fiyat değiş tokuşu ölçer, değerin bütününü değil; siyasi ve etik karar hangi yararın korunacağını belirler.",
+        "Fiyat sinyalini tümüyle reddetmek kıt kaynak ve fırsat maliyetini görünmez yapabilir.",
+        "Bir kamu kararında para tablosunun dışında kalan üç değeri açıkça karar belgesine ekleyin. Ekonomi araçların verimini karşılaştırır; hangi amacın iyi olduğunu kamusal etik belirler."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "BİRİNCİ KISIM · İYİ İŞ",
       "title": "Budist ekonomi iyi işi merkez alır",
       "paragraphs": [
-        "Çalışma yalnız tüketim için katlanılan maliyet değil insanın beceri, işbirliği ve anlam geliştirdiği etkinlik olarak görülmelidir. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Usta aynı sandalyeyi yapan çırağa yalnız hız değil malzemeyi tanıma, dikkat ve işe saygı öğretir. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "İş üretim sonucu kadar çalışan karakterini ve topluluğu biçimlendirir; verim insan gelişimiyle birlikte ölçülür. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Manevi iş dili düşük ücret ve ağır koşulu romantikleştirmek için kullanılamaz; güvenlik ve hak esastır. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Kendi işinizde sonuç kadar geliştirdiğiniz beceri, ilişki ve anlamı da bir hafta gözleyin. İyi iş hem anlam hem güvenli ücret ve insan onuru taşımadıkça manevi söz olarak kalır. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Çalışma yalnız tüketim için katlanılan maliyet değil insanın beceri, işbirliği ve anlam geliştirdiği etkinlik olarak görülmelidir.",
+        "Usta aynı sandalyeyi yapan çırağa yalnız hız değil malzemeyi tanıma, dikkat ve işe saygı öğretir.",
+        "İş üretim sonucu kadar çalışan karakterini ve topluluğu biçimlendirir; verim insan gelişimiyle birlikte ölçülür.",
+        "Manevi iş dili düşük ücret ve ağır koşulu romantikleştirmek için kullanılamaz; güvenlik ve hak esastır.",
+        "Kendi işinizde sonuç kadar geliştirdiğiniz beceri, ilişki ve anlamı da bir hafta gözleyin. İyi iş hem anlam hem güvenli ücret ve insan onuru taşımadıkça manevi söz olarak kalır."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "BİRİNCİ KISIM · BÜYÜKLÜK",
       "title": "Ölçek tek sayı değil insan mesafesidir",
       "paragraphs": [
-        "Büyük birim verim kazanabilir; fakat karar ile sonuç, çalışan ile yönetici ve üretim ile yerel ihtiyaç arasındaki mesafe büyüdükçe insan görünmez olabilir. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "On bin kişilik kurumda şikâyet altı forma dönüşür, küçük ekipte yüz yüze çözülür; küçük ekip de kayırmacı ve yetersiz olabilir. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Ölçek iletişim, denetim ve uzmanlaşma maliyetini değiştirir; uygun boyut görevin niteliğine göre bulunur. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Küçük otomatik olarak demokratik değildir, büyük de otomatik insanlık dışı değildir. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir hizmette karar verene ulaşma süresini ve hatayı düzeltme yolunu gerçek ölçü olarak kullanın. Uygun ölçek karar ile sonuç arasındaki sorumluluk mesafesini yönetilebilir tutar. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Büyük birim verim kazanabilir; fakat karar ile sonuç, çalışan ile yönetici ve üretim ile yerel ihtiyaç arasındaki mesafe büyüdükçe insan görünmez olabilir.",
+        "On bin kişilik kurumda şikâyet altı forma dönüşür, küçük ekipte yüz yüze çözülür; küçük ekip de kayırmacı ve yetersiz olabilir.",
+        "Ölçek iletişim, denetim ve uzmanlaşma maliyetini değiştirir; uygun boyut görevin niteliğine göre bulunur.",
+        "Küçük otomatik olarak demokratik değildir, büyük de otomatik insanlık dışı değildir.",
+        "Bir hizmette karar verene ulaşma süresini ve hatayı düzeltme yolunu gerçek ölçü olarak kullanın. Uygun ölçek karar ile sonuç arasındaki sorumluluk mesafesini yönetilebilir tutar."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "İKİNCİ KISIM · EĞİTİM",
       "title": "En büyük kaynak eğitimdir",
       "paragraphs": [
-        "Araç ve sermayenin nasıl kullanılacağını insanın dünya görüşü belirler; eğitim yalnız teknik beceri değil hangi amacı değerli sayacağımızı kurar. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Mühendis daha hızlı makine yapar, fakat eğitiminde işçinin onuru ve ekolojik sınır yoksa hız yanlış amacı büyütebilir. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Fikirler algıyı düzenler, teknik bilgi araç sağlar, ikisi birleşince kurumun yönü oluşur. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Metafizik vurgusu bilimsel ve mesleki beceriyi küçümsememeli; ortak eğitim çoğul değerleri taşımalıdır. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Öğrendiğiniz bir becerinin 'ne yapabiliriz?' kadar 'ne yapmalıyız?' sorusunu içerip içermediğine bakın. Eğitim değer sorusunu dışarıda bırakırsa teknik beceri yanlış amacı daha güçlü uygular. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Araç ve sermayenin nasıl kullanılacağını insanın dünya görüşü belirler; eğitim yalnız teknik beceri değil hangi amacı değerli sayacağımızı kurar.",
+        "Mühendis daha hızlı makine yapar, fakat eğitiminde işçinin onuru ve ekolojik sınır yoksa hız yanlış amacı büyütebilir.",
+        "Fikirler algıyı düzenler, teknik bilgi araç sağlar, ikisi birleşince kurumun yönü oluşur.",
+        "Metafizik vurgusu bilimsel ve mesleki beceriyi küçümsememeli; ortak eğitim çoğul değerleri taşımalıdır.",
+        "Öğrendiğiniz bir becerinin 'ne yapabiliriz?' kadar 'ne yapmalıyız?' sorusunu içerip içermediğine bakın. Eğitim değer sorusunu dışarıda bırakırsa teknik beceri yanlış amacı daha güçlü uygular."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "İKİNCİ KISIM · TOPRAK",
       "title": "Toprak mal değil yaşayan ortaklıktır",
       "paragraphs": [
-        "Toprağı yalnız en yüksek gelir getiren mülk saymak onun verim, su, canlılık ve gelecek kuşak işlevini harcar; uygun kullanım bakım ilişkisi gerektirir. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Çiftçi bir yıl daha çok ürün için toprağı yorar, sonraki yıllarda gübre ve borç bağımlılığı büyür; kısa kâr uzun sermayeyi azaltır. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Toprak canlı döngü içinde yenilenir, bakım kalitesi gelecekteki kapasiteyi belirler ve mülkiyet toplumsal sorumluluk taşır. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Küçük çiftçilik de aşırı kullanım yapabilir; bilgi, gelir güvenliği ve ortak düzenleme gerekir. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir tarım ürününün verimini yalnız tonla değil toprak sağlığı ve çiftçi geliriyle birlikte ölçün. Toprağın sahibi bakım yükünü de taşımıyorsa mülkiyet geleceğin hakkını zayıflatır. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Toprağı yalnız en yüksek gelir getiren mülk saymak onun verim, su, canlılık ve gelecek kuşak işlevini harcar; uygun kullanım bakım ilişkisi gerektirir.",
+        "Çiftçi bir yıl daha çok ürün için toprağı yorar, sonraki yıllarda gübre ve borç bağımlılığı büyür; kısa kâr uzun sermayeyi azaltır.",
+        "Toprak canlı döngü içinde yenilenir, bakım kalitesi gelecekteki kapasiteyi belirler ve mülkiyet toplumsal sorumluluk taşır.",
+        "Küçük çiftçilik de aşırı kullanım yapabilir; bilgi, gelir güvenliği ve ortak düzenleme gerekir.",
+        "Bir tarım ürününün verimini yalnız tonla değil toprak sağlığı ve çiftçi geliriyle birlikte ölçün. Toprağın sahibi bakım yükünü de taşımıyorsa mülkiyet geleceğin hakkını zayıflatır."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "İKİNCİ KISIM · SANAYİ KAYNAKLARI",
       "title": "Sanayi yenilenemeyen kaynağı gelir gibi yakar",
       "paragraphs": [
-        "Kömür ve petrol geçmişin birikmiş doğal sermayesidir; hızla tüketilmesi bugünkü refahı geleceğin hesabından finanse eder. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Şirket yeraltındaki petrolü çıkarınca gelir yazar, oluşması milyonlarca yıl süren stokun azalması aynı tabloda kayıp görünmez. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Enerji yoğun üretim tükenme ve kirlilik maliyetini dışarı atar, ucuz fiyat yanlış kullanım sinyali verir. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Enerji geçişi de maden, arazi ve emek ister; yenilenebilir kelimesi maliyetsiz anlamına gelmez. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Bir enerji seçeneğini yaşam döngüsü, atık, emek ve geri dönüş süresiyle karşılaştırın. Kaynak fiyatı tükenme ve atığı içermediğinde verim hesabı gelecekten borç alır. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Kömür ve petrol geçmişin birikmiş doğal sermayesidir; hızla tüketilmesi bugünkü refahı geleceğin hesabından finanse eder.",
+        "Şirket yeraltındaki petrolü çıkarınca gelir yazar, oluşması milyonlarca yıl süren stokun azalması aynı tabloda kayıp görünmez.",
+        "Enerji yoğun üretim tükenme ve kirlilik maliyetini dışarı atar, ucuz fiyat yanlış kullanım sinyali verir.",
+        "Enerji geçişi de maden, arazi ve emek ister; yenilenebilir kelimesi maliyetsiz anlamına gelmez.",
+        "Bir enerji seçeneğini yaşam döngüsü, atık, emek ve geri dönüş süresiyle karşılaştırın. Kaynak fiyatı tükenme ve atığı içermediğinde verim hesabı gelecekten borç alır."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "İKİNCİ KISIM · NÜKLEER ENERJİ",
       "title": "Nükleer enerji tartışması kuşaklar arasıdır",
       "paragraphs": [
-        "Schumacher uzun ömürlü radyoaktif atık ve büyük kaza riskinin bugünkü elektrik hesabıyla gelecek kuşaklara yüklenemeyeceğini savunur. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Bir şehir ucuz enerji alır, atık deposunun güvenliği yüzlerce yıl başka insanların kurum ve bilgisine emanet edilir. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Düşük olasılıklı büyük zarar ve uzun süreli atık maliyeti bugünkü fiyatın dışına taşar. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Güncel iklim tartışmasında nükleer enerjinin düşük karbon katkısı ve yeni güvenlik verileri de hesaba katılmalıdır; 1973 hükmü son söz değildir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Enerji kararında karbon, kaza, atık, maliyet, süre ve yerel rızayı aynı tabloda görün. Uzun ömürlü risk bugünkü kuşağın rızasıyla tek başına kapatılamaz. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Schumacher uzun ömürlü radyoaktif atık ve büyük kaza riskinin bugünkü elektrik hesabıyla gelecek kuşaklara yüklenemeyeceğini savunur.",
+        "Bir şehir ucuz enerji alır, atık deposunun güvenliği yüzlerce yıl başka insanların kurum ve bilgisine emanet edilir.",
+        "Düşük olasılıklı büyük zarar ve uzun süreli atık maliyeti bugünkü fiyatın dışına taşar.",
+        "Güncel iklim tartışmasında nükleer enerjinin düşük karbon katkısı ve yeni güvenlik verileri de hesaba katılmalıdır; 1973 hükmü son söz değildir.",
+        "Enerji kararında karbon, kaza, atık, maliyet, süre ve yerel rızayı aynı tabloda görün. Uzun ömürlü risk bugünkü kuşağın rızasıyla tek başına kapatılamaz."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "İKİNCİ KISIM · TEKNOLOJİ",
       "title": "İnsan yüzlü teknoloji kullanıcıyı büyütür",
       "paragraphs": [
-        "Uygun teknoloji insanı dev sistemin düğmesine indirgemek yerine becerisini, yerel bakım gücünü ve üretken bağımsızlığını artırmalıdır. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Köye gelen karmaşık makine bozulunca yabancı parça bekler; yerelde onarılabilen daha basit araç daha az hızlı ama sürekli iş üretir. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Araç sermaye ve uzman ihtiyacını yerel kapasiteyle dengeler, insan teknolojiye değil teknoloji insana uyarlanır. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Basit teknoloji düşük kaliteye mahkûmiyet olmamalı; sağlık ve iletişimde ileri sistemler hayat kurtarır. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir araç seçerken ilk fiyat kadar bakım, öğrenme, tamir ve kullanıcı denetimini de sorun. İnsan yüzlü araç kullanıcıya yalnız düğme değil kavrayış, onarım ve karar gücü verir. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Uygun teknoloji insanı dev sistemin düğmesine indirgemek yerine becerisini, yerel bakım gücünü ve üretken bağımsızlığını artırmalıdır.",
+        "Köye gelen karmaşık makine bozulunca yabancı parça bekler; yerelde onarılabilen daha basit araç daha az hızlı ama sürekli iş üretir.",
+        "Araç sermaye ve uzman ihtiyacını yerel kapasiteyle dengeler, insan teknolojiye değil teknoloji insana uyarlanır.",
+        "Basit teknoloji düşük kaliteye mahkûmiyet olmamalı; sağlık ve iletişimde ileri sistemler hayat kurtarır.",
+        "Bir araç seçerken ilk fiyat kadar bakım, öğrenme, tamir ve kullanıcı denetimini de sorun. İnsan yüzlü araç kullanıcıya yalnız düğme değil kavrayış, onarım ve karar gücü verir."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "ÜÇÜNCÜ KISIM · KALKINMA",
       "title": "Kalkınma maldan önce insan kapasitesidir",
       "paragraphs": [
-        "Yoksul bölgeye hazır fabrika taşımak kalkınma değildir; eğitim, örgüt, yerel girişim ve gerçek ihtiyaç olmadan bina yabancı ada gibi kalır. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Bağışla kurulan tesis birkaç yıl sonra parça ve pazar bulamaz; küçük atölye yerel usta ve müşteriyle yavaşça büyür. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Bilgi, güven, kurum ve pazar birlikte gelişir; fiziksel yatırım bu dokunun üstünde üretken olur. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Yereli romantikleştirmek altyapı, sağlık ve küresel bilgi ihtiyacını küçümseyebilir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bir yardım projesinde proje bitince yerel ekibin karar ve bakım gücünün kalıp kalmadığını ölçün. Kalkınma hazır malın inişi değil yerel insanın çözüm kurma kapasitesinin büyümesidir. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Yoksul bölgeye hazır fabrika taşımak kalkınma değildir; eğitim, örgüt, yerel girişim ve gerçek ihtiyaç olmadan bina yabancı ada gibi kalır.",
+        "Bağışla kurulan tesis birkaç yıl sonra parça ve pazar bulamaz; küçük atölye yerel usta ve müşteriyle yavaşça büyür.",
+        "Bilgi, güven, kurum ve pazar birlikte gelişir; fiziksel yatırım bu dokunun üstünde üretken olur.",
+        "Yereli romantikleştirmek altyapı, sağlık ve küresel bilgi ihtiyacını küçümseyebilir.",
+        "Bir yardım projesinde proje bitince yerel ekibin karar ve bakım gücünün kalıp kalmadığını ölçün. Kalkınma hazır malın inişi değil yerel insanın çözüm kurma kapasitesinin büyümesidir."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "ÜÇÜNCÜ KISIM · INTERMEDIATE TECHNOLOGY",
       "title": "Ara teknoloji iki uç arasında köprü kurar",
       "paragraphs": [
-        "Sermaye yoğun dev makineyle çok düşük verimli el emeği arasında, yerel gelire ve beceriye uygun orta maliyetli teknoloji iş ve üretim sağlayabilir. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Bir milyon dolarlık otomatik tesis elli kişiyi işsiz bırakır; geliştirilen küçük makineler yüzlerce atölyede güvenli verimi artırır. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Birim başına daha az sermaye daha çok kişiye araç, bakım bilgisi ve gelir erişimi verir. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Emek yaratma adına tehlikeli, yorucu veya kadınların ücretsiz yükünü artıran araç seçilmemelidir. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Bir teknoloji için çıktı kadar iş güvenliği, iş sayısı, bakım ve yerel sahiplik puanı verin. Ara teknoloji yoksula ikinci sınıf araç değil kendi koşulunda yüksek nitelikli kontrol sunmalıdır. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Sermaye yoğun dev makineyle çok düşük verimli el emeği arasında, yerel gelire ve beceriye uygun orta maliyetli teknoloji iş ve üretim sağlayabilir.",
+        "Bir milyon dolarlık otomatik tesis elli kişiyi işsiz bırakır; geliştirilen küçük makineler yüzlerce atölyede güvenli verimi artırır.",
+        "Birim başına daha az sermaye daha çok kişiye araç, bakım bilgisi ve gelir erişimi verir.",
+        "Emek yaratma adına tehlikeli, yorucu veya kadınların ücretsiz yükünü artıran araç seçilmemelidir.",
+        "Bir teknoloji için çıktı kadar iş güvenliği, iş sayısı, bakım ve yerel sahiplik puanı verin. Ara teknoloji yoksula ikinci sınıf araç değil kendi koşulunda yüksek nitelikli kontrol sunmalıdır."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "ÜÇÜNCÜ KISIM · KIRSAL KALKINMA",
       "title": "İki milyon köy merkezden kopya bekleyemez",
       "paragraphs": [
-        "Schumacher kalkınmanın birkaç büyük şehirde yoğunlaşması yerine köylerin kendi ekonomik tabanını güçlendiren yaygın ve küçük merkezler kurmasını önerir. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Gençler yalnız başkentte iş bulabildiği için göçer; bölgesel eğitim, sağlık ve atölye ağı yerinde seçenek yaratır. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Dağıtılmış üretim nüfus baskısını azaltır, yerel ihtiyaca hızlı uyum ve topluluk sahipliği sağlar. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Köyde kalmak herkesin zorunlu kaderi olmamalı; hareket özgürlüğü ve kent olanakları da haktır. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Bir bölgesel yatırımın yerel gence kalma ve gitme seçeneklerini birlikte artırıp artırmadığını sorun. Dağıtılmış kalkınma merkezi reddetmez, merkezle yerel arasındaki tek yönlü bağı azaltır. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Schumacher kalkınmanın birkaç büyük şehirde yoğunlaşması yerine köylerin kendi ekonomik tabanını güçlendiren yaygın ve küçük merkezler kurmasını önerir.",
+        "Gençler yalnız başkentte iş bulabildiği için göçer; bölgesel eğitim, sağlık ve atölye ağı yerinde seçenek yaratır.",
+        "Dağıtılmış üretim nüfus baskısını azaltır, yerel ihtiyaca hızlı uyum ve topluluk sahipliği sağlar.",
+        "Köyde kalmak herkesin zorunlu kaderi olmamalı; hareket özgürlüğü ve kent olanakları da haktır.",
+        "Bir bölgesel yatırımın yerel gence kalma ve gitme seçeneklerini birlikte artırıp artırmadığını sorun. Dağıtılmış kalkınma merkezi reddetmez, merkezle yerel arasındaki tek yönlü bağı azaltır."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "ÜÇÜNCÜ KISIM · HİNDİSTAN",
       "title": "İşsizlik verim hesabının kör noktasını gösterir",
       "paragraphs": [
-        "Az gelirli ülkede birkaç kişinin çok verimli makineyle üretmesi, milyonların işsiz kalması pahasına toplam toplumsal verim olmayabilir. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Modern tesis bin kişilik işi yüz kişiye indirir, ürün ucuzlar; işsiz kalan dokuz yüz kişinin geliri ve yeteneği hesaptan çıkar. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Makine verimiyle toplum verimi ayrılır, istihdam gelir ve öğrenme taşıdığı için kalkınma girdisi olur. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Gereksiz işi korumak çözüm değildir; sosyal güvence, çalışma süresi ve yeni beceri geçişi birlikte düşünülmelidir. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Bir otomasyon kararında şirket tasarrufuyla toplumun gelir, eğitim ve geçiş maliyetini ayrı hesaplayın. Toplumsal verim işsiz kalan insanın kayıp geliri ve becerisini de hesaba katar. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Az gelirli ülkede birkaç kişinin çok verimli makineyle üretmesi, milyonların işsiz kalması pahasına toplam toplumsal verim olmayabilir.",
+        "Modern tesis bin kişilik işi yüz kişiye indirir, ürün ucuzlar; işsiz kalan dokuz yüz kişinin geliri ve yeteneği hesaptan çıkar.",
+        "Makine verimiyle toplum verimi ayrılır, istihdam gelir ve öğrenme taşıdığı için kalkınma girdisi olur.",
+        "Gereksiz işi korumak çözüm değildir; sosyal güvence, çalışma süresi ve yeni beceri geçişi birlikte düşünülmelidir.",
+        "Bir otomasyon kararında şirket tasarrufuyla toplumun gelir, eğitim ve geçiş maliyetini ayrı hesaplayın. Toplumsal verim işsiz kalan insanın kayıp geliri ve becerisini de hesaba katar."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "DÖRDÜNCÜ KISIM · TAHMİN VE ÖRGÜT",
       "title": "Geleceği tahmin eden makine kararın yerini alamaz",
       "paragraphs": [
-        "İnsan davranışı ve yenilik geleceği kısmen değiştirir; kesin tahmin iddiası yöneticiyi sahte güvene, büyük örgüt de kişiyi görünmez prosedüre itebilir. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Satış modeli geçen yılın eğrisini uzatır, yeni yasa ve toplumsal tepki bütün tahmini bozar; merkez yine şubeye tek hedef yollar. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Tahmin koşullu senaryo olursa hazırlık sağlar, kesin kader olursa yerel bilgiyi ve sorumluluğu bastırır. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Veri modelinden vazgeçmek değil belirsizlik aralığı ve geri bildirimle yönetmek gerekir. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Bir tahminin varsayımını, yanılma aralığını ve hangi olayda güncelleneceğini açıkça yazın. Tahmin karar vericinin sorumluluğunu kaldırmaz; yalnız olası yolları görünür kılar. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "İnsan davranışı ve yenilik geleceği kısmen değiştirir; kesin tahmin iddiası yöneticiyi sahte güvene, büyük örgüt de kişiyi görünmez prosedüre itebilir.",
+        "Satış modeli geçen yılın eğrisini uzatır, yeni yasa ve toplumsal tepki bütün tahmini bozar; merkez yine şubeye tek hedef yollar.",
+        "Tahmin koşullu senaryo olursa hazırlık sağlar, kesin kader olursa yerel bilgiyi ve sorumluluğu bastırır.",
+        "Veri modelinden vazgeçmek değil belirsizlik aralığı ve geri bildirimle yönetmek gerekir.",
+        "Bir tahminin varsayımını, yanılma aralığını ve hangi olayda güncelleneceğini açıkça yazın. Tahmin karar vericinin sorumluluğunu kaldırmaz; yalnız olası yolları görünür kılar."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "DÖRDÜNCÜ KISIM · SOSYALİZM VE MÜLKİYET",
       "title": "Mülkiyet davranışı teşvik eden toplumsal tasarımdır",
       "paragraphs": [
-        "Schumacher özel-kamu etiketinden önce mülkiyet düzeninin kime karar, kazanç ve sorumluluk verdiğini; büyük şirketlerde çalışan ve toplum payının nasıl kurulacağını sorar. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Kurucu küçük işletmede emeğiyle mülkiyet birdir; dev şirkette uzak hissedar karar verir, çalışan ve bölge sonuçları taşır. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Mülkiyet hakkı teşvik ve bakım üretir, ölçek büyüdükçe toplumsal etkiden pay ve hesap verme ihtiyacı doğar. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Kamu mülkiyeti otomatik demokrasi, kooperatif otomatik eşitlik değildir; yönetim ve itiraz yapısı belirleyicidir. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Bir kurumda karar hakkı, kâr, zarar ve çevre maliyetinin aynı kişilere düşüp düşmediğini çizin. Mülkiyet düzeni kâr hakkıyla toplumsal ve ekolojik zararın hesabını aynı elde buluşturmalıdır. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Schumacher özel-kamu etiketinden önce mülkiyet düzeninin kime karar, kazanç ve sorumluluk verdiğini; büyük şirketlerde çalışan ve toplum payının nasıl kurulacağını sorar.",
+        "Kurucu küçük işletmede emeğiyle mülkiyet birdir; dev şirkette uzak hissedar karar verir, çalışan ve bölge sonuçları taşır.",
+        "Mülkiyet hakkı teşvik ve bakım üretir, ölçek büyüdükçe toplumsal etkiden pay ve hesap verme ihtiyacı doğar.",
+        "Kamu mülkiyeti otomatik demokrasi, kooperatif otomatik eşitlik değildir; yönetim ve itiraz yapısı belirleyicidir.",
+        "Bir kurumda karar hakkı, kâr, zarar ve çevre maliyetinin aynı kişilere düşüp düşmediğini çizin. Mülkiyet düzeni kâr hakkıyla toplumsal ve ekolojik zararın hesabını aynı elde buluşturmalıdır."
       ]
     },
     {

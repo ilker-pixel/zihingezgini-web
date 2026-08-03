@@ -12,8 +12,6 @@
   "chapterArtColor": "#8A5B45",
   "meta": {
     "originalTitle": "Strukturwandel der Öffentlichkeit",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Habermas'ın 1962'de Almanca, 1989'da İngilizce yayımlanan eseri 'kamusal alan'ı yalnız meydan veya devlet kurumu saymaz. Bu, özel kişilerin ortak yararı ilgilendiren konularda gerekçe sunarak kamu oluşturduğu ilişkiler alanıdır. Kitap temsili feodal kamusallıktan burjuva kamusal alanına, oradan kitlesel demokrasi ve yönetilen tanıtım çağına uzanır.",
@@ -46,11 +44,11 @@
       "section": "GİRİŞ · KAVRAM",
       "title": "Kamusal alan yerden önce ilişkidir",
       "paragraphs": [
-        "Kamusal alan, özel kişilerin ortak bir mesele hakkında erişilebilir biçimde tartışıp kamuoyu oluşturduğu toplumsal iletişim ağıdır. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Mahalle sakinleri kapalı evlerinden çıkıp parkın geleceği hakkında birbirine gerekçe sunduğunda salon, sokak veya ekran kamusal işlev kazanır. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Özel deneyim ortak dile çevrilir, iddia başkasının itirazına açılır ve yönetimin hesap vermesi için kamu oluşur. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Her görünür konuşma kamusal değildir; satın alınmış mesaj, tehdit ve erişim eşitsizliği tartışmanın niteliğini değiştirir. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir tartışmada kimlerin konuşabildiğini, kimin cevap vermek zorunda olduğunu ve kararın nerede alındığını çizin. Kamusal nitelik görünürlükten değil itiraz ve cevap ilişkisinden doğar. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Kamusal alan, özel kişilerin ortak bir mesele hakkında erişilebilir biçimde tartışıp kamuoyu oluşturduğu toplumsal iletişim ağıdır.",
+        "Mahalle sakinleri kapalı evlerinden çıkıp parkın geleceği hakkında birbirine gerekçe sunduğunda salon, sokak veya ekran kamusal işlev kazanır.",
+        "Özel deneyim ortak dile çevrilir, iddia başkasının itirazına açılır ve yönetimin hesap vermesi için kamu oluşur.",
+        "Her görünür konuşma kamusal değildir; satın alınmış mesaj, tehdit ve erişim eşitsizliği tartışmanın niteliğini değiştirir.",
+        "Bir tartışmada kimlerin konuşabildiğini, kimin cevap vermek zorunda olduğunu ve kararın nerede alındığını çizin. Kamusal nitelik görünürlükten değil itiraz ve cevap ilişkisinden doğar."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "ORTAÇAĞ · TEMSİL",
       "title": "Temsili kamusallık halkın tartışması değildir",
       "paragraphs": [
-        "Feodal düzende hükümdar iktidarı halk önünde temsil eder; kamusal olan ortak tartışmadan çok makamın ihtişamla görünmesidir. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Kral törende tacını, giysisini ve sarayını sergiler; seyirci yönetimi tartışan ortak değil güce tanık olan topluluktur. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Sembol ve tören iktidarı görünür, uzak ve doğal gösterir; kamu hükümdarın özelliği gibi sunulur. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Tören her zaman boş değildir; ortak kimlik kurabilir, fakat itiraz hakkı ile seyretme aynı şey değildir. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir resmî törende yurttaşın rolünün izleyici mi soru soran ortak mı olduğunu gözleyin. Temsil edilen iktidarı seyretmek, iktidarın gerekçesini değiştirebilmekten farklıdır. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Feodal düzende hükümdar iktidarı halk önünde temsil eder; kamusal olan ortak tartışmadan çok makamın ihtişamla görünmesidir.",
+        "Kral törende tacını, giysisini ve sarayını sergiler; seyirci yönetimi tartışan ortak değil güce tanık olan topluluktur.",
+        "Sembol ve tören iktidarı görünür, uzak ve doğal gösterir; kamu hükümdarın özelliği gibi sunulur.",
+        "Tören her zaman boş değildir; ortak kimlik kurabilir, fakat itiraz hakkı ile seyretme aynı şey değildir.",
+        "Bir resmî törende yurttaşın rolünün izleyici mi soru soran ortak mı olduğunu gözleyin. Temsil edilen iktidarı seyretmek, iktidarın gerekçesini değiştirebilmekten farklıdır."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "ERKEN MODERN · AYRIŞMA",
       "title": "Pazar ve devlet ayrışınca yeni özel alan doğar",
       "paragraphs": [
-        "Ticaretin, kalıcı yönetimin ve özel hanenin gelişmesiyle sarayın temsil alanından ayrı bir sivil toplum ve devlet karşıtlığı belirginleşir. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Tüccar malını uzak pazara yollar, vergi kararını saray verir, aile mektupla haber alır; bu üç alan farklı kurallarla çalışmaya başlar. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Ekonomik özel kişiler devlet kararından etkilenir ve ortak çıkarlarını tartışmak için iletişim alanı arar. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Özel mülkiyet bağımsızlık sağlarken mülksüzleri eşit katılımdan dışarıda bırakır. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir güncel kamu tartışmasında özel ekonomik çıkarla ortak yarar iddiasının nerede birleşip ayrıldığını bulun. Özel alan bağımsızlık sağlarken mülk sahipliğini yurttaşlığın sessiz şartına çevirebilir. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Ticaretin, kalıcı yönetimin ve özel hanenin gelişmesiyle sarayın temsil alanından ayrı bir sivil toplum ve devlet karşıtlığı belirginleşir.",
+        "Tüccar malını uzak pazara yollar, vergi kararını saray verir, aile mektupla haber alır; bu üç alan farklı kurallarla çalışmaya başlar.",
+        "Ekonomik özel kişiler devlet kararından etkilenir ve ortak çıkarlarını tartışmak için iletişim alanı arar.",
+        "Özel mülkiyet bağımsızlık sağlarken mülksüzleri eşit katılımdan dışarıda bırakır.",
+        "Bir güncel kamu tartışmasında özel ekonomik çıkarla ortak yarar iddiasının nerede birleşip ayrıldığını bulun. Özel alan bağımsızlık sağlarken mülk sahipliğini yurttaşlığın sessiz şartına çevirebilir."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "AİLE · EDEBİ KAMU",
       "title": "Mektup ve roman iç dünyayı hazırlar",
       "paragraphs": [
-        "Mahrem mektup, günlük ve roman bireyin duygu ile karakterini anlatılabilir kılar; edebî tartışma siyasi kamunun duyarlılık okuluna dönüşür. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Roman okuyan kişi hiç tanımadığı kahramanın korkusunu kendi odasında yaşar, sonra salonda başkalarıyla karakter ve doğru davranış konuşur. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Özel iç dünya yazıda kamuyla paylaşılır, empati ve eleştiri alışkanlığı politik gerekçe diline taşınır. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Burjuva aile mahremiyeti ücretli ve kadın emeğine dayanırken kendisini doğal özgürlük alanı gibi gösterebilir. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Bir kişisel hikâyenin ortak sorunu görünür kıldığını, fakat anlatıcının mahremiyetini nasıl koruyacağını düşünün. Mahrem deneyim siyasi dili besler; mahremiyeti zorla kamusallaştırmak yeni baskı üretir. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Mahrem mektup, günlük ve roman bireyin duygu ile karakterini anlatılabilir kılar; edebî tartışma siyasi kamunun duyarlılık okuluna dönüşür.",
+        "Roman okuyan kişi hiç tanımadığı kahramanın korkusunu kendi odasında yaşar, sonra salonda başkalarıyla karakter ve doğru davranış konuşur.",
+        "Özel iç dünya yazıda kamuyla paylaşılır, empati ve eleştiri alışkanlığı politik gerekçe diline taşınır.",
+        "Burjuva aile mahremiyeti ücretli ve kadın emeğine dayanırken kendisini doğal özgürlük alanı gibi gösterebilir.",
+        "Bir kişisel hikâyenin ortak sorunu görünür kıldığını, fakat anlatıcının mahremiyetini nasıl koruyacağını düşünün. Mahrem deneyim siyasi dili besler; mahremiyeti zorla kamusallaştırmak yeni baskı üretir."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "MEKÂN · KAHVEHANE",
       "title": "Kahvehaneler statüyü paranteze alma vaadi taşır",
       "paragraphs": [
-        "İngiliz kahvehaneleri, Fransız salonları ve Alman okuma toplulukları insanların eser ve haberleri makamdan bağımsız gerekçelerle tartıştığı yerler olarak belirir. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Soylu ile tüccarın aynı oyuna ilişkin iddiası soyadına değil sunduğu yoruma göre sınanıyormuş gibi davranılır. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Düzenli karşılaşma, basılı metin ve cevap verme geleneği eleştirel kamu alışkanlığı üretir. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Statü gerçekte kaybolmaz; üyelik, cinsiyet, servet ve görgü kuralları kapıyı seçici tutar. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir toplantıda unvanın görünürde kalksa bile söz süresi ve rahatlıkta nasıl sürdüğünü gözleyin. Statüyü paranteze almak onu gerçekten yok etmek için maddi erişim ve söz kuralları gerektirir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "İngiliz kahvehaneleri, Fransız salonları ve Alman okuma toplulukları insanların eser ve haberleri makamdan bağımsız gerekçelerle tartıştığı yerler olarak belirir.",
+        "Soylu ile tüccarın aynı oyuna ilişkin iddiası soyadına değil sunduğu yoruma göre sınanıyormuş gibi davranılır.",
+        "Düzenli karşılaşma, basılı metin ve cevap verme geleneği eleştirel kamu alışkanlığı üretir.",
+        "Statü gerçekte kaybolmaz; üyelik, cinsiyet, servet ve görgü kuralları kapıyı seçici tutar.",
+        "Bir toplantıda unvanın görünürde kalksa bile söz süresi ve rahatlıkta nasıl sürdüğünü gözleyin. Statüyü paranteze almak onu gerçekten yok etmek için maddi erişim ve söz kuralları gerektirir."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "MEDYA · GAZETE",
       "title": "Basın özel haberi ortak tartışmaya taşır",
       "paragraphs": [
-        "Ticari haber mektupları zamanla siyasi bilgi ve yorum taşıyan basına dönüşür; uzak olaylar aynı anda konuşulan ortak gündem haline gelir. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Liman fiyatlarını okumak için alınan kâğıtta vergi eleştirisi görünür, okur haberi kahvehanede başkasına gösterir. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Düzenli yayın dağınık okurları aynı meseleye yöneltir ve iktidarın gizli kararını kamusal gerekçe talebine açar. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Gazete sahibi ve reklam geliri gündemi seçer; basın hiçbir zaman yalnız nötr taşıyıcı değildir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Bir haber sitesinde ana sayfaya çıkan meseleyle sessiz kalan meseleyi ekonomik ve siyasi teşvikleriyle karşılaştırın. Basının gündem gücü hangi konunun ortak sorun sayılacağını belirler. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Ticari haber mektupları zamanla siyasi bilgi ve yorum taşıyan basına dönüşür; uzak olaylar aynı anda konuşulan ortak gündem haline gelir.",
+        "Liman fiyatlarını okumak için alınan kâğıtta vergi eleştirisi görünür, okur haberi kahvehanede başkasına gösterir.",
+        "Düzenli yayın dağınık okurları aynı meseleye yöneltir ve iktidarın gizli kararını kamusal gerekçe talebine açar.",
+        "Gazete sahibi ve reklam geliri gündemi seçer; basın hiçbir zaman yalnız nötr taşıyıcı değildir.",
+        "Bir haber sitesinde ana sayfaya çıkan meseleyle sessiz kalan meseleyi ekonomik ve siyasi teşvikleriyle karşılaştırın. Basının gündem gücü hangi konunun ortak sorun sayılacağını belirler."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "SİYASET · ELEŞTİRİ",
       "title": "Eleştirel kamu iktidardan gerekçe ister",
       "paragraphs": [
-        "Burjuva kamusal alanının normu, devlet kararının sır veya gelenekle değil herkesçe tartışılabilir gerekçeyle savunulmasıdır. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Vergi koyan yönetim 'çünkü emrettim' demek yerine harcama, temsil ve yasa konusunda kamu önünde açıklama yapmak zorunda kalır. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Kamuoyu yönetimin keyfîliğine karşı eleştirel denetim kurar ve yasa genel aklın ifadesi olarak düşünülür. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Kamuoyu kendisini herkes diye sunsa da oy, mülk ve eğitim sınırları yüzünden dar sınıfın görüşü olabilir. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir kamu kararında açıklanan gerekçenin veriye, itiraza ve değiştirilme ihtimaline açık olup olmadığını sorun. Kamuoyu yönetimin dışındaki gürültü değil, kararın gerekçesini sınayan ortak güçtür. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Burjuva kamusal alanının normu, devlet kararının sır veya gelenekle değil herkesçe tartışılabilir gerekçeyle savunulmasıdır.",
+        "Vergi koyan yönetim 'çünkü emrettim' demek yerine harcama, temsil ve yasa konusunda kamu önünde açıklama yapmak zorunda kalır.",
+        "Kamuoyu yönetimin keyfîliğine karşı eleştirel denetim kurar ve yasa genel aklın ifadesi olarak düşünülür.",
+        "Kamuoyu kendisini herkes diye sunsa da oy, mülk ve eğitim sınırları yüzünden dar sınıfın görüşü olabilir.",
+        "Bir kamu kararında açıklanan gerekçenin veriye, itiraza ve değiştirilme ihtimaline açık olup olmadığını sorun. Kamuoyu yönetimin dışındaki gürültü değil, kararın gerekçesini sınayan ortak güçtür."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "HUKUK · BURJUVA İDEALİ",
       "title": "Yasa özel çıkarla ortak akıl arasında durur",
       "paragraphs": [
-        "Genel ve soyut yasa, kişiye göre değişmeyen kural vaadiyle hem özel ekonomik ilişkiyi korur hem devlet gücünü sınırlar. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Tüccar sözleşmesinin saray yakınına göre değişmeyeceğini bilirse plan yapabilir; yurttaş da aynı yasanın yöneticiye uygulanmasını ister. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Öngörülebilir hukuk özel özerklik ve kamusal eleştiriyi birbirine bağlar. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Biçimsel eşit yasa, başlangıçtaki servet ve güç eşitsizliğini kendiliğinden düzeltmez. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Aynı görünen bir kuralın farklı gelir ve konumdaki iki kişiye gerçek etkisini karşılaştırın. Genel yasa gerçek etkide eşitsizse biçimsel tarafsızlık tek başına adalet sağlamaz. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Genel ve soyut yasa, kişiye göre değişmeyen kural vaadiyle hem özel ekonomik ilişkiyi korur hem devlet gücünü sınırlar.",
+        "Tüccar sözleşmesinin saray yakınına göre değişmeyeceğini bilirse plan yapabilir; yurttaş da aynı yasanın yöneticiye uygulanmasını ister.",
+        "Öngörülebilir hukuk özel özerklik ve kamusal eleştiriyi birbirine bağlar.",
+        "Biçimsel eşit yasa, başlangıçtaki servet ve güç eşitsizliğini kendiliğinden düzeltmez.",
+        "Aynı görünen bir kuralın farklı gelir ve konumdaki iki kişiye gerçek etkisini karşılaştırın. Genel yasa gerçek etkide eşitsizse biçimsel tarafsızlık tek başına adalet sağlamaz."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "DIŞLAMA · ÇOĞULLUK",
       "title": "Kapının dışında kalanlar karşı kamular kurar",
       "paragraphs": [
-        "Habermas'ın ilk modeli tek burjuva kamusuna odaklanır; feminist ve tarihsel eleştiriler kadın, işçi ve azınlıkların ayrı toplantı, basın ve karşı kamular ürettiğini gösterir. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Ana salona alınmayan işçiler kendi gazetesini çıkarır, kadınlar okuma çevresini siyasi talep alanına dönüştürür. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Dışlanan grup deneyimini ortak dile çevirir, baskın kamunun evrensellik iddiasına karşı başka kamu oluşturur. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Her parçalanma özgürleştirici değildir; kapalı grup yanlış bilgi ve düşmanlık da üretebilir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Resmî tartışmada duyulmayan bir grubun kendi alanının sözü ortak karara nasıl taşıdığını araştırın. Karşı kamu kapalı sığınak ile geniş kamuyu dönüştüren köprü arasında gidip gelebilir. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Habermas'ın ilk modeli tek burjuva kamusuna odaklanır; feminist ve tarihsel eleştiriler kadın, işçi ve azınlıkların ayrı toplantı, basın ve karşı kamular ürettiğini gösterir.",
+        "Ana salona alınmayan işçiler kendi gazetesini çıkarır, kadınlar okuma çevresini siyasi talep alanına dönüştürür.",
+        "Dışlanan grup deneyimini ortak dile çevirir, baskın kamunun evrensellik iddiasına karşı başka kamu oluşturur.",
+        "Her parçalanma özgürleştirici değildir; kapalı grup yanlış bilgi ve düşmanlık da üretebilir.",
+        "Resmî tartışmada duyulmayan bir grubun kendi alanının sözü ortak karara nasıl taşıdığını araştırın. Karşı kamu kapalı sığınak ile geniş kamuyu dönüştüren köprü arasında gidip gelebilir."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "DÖNÜŞÜM · REFAH DEVLETİ",
       "title": "Toplumsal devlet özel ve kamusal sınırı değiştirir",
       "paragraphs": [
-        "Sanayileşme, örgütlü çıkarlar ve sosyal devletle ekonomi ile yönetim birbirine daha çok girer; eski özel kişi-devlet karşıtlığı karmaşıklaşır. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "İşsizlik sigortası aile gelirini kamu kararıyla korur, büyük şirket yasa hazırlığında doğrudan pazarlık yapar. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Devlet toplumsal alana müdahale eder, özel örgütler kamusal güç kazanır ve karar bireylerden çok büyük kuruluşlar arasında müzakere edilir. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Sosyal hakları kamusal alanın bozulması saymak yoksulların gerçek katılım koşullarını küçümser. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir politika kararında bireysel yurttaşla şirket, sendika ve devletin masadaki güçlerini ayrı gösterin. Büyük örgütlerin pazarlığı yurttaş sesini artırabilir veya onun yerine konuşabilir. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Sanayileşme, örgütlü çıkarlar ve sosyal devletle ekonomi ile yönetim birbirine daha çok girer; eski özel kişi-devlet karşıtlığı karmaşıklaşır.",
+        "İşsizlik sigortası aile gelirini kamu kararıyla korur, büyük şirket yasa hazırlığında doğrudan pazarlık yapar.",
+        "Devlet toplumsal alana müdahale eder, özel örgütler kamusal güç kazanır ve karar bireylerden çok büyük kuruluşlar arasında müzakere edilir.",
+        "Sosyal hakları kamusal alanın bozulması saymak yoksulların gerçek katılım koşullarını küçümser.",
+        "Bir politika kararında bireysel yurttaşla şirket, sendika ve devletin masadaki güçlerini ayrı gösterin. Büyük örgütlerin pazarlığı yurttaş sesini artırabilir veya onun yerine konuşabilir."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "MEDYA · TÜKETİM",
       "title": "Kitle basını okuru tüketiciye çevirebilir",
       "paragraphs": [
-        "Yüksek tiraj, eğlence ve reklam basının eleştirel tartışma işlevini azaltıp kültürü kolay tüketilen pakete dönüştürebilir. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Gazete uzun bütçe incelemesi yerine ünlünün skandalını büyütür; okur ortak sorunun tartışanı değil dikkat müşterisi olur. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Reklam geliri görünürlük yarışını biçimlendirir, karmaşık konu kısa duygusal ürüne çevrilir. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Popüler kültür bütünüyle pasiflik değildir; yeni gruplara söz ve ortak deneyim de verebilir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bugün en çok paylaşılan bir içeriğin sizi soru sormaya mı yalnız tepki vermeye mi çağırdığını inceleyin. Eğlence eleştiriye düşman değildir; tüketici hızına sıkıştığında konu derinliğini kaybeder. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Yüksek tiraj, eğlence ve reklam basının eleştirel tartışma işlevini azaltıp kültürü kolay tüketilen pakete dönüştürebilir.",
+        "Gazete uzun bütçe incelemesi yerine ünlünün skandalını büyütür; okur ortak sorunun tartışanı değil dikkat müşterisi olur.",
+        "Reklam geliri görünürlük yarışını biçimlendirir, karmaşık konu kısa duygusal ürüne çevrilir.",
+        "Popüler kültür bütünüyle pasiflik değildir; yeni gruplara söz ve ortak deneyim de verebilir.",
+        "Bugün en çok paylaşılan bir içeriğin sizi soru sormaya mı yalnız tepki vermeye mi çağırdığını inceleyin. Eğlence eleştiriye düşman değildir; tüketici hızına sıkıştığında konu derinliğini kaybeder."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "MEDYA · YÖNETİLEN TANITIM",
       "title": "Halkla ilişkiler kamuyu üretmeye çalışır",
       "paragraphs": [
-        "Halkla ilişkiler ortak görüşü dinlemekten çok önceden seçilmiş çıkarı kamu yararı görüntüsüyle kabul ettirmeye çalıştığında eleştirel iletişim tersine döner. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Şirket çevreyi kirletirken ağaç dikme reklamıyla kendisini yeşil yurttaş olarak sahneler ve zor soruları arka plana iter. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Araştırma, slogan ve medya erişimi görüşü kendiliğinden doğmuş kamuoyu gibi tasarlar. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Her kurumsal iletişim aldatma değildir; şeffaf bilgi ve açık cevap kamu tartışmasına katkı verebilir. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Bir kampanyada mesajı kimin ödediğini, hangi davranışın gösterilmediğini ve bağımsız denetimi bulun. Tanıtımın kamusal olup olmadığını bağımsız soru ve olumsuz bilgiyi taşıma kapasitesi gösterir. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Halkla ilişkiler ortak görüşü dinlemekten çok önceden seçilmiş çıkarı kamu yararı görüntüsüyle kabul ettirmeye çalıştığında eleştirel iletişim tersine döner.",
+        "Şirket çevreyi kirletirken ağaç dikme reklamıyla kendisini yeşil yurttaş olarak sahneler ve zor soruları arka plana iter.",
+        "Araştırma, slogan ve medya erişimi görüşü kendiliğinden doğmuş kamuoyu gibi tasarlar.",
+        "Her kurumsal iletişim aldatma değildir; şeffaf bilgi ve açık cevap kamu tartışmasına katkı verebilir.",
+        "Bir kampanyada mesajı kimin ödediğini, hangi davranışın gösterilmediğini ve bağımsız denetimi bulun. Tanıtımın kamusal olup olmadığını bağımsız soru ve olumsuz bilgiyi taşıma kapasitesi gösterir."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "SİYASET · ANKET",
       "title": "Kamuoyu ölçümü konuşmanın yerine geçebilir",
       "paragraphs": [
-        "Anket ve pazar araştırması kamuoyunu insanların birlikte gerekçe oluşturduğu süreçten çıkarıp tek tek verilen hazır cevapların toplamına dönüştürebilir. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Bin kişiye evet-hayır sorulur; seçeneklerin neden böyle kurulduğunu konuşamayan cevaplar 'halk istiyor' başlığına dönüşür. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Dağınık tercih sayıya çevrilir, sayı siyasi meşruiyet işareti olur ve tartışma sonlanmış gibi sunulur. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "İyi tasarlanmış anket sessiz grupları görünür kılabilir; sorun ölçümün kamusal müzakerenin bütünü sayılmasıdır. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Bir anket sonucunda soru metnini, cevap seçeneklerini ve kararsızların nasıl gösterildiğini mutlaka okuyun. Anket tercihi ölçer; tercihin birlikte düşünülerek değiştiği kamusal süreci ölçmeyebilir. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Anket ve pazar araştırması kamuoyunu insanların birlikte gerekçe oluşturduğu süreçten çıkarıp tek tek verilen hazır cevapların toplamına dönüştürebilir.",
+        "Bin kişiye evet-hayır sorulur; seçeneklerin neden böyle kurulduğunu konuşamayan cevaplar 'halk istiyor' başlığına dönüşür.",
+        "Dağınık tercih sayıya çevrilir, sayı siyasi meşruiyet işareti olur ve tartışma sonlanmış gibi sunulur.",
+        "İyi tasarlanmış anket sessiz grupları görünür kılabilir; sorun ölçümün kamusal müzakerenin bütünü sayılmasıdır.",
+        "Bir anket sonucunda soru metnini, cevap seçeneklerini ve kararsızların nasıl gösterildiğini mutlaka okuyun. Anket tercihi ölçer; tercihin birlikte düşünülerek değiştiği kamusal süreci ölçmeyebilir."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "DÖNÜŞÜM · GÖSTERİ",
       "title": "Yeniden feodalleşme seyirci üretir",
       "paragraphs": [
-        "Habermas modern güç sahiplerinin tartışmaya girmek yerine kendilerini sahnelediği, eski temsili kamusallığa benzeyen bir yeniden feodalleşmeden söz eder. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Lider hazırlanmış kalabalık önünde halkla birlikte görünür, fakat bağımsız soru alamadan alkış içinde ayrılır. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Tanıtım kişiyi kamu önüne çıkarır ama karşılıklı eleştiriyi kapatır; yurttaş yeniden seyirci rolüne itilir. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Görsel temsil her zaman sahte değildir ve geniş kitle siyasete görüntü yoluyla da katılabilir. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Bir siyasi etkinlikte kimin soru seçtiğini, cevabın izlenip izlenmediğini ve izleyicinin gerçek etkisini sorun. Sahne görünürlük verir; karşı soru yoksa görünürlük hesap verme değildir. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Habermas modern güç sahiplerinin tartışmaya girmek yerine kendilerini sahnelediği, eski temsili kamusallığa benzeyen bir yeniden feodalleşmeden söz eder.",
+        "Lider hazırlanmış kalabalık önünde halkla birlikte görünür, fakat bağımsız soru alamadan alkış içinde ayrılır.",
+        "Tanıtım kişiyi kamu önüne çıkarır ama karşılıklı eleştiriyi kapatır; yurttaş yeniden seyirci rolüne itilir.",
+        "Görsel temsil her zaman sahte değildir ve geniş kitle siyasete görüntü yoluyla da katılabilir.",
+        "Bir siyasi etkinlikte kimin soru seçtiğini, cevabın izlenip izlenmediğini ve izleyicinin gerçek etkisini sorun. Sahne görünürlük verir; karşı soru yoksa görünürlük hesap verme değildir."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "BUGÜN · DİJİTAL KAMU",
       "title": "Dijital ağ hem kapıyı açar hem odaları böler",
       "paragraphs": [
-        "Sosyal medya yayın eşiğini düşürür, karşı kamulara görünürlük verir; aynı anda algoritma, taciz ve reklam mantığı ortak tartışmayı parçalayabilir. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Mahalleli belediye kararını videoyla duyurur ve örgütlenir; birkaç saat sonra sahte bilgi aynı ağda öfkeyi ele geçirir. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Kolay üretim söz çeşitliliği sağlar, sıralama sistemi dikkat ve gelir uğruna uç içeriği ödüllendirebilir. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Dijital alanı tek büyük kamusal alan saymak platform, dil, sınıf ve erişim farklarını siler. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Bir çevrimiçi tartışmada platformun hangi tepkiyi ödüllendirdiğini ve yavaş itiraz için alan olup olmadığını gözleyin. Dijital çoğulluk ortak gerçek ve karşılaşma zemini kurulmadığında paralel öfke odalarına dönüşebilir. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Sosyal medya yayın eşiğini düşürür, karşı kamulara görünürlük verir; aynı anda algoritma, taciz ve reklam mantığı ortak tartışmayı parçalayabilir.",
+        "Mahalleli belediye kararını videoyla duyurur ve örgütlenir; birkaç saat sonra sahte bilgi aynı ağda öfkeyi ele geçirir.",
+        "Kolay üretim söz çeşitliliği sağlar, sıralama sistemi dikkat ve gelir uğruna uç içeriği ödüllendirebilir.",
+        "Dijital alanı tek büyük kamusal alan saymak platform, dil, sınıf ve erişim farklarını siler.",
+        "Bir çevrimiçi tartışmada platformun hangi tepkiyi ödüllendirdiğini ve yavaş itiraz için alan olup olmadığını gözleyin. Dijital çoğulluk ortak gerçek ve karşılaşma zemini kurulmadığında paralel öfke odalarına dönüşebilir."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SONUÇ · NORM",
       "title": "İdeal ölçü eleştiri için hâlâ işe yarar",
       "paragraphs": [
-        "Tarihsel burjuva alanı hiçbir zaman tam eşit olmadı; yine de erişim, gerekçe, itiraz ve iktidardan bağımsızlık ölçüleri gerçek kurumları eleştirmek için kullanılabilir. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Açık belediye toplantısı çocuk bakımı yoksa kâğıt üzerinde herkese açıktır; ideal, bu görünmez engeli düzeltme talebi doğurur. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Norm gerçekleşmiş geçmiş değil, bugünkü dışlama ve manipülasyonu karşılaştırmaya yarayan ölçü olur. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Tek ideal bütün kamulara tek konuşma biçimi dayatmamalı; duygu, hikâye ve tanıklık da gerekçeli iletişimin parçasıdır. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Bir kamusal alanı erişim, söz eşitliği, kanıt, cevap hakkı ve karara etki başlıklarıyla puanlayın. Norm geçmişin fotoğrafı değil daha eşit bir konuşma için sürekli düzeltme aracıdır. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Tarihsel burjuva alanı hiçbir zaman tam eşit olmadı; yine de erişim, gerekçe, itiraz ve iktidardan bağımsızlık ölçüleri gerçek kurumları eleştirmek için kullanılabilir.",
+        "Açık belediye toplantısı çocuk bakımı yoksa kâğıt üzerinde herkese açıktır; ideal, bu görünmez engeli düzeltme talebi doğurur.",
+        "Norm gerçekleşmiş geçmiş değil, bugünkü dışlama ve manipülasyonu karşılaştırmaya yarayan ölçü olur.",
+        "Tek ideal bütün kamulara tek konuşma biçimi dayatmamalı; duygu, hikâye ve tanıklık da gerekçeli iletişimin parçasıdır.",
+        "Bir kamusal alanı erişim, söz eşitliği, kanıt, cevap hakkı ve karara etki başlıklarıyla puanlayın. Norm geçmişin fotoğrafı değil daha eşit bir konuşma için sürekli düzeltme aracıdır."
       ]
     },
     {

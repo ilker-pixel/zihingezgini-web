@@ -52,7 +52,7 @@ SPECS = [
     "opening_scene": "Bu ayrım yalnız kelime oyunu değildir. Otomatik devre ile bilinçli duyguyu aynı şey sanırsak farede donma davranışını azaltan tedavinin insanın kaygılı düşüncesini de mutlaka çözeceğini zannederiz.",
     "sources": [
         {"id": 1, "title": "Penguin Random House - Anxious", "url": "https://www.penguinrandomhouse.com/books/313935/anxious-by-joseph-ledoux/"},
-        {"id": 2, "title": "Joseph LeDoux Lab - Publications", "url": "https://www.cns.nyu.edu/ledoux/"},
+        {"id": 2, "title": "Joseph LeDoux - Publications", "url": "https://www.joseph-ledoux.com/neuroscientist/publications"},
     ],
     "chapters": [
         t("Korku ile savunma tepkisi aynı değildir", "BİRİNCİ KISIM · İKİ SİSTEM", "LeDoux bilinçte hissedilen korkuyu, beynin tehlike karşısında bedeni harekete geçiren savunma devrelerinden ayırır", "Yola aniden çıkan araç karşısında ayağınız frene gider, omuzlarınız kasılır; 'az kalsın çarpıyordum' cümlesi birkaç an sonra zihinde belirir", "Beden tepkisi ile duygu birbirini etkiler ama birinin varlığı diğerinin bütün içeriğini açıklamaz", "Kaygı yükseldiğinde kalp atışını, kaçınma davranışını ve zihinden geçen cümleyi ayrı ayrı fark etmek sorunun hangi katmanda büyüdüğünü gösterebilir"),

@@ -12,8 +12,6 @@
   "chapterArtColor": "#2C7B69",
   "meta": {
     "originalTitle": "Complexity: A Guided Tour",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Tek karınca şehir planını bilmez; binlerce karınca koku izleriyle verimli yol kurar. Düzen tepeden emir olmadan belirir. Mitchell'in kitabı bu şaşırtıcı 'bütün parçalardan nasıl fazla olur?' sorusunun izini sürer.",
@@ -46,13 +44,10 @@
       "section": "BİRİNCİ KISIM · SORU",
       "title": "Karmaşıklık nedir?",
       "paragraphs": [
-        "Çok parçalı bir sistem yerel etkileşimden örgütlü, uyarlanabilir ve kolay indirgenemeyen davranış ürettiğinde karmaşık sayılır. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
-        "Karınca kolonisi tek karıncada olmayan rota bulur. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
-        "Tek evrensel ölçü üzerinde uzlaşma yoktur. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
-        "Kavramı parça sayısıyla değil davranışla sınamak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Karmaşıklık nedir?” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Çok parçalı bir sistem yerel etkileşimden örgütlü, uyarlanabilir ve kolay indirgenemeyen davranış ürettiğinde karmaşık sayılır.",
+        "Karınca kolonisi tek karıncada olmayan rota bulur.",
+        "Tek evrensel ölçü üzerinde uzlaşma yoktur.",
+        "Kavramı parça sayısıyla değil davranışla sınamak gerekir."
       ]
     },
     {
@@ -60,13 +55,10 @@
       "section": "BİRİNCİ KISIM · DEĞİŞİM",
       "title": "Dinamik sistem",
       "paragraphs": [
-        "Sistemin durumu kurallar altında zamanla ilerler ve geri bildirim yeni yolu belirler. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Sarkaç her anda önceki konum ve hızdan ilerler. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
-        "Denklem gerçek dünyanın bütün ayrıntısını içermez. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Model varsayımlarını açık tutmak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Dinamik sistem” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Sistemin durumu kurallar altında zamanla ilerler ve geri bildirim yeni yolu belirler.",
+        "Sarkaç her anda önceki konum ve hızdan ilerler.",
+        "Denklem gerçek dünyanın bütün ayrıntısını içermez.",
+        "Model varsayımlarını açık tutmak gerekir."
       ]
     },
     {
@@ -74,13 +66,10 @@
       "section": "BİRİNCİ KISIM · ÖNGÖRÜ",
       "title": "Kaos ve kelebek etkisi",
       "paragraphs": [
-        "Belirlenimci kural başlangıçtaki küçük farka hassassa uzun vadeli tahmin çöker. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
-        "Hava ölçümündeki küçücük hata haftalar sonra büyür. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
-        "Kaos rastgelelik değildir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Kısa tahmin ve dayanıklılığı uzun kesinliğe tercih etmek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Kaos ve kelebek etkisi” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Belirlenimci kural başlangıçtaki küçük farka hassassa uzun vadeli tahmin çöker.",
+        "Hava ölçümündeki küçücük hata haftalar sonra büyür.",
+        "Kaos rastgelelik değildir.",
+        "Kısa tahmin ve dayanıklılığı uzun kesinliğe tercih etmek gerekir."
       ]
     },
     {
@@ -88,13 +77,10 @@
       "section": "BİRİNCİ KISIM · SHANNON",
       "title": "Bilgi nedir?",
       "paragraphs": [
-        "Bilgi kuramı mesajın anlamından çok belirsizliği ne kadar azalttığını ölçer. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
-        "Adil parada sonuç haberi bir bitlik ayrım taşır. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Bit sayısı anlam ve değer ölçüsü değildir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Teknik bilgiyle insan için önemini ayırmak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
-      ],
-      "extraParagraphs": [
-        "Büyük resmi yeniden kurduğumuzda, “Bilgi nedir?” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Bilgi kuramı mesajın anlamından çok belirsizliği ne kadar azalttığını ölçer.",
+        "Adil parada sonuç haberi bir bitlik ayrım taşır.",
+        "Bit sayısı anlam ve değer ölçüsü değildir.",
+        "Teknik bilgiyle insan için önemini ayırmak gerekir."
       ]
     },
     {
@@ -102,10 +88,10 @@
       "section": "BİRİNCİ KISIM · TURING",
       "title": "Hesaplama sınırları",
       "paragraphs": [
-        "Basit soyut makine birçok işlemi yapabilir ama bazı problemlerin genel çözümü yoktur. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Programın her durumda durup durmayacağını belirleyen evrensel test bulunmaz. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Teorik sınır pratikte hiçbir şey yapılamaz demek değildir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Yaklaşım ve özel durum çözümlerini ayırmak gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+        "Basit soyut makine birçok işlemi yapabilir ama bazı problemlerin genel çözümü yoktur.",
+        "Programın her durumda durup durmayacağını belirleyen evrensel test bulunmaz.",
+        "Teorik sınır pratikte hiçbir şey yapılamaz demek değildir.",
+        "Yaklaşım ve özel durum çözümlerini ayırmak gerekir."
       ]
     },
     {
@@ -113,13 +99,10 @@
       "section": "İKİNCİ KISIM · EVRİM",
       "title": "Evrim kör tasarımcı",
       "paragraphs": [
-        "Kalıtım, çeşitlilik ve seçilim merkezi plan olmadan karmaşık uyumlar üretir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "Kanat nesiller boyunca küçük yararlı farkların birikimiyle gelişir. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
-        "Her özellik kusursuz uyum değildir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Tarih, yan ürün ve tesadüfü hesaba katmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Evrim kör tasarımcı” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Kalıtım, çeşitlilik ve seçilim merkezi plan olmadan karmaşık uyumlar üretir.",
+        "Kanat nesiller boyunca küçük yararlı farkların birikimiyle gelişir.",
+        "Her özellik kusursuz uyum değildir.",
+        "Tarih, yan ürün ve tesadüfü hesaba katmak gerekir."
       ]
     },
     {
@@ -127,10 +110,10 @@
       "section": "İKİNCİ KISIM · GELİŞİM",
       "title": "Genler tek başına program değildir",
       "paragraphs": [
-        "Canlı biçim gen, hücre, çevre ve düzenleyici ağların etkileşiminden oluşur. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
-        "Aynı DNA farklı hücrede başka genleri çalıştırır. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
-        "Çevre vurgusu kalıtımı silmez. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Nedenleri ağ içinde ve farklı ölçeklerde aramak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+        "Canlı biçim gen, hücre, çevre ve düzenleyici ağların etkileşiminden oluşur.",
+        "Aynı DNA farklı hücrede başka genleri çalıştırır.",
+        "Çevre vurgusu kalıtımı silmez.",
+        "Nedenleri ağ içinde ve farklı ölçeklerde aramak gerekir."
       ]
     },
     {
@@ -138,13 +121,10 @@
       "section": "İKİNCİ KISIM · YAPAY HAYAT",
       "title": "Kendini kopyalayan program",
       "paragraphs": [
-        "Von Neumann basit bileşenlerin talimatı okuyup kendini kuran makine oluşturabileceğini gösterdi. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
-        "Hücre ızgarasında kopya yapan örüntü tasarlanır. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Dijital kopya canlılıkla aynı değildir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
-        "Benzetmenin metabolizma ve evrim sınırını belirtmek gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Kendini kopyalayan program” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Von Neumann basit bileşenlerin talimatı okuyup kendini kuran makine oluşturabileceğini gösterdi.",
+        "Hücre ızgarasında kopya yapan örüntü tasarlanır.",
+        "Dijital kopya canlılıkla aynı değildir.",
+        "Benzetmenin metabolizma ve evrim sınırını belirtmek gerekir."
       ]
     },
     {
@@ -152,13 +132,10 @@
       "section": "İKİNCİ KISIM · ARAMA",
       "title": "Genetik algoritma",
       "paragraphs": [
-        "Çözüm adaylarını seçip değiştirerek bilgisayar evrimi büyük arama alanında iyi sonuç bulabilir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
-        "Anten biçimleri mutasyon ve seçilimle gelişir. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
-        "Algoritma amacı ve başarı ölçüsünü insandan alır. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
-        "Uygunluk işlevinin neyi dışladığını sormak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Genetik algoritma” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Çözüm adaylarını seçip değiştirerek bilgisayar evrimi büyük arama alanında iyi sonuç bulabilir.",
+        "Anten biçimleri mutasyon ve seçilimle gelişir.",
+        "Algoritma amacı ve başarı ölçüsünü insandan alır.",
+        "Uygunluk işlevinin neyi dışladığını sormak gerekir."
       ]
     },
     {
@@ -166,13 +143,10 @@
       "section": "ÜÇÜNCÜ KISIM · YEREL KURAL",
       "title": "Hücresel otomatlar",
       "paragraphs": [
-        "Izgara hücrelerinin komşuya göre basit güncellenmesi uzun ömürlü hareketli ve hesaplayıcı örüntüler yaratabilir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
-        "Yaşam Oyunu'nda planör ekranda ilerler. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
-        "Güzel örüntü doğanın aynı kuralla çalıştığını kanıtlamaz. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Modeli açıklama ve benzetme düzeyinde sınamak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Hücresel otomatlar” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Izgara hücrelerinin komşuya göre basit güncellenmesi uzun ömürlü hareketli ve hesaplayıcı örüntüler yaratabilir.",
+        "Yaşam Oyunu'nda planör ekranda ilerler.",
+        "Güzel örüntü doğanın aynı kuralla çalıştığını kanıtlamaz.",
+        "Modeli açıklama ve benzetme düzeyinde sınamak gerekir."
       ]
     },
     {
@@ -181,12 +155,9 @@
       "title": "Karmaşıklığın eşiği",
       "paragraphs": [
         "Bazı sistemlerde tam düzen ile tam düzensizlik arasında bilgi taşıyan zengin davranış görülür.",
-        "Donmuş hücreler değişmez, rastgele hücreler iz bırakmaz, aradaki örüntü hesaplar. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Yaşam her zaman tek kritik eşikte bulunmaz. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
-        "Etkileyici hipotezi farklı sistemlerle sınamak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Karmaşıklığın eşiği” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Donmuş hücreler değişmez, rastgele hücreler iz bırakmaz, aradaki örüntü hesaplar.",
+        "Yaşam her zaman tek kritik eşikte bulunmaz.",
+        "Etkileyici hipotezi farklı sistemlerle sınamak gerekir."
       ]
     },
     {
@@ -194,10 +165,10 @@
       "section": "ÜÇÜNCÜ KISIM · BELİRME",
       "title": "Parçacıklarla hesaplamak",
       "paragraphs": [
-        "Yerel sinyaller çarpışıp yayılırken merkezi işlemci olmadan küresel hesaplama oluşabilir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
-        "Karınca izleri yiyeceğe giden kısa yolu güçlendirir. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
-        "Parçacık dili biyolojik niyeti açıklamaz. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Mekanizma ve metaforu ayırmak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+        "Yerel sinyaller çarpışıp yayılırken merkezi işlemci olmadan küresel hesaplama oluşabilir.",
+        "Karınca izleri yiyeceğe giden kısa yolu güçlendirir.",
+        "Parçacık dili biyolojik niyeti açıklamaz.",
+        "Mekanizma ve metaforu ayırmak gerekir."
       ]
     },
     {
@@ -205,13 +176,10 @@
       "section": "ÜÇÜNCÜ KISIM · YAŞAM",
       "title": "Canlı sistem bilgi işler",
       "paragraphs": [
-        "Bağışıklık, beyin ve koloni çevreden sinyal alıp dağıtık karar üretir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
-        "Bağışıklık hücreleri tek komutan olmadan tehdide cevap verir. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
-        "Bilgi sözcüğü anlamlı zihin varsaymamalıdır. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Sinyal, tepki ve işlevi somut belirtmek gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
-      ],
-      "extraParagraphs": [
-        "İddianın sınırını denemek için, “Canlı sistem bilgi işler” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Bağışıklık, beyin ve koloni çevreden sinyal alıp dağıtık karar üretir.",
+        "Bağışıklık hücreleri tek komutan olmadan tehdide cevap verir.",
+        "Bilgi sözcüğü anlamlı zihin varsaymamalıdır.",
+        "Sinyal, tepki ve işlevi somut belirtmek gerekir."
       ]
     },
     {
@@ -219,10 +187,10 @@
       "section": "DÖRDÜNCÜ KISIM · ZEKA",
       "title": "Benzetme yapmak",
       "paragraphs": [
-        "Zekâ yüzey benzerliğinden çok farklı durumlar arasındaki derin ilişkiyi esnekçe görmeyi gerektirir. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
-        "Güneş sistemi ile atom görsel benzer ama mekanizma farklıdır. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
-        "Her analoji açıklama değildir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
-        "Eşleşen ilişkiyle kopan noktayı birlikte yazmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Zekâ yüzey benzerliğinden çok farklı durumlar arasındaki derin ilişkiyi esnekçe görmeyi gerektirir.",
+        "Güneş sistemi ile atom görsel benzer ama mekanizma farklıdır.",
+        "Her analoji açıklama değildir.",
+        "Eşleşen ilişkiyle kopan noktayı birlikte yazmak gerekir."
       ]
     },
     {
@@ -230,13 +198,10 @@
       "section": "DÖRDÜNCÜ KISIM · BAĞLANTI",
       "title": "Ağ bilimi",
       "paragraphs": [
-        "Gerçek ağlarda az sayıda merkez, kısa yollar ve topluluk yapısı yayılım ile kırılganlığı belirler. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Havalimanı merkezi kapanınca uzak şehirler etkilenir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Ağ deseni nedensel tarihi tek başına açıklamaz. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
-        "Bağlantı verisini güç ve işlevle birleştirmek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
-      ],
-      "extraParagraphs": [
-        "Sahnedeki zamanı biraz yavaşlattığımızda, “Ağ bilimi” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Gerçek ağlarda az sayıda merkez, kısa yollar ve topluluk yapısı yayılım ile kırılganlığı belirler.",
+        "Havalimanı merkezi kapanınca uzak şehirler etkilenir.",
+        "Ağ deseni nedensel tarihi tek başına açıklamaz.",
+        "Bağlantı verisini güç ve işlevle birleştirmek gerekir."
       ]
     },
     {
@@ -244,13 +209,10 @@
       "section": "BEŞİNCİ KISIM · SONUÇ",
       "title": "Ölçekleme ve açık gelecek",
       "paragraphs": [
-        "Canlı ve kent ölçüleri büyürken bazı özellikler düzenli kuvvet yasaları gösterse de karmaşıklık bilimi hâlâ birleşik kuram değildir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
-        "Büyük hayvanda kalp hızı beden ölçeğiyle sistematik değişir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
-        "Güzel yasa istisna ve mekanizma ister. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Alanı tamamlanmış devrim değil üretken soru programı olarak görmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Ölçekleme ve açık gelecek” ile Complexity: A Guided Tour kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Canlı ve kent ölçüleri büyürken bazı özellikler düzenli kuvvet yasaları gösterse de karmaşıklık bilimi hâlâ birleşik kuram değildir.",
+        "Büyük hayvanda kalp hızı beden ölçeğiyle sistematik değişir.",
+        "Güzel yasa istisna ve mekanizma ister.",
+        "Alanı tamamlanmış devrim değil üretken soru programı olarak görmek gerekir."
       ]
     },
     {
@@ -270,7 +232,7 @@
       "paragraphs": [
         "Kitap Santa Fe Enstitüsü çevresindeki karmaşıklık biliminin tarihini erişilebilir biçimde sundu; kaos, evrim, hesaplama ve ağları tek yolculukta buluşturdu.",
         "Alanlar arası benzetmelerin bazen fazla geniş olduğu, karmaşıklık ölçüsünün belirsiz kaldığı, modellerin ampirik öngörüsünün sınırlı olabildiği ve 'belirme' sözünün açıklama yerine geçebildiği eleştirildi.",
-        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Complexity: A Guided Tour bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+        "Complexity: A Guided Tour bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
       ]
     },
     {
@@ -280,7 +242,7 @@
       "paragraphs": [
         "Bütün hangi yeni davranışı üretiyor? Yerel kural nedir? Model benzerlik gösteriyor mu, sınanabilir mekanizma mı veriyor?",
         "Bir kuyruk, trafik veya çevrimiçi tartışma seçin. Birey kuralını, geri bildirimi, ortaya çıkan toplu sonucu ve sistemi kırılgan yapan merkezi düğümü yazın.",
-        "Complexity: A Guided Tour bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+        "Complexity: A Guided Tour bu soruların hemen cevaplanmasını beklemez."
       ]
     },
     {
@@ -289,8 +251,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Karmaşıklık, çok sayıda parçanın basit ve yerel etkileşimlerinden merkezi plan olmadan örgütlü, uyarlanabilir ve çoğu kez öngörülmesi zor bütün davranışının doğmasıdır.",
-        "Akılda tutulacak son görüntü, zümrüt, elektrik mavisi ve turuncu tonlarında karınca yollarının hücresel ızgaraya, DNA sarmalına ve dünya ağına dönüştüğü; merkezsiz örüntülerin canlı bir girdap kurduğu bilim sahnesidir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
-        "Complexity: A Guided Tour adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+        "Akılda tutulacak son görüntü, zümrüt, elektrik mavisi ve turuncu tonlarında karınca yollarının hücresel ızgaraya, DNA sarmalına ve dünya ağına dönüştüğü; merkezsiz örüntülerin canlı bir girdap kurduğu bilim sahnesidir.",
+        "Complexity: A Guided Tour adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

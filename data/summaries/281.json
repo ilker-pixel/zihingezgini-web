@@ -12,8 +12,6 @@
   "chapterArtColor": "#526E63",
   "meta": {
     "originalTitle": "Theorie des kommunikativen Handelns II",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Habermas'ın 1981 tarihli eserinin ikinci cildi Lifeworld and System: A Critique of Functionalist Reason başlığını taşır. Birinci ciltte kurulan iletişimsel eylem kavramını toplum teorisine dönüştürür; Mead, Durkheim ve Parsons'la konuşarak yaşam dünyasının kültür, toplum ve kişilik üretimini, sistemlerin farklılaşmasını ve kolonileşme tehlikesini inceler.",
@@ -46,11 +44,11 @@
       "section": "GİRİŞ · İKİ DÜZEY",
       "title": "Toplum iki ayrı ama bağlı bakış ister",
       "paragraphs": [
-        "Habermas toplumu yalnız insanların anladığı anlamlar içinden veya yalnız dışarıdan işleyen sistem ilişkileriyle açıklamanın eksik olduğunu; yaşam dünyası ve sistem bakışlarının birlikte gerektiğini savunur. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Aile sofrasında üyeler sevgi ve geçmiş üzerinden konuşur, aynı ailenin kira ödemesi banka, iş ve hukuk sistemi içinde rakamlarla işler. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Katılımcı içeriden ortak anlam kurar, gözlemci dışarıdan sonuç ve işlev bağlantısını görür; iki açıklama birbirini düzeltir. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "İki düzey gerçek dünyada ayrı kutular değildir; aynı kurumda konuşma, para ve güç iç içe geçebilir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir olayı yaşayanların anlamıyla dış göstergelerde görülen sonucunu iki sütunda karşılaştırın. İçeriden anlam ile dışarıdan işlev aynı olayın farklı fakat birbirini sınırlayan bilgisidir. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Habermas toplumu yalnız insanların anladığı anlamlar içinden veya yalnız dışarıdan işleyen sistem ilişkileriyle açıklamanın eksik olduğunu; yaşam dünyası ve sistem bakışlarının birlikte gerektiğini savunur.",
+        "Aile sofrasında üyeler sevgi ve geçmiş üzerinden konuşur, aynı ailenin kira ödemesi banka, iş ve hukuk sistemi içinde rakamlarla işler.",
+        "Katılımcı içeriden ortak anlam kurar, gözlemci dışarıdan sonuç ve işlev bağlantısını görür; iki açıklama birbirini düzeltir.",
+        "İki düzey gerçek dünyada ayrı kutular değildir; aynı kurumda konuşma, para ve güç iç içe geçebilir.",
+        "Bir olayı yaşayanların anlamıyla dış göstergelerde görülen sonucunu iki sütunda karşılaştırın. İçeriden anlam ile dışarıdan işlev aynı olayın farklı fakat birbirini sınırlayan bilgisidir."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "YAŞAM DÜNYASI · ZEMİN",
       "title": "Yaşam dünyası konuşmanın sessiz arka planıdır",
       "paragraphs": [
-        "İnsanlar her cümlede dilin, geleneğin ve ilişkilerin tamamını açıklamaz; paylaşıldığı varsayılan bilgi ve güven konuşmayı mümkün kılan yaşam dünyasını oluşturur. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "'Her zamanki yerde buluşalım' diyen iki dost adres, saat alışkanlığı ve dostluğun sürdüğünü uzun uzun kanıtlamadan anlaşır. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Biriken kültürel bilgi ve yerleşik beklenti belirsizliği azaltır, iletişim belirli konuya odaklanabilir. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Paylaşılan arka plan gerçekten herkesçe paylaşılmayabilir; yeni gelen veya azınlık sessizce dışarıda kalabilir. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Bir toplantıda açıklanmayan üç kuralı yazıp yeni katılanın bunları nasıl öğreneceğini sorun. Yaşam dünyası görünmez olduğu için ancak bozulduğunda fark edilen ortak altyapıya benzer. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "İnsanlar her cümlede dilin, geleneğin ve ilişkilerin tamamını açıklamaz; paylaşıldığı varsayılan bilgi ve güven konuşmayı mümkün kılan yaşam dünyasını oluşturur.",
+        "'Her zamanki yerde buluşalım' diyen iki dost adres, saat alışkanlığı ve dostluğun sürdüğünü uzun uzun kanıtlamadan anlaşır.",
+        "Biriken kültürel bilgi ve yerleşik beklenti belirsizliği azaltır, iletişim belirli konuya odaklanabilir.",
+        "Paylaşılan arka plan gerçekten herkesçe paylaşılmayabilir; yeni gelen veya azınlık sessizce dışarıda kalabilir.",
+        "Bir toplantıda açıklanmayan üç kuralı yazıp yeni katılanın bunları nasıl öğreneceğini sorun. Yaşam dünyası görünmez olduğu için ancak bozulduğunda fark edilen ortak altyapıya benzer."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "YAŞAM DÜNYASI · KÜLTÜR",
       "title": "Kültür anlam kaynaklarını yeniler",
       "paragraphs": [
-        "İletişimsel eylem yoluyla insanlar geçmişten aldıkları bilgiyi aktarır, yorumlar ve yeni durum karşısında düzeltir; buna kültürel yeniden üretim denir. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Dede aile hikâyesini anlatır, torun hikâyedeki sessiz bırakılmış kadını sorar ve ortak geçmiş yeni bir anlam kazanır. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Gelenek konuşmada devralınır, itirazla sınanır ve sonraki kuşağa değişmiş biçimde geçer. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Aktarım yalnız uyum değildir; okul ve medya baskın grubun bilgisini evrensel gibi öğretebilir. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir aile veya kurum hikâyesinde kimin konuştuğunu, kimin yalnız nesne olarak geçtiğini araştırın. Kültür kopyalanmaz; her aktarımda soru ve yeni deneyimle yeniden üretilir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "İletişimsel eylem yoluyla insanlar geçmişten aldıkları bilgiyi aktarır, yorumlar ve yeni durum karşısında düzeltir; buna kültürel yeniden üretim denir.",
+        "Dede aile hikâyesini anlatır, torun hikâyedeki sessiz bırakılmış kadını sorar ve ortak geçmiş yeni bir anlam kazanır.",
+        "Gelenek konuşmada devralınır, itirazla sınanır ve sonraki kuşağa değişmiş biçimde geçer.",
+        "Aktarım yalnız uyum değildir; okul ve medya baskın grubun bilgisini evrensel gibi öğretebilir.",
+        "Bir aile veya kurum hikâyesinde kimin konuştuğunu, kimin yalnız nesne olarak geçtiğini araştırın. Kültür kopyalanmaz; her aktarımda soru ve yeni deneyimle yeniden üretilir."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "YAŞAM DÜNYASI · TOPLUM",
       "title": "Toplumsal bütünleşme karşılıklı beklenti kurar",
       "paragraphs": [
-        "İnsanlar hak ve sorumluluklarını anlaşılır normlar içinde koordine ettiğinde yalnız yan yana bulunmaz, meşru üyelik ilişkisi kurar. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Apartman sakinleri gürültü kuralını konuşur, istisnaları belirler ve herkesin itiraz yolunu kabul eder. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Norm karşılıklı beklentiyi sabitler, güven ve aidiyet oluşturur; ihlal açıklama ve onarım talebi doğurur. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Yüzeyde uzlaşma korkudan kaynaklanabilir; gerçek bütünleşme dışlanan kişinin söz ve hak gücünü gerektirir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Bir grupta herkesin bildiği kuralın gerçekten herkesçe değiştirilebilir olup olmadığını sorun. Toplumsal bütünleşme sessizlik değil meşru itirazdan sonra da sürebilen bağlılıktır. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "İnsanlar hak ve sorumluluklarını anlaşılır normlar içinde koordine ettiğinde yalnız yan yana bulunmaz, meşru üyelik ilişkisi kurar.",
+        "Apartman sakinleri gürültü kuralını konuşur, istisnaları belirler ve herkesin itiraz yolunu kabul eder.",
+        "Norm karşılıklı beklentiyi sabitler, güven ve aidiyet oluşturur; ihlal açıklama ve onarım talebi doğurur.",
+        "Yüzeyde uzlaşma korkudan kaynaklanabilir; gerçek bütünleşme dışlanan kişinin söz ve hak gücünü gerektirir.",
+        "Bir grupta herkesin bildiği kuralın gerçekten herkesçe değiştirilebilir olup olmadığını sorun. Toplumsal bütünleşme sessizlik değil meşru itirazdan sonra da sürebilen bağlılıktır."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "YAŞAM DÜNYASI · KİŞİ",
       "title": "Kişilik konuşma içinde yeterlik kazanır",
       "paragraphs": [
-        "Çocuk ve yetişkin toplumsallaşma içinde rol üstlenmeyi, kendi kimliğini sürdürmeyi ve başkasının beklentisine cevap vermeyi öğrenir. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Çocuk oyunda sıranın yalnız kendisine değil herkese uygulandığını fark eder, sonra haksız bulduğu kurala itiraz etmeyi öğrenir. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Dil ve rol alma bireyi ortak normlara bağlar; aynı anda özneye hayır deme ve yeni kimlik kurma kapasitesi verir. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Toplumsallaşma uyum baskısına dönüşebilir; iyi kişilik yalnız kurala itaat eden kişi değildir. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir kuralı ilk kez ne zaman yalnız korkudan değil haklı bulduğunuz için izlediğinizi hatırlayın. Kişilik yalnız uyum sağlayan rol değil gerektiğinde rolü gerekçeyle dönüştüren özne kapasitesidir. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Çocuk ve yetişkin toplumsallaşma içinde rol üstlenmeyi, kendi kimliğini sürdürmeyi ve başkasının beklentisine cevap vermeyi öğrenir.",
+        "Çocuk oyunda sıranın yalnız kendisine değil herkese uygulandığını fark eder, sonra haksız bulduğu kurala itiraz etmeyi öğrenir.",
+        "Dil ve rol alma bireyi ortak normlara bağlar; aynı anda özneye hayır deme ve yeni kimlik kurma kapasitesi verir.",
+        "Toplumsallaşma uyum baskısına dönüşebilir; iyi kişilik yalnız kurala itaat eden kişi değildir.",
+        "Bir kuralı ilk kez ne zaman yalnız korkudan değil haklı bulduğunuz için izlediğinizi hatırlayın. Kişilik yalnız uyum sağlayan rol değil gerektiğinde rolü gerekçeyle dönüştüren özne kapasitesidir."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "MEAD · SEMBOL",
       "title": "Mead benliğin ilişkide oluştuğunu gösterir",
       "paragraphs": [
-        "Mead'e göre anlam, jestin karşı tarafta uyandırdığı tepkiyi kişinin kendisinin de anlayabildiği ortak sembollerle gelişir; benlik başkasının bakışını içselleştirir. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Çocuk 'pas ver' sözünün takım arkadaşında ne beklenti doğurduğunu öğrendikçe oyunu ve kendi rolünü birlikte kavrar. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Rol alma, kişi ile toplum arasında köprü kurar; birey genelleşmiş ötekinin beklentisini kendi içinde değerlendirebilir. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Başkasının bakışını içselleştirmek baskıcı normu da taşıyabilir; eleştirel mesafe ayrıca öğrenilmelidir. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Bir çatışmada cümlenizin karşı kişide nasıl duyulduğunu onun ağzından doğru biçimde tekrar edin. Başkasının gözünü içselleştirmek benliği kurar; tek göz baskınsa benliği daraltabilir. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Mead'e göre anlam, jestin karşı tarafta uyandırdığı tepkiyi kişinin kendisinin de anlayabildiği ortak sembollerle gelişir; benlik başkasının bakışını içselleştirir.",
+        "Çocuk 'pas ver' sözünün takım arkadaşında ne beklenti doğurduğunu öğrendikçe oyunu ve kendi rolünü birlikte kavrar.",
+        "Rol alma, kişi ile toplum arasında köprü kurar; birey genelleşmiş ötekinin beklentisini kendi içinde değerlendirebilir.",
+        "Başkasının bakışını içselleştirmek baskıcı normu da taşıyabilir; eleştirel mesafe ayrıca öğrenilmelidir.",
+        "Bir çatışmada cümlenizin karşı kişide nasıl duyulduğunu onun ağzından doğru biçimde tekrar edin. Başkasının gözünü içselleştirmek benliği kurar; tek göz baskınsa benliği daraltabilir."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "DURKHEIM · DAYANIŞMA",
       "title": "Durkheim kutsal ortak normun gücünü açıklar",
       "paragraphs": [
-        "Ortak ritüel ve kutsal sembol topluluğun kendisini aşan bağını görünür kılar; zamanla kutsal otorite daha açıkça tartışılabilir normlara dönüşebilir. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Törende aynı sözü söyleyen insanlar birlik hisseder; sonraki kuşak sözün hangi davranışı zorunlu kıldığını gerekçeyle tartışır. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Duygusal bağ normu yalnız emir değil ortak kimliğin parçası yapar, iletişimsel gelişme normu eleştiriye açar. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Kutsallığın çözülmesi otomatik özgürlük değildir; yalnızlık ve anlam kaybı doğabilir, yeni dogmalar kurulabilir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Bir toplu törende hissettiğiniz bağı ve törenden çıkan gerçek sorumluluğu ayrı ayrı yazın. Ritüel normu bedene taşır, kamusal gerekçe normu yabancıya da açıklanabilir kılar. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Ortak ritüel ve kutsal sembol topluluğun kendisini aşan bağını görünür kılar; zamanla kutsal otorite daha açıkça tartışılabilir normlara dönüşebilir.",
+        "Törende aynı sözü söyleyen insanlar birlik hisseder; sonraki kuşak sözün hangi davranışı zorunlu kıldığını gerekçeyle tartışır.",
+        "Duygusal bağ normu yalnız emir değil ortak kimliğin parçası yapar, iletişimsel gelişme normu eleştiriye açar.",
+        "Kutsallığın çözülmesi otomatik özgürlük değildir; yalnızlık ve anlam kaybı doğabilir, yeni dogmalar kurulabilir.",
+        "Bir toplu törende hissettiğiniz bağı ve törenden çıkan gerçek sorumluluğu ayrı ayrı yazın. Ritüel normu bedene taşır, kamusal gerekçe normu yabancıya da açıklanabilir kılar."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "SİSTEM · İŞLEV",
       "title": "Sistem karmaşık sonucu niyet olmadan koordine eder",
       "paragraphs": [
-        "Büyük toplumlarda her sonuç ortak konuşmayla planlanmaz; piyasalar ve yönetim, çok sayıda eylemi kişilerin bütün ağı bilmesine gerek kalmadan birbirine bağlar. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Ekmekçi müşterilerin hayat hikâyesini bilmez, fiyat ve sipariş işaretiyle üretimi ayarlar; belediye bütçeyle yüzlerce hizmeti koordine eder. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Geri bildirim, kaynak ve yaptırım dağınık eylemleri işlevsel bir bütün içinde düzenler. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Sistem sonucu açıklamak insan niyetini ve sorumluluğu silmemelidir; kurallar insanlarca tasarlanır ve değiştirilebilir. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Kullandığınız bir hizmette görünür anlaşma olmadan koordinasyonu sağlayan fiyat, form veya yaptırımı bulun. Sistem görünmeyen koordinasyon sağlar; başarısının ölçüsü yalnız çıktı değil toplumsal maliyettir. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Büyük toplumlarda her sonuç ortak konuşmayla planlanmaz; piyasalar ve yönetim, çok sayıda eylemi kişilerin bütün ağı bilmesine gerek kalmadan birbirine bağlar.",
+        "Ekmekçi müşterilerin hayat hikâyesini bilmez, fiyat ve sipariş işaretiyle üretimi ayarlar; belediye bütçeyle yüzlerce hizmeti koordine eder.",
+        "Geri bildirim, kaynak ve yaptırım dağınık eylemleri işlevsel bir bütün içinde düzenler.",
+        "Sistem sonucu açıklamak insan niyetini ve sorumluluğu silmemelidir; kurallar insanlarca tasarlanır ve değiştirilebilir.",
+        "Kullandığınız bir hizmette görünür anlaşma olmadan koordinasyonu sağlayan fiyat, form veya yaptırımı bulun. Sistem görünmeyen koordinasyon sağlar; başarısının ölçüsü yalnız çıktı değil toplumsal maliyettir."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "SİSTEM · MEDYA",
       "title": "Para ve iktidar iletişimi kısaltan araçlardır",
       "paragraphs": [
-        "Para ve idari iktidar, her alışveriş veya yönetim kararında bütün gerekçeleri baştan konuşmadan eylemi koordine eden genelleşmiş araçlardır. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Otobüse binerken şoförle ulaşımın ortak değerini tartışmaz, ücret ödersiniz; acil durumda görevli yasal yetkiyle alanı boşaltır. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Araç karmaşıklığı azaltır ve hızlı koordinasyon sağlar; kabul, sözlü uzlaşma yerine ödeme veya meşru karar üzerinden olur. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Parası veya yetkisi olanın her talebi haklı değildir; aracın sınırı hukuk ve kamusal gerekçeyle çizilmelidir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bir işlemin hızlı olmasını sağlayan aracın aynı anda hangi insani bilgiyi dışarıda bıraktığını sorun. Para ve iktidar konuşmayı kısaltır, hangi konuda konuşmayı kesemeyeceği demokratik sorudur. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Para ve idari iktidar, her alışveriş veya yönetim kararında bütün gerekçeleri baştan konuşmadan eylemi koordine eden genelleşmiş araçlardır.",
+        "Otobüse binerken şoförle ulaşımın ortak değerini tartışmaz, ücret ödersiniz; acil durumda görevli yasal yetkiyle alanı boşaltır.",
+        "Araç karmaşıklığı azaltır ve hızlı koordinasyon sağlar; kabul, sözlü uzlaşma yerine ödeme veya meşru karar üzerinden olur.",
+        "Parası veya yetkisi olanın her talebi haklı değildir; aracın sınırı hukuk ve kamusal gerekçeyle çizilmelidir.",
+        "Bir işlemin hızlı olmasını sağlayan aracın aynı anda hangi insani bilgiyi dışarıda bıraktığını sorun. Para ve iktidar konuşmayı kısaltır, hangi konuda konuşmayı kesemeyeceği demokratik sorudur."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "MODERNLİK · KOPUŞ",
       "title": "Sistem ile yaşam dünyası birbirinden ayrışır",
       "paragraphs": [
-        "Toplum büyüdükçe ekonomi ve yönetim gündelik ortak anlamdan kısmen kopup kendi performans kurallarıyla çalışan alt sistemlere dönüşür. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Küçük toplulukta yardım yüz yüze borç ve güvenle yürürken ulusal sosyal güvenlik milyonları kayıt ve bütçeyle destekler. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Ayrışma büyük ölçekte eşit hizmet ve uzmanlaşma sağlar, fakat kararın gündelik deneyimden uzaklaşması riskini taşır. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Eski yüz yüze düzen her zaman sıcak ve adil değildir; akrabalık baskısı ile keyfî ayrım da taşıyabilir. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Bir hizmette kişisel yakınlık yerine genel kuralın sağladığı adaleti ve yarattığı uzaklığı birlikte değerlendirin. Ayrışma özgürlük ve ölçek kazandırır; denetimsiz kopuş meşruiyet ve anlam kaybı getirir. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Toplum büyüdükçe ekonomi ve yönetim gündelik ortak anlamdan kısmen kopup kendi performans kurallarıyla çalışan alt sistemlere dönüşür.",
+        "Küçük toplulukta yardım yüz yüze borç ve güvenle yürürken ulusal sosyal güvenlik milyonları kayıt ve bütçeyle destekler.",
+        "Ayrışma büyük ölçekte eşit hizmet ve uzmanlaşma sağlar, fakat kararın gündelik deneyimden uzaklaşması riskini taşır.",
+        "Eski yüz yüze düzen her zaman sıcak ve adil değildir; akrabalık baskısı ile keyfî ayrım da taşıyabilir.",
+        "Bir hizmette kişisel yakınlık yerine genel kuralın sağladığı adaleti ve yarattığı uzaklığı birlikte değerlendirin. Ayrışma özgürlük ve ölçek kazandırır; denetimsiz kopuş meşruiyet ve anlam kaybı getirir."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "PATOLOJİ · KOLONİLEŞME",
       "title": "Kolonileşme araçların yanlış alana girmesidir",
       "paragraphs": [
-        "Para ve iktidar, güven, eğitim, bakım ve kimlik gibi anlaşma gerektiren alanları kendi başarı ölçülerine göre düzenlediğinde yaşam dünyasını kolonileştirir. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Okul öğrenme ve merak yerine yalnız test puanı ve bütçe performansına göre yönetildiğinde öğretmen ile öğrenci ilişkisinin anlamı daralır. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Sistem aracı ilişkiye dış ödül veya emir sokar, iç motivasyon ve ortak norm üretimi zayıflar. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Her para veya kural kullanımı kolonileşme değildir; öğretmene adil ücret ve çocuğu koruyan hukuk yaşam dünyasını destekler. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Bir bakım alanında sayının gerekli sınırını ve insan yargısının devreye girmesi gereken noktayı belirleyin. Kolonileşme sayının varlığı değil sayının ilişki hakkındaki son sözü söylemesidir. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Para ve iktidar, güven, eğitim, bakım ve kimlik gibi anlaşma gerektiren alanları kendi başarı ölçülerine göre düzenlediğinde yaşam dünyasını kolonileştirir.",
+        "Okul öğrenme ve merak yerine yalnız test puanı ve bütçe performansına göre yönetildiğinde öğretmen ile öğrenci ilişkisinin anlamı daralır.",
+        "Sistem aracı ilişkiye dış ödül veya emir sokar, iç motivasyon ve ortak norm üretimi zayıflar.",
+        "Her para veya kural kullanımı kolonileşme değildir; öğretmene adil ücret ve çocuğu koruyan hukuk yaşam dünyasını destekler.",
+        "Bir bakım alanında sayının gerekli sınırını ve insan yargısının devreye girmesi gereken noktayı belirleyin. Kolonileşme sayının varlığı değil sayının ilişki hakkındaki son sözü söylemesidir."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "HUKUK · HUKUKSALLAŞMA",
       "title": "Hukuk hem korur hem gündelik hayatı kuşatabilir",
       "paragraphs": [
-        "Modern hukuk hakları güvenceye alır ve sistemleri sınırlar; aynı zamanda ilişkileri giderek ayrıntılı maddelere bağlayıp doğrudan anlaşma kapasitesini zayıflatabilir. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Şiddete uğrayan eş için yasa hayati koruma sağlar; her küçük aile anlaşmazlığının yalnız form ve mahkemeyle yürütülmesi ise ilişki dilini daraltabilir. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Hak, zayıf kişiye dış güvence verir; aşırı bürokratik düzenleme ortak sorumluluğu prosedüre devredebilir. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Hukuk eleştirisi savunmasız kişiyi aile veya topluluk keyfine bırakma bahanesi olamaz. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Bir anlaşmazlıkta kesin hak güvencesi gereken yerle arabuluculuk yapılabilecek yeri dikkatle ayırın. Hukuk zayıfın hayırını güçlendirdiğinde iletişimi boğmak yerine mümkün kılar. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Modern hukuk hakları güvenceye alır ve sistemleri sınırlar; aynı zamanda ilişkileri giderek ayrıntılı maddelere bağlayıp doğrudan anlaşma kapasitesini zayıflatabilir.",
+        "Şiddete uğrayan eş için yasa hayati koruma sağlar; her küçük aile anlaşmazlığının yalnız form ve mahkemeyle yürütülmesi ise ilişki dilini daraltabilir.",
+        "Hak, zayıf kişiye dış güvence verir; aşırı bürokratik düzenleme ortak sorumluluğu prosedüre devredebilir.",
+        "Hukuk eleştirisi savunmasız kişiyi aile veya topluluk keyfine bırakma bahanesi olamaz.",
+        "Bir anlaşmazlıkta kesin hak güvencesi gereken yerle arabuluculuk yapılabilecek yeri dikkatle ayırın. Hukuk zayıfın hayırını güçlendirdiğinde iletişimi boğmak yerine mümkün kılar."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "DEVLET · ÇİFT YÜZ",
       "title": "Refah devleti özgürleştirir ve yönetir",
       "paragraphs": [
-        "Sosyal haklar piyasa bağımlılığını azaltır ve gerçek katılım koşulu sağlar; fakat yardımın bürokratik yönetimi kişiyi dosya ve pasif müşteri konumuna indirebilir. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "İşsiz kişi gelir desteğiyle evini korur, aynı zamanda onlarca formda hayatını yabancı ölçülere kanıtlamak zorunda kalır. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Kaynak transferi özgürlük sağlar, idari sınıflama ihtiyacı standart kontrol ve bağımlılık üretir. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Bürokrasi kusuru sosyal hakkın gereksiz olduğunu göstermez; çözüm şeffaf, katılımcı ve onur koruyan tasarımdır. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Bir kamu yardımında paranın yanında söz hakkı, açıklık ve itiraz yolunun bulunup bulunmadığını inceleyin. Sosyal hak onuru güçlendirir; alıcıyı şüpheli dosya yaptığında kendi amacını zedeler. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Sosyal haklar piyasa bağımlılığını azaltır ve gerçek katılım koşulu sağlar; fakat yardımın bürokratik yönetimi kişiyi dosya ve pasif müşteri konumuna indirebilir.",
+        "İşsiz kişi gelir desteğiyle evini korur, aynı zamanda onlarca formda hayatını yabancı ölçülere kanıtlamak zorunda kalır.",
+        "Kaynak transferi özgürlük sağlar, idari sınıflama ihtiyacı standart kontrol ve bağımlılık üretir.",
+        "Bürokrasi kusuru sosyal hakkın gereksiz olduğunu göstermez; çözüm şeffaf, katılımcı ve onur koruyan tasarımdır.",
+        "Bir kamu yardımında paranın yanında söz hakkı, açıklık ve itiraz yolunun bulunup bulunmadığını inceleyin. Sosyal hak onuru güçlendirir; alıcıyı şüpheli dosya yaptığında kendi amacını zedeler."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "PATOLOJİ · ANLAM KAYBI",
       "title": "Toplumsal patoloji iletişim bozulmasında görünür",
       "paragraphs": [
-        "Kültürel aktarım, toplumsal bütünleşme veya kişilik oluşumu aksadığında anlam kaybı, güvensizlik ve yönsüzlük gibi patolojiler ortaya çıkabilir. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Sürekli değişen işyerinde kimse kurumun amacını bilmez, ekipler birbirine güvenmez ve çalışan kendi emeğini değersiz hisseder. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Ortak anlam yenilenmez, norm meşruiyetini kaybeder, kişi rolünü sürdüremez; sistem başarı göstergesi iyi olsa bile yaşam dünyası yıpranır. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Her mutsuzluk iletişim sorunu değildir; ücret, hastalık ve şiddet gibi maddi nedenler doğrudan ele alınmalıdır. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Bir kurumda iyi görünen performans sayısının yanında güven, anlam ve aidiyet işaretlerini de sorun. Patolojiye yalnız bireyin ruhunda değil anlam üreten kurumların kırık bağlantısında da bakılır. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Kültürel aktarım, toplumsal bütünleşme veya kişilik oluşumu aksadığında anlam kaybı, güvensizlik ve yönsüzlük gibi patolojiler ortaya çıkabilir.",
+        "Sürekli değişen işyerinde kimse kurumun amacını bilmez, ekipler birbirine güvenmez ve çalışan kendi emeğini değersiz hisseder.",
+        "Ortak anlam yenilenmez, norm meşruiyetini kaybeder, kişi rolünü sürdüremez; sistem başarı göstergesi iyi olsa bile yaşam dünyası yıpranır.",
+        "Her mutsuzluk iletişim sorunu değildir; ücret, hastalık ve şiddet gibi maddi nedenler doğrudan ele alınmalıdır.",
+        "Bir kurumda iyi görünen performans sayısının yanında güven, anlam ve aidiyet işaretlerini de sorun. Patolojiye yalnız bireyin ruhunda değil anlam üreten kurumların kırık bağlantısında da bakılır."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "SİYASET · HAREKETLER",
       "title": "Yeni toplumsal hareketler yaşam biçimini savunur",
       "paragraphs": [
-        "Çevre, kadın, barış ve kimlik hareketleri yalnız daha çok ücret veya devlet payı değil, hangi yaşam biçiminin değerli olduğunu ve kararların nasıl alınacağını tartışır. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Mahalleli parkı emlak değeri için değil ortak yaşam, çocuk ve doğa ilişkisi için savunur; toplantının açık biçimini de talebin parçası yapar. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Hareket sistemin dış maliyetini görünür kılar, yeni dil ve kimlik üretir, yaşam dünyasının sınırını kamusal tartışmaya taşır. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Hareketler de kendi içinde dışlayıcı, lider merkezli veya yanlış bilgili olabilir; iletişim ölçüsü onlara da uygulanır. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Desteklediğiniz bir hareketin amacı kadar iç karar ve itiraz biçimini de değerlendirin. Hareket yaşam dünyasını savunurken kendi iç konuşma koşullarını da örneklemek zorundadır. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Çevre, kadın, barış ve kimlik hareketleri yalnız daha çok ücret veya devlet payı değil, hangi yaşam biçiminin değerli olduğunu ve kararların nasıl alınacağını tartışır.",
+        "Mahalleli parkı emlak değeri için değil ortak yaşam, çocuk ve doğa ilişkisi için savunur; toplantının açık biçimini de talebin parçası yapar.",
+        "Hareket sistemin dış maliyetini görünür kılar, yeni dil ve kimlik üretir, yaşam dünyasının sınırını kamusal tartışmaya taşır.",
+        "Hareketler de kendi içinde dışlayıcı, lider merkezli veya yanlış bilgili olabilir; iletişim ölçüsü onlara da uygulanır.",
+        "Desteklediğiniz bir hareketin amacı kadar iç karar ve itiraz biçimini de değerlendirin. Hareket yaşam dünyasını savunurken kendi iç konuşma koşullarını da örneklemek zorundadır."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SONUÇ · DENGE",
       "title": "Modernlik bitmiş değil eksik bir projedir",
       "paragraphs": [
-        "Habermas modern farklılaşmayı geri çevirmek yerine sistemin başarılarını koruyup onu iletişimsel olarak üretilen norm, hukuk ve demokratik denetimle sınırlamayı önerir. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Hastane bütçe tablosunu kaldırmaz; hasta, çalışan ve kamunun bakım ölçüsünü belirleyebildiği süreçle tabloyu doğru yere bağlar. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Sistem verim üretir, yaşam dünyası meşruiyet ve anlam üretir; demokratik kurumlar iki düzen arasında çeviri ve sınır kurar. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "İletişimsel demokrasi zaman, bilgi ve güvence ister; yalnız toplantı açmak ekonomik gücü eşitlemez. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir kurum için hangi kararın uzman hesaba, hangisinin etkilenenlerin açık gerekçesine ait olduğunu birlikte tasarlayın. Eksik modernlik çözümü sistemi dağıtmak değil onun sınırını kamuya geri vermektir. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Habermas modern farklılaşmayı geri çevirmek yerine sistemin başarılarını koruyup onu iletişimsel olarak üretilen norm, hukuk ve demokratik denetimle sınırlamayı önerir.",
+        "Hastane bütçe tablosunu kaldırmaz; hasta, çalışan ve kamunun bakım ölçüsünü belirleyebildiği süreçle tabloyu doğru yere bağlar.",
+        "Sistem verim üretir, yaşam dünyası meşruiyet ve anlam üretir; demokratik kurumlar iki düzen arasında çeviri ve sınır kurar.",
+        "İletişimsel demokrasi zaman, bilgi ve güvence ister; yalnız toplantı açmak ekonomik gücü eşitlemez.",
+        "Bir kurum için hangi kararın uzman hesaba, hangisinin etkilenenlerin açık gerekçesine ait olduğunu birlikte tasarlayın. Eksik modernlik çözümü sistemi dağıtmak değil onun sınırını kamuya geri vermektir."
       ]
     },
     {

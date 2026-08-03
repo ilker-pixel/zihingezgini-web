@@ -12,8 +12,6 @@
   "chapterArtColor": "#4B7289",
   "meta": {
     "originalTitle": "Intuition Pumps and Other Tools for Thinking",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Bir düşünce deneyi küçük bir hikâye gibi görünür: Bir robot odası, bir bataklık kopyası, görünmez kumar makinesi… Fakat hikâyenin düğmeleri vardır. Ayrıntılardan birini değiştirince sezgimiz de değişebilir. Dennett bu yüzden düşünce deneylerini kutsal kanıt değil, sökülüp ayarlanması gereken zihinsel pompalar olarak görür.",
@@ -46,11 +44,11 @@
       "section": "ATÖLYE · MODEL",
       "title": "Sezgi pompasının düğmeleri",
       "paragraphs": [
-        "Düşünce deneyi karmaşık soruyu hayal edilebilir sahneye çevirir; iyi kullanımda hangi ayrıntının sonucu yönettiğini tek tek değiştiririz. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Işınlanma makinesi sizi kopyalıyor denince korkarsınız; asıl beden yok edilmese, iki kopya olsa veya anılar eksik kalsa hükmünüz değişebilir. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Hikâyenin düğmeleri gizli varsayımlardır; varyasyonlar sezginin sağlam ilkeye mi, kelime seçimine mi dayandığını açığa çıkarır. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Sezgi tek başına kanıt değildir ama doğru soruyu bulmak ve kuramın sonucunu görmek için değerlidir. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Etkileyici bir örnekte bir ayrıntıyı tersine çevirip sonucun hâlâ aynı olup olmadığını sınayın. İyi pompa sezgiyi yalnız güçlendirmez; ayarları değişince nerede kırıldığını da gösterir. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Düşünce deneyi karmaşık soruyu hayal edilebilir sahneye çevirir; iyi kullanımda hangi ayrıntının sonucu yönettiğini tek tek değiştiririz.",
+        "Işınlanma makinesi sizi kopyalıyor denince korkarsınız; asıl beden yok edilmese, iki kopya olsa veya anılar eksik kalsa hükmünüz değişebilir.",
+        "Hikâyenin düğmeleri gizli varsayımlardır; varyasyonlar sezginin sağlam ilkeye mi, kelime seçimine mi dayandığını açığa çıkarır.",
+        "Sezgi tek başına kanıt değildir ama doğru soruyu bulmak ve kuramın sonucunu görmek için değerlidir.",
+        "Etkileyici bir örnekte bir ayrıntıyı tersine çevirip sonucun hâlâ aynı olup olmadığını sınayın. İyi pompa sezgiyi yalnız güçlendirmez; ayarları değişince nerede kırıldığını da gösterir."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "GENEL ALETLER · HATA",
       "title": "Hata yapmak için yer açmak",
       "paragraphs": [
-        "Dennett iyi düşünmenin yanlış yapmaktan kaçınmak değil, ucuz ve öğretici hataları erken üretip onlardan bilgi çıkarmak olduğunu söyler. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Bisiklete binmeyi öğrenen çocuk hiç düşmemek için hareket etmezse dengeyi öğrenemez; küçük güvenli sapmalar bedenine geri bildirim verir. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Hata beklenen sonuçla gerçek sonuç arasındaki farkı gösterir ve kuramın hangi parçasının değiştirilmesi gerektiğini işaretler. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Her hata değerli değildir; tekrar eden zarar ve özensizlik öğrenme diye süslenmemelidir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Büyük karar öncesi küçük bir deneme kurup hangi yanılgının düşük maliyetle ortaya çıkabileceğini düşünün. Bilimde başarısız deney, doğru kaydedilirse hangi yolun çalışmadığını kalıcı bilgiye çevirir. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Dennett iyi düşünmenin yanlış yapmaktan kaçınmak değil, ucuz ve öğretici hataları erken üretip onlardan bilgi çıkarmak olduğunu söyler.",
+        "Bisiklete binmeyi öğrenen çocuk hiç düşmemek için hareket etmezse dengeyi öğrenemez; küçük güvenli sapmalar bedenine geri bildirim verir.",
+        "Hata beklenen sonuçla gerçek sonuç arasındaki farkı gösterir ve kuramın hangi parçasının değiştirilmesi gerektiğini işaretler.",
+        "Her hata değerli değildir; tekrar eden zarar ve özensizlik öğrenme diye süslenmemelidir.",
+        "Büyük karar öncesi küçük bir deneme kurup hangi yanılgının düşük maliyetle ortaya çıkabileceğini düşünün. Bilimde başarısız deney, doğru kaydedilirse hangi yolun çalışmadığını kalıcı bilgiye çevirir."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "GENEL ALETLER · ÇÜRÜTME",
       "title": "Reductio: fikri sonuna kadar yürütmek",
       "paragraphs": [
-        "Bir varsayımı geçici olarak kabul edip sonuçlarını izlemek, açık çelişki veya kabul edilemez sonuç doğduğunda varsayımın sorununu gösterir. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Herkes sırada istediği yere geçebilir kuralını kabul ederse sıra diye bir düzenin kalmayacağını görürüz. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Reductio gizli sonucu görünür kılar; fakat saçma sonuç gerçekten varsayımdan çıkmalı, araya karikatür eklenmemelidir. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Rakibin sözünü en aşırı ve ilgisiz biçime çekmek çürütme değil saman adam hatasıdır. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Karşı görüşü sahibinin kabul edeceği en güçlü biçimde yazdıktan sonra sonuç zincirini sınayın. Reductio'nun dürüstlüğü, karşı tarafın gerçekten kabul ettiği ilkeden ayrılmamasına bağlıdır. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Bir varsayımı geçici olarak kabul edip sonuçlarını izlemek, açık çelişki veya kabul edilemez sonuç doğduğunda varsayımın sorununu gösterir.",
+        "Herkes sırada istediği yere geçebilir kuralını kabul ederse sıra diye bir düzenin kalmayacağını görürüz.",
+        "Reductio gizli sonucu görünür kılar; fakat saçma sonuç gerçekten varsayımdan çıkmalı, araya karikatür eklenmemelidir.",
+        "Rakibin sözünü en aşırı ve ilgisiz biçime çekmek çürütme değil saman adam hatasıdır.",
+        "Karşı görüşü sahibinin kabul edeceği en güçlü biçimde yazdıktan sonra sonuç zincirini sınayın. Reductio'nun dürüstlüğü, karşı tarafın gerçekten kabul ettiği ilkeden ayrılmamasına bağlıdır."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "GENEL ALETLER · DİYALOG",
       "title": "Rapoport kurallarıyla adil tartışma",
       "paragraphs": [
-        "Eleştirmeden önce karşı tarafın görüşünü açıkça özetlemek, anlaştığınız noktaları ve öğrendiğiniz şeyi söylemek savunma duvarını indirir. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Toplantıda biri önce arkadaşının önerisini ondan daha berrak anlatır; eleştiri geldiğinde karşı taraf yanlış anlaşılmadığını bilir. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Adil yeniden kurma ortak zemini belirler ve gerçek anlaşmazlığı gürültüden ayırır. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Nazik dil kanıtın yerini tutmaz; güçlü görüşü doğru aktarmak sonunda sert eleştiriyi de mümkün kılar. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Yanıt vermeden önce karşı tarafın 'evet, tam söylediğim bu' diyeceği iki cümle kurun. Rapoport yöntemi eleştiriyi geciktirir ama asıl anlaşmazlığa ulaşmayı çoğu kez hızlandırır. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Eleştirmeden önce karşı tarafın görüşünü açıkça özetlemek, anlaştığınız noktaları ve öğrendiğiniz şeyi söylemek savunma duvarını indirir.",
+        "Toplantıda biri önce arkadaşının önerisini ondan daha berrak anlatır; eleştiri geldiğinde karşı taraf yanlış anlaşılmadığını bilir.",
+        "Adil yeniden kurma ortak zemini belirler ve gerçek anlaşmazlığı gürültüden ayırır.",
+        "Nazik dil kanıtın yerini tutmaz; güçlü görüşü doğru aktarmak sonunda sert eleştiriyi de mümkün kılar.",
+        "Yanıt vermeden önce karşı tarafın 'evet, tam söylediğim bu' diyeceği iki cümle kurun. Rapoport yöntemi eleştiriyi geciktirir ama asıl anlaşmazlığa ulaşmayı çoğu kez hızlandırır."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "GENEL ALETLER · AYIKLAMA",
       "title": "Sturgeon yasası, Occam usturası ve süpürgesi",
       "paragraphs": [
-        "Her alandaki ürünlerin çoğu zayıf olabilir; sade açıklamayı seçmek yararlıdır, fakat rahatsız edici veriyi halının altına süpürmek sadelik değildir. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Bir yönetici on olumlu yorumu sunup yüz şikâyeti 'istisna' diye dosyadan çıkarır ve modeli çok temiz gösterir. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Ustura gereksiz varlıkları azaltır, süpürge ise iddiayı bozan kanıtı gizler; ikisini ayırmak dürüst açıklamanın koşuludur. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "En basit kuram her zaman doğru değildir; veri karmaşıksa yeterli açıklama da karmaşık olabilir. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Bir sunumda dışarıda bırakılan örnekleri özellikle arayıp neden önemsiz sayıldıklarını sorun. Occam'ın süpürgesi Dennett'in adlandırdığı, rahatsız edici veriyi görünmez kılan kötü alışkanlıktır. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Her alandaki ürünlerin çoğu zayıf olabilir; sade açıklamayı seçmek yararlıdır, fakat rahatsız edici veriyi halının altına süpürmek sadelik değildir.",
+        "Bir yönetici on olumlu yorumu sunup yüz şikâyeti 'istisna' diye dosyadan çıkarır ve modeli çok temiz gösterir.",
+        "Ustura gereksiz varlıkları azaltır, süpürge ise iddiayı bozan kanıtı gizler; ikisini ayırmak dürüst açıklamanın koşuludur.",
+        "En basit kuram her zaman doğru değildir; veri karmaşıksa yeterli açıklama da karmaşık olabilir.",
+        "Bir sunumda dışarıda bırakılan örnekleri özellikle arayıp neden önemsiz sayıldıklarını sorun. Occam'ın süpürgesi Dennett'in adlandırdığı, rahatsız edici veriyi görünmez kılan kötü alışkanlıktır."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "GENEL ALETLER · DİL",
       "title": "Derinmiş gibi duran cümleler",
       "paragraphs": [
-        "Dennett hem doğru ama önemsiz hem de heyecan verici ama yanlış okunabilen cümlelere 'deepity' diyerek belirsizliğin cazibesini gösterir. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "'Aşk yalnız bir kelimedir' sözü yazı düzeyinde doğrudur, ama sevginin yalnız sesten ibaret olduğunu kanıtlamaz. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Cümle iki anlam arasında kayar; dinleyici sıradan doğruya dayanıp büyük sonucu hisseder. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Şiirsel dil değersiz değildir; sorun şiirin kanıt gibi kullanılması ve anlam değişiminin gizlenmesidir. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Etkileyici sözü iki ayrı sade cümleye çevirip hangisinin kanıtlandığını görün. 'Surely' alarmı da benzer biçimde kanıtın tam nerede sessizce atlandığını yakalamaya yarar. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Dennett hem doğru ama önemsiz hem de heyecan verici ama yanlış okunabilen cümlelere 'deepity' diyerek belirsizliğin cazibesini gösterir.",
+        "'Aşk yalnız bir kelimedir' sözü yazı düzeyinde doğrudur, ama sevginin yalnız sesten ibaret olduğunu kanıtlamaz.",
+        "Cümle iki anlam arasında kayar; dinleyici sıradan doğruya dayanıp büyük sonucu hisseder.",
+        "Şiirsel dil değersiz değildir; sorun şiirin kanıt gibi kullanılması ve anlam değişiminin gizlenmesidir.",
+        "Etkileyici sözü iki ayrı sade cümleye çevirip hangisinin kanıtlandığını görün. 'Surely' alarmı da benzer biçimde kanıtın tam nerede sessizce atlandığını yakalamaya yarar."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "ANLAM · TAHMİN",
       "title": "Kasıtlı duruş",
       "paragraphs": [
-        "Bir sistemin inanç ve amaçları varmış gibi davranmak, ayrıntılı iç yapıyı bilmeden davranışını başarıyla tahmin edebilir. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Satranç programı vezirini korumak istiyor deriz; devrelerin her elektrik hareketini hesaplamadan hamlesini anlarız. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Fiziksel, tasarımsal ve kasıtlı duruş farklı açıklama düzeyleridir; işe yarayan örüntü gerçek tahmin gücü taşır. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Kasıtlı dil kullanmak sistemin insan gibi bilinçli hissettiğini otomatik olarak göstermez. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Bir uygulamaya 'beni cezalandırıyor' derken bunun kullanışlı tahmin mi yoksa gerçek niyet iddiası mı olduğunu ayırın. Kasıtlı duruşun başarısı örüntünün hayali değil, farklı düzeyde gerçek olduğunu düşündürür. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Bir sistemin inanç ve amaçları varmış gibi davranmak, ayrıntılı iç yapıyı bilmeden davranışını başarıyla tahmin edebilir.",
+        "Satranç programı vezirini korumak istiyor deriz; devrelerin her elektrik hareketini hesaplamadan hamlesini anlarız.",
+        "Fiziksel, tasarımsal ve kasıtlı duruş farklı açıklama düzeyleridir; işe yarayan örüntü gerçek tahmin gücü taşır.",
+        "Kasıtlı dil kullanmak sistemin insan gibi bilinçli hissettiğini otomatik olarak göstermez.",
+        "Bir uygulamaya 'beni cezalandırıyor' derken bunun kullanışlı tahmin mi yoksa gerçek niyet iddiası mı olduğunu ayırın. Kasıtlı duruşun başarısı örüntünün hayali değil, farklı düzeyde gerçek olduğunu düşündürür."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "ANLAM · DERECE",
       "title": "Sorta operatörü ve kademeli anlam",
       "paragraphs": [
-        "Doğadaki birçok yetenek ya hep ya hiç değil, 'bir bakıma' çalışır; sorta sözcüğü erken kesin sınır koymadan ara biçimleri görmeye yardım eder. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Termostat bir bakıma sıcaklığı bilir, bakteri bir bakıma besine yönelir ama insanın gerekçeli bilgisine sahip değildir. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Küçük işlevsel yeterlikler evrim ve tasarım boyunca birleşerek daha zengin anlayışların temelini kurabilir. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Derece görmek bütün farkları silmek değildir; insan dili, öz farkındalık ve sorumluluk için yeni eşikler bulunabilir. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir beceriyi var-yok diye etiketlemeden hangi alt işleri ne ölçüde yaptığını listeleyin. Sorta sözcüğü evrimin keskin sıçrama olmadan karmaşık yetenek kurmasını anlatmayı kolaylaştırır. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Doğadaki birçok yetenek ya hep ya hiç değil, 'bir bakıma' çalışır; sorta sözcüğü erken kesin sınır koymadan ara biçimleri görmeye yardım eder.",
+        "Termostat bir bakıma sıcaklığı bilir, bakteri bir bakıma besine yönelir ama insanın gerekçeli bilgisine sahip değildir.",
+        "Küçük işlevsel yeterlikler evrim ve tasarım boyunca birleşerek daha zengin anlayışların temelini kurabilir.",
+        "Derece görmek bütün farkları silmek değildir; insan dili, öz farkındalık ve sorumluluk için yeni eşikler bulunabilir.",
+        "Bir beceriyi var-yok diye etiketlemeden hangi alt işleri ne ölçüde yaptığını listeleyin. Sorta sözcüğü evrimin keskin sıçrama olmadan karmaşık yetenek kurmasını anlatmayı kolaylaştırır."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "BİLGİSAYAR · İŞLEYİŞ",
       "title": "Bilgisayarın yedi sırrı",
       "paragraphs": [
-        "Bilgisayarın gücü gizemli anlama kıvılcımından değil, çok basit işlemleri olağanüstü hız, güvenilirlik ve katmanlı programlarla yürütmesinden gelir. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Kasiyer her ürünü tek tek toplar; bilgisayar da daha küçük adımlar yapar fakat saniyede milyarlarcasını ve yorulmadan gerçekleştirir. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Donanım kuralları sembol işlemlerini, yazılım katmanları ise bu işlemleri sanal makineler ve kullanıcı amaçları halinde örgütler. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Basit alt adımlardan güçlü sonuç çıkması her programın doğru, tarafsız veya bilinçli olduğu anlamına gelmez. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir teknolojinin 'zekâsını' hangi veri, kural, geri bildirim ve insan emeğinin oluşturduğunu parçalayın. Sanal makine fiziksel çipten ayrı hayalet değildir; aynı düzenin daha yüksek işlevsel tarifidir. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Bilgisayarın gücü gizemli anlama kıvılcımından değil, çok basit işlemleri olağanüstü hız, güvenilirlik ve katmanlı programlarla yürütmesinden gelir.",
+        "Kasiyer her ürünü tek tek toplar; bilgisayar da daha küçük adımlar yapar fakat saniyede milyarlarcasını ve yorulmadan gerçekleştirir.",
+        "Donanım kuralları sembol işlemlerini, yazılım katmanları ise bu işlemleri sanal makineler ve kullanıcı amaçları halinde örgütler.",
+        "Basit alt adımlardan güçlü sonuç çıkması her programın doğru, tarafsız veya bilinçli olduğu anlamına gelmez.",
+        "Bir teknolojinin 'zekâsını' hangi veri, kural, geri bildirim ve insan emeğinin oluşturduğunu parçalayın. Sanal makine fiziksel çipten ayrı hayalet değildir; aynı düzenin daha yüksek işlevsel tarifidir."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "EVRİM · YETERLİK",
       "title": "Yetkinlik, kavrayıştan önce gelebilir",
       "paragraphs": [
-        "Canlılar ve algoritmalar ne yaptığını açıklamadan karmaşık işleri başarabilir; kavrayış uzun yetkinlik birikiminin geç ürünü olabilir. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Örümcek mühendislik dersi almadan sağlam ağ örer, küçük çocuk dilbilgisi kuralını söylemeden doğru cümle kurar. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Seçilim ve öğrenme işe yarayan davranışları korur; gerekçe temsil edilmeden düzenli başarı ortaya çıkabilir. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Yetkinlik ile kavrayışı ayırmak insan düşüncesini değersizleştirmez, onun nasıl oluştuğunu araştırır. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "İyi çalışan kişiden açıklama isteyin ama açıklayamadığı her beceriyi tesadüf saymayın. Doğal seçilim anlayışlı tasarımcı olmadan yetkin tasarım biriktirebilir. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Canlılar ve algoritmalar ne yaptığını açıklamadan karmaşık işleri başarabilir; kavrayış uzun yetkinlik birikiminin geç ürünü olabilir.",
+        "Örümcek mühendislik dersi almadan sağlam ağ örer, küçük çocuk dilbilgisi kuralını söylemeden doğru cümle kurar.",
+        "Seçilim ve öğrenme işe yarayan davranışları korur; gerekçe temsil edilmeden düzenli başarı ortaya çıkabilir.",
+        "Yetkinlik ile kavrayışı ayırmak insan düşüncesini değersizleştirmez, onun nasıl oluştuğunu araştırır.",
+        "İyi çalışan kişiden açıklama isteyin ama açıklayamadığı her beceriyi tesadüf saymayın. Doğal seçilim anlayışlı tasarımcı olmadan yetkin tasarım biriktirebilir."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "EVRİM · TASARIM",
       "title": "Vinçler ve gökyüzü kancaları",
       "paragraphs": [
-        "Karmaşık tasarımı daha da açıklanamaz mucizevi tasarımcıya bağlamak gökyüzü kancasıdır; küçük birikimli mekanizmalar ise vinç gibi adım adım yükseltir. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Yüksek bina havadan asılan halatla değil, zemine kurulan iskele ve her katın bir sonrakini taşımasıyla yükselir. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Doğal seçilim küçük kalıtsal farkların çoğalmasını biriktirerek amaçlı görünen uyumlar üretebilir. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Vinç açıklaması başlangıç koşulları ve rastlantının rolü hakkında bütün soruları tek başına çözmez. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Büyük başarıyı tek dâhiye bağlamadan önce onu taşıyan küçük deneme, araç ve kurum basamaklarını bulun. Gökyüzü kancası açıklama yükünü çözülen sorudan daha gizemli bir varlığa taşır. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Karmaşık tasarımı daha da açıklanamaz mucizevi tasarımcıya bağlamak gökyüzü kancasıdır; küçük birikimli mekanizmalar ise vinç gibi adım adım yükseltir.",
+        "Yüksek bina havadan asılan halatla değil, zemine kurulan iskele ve her katın bir sonrakini taşımasıyla yükselir.",
+        "Doğal seçilim küçük kalıtsal farkların çoğalmasını biriktirerek amaçlı görünen uyumlar üretebilir.",
+        "Vinç açıklaması başlangıç koşulları ve rastlantının rolü hakkında bütün soruları tek başına çözmez.",
+        "Büyük başarıyı tek dâhiye bağlamadan önce onu taşıyan küçük deneme, araç ve kurum basamaklarını bulun. Gökyüzü kancası açıklama yükünü çözülen sorudan daha gizemli bir varlığa taşır."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "EVRİM · NEDEN",
       "title": "Serbest dolaşan gerekçeler",
       "paragraphs": [
-        "Bir özellik onu taşıyan canlı sebebi düşünmese bile işe yaradığı için seçilebilir; gerekçe hiçbir zihinde temsil edilmeden süreçte etkili olabilir. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Ceylan tehlikede sıçrayarak gücünü gösterir; hayvan oyun kuramı bilmeden davranış saldırıyı caydırabilir. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Seçilim geçmişte daha çok üremeye yol açan düzeni korur ve sonradan bizim açıklayabileceğimiz işlevsel neden ortaya çıkar. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Her özelliğin kusursuz uyum hikâyesi bulunduğunu varsaymak 'öyle de olur' masalına dönüşebilir; karşılaştırmalı kanıt gerekir. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir davranışın söylenen nedeni dışında gerçekten hangi sonucu tekrar tekrar ürettiğini gözleyin. Serbest gerekçe, davranışın işlevini hayvanın bilinçli niyetiyle karıştırmamayı sağlar. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Bir özellik onu taşıyan canlı sebebi düşünmese bile işe yaradığı için seçilebilir; gerekçe hiçbir zihinde temsil edilmeden süreçte etkili olabilir.",
+        "Ceylan tehlikede sıçrayarak gücünü gösterir; hayvan oyun kuramı bilmeden davranış saldırıyı caydırabilir.",
+        "Seçilim geçmişte daha çok üremeye yol açan düzeni korur ve sonradan bizim açıklayabileceğimiz işlevsel neden ortaya çıkar.",
+        "Her özelliğin kusursuz uyum hikâyesi bulunduğunu varsaymak 'öyle de olur' masalına dönüşebilir; karşılaştırmalı kanıt gerekir.",
+        "Bir davranışın söylenen nedeni dışında gerçekten hangi sonucu tekrar tekrar ürettiğini gözleyin. Serbest gerekçe, davranışın işlevini hayvanın bilinçli niyetiyle karıştırmamayı sağlar."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "EVRİM · KÜLTÜR",
       "title": "Memler: kültürel çoğalma",
       "paragraphs": [
-        "Fikir, melodi ve alışkanlıklar insan zihinleri arasında kopyalanıp değişebilir; bazıları doğru olduğu için değil kolay yayıldığı için kalıcı olur. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Dilde dolaşan kısa bir yanlış bilgi öfkeli olduğu için sakin düzeltmeden daha hızlı paylaşılır. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Dikkat, taklit ve iletişim seçilim ortamı oluşturur; akılda kalıcılık kültürel öğenin çoğalmasını etkiler. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Mem benzetmesi kültürün anlam, kurum ve bilinçli seçim boyutunu gen kopyasına fazla indirgeyebilir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Bir içeriği paylaşmadan önce doğru olduğu için mi, duygunuzu hemen harekete geçirdiği için mi yayıldığını sorun. Mem yaklaşımı doğru olmak ile kopyalanabilir olmak arasındaki rahatsız edici farkı görünür kılar. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Fikir, melodi ve alışkanlıklar insan zihinleri arasında kopyalanıp değişebilir; bazıları doğru olduğu için değil kolay yayıldığı için kalıcı olur.",
+        "Dilde dolaşan kısa bir yanlış bilgi öfkeli olduğu için sakin düzeltmeden daha hızlı paylaşılır.",
+        "Dikkat, taklit ve iletişim seçilim ortamı oluşturur; akılda kalıcılık kültürel öğenin çoğalmasını etkiler.",
+        "Mem benzetmesi kültürün anlam, kurum ve bilinçli seçim boyutunu gen kopyasına fazla indirgeyebilir.",
+        "Bir içeriği paylaşmadan önce doğru olduğu için mi, duygunuzu hemen harekete geçirdiği için mi yayıldığını sorun. Mem yaklaşımı doğru olmak ile kopyalanabilir olmak arasındaki rahatsız edici farkı görünür kılar."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "BİLİNÇ · SAHNE",
       "title": "Bilinçte Kartezyen tiyatro yanılgısı",
       "paragraphs": [
-        "Beyinde bütün görüntülerin son kez gösterildiği tek bir iç seyirci ve kesin bilinç anı aramak, açıklanması gereken zihni küçük bir zihinle tekrarlar. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Güvenlik merkezinde tek yönetici yerine farklı kameraları farklı ekipler işler; olayın ortak raporu zaman içinde oluşur. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Çoklu taslaklar beyindeki işlemlerin paralel rekabet ve düzeltmelerle içerik üretmesini, merkezi perde olmadan açıklar. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Merkezi seyirciyi reddetmek öznel deneyimin yok olduğunu söylemek değildir; deneyimin işleyişini dağıtılmış süreçte arar. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Aklınıza gelen kararın tek anda doğduğunu varsaymadan önce hangi izlenim ve alışkanlıkların yarıştığını düşünün. Tek iç ekran arayışı bilinçli deneyimi açıklamak yerine küçük bir izleyicinin bilincini yeniden varsayar. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Beyinde bütün görüntülerin son kez gösterildiği tek bir iç seyirci ve kesin bilinç anı aramak, açıklanması gereken zihni küçük bir zihinle tekrarlar.",
+        "Güvenlik merkezinde tek yönetici yerine farklı kameraları farklı ekipler işler; olayın ortak raporu zaman içinde oluşur.",
+        "Çoklu taslaklar beyindeki işlemlerin paralel rekabet ve düzeltmelerle içerik üretmesini, merkezi perde olmadan açıklar.",
+        "Merkezi seyirciyi reddetmek öznel deneyimin yok olduğunu söylemek değildir; deneyimin işleyişini dağıtılmış süreçte arar.",
+        "Aklınıza gelen kararın tek anda doğduğunu varsaymadan önce hangi izlenim ve alışkanlıkların yarıştığını düşünün. Tek iç ekran arayışı bilinçli deneyimi açıklamak yerine küçük bir izleyicinin bilincini yeniden varsayar."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "BİLİNÇ · İTİRAZ",
       "title": "Çin Odası ve anlayış",
       "paragraphs": [
-        "Searle'ün Çin Odası hikâyesi sembol kuralı izleyen kişinin Çince anlamadığını söyler; Dennett bütün sistemi ve yetkinlik katmanlarını hesaba katmayı ister. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Kütüphane görevlisi anlamadığı kodla doğru kitabı bulur; tek çalışanın bilgisizliği bütün kütüphane düzeninin hiçbir bilgi taşımadığını kanıtlamaz. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Parça yalnız kurala uyar, sistem girişleri dünya ve davranışla bağlayarak daha geniş anlam yeteneği gösterebilir. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Davranışsal başarı bilinçli deneyimi kesin kanıtlamaz; itirazın gücü ölçütümüzü açıkça tanımlamaya zorlamasındadır. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Bir yapay zekâya 'anlıyor' demeden hangi bağlantı, hata düzeltme ve yeni duruma uyum ölçütünü kullandığınızı belirtin. Sistem cevabı tek kişinin anlamamasının bütün düzenin anlam yeteneğini bitirmediğini savunur. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Searle'ün Çin Odası hikâyesi sembol kuralı izleyen kişinin Çince anlamadığını söyler; Dennett bütün sistemi ve yetkinlik katmanlarını hesaba katmayı ister.",
+        "Kütüphane görevlisi anlamadığı kodla doğru kitabı bulur; tek çalışanın bilgisizliği bütün kütüphane düzeninin hiçbir bilgi taşımadığını kanıtlamaz.",
+        "Parça yalnız kurala uyar, sistem girişleri dünya ve davranışla bağlayarak daha geniş anlam yeteneği gösterebilir.",
+        "Davranışsal başarı bilinçli deneyimi kesin kanıtlamaz; itirazın gücü ölçütümüzü açıkça tanımlamaya zorlamasındadır.",
+        "Bir yapay zekâya 'anlıyor' demeden hangi bağlantı, hata düzeltme ve yeni duruma uyum ölçütünü kullandığınızı belirtin. Sistem cevabı tek kişinin anlamamasının bütün düzenin anlam yeteneğini bitirmediğini savunur."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "ÖZGÜR İRADE · SORUMLULUK",
       "title": "Özgür irade mucize olmak zorunda değil",
       "paragraphs": [
-        "Dennett özgürlüğü nedensellikten kaçan sihirli kopuşta değil, geleceği öngörme, gerekçeye cevap verme ve kendini düzenleme yeteneğinde arar. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Sürücü kırmızı ışıkta durur; fiziksel dünyadan çıkmaz ama kuralı anlar, sonucu düşünür ve davranışını değiştirebilir. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Evrim ve kültür seçenekleri değerlendiren, söz veren ve hatadan öğrenen ajanlar üretir; sorumluluk bu kapasite derecelerine bağlanır. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Bu uyumcu yaklaşım bazı filozoflara göre gerçek alternatif imkan ve nihai sorumluluk sorununu tam çözmez. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Bir davranışı yargılarken kişinin bilgi, baskı, özdenetim ve başka türlü öğrenme kapasitesini ayrı ayrı değerlendirin. Öngörülebilir olmak özgür olmamak değildir; gerekçeye duyarlılık tam da düzenli değişebilme gücüdür. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Dennett özgürlüğü nedensellikten kaçan sihirli kopuşta değil, geleceği öngörme, gerekçeye cevap verme ve kendini düzenleme yeteneğinde arar.",
+        "Sürücü kırmızı ışıkta durur; fiziksel dünyadan çıkmaz ama kuralı anlar, sonucu düşünür ve davranışını değiştirebilir.",
+        "Evrim ve kültür seçenekleri değerlendiren, söz veren ve hatadan öğrenen ajanlar üretir; sorumluluk bu kapasite derecelerine bağlanır.",
+        "Bu uyumcu yaklaşım bazı filozoflara göre gerçek alternatif imkan ve nihai sorumluluk sorununu tam çözmez.",
+        "Bir davranışı yargılarken kişinin bilgi, baskı, özdenetim ve başka türlü öğrenme kapasitesini ayrı ayrı değerlendirin. Öngörülebilir olmak özgür olmamak değildir; gerekçeye duyarlılık tam da düzenli değişebilme gücüdür."
       ]
     },
     {

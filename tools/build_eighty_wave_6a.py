@@ -66,7 +66,7 @@ book(
     "Şeker ölçümü tek başına rakamdır. Aynı rakam bir kişide geçici uyum, diğerinde susuzluk, yorgunluk ve organ hasarıyla giden hastalık olabilir. Tıp sayıyı ciddiye alır ama o sayının bir hayatın içinde ne yaptığını sormadan bitiremez.",
     [
         {"id": 1, "title": "Springer - The Normal and the Pathological", "url": "https://link.springer.com/book/10.1007/978-94-009-9853-7"},
-        {"id": 2, "title": "Bibliothèque nationale de France - Le normal et le pathologique", "url": "https://catalogue.bnf.fr/ark:/12148/cb414776630"},
+        {"id": 2, "title": "Google Books - Le normal et le pathologique", "url": "https://books.google.com/books/about/Le_normal_et_le_pathologique.html?id=x4LuzwEACAAJ"},
     ],
     [
         ("Normal kelimesinin iki yüzü", "BİRİNCİ KISIM · SORU", "Normal bazen sık görülen ortalamayı, bazen olması gereken iyi ve doğru durumu anlatır; iki anlam fark edilmeden birbirine geçirilir", "Çoğu insan günde sekiz saat oturuyor diye oturmak sağlığın ideali olmaz", "İstatistik değersiz değildir fakat değer hükmünü tek başına vermez", "Bir sağlık tavsiyesinde 'yaygın' ile 'iyi' sözcüklerinin gizlice yer değiştirip değiştirmediğini sormak gerekir"),

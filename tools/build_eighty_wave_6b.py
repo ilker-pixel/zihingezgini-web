@@ -91,7 +91,7 @@ book(
     "Bir ev termostatı sıcaklığı ayarlamak için veri toplar. Şirket bu veriden ne zaman evde olduğunuzu, uyku düzeninizi ve alışkanlık değişikliğinizi çıkarıp başka pazarlarda kullanırsa cihaz yalnız araç değildir; ev hayatı görünmeyen bir üretim alanına dönüşür.",
     [
         {"id": 1, "title": "PublicAffairs - The Age of Surveillance Capitalism", "url": "https://www.hachettebookgroup.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395700/"},
-        {"id": 2, "title": "National Law School Library - Contents", "url": "https://opac.nls.ac.in/bib/211561"},
+        {"id": 2, "title": "Profile Books - The Age of Surveillance Capitalism", "url": "https://profilebooks.com/work/the-age-of-surveillance-capitalism/"},
     ],
     [
         ("Ev mi sürgün mü?", "BİRİNCİ KISIM · BAŞLANGIÇ", "Zuboff dijital geleceği insanların kendini evinde hissettiği özerk bir dünya ile davranışının başkalarınca sahiplenildiği sürgün arasında ahlaki seçim olarak kurar", "Aile fotoğraf uygulamasını yakınlık için kullanır, yüz verisinin başka amaçla işlendiğini sonradan öğrenir", "İkili çerçeve kullanıcıların pazarlık ve karma deneyimlerini sadeleştirebilir", "Kolaylığın yanında veri üzerindeki bilgi, itiraz ve çıkış hakkını ölçmek gerekir"),

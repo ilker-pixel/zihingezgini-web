@@ -12,8 +12,6 @@
   "chapterArtColor": "#496B68",
   "meta": {
     "originalTitle": "Reassembling the Social: An Introduction to Actor-Network-Theory",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Bir hastanenin çalışmasını yalnız doktorlar mı sağlar? Randevu yazılımı çöker, asansör durur veya kimlik kartı okunmazsa en bilgili doktor bile hastaya ulaşamayabilir. Latour'un şaşırtıcı önerisi, toplumu hazır bir kutu saymak yerine bu küçük bağlantıların her seferinde nasıl kurulduğunu izlemektir.",
@@ -46,10 +44,10 @@
       "section": "BİRİNCİ KISIM · BAŞLANGIÇ",
       "title": "Toplum hazır bir madde değildir",
       "paragraphs": [
-        "Latour'a göre 'toplumsal' olayların arkasında duran görünmez bir madde değil, farklı varlıklar arasında yeniden kurulan bağlantıların adıdır. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
-        "Bir okulun düzenini yalnız 'eğitim sistemi' diyerek açıklamak, zilin, sınav formunun, velinin, bütçenin ve sınıf kapısının yaptığı işi görünmez bırakır. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Bağlantılara bakmak sınıf, kurum veya iktidarın önemsiz olduğu anlamına gelmez; bu büyük yapıların somut olarak nasıl sürdürüldüğünü göstermeyi amaçlar. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Bir kurumda 'sistem böyle' cümlesi duyulduğunda hangi belge, yazılım, görevli ve yaptırımın bu sistemi her gün yeniden kurduğunu listelemek iyi bir başlangıçtır. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
+        "Latour'a göre 'toplumsal' olayların arkasında duran görünmez bir madde değil, farklı varlıklar arasında yeniden kurulan bağlantıların adıdır.",
+        "Bir okulun düzenini yalnız 'eğitim sistemi' diyerek açıklamak, zilin, sınav formunun, velinin, bütçenin ve sınıf kapısının yaptığı işi görünmez bırakır.",
+        "Bağlantılara bakmak sınıf, kurum veya iktidarın önemsiz olduğu anlamına gelmez; bu büyük yapıların somut olarak nasıl sürdürüldüğünü göstermeyi amaçlar.",
+        "Bir kurumda 'sistem böyle' cümlesi duyulduğunda hangi belge, yazılım, görevli ve yaptırımın bu sistemi her gün yeniden kurduğunu listelemek iyi bir başlangıçtır."
       ]
     },
     {
@@ -57,13 +55,10 @@
       "section": "BİRİNCİ KISIM · YÖNTEM",
       "title": "Sosyolojinin iki yolu",
       "paragraphs": [
-        "Latour 'toplumsal olanın sosyolojisi' ile 'birlikteliklerin sosyolojisi'ni ayırır; ilki toplumu açıklama olarak kullanırken ikincisi açıklanması gereken şey sayar. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
-        "Toplantının başarısızlığını 'kurum kültürü' diye kapatmak yerine oturma düzeninden gündeme, e-posta zincirinden konuşma sırasına kadar ilişkiyi izlediğinizi düşünün. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Hazır kavramlar tümüyle yasak değildir; sorun, araştırma başlamadan cevabın yerine geçmeleridir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Bir anlaşmazlığı tek kelimeyle adlandırdıktan sonra o kelimeyi açıklama sanmayıp olayın izlerini yeniden takip etmek gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
-      ],
-      "extraParagraphs": [
-        "Sahnedeki zamanı biraz yavaşlattığımızda, “Sosyolojinin iki yolu” ile Doğayı Yeniden Bir Araya Getirmek kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Latour 'toplumsal olanın sosyolojisi' ile 'birlikteliklerin sosyolojisi'ni ayırır; ilki toplumu açıklama olarak kullanırken ikincisi açıklanması gereken şey sayar.",
+        "Toplantının başarısızlığını 'kurum kültürü' diye kapatmak yerine oturma düzeninden gündeme, e-posta zincirinden konuşma sırasına kadar ilişkiyi izlediğinizi düşünün.",
+        "Hazır kavramlar tümüyle yasak değildir; sorun, araştırma başlamadan cevabın yerine geçmeleridir.",
+        "Bir anlaşmazlığı tek kelimeyle adlandırdıktan sonra o kelimeyi açıklama sanmayıp olayın izlerini yeniden takip etmek gerekir."
       ]
     },
     {
@@ -71,10 +66,10 @@
       "section": "BİRİNCİ KISIM · İZLER",
       "title": "Tartışma soğumadan iz sürmek",
       "paragraphs": [
-        "Bağlantılar en iyi henüz tartışmalı ve kararsızken görünür; düzen yerleştiğinde onu kuran pazarlıklar siyah kutuya kapanır. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
-        "Yeni bisiklet yolu yapılırken esnaf, belediye, harita, trafik sayımı ve bordür yüksekliği konuşulur; yol sıradanlaşınca bu ağın çoğu unutulur. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Her tartışma eşit açıklıkta değildir; güçlü taraflar belgeleri ve konuşma alanını denetleyebilir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Yeni bir teknoloji veya kural yürürlüğe girerken kimlerin hangi kanıtla konuştuğunu kaydetmek, sonradan kaybolacak bağlantıları korur. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+        "Bağlantılar en iyi henüz tartışmalı ve kararsızken görünür; düzen yerleştiğinde onu kuran pazarlıklar siyah kutuya kapanır.",
+        "Yeni bisiklet yolu yapılırken esnaf, belediye, harita, trafik sayımı ve bordür yüksekliği konuşulur; yol sıradanlaşınca bu ağın çoğu unutulur.",
+        "Her tartışma eşit açıklıkta değildir; güçlü taraflar belgeleri ve konuşma alanını denetleyebilir.",
+        "Yeni bir teknoloji veya kural yürürlüğe girerken kimlerin hangi kanıtla konuştuğunu kaydetmek, sonradan kaybolacak bağlantıları korur."
       ]
     },
     {
@@ -82,13 +77,10 @@
       "section": "İKİNCİ KISIM · AKTÖRLER",
       "title": "Aktör yaptığı farkla tanınır",
       "paragraphs": [
-        "Bir varlığın aktör sayılması için insan olması gerekmez; olayın akışında gözlenebilir bir fark yaratması yeterlidir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Kapıya takılan hidrolik yay, kimseye emir vermeden kapının kapanmasını sağlar ve kapıcıya verilmiş eski görevin bir bölümünü üstlenir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "Nesneye aktör demek ona bilinç veya ahlaki sorumluluk yüklemek değildir; etkileri insan sorumluluğuyla karıştırılmamalıdır. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Günlük bir işi seçip o işten tek bir nesneyi çıkarınca davranışın nasıl değişeceğini düşünmek ağın insan-dışı üyelerini görünür kılar. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Aktör yaptığı farkla tanınır” ile Doğayı Yeniden Bir Araya Getirmek kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Bir varlığın aktör sayılması için insan olması gerekmez; olayın akışında gözlenebilir bir fark yaratması yeterlidir.",
+        "Kapıya takılan hidrolik yay, kimseye emir vermeden kapının kapanmasını sağlar ve kapıcıya verilmiş eski görevin bir bölümünü üstlenir.",
+        "Nesneye aktör demek ona bilinç veya ahlaki sorumluluk yüklemek değildir; etkileri insan sorumluluğuyla karıştırılmamalıdır.",
+        "Günlük bir işi seçip o işten tek bir nesneyi çıkarınca davranışın nasıl değişeceğini düşünmek ağın insan-dışı üyelerini görünür kılar."
       ]
     },
     {
@@ -96,10 +88,10 @@
       "section": "İKİNCİ KISIM · TAŞIMA",
       "title": "Aracı mı dönüştürücü mü?",
       "paragraphs": [
-        "Latour, anlamı yalnız taşıyan aracılar ile taşıdığı şeyi değiştiren dolayımlayıcıları ayırır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "Bir fotokopi makinesi metni aynı çoğaltabilir; fakat haberi yorumlayan yönetici, başlığı değiştirip çalışanlara bambaşka bir görev olarak iletebilir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Aynı öğe bir durumda aracı, başka durumda dönüştürücü olabilir; rol önceden etikete yazılmaz. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
-        "Bir mesaj zincirinde her aktarım noktasında neyin eklendiğini, silindiğini veya başka bir dile çevrildiğini kontrol etmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+        "Latour, anlamı yalnız taşıyan aracılar ile taşıdığı şeyi değiştiren dolayımlayıcıları ayırır.",
+        "Bir fotokopi makinesi metni aynı çoğaltabilir; fakat haberi yorumlayan yönetici, başlığı değiştirip çalışanlara bambaşka bir görev olarak iletebilir.",
+        "Aynı öğe bir durumda aracı, başka durumda dönüştürücü olabilir; rol önceden etikete yazılmaz.",
+        "Bir mesaj zincirinde her aktarım noktasında neyin eklendiğini, silindiğini veya başka bir dile çevrildiğini kontrol etmek gerekir."
       ]
     },
     {
@@ -107,13 +99,10 @@
       "section": "İKİNCİ KISIM · GRUPLAR",
       "title": "Gruplar durmadan yapılır",
       "paragraphs": [
-        "Sınıf, meslek veya topluluk hazır duran kaplar değil; sözcüler, sınırlar, rozetler ve karşıtlar yoluyla sürekli yapılan birliklerdir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Yeni kurulan apartman grubunda yönetici, aidat listesi ve ortak sorunlar 'biz bina sakinleri' duygusunu birkaç hafta içinde oluşturur. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
-        "İnsanların gerçekten ortak çıkarları olabilir; Latour yalnız bu ortaklığın emek harcamadan kendiliğinden sürmediğini hatırlatır. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Bir grubun kimleri içerdiğine bakarken üyelik formu kadar kimlerin adına konuşulduğunu ve kimlerin sessiz kaldığını da izlemek gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Gruplar durmadan yapılır” ile Doğayı Yeniden Bir Araya Getirmek kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Sınıf, meslek veya topluluk hazır duran kaplar değil; sözcüler, sınırlar, rozetler ve karşıtlar yoluyla sürekli yapılan birliklerdir.",
+        "Yeni kurulan apartman grubunda yönetici, aidat listesi ve ortak sorunlar 'biz bina sakinleri' duygusunu birkaç hafta içinde oluşturur.",
+        "İnsanların gerçekten ortak çıkarları olabilir; Latour yalnız bu ortaklığın emek harcamadan kendiliğinden sürmediğini hatırlatır.",
+        "Bir grubun kimleri içerdiğine bakarken üyelik formu kadar kimlerin adına konuşulduğunu ve kimlerin sessiz kaldığını da izlemek gerekir."
       ]
     },
     {
@@ -121,10 +110,10 @@
       "section": "İKİNCİ KISIM · KİM KONUŞUYOR?",
       "title": "Sözcüler ve temsil",
       "paragraphs": [
-        "Bir grup, veri veya nesne çoğu zaman doğrudan değil onun adına konuşan sözcü aracılığıyla görünür olur. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
-        "Bilim insanı grafiğe bakıp 'buzul bize eridiğini söylüyor' der; bu cümlede uydu, ölçüm cihazı, yazılım ve uzman tek ses haline gelir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Temsil zorunludur ama tartışmasız değildir; sözcünün kimi ve neyi doğru taşıdığı sürekli sınanmalıdır. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
-        "Bir ankette 'halk istiyor' dendiğinde örneklemi, soruyu, yanıtlamayanları ve sonucu sunan kurumu beraber görmek gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+        "Bir grup, veri veya nesne çoğu zaman doğrudan değil onun adına konuşan sözcü aracılığıyla görünür olur.",
+        "Bilim insanı grafiğe bakıp 'buzul bize eridiğini söylüyor' der; bu cümlede uydu, ölçüm cihazı, yazılım ve uzman tek ses haline gelir.",
+        "Temsil zorunludur ama tartışmasız değildir; sözcünün kimi ve neyi doğru taşıdığı sürekli sınanmalıdır.",
+        "Bir ankette 'halk istiyor' dendiğinde örneklemi, soruyu, yanıtlamayanları ve sonucu sunan kurumu beraber görmek gerekir."
       ]
     },
     {
@@ -132,10 +121,10 @@
       "section": "ÜÇÜNCÜ KISIM · ÇEVİRİ",
       "title": "Çeviri yalnız dil değildir",
       "paragraphs": [
-        "Aktörler başkalarının amaçlarını kendi hedefleriyle birleştirirken talepleri değiştirir; Latour buna çeviri der. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Belediye temiz hava ister, şirket yeni pazar, mahalle sessizlik; elektrikli otobüs projesi bu farklı amaçları geçici olarak aynı araçta toplar. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Ortak proje herkesin aynı şeyi istediğini göstermez; anlaşma farklı beklentileri bir süre taşıyabilir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
-        "Bir işbirliğinde tarafların resmî hedef dışında ne kazandığını yazmak, ittifakın nerede güçlenip nerede dağılacağını gösterir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+        "Aktörler başkalarının amaçlarını kendi hedefleriyle birleştirirken talepleri değiştirir; Latour buna çeviri der.",
+        "Belediye temiz hava ister, şirket yeni pazar, mahalle sessizlik; elektrikli otobüs projesi bu farklı amaçları geçici olarak aynı araçta toplar.",
+        "Ortak proje herkesin aynı şeyi istediğini göstermez; anlaşma farklı beklentileri bir süre taşıyabilir.",
+        "Bir işbirliğinde tarafların resmî hedef dışında ne kazandığını yazmak, ittifakın nerede güçlenip nerede dağılacağını gösterir."
       ]
     },
     {
@@ -144,9 +133,9 @@
       "title": "Siyah kutu açıldığında",
       "paragraphs": [
         "Başarıyla çalışan karmaşık düzenekler tek parça gibi görünür; bozulduklarında içerideki insanlar ve parçalar yeniden ortaya çıkar.",
-        "İnternet kesilince modemden kablo şirketine, elektrikten DNS sunucusuna kadar tek 'bağlantı' sözcüğünün sakladığı dünya açılır. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
-        "Her şeyi sürekli açmak mümkün değildir; araştırmacı hangi siyah kutunun olay için önemli olduğuna karar vermelidir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Bir sorun yaşandığında yalnız arızalı parçayı değil, o parçayı görünmez kılan bakım ve güven düzenini de kaydetmek öğreticidir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+        "İnternet kesilince modemden kablo şirketine, elektrikten DNS sunucusuna kadar tek 'bağlantı' sözcüğünün sakladığı dünya açılır.",
+        "Her şeyi sürekli açmak mümkün değildir; araştırmacı hangi siyah kutunun olay için önemli olduğuna karar vermelidir.",
+        "Bir sorun yaşandığında yalnız arızalı parçayı değil, o parçayı görünmez kılan bakım ve güven düzenini de kaydetmek öğreticidir."
       ]
     },
     {
@@ -154,10 +143,10 @@
       "section": "ÜÇÜNCÜ KISIM · AĞ",
       "title": "Ağ örümcek ağı değildir",
       "paragraphs": [
-        "Aktör-ağdaki ağ fiziksel tel şeması değil, bir etkinin hangi bağlantılar boyunca taşınıp değiştiğini anlatan izdir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Aynı odadaki iki kişi kurumsal olarak çok uzak olabilirken başka kıtalardaki yazılımcı ve kullanıcı aynı uygulama hatasıyla doğrudan bağlanabilir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
-        "Ağ kavramı her şeyin her şeyle bağlı olduğu bulanık iddiasına dönüşürse açıklama gücünü kaybeder. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Gerçek bir olay için bağlantıyı yalnız gözlenebilir iz, belge veya değişim bulunduğu yerde çizmek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+        "Aktör-ağdaki ağ fiziksel tel şeması değil, bir etkinin hangi bağlantılar boyunca taşınıp değiştiğini anlatan izdir.",
+        "Aynı odadaki iki kişi kurumsal olarak çok uzak olabilirken başka kıtalardaki yazılımcı ve kullanıcı aynı uygulama hatasıyla doğrudan bağlanabilir.",
+        "Ağ kavramı her şeyin her şeyle bağlı olduğu bulanık iddiasına dönüşürse açıklama gücünü kaybeder.",
+        "Gerçek bir olay için bağlantıyı yalnız gözlenebilir iz, belge veya değişim bulunduğu yerde çizmek gerekir."
       ]
     },
     {
@@ -165,13 +154,10 @@
       "section": "DÖRDÜNCÜ KISIM · ÖLÇEK",
       "title": "Yakın olan her zaman yerel değildir",
       "paragraphs": [
-        "Yerel etkileşimlerin içine uzak yerlerde hazırlanmış kurallar, araçlar ve ölçüler taşınır; küresel de bu yerel bağların dışında ayrı bir gök değildir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
-        "Doktorun masasındaki tedavi kararı aynı anda hastanın bedeni, ulusal kılavuz, küresel araştırma ve hastane yazılımıyla kurulur. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Uzak bağlantıyı görmek yüz yüze ilişkinin duygusal ve ahlaki önemini azaltmaz. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
-        "Bir karar masasındaki her nesnenin ve kuralın hangi uzak kurumdan geldiğini sormak ölçeğin nasıl üretildiğini gösterir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Yakın olan her zaman yerel değildir” ile Doğayı Yeniden Bir Araya Getirmek kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Yerel etkileşimlerin içine uzak yerlerde hazırlanmış kurallar, araçlar ve ölçüler taşınır; küresel de bu yerel bağların dışında ayrı bir gök değildir.",
+        "Doktorun masasındaki tedavi kararı aynı anda hastanın bedeni, ulusal kılavuz, küresel araştırma ve hastane yazılımıyla kurulur.",
+        "Uzak bağlantıyı görmek yüz yüze ilişkinin duygusal ve ahlaki önemini azaltmaz.",
+        "Bir karar masasındaki her nesnenin ve kuralın hangi uzak kurumdan geldiğini sormak ölçeğin nasıl üretildiğini gösterir."
       ]
     },
     {
@@ -179,10 +165,10 @@
       "section": "DÖRDÜNCÜ KISIM · GÖRME",
       "title": "Panorama ile dar görüş noktası",
       "paragraphs": [
-        "Toplumu tek bakışta gösterdiğini söyleyen panoramalar düzen hissi verir; Latour ayrıntılı fakat sınırlı görüş sağlayan merkezleri daha dikkatli okumayı önerir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Şehir kontrol ekranı binlerce kamerayı toplar ama kokuyu, ev içini ve kameranın bakmadığı sokağı göremez. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
-        "Büyük veri değersiz değildir; yalnız her görüntünün seçilmiş sensörler ve sınıflandırmalarla kurulduğu unutulmamalıdır. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Bir gösterge paneline bakarken hangi olayların ölçülmediğini ve hangi hatanın ekranda görünmeyeceğini ayrıca sormak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+        "Toplumu tek bakışta gösterdiğini söyleyen panoramalar düzen hissi verir; Latour ayrıntılı fakat sınırlı görüş sağlayan merkezleri daha dikkatli okumayı önerir.",
+        "Şehir kontrol ekranı binlerce kamerayı toplar ama kokuyu, ev içini ve kameranın bakmadığı sokağı göremez.",
+        "Büyük veri değersiz değildir; yalnız her görüntünün seçilmiş sensörler ve sınıflandırmalarla kurulduğu unutulmamalıdır.",
+        "Bir gösterge paneline bakarken hangi olayların ölçülmediğini ve hangi hatanın ekranda görünmeyeceğini ayrıca sormak gerekir."
       ]
     },
     {
@@ -190,13 +176,10 @@
       "section": "DÖRDÜNCÜ KISIM · TASARIM",
       "title": "Nesneler ahlakı taşıyabilir",
       "paragraphs": [
-        "Kurallar yalnız konuşma ve yasa içinde değil, nesnelerin tasarımında da davranışa dağıtılabilir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Hız tümseği sürücüye yavaşlamasını rica etmez; arabanın gövdesine vereceği sarsıntıyla trafik kuralını asfalta yazar. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
-        "Tasarıma gömülen kural kimin için kolay, kimin için engel olduğu bakımından siyasi sonuçlar doğurabilir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Bir uygulamadaki varsayılan seçeneğin kullanıcıyı nereye ittiğini incelemek, yazılımın sessizce taşıdığı kuralı açığa çıkarır. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Nesneler ahlakı taşıyabilir” ile Doğayı Yeniden Bir Araya Getirmek kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Kurallar yalnız konuşma ve yasa içinde değil, nesnelerin tasarımında da davranışa dağıtılabilir.",
+        "Hız tümseği sürücüye yavaşlamasını rica etmez; arabanın gövdesine vereceği sarsıntıyla trafik kuralını asfalta yazar.",
+        "Tasarıma gömülen kural kimin için kolay, kimin için engel olduğu bakımından siyasi sonuçlar doğurabilir.",
+        "Bir uygulamadaki varsayılan seçeneğin kullanıcıyı nereye ittiğini incelemek, yazılımın sessizce taşıdığı kuralı açığa çıkarır."
       ]
     },
     {
@@ -204,10 +187,10 @@
       "section": "BEŞİNCİ KISIM · ELEŞTİRİ",
       "title": "Açıklamak küçültmek değildir",
       "paragraphs": [
-        "Latour eleştirinin görünen değeri gizli bir çıkarla hemen değersizleştirmesine karşı çıkar; daha fazla bağlantı kurmanın daha güçlü açıklama olduğunu savunur. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
-        "Bir yardım kampanyasını yalnız reklam diye küçümsemek, bağışçıyı, ihtiyacı, lojistiği ve gösterişi aynı anda inceleme fırsatını kaçırabilir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Naif kabul ile her şeyi kuşkuyla eritmek arasında kanıt isteyen bir yol gerekir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
-        "Bir iddianın arkasındaki çıkarı bulduktan sonra araştırmayı bitirmeyip o çıkarın nasıl etkili hale geldiğini izlemek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+        "Latour eleştirinin görünen değeri gizli bir çıkarla hemen değersizleştirmesine karşı çıkar; daha fazla bağlantı kurmanın daha güçlü açıklama olduğunu savunur.",
+        "Bir yardım kampanyasını yalnız reklam diye küçümsemek, bağışçıyı, ihtiyacı, lojistiği ve gösterişi aynı anda inceleme fırsatını kaçırabilir.",
+        "Naif kabul ile her şeyi kuşkuyla eritmek arasında kanıt isteyen bir yol gerekir.",
+        "Bir iddianın arkasındaki çıkarı bulduktan sonra araştırmayı bitirmeyip o çıkarın nasıl etkili hale geldiğini izlemek gerekir."
       ]
     },
     {
@@ -215,10 +198,10 @@
       "section": "BEŞİNCİ KISIM · SINIR",
       "title": "Hesabın dışında kalan plazma",
       "paragraphs": [
-        "Her ağ anlatısı bazı varlıkları dışarıda bırakır; Latour bu henüz biçimlenmemiş geniş alanı plazma benzetmesiyle hatırlatır. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
-        "Şehir haritasında yollar ayrıntılıyken çocukların kestirme patikaları, mevsimlik kokular ve komşuluk yardımları görünmeyebilir. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
-        "Plazma bilinmeyeni romantikleştiren gizemli güç değildir; her açıklamanın eksik kalacağını kabul etme biçimidir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Bir rapor bittikten sonra dışarıda kalan kişiler, olaylar ve ölçülmeyen etkiler için ayrı bir boşluk listesi bırakmak dürüstlüktür. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+        "Her ağ anlatısı bazı varlıkları dışarıda bırakır; Latour bu henüz biçimlenmemiş geniş alanı plazma benzetmesiyle hatırlatır.",
+        "Şehir haritasında yollar ayrıntılıyken çocukların kestirme patikaları, mevsimlik kokular ve komşuluk yardımları görünmeyebilir.",
+        "Plazma bilinmeyeni romantikleştiren gizemli güç değildir; her açıklamanın eksik kalacağını kabul etme biçimidir.",
+        "Bir rapor bittikten sonra dışarıda kalan kişiler, olaylar ve ölçülmeyen etkiler için ayrı bir boşluk listesi bırakmak dürüstlüktür."
       ]
     },
     {
@@ -226,10 +209,10 @@
       "section": "BEŞİNCİ KISIM · SONUÇ",
       "title": "Kolektifi yeniden toplamak",
       "paragraphs": [
-        "Kitabın siyasi hedefi toplum adına erken konuşmak değil, ortak dünyaya katılan insan ve insan-dışı varlıkları daha dikkatli biçimde bir araya getirmektir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
-        "Nehir için alınan kararda çiftçi, balıkçı, belediye ve şirket kadar su ölçümü, balık türü ve kuraklık modeli de masaya gelir. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
-        "Nesneleri konuşmaya dahil etmek demokratik yetkiyi otomatik çözmez; onların adına kimin nasıl konuşacağı yine tartışmalıdır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
-        "Kamusal bir projede etkilenen insanları ve sessiz maddi varlıkları karar başlamadan haritalamak daha geniş bir ortaklık kurabilir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+        "Kitabın siyasi hedefi toplum adına erken konuşmak değil, ortak dünyaya katılan insan ve insan-dışı varlıkları daha dikkatli biçimde bir araya getirmektir.",
+        "Nehir için alınan kararda çiftçi, balıkçı, belediye ve şirket kadar su ölçümü, balık türü ve kuraklık modeli de masaya gelir.",
+        "Nesneleri konuşmaya dahil etmek demokratik yetkiyi otomatik çözmez; onların adına kimin nasıl konuşacağı yine tartışmalıdır.",
+        "Kamusal bir projede etkilenen insanları ve sessiz maddi varlıkları karar başlamadan haritalamak daha geniş bir ortaklık kurabilir."
       ]
     },
     {
@@ -249,7 +232,7 @@
       "paragraphs": [
         "Eser aktör-ağ teorisinin en etkili girişlerinden biri oldu; bilimi, teknolojiyi ve kurumları insanlarla nesneleri aynı anlatıda izlemeyi mümkün kıldığı için övüldü.",
         "Eleştirmenler nesnelerle insanları simetrik anlatmanın niyet, sömürü ve ahlaki sorumluluk farkını bulanıklaştırabileceğini; ağ betimlemesinin bazen güç eşitsizliğini açıklamak yerine yalnız izlediğini savundu.",
-        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Doğayı Yeniden Bir Araya Getirmek bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+        "Doğayı Yeniden Bir Araya Getirmek bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
       ]
     },
     {
@@ -259,7 +242,7 @@
       "paragraphs": [
         "Bu olayda 'sistem' dediğim şeyi hangi somut bağlantılar kuruyor? Hangi nesne davranışı değiştiriyor? Kimin adına kim konuşuyor?",
         "Bir gün boyunca sık kullandığınız tek bir hizmeti seçin ve onu mümkün kılan insanları, belgeleri, makineleri ve uzak kurumları küçük bir ağ olarak çizin.",
-        "Doğayı Yeniden Bir Araya Getirmek bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+        "Doğayı Yeniden Bir Araya Getirmek bu soruların hemen cevaplanmasını beklemez."
       ]
     },
     {
@@ -268,8 +251,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Toplum önceden hazır duran bir kap değil; insanlar, nesneler, belgeler ve fikirler arasında tekrar tekrar kurulan bağlantıların hareketli sonucudur.",
-        "Akılda tutulacak son görüntü, bir hastane kartı, kapı yayı, uydu, nehir ve insan ellerinin turkuaz düğümlerle bağlandığı; merkezsiz fakat canlı bir ilişki haritasıdır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
-        "Doğayı Yeniden Bir Araya Getirmek adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+        "Akılda tutulacak son görüntü, bir hastane kartı, kapı yayı, uydu, nehir ve insan ellerinin turkuaz düğümlerle bağlandığı; merkezsiz fakat canlı bir ilişki haritasıdır.",
+        "Doğayı Yeniden Bir Araya Getirmek adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

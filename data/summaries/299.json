@@ -12,8 +12,6 @@
   "chapterArtColor": "#3C7380",
   "meta": {
     "originalTitle": "Zihin Gezgini Özgün Sentez Çalışması IV",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Bu çalışma yayımlanmış bir kitabın özeti değildir. Zihin Gezgini Okuma Haritası'ndaki Heidegger'in Teknik Üzerine Soru, Sherry Turkle'ün Ekranda Yalnız, Bernard Stiegler'in Teknik ve Zaman, Shoshana Zuboff'un Gözetim Kapitalizmi Çağı ve dijital yorgunluk okumalarını karşılaştıran 2026 tarihli özgün bir sentezdir.",
@@ -81,11 +79,11 @@
       "section": "GİRİŞ · YÖNTEM",
       "title": "Bu bir makine-insan savaşı değildir",
       "paragraphs": [
-        "Teknoloji insan yapımıdır fakat kurulduktan sonra hangi davranışın kolay, hızlı ve görünür olduğunu geri biçimlendirir; sentez araç faydasıyla çevre etkisini birlikte inceler. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Navigasyon kaybolmayı azaltır, sürekli kullanım yön bulma pratiğini gereksizleştirebilir; aynı araç hem kapasite ekler hem kullanılmayan kapasiteyi zayıflatır. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "İnsan amaçla araç kurar, araç varsayılan ve ritim üretir, tekrar insan beklentisini ve kurumunu değiştirir. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Teknolojik etki herkes için aynı değildir; engelli erişimi, yaş, iş ve bölgesel altyapı farkı hesaba katılmalıdır. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir teknolojinin size kazandırdığı ve sizden daha az kullanmanızı istediği iki kapasiteyi yazın. Araç kazancı ile kapasite kaybını birlikte görmek seçimimizi daha dürüst kılar. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Teknoloji insan yapımıdır fakat kurulduktan sonra hangi davranışın kolay, hızlı ve görünür olduğunu geri biçimlendirir; sentez araç faydasıyla çevre etkisini birlikte inceler.",
+        "Navigasyon kaybolmayı azaltır, sürekli kullanım yön bulma pratiğini gereksizleştirebilir; aynı araç hem kapasite ekler hem kullanılmayan kapasiteyi zayıflatır.",
+        "İnsan amaçla araç kurar, araç varsayılan ve ritim üretir, tekrar insan beklentisini ve kurumunu değiştirir.",
+        "Teknolojik etki herkes için aynı değildir; engelli erişimi, yaş, iş ve bölgesel altyapı farkı hesaba katılmalıdır.",
+        "Bir teknolojinin size kazandırdığı ve sizden daha az kullanmanızı istediği iki kapasiteyi yazın. Araç kazancı ile kapasite kaybını birlikte görmek seçimimizi daha dürüst kılar."
       ]
     },
     {
@@ -93,11 +91,11 @@
       "section": "HEIDEGGER · ÇERÇEVELEME",
       "title": "Teknik yalnız çekiç değil görme biçimidir",
       "paragraphs": [
-        "Heidegger modern tekniğin dünyayı kullanılmaya hazır kaynak olarak açan bir çerçeveleme olduğunu söyler; nehir enerji stoku, insan veri ve performans birimi olur. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Orman yürünecek canlı yer olmaktan önce kereste hacmi ve karbon puanı tablosunda görünür. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Ölçülebilir özellik öne çıkar, diğer anlamlar karar ekranından düşer ve yönetim yalnız verimi optimize eder. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Ölçmek zorunlu olarak insanlık dışı değildir; sorun tek ölçünün bütün gerçeğin yerine geçmesidir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Kullandığınız bir tabloda görünmeyen canlılık, ilişki, bakım veya anlam değerini ekleyin. Çerçeveleme dünyayı yok etmez, başka görme biçimlerini karanlıkta bırakır. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Heidegger modern tekniğin dünyayı kullanılmaya hazır kaynak olarak açan bir çerçeveleme olduğunu söyler; nehir enerji stoku, insan veri ve performans birimi olur.",
+        "Orman yürünecek canlı yer olmaktan önce kereste hacmi ve karbon puanı tablosunda görünür.",
+        "Ölçülebilir özellik öne çıkar, diğer anlamlar karar ekranından düşer ve yönetim yalnız verimi optimize eder.",
+        "Ölçmek zorunlu olarak insanlık dışı değildir; sorun tek ölçünün bütün gerçeğin yerine geçmesidir.",
+        "Kullandığınız bir tabloda görünmeyen canlılık, ilişki, bakım veya anlam değerini ekleyin. Çerçeveleme dünyayı yok etmez, başka görme biçimlerini karanlıkta bırakır."
       ]
     },
     {
@@ -105,11 +103,11 @@
       "section": "TEKNİK · TASARIM",
       "title": "Araç tarafsız değildir ama kader de değildir",
       "paragraphs": [
-        "Her arayüz bazı eylemleri tek dokunuş, bazılarını saklı ve zahmetli yaparak davranışa yön verir; kullanıcı yine kuralları ve kullanımı değiştirebilir. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Video otomatik başlar, durdurma küçük simgededir; platform devamı varsayılan yapar ve iradeyi her bölümde yeniden sınar. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Varsayılan sürtünmeyi dağıtır, ödül hızlı gelir ve tekrar alışkanlığa dönüşür. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Tasarım etkisi kişinin niyetini tamamen ortadan kaldırmaz; eğitim, yasa ve alternatif tasarım gerçek fark yaratır. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir uygulamada varsayılanı bulun ve sizin amacınıza hizmet edecek karşı varsayılan kurun. Tarafsız olmayan tasarım yine de tartışma, yasa ve yeniden tasarımla değiştirilebilir. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Her arayüz bazı eylemleri tek dokunuş, bazılarını saklı ve zahmetli yaparak davranışa yön verir; kullanıcı yine kuralları ve kullanımı değiştirebilir.",
+        "Video otomatik başlar, durdurma küçük simgededir; platform devamı varsayılan yapar ve iradeyi her bölümde yeniden sınar.",
+        "Varsayılan sürtünmeyi dağıtır, ödül hızlı gelir ve tekrar alışkanlığa dönüşür.",
+        "Tasarım etkisi kişinin niyetini tamamen ortadan kaldırmaz; eğitim, yasa ve alternatif tasarım gerçek fark yaratır.",
+        "Bir uygulamada varsayılanı bulun ve sizin amacınıza hizmet edecek karşı varsayılan kurun. Tarafsız olmayan tasarım yine de tartışma, yasa ve yeniden tasarımla değiştirilebilir."
       ]
     },
     {
@@ -117,11 +115,11 @@
       "section": "DİKKAT · ALIŞKANLIK",
       "title": "Değişken ödül eli ekrana geri çağırır",
       "paragraphs": [
-        "Bildirim, yeni içerik ve sosyal onay ne zaman geleceği belirsiz ödüller sunduğunda zihin sık aralıkla kontrol etmeye koşullanabilir. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Telefon bazen önemli mesaj, bazen komik video, çoğu kez önemsiz yenilik verir; belirsizlik çekişi sabit ödülden güçlü tutar. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "İşaret beklenti yaratır, kontrol küçük ödül veya rahatlama verir, sık tekrar otomatikleşir. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Davranış bağımlılığı terimi klinik tanı yerine gelişigüzel kullanılmamalı; yoğun kullanım her kişide hastalık değildir. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Kontrol dürtüsü geldiğinde saati ve öncesindeki duyguya tek kelime not vererek gerçek işareti bulun. Dürtünün kaynağını bilmek suçluluk yerine etkili çevre düzeni kurar. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Bildirim, yeni içerik ve sosyal onay ne zaman geleceği belirsiz ödüller sunduğunda zihin sık aralıkla kontrol etmeye koşullanabilir.",
+        "Telefon bazen önemli mesaj, bazen komik video, çoğu kez önemsiz yenilik verir; belirsizlik çekişi sabit ödülden güçlü tutar.",
+        "İşaret beklenti yaratır, kontrol küçük ödül veya rahatlama verir, sık tekrar otomatikleşir.",
+        "Davranış bağımlılığı terimi klinik tanı yerine gelişigüzel kullanılmamalı; yoğun kullanım her kişide hastalık değildir.",
+        "Kontrol dürtüsü geldiğinde saati ve öncesindeki duyguya tek kelime not vererek gerçek işareti bulun. Dürtünün kaynağını bilmek suçluluk yerine etkili çevre düzeni kurar."
       ]
     },
     {
@@ -129,11 +127,11 @@
       "section": "ALGORİTMA · SEÇİM",
       "title": "Algoritma seçenek sunarken ufku da daraltabilir",
       "paragraphs": [
-        "Öneri sistemi geçmiş davranışa benzeyen içeriği öne çıkararak aramayı kolaylaştırır; beklenmedik karşılaşma ve farklı görüş olasılığını azaltabilir. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Bir kez ev düzenleme videosu izleyen kişi günlerce aynı estetiğin kusursuz evleriyle çevrilir, normal hayatı da ona göre ölçer. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Geçmiş tıklama profil olur, profil görünür seçeneği seçer ve yeni tıklama profili pekiştirir. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Filtre balonu herkeste kapalı duvar değildir; kullanıcı farklı kaynak arayabilir, sosyal ağlar kesişen görüş de taşır. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Haftada bir öneri akışından değil doğrudan seçtiğiniz karşıt veya yabancı kaynaktan okuyun. Önerinin rahatlığına küçük bir keşif payı eklemek zihinsel çeşitliliği korur. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Öneri sistemi geçmiş davranışa benzeyen içeriği öne çıkararak aramayı kolaylaştırır; beklenmedik karşılaşma ve farklı görüş olasılığını azaltabilir.",
+        "Bir kez ev düzenleme videosu izleyen kişi günlerce aynı estetiğin kusursuz evleriyle çevrilir, normal hayatı da ona göre ölçer.",
+        "Geçmiş tıklama profil olur, profil görünür seçeneği seçer ve yeni tıklama profili pekiştirir.",
+        "Filtre balonu herkeste kapalı duvar değildir; kullanıcı farklı kaynak arayabilir, sosyal ağlar kesişen görüş de taşır.",
+        "Haftada bir öneri akışından değil doğrudan seçtiğiniz karşıt veya yabancı kaynaktan okuyun. Önerinin rahatlığına küçük bir keşif payı eklemek zihinsel çeşitliliği korur."
       ]
     },
     {
@@ -141,11 +139,11 @@
       "section": "VERİ · GÜÇ",
       "title": "Gözetim tahminle yetinmeyip davranışı itebilir",
       "paragraphs": [
-        "Zuboff'un eleştirisinde kişisel deneyim veriye çevrilir, gelecekteki davranışı tahmin etmek ve ticari olarak yönlendirmek için kullanılır. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Konum ve alışveriş geçmişi yalnız size uygun reklam seçmez, en kırılgan saatte dürtüsel teklifi önünüze getirebilir. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Davranış artığı toplanır, model olasılık çıkarır, arayüz seçimi değiştirir ve yeni davranış yeniden veri olur. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Her veri kullanımı gözetim kapitalizmi değildir; sağlık ve kamu yararı için açık amaç, asgari veri ve hesap verme ayrılmalıdır. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir hizmet için hangi verinin zorunlu, hangisinin reklam ve tahmin için fazla olduğunu sorun. Veri hakkı yalnız gizlilik değil davranış üzerinde kimin deney yapabildiği sorusudur. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Zuboff'un eleştirisinde kişisel deneyim veriye çevrilir, gelecekteki davranışı tahmin etmek ve ticari olarak yönlendirmek için kullanılır.",
+        "Konum ve alışveriş geçmişi yalnız size uygun reklam seçmez, en kırılgan saatte dürtüsel teklifi önünüze getirebilir.",
+        "Davranış artığı toplanır, model olasılık çıkarır, arayüz seçimi değiştirir ve yeni davranış yeniden veri olur.",
+        "Her veri kullanımı gözetim kapitalizmi değildir; sağlık ve kamu yararı için açık amaç, asgari veri ve hesap verme ayrılmalıdır.",
+        "Bir hizmet için hangi verinin zorunlu, hangisinin reklam ve tahmin için fazla olduğunu sorun. Veri hakkı yalnız gizlilik değil davranış üzerinde kimin deney yapabildiği sorusudur."
       ]
     },
     {
@@ -153,11 +151,11 @@
       "section": "İLİŞKİ · EKRANDA YALNIZ",
       "title": "Bağlantı yakınlıkla aynı şey değildir",
       "paragraphs": [
-        "Turkle, sürekli bağlantının konuşmanın yavaş, belirsiz ve karşılıklı sorumluluk isteyen tarafını azaltıp kontrol edilebilir mesajlaşmayı tercih ettirebildiğini gösterir. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Arkadaş üzgünken kişi aramak yerine kalp simgesi gönderir; ilgi vardır ama sesin titremesi ve sessizlikle kalma yükü yoktur. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Mesaj zaman ve sunum kontrolü verir, zor duygudan kaçınma kolaylaşır ve ilişki giderek kısa işaretlerle yürür. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Dijital iletişim uzaktaki aile, engelli kişi ve çekingen genç için gerçek yakınlık kurabilir; yüz yüze tek üstün biçim değildir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bir duygusal konuşmada hız yerine sesli veya yüz yüze daha zengin bir kanal teklif edin. Yakınlık kusursuz cümleden çok karşı tarafın beklenmedik cevabına yer açar. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Turkle, sürekli bağlantının konuşmanın yavaş, belirsiz ve karşılıklı sorumluluk isteyen tarafını azaltıp kontrol edilebilir mesajlaşmayı tercih ettirebildiğini gösterir.",
+        "Arkadaş üzgünken kişi aramak yerine kalp simgesi gönderir; ilgi vardır ama sesin titremesi ve sessizlikle kalma yükü yoktur.",
+        "Mesaj zaman ve sunum kontrolü verir, zor duygudan kaçınma kolaylaşır ve ilişki giderek kısa işaretlerle yürür.",
+        "Dijital iletişim uzaktaki aile, engelli kişi ve çekingen genç için gerçek yakınlık kurabilir; yüz yüze tek üstün biçim değildir.",
+        "Bir duygusal konuşmada hız yerine sesli veya yüz yüze daha zengin bir kanal teklif edin. Yakınlık kusursuz cümleden çok karşı tarafın beklenmedik cevabına yer açar."
       ]
     },
     {
@@ -165,11 +163,11 @@
       "section": "ZAMAN · BEKLENTİ",
       "title": "Teknik zamanın akışını yeniden kurar",
       "paragraphs": [
-        "Stiegler çizgisinde teknik yalnız bilgiyi saklamaz, neyi hatırladığımızı ve bir sonraki anda ne beklediğimizi de düzenler. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Kısa videoların hızlı kesmelerine alışan göz, sakin bir konuşmada birkaç saniyelik boşluğu gereksiz bekleme sayabilir. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Tekrar edilen medya ritmi beklenti eşiği kurar, yavaş uyarıcı zayıf görünür ve dikkat yeniden hızlı akış arar. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Dikkat değişimi tek yönlü beyin hasarı diye anlatılamaz; görev, uyku, yaş ve pratik kapasiteyi etkiler. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Her gün seçtiğiniz on dakika boyunca kaydırmasız tek bir metin, müzik parçası veya manzarada kalın. Beklenti ritmi değişebildiği için yavaşlık kayıp yetenek değil yeniden çalıştırılan pratiktir. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Stiegler çizgisinde teknik yalnız bilgiyi saklamaz, neyi hatırladığımızı ve bir sonraki anda ne beklediğimizi de düzenler.",
+        "Kısa videoların hızlı kesmelerine alışan göz, sakin bir konuşmada birkaç saniyelik boşluğu gereksiz bekleme sayabilir.",
+        "Tekrar edilen medya ritmi beklenti eşiği kurar, yavaş uyarıcı zayıf görünür ve dikkat yeniden hızlı akış arar.",
+        "Dikkat değişimi tek yönlü beyin hasarı diye anlatılamaz; görev, uyku, yaş ve pratik kapasiteyi etkiler.",
+        "Her gün seçtiğiniz on dakika boyunca kaydırmasız tek bir metin, müzik parçası veya manzarada kalın. Beklenti ritmi değişebildiği için yavaşlık kayıp yetenek değil yeniden çalıştırılan pratiktir."
       ]
     },
     {
@@ -177,11 +175,11 @@
       "section": "DİKKAT · PARÇALANMA",
       "title": "Çoklu görev çoğu kez hızlı geçiştir",
       "paragraphs": [
-        "İnsan karmaşık iki bilinçli işi aynı anda yapmak yerine aralarında geçiş yapar; her geçiş bağlamı yeniden kurma maliyeti taşır. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Rapor yazarken üç mesaj cevaplayan kişi meşgul hisseder, cümlenin mantığını her dönüşte yeniden toplar. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Kesinti çalışma belleğini boşaltır, geri dönüş yön bulma ister ve hata ile süre birikir. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Bazı otomatik işler birlikte yapılabilir; müzikle yürümek raporla toplantıyı aynı anda yürütmek değildir. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Yirmi beş dakikalık bir görevde bütün bildirimleri kapatıp sonunda hız ve hata farkını gözleyin. Kesintiyi azaltmak daha çok iş sıkıştırmak değil düşüncenin bütünlüğünü korumaktır. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "İnsan karmaşık iki bilinçli işi aynı anda yapmak yerine aralarında geçiş yapar; her geçiş bağlamı yeniden kurma maliyeti taşır.",
+        "Rapor yazarken üç mesaj cevaplayan kişi meşgul hisseder, cümlenin mantığını her dönüşte yeniden toplar.",
+        "Kesinti çalışma belleğini boşaltır, geri dönüş yön bulma ister ve hata ile süre birikir.",
+        "Bazı otomatik işler birlikte yapılabilir; müzikle yürümek raporla toplantıyı aynı anda yürütmek değildir.",
+        "Yirmi beş dakikalık bir görevde bütün bildirimleri kapatıp sonunda hız ve hata farkını gözleyin. Kesintiyi azaltmak daha çok iş sıkıştırmak değil düşüncenin bütünlüğünü korumaktır."
       ]
     },
     {
@@ -189,11 +187,11 @@
       "section": "BEDEN · RİTİM",
       "title": "Beden ekranın dışında kalan bir aksesuar değildir",
       "paragraphs": [
-        "Zihin uyku, ışık, hareket, nefes, beslenme ve mekânsal yönelimle çalışan bedenli süreçtir; dijital düzen bu sinyalleri bastırabilir ama yok etmez. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Gece yorulan kişi bir video daha izler, parlaklık ve heyecan uyku saatini iter, ertesi gün düşük dikkat yeniden kolay akış arar. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Uyarılma ritmi geciktirir, yorgunluk özdenetimi azaltır ve rahatlama için aynı araca dönüş döngüsü kurar. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Ekran tek uyku nedeni değildir ve sağlık önerisi kişisel durumun yerine geçmez; ciddi sorun profesyonel değerlendirme ister. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Yatmadan önce cihazı odanın dışında bıraktığınız kısa bir geçiş ritüelini bir hafta deneyin. Bedenin sınırı verim düşmanı değil zihnin bakım takvimidir. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Zihin uyku, ışık, hareket, nefes, beslenme ve mekânsal yönelimle çalışan bedenli süreçtir; dijital düzen bu sinyalleri bastırabilir ama yok etmez.",
+        "Gece yorulan kişi bir video daha izler, parlaklık ve heyecan uyku saatini iter, ertesi gün düşük dikkat yeniden kolay akış arar.",
+        "Uyarılma ritmi geciktirir, yorgunluk özdenetimi azaltır ve rahatlama için aynı araca dönüş döngüsü kurar.",
+        "Ekran tek uyku nedeni değildir ve sağlık önerisi kişisel durumun yerine geçmez; ciddi sorun profesyonel değerlendirme ister.",
+        "Yatmadan önce cihazı odanın dışında bıraktığınız kısa bir geçiş ritüelini bir hafta deneyin. Bedenin sınırı verim düşmanı değil zihnin bakım takvimidir."
       ]
     },
     {
@@ -201,11 +199,11 @@
       "section": "DOĞAL ZİHİN · TANIM",
       "title": "Doğal zihin teknoloji öncesi saflık değildir",
       "paragraphs": [
-        "Buradaki doğal sözcüğü bedenin çevre, hareket, duyular, ilişki ve dinlenmeyle gelişmiş geniş çalışma alanını; tek ekran kanalına indirgenmeyen zihni anlatır. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Kâğıda çizmek, bahçede yürümek ve yüz yüze tartışmak da kültürel tekniklerdir fakat beden ve mekândan daha çok geri bildirim alırlar. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Çoklu duyu ve hareket bağlam oluşturur, boşluk anıları birleştirir ve sosyal geri bildirim düşünceyi sınar. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Doğayı otomatik iyi, şehri ve cihazı otomatik kötü saymak romantik ve dışlayıcıdır. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Bir düşünme işini ekran, kâğıt, yürüyüş ve konuşma kanallarında deneyip farkı not edin. Doğal olan kültürsüz değil, canlı sistemin çok kanallı ve ritimli oluşudur. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Buradaki doğal sözcüğü bedenin çevre, hareket, duyular, ilişki ve dinlenmeyle gelişmiş geniş çalışma alanını; tek ekran kanalına indirgenmeyen zihni anlatır.",
+        "Kâğıda çizmek, bahçede yürümek ve yüz yüze tartışmak da kültürel tekniklerdir fakat beden ve mekândan daha çok geri bildirim alırlar.",
+        "Çoklu duyu ve hareket bağlam oluşturur, boşluk anıları birleştirir ve sosyal geri bildirim düşünceyi sınar.",
+        "Doğayı otomatik iyi, şehri ve cihazı otomatik kötü saymak romantik ve dışlayıcıdır.",
+        "Bir düşünme işini ekran, kâğıt, yürüyüş ve konuşma kanallarında deneyip farkı not edin. Doğal olan kültürsüz değil, canlı sistemin çok kanallı ve ritimli oluşudur."
       ]
     },
     {
@@ -213,11 +211,11 @@
       "section": "TASARIM · SEÇİM MİMARİSİ",
       "title": "Sürtünme özgürlüğün düşmanı değil bekçisi olabilir",
       "paragraphs": [
-        "İyi yerleştirilmiş küçük zorluk dürtü ile eylem arasına düşünme zamanı koyar; her şeyi anında yapmak her zaman daha özgür olmak değildir. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Alışveriş uygulamasından kayıtlı kartı silmek iki dakikalık engel yaratır ve gece dürtüsünün sabah yeniden değerlendirilmesini sağlar. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Otomatik yol kesilir, niyet yeniden çağrılır ve seçilmiş hedef anlık ödülle yarışma fırsatı bulur. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Gerekli hizmette aşırı sürtünme yaşlı, yoksul veya engelli kullanıcıyı dışlar; koruyucu engel erişilebilir tasarlanmalıdır. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Değiştirmek istediğiniz tek alışkanlığa küçük, geri alınabilir ve yalnız size ait bir sürtünme ekleyin. Seçilmiş sürtünme kişinin uzun vadeli niyetini anlık tasarım karşısında temsil eder. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "İyi yerleştirilmiş küçük zorluk dürtü ile eylem arasına düşünme zamanı koyar; her şeyi anında yapmak her zaman daha özgür olmak değildir.",
+        "Alışveriş uygulamasından kayıtlı kartı silmek iki dakikalık engel yaratır ve gece dürtüsünün sabah yeniden değerlendirilmesini sağlar.",
+        "Otomatik yol kesilir, niyet yeniden çağrılır ve seçilmiş hedef anlık ödülle yarışma fırsatı bulur.",
+        "Gerekli hizmette aşırı sürtünme yaşlı, yoksul veya engelli kullanıcıyı dışlar; koruyucu engel erişilebilir tasarlanmalıdır.",
+        "Değiştirmek istediğiniz tek alışkanlığa küçük, geri alınabilir ve yalnız size ait bir sürtünme ekleyin. Seçilmiş sürtünme kişinin uzun vadeli niyetini anlık tasarım karşısında temsil eder."
       ]
     },
     {
@@ -225,11 +223,11 @@
       "section": "PRATİK · ANALOG",
       "title": "Analog pratik nostalji değil başka bir geri bildirimdir",
       "paragraphs": [
-        "El yazısı, basılı metin, fiziksel üretim, sessiz yürüyüş ve canlı sohbet hızı düşürüp bedensel iz ve sınırlı alan yaratarak dikkati farklı düzenler. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Deftere yazarken sayfa bitişi görünür, oklar ve çizikler düşüncenin yolunu saklar; sonsuz belge aynı mekânsal sınırı vermez. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Fiziksel direnç hızı azaltır, duyusal iz hafızaya bağlam ekler ve bitiş noktası tamamlanma hissi verir. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Analog her zaman derin, dijital her zaman sığ değildir; arama, erişilebilirlik ve düzenlemede dijital araç üstün olabilir. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir işi teknolojiyi reddetmeden önce düşünme için analog, düzenleme için dijital iki aşamaya bölün. Analog ve dijital birbirinin ahlaki rakibi değil farklı düşünme işlerinde farklı araçlardır. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "El yazısı, basılı metin, fiziksel üretim, sessiz yürüyüş ve canlı sohbet hızı düşürüp bedensel iz ve sınırlı alan yaratarak dikkati farklı düzenler.",
+        "Deftere yazarken sayfa bitişi görünür, oklar ve çizikler düşüncenin yolunu saklar; sonsuz belge aynı mekânsal sınırı vermez.",
+        "Fiziksel direnç hızı azaltır, duyusal iz hafızaya bağlam ekler ve bitiş noktası tamamlanma hissi verir.",
+        "Analog her zaman derin, dijital her zaman sığ değildir; arama, erişilebilirlik ve düzenlemede dijital araç üstün olabilir.",
+        "Bir işi teknolojiyi reddetmeden önce düşünme için analog, düzenleme için dijital iki aşamaya bölün. Analog ve dijital birbirinin ahlaki rakibi değil farklı düşünme işlerinde farklı araçlardır."
       ]
     },
     {
@@ -237,11 +235,11 @@
       "section": "TOPLUM · KURAL",
       "title": "Kişisel detoks kurumsal çağrıyı susturamaz",
       "paragraphs": [
-        "Ekran sınırı koyan kişi okul, iş ve kamu hizmeti sürekli çevrimiçi bulunmayı zorunlu tuttuğunda tek başına korunamaz; hak ve kurum tasarımı gerekir. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Çalışan telefonu gri yapar fakat gece vardiya mesajına cevap vermediğinde cezalandırılır. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Kurumsal beklenti bağlantıyı zorunlu kılar, kişisel sınır maliyetli olur ve ortak kural maliyeti eşit dağıtır. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Katı çevrimdışı kural acil bakım, esnek çalışma ve uluslararası ekip ihtiyaçlarını görmelidir. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Ekibinizde gerçek acili, ertesi gün işi ve isteğe bağlı mesajı ayıran ortak bir protokol önerin. Bağlantıyı kesme hakkı ancak cezalandırılmadan kullanılabildiğinde gerçek haktır. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Ekran sınırı koyan kişi okul, iş ve kamu hizmeti sürekli çevrimiçi bulunmayı zorunlu tuttuğunda tek başına korunamaz; hak ve kurum tasarımı gerekir.",
+        "Çalışan telefonu gri yapar fakat gece vardiya mesajına cevap vermediğinde cezalandırılır.",
+        "Kurumsal beklenti bağlantıyı zorunlu kılar, kişisel sınır maliyetli olur ve ortak kural maliyeti eşit dağıtır.",
+        "Katı çevrimdışı kural acil bakım, esnek çalışma ve uluslararası ekip ihtiyaçlarını görmelidir.",
+        "Ekibinizde gerçek acili, ertesi gün işi ve isteğe bağlı mesajı ayıran ortak bir protokol önerin. Bağlantıyı kesme hakkı ancak cezalandırılmadan kullanılabildiğinde gerçek haktır."
       ]
     },
     {
@@ -249,11 +247,11 @@
       "section": "TASARIM · ALTERNATİF",
       "title": "İnsani teknoloji dikkat ve itiraz hakkı tanır",
       "paragraphs": [
-        "Teknolojik kapan kaçınılmaz değildir; veri asgarisi, açık varsayılan, durma işareti, birlikte çalışabilirlik ve kullanıcı denetimiyle araç insan amacına yaklaşabilir. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Video listesi bölüm sonunda durur, öneriyi kapatma görünürdür ve neden gösterildiği anlaşılır biçimde açıklanır. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Şeffaf amaç ve gerçek seçim veri gücünü sınırlar, varsayılan dinlenmeye izin verir ve kullanıcı hizmetten çıkabilir. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Şeffaflık tek başına güç eşitsizliğini çözmez; bağımsız denetim, rekabet ve kamusal seçenek gerekir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Kullandığınız hizmeti durma, veri, açıklama, çıkış ve itiraz haklarıyla beş üzerinden değerlendirin. İnsani tasarım kullanıcının zayıflığını sömürmek yerine onun amaç değiştirme hakkını korur. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Teknolojik kapan kaçınılmaz değildir; veri asgarisi, açık varsayılan, durma işareti, birlikte çalışabilirlik ve kullanıcı denetimiyle araç insan amacına yaklaşabilir.",
+        "Video listesi bölüm sonunda durur, öneriyi kapatma görünürdür ve neden gösterildiği anlaşılır biçimde açıklanır.",
+        "Şeffaf amaç ve gerçek seçim veri gücünü sınırlar, varsayılan dinlenmeye izin verir ve kullanıcı hizmetten çıkabilir.",
+        "Şeffaflık tek başına güç eşitsizliğini çözmez; bağımsız denetim, rekabet ve kamusal seçenek gerekir.",
+        "Kullandığınız hizmeti durma, veri, açıklama, çıkış ve itiraz haklarıyla beş üzerinden değerlendirin. İnsani tasarım kullanıcının zayıflığını sömürmek yerine onun amaç değiştirme hakkını korur."
       ]
     },
     {
@@ -261,11 +259,11 @@
       "section": "SONUÇ · SENTEZ",
       "title": "Teknoloji ekolojisi kurmak yasaktan daha gerçekçidir",
       "paragraphs": [
-        "Özgür zihin cihazsız zihin değil, araçların ritmini, verisini ve varsayılanını görebilen; beden, ilişki, sessizlik ve kamusal kuralla seçenek alanını genişleten zihindir. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Harita yol buldurur, aile grubunda bağ kurulur ve çevrimiçi kurs bilgi açar; aynı gün yürüyüş, kâğıt not ve bildirim sınırı aracın bütün zamanı yutmasını engeller. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Amaç seçilir, uygun kanal belirlenir, beden ritmi korunur, ortak kural kötü teşviki azaltır ve araç yeniden hizmet konumuna döner. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Tam denetim yanılsamadır; teknoloji değişir, ihtiyaç çatışır ve düzen sürekli gözden geçirilir. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Bir gününüzü uyku, derin iş, insan, hareket, eğlence ve zorunlu dijital görev bloklarıyla gerçekçi biçimde yeniden kurun. İyi teknoloji ekolojisi aracı görünmez efendi değil gerektiğinde bırakılabilen yardımcı yapar. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Özgür zihin cihazsız zihin değil, araçların ritmini, verisini ve varsayılanını görebilen; beden, ilişki, sessizlik ve kamusal kuralla seçenek alanını genişleten zihindir.",
+        "Harita yol buldurur, aile grubunda bağ kurulur ve çevrimiçi kurs bilgi açar; aynı gün yürüyüş, kâğıt not ve bildirim sınırı aracın bütün zamanı yutmasını engeller.",
+        "Amaç seçilir, uygun kanal belirlenir, beden ritmi korunur, ortak kural kötü teşviki azaltır ve araç yeniden hizmet konumuna döner.",
+        "Tam denetim yanılsamadır; teknoloji değişir, ihtiyaç çatışır ve düzen sürekli gözden geçirilir.",
+        "Bir gününüzü uyku, derin iş, insan, hareket, eğlence ve zorunlu dijital görev bloklarıyla gerçekçi biçimde yeniden kurun. İyi teknoloji ekolojisi aracı görünmez efendi değil gerektiğinde bırakılabilen yardımcı yapar."
       ]
     },
     {

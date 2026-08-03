@@ -12,8 +12,6 @@
   "chapterArtColor": "#5C5F86",
   "meta": {
     "originalTitle": "Theorie des kommunikativen Handelns I",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Habermas'ın 1981 tarihli iki ciltlik büyük eserinin birinci cildi Reason and the Rationalization of Society başlığını taşır. Bu rehber yalnız meşhur 'iletişimsel eylem' sözünü değil, kitabın Weber'in akılcılaşma teşhisine, eylem türlerine, dünya ilişkilerine ve Lukács'ın şeyleşme eleştirisine uzanan gerçek yolunu izler. İkinci cilt 281 numaralı ayrı rehberde ele alınır.",
@@ -46,11 +44,11 @@
       "section": "GİRİŞ · AKIL",
       "title": "Akıl tek kişinin kafasına kapanmaz",
       "paragraphs": [
-        "Habermas aklı yalnız öznenin dünyayı hesaplayıp kontrol etme gücü olarak değil, konuşanların gerekçe sunup iddialarını birlikte sınayabilme yeteneği olarak yeniden kurmak ister. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Bir mühendis köprüyü en ucuz hesapla yapabilir; mahalleli güvenlik, erişim ve yerinden edilme hakkında söz isteyince başka bir akıl alanı açılır. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "İddia eleştiriye sunulur, gerekçe paylaşılır ve kabul kişinin makamından çok savunulabilir nedenlere bağlanır. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Ortak gerekçe gücün yok olduğu anlamına gelmez; mikrofon, eğitim ve zaman eşitsizliği sonucu baştan etkileyebilir. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir kararda yalnız en verimli çözümü değil, kimlerin hangi gerekçeyi sınayabildiğini de listeleyin. İletişimsel akıl tek doğru zihnin değil karşılıklı düzeltmenin başarısıdır. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Habermas aklı yalnız öznenin dünyayı hesaplayıp kontrol etme gücü olarak değil, konuşanların gerekçe sunup iddialarını birlikte sınayabilme yeteneği olarak yeniden kurmak ister.",
+        "Bir mühendis köprüyü en ucuz hesapla yapabilir; mahalleli güvenlik, erişim ve yerinden edilme hakkında söz isteyince başka bir akıl alanı açılır.",
+        "İddia eleştiriye sunulur, gerekçe paylaşılır ve kabul kişinin makamından çok savunulabilir nedenlere bağlanır.",
+        "Ortak gerekçe gücün yok olduğu anlamına gelmez; mikrofon, eğitim ve zaman eşitsizliği sonucu baştan etkileyebilir.",
+        "Bir kararda yalnız en verimli çözümü değil, kimlerin hangi gerekçeyi sınayabildiğini de listeleyin. İletişimsel akıl tek doğru zihnin değil karşılıklı düzeltmenin başarısıdır."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "AKIL · TANIM",
       "title": "Rasyonellik başarıdan daha geniştir",
       "paragraphs": [
-        "Bir inanç dünyaya uyduğu, bir davranış haklı normla bağ kurduğu veya bir ifade içtenliğini dürüstçe taşıdığı ölçüde gerekçelendirilebilir; akıl yalnız hedefe ulaşma değildir. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Yalan söyleyerek satış hedefini aşan kişi araçsal olarak başarılıdır, fakat söylediği doğru ve davranışı haklı olmadığı için geniş anlamda akılcı değildir. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Farklı iddialar farklı eleştiri ve kanıt türlerine açılır; akıl düzeltilebilir olma kapasitesinde görünür. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Her duygu bilimsel kanıtla, her gerçeklik iddiası kişisel içtenlikle çözülemez; ölçüler karıştırılmamalıdır. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir tartışmada olgu, kural ve kişisel duygu cümlelerini üç ayrı renkle işaretleyin. Başarı ölçüsü gereklidir; doğruluk ve haklılıkla bağını kopardığında daralır. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Bir inanç dünyaya uyduğu, bir davranış haklı normla bağ kurduğu veya bir ifade içtenliğini dürüstçe taşıdığı ölçüde gerekçelendirilebilir; akıl yalnız hedefe ulaşma değildir.",
+        "Yalan söyleyerek satış hedefini aşan kişi araçsal olarak başarılıdır, fakat söylediği doğru ve davranışı haklı olmadığı için geniş anlamda akılcı değildir.",
+        "Farklı iddialar farklı eleştiri ve kanıt türlerine açılır; akıl düzeltilebilir olma kapasitesinde görünür.",
+        "Her duygu bilimsel kanıtla, her gerçeklik iddiası kişisel içtenlikle çözülemez; ölçüler karıştırılmamalıdır.",
+        "Bir tartışmada olgu, kural ve kişisel duygu cümlelerini üç ayrı renkle işaretleyin. Başarı ölçüsü gereklidir; doğruluk ve haklılıkla bağını kopardığında daralır."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "DÜNYA GÖRÜŞÜ · AYRIŞMA",
       "title": "Mit ve modern dünya farklı ilişki kurar",
       "paragraphs": [
-        "Habermas kapalı mitik dünyada doğa, toplum ve kişinin iç dünyasının iç içe geçtiğini; modern bilinçte nesnel, toplumsal ve öznel dünyaların daha belirgin ayrıldığını anlatır. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Fırtına aynı anda tanrının öfkesi, toplumsal uyarı ve doğa olayı sayılırken modern konuşmada meteoroloji ile ahlaki suçlama ayrılabilir. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Alanların ayrışması iddianın hangi ölçüyle eleştirileceğini görünür kılar ve öğrenme imkânı artırır. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Mitik-modern karşıtlığı sömürgeci üstünlük hikâyesine dönüşebilir; modern toplumlar da efsane ve kutsal anlatıyla yaşar. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Bir olay hakkındaki doğa açıklaması, toplumsal kural ve kişisel anlamı ayrı cümlelerde kurun. Dünya alanlarını ayırmak bilimi ahlaktan, duyguyu olgudan korurken aralarında konuşma ihtiyacını sürdürür. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Habermas kapalı mitik dünyada doğa, toplum ve kişinin iç dünyasının iç içe geçtiğini; modern bilinçte nesnel, toplumsal ve öznel dünyaların daha belirgin ayrıldığını anlatır.",
+        "Fırtına aynı anda tanrının öfkesi, toplumsal uyarı ve doğa olayı sayılırken modern konuşmada meteoroloji ile ahlaki suçlama ayrılabilir.",
+        "Alanların ayrışması iddianın hangi ölçüyle eleştirileceğini görünür kılar ve öğrenme imkânı artırır.",
+        "Mitik-modern karşıtlığı sömürgeci üstünlük hikâyesine dönüşebilir; modern toplumlar da efsane ve kutsal anlatıyla yaşar.",
+        "Bir olay hakkındaki doğa açıklaması, toplumsal kural ve kişisel anlamı ayrı cümlelerde kurun. Dünya alanlarını ayırmak bilimi ahlaktan, duyguyu olgudan korurken aralarında konuşma ihtiyacını sürdürür."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "EYLEM · HARİTA",
       "title": "Dört eylem kavramı farklı dünya ilişkileri kurar",
       "paragraphs": [
-        "Habermas teleolojik, normla düzenlenen, dramaturjik ve iletişimsel eylemi ayırarak insanların davranışı hangi beklentiyle koordine ettiğini araştırır. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Satıcı hedefe ulaşır, yargıç kurala uyar, oyuncu izleyiciye imge sunar, komşular ortak çözüm için anlaşmaya çalışır. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Her eylem nesnel sonuç, toplumsal norm, öznel ifade veya üç dünyayı birleştiren anlaşma ilişkisini öne çıkarır. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Gerçek davranışlar çoğu zaman birden fazla tür taşır; sınıflama insanı tek kutuya hapsetmemelidir. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bugünkü bir konuşmada hedef, rol, imge ve anlaşma niyetlerinin payını ayrı ayrı bulun. Eylem türleri insan karakteri değil aynı insanın farklı durumlarda kurduğu koordinasyon biçimleridir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Habermas teleolojik, normla düzenlenen, dramaturjik ve iletişimsel eylemi ayırarak insanların davranışı hangi beklentiyle koordine ettiğini araştırır.",
+        "Satıcı hedefe ulaşır, yargıç kurala uyar, oyuncu izleyiciye imge sunar, komşular ortak çözüm için anlaşmaya çalışır.",
+        "Her eylem nesnel sonuç, toplumsal norm, öznel ifade veya üç dünyayı birleştiren anlaşma ilişkisini öne çıkarır.",
+        "Gerçek davranışlar çoğu zaman birden fazla tür taşır; sınıflama insanı tek kutuya hapsetmemelidir.",
+        "Bugünkü bir konuşmada hedef, rol, imge ve anlaşma niyetlerinin payını ayrı ayrı bulun. Eylem türleri insan karakteri değil aynı insanın farklı durumlarda kurduğu koordinasyon biçimleridir."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "EYLEM · AMAÇ",
       "title": "Teleolojik eylem başarıya yönelir",
       "paragraphs": [
-        "Amaçlı eylem aktörün hedef seçip dünyadaki araçları hesaplamasıdır; başka insanlar da stratejik planın koşulu veya rakibi olabilir. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Şirket fiyatı düşürüp rakibin tepkisini hesaplar; müşterinin neye inanacağı ortak doğruluk değil satış sonucunun parçası olur. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Aktör seçeneklerin sonuçlarını öngörür ve en uygun aracı seçer; başarı temel ölçü haline gelir. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Stratejik düşünme kötü değildir; acil ve teknik işlerde gereklidir, sorun bütün ilişkileri yalnız başarı hesabına çevirmektir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Bir konuşmada karşı tarafı ikna edilecek hedef mi, birlikte karar verecek ortak mı gördüğünüzü sorun. Strateji açık ve sınırlı olduğunda ortak iş görür; gizli yönlendirme olduğunda güveni tüketir. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Amaçlı eylem aktörün hedef seçip dünyadaki araçları hesaplamasıdır; başka insanlar da stratejik planın koşulu veya rakibi olabilir.",
+        "Şirket fiyatı düşürüp rakibin tepkisini hesaplar; müşterinin neye inanacağı ortak doğruluk değil satış sonucunun parçası olur.",
+        "Aktör seçeneklerin sonuçlarını öngörür ve en uygun aracı seçer; başarı temel ölçü haline gelir.",
+        "Stratejik düşünme kötü değildir; acil ve teknik işlerde gereklidir, sorun bütün ilişkileri yalnız başarı hesabına çevirmektir.",
+        "Bir konuşmada karşı tarafı ikna edilecek hedef mi, birlikte karar verecek ortak mı gördüğünüzü sorun. Strateji açık ve sınırlı olduğunda ortak iş görür; gizli yönlendirme olduğunda güveni tüketir."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "EYLEM · NORM",
       "title": "Normla düzenlenen eylem ortak beklenti taşır",
       "paragraphs": [
-        "Kişi yalnız sonuç için değil ait olduğu grubun geçerli saydığı kurala uygun davranarak eylemini koordine edebilir. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Otobüste yaşlı kişiye yer veren yolcu ödül beklemese de 'böyle yapılmalıdır' beklentisini izler. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Norm üyeler için hak ve ödev üretir; ihlal eleştiri ve gerekçe talebi doğurur. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Mevcut kuralın kabul edilmiş olması onu adil yapmaz; normun herkesin çıkarına gerekçelendirilebilir olması gerekir. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir geleneğe uyduğunuzda yalnız yaygın mı, etkilenenler için savunulabilir mi diye de sorun. Normun geçerliliği yalnız geçmişte kabul edilmesinden değil bugünkü itiraza dayanabilmesinden gelir. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Kişi yalnız sonuç için değil ait olduğu grubun geçerli saydığı kurala uygun davranarak eylemini koordine edebilir.",
+        "Otobüste yaşlı kişiye yer veren yolcu ödül beklemese de 'böyle yapılmalıdır' beklentisini izler.",
+        "Norm üyeler için hak ve ödev üretir; ihlal eleştiri ve gerekçe talebi doğurur.",
+        "Mevcut kuralın kabul edilmiş olması onu adil yapmaz; normun herkesin çıkarına gerekçelendirilebilir olması gerekir.",
+        "Bir geleneğe uyduğunuzda yalnız yaygın mı, etkilenenler için savunulabilir mi diye de sorun. Normun geçerliliği yalnız geçmişte kabul edilmesinden değil bugünkü itiraza dayanabilmesinden gelir."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "EYLEM · SAHNE",
       "title": "Dramaturjik eylem kendimizi nasıl sunduğumuzu gösterir",
       "paragraphs": [
-        "Kişi izleyici karşısında iç dünyasının seçilmiş bir bölümünü açar ve belirli bir izlenim kurar. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "İş görüşmesinde heyecanını saklayıp kendinden emin yüz gösteren aday, yalnız bilgi vermek değil sahne kurmakla meşguldür. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "İç deneyim dış ifadeye çevrilir, izleyici samimiyet ve tutarlılık işaretlerini yorumlar. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Her rol yalan değildir; mahremiyet ve bağlama uygun ifade insan ilişkisinin doğal parçasıdır. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Bir ortamda gösterdiğiniz benlikle sakladığınız yön arasında etik sorun mu sağlıklı sınır mı bulunduğunu düşünün. Kendini sunma kaçınılmazdır; sorun imge ile niyet arasındaki farkın ilişkiyi aldatmasıdır. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Kişi izleyici karşısında iç dünyasının seçilmiş bir bölümünü açar ve belirli bir izlenim kurar.",
+        "İş görüşmesinde heyecanını saklayıp kendinden emin yüz gösteren aday, yalnız bilgi vermek değil sahne kurmakla meşguldür.",
+        "İç deneyim dış ifadeye çevrilir, izleyici samimiyet ve tutarlılık işaretlerini yorumlar.",
+        "Her rol yalan değildir; mahremiyet ve bağlama uygun ifade insan ilişkisinin doğal parçasıdır.",
+        "Bir ortamda gösterdiğiniz benlikle sakladığınız yön arasında etik sorun mu sağlıklı sınır mı bulunduğunu düşünün. Kendini sunma kaçınılmazdır; sorun imge ile niyet arasındaki farkın ilişkiyi aldatmasıdır."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "EYLEM · ANLAŞMA",
       "title": "İletişimsel eylem anlaşmaya yönelir",
       "paragraphs": [
-        "İletişimsel eylemde katılımcılar planlarını tehdit veya gizli hesapla değil, ortakça kabul edilebilecek durum tanımı üzerinden uyumlaştırır. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Aile tatil yerini en çok bağıranın seçmesi yerine bütçe, ihtiyaç ve istekleri konuşup gerekçeli karar arar. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Her konuşmacı sözüyle başkasının evet veya hayır diyebileceği geçerlilik iddiası yükseltir; kabul eylem birliği sağlar. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Anlaşma oybirliği zorunluluğu değildir ve zaman baskısında geçici karar gerekebilir; önemli olan itirazın ilke olarak açık kalmasıdır. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Bir ortak kararda karşı tarafın gerçekten hayır diyebilip diyemediğini ve hayırın bedelini gözleyin. Anlaşma baskıdan arınmış nihai huzur değil eleştiriye açık geçici ortak zemin olabilir. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "İletişimsel eylemde katılımcılar planlarını tehdit veya gizli hesapla değil, ortakça kabul edilebilecek durum tanımı üzerinden uyumlaştırır.",
+        "Aile tatil yerini en çok bağıranın seçmesi yerine bütçe, ihtiyaç ve istekleri konuşup gerekçeli karar arar.",
+        "Her konuşmacı sözüyle başkasının evet veya hayır diyebileceği geçerlilik iddiası yükseltir; kabul eylem birliği sağlar.",
+        "Anlaşma oybirliği zorunluluğu değildir ve zaman baskısında geçici karar gerekebilir; önemli olan itirazın ilke olarak açık kalmasıdır.",
+        "Bir ortak kararda karşı tarafın gerçekten hayır diyebilip diyemediğini ve hayırın bedelini gözleyin. Anlaşma baskıdan arınmış nihai huzur değil eleştiriye açık geçici ortak zemin olabilir."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "DİL · DÜNYALAR",
       "title": "Üç dünya konuşmada buluşur",
       "paragraphs": [
-        "Konuşmacı nesnel olgular, toplumsal ilişkiler ve kendi öznel deneyimiyle aynı anda bağ kurar; cümle hangi ilişkiyi öne çıkardığına göre sınanır. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "'Toplantı saat dokuzda, gelmen doğru olur ve gelmeyişine kırıldım' cümlesi olgu, norm ve duyguyu birlikte taşır. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Dil dünyayı temsil eder, ilişki kurar ve kişinin içini ifade eder; anlaşma bu katmanların yeterince uyumuna dayanır. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Üçlü ayrım bütün dil oyunlarını tüketmez; şiir, mizah ve bedensel ifade daha karmaşık çalışabilir. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir çatışma cümlenizi olgu, beklenti ve duygu olarak üç kısa cümleye ayırın. Üç dünya ayrımı çatışmada neyin gerçekten tartışıldığını belirginleştirir. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Konuşmacı nesnel olgular, toplumsal ilişkiler ve kendi öznel deneyimiyle aynı anda bağ kurar; cümle hangi ilişkiyi öne çıkardığına göre sınanır.",
+        "'Toplantı saat dokuzda, gelmen doğru olur ve gelmeyişine kırıldım' cümlesi olgu, norm ve duyguyu birlikte taşır.",
+        "Dil dünyayı temsil eder, ilişki kurar ve kişinin içini ifade eder; anlaşma bu katmanların yeterince uyumuna dayanır.",
+        "Üçlü ayrım bütün dil oyunlarını tüketmez; şiir, mizah ve bedensel ifade daha karmaşık çalışabilir.",
+        "Bir çatışma cümlenizi olgu, beklenti ve duygu olarak üç kısa cümleye ayırın. Üç dünya ayrımı çatışmada neyin gerçekten tartışıldığını belirginleştirir."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "GEÇERLİLİK · DOĞRU",
       "title": "Doğruluk nesnel iddiayı sınar",
       "paragraphs": [
-        "Bir konuşmacı dış dünya hakkında söylediğinin gerçek olduğunu iddia eder ve itiraz gelirse gözlem, veri veya uygun kanıt sunmak zorundadır. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "'Köprü çatladı' diyen kişi fotoğraf, mühendis raporu ve ölçüm gösterebilir; makamı tek başına cümleyi doğru yapmaz. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "İddia yanlışlanabilir hale gelir, ortak araştırma kişisel kesinliği düzeltir ve öğrenme oluşur. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Veri seçimi ve ölçüm çerçevesi değerlerden tümüyle bağımsız değildir; şeffaf yöntem gerekir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Kesin bir olgu cümlesinde kaynağı, ölçümü ve hangi karşı kanıtın fikrinizi değiştireceğini yazın. Doğruluk iddiası sahibini fikrini değiştirecek koşulu söylemeye davet eder. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Bir konuşmacı dış dünya hakkında söylediğinin gerçek olduğunu iddia eder ve itiraz gelirse gözlem, veri veya uygun kanıt sunmak zorundadır.",
+        "'Köprü çatladı' diyen kişi fotoğraf, mühendis raporu ve ölçüm gösterebilir; makamı tek başına cümleyi doğru yapmaz.",
+        "İddia yanlışlanabilir hale gelir, ortak araştırma kişisel kesinliği düzeltir ve öğrenme oluşur.",
+        "Veri seçimi ve ölçüm çerçevesi değerlerden tümüyle bağımsız değildir; şeffaf yöntem gerekir.",
+        "Kesin bir olgu cümlesinde kaynağı, ölçümü ve hangi karşı kanıtın fikrinizi değiştireceğini yazın. Doğruluk iddiası sahibini fikrini değiştirecek koşulu söylemeye davet eder."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "GEÇERLİLİK · NORM",
       "title": "Doğruluk kadar haklılık da tartışılır",
       "paragraphs": [
-        "Toplumsal davranış yalnız doğru bilgiyle değil, etkilenenlerin kabul edebileceği haklı norm ve ilişki beklentisiyle gerekçelendirilir. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Patron vardiyayı doğru hesaplamış olabilir; çalışanın bakım sorumluluğunu hiç dinlemeden kurduğu program yine haksız olabilir. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Norm ortak dünyada karşılıklı beklenti kurar ve itiraz herkesin çıkarının hesaba katılıp katılmadığını sınar. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Gerçek güç farkı özgür onayı bozar; sessizlik kabul gibi okunmamalıdır. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Bir kuralın yararını açıklarken maliyetini taşıyan kişinin itirazını da aynı masaya getirin. Haklılık sorusu karardan etkilenen kişinin yalnız veri değil söz sahibi olmasını gerektirir. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Toplumsal davranış yalnız doğru bilgiyle değil, etkilenenlerin kabul edebileceği haklı norm ve ilişki beklentisiyle gerekçelendirilir.",
+        "Patron vardiyayı doğru hesaplamış olabilir; çalışanın bakım sorumluluğunu hiç dinlemeden kurduğu program yine haksız olabilir.",
+        "Norm ortak dünyada karşılıklı beklenti kurar ve itiraz herkesin çıkarının hesaba katılıp katılmadığını sınar.",
+        "Gerçek güç farkı özgür onayı bozar; sessizlik kabul gibi okunmamalıdır.",
+        "Bir kuralın yararını açıklarken maliyetini taşıyan kişinin itirazını da aynı masaya getirin. Haklılık sorusu karardan etkilenen kişinin yalnız veri değil söz sahibi olmasını gerektirir."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "GEÇERLİLİK · İÇTENLİK",
       "title": "İçtenlik kişinin kendi deneyimiyle ilişkisidir",
       "paragraphs": [
-        "Bir kişi duygusunu veya niyetini ifade ederken gerçekten yaşadığı şeyi dürüstçe sunduğu iddiasında bulunur. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "'Sana kızgın değilim' diyen kişinin sesi, sonraki davranışı ve geçmiş sözü tersini gösterirse güven sarsılır. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "İçtenlik doğrudan dış ölçümle değil, ifade ve davranışın zaman içindeki tutarlılığıyla değerlendirilir. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Kişi kendi duygusunu da yanlış anlayabilir; samimi olmak her söylediğinin doğru veya haklı olduğu anlamına gelmez. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Bir çatışmada emin olmadığınız duyguyu kesin hüküm yerine 'sanırım' diyerek ifade edin. İçtenlik özel alanın üstünlüğü değil söz ve hayat arasındaki güven ilişkisidir. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Bir kişi duygusunu veya niyetini ifade ederken gerçekten yaşadığı şeyi dürüstçe sunduğu iddiasında bulunur.",
+        "'Sana kızgın değilim' diyen kişinin sesi, sonraki davranışı ve geçmiş sözü tersini gösterirse güven sarsılır.",
+        "İçtenlik doğrudan dış ölçümle değil, ifade ve davranışın zaman içindeki tutarlılığıyla değerlendirilir.",
+        "Kişi kendi duygusunu da yanlış anlayabilir; samimi olmak her söylediğinin doğru veya haklı olduğu anlamına gelmez.",
+        "Bir çatışmada emin olmadığınız duyguyu kesin hüküm yerine 'sanırım' diyerek ifade edin. İçtenlik özel alanın üstünlüğü değil söz ve hayat arasındaki güven ilişkisidir."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "DİL · EYLEM",
       "title": "Konuşma eylemi bilgi vermekten fazlasıdır",
       "paragraphs": [
-        "Bir cümle aynı anda bir şey söyler, konuşmacının niyetini gösterir ve dinleyiciyle ilişki kurarak dünyada eylem yapar. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "'Kapıyı kapatır mısın?' hava akımı hakkında rapor değil, anlaşılır bir rica ve cevap beklentisidir. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Dinleyici cümlenin anlamını, bağlamını ve bağlayıcı gücünü kavrayıp kabul veya itiraz eder. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Sözün açık biçimi gizli baskıyı saklayabilir; rica patronun ağzında reddedilemez emir olabilir. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Bir ricada karşıdakinin ret hakkını görünür kılacak daha açık bir cümle kurun. Konuşma eylemi kelimelerin toplumsal sonuç ve sorumluluk ürettiğini gösterir. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Bir cümle aynı anda bir şey söyler, konuşmacının niyetini gösterir ve dinleyiciyle ilişki kurarak dünyada eylem yapar.",
+        "'Kapıyı kapatır mısın?' hava akımı hakkında rapor değil, anlaşılır bir rica ve cevap beklentisidir.",
+        "Dinleyici cümlenin anlamını, bağlamını ve bağlayıcı gücünü kavrayıp kabul veya itiraz eder.",
+        "Sözün açık biçimi gizli baskıyı saklayabilir; rica patronun ağzında reddedilemez emir olabilir.",
+        "Bir ricada karşıdakinin ret hakkını görünür kılacak daha açık bir cümle kurun. Konuşma eylemi kelimelerin toplumsal sonuç ve sorumluluk ürettiğini gösterir."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "WEBER · MODERNLİK",
       "title": "Weber akılcılaşmanın çift yüzünü gösterir",
       "paragraphs": [
-        "Weber'in anlatısında bilim, hukuk ve bürokrasi hesaplanabilirliği büyütür; aynı süreç değer alanlarını ayırıp anlam birliğini parçalar ve demir kafes hissi yaratır. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Hastane standart protokolle daha güvenli olur, fakat hasta yalnız sıra numarası ve maliyet kalemine dönüşebilir. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Amaçsal akıl kurum verimini artırır, dini ortak anlam geriler ve birey çatışan değerler arasında seçim yapmak zorunda kalır. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Modernlik yalnız kayıp değildir; hukuk ve bilim eleştiri, özgürlük ve öğrenme imkânı da açar. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Bir kurumda standartlaşmanın sağladığı güvenlikle sildiği insani ayrıntıyı yan yana yazın. Weber'in çift yüzü modern kurumu ne bütünüyle şeytanlaştırmaya ne de yalnız verimle övmeye izin verir. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Weber'in anlatısında bilim, hukuk ve bürokrasi hesaplanabilirliği büyütür; aynı süreç değer alanlarını ayırıp anlam birliğini parçalar ve demir kafes hissi yaratır.",
+        "Hastane standart protokolle daha güvenli olur, fakat hasta yalnız sıra numarası ve maliyet kalemine dönüşebilir.",
+        "Amaçsal akıl kurum verimini artırır, dini ortak anlam geriler ve birey çatışan değerler arasında seçim yapmak zorunda kalır.",
+        "Modernlik yalnız kayıp değildir; hukuk ve bilim eleştiri, özgürlük ve öğrenme imkânı da açar.",
+        "Bir kurumda standartlaşmanın sağladığı güvenlikle sildiği insani ayrıntıyı yan yana yazın. Weber'in çift yüzü modern kurumu ne bütünüyle şeytanlaştırmaya ne de yalnız verimle övmeye izin verir."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "LUKÁCS · ŞEYLEŞME",
       "title": "Lukács şeyleşmeyi görünür kılar",
       "paragraphs": [
-        "Piyasa ilişkileri ve hesap mantığı insanların emeğini, zamanını ve birbirini ölçülebilir nesneler gibi görmesine yol açabilir. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Çağrı merkezi çalışanı adı yerine dakikadaki işlem sayısı olarak değerlendirilir; müşteri de çözülecek kayıt numarası olur. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Meta biçimi iş ilişkilerinden düşünme alışkanlığına yayılır, toplumsal süreç doğal ve değişmez şey gibi görünür. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Her ölçüm şeyleşme değildir; adil ücret ve kamu planı da ölçü ister, sorun sayının kişiyi tüketmesidir. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Bir performans göstergesinin hangi gerçek emeği ölçtüğünü ve hangi bakım emeğini sildiğini bulun. Şeyleşme eleştirisi ölçümü kaldırmayı değil ölçülen kişinin yeniden amaç olmasını ister. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Piyasa ilişkileri ve hesap mantığı insanların emeğini, zamanını ve birbirini ölçülebilir nesneler gibi görmesine yol açabilir.",
+        "Çağrı merkezi çalışanı adı yerine dakikadaki işlem sayısı olarak değerlendirilir; müşteri de çözülecek kayıt numarası olur.",
+        "Meta biçimi iş ilişkilerinden düşünme alışkanlığına yayılır, toplumsal süreç doğal ve değişmez şey gibi görünür.",
+        "Her ölçüm şeyleşme değildir; adil ücret ve kamu planı da ölçü ister, sorun sayının kişiyi tüketmesidir.",
+        "Bir performans göstergesinin hangi gerçek emeği ölçtüğünü ve hangi bakım emeğini sildiğini bulun. Şeyleşme eleştirisi ölçümü kaldırmayı değil ölçülen kişinin yeniden amaç olmasını ister."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SONUÇ · YENİDEN KURMA",
       "title": "İletişimsel akıl modernliğin eksik imkânıdır",
       "paragraphs": [
-        "Habermas Weber'in karamsar kapanışına karşı modern dil ve hukukta insanların iddiaları eleştirebildiği iletişimsel bir akıl potansiyeli bulunduğunu savunur. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Hastane yalnız verim hedefini değil çalışan, hasta ve yakınların gerekçelerini açık toplantıda sınadığında kurumsal akıl genişler. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Farklılaşmış dünyalar yeniden tek kutsal bütün olmaz; açık iletişimle birbirinin sınırını ve ortak kararı düzenler. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "İletişim tek başına ekonomik gücü dağıtmaz; hakkın, kurumun ve maddi katılım koşullarının desteği gerekir. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir kurumda karar öncesi gerçek bilgi, adil norm ve kişisel deneyimin ayrı ayrı duyulacağı küçük bir süreç tasarlayın. İletişimsel potansiyel ancak eğitim, hukuk, zaman ve maddi güvenceyle gerçek katılıma dönüşür. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Habermas Weber'in karamsar kapanışına karşı modern dil ve hukukta insanların iddiaları eleştirebildiği iletişimsel bir akıl potansiyeli bulunduğunu savunur.",
+        "Hastane yalnız verim hedefini değil çalışan, hasta ve yakınların gerekçelerini açık toplantıda sınadığında kurumsal akıl genişler.",
+        "Farklılaşmış dünyalar yeniden tek kutsal bütün olmaz; açık iletişimle birbirinin sınırını ve ortak kararı düzenler.",
+        "İletişim tek başına ekonomik gücü dağıtmaz; hakkın, kurumun ve maddi katılım koşullarının desteği gerekir.",
+        "Bir kurumda karar öncesi gerçek bilgi, adil norm ve kişisel deneyimin ayrı ayrı duyulacağı küçük bir süreç tasarlayın. İletişimsel potansiyel ancak eğitim, hukuk, zaman ve maddi güvenceyle gerçek katılıma dönüşür."
       ]
     },
     {

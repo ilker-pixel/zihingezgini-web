@@ -12,8 +12,6 @@
   "chapterArtColor": "#66529B",
   "meta": {
     "originalTitle": "Monadology",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Aynı şehir tepeden, sokaktan ve pencereden farklı görünür. Görüntüler çatışsa da tek şehre aittir. Leibniz her monadı evrenin başka açıdan görünüşü gibi düşünür; hiçbirinin içine dışarıdan parça girmez.",
@@ -46,13 +44,10 @@
       "section": "BİRİNCİ KISIM · TÖZ",
       "title": "Bileşik olan basitlerden oluşur",
       "paragraphs": [
-        "Parçalardan kurulu her şeyin temelinde artık bölünemeyen basit tözler bulunmalıdır. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
-        "Kolye boncuklardan oluşur ama monad uzayda daha küçük boncuk değildir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Mantıksal basitlik fizik parçacıkla karıştırılmamalıdır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
-        "Modelin madde deneyine değil metafizik birliğe cevap verdiğini görmek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Bileşik olan basitlerden oluşur” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Parçalardan kurulu her şeyin temelinde artık bölünemeyen basit tözler bulunmalıdır.",
+        "Kolye boncuklardan oluşur ama monad uzayda daha küçük boncuk değildir.",
+        "Mantıksal basitlik fizik parçacıkla karıştırılmamalıdır.",
+        "Modelin madde deneyine değil metafizik birliğe cevap verdiğini görmek gerekir."
       ]
     },
     {
@@ -60,13 +55,10 @@
       "section": "BİRİNCİ KISIM · KAPALILIK",
       "title": "Monadın penceresi yoktur",
       "paragraphs": [
-        "Monadın içine dışarıdan özellik girmez; değişimi kendi iç ilkesinden doğar. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Kapalı müzik kutusu ezgiyi dış itiş olmadan programına göre sürdürür. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Benzetme monadı makine yapmaz. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
-        "Nedensel etkileşimi neden reddettiğini ayrıca sorgulamak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Monadın penceresi yoktur” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Monadın içine dışarıdan özellik girmez; değişimi kendi iç ilkesinden doğar.",
+        "Kapalı müzik kutusu ezgiyi dış itiş olmadan programına göre sürdürür.",
+        "Benzetme monadı makine yapmaz.",
+        "Nedensel etkileşimi neden reddettiğini ayrıca sorgulamak gerekir."
       ]
     },
     {
@@ -74,13 +66,10 @@
       "section": "BİRİNCİ KISIM · BİREYLİK",
       "title": "Her monad farklıdır",
       "paragraphs": [
-        "Ayırt edilemez iki varlık için yeter neden olmayacağından her monad evreni benzersiz açıdan ifade eder. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Aynı meydanın iki pencereden görünüşü hiçbir zaman tam aynı değildir. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
-        "İlke modern fizikte basit gözlem kuralı değildir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Felsefi zorunlulukla ölçülebilir farkı ayırmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Her monad farklıdır” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Ayırt edilemez iki varlık için yeter neden olmayacağından her monad evreni benzersiz açıdan ifade eder.",
+        "Aynı meydanın iki pencereden görünüşü hiçbir zaman tam aynı değildir.",
+        "İlke modern fizikte basit gözlem kuralı değildir.",
+        "Felsefi zorunlulukla ölçülebilir farkı ayırmak gerekir."
       ]
     },
     {
@@ -88,13 +77,10 @@
       "section": "İKİNCİ KISIM · TEMSİL",
       "title": "Algı monadın iç durumudur",
       "paragraphs": [
-        "Her monad çokluğu birlik içinde temsil eden algılara sahiptir; algı bilinçli görmekten daha geniştir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Uyuyan kişi yağmur sesini bilinçsizce işler. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Her maddenin insan gibi düşündüğü sonucu çıkmaz. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
-        "Algı, bilinç ve düşünce derecelerini ayırmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Algı monadın iç durumudur” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Her monad çokluğu birlik içinde temsil eden algılara sahiptir; algı bilinçli görmekten daha geniştir.",
+        "Uyuyan kişi yağmur sesini bilinçsizce işler.",
+        "Her maddenin insan gibi düşündüğü sonucu çıkmaz.",
+        "Algı, bilinç ve düşünce derecelerini ayırmak gerekir."
       ]
     },
     {
@@ -102,10 +88,10 @@
       "section": "İKİNCİ KISIM · HAREKET",
       "title": "İştah değişimi taşır",
       "paragraphs": [
-        "Bir algıdan ötekine geçişi sağlayan iç eğilime iştah denir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
-        "Melodi her notada sonraki notaya yönelen bir akış taşır. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "İştah gündelik arzu ile aynı değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Teknik terimi insan niyeti gibi kişileştirmemek gerekir. Aynı ilişkiyi sıradan bir nesnenin üretiminde, kullanımında ve atığa dönüşmesinde izlemek şaşırtıcı bağlantılar açabilir."
+        "Bir algıdan ötekine geçişi sağlayan iç eğilime iştah denir.",
+        "Melodi her notada sonraki notaya yönelen bir akış taşır.",
+        "İştah gündelik arzu ile aynı değildir.",
+        "Teknik terimi insan niyeti gibi kişileştirmemek gerekir."
       ]
     },
     {
@@ -113,13 +99,10 @@
       "section": "İKİNCİ KISIM · EŞİK",
       "title": "Küçük algılar",
       "paragraphs": [
-        "Bilinç eşiğine çıkmayan sayısız küçük algı deneyimin zeminini oluşturur. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
-        "Tek dalga duyulmaz ama denizin uğultusu binlercesinden doğar. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
-        "Bu fikir modern bilinçdışı kuramının aynısı değildir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Tarihsel benzerliği doğrudan kimlik saymamak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
-      ],
-      "extraParagraphs": [
-        "İddianın sınırını denemek için, “Küçük algılar” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Bilinç eşiğine çıkmayan sayısız küçük algı deneyimin zeminini oluşturur.",
+        "Tek dalga duyulmaz ama denizin uğultusu binlercesinden doğar.",
+        "Bu fikir modern bilinçdışı kuramının aynısı değildir.",
+        "Tarihsel benzerliği doğrudan kimlik saymamak gerekir."
       ]
     },
     {
@@ -127,10 +110,10 @@
       "section": "İKİNCİ KISIM · HİYERARŞİ",
       "title": "Ruh ve tin dereceleri",
       "paragraphs": [
-        "Bellek taşıyan monad ruh, akıl ve zorunlu doğruları kavrayan monad tin düzeyinde anlatılır. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
-        "Hayvan geçmiş acıyla yoldan kaçar, insan nedenini genel ilkeye bağlar. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
-        "Hayvan zihni hakkındaki dönem varsayımları sınırlıdır. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Derece farkını insan üstünlüğü bahanesi yapmamak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+        "Bellek taşıyan monad ruh, akıl ve zorunlu doğruları kavrayan monad tin düzeyinde anlatılır.",
+        "Hayvan geçmiş acıyla yoldan kaçar, insan nedenini genel ilkeye bağlar.",
+        "Hayvan zihni hakkındaki dönem varsayımları sınırlıdır.",
+        "Derece farkını insan üstünlüğü bahanesi yapmamak gerekir."
       ]
     },
     {
@@ -138,13 +121,10 @@
       "section": "ÜÇÜNCÜ KISIM · AKIL",
       "title": "Çelişmezlik ilkesi",
       "paragraphs": [
-        "Çelişki içeren önerme yanlış, karşıtı zorunlu olan önerme doğrudur. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Üçgenin aynı anlamda hem üç hem dört kenarlı olması imkânsızdır. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
-        "Gündelik anlaşmazlıkların çoğu tanımsal değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Mantıksal zorunlulukla olgusal belirsizliği ayırmak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
-      ],
-      "extraParagraphs": [
-        "Sahnedeki zamanı biraz yavaşlattığımızda, “Çelişmezlik ilkesi” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Çelişki içeren önerme yanlış, karşıtı zorunlu olan önerme doğrudur.",
+        "Üçgenin aynı anlamda hem üç hem dört kenarlı olması imkânsızdır.",
+        "Gündelik anlaşmazlıkların çoğu tanımsal değildir.",
+        "Mantıksal zorunlulukla olgusal belirsizliği ayırmak gerekir."
       ]
     },
     {
@@ -152,13 +132,10 @@
       "section": "ÜÇÜNCÜ KISIM · NEDEN",
       "title": "Yeter sebep ilkesi",
       "paragraphs": [
-        "Hiçbir olgu neden böyle olup başka türlü olmadığını açıklayan yeter sebep olmadan gerçek sayılamaz. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "Bahçedeki taşın tam burada olmasının bir geçmişi vardır. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Sebebi bilmememiz olmadığı anlamına gelmez ama ilke tartışmalıdır. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Açıklama isteğini sonsuz uydurma gerekçeye çevirmemek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Yeter sebep ilkesi” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Hiçbir olgu neden böyle olup başka türlü olmadığını açıklayan yeter sebep olmadan gerçek sayılamaz.",
+        "Bahçedeki taşın tam burada olmasının bir geçmişi vardır.",
+        "Sebebi bilmememiz olmadığı anlamına gelmez ama ilke tartışmalıdır.",
+        "Açıklama isteğini sonsuz uydurma gerekçeye çevirmemek gerekir."
       ]
     },
     {
@@ -166,13 +143,10 @@
       "section": "ÜÇÜNCÜ KISIM · İKİ YOL",
       "title": "Akıl doğruları ve olgu doğruları",
       "paragraphs": [
-        "Zorunlu doğrular çözümlemeyle, olumsal gerçekler ise nedenler zinciriyle anlaşılır. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
-        "İki artı iki zorunludur; bugün yağmur yağması başka türlü olabilirdi. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "Matematik ve doğa bilimi ilişkisi daha karmaşıktır. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
-        "Karşıtının mümkün olup olmadığını sorarak ayrımı denemek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Akıl doğruları ve olgu doğruları” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Zorunlu doğrular çözümlemeyle, olumsal gerçekler ise nedenler zinciriyle anlaşılır.",
+        "İki artı iki zorunludur; bugün yağmur yağması başka türlü olabilirdi.",
+        "Matematik ve doğa bilimi ilişkisi daha karmaşıktır.",
+        "Karşıtının mümkün olup olmadığını sorarak ayrımı denemek gerekir."
       ]
     },
     {
@@ -180,13 +154,10 @@
       "section": "DÖRDÜNCÜ KISIM · TANRI",
       "title": "Zincirin sonundaki zorunlu varlık",
       "paragraphs": [
-        "Olumsal şeylerin yeter sebebi kendi zincirinde bulunamayacağı için Leibniz zorunlu töz olan Tanrı'ya gider. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Her kitabın başka kitaba dayanması kütüphanenin neden var olduğunu açıklamaz. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Kozmolojik çıkarım inanmayanlar için tartışmalıdır. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Son neden gereksinimi ile verilen cevabın zorunluluğunu ayırmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Zincirin sonundaki zorunlu varlık” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Olumsal şeylerin yeter sebebi kendi zincirinde bulunamayacağı için Leibniz zorunlu töz olan Tanrı'ya gider.",
+        "Her kitabın başka kitaba dayanması kütüphanenin neden var olduğunu açıklamaz.",
+        "Kozmolojik çıkarım inanmayanlar için tartışmalıdır.",
+        "Son neden gereksinimi ile verilen cevabın zorunluluğunu ayırmak gerekir."
       ]
     },
     {
@@ -194,13 +165,10 @@
       "section": "DÖRDÜNCÜ KISIM · İHTİMAL",
       "title": "Mümkün dünyalar",
       "paragraphs": [
-        "Tanrısal akıl çelişmeyen sayısız dünya düzenini mümkün olarak kavrar. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
-        "Aynı karakterlerin farklı seçimlerle kurduğu alternatif romanlar düşünülür. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
-        "Mümkün dünya fiziksel paralel evren demek değildir. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Kavramı olasılık düşünme aracı olarak kullanmak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Mümkün dünyalar” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Tanrısal akıl çelişmeyen sayısız dünya düzenini mümkün olarak kavrar.",
+        "Aynı karakterlerin farklı seçimlerle kurduğu alternatif romanlar düşünülür.",
+        "Mümkün dünya fiziksel paralel evren demek değildir.",
+        "Kavramı olasılık düşünme aracı olarak kullanmak gerekir."
       ]
     },
     {
@@ -209,12 +177,9 @@
       "title": "Mümkün dünyaların en iyisi",
       "paragraphs": [
         "Kusursuz Tanrı en çok çeşitliliği en büyük düzenle birleştiren en iyi mümkün dünyayı seçer.",
-        "Büyük resimde bazı yerel acıların daha geniş düzenle bağlandığı savunulur. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "Gerçek kötülük karşısında bu tez ağır ahlaki itiraz taşır. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Acıyı yaşayan kişiyi soyut uyum adına susturmamak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
-      ],
-      "extraParagraphs": [
-        "Büyük resmi yeniden kurduğumuzda, “Mümkün dünyaların en iyisi” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Büyük resimde bazı yerel acıların daha geniş düzenle bağlandığı savunulur.",
+        "Gerçek kötülük karşısında bu tez ağır ahlaki itiraz taşır.",
+        "Acıyı yaşayan kişiyi soyut uyum adına susturmamak gerekir."
       ]
     },
     {
@@ -222,10 +187,10 @@
       "section": "BEŞİNCİ KISIM · EŞZAMAN",
       "title": "Önceden kurulmuş uyum",
       "paragraphs": [
-        "Monadlar birbirini itmeden iç gelişimleri Tanrı tarafından uyumlu olacak biçimde düzenlenmiştir. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
-        "İki saat temas etmeden aynı anda çalar. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Model deneysel mekanizmayı açıklamaz. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
-        "Uyumu betimlemekle nedenini kanıtlamayı ayırmak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+        "Monadlar birbirini itmeden iç gelişimleri Tanrı tarafından uyumlu olacak biçimde düzenlenmiştir.",
+        "İki saat temas etmeden aynı anda çalar.",
+        "Model deneysel mekanizmayı açıklamaz.",
+        "Uyumu betimlemekle nedenini kanıtlamayı ayırmak gerekir."
       ]
     },
     {
@@ -233,13 +198,10 @@
       "section": "BEŞİNCİ KISIM · BİRLİK",
       "title": "Zihin ve beden",
       "paragraphs": [
-        "Ruh amaçlar düzenine, beden etkin nedenler düzenine göre ilerler ama ikisi uyumlu görünür. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Karar verme deneyimiyle kas hareketi iki ayrı açıklama dilinde buluşur. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Modern sinirbilim doğrudan etkileşim sorusunu başka biçimde kurar. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Tarihsel modeli güncel bilim diye sunmamak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Zihin ve beden” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Ruh amaçlar düzenine, beden etkin nedenler düzenine göre ilerler ama ikisi uyumlu görünür.",
+        "Karar verme deneyimiyle kas hareketi iki ayrı açıklama dilinde buluşur.",
+        "Modern sinirbilim doğrudan etkileşim sorusunu başka biçimde kurar.",
+        "Tarihsel modeli güncel bilim diye sunmamak gerekir."
       ]
     },
     {
@@ -247,13 +209,10 @@
       "section": "ALTINCI KISIM · SONUÇ",
       "title": "Her şey canlı aynalar mı?",
       "paragraphs": [
-        "Her monad evreni kendi açıklık derecesinde yansıtan canlı bir ayna olduğu için bütün ile tekil birbirine bağlıdır. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
-        "Karanlık aynada görüntü bulanık, akıllı ruhta daha seçiktir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Şiirsel imge kanıtın yerini tutmaz. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Sistemin birlik kazancıyla doğrulanabilirlik sorununu birlikte görmek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
-      ],
-      "extraParagraphs": [
-        "Sahnedeki zamanı biraz yavaşlattığımızda, “Her şey canlı aynalar mı?” ile Monadoloji kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Her monad evreni kendi açıklık derecesinde yansıtan canlı bir ayna olduğu için bütün ile tekil birbirine bağlıdır.",
+        "Karanlık aynada görüntü bulanık, akıllı ruhta daha seçiktir.",
+        "Şiirsel imge kanıtın yerini tutmaz.",
+        "Sistemin birlik kazancıyla doğrulanabilirlik sorununu birlikte görmek gerekir."
       ]
     },
     {
@@ -273,7 +232,7 @@
       "paragraphs": [
         "Monadoloji idealizm, zihin-beden problemi, yeter sebep ve mümkün dünyalar tartışmasını derinden etkiledi; kısa yapısıyla Leibniz sisteminin en tanınmış özeti oldu.",
         "Penceresiz tözlerin ortak dünyayı nasıl açıkladığı, uyum ve Tanrı varsayımının sınanamazlığı, kötülük problemi ve bileşik bedenlerin gerçek statüsü sürekli eleştirildi.",
-        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Monadoloji bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+        "Monadoloji bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
       ]
     },
     {
@@ -283,7 +242,7 @@
       "paragraphs": [
         "Monad neyi temsil ediyor? Değişimi dışarıdan değil içeriden nasıl geliyor? Yeter sebep ilkesi bizi gerçekten Tanrı'ya götürüyor mu?",
         "Aynı sokağı üç farklı noktadan betimleyin. Görüntülerin ayrılığını ve aynı dünyaya ait oluşunu işaretleyerek perspektif metaforunun gücünü ve sınırını yazın.",
-        "Monadoloji bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+        "Monadoloji bu soruların hemen cevaplanmasını beklemez."
       ]
     },
     {
@@ -292,8 +251,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Evren birbirine çarpan maddi parçaların altında, her biri bütünü benzersiz açıdan algılayan penceresiz basit tözlerin önceden kurulmuş uyumudur.",
-        "Akılda tutulacak son görüntü, mor, altın ve gece mavisi tonlarında sayısız cam kürenin aynı kozmik şehri farklı açıdan yansıttığı, aralarında temas olmadan eşzamanlı ışık dalgaları taşıdığı büyülü düzen sahnesidir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
-        "Monadoloji adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+        "Akılda tutulacak son görüntü, mor, altın ve gece mavisi tonlarında sayısız cam kürenin aynı kozmik şehri farklı açıdan yansıttığı, aralarında temas olmadan eşzamanlı ışık dalgaları taşıdığı büyülü düzen sahnesidir.",
+        "Monadoloji adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

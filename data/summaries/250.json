@@ -12,8 +12,6 @@
   "chapterArtColor": "#9A6A3C",
   "meta": {
     "originalTitle": "Tools for Conviviality",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Illich'in 1973 tarihli Tools for Conviviality kitabı beş bölüm izler: iki dönüm noktası, şenlikli/özerk yeniden kuruluş, çoklu denge, yeteneği geri kazanma ve siyasi tersine dönüş. 'Araç' yalnız çekiç veya bisiklet değildir; okul, hastane, ulaşım ağı ve meslek örgütü de insan eylemini düzenleyen araç sistemidir.",
@@ -46,11 +44,11 @@
       "section": "GİRİŞ · TANIM",
       "title": "Araç yalnız elde tutulan nesne değildir",
       "paragraphs": [
-        "Illich aracı insan amacına hizmet eden nesne, kurum, bilgi sistemi ve üretim düzenini kapsayacak kadar geniş tanımlar. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Çekiç çiviyi, okul diploma yolunu, hastane sağlık kararını ve otoyol şehir hareketini düzenler. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Her araç belirli davranışı kolaylaştırır, başka davranışı pahalı veya görünmez yapar. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Geniş tanım her kurumu aynı makineye çevirmez; somut işlev ve güç ilişkisi gösterilmelidir. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Günlük bir ihtiyacınızı karşılayan nesne kadar kurum ve uzman zincirini de çizin. Kurum da araç sayıldığında tasarım eleştirisi bina ve cihazdan kural, meslek ve bütçe düzenine genişler. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Illich aracı insan amacına hizmet eden nesne, kurum, bilgi sistemi ve üretim düzenini kapsayacak kadar geniş tanımlar.",
+        "Çekiç çiviyi, okul diploma yolunu, hastane sağlık kararını ve otoyol şehir hareketini düzenler.",
+        "Her araç belirli davranışı kolaylaştırır, başka davranışı pahalı veya görünmez yapar.",
+        "Geniş tanım her kurumu aynı makineye çevirmez; somut işlev ve güç ilişkisi gösterilmelidir.",
+        "Günlük bir ihtiyacınızı karşılayan nesne kadar kurum ve uzman zincirini de çizin. Kurum da araç sayıldığında tasarım eleştirisi bina ve cihazdan kural, meslek ve bütçe düzenine genişler."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "BÖLÜM I · BİRİNCİ EŞİK",
       "title": "İlk eşik gerçek yarar getirir",
       "paragraphs": [
-        "Yeni bilgi ve örgütlenme ilk aşamada acıyı azaltır, erişimi artırır ve sıradan insanın kapasitesini büyütür. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Temiz su sistemi salgını azaltır, antibiyotik ölümcül enfeksiyonu tedavi eder, bisiklet yürüyüş menzilini genişletir. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Araç düşük maliyetle geniş yarar sağlar ve kullanıcının başka yaşam yollarını ortadan kaldırmaz. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Illich ilk kazanımı inkâr etmez; eleştiri faydanın sonsuza dek aynı hızla artacağı varsayımına yönelir. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir teknolojinin en büyük ilk kazancının hangi dönüm noktasında geldiğini araştırın. İlk eşik kazanımını teslim etmek eleştiriyi teknoloji karşıtı nostaljiden ayırır. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Yeni bilgi ve örgütlenme ilk aşamada acıyı azaltır, erişimi artırır ve sıradan insanın kapasitesini büyütür.",
+        "Temiz su sistemi salgını azaltır, antibiyotik ölümcül enfeksiyonu tedavi eder, bisiklet yürüyüş menzilini genişletir.",
+        "Araç düşük maliyetle geniş yarar sağlar ve kullanıcının başka yaşam yollarını ortadan kaldırmaz.",
+        "Illich ilk kazanımı inkâr etmez; eleştiri faydanın sonsuza dek aynı hızla artacağı varsayımına yönelir.",
+        "Bir teknolojinin en büyük ilk kazancının hangi dönüm noktasında geldiğini araştırın. İlk eşik kazanımını teslim etmek eleştiriyi teknoloji karşıtı nostaljiden ayırır."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "BÖLÜM I · İKİNCİ EŞİK",
       "title": "İkinci eşikte araç tersine çalışır",
       "paragraphs": [
-        "Sistem belirli büyüklüğü geçince amaçladığı iyiliği azaltıp kendi neden olduğu sorunu çözmek için daha fazla büyüme isteyebilir. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Hastane hayat kurtarırken aşırı tıbbileşme sağlıklı kişiyi sürekli hasta adayı ve uzman müşterisi yapabilir. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Artan karmaşıklık yan etki, bağımlılık ve maliyet üretir; kurum bu sonucu yeni hizmet talebi olarak yorumlar. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Her büyük sistem tersine dönmez ve eşik tek sayıyla belirlenmez; sonuç farklı gruplar için ayrı ölçülmelidir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Bir hizmette daha fazla yatırımın hangi noktada kullanıcı yeteneğini azaltmaya başladığını sorun. İkinci eşik ortalama çıktı değil, kullanıcının gerçek yetenek ve bağımlılık değişimiyle bulunur. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Sistem belirli büyüklüğü geçince amaçladığı iyiliği azaltıp kendi neden olduğu sorunu çözmek için daha fazla büyüme isteyebilir.",
+        "Hastane hayat kurtarırken aşırı tıbbileşme sağlıklı kişiyi sürekli hasta adayı ve uzman müşterisi yapabilir.",
+        "Artan karmaşıklık yan etki, bağımlılık ve maliyet üretir; kurum bu sonucu yeni hizmet talebi olarak yorumlar.",
+        "Her büyük sistem tersine dönmez ve eşik tek sayıyla belirlenmez; sonuç farklı gruplar için ayrı ölçülmelidir.",
+        "Bir hizmette daha fazla yatırımın hangi noktada kullanıcı yeteneğini azaltmaya başladığını sorun. İkinci eşik ortalama çıktı değil, kullanıcının gerçek yetenek ve bağımlılık değişimiyle bulunur."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "BÖLÜM I · TERS ETKİ",
       "title": "Karşı üretkenlik üç düzeyde görülür",
       "paragraphs": [
-        "Araç teknik olarak zarar, toplumsal olarak bağımlılık ve kültürel olarak anlam kaybı üretebilir. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Otomobil kaza ve kirlilik yaratır, şehri araçsız kişiye kapatır ve yolculuğu komşuluk deneyiminden trafik görevine çevirir. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Teknik çıktı artarken gerçek hareket özgürlüğü ve gündelik yaşam kalitesi azalabilir. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Kişisel konfor kazanımı tamamen hayal değildir; toplam zaman ve dışarıya aktarılan maliyet de hesaba katılmalıdır. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir aracın ürün sayısı yerine toplam zaman, sağlık ve ilişki sonucunu ölçün. Karşı üretkenlik kurumun çözüm diye sattığı şeyin sorunu yeniden üretmesiyle kalıcı döngü kurar. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Araç teknik olarak zarar, toplumsal olarak bağımlılık ve kültürel olarak anlam kaybı üretebilir.",
+        "Otomobil kaza ve kirlilik yaratır, şehri araçsız kişiye kapatır ve yolculuğu komşuluk deneyiminden trafik görevine çevirir.",
+        "Teknik çıktı artarken gerçek hareket özgürlüğü ve gündelik yaşam kalitesi azalabilir.",
+        "Kişisel konfor kazanımı tamamen hayal değildir; toplam zaman ve dışarıya aktarılan maliyet de hesaba katılmalıdır.",
+        "Bir aracın ürün sayısı yerine toplam zaman, sağlık ve ilişki sonucunu ölçün. Karşı üretkenlik kurumun çözüm diye sattığı şeyin sorunu yeniden üretmesiyle kalıcı döngü kurar."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "BÖLÜM II · TEKEL",
       "title": "Radikal tekel markadan daha büyüktür",
       "paragraphs": [
-        "Radikal tekel tek şirketin pazarı ele geçirmesi değil, bir ürün biçiminin ihtiyacı karşılamanın tek meşru yolu haline gelmesidir. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Birçok otomobil markası yarışır ama şehir yürümeyi ve bisikleti imkânsız kıldığı için ulaşımın biçimi tekelleşir. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Rekabet fiyatı değiştirebilir; altyapı herkesi aynı sisteme bağladığında gerçek seçenek ortadan kalkar. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Yaygın standart ortak erişim sağlayabilir; sorun alternatifin yaşanamaz hale gelmesidir. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Piyasada çok marka bulunduğu halde yaşam biçiminde tek seçenek olup olmadığını sorun. Radikal tekel tüketici seçimini çoğaltırken yurttaşın yaşam biçimi seçimini daraltabilir. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Radikal tekel tek şirketin pazarı ele geçirmesi değil, bir ürün biçiminin ihtiyacı karşılamanın tek meşru yolu haline gelmesidir.",
+        "Birçok otomobil markası yarışır ama şehir yürümeyi ve bisikleti imkânsız kıldığı için ulaşımın biçimi tekelleşir.",
+        "Rekabet fiyatı değiştirebilir; altyapı herkesi aynı sisteme bağladığında gerçek seçenek ortadan kalkar.",
+        "Yaygın standart ortak erişim sağlayabilir; sorun alternatifin yaşanamaz hale gelmesidir.",
+        "Piyasada çok marka bulunduğu halde yaşam biçiminde tek seçenek olup olmadığını sorun. Radikal tekel tüketici seçimini çoğaltırken yurttaşın yaşam biçimi seçimini daraltabilir."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "BÖLÜM II · CONVIVIALITY",
       "title": "Şenlikli araç kullanıcıyı güçlendirir",
       "paragraphs": [
-        "Illich'in convivial aracı kişinin kendi amacıyla öğrenebildiği, onarabileceği ve başkalarıyla işbirliği içinde kullanabildiği araçtır. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Mahalle atölyesindeki ortak bisiklet takımı profesyoneli yok etmeden insanların onarım becerisini paylaşmasına izin verir. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Kontrol kullanıcıya yakın kalır; araç üretici hayal gücünü genişletir ve tek doğru kullanım dayatmaz. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Kullanım kolaylığı tek ölçü değildir; güvenlik, erişim ve bakım bilgisi de ortakça düzenlenmelidir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Bir aracın varsayılan ayarını değiştirip değiştiremediğinizi ve arızada kime bağımlı olduğunuzu sorun. Onarım bilgisi nesneyle ilişkiyi tüketimden öğrenme ve bakım ortaklığına çevirir. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Illich'in convivial aracı kişinin kendi amacıyla öğrenebildiği, onarabileceği ve başkalarıyla işbirliği içinde kullanabildiği araçtır.",
+        "Mahalle atölyesindeki ortak bisiklet takımı profesyoneli yok etmeden insanların onarım becerisini paylaşmasına izin verir.",
+        "Kontrol kullanıcıya yakın kalır; araç üretici hayal gücünü genişletir ve tek doğru kullanım dayatmaz.",
+        "Kullanım kolaylığı tek ölçü değildir; güvenlik, erişim ve bakım bilgisi de ortakça düzenlenmelidir.",
+        "Bir aracın varsayılan ayarını değiştirip değiştiremediğinizi ve arızada kime bağımlı olduğunuzu sorun. Onarım bilgisi nesneyle ilişkiyi tüketimden öğrenme ve bakım ortaklığına çevirir."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "BÖLÜM II · ÖZERKLİK",
       "title": "Özgürlük enerji üzerinde söz sahibi olmaktır",
       "paragraphs": [
-        "Şenliklilik insanların kişisel enerjilerini kendi seçtikleri amaç için denetleyebilmesi ve başkasının eşit özgürlüğünü bozmamasıdır. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Bahçıvan el aletiyle ne yetiştireceğine karar verir; endüstriyel sözleşme onu yalnız makinenin hızına yetişen operatör yapabilir. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Araç eylemi yönlendirme yerine eyleyene seçenek verdiğinde özerklik ve ustalık büyür. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Kendi yapma ideali bakım emeğini romantikleştirmemeli; herkesin zamanı, bedeni ve yeteneği farklıdır. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir sistemde amacın kullanıcı mı, uzman mı, makine ritmi mi tarafından belirlendiğini görün. Özerklik yalnız yalnız yapabilmek değil, başkalarıyla kurulan aracın kuralına eşit katılabilmektir. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Şenliklilik insanların kişisel enerjilerini kendi seçtikleri amaç için denetleyebilmesi ve başkasının eşit özgürlüğünü bozmamasıdır.",
+        "Bahçıvan el aletiyle ne yetiştireceğine karar verir; endüstriyel sözleşme onu yalnız makinenin hızına yetişen operatör yapabilir.",
+        "Araç eylemi yönlendirme yerine eyleyene seçenek verdiğinde özerklik ve ustalık büyür.",
+        "Kendi yapma ideali bakım emeğini romantikleştirmemeli; herkesin zamanı, bedeni ve yeteneği farklıdır.",
+        "Bir sistemde amacın kullanıcı mı, uzman mı, makine ritmi mi tarafından belirlendiğini görün. Özerklik yalnız yalnız yapabilmek değil, başkalarıyla kurulan aracın kuralına eşit katılabilmektir."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "BÖLÜM II · ADALET",
       "title": "Eşit erişim aynı ürünü vermek değildir",
       "paragraphs": [
-        "Adil araç düzeni herkesi yüksek tüketim standardına taşımaktan çok temel yeteneği düşük maliyetle ve bağımsızca kullanabilir kılmalıdır. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Herkese araba satın alma kredisi vermek yerine güvenli yürüyüş, bisiklet ve toplu taşıma seçenekleri kurulabilir. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Kaynak tüketimi ve mekân baskısı azalınca hareket imkânı daha eşit dağılabilir. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Bazı engelli kişiler için özel ve güçlü teknoloji zorunludur; evrensel sınır farklı ihtiyaçları dışlamamalıdır. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bir eşitlik önerisinin ürünü mü, gerçek işlev ve erişimi mi eşitlediğini sorun. Adalet herkese aynı makineyi vermek yerine herkesin ihtiyacını farklı araçlarla karşılayabilmesini ister. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Adil araç düzeni herkesi yüksek tüketim standardına taşımaktan çok temel yeteneği düşük maliyetle ve bağımsızca kullanabilir kılmalıdır.",
+        "Herkese araba satın alma kredisi vermek yerine güvenli yürüyüş, bisiklet ve toplu taşıma seçenekleri kurulabilir.",
+        "Kaynak tüketimi ve mekân baskısı azalınca hareket imkânı daha eşit dağılabilir.",
+        "Bazı engelli kişiler için özel ve güçlü teknoloji zorunludur; evrensel sınır farklı ihtiyaçları dışlamamalıdır.",
+        "Bir eşitlik önerisinin ürünü mü, gerçek işlev ve erişimi mi eşitlediğini sorun. Adalet herkese aynı makineyi vermek yerine herkesin ihtiyacını farklı araçlarla karşılayabilmesini ister."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "BÖLÜM III · ÇOKLU DENGE",
       "title": "Sınır yasak değil özgürlük zemini olabilir",
       "paragraphs": [
-        "Illich hız, üretim ve uzman gücüne toplumsal sınır koymanın herkes için yaşanabilir ortak alanı koruyabileceğini savunur. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Mahalle araç hızını düşürdüğünde sürücü sınırlanır ama çocuk, yaşlı ve yaya sokağı yeniden kullanır. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Bir kişinin sınırsız araç gücü başkasının hareket alanını yok ediyorsa ortak tavan karşılıklı özgürlüğü artırır. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Sınırı kimin belirlediği önemlidir; yukarıdan yoksula dayatılan kıtlık convivial politika değildir. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Bir kullanım sınırının yük ve yararını gelir, yaş ve beden farkına göre karşılaştırın. Demokratik sınır en güçlü kullanıcının başkasına taşıdığı görünmez maliyeti hesaba katar. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Illich hız, üretim ve uzman gücüne toplumsal sınır koymanın herkes için yaşanabilir ortak alanı koruyabileceğini savunur.",
+        "Mahalle araç hızını düşürdüğünde sürücü sınırlanır ama çocuk, yaşlı ve yaya sokağı yeniden kullanır.",
+        "Bir kişinin sınırsız araç gücü başkasının hareket alanını yok ediyorsa ortak tavan karşılıklı özgürlüğü artırır.",
+        "Sınırı kimin belirlediği önemlidir; yukarıdan yoksula dayatılan kıtlık convivial politika değildir.",
+        "Bir kullanım sınırının yük ve yararını gelir, yaş ve beden farkına göre karşılaştırın. Demokratik sınır en güçlü kullanıcının başkasına taşıdığı görünmez maliyeti hesaba katar."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "BÖLÜM III · BEDEN",
       "title": "Biyolojik denge sanayi hızını taşımaz",
       "paragraphs": [
-        "İnsan bedeni ve duyuları sınırsız hız, gürültü, kimyasal yük ve kesintisiz uyarıya göre kurulmamıştır. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Gece ekran ve vardiya sistemi üretimi sürdürürken uyku ritmini ve dikkat sağlığını bozar. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Teknik tempo bedensel yenilenme süresini aşınca verim artışı sağlık kaybı olarak geri döner. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Doğal ritim tek ve romantik ölçü değildir; tıp ve destek teknolojisi bedensel sınırı adil biçimde genişletebilir. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Günlük bir teknolojinin bedeninizden istediği hızla toparlanma sürenizi karşılaştırın. Bedensel denge verim tablosuna uyku, dikkat, hareket ve bakım süresini geri ekler. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "İnsan bedeni ve duyuları sınırsız hız, gürültü, kimyasal yük ve kesintisiz uyarıya göre kurulmamıştır.",
+        "Gece ekran ve vardiya sistemi üretimi sürdürürken uyku ritmini ve dikkat sağlığını bozar.",
+        "Teknik tempo bedensel yenilenme süresini aşınca verim artışı sağlık kaybı olarak geri döner.",
+        "Doğal ritim tek ve romantik ölçü değildir; tıp ve destek teknolojisi bedensel sınırı adil biçimde genişletebilir.",
+        "Günlük bir teknolojinin bedeninizden istediği hızla toparlanma sürenizi karşılaştırın. Bedensel denge verim tablosuna uyku, dikkat, hareket ve bakım süresini geri ekler."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "BÖLÜM III · EKOLOJİ",
       "title": "Çevresel denge maliyeti dışarı taşır",
       "paragraphs": [
-        "Endüstriyel araç yararı kullanıcıya, atık ve kaynak kaybını başka topluluk ve gelecek kuşağa aktarabilir. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Ucuz cihaz şehirde konfor sağlar; maden, fabrika ve elektronik atık uzak coğrafyalarda hastalık üretir. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Fiyat tüm ekolojik ve toplumsal maliyeti taşımadığında aşırı kullanım ekonomik görünür. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Yaşam döngüsü hesabı teknolojiyi otomatik reddetmez; daha dayanıklı ve onarılabilir tasarıma yön verir. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Bir ürünün hammaddeden atığa kadar en görünmez iki durağını araştırın. Ekolojik denge ucuz fiyatın kimin toprağı ve sağlığı pahasına oluştuğunu görünür kılar. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Endüstriyel araç yararı kullanıcıya, atık ve kaynak kaybını başka topluluk ve gelecek kuşağa aktarabilir.",
+        "Ucuz cihaz şehirde konfor sağlar; maden, fabrika ve elektronik atık uzak coğrafyalarda hastalık üretir.",
+        "Fiyat tüm ekolojik ve toplumsal maliyeti taşımadığında aşırı kullanım ekonomik görünür.",
+        "Yaşam döngüsü hesabı teknolojiyi otomatik reddetmez; daha dayanıklı ve onarılabilir tasarıma yön verir.",
+        "Bir ürünün hammaddeden atığa kadar en görünmez iki durağını araştırın. Ekolojik denge ucuz fiyatın kimin toprağı ve sağlığı pahasına oluştuğunu görünür kılar."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "BÖLÜM III · ULAŞIM",
       "title": "Hız hareketi yavaşlatabilir",
       "paragraphs": [
-        "Otomobilin görünen hızı, satın almak ve kullanmak için harcanan iş zamanı, trafik ve altyapı dahil edildiğinde gerçek toplumsal hızı düşürebilir. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Sürücü günde bir saat kazanır gibi görünür ama araç masrafı için ek çalışır ve iki saat trafikte kalır. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Yüksek hız mesafeleri büyütür; iş ve ev uzaklaşınca herkes daha çok yol yapmak zorunda kalır. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Kırsal veya acil durumda otomobil önemli olabilir; eleştiri tek aracın bütün mekânı biçimlendirmesinedir. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Bir yolculuğun yakıt, kazanç için çalışma, park ve bekleme sürelerini toplam süreye ekleyin. Zorunlu yüksek hız mesafeyi büyüttüğü için kendi ihtiyacını ve pazarını üretir. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Otomobilin görünen hızı, satın almak ve kullanmak için harcanan iş zamanı, trafik ve altyapı dahil edildiğinde gerçek toplumsal hızı düşürebilir.",
+        "Sürücü günde bir saat kazanır gibi görünür ama araç masrafı için ek çalışır ve iki saat trafikte kalır.",
+        "Yüksek hız mesafeleri büyütür; iş ve ev uzaklaşınca herkes daha çok yol yapmak zorunda kalır.",
+        "Kırsal veya acil durumda otomobil önemli olabilir; eleştiri tek aracın bütün mekânı biçimlendirmesinedir.",
+        "Bir yolculuğun yakıt, kazanç için çalışma, park ve bekleme sürelerini toplam süreye ekleyin. Zorunlu yüksek hız mesafeyi büyüttüğü için kendi ihtiyacını ve pazarını üretir."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "BÖLÜM III · EĞİTİM",
       "title": "Öğrenme diploma sistemine kapanabilir",
       "paragraphs": [
-        "Profesyonel okul öğrenmeyi kendi sertifikasının tek sonucu yaparsa insanların birbirinden ve deneyimden öğrenme yeteneği değersizleşir. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Usta işi iyi yapar ama belgesi olmadığı için öğretemez; belge sahibi deneyimsiz kişi tek meşru öğretici sayılır. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Kurum hizmeti ölçülebilir paket yapar, kullanıcı başarıyı kurumda geçirilen süreyle karıştırır. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Uzman eğitim güvenlik ve derinlik sağlar; sorun tek bilgi kapısı ve yaşam boyu zorunlu bağımlılıktır. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Bir beceride diploma, gerçek yeterlik ve öğrenme erişimini ayrı ayrı değerlendirin. Öğrenme ağları uzman bilgisiyle yerel deneyimi rakip değil karşılıklı kaynak yapabilir. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Profesyonel okul öğrenmeyi kendi sertifikasının tek sonucu yaparsa insanların birbirinden ve deneyimden öğrenme yeteneği değersizleşir.",
+        "Usta işi iyi yapar ama belgesi olmadığı için öğretemez; belge sahibi deneyimsiz kişi tek meşru öğretici sayılır.",
+        "Kurum hizmeti ölçülebilir paket yapar, kullanıcı başarıyı kurumda geçirilen süreyle karıştırır.",
+        "Uzman eğitim güvenlik ve derinlik sağlar; sorun tek bilgi kapısı ve yaşam boyu zorunlu bağımlılıktır.",
+        "Bir beceride diploma, gerçek yeterlik ve öğrenme erişimini ayrı ayrı değerlendirin. Öğrenme ağları uzman bilgisiyle yerel deneyimi rakip değil karşılıklı kaynak yapabilir."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "BÖLÜM IV · RECOVERY",
       "title": "Yeteneği geri kazanmak uzmanı yok etmek değildir",
       "paragraphs": [
-        "Illich insanların sağlık, öğrenme, bakım ve onarımda gündelik yeterliklerini geri kazanmasını, uzmanın destek rolüne dönmesini ister. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Aile basit sağlık bilgisini öğrenir, doktor karmaşık durumda devreye girer; her beden işareti için kuruma koşmak gerekmez. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Taban yeteneği arttıkça uzman kaynakları gerçekten karmaşık ihtiyaca ayrılır ve kullanıcı karara katılır. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Kendi kendine yeterlik ağır hastalık veya engellilikte profesyonel desteği küçümsememelidir. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir hizmette güvenle kendiniz yapabileceğiniz ile uzman gerektiren sınırı birlikte belirleyin. Geri kazanma programı kişiyi yalnız bırakmamalı, dayanışma ve ulaşılabilir uzman desteği kurmalıdır. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Illich insanların sağlık, öğrenme, bakım ve onarımda gündelik yeterliklerini geri kazanmasını, uzmanın destek rolüne dönmesini ister.",
+        "Aile basit sağlık bilgisini öğrenir, doktor karmaşık durumda devreye girer; her beden işareti için kuruma koşmak gerekmez.",
+        "Taban yeteneği arttıkça uzman kaynakları gerçekten karmaşık ihtiyaca ayrılır ve kullanıcı karara katılır.",
+        "Kendi kendine yeterlik ağır hastalık veya engellilikte profesyonel desteği küçümsememelidir.",
+        "Bir hizmette güvenle kendiniz yapabileceğiniz ile uzman gerektiren sınırı birlikte belirleyin. Geri kazanma programı kişiyi yalnız bırakmamalı, dayanışma ve ulaşılabilir uzman desteği kurmalıdır."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "BÖLÜM V · SİYASET",
       "title": "Siyasi tersine dönüş ölçüyü değiştirir",
       "paragraphs": [
-        "Endüstriyel toplum daha fazla ürün hedefinden, araçların ortak özgürlüğe uyup uymadığını tartışan siyasi sürece dönmelidir. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Kent toplantısı kaç araba satılacağını değil, herkesin güvenli ve makul sürede nasıl hareket edeceğini konuşur. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Başarı üretim miktarından özerklik, eşit erişim, onarılabilirlik ve ekolojik dengeye çevrilir. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Yerel katılım güçlü çıkar ve teknik bilgi eşitsizliğini tek başına çözmez; şeffaf uzmanlık ve geniş ölçekli koordinasyon gerekir. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir kamu projesinin hedefini ürün sayısından gerçek insan yeteneğine çevirerek yeniden yazın. Siyasi tersine dönüş üretim hedefini tartışılmaz teknik veri olmaktan çıkarıp ortak değer seçimine dönüştürür. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Endüstriyel toplum daha fazla ürün hedefinden, araçların ortak özgürlüğe uyup uymadığını tartışan siyasi sürece dönmelidir.",
+        "Kent toplantısı kaç araba satılacağını değil, herkesin güvenli ve makul sürede nasıl hareket edeceğini konuşur.",
+        "Başarı üretim miktarından özerklik, eşit erişim, onarılabilirlik ve ekolojik dengeye çevrilir.",
+        "Yerel katılım güçlü çıkar ve teknik bilgi eşitsizliğini tek başına çözmez; şeffaf uzmanlık ve geniş ölçekli koordinasyon gerekir.",
+        "Bir kamu projesinin hedefini ürün sayısından gerçek insan yeteneğine çevirerek yeniden yazın. Siyasi tersine dönüş üretim hedefini tartışılmaz teknik veri olmaktan çıkarıp ortak değer seçimine dönüştürür."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SONUÇ · ÖLÇÜ",
       "title": "İyi araç ilişkiyi canlı bırakır",
       "paragraphs": [
-        "Convivial toplum araçsız değil, insanların birbirine ve nesnelere zorunlu müşteri olarak değil yaratıcı katılımcı olarak bağlandığı toplumdur. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Ortak mutfakta güçlü makineler vardır ama tarif, bakım ve karar tek şirkete değil kullanan topluluğa aittir. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Sınır, erişim ve onarım hakkı aracı efendi olmaktan çıkarıp paylaşılabilir imkâna dönüştürür. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Küçük her zaman iyi değildir; açık standartlı büyük altyapı da demokratik ve convivial olabilir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir aracı boyutuna göre değil kullanıcı kontrolü, alternatif ve ortak maliyetle değerlendirin. Convivial ölçü küçük-büyük ayrımından daha keskindir: kontrol, erişim, sınır ve alternatif sorar. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Convivial toplum araçsız değil, insanların birbirine ve nesnelere zorunlu müşteri olarak değil yaratıcı katılımcı olarak bağlandığı toplumdur.",
+        "Ortak mutfakta güçlü makineler vardır ama tarif, bakım ve karar tek şirkete değil kullanan topluluğa aittir.",
+        "Sınır, erişim ve onarım hakkı aracı efendi olmaktan çıkarıp paylaşılabilir imkâna dönüştürür.",
+        "Küçük her zaman iyi değildir; açık standartlı büyük altyapı da demokratik ve convivial olabilir.",
+        "Bir aracı boyutuna göre değil kullanıcı kontrolü, alternatif ve ortak maliyetle değerlendirin. Convivial ölçü küçük-büyük ayrımından daha keskindir: kontrol, erişim, sınır ve alternatif sorar."
       ]
     },
     {

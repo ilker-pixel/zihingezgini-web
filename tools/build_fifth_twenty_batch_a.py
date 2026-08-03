@@ -47,7 +47,7 @@ SPECS = [
     "reading_note": "Derin sözcüğü daha sert slogan anlamına gelmez; sorunun köküne kadar 'neden?' diye inmeyi anlatır. Kitap tek bir parti programından çok ortak ilkeler ve kişinin kendi yaşam felsefesini kurabileceği bir platform sunar.",
     "sources": [
         {"id": 1, "title": "The Deep Ecology Movement - Arne Naess selected works sample", "url": "https://cdn.penguin.co.uk/dam-assets/books/9780241514610/9780241514610-sample.pdf"},
-        {"id": 2, "title": "Foundation for Deep Ecology - Platform", "url": "https://www.deepecology.org/deep-ecology-platform/"},
+        {"id": 2, "title": "Rainforest Information Centre - Deep Ecology Platform", "url": "https://www.rainforestinformationcentre.org/deep_ecology_platform"},
     ],
     "chapters": [
         t("Sığ çözüm ile derin soru", "BİRİNCİ KISIM · DERİNLİK", "Sığ ekoloji kirliliği insan sağlığı ve refahı için azaltmaya çalışır; derin ekoloji ise insanı merkeze koyan yaşam düzenini sorgular. Filtre takmak önemlidir ama neden durmadan daha çok atık ürettiğimizi de sormak gerekir", "Dumanlı fabrikaya daha yüksek baca yapmak çevredeki havayı bir süre rahatlatır; üretim ve tüketim aynı kalırsa kirlilik yalnız başka yere taşınır", "Acil teknik çözümleri küçümsemek yanlış olur. Derin soru ile hızlı hayat kurtaran önlem birlikte yürüyebilir", "Bir çevre haberinde belirtilen zarar kadar zararı sürekli üreten ihtiyacı ve kuralı sorun"),

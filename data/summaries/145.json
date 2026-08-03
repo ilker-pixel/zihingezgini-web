@@ -12,8 +12,6 @@
   "chapterArtColor": "#3F6475",
   "meta": {
     "originalTitle": "The Character of Physical Law",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Feynman için asıl hayret, insanın yasayı bulması değil doğanın böylesine geniş olaylarda aynı kurala uymasıdır. Bir gezegenin yörüngesiyle düşen elmayı aynı matematikte buluşturan bu düzen, kitabın yedi konferans boyunca izlediği büyük bilmecedir.",
@@ -43,7 +41,7 @@
       "paragraphs": [
         "Kütleçekimden kuantuma uzanan yedi konferansta fizik yasalarının matematiksel, simetrik, yaklaşık, olasılıklı ve deneyle sürekli sınanan karakterini anlatan parlak bilim düşüncesi klasiği.",
         "Metin ders kitabı değil, 1964 Messenger Konferansları'nın düşünsel yolculuğudur. Denklemlerin bütün türetimini vermez; fizik yasalarının nasıl göründüğünü ve yeni yasa ararken bilim insanının nasıl düşündüğünü anlatır.",
-        "Bu rehber, Richard Feynman tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler. Amaç sınav notu çıkarmak değil, kitabın okurun bakışını tam olarak nerede değiştirdiğini görünür kılmaktır."
+        "Bu rehber, Richard Feynman tarafından kurulan düşünce yolunu gündelik sahneler, tarihsel bağlam, güçlü örnekler ve önemli itirazlarla birlikte izler."
       ]
     },
     {
@@ -55,9 +53,6 @@
         "Düşen elma ile Ay'ın yörüngesi ayrı hikâyeler görünür; Ay aslında sürekli düşer ama yatay hızı yüzünden Dünya'yı ıskalar.",
         "Newton yasası göreliliğin sınırında yaklaşık kalır; yine de günlük ve gezegensel ölçekte olağanüstü işler.",
         "Bir modelin yanlışlanmış değil, hangi ölçekte yeterli yaklaşık olduğunu sorun."
-      ],
-      "extraParagraphs": [
-        "Bu durağı biraz daha yakından düşündüğümüzde, “Kütleçekim yasası neden örnek yasadır?” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -69,9 +64,6 @@
         "Aynı ışık daha büyük kürenin üzerine dağıldıkça her küçük alana daha az düşer.",
         "Geometrik benzetme kuvvetin mekanizmasını tek başına açıklamaz; alan teorisinin ayrıntısı gerekir.",
         "Bir formülde üssün yalnız ezber değil hangi geometrik yayılmadan doğduğunu araştırın."
-      ],
-      "extraParagraphs": [
-        "Aynı bağlantıya başka bir açıdan bakarsak, “Ters kare neden yayılmanın izidir?” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -83,9 +75,6 @@
         "Müzik tarifini 'biraz hızlı' demekle nota ve tempo yazmak arasındaki fark, nicel yasanın gücünü gösterir.",
         "Denklem anlamın yerine geçmez; ölçüm, fiziksel yorum ve yaklaşık koşul gerekir.",
         "Bir grafik gördüğünüzde eksen, birim ve model varsayımını okumadan eğriye hayran kalmayın."
-      ],
-      "extraParagraphs": [
-        "Örneğin arkasındaki mekanizmayı yavaşlattığımızda, “Matematik doğanın dili mi?” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -97,9 +86,6 @@
         "Şehre yol haritası, metro şeması ve yürüyüş tarifiyle bakmak farklı ayrıntıları öne çıkarır ama aynı yere götürür.",
         "Eşdeğer formülasyonlar yeni teoride aynı derecede kolay genellenmeyebilir; seçim araştırmayı yönlendirir.",
         "Tek açıklamaya bağlanmadan aynı sonucu hangi alternatif temsilin daha görünür kıldığını sorun."
-      ],
-      "extraParagraphs": [
-        "Kitabın bu bölümünü gündelik karara çevirdiğimizde, “Aynı yasa farklı matematiklerde görünebilir” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -111,9 +97,6 @@
         "Kutudaki blok sayısı eksik görünür; biri suya düşmüş, biri halının altındadır. Farklı formüller gizli biçimleri hesaba katar.",
         "Enerji elle tutulur madde değildir ve genel görelilikte küresel enerji kavramı incelir. Benzetme klasik bağlamdadır.",
         "Enerji haberinde türleri, sistem sınırını ve kayıp denilen şeyin hangi biçime geçtiğini sorun."
-      ],
-      "extraParagraphs": [
-        "Buradaki gerilimi akılda tutmanın bir yolu da, “Korunum yasası muhasebe değildir” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -125,9 +108,6 @@
         "Stadyum dalgasında kimse bütün tribüne aynı anda emir vermez; hareket komşudan komşuya ilerler.",
         "Kuantum dolaşıklık yerellik sezgisini zorlar, fakat bilgi ışık hızını aşan basit sinyal gibi taşınmaz.",
         "Uzak etki iddiasında aradaki taşıyıcı ve yayılma hızının ne olduğunu sorun."
-      ],
-      "extraParagraphs": [
-        "Yazarın çizdiği hattı bir adım daha izlediğimizde, “Yerellik: etki komşudan komşuya gider” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -139,9 +119,6 @@
         "Futbol kuralı sahanın doğu tarafında başka olsaydı oyun anlamsızlaşırdı; fizik de konumdan bağımsız düzen arar.",
         "Her durum simetrik değildir; evrenin belirli hali simetriyi kırabilir. Yasa ile çözüm ayrılır. Bu sınır, kitabı değersizleştirmez.",
         "Bir düzenin görünüşteki simetrisiyle kuralların dönüşüm altındaki değişmezliğini karıştırmayın."
-      ],
-      "extraParagraphs": [
-        "Bu fikri gerçek bir sınamaya sokmak için, “Simetri yalnız güzellik değildir” başlığının yalnız kendi örneğini değil Fizik Yasaları Üzerine Konferanslar boyunca yinelenen ana soruyu da taşıdığı görülür."
       ]
     },
     {
@@ -249,8 +226,8 @@
       "title": "Kitabın en kolay yanlış anlaşılacağı yer",
       "paragraphs": [
         "Feynman doğanın basit, tamamen determinist ya da tek güzel denklemle bitmiş olduğunu söylemez. Fizik yasaları matematiksel ve birleşik olabilir; aynı zamanda yaklaşık, olasılıklı, simetrisi kırılmış ve sürekli deney sınavına açık olabilir.",
-        "Fizik Yasaları Üzerine Konferanslar tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur. Doğru okuma, iddianın hangi koşullarda çalıştığını ve hangi durumda başka bir açıklamaya ihtiyaç duyduğunu birlikte göstermelidir.",
-        "Bu nedenle okur, eserden aklında kalan en güçlü cümleyi seçip hemen ardından iki şey sormalıdır: Yazar bunu hangi sahneyle destekledi ve kitabın kendisi bu cümlenin sınırını nerede çizdi? Richard Feynman ile verimli tartışma böyle başlar."
+        "Fizik Yasaları Üzerine Konferanslar tek cümlelik bir parola gibi kullanıldığında, yazarın örnekler arasında kurduğu neden zinciri kaybolur.",
+        "Richard Feynman ile verimli tartışma böyle başlar."
       ]
     },
     {
@@ -259,8 +236,8 @@
       "title": "Kitap hakkında süren tartışma",
       "paragraphs": [
         "Konferanslar fiziksel düşünmenin en etkili popüler anlatılarından sayılmıştır. Bazı örnekler 1964'ün dili ve bilgi düzeyini taşır; modern parçacık fiziği ve kozmoloji ayrıntıları ilerlemiştir. Yine de yasa, deney, simetri ve belirsizlik üzerine yöntemsel ders canlıdır.",
-        "Bir eserin çok tartışılması başarısız olduğu anlamına gelmez. Fizik Yasaları Üzerine Konferanslar için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
-        "Fizik Yasaları Üzerine Konferanslar için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek. Eleştiri, metnin nerede hâlâ canlı olduğunu daha iyi gösterir."
+        "Fizik Yasaları Üzerine Konferanslar için yapılan itirazların bir bölümü kullanılan kanıta, bir bölümü kavramların genişliğine, bir bölümü de yazarın görmediği insan deneyimlerine yönelir.",
+        "Fizik Yasaları Üzerine Konferanslar için en adil tutum iki uçtan da kaçınmaktır: Kitabı yalnız ünü yüzünden dokunulmaz saymamak ve bazı ayrıntıları eskidi diye açtığı bütün soruları değersizleştirmemek."
       ]
     },
     {
@@ -269,8 +246,8 @@
       "title": "Bugünkü hayata taşınan üç soru",
       "paragraphs": [
         "Bu yasa hangi ölçekte ve hata payında çalışıyor? Matematiksel güzelliği hangi deney sınayabilir? Aynı doğayı başka hangi eşdeğer formülasyon daha iyi görünür kılıyor?",
-        "Bu sorular Fizik Yasaları Üzerine Konferanslar için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir. Evde, işte, haber okurken veya bir karar verirken aynı ilişkiyi farklı kılıklarda yakalamaya yardım eder.",
-        "Fizik Yasaları Üzerine Konferanslar üzerine cevapların hemen gelmemesi bir eksiklik değildir. İyi kitap bazen hazır çözüm vermek yerine yanlış soruyu bıraktırır; insanın daha önce doğal sandığı bir şeyi yeniden görmesini sağlar."
+        "Bu sorular Fizik Yasaları Üzerine Konferanslar için hazırlanmış küçük bir kontrol listesi değil, gündelik hayatı daha dikkatli görmek için bir mercektir.",
+        "Fizik Yasaları Üzerine Konferanslar üzerine cevapların hemen gelmemesi bir eksiklik değildir."
       ]
     },
     {
@@ -279,8 +256,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Fizik yasalarının büyüsü, çok farklı olayları matematiksel düzenle birleştirmelerinde; bilimin dürüstlüğü ise bu düzeni her ölçekte, her an deneyin hükmüne açık tutmasındadır.",
-        "Akılda kalacak son görüntü, elma yörüngesi, simetri aynası ve kuantum dalgasını aynı mavi denklem ufkunda birleştiren ışıklı doğa sahnesidir. Bu görüntü kitabın bütün ayrıntılarının yerini tutmaz; fakat ana soruya geri dönmek istediğinizde güvenilir bir işaret levhası olur.",
-        "Fizik Yasaları Üzerine Konferanslar adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur. Bu rehberin görevi kapıyı kapatmak değil, kapının ardında neden ilginç bir oda bulunduğunu göstermektir."
+        "Akılda kalacak son görüntü, elma yörüngesi, simetri aynası ve kuantum dalgasını aynı mavi denklem ufkunda birleştiren ışıklı doğa sahnesidir.",
+        "Fizik Yasaları Üzerine Konferanslar adlı özgün eseri okumak, burada özetlenen yolun ayrıntılarını, ritmini ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

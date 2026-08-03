@@ -12,8 +12,6 @@
   "chapterArtColor": "#4E6875",
   "meta": {
     "originalTitle": "Technics and Time, 1: The Fault of Epimetheus",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Bu rehber 1994 tarihli ilk cildi, Epimetheus'un Hatası'nı izler. Stiegler teknoloji tarihi, Leroi-Gourhan'ın insanlaşma araştırmaları, Simondon'un teknik bireyleri, Heidegger'in zaman ve alet çözümlemesi ile Husserl'in bilinç kuramını birleştirir. Temel soru basittir: İnsan tekniği mi yapar, teknik insanı mı? Cevap ikisinin aynı süreçte birbirini yaptığıdır.",
@@ -46,11 +44,11 @@
       "section": "GİRİŞ · UNUTUŞ",
       "title": "Felsefe tekniği dışarıda bırakmıştır",
       "paragraphs": [
-        "Stiegler Batı felsefesinin hakiki bilgi ile el becerisini ayırıp tekniği insan özünün dışındaki araç saydığını savunur. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Düşünür amacı insana, çekiç ve makineyi yalnız emri yerine getiren nötr nesneye verir. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Özne-araç ayrımı teknik nesnenin düşünce, amaç ve toplum biçimini geri etkilediğini görünmez yapar. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Felsefe tekniği bütünüyle ihmal etmemiştir; Stiegler ana geleneğin kurduğu öncelik sırasını eleştirir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir araç tartışmasında nesnenin yalnız kullanıldığını mı, kullanma biçimini de kurduğunu mu sorun. Tekniği düşüncenin dışına atmak, düşünceyi mümkün kılan yazı ve kayıt ortamını görünmez kılar. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Stiegler Batı felsefesinin hakiki bilgi ile el becerisini ayırıp tekniği insan özünün dışındaki araç saydığını savunur.",
+        "Düşünür amacı insana, çekiç ve makineyi yalnız emri yerine getiren nötr nesneye verir.",
+        "Özne-araç ayrımı teknik nesnenin düşünce, amaç ve toplum biçimini geri etkilediğini görünmez yapar.",
+        "Felsefe tekniği bütünüyle ihmal etmemiştir; Stiegler ana geleneğin kurduğu öncelik sırasını eleştirir.",
+        "Bir araç tartışmasında nesnenin yalnız kullanıldığını mı, kullanma biçimini de kurduğunu mu sorun. Tekniği düşüncenin dışına atmak, düşünceyi mümkün kılan yazı ve kayıt ortamını görünmez kılar."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "SÖYLENCE · EKSİK",
       "title": "Epimetheus insana özellik bırakmaz",
       "paragraphs": [
-        "Söylencede Epimetheus yetenekleri hayvanlara dağıtır ve insana hiçbir doğal savunma kalmaz; Prometheus ateş ve tekniği çalar. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "İnsan pençe, kalın kürk veya hızlı kanat yerine taş, giysi ve ortak bilgiyle hayatta kalır. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Doğal eksik teknik ekle tamamlanır; ek sonradan gelen süs değil insan hayatının başlangıç koşulu olur. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Söylence bilimsel insan evrimi kanıtı değildir; teknik ile insan özünü düşünmek için felsefi sahnedir. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Bir insan yeteneğinin beden dışı hangi nesne ve kuruma dayandığını düşünün. Prometheus'un hediyesi Epimetheus'un eksikliğini silmez; insan teknik desteğe sürekli muhtaç kalır. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Söylencede Epimetheus yetenekleri hayvanlara dağıtır ve insana hiçbir doğal savunma kalmaz; Prometheus ateş ve tekniği çalar.",
+        "İnsan pençe, kalın kürk veya hızlı kanat yerine taş, giysi ve ortak bilgiyle hayatta kalır.",
+        "Doğal eksik teknik ekle tamamlanır; ek sonradan gelen süs değil insan hayatının başlangıç koşulu olur.",
+        "Söylence bilimsel insan evrimi kanıtı değildir; teknik ile insan özünü düşünmek için felsefi sahnedir.",
+        "Bir insan yeteneğinin beden dışı hangi nesne ve kuruma dayandığını düşünün. Prometheus'un hediyesi Epimetheus'un eksikliğini silmez; insan teknik desteğe sürekli muhtaç kalır."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "SÖYLENCE · EPIMETHEUS",
       "title": "Hata yalnız kusur değil açıklıktır",
       "paragraphs": [
-        "Epimetheus'un unutması insanı tamamlanmış programa sahip olmaktan çıkarır ve geleceğini teknik icada açar. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Arının peteği tür davranışına daha sıkı bağlıyken insan evi iklime, malzemeye ve kuşağın bilgisine göre değiştirir. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Eksik belirlenmişlik öğrenme, nesne yapma ve farklı yaşam yolları kurma zorunluluğu yaratır. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "İnsan tamamen sınırsız değildir; beden, çevre ve miras mümkün seçenekleri şekillendirir. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir eksikliği yalnız sorun değil yeni beceri ve ortaklık açan koşul olarak da inceleyin. Eksiklik sabit öz değil, yeni nesne ve toplumsal düzenlerle her kuşakta yeniden biçimlenen açıklıktır. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Epimetheus'un unutması insanı tamamlanmış programa sahip olmaktan çıkarır ve geleceğini teknik icada açar.",
+        "Arının peteği tür davranışına daha sıkı bağlıyken insan evi iklime, malzemeye ve kuşağın bilgisine göre değiştirir.",
+        "Eksik belirlenmişlik öğrenme, nesne yapma ve farklı yaşam yolları kurma zorunluluğu yaratır.",
+        "İnsan tamamen sınırsız değildir; beden, çevre ve miras mümkün seçenekleri şekillendirir.",
+        "Bir eksikliği yalnız sorun değil yeni beceri ve ortaklık açan koşul olarak da inceleyin. Eksiklik sabit öz değil, yeni nesne ve toplumsal düzenlerle her kuşakta yeniden biçimlenen açıklıktır."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "KISIM I · KİM/NE",
       "title": "Kim ve ne birlikte doğar",
       "paragraphs": [
-        "İnsan öznesi kim ile teknik nesne ne arasında hangisinin önce geldiği kesin biçimde ayrılamaz. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Eli hazır insan aleti icat etmez yalnızca; aleti kullanma ve yapma süreci el hareketini, dikkati ve beyni dönüştürür. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Organ ile alet geri besleme içinde farklılaşır; kim neyi, ne de kimi üretir. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Karşılıklı kuruluş tüm sorumluluğu makineye dağıtmaz; tasarım kararlarının sahibi ve eşitsizliği gösterilmelidir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Yeni araçla birlikte sizde doğan yeni alışkanlık ve beklentiyi yazın. Kim-ne bağı sorumluluğu dağıtmak yerine kararın tasarım, kullanım ve altyapıdaki yerlerini çoğaltır. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "İnsan öznesi kim ile teknik nesne ne arasında hangisinin önce geldiği kesin biçimde ayrılamaz.",
+        "Eli hazır insan aleti icat etmez yalnızca; aleti kullanma ve yapma süreci el hareketini, dikkati ve beyni dönüştürür.",
+        "Organ ile alet geri besleme içinde farklılaşır; kim neyi, ne de kimi üretir.",
+        "Karşılıklı kuruluş tüm sorumluluğu makineye dağıtmaz; tasarım kararlarının sahibi ve eşitsizliği gösterilmelidir.",
+        "Yeni araçla birlikte sizde doğan yeni alışkanlık ve beklentiyi yazın. Kim-ne bağı sorumluluğu dağıtmak yerine kararın tasarım, kullanım ve altyapıdaki yerlerini çoğaltır."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "KISIM I · İNSANLAŞMA",
       "title": "Alet insanı da icat eder",
       "paragraphs": [
-        "Taş yontma, dik yürüme, el serbestliği ve beyin gelişimi tek yönlü sıra değil birlikte ilerleyen insanlaşma sürecidir. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Keskin taş yiyecek erişimini değiştirir, yeni beslenme ve işbirliği bedensel ve toplumsal gelişimi etkiler. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Teknik çevre seçilim, öğrenme ve aktarım için yeni koşullar kurar; biyolojik ve kültürel evrim birbirine bağlanır. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Tek bir alet insanı yaratmamıştır; uzun ve dallanan ortak evrimden söz edilir. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir teknolojinin yalnız işi hızlandırmasını değil hangi beceriyi zamanla büyüttüğünü izleyin. İnsanlaşma biyolojik beden ile kültürel nesnenin sırayla değil birlikte değiştiği bir süreçtir. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Taş yontma, dik yürüme, el serbestliği ve beyin gelişimi tek yönlü sıra değil birlikte ilerleyen insanlaşma sürecidir.",
+        "Keskin taş yiyecek erişimini değiştirir, yeni beslenme ve işbirliği bedensel ve toplumsal gelişimi etkiler.",
+        "Teknik çevre seçilim, öğrenme ve aktarım için yeni koşullar kurar; biyolojik ve kültürel evrim birbirine bağlanır.",
+        "Tek bir alet insanı yaratmamıştır; uzun ve dallanan ortak evrimden söz edilir.",
+        "Bir teknolojinin yalnız işi hızlandırmasını değil hangi beceriyi zamanla büyüttüğünü izleyin. İnsanlaşma biyolojik beden ile kültürel nesnenin sırayla değil birlikte değiştiği bir süreçtir."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "KISIM I · EPİFİLOGENEZ",
       "title": "Hafıza bedenin dışına yazılır",
       "paragraphs": [
-        "Stiegler teknik nesnelerde biriken kuşak hafızasına epifilogenetik bellek der; deneyim genle değil nesne ve işaretle aktarılır. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Çocuk ateşi yeniden keşfetmez; ocak, tarif ve sözcük önceki hayatların bilgisini ona taşır. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Alet, yazı ve kayıt bireysel ölümün ötesinde deneyim biriktirir; insan hazır teknik geçmişe doğar. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Dış bellek hatasız arşiv değildir; neyin kaydedileceği ve okunacağı siyasi seçimdir. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Kullandığınız bir nesnede sizden önceki kaç kuşağın bilgisinin katmanlandığını düşünün. Dış bellek olmadan kuşaklar bilgi biriktiremez; dış belleğin sahibi de ortak geleceği güçlü biçimde etkiler. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Stiegler teknik nesnelerde biriken kuşak hafızasına epifilogenetik bellek der; deneyim genle değil nesne ve işaretle aktarılır.",
+        "Çocuk ateşi yeniden keşfetmez; ocak, tarif ve sözcük önceki hayatların bilgisini ona taşır.",
+        "Alet, yazı ve kayıt bireysel ölümün ötesinde deneyim biriktirir; insan hazır teknik geçmişe doğar.",
+        "Dış bellek hatasız arşiv değildir; neyin kaydedileceği ve okunacağı siyasi seçimdir.",
+        "Kullandığınız bir nesnede sizden önceki kaç kuşağın bilgisinin katmanlandığını düşünün. Dış bellek olmadan kuşaklar bilgi biriktiremez; dış belleğin sahibi de ortak geleceği güçlü biçimde etkiler."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "KISIM I · SİSTEM",
       "title": "Teknik nesne tek başına ilerlemez",
       "paragraphs": [
-        "Bertrand Gille'den hareketle tekniklerin birbirine bağlı sistemler oluşturduğunu ve bir alandaki hızın diğerinde gerilim yarattığını anlatır. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Hızlı motor yaygınlaşır ama yol, şehir ve enerji sistemi değişmezse tıkanma ve kaza büyür. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Nesneler altyapı, standart ve örgütle birlikte çalışır; teknik değişim ekonomik ve siyasi sistemle ritim çatışmasına girer. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Sistem fikri kaçınılmaz tek rota demek değildir; alternatif standart ve kurumlar kurulabilir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Yeni bir cihazı tek ürün değil enerji, bakım, eğitim ve atık ağı içinde çizin. Teknik sistemde hız farkı toplumsal uyumsuzluk ve yön kaybı yaratabilir. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Bertrand Gille'den hareketle tekniklerin birbirine bağlı sistemler oluşturduğunu ve bir alandaki hızın diğerinde gerilim yarattığını anlatır.",
+        "Hızlı motor yaygınlaşır ama yol, şehir ve enerji sistemi değişmezse tıkanma ve kaza büyür.",
+        "Nesneler altyapı, standart ve örgütle birlikte çalışır; teknik değişim ekonomik ve siyasi sistemle ritim çatışmasına girer.",
+        "Sistem fikri kaçınılmaz tek rota demek değildir; alternatif standart ve kurumlar kurulabilir.",
+        "Yeni bir cihazı tek ürün değil enerji, bakım, eğitim ve atık ağı içinde çizin. Teknik sistemde hız farkı toplumsal uyumsuzluk ve yön kaybı yaratabilir."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "KISIM I · EĞİLİM",
       "title": "Teknik eğilim yerel biçimlere girer",
       "paragraphs": [
-        "Leroi-Gourhan'ın teknik eğilim kavramı benzer maddi sorunların farklı kültürlerde benzer yönler doğurabildiğini, biçimin ise yerel çevrede çeşitlendiğini gösterir. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Kesme ihtiyacı farklı taş ve geleneklerde başka alet biçimi üretir; keskin kenar yönelimi yine tekrarlanır. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Maddenin olasılıkları ile toplumsal seçim birbirini sınırlar; ne salt evrensel zorunluluk ne keyfî kültür vardır. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Eğilim geleceği kesin tahmin etmez; kullanılmayan teknik yollar ve güç kararları hesaba katılmalıdır. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir aracın maddi zorunluluğuyla pazarlama veya alışkanlıktan gelen biçimini ayırın. Somut teknik nesneyi anlamak onu yalnız kullanıcı emrine uyan pasif araç saymaktan kurtarır. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Leroi-Gourhan'ın teknik eğilim kavramı benzer maddi sorunların farklı kültürlerde benzer yönler doğurabildiğini, biçimin ise yerel çevrede çeşitlendiğini gösterir.",
+        "Kesme ihtiyacı farklı taş ve geleneklerde başka alet biçimi üretir; keskin kenar yönelimi yine tekrarlanır.",
+        "Maddenin olasılıkları ile toplumsal seçim birbirini sınırlar; ne salt evrensel zorunluluk ne keyfî kültür vardır.",
+        "Eğilim geleceği kesin tahmin etmez; kullanılmayan teknik yollar ve güç kararları hesaba katılmalıdır.",
+        "Bir aracın maddi zorunluluğuyla pazarlama veya alışkanlıktan gelen biçimini ayırın. Somut teknik nesneyi anlamak onu yalnız kullanıcı emrine uyan pasif araç saymaktan kurtarır."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "KISIM I · SIMONDON",
       "title": "Teknik nesne somutlaşır",
       "paragraphs": [
-        "Simondon'a göre olgun teknik nesne parçalarını ayrı görevler yığını değil, birbirini destekleyen bütün halinde çalıştırır. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Motorun soğutma parçası yalnız ısıyı atmaz, yapının dayanıklılığına ve hava akışına da katılır. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "İşlevler birleşip iç uyum arttıkça nesne somutlaşır ve kendi teknik çevresini kurar. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Somutlaşma daha iyi toplum anlamına gelmez; verimli nesne adaletsiz amaç için de kullanılabilir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bir ürünün teknik verimliliğiyle toplumsal yararını ayrı puanlayın. Beden, jest ve işaret zinciri tek bir mucizevi insan özünün yerini ortak evrime bırakır. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Simondon'a göre olgun teknik nesne parçalarını ayrı görevler yığını değil, birbirini destekleyen bütün halinde çalıştırır.",
+        "Motorun soğutma parçası yalnız ısıyı atmaz, yapının dayanıklılığına ve hava akışına da katılır.",
+        "İşlevler birleşip iç uyum arttıkça nesne somutlaşır ve kendi teknik çevresini kurar.",
+        "Somutlaşma daha iyi toplum anlamına gelmez; verimli nesne adaletsiz amaç için de kullanılabilir.",
+        "Bir ürünün teknik verimliliğiyle toplumsal yararını ayrı puanlayın. Beden, jest ve işaret zinciri tek bir mucizevi insan özünün yerini ortak evrime bırakır."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "KISIM I · LEROI-GOURHAN",
       "title": "Dik duruş hafızanın yolunu değiştirir",
       "paragraphs": [
-        "Dikleşme eli hareket için serbest bırakır, yüz ve ağız iletişimde yeni rol alır; insanlaşma beden, alet ve işaret zinciridir. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Eller taşı işlerken ağız yalnız kavrama organı olmaktan çıkar ve sesli iletişime daha geniş alan açılır. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Beden farklılaşması teknik jesti, teknik jest toplumsal aktarımı ve sinirsel gelişimi besler. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Bu anlatı düz ilerleme merdiveni değildir; evrim birçok dal ve tesadüf içerir. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Bir bedensel rahatlığın arkasında görünmeyen alet ve öğrenme tarihini araştırın. Sonluluk bilinci teknik izlerle birleştiğinde miras ve sorumluluk duygusu doğar. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Dikleşme eli hareket için serbest bırakır, yüz ve ağız iletişimde yeni rol alır; insanlaşma beden, alet ve işaret zinciridir.",
+        "Eller taşı işlerken ağız yalnız kavrama organı olmaktan çıkar ve sesli iletişime daha geniş alan açılır.",
+        "Beden farklılaşması teknik jesti, teknik jest toplumsal aktarımı ve sinirsel gelişimi besler.",
+        "Bu anlatı düz ilerleme merdiveni değildir; evrim birçok dal ve tesadüf içerir.",
+        "Bir bedensel rahatlığın arkasında görünmeyen alet ve öğrenme tarihini araştırın. Sonluluk bilinci teknik izlerle birleştiğinde miras ve sorumluluk duygusu doğar."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "KISIM II · ÖNGÖRÜ",
       "title": "Ölümü bilmek gelecek zamanı açar",
       "paragraphs": [
-        "Stiegler insan zamanını yalnız şimdiye tepki değil, sonluluğu bilen ve gelmeyeni önceden tasarlayan bekleyiş olarak okur. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Mezar taşı öleni saklamaz yalnızca; yaşayanlara geçmiş, söz ve gelecek yükümlülüğü bırakır. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Teknik iz geçmişi tutar, ölüm bilinci geleceği proje haline getirir; zaman bu iki yokluk arasında kurulur. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Hayvanların hafıza ve öngörü yeteneğini küçümseyen keskin ayrımlar güncel araştırmalarla sınanmalıdır. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Bir planınızın hangi eski kayıt ve hangi gelecek korkusuyla biçimlendiğini düşünün. Üçüncül bellek neyi hatırladığımız kadar hatırlamaya değer sandığımız şeyi de seçer. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Stiegler insan zamanını yalnız şimdiye tepki değil, sonluluğu bilen ve gelmeyeni önceden tasarlayan bekleyiş olarak okur.",
+        "Mezar taşı öleni saklamaz yalnızca; yaşayanlara geçmiş, söz ve gelecek yükümlülüğü bırakır.",
+        "Teknik iz geçmişi tutar, ölüm bilinci geleceği proje haline getirir; zaman bu iki yokluk arasında kurulur.",
+        "Hayvanların hafıza ve öngörü yeteneğini küçümseyen keskin ayrımlar güncel araştırmalarla sınanmalıdır.",
+        "Bir planınızın hangi eski kayıt ve hangi gelecek korkusuyla biçimlendiğini düşünün. Üçüncül bellek neyi hatırladığımız kadar hatırlamaya değer sandığımız şeyi de seçer."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "KISIM II · RETANSİYON",
       "title": "Şimdi geçmiş izlerini taşır",
       "paragraphs": [
-        "Husserl'in birincil ve ikincil hatırlama ayrımını genişleten Stiegler, kayıt aracının üçüncül bellek olarak şimdiyi kurduğunu söyler. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Melodinin önceki notasını zihinde tutmadan şimdiki ses müzik olmaz; kayıt aynı melodiyi kuşaklar sonra yeniden sunar. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Algı anı saf değildir; yakın iz, kişisel anı ve dış kayıt birlikte ne duyduğumuzu biçimlendirir. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Kayıt deneyimi aynı biçimde geri getirmez; cihaz, kurgu ve dinleme ortamı yeni bir şimdi yaratır. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Bir videonun olayı hatırlamanızı nasıl güçlendirdiğini ve nasıl tek açıya sıkıştırdığını yazın. Bozulma anı aracın ardındaki bakım emeği, standart ve enerji ağını görünür kılar. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Husserl'in birincil ve ikincil hatırlama ayrımını genişleten Stiegler, kayıt aracının üçüncül bellek olarak şimdiyi kurduğunu söyler.",
+        "Melodinin önceki notasını zihinde tutmadan şimdiki ses müzik olmaz; kayıt aynı melodiyi kuşaklar sonra yeniden sunar.",
+        "Algı anı saf değildir; yakın iz, kişisel anı ve dış kayıt birlikte ne duyduğumuzu biçimlendirir.",
+        "Kayıt deneyimi aynı biçimde geri getirmez; cihaz, kurgu ve dinleme ortamı yeni bir şimdi yaratır.",
+        "Bir videonun olayı hatırlamanızı nasıl güçlendirdiğini ve nasıl tek açıya sıkıştırdığını yazın. Bozulma anı aracın ardındaki bakım emeği, standart ve enerji ağını görünür kılar."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "KISIM II · HEIDEGGER",
       "title": "Alet görünmezken dünya işler",
       "paragraphs": [
-        "Heidegger'in kullanıma-hazır alet çözümünde çekiç önce bakılan nesne değil, iş içinde fark edilmeden çalışan ilişkidir. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Usta çiviyi çakarken çekicin özellik listesini düşünmez; sap kırıldığında nesne birden görünür olur. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Alet anlamını tek başına maddesinden değil, görev, diğer aletler ve dünyadaki amaç ağından alır. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Görünmez akış ustalık sağlayabilir fakat altyapının kime maliyet yüklediğini de saklayabilir. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Sorunsuz kullandığınız bir hizmet durduğunda arkasında açığa çıkan insan ve nesne ağını not edin. Zamanın teknik koşulu takvimden algoritmik akışa kadar gündelik varoluşun maddi tabanıdır. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Heidegger'in kullanıma-hazır alet çözümünde çekiç önce bakılan nesne değil, iş içinde fark edilmeden çalışan ilişkidir.",
+        "Usta çiviyi çakarken çekicin özellik listesini düşünmez; sap kırıldığında nesne birden görünür olur.",
+        "Alet anlamını tek başına maddesinden değil, görev, diğer aletler ve dünyadaki amaç ağından alır.",
+        "Görünmez akış ustalık sağlayabilir fakat altyapının kime maliyet yüklediğini de saklayabilir.",
+        "Sorunsuz kullandığınız bir hizmet durduğunda arkasında açığa çıkan insan ve nesne ağını not edin. Zamanın teknik koşulu takvimden algoritmik akışa kadar gündelik varoluşun maddi tabanıdır."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "KISIM II · ELEŞTİRİ",
       "title": "Heidegger tekniğin kökenini eksik bırakır",
       "paragraphs": [
-        "Stiegler Heidegger'in dünya içindeki aleti güçlü çözümlediği halde Dasein'ın zamanını kuran teknik dış belleğe yeterli kurucu yer vermediğini savunur. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Takvim ve yazı olmadan ortak tarih ve söz verme pratiği aynı biçimde kurulamaz; zaman yalnız iç bilinç değildir. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Teknik iz varoluşun sonradan kullandığı araç değil, geçmiş ve gelecek ufkunun maddi koşuludur. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Heidegger yorumları tartışmalıdır; bazı okurlar tekniğin onun analizinde zaten örtük bulunduğunu söyler. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Zaman yönetiminizde iç niyet ile takvim, bildirim ve kayıt altyapısının payını ayırın. Program endüstrisi yalnız içerik satmaz, insanların aynı ana ne kadar dikkat vereceğini düzenler. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Stiegler Heidegger'in dünya içindeki aleti güçlü çözümlediği halde Dasein'ın zamanını kuran teknik dış belleğe yeterli kurucu yer vermediğini savunur.",
+        "Takvim ve yazı olmadan ortak tarih ve söz verme pratiği aynı biçimde kurulamaz; zaman yalnız iç bilinç değildir.",
+        "Teknik iz varoluşun sonradan kullandığı araç değil, geçmiş ve gelecek ufkunun maddi koşuludur.",
+        "Heidegger yorumları tartışmalıdır; bazı okurlar tekniğin onun analizinde zaten örtük bulunduğunu söyler.",
+        "Zaman yönetiminizde iç niyet ile takvim, bildirim ve kayıt altyapısının payını ayırın. Program endüstrisi yalnız içerik satmaz, insanların aynı ana ne kadar dikkat vereceğini düzenler."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "SONUÇ · PROGRAM",
       "title": "Endüstriyel program ortak zamanı biçimler",
       "paragraphs": [
-        "Kayıt ve yayın teknolojileri milyonların aynı imgeleri aynı ritimde almasını sağlayarak toplu hafıza ve beklentiyi programlayabilir. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Akşam haberi bütün ülkeye hangi olayın önemli ve hangi görüntünün geçmiş olarak hatırlanacağını aynı sırayla sunar. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Üçüncül bellek merkezi üretildiğinde dikkat ve gelecek hayali birkaç kurumun takvimine bağlanabilir. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Ortak yayın deneyimi dayanışma ve kamusal bilgi de yaratır; belirleyici olan sahiplik ve çoğulluktur. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Günlük ekran akışınızda zamanı kimin sıraladığını ve neyin yeniden görünmesini seçtiğini inceleyin. Merkezi program parçalanırken algoritmik kişiselleştirme ortak dünya yerine ayrı dikkat tünelleri kurabilir. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Kayıt ve yayın teknolojileri milyonların aynı imgeleri aynı ritimde almasını sağlayarak toplu hafıza ve beklentiyi programlayabilir.",
+        "Akşam haberi bütün ülkeye hangi olayın önemli ve hangi görüntünün geçmiş olarak hatırlanacağını aynı sırayla sunar.",
+        "Üçüncül bellek merkezi üretildiğinde dikkat ve gelecek hayali birkaç kurumun takvimine bağlanabilir.",
+        "Ortak yayın deneyimi dayanışma ve kamusal bilgi de yaratır; belirleyici olan sahiplik ve çoğulluktur.",
+        "Günlük ekran akışınızda zamanı kimin sıraladığını ve neyin yeniden görünmesini seçtiğini inceleyin. Merkezi program parçalanırken algoritmik kişiselleştirme ortak dünya yerine ayrı dikkat tünelleri kurabilir."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SONUÇ · SORUMLULUK",
       "title": "Teknik miras zehir ve ilaç olabilir",
       "paragraphs": [
-        "Teknik insanın dış düşmanı veya saf kurtarıcısı değil, kapasite açarken bağımlılık ve unutma üreten çift değerli mirastır. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Navigasyon kaybolmayı azaltır ve yeni yerlere erişim sağlar; yön bulma becerisini köreltip rota kararını şirkete bırakabilir. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Dışsallaştırma yeni güç verir, kullanılmayan iç beceriyi zayıflatır; tasarım ve eğitim bu dengeyi yönlendirebilir. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Eski beceriyi korumak her yeniliği reddetmek değildir; hangi becerinin ortak özgürlük için gerekli olduğu seçilmelidir. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir teknolojinin size verdiği ve sizden aldığı yeteneği iki sütunda yazın. Pharmakon yaklaşımı evet-hayır hükmü yerine doz, tasarım, erişim ve ortak denetim sorularını açar. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Teknik insanın dış düşmanı veya saf kurtarıcısı değil, kapasite açarken bağımlılık ve unutma üreten çift değerli mirastır.",
+        "Navigasyon kaybolmayı azaltır ve yeni yerlere erişim sağlar; yön bulma becerisini köreltip rota kararını şirkete bırakabilir.",
+        "Dışsallaştırma yeni güç verir, kullanılmayan iç beceriyi zayıflatır; tasarım ve eğitim bu dengeyi yönlendirebilir.",
+        "Eski beceriyi korumak her yeniliği reddetmek değildir; hangi becerinin ortak özgürlük için gerekli olduğu seçilmelidir.",
+        "Bir teknolojinin size verdiği ve sizden aldığı yeteneği iki sütunda yazın. Pharmakon yaklaşımı evet-hayır hükmü yerine doz, tasarım, erişim ve ortak denetim sorularını açar."
       ]
     },
     {

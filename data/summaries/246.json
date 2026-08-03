@@ -12,8 +12,6 @@
   "chapterArtColor": "#55766C",
   "meta": {
     "originalTitle": "Biopolitics: An Advanced Introduction",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Lemke kavramı tek bir karanlık slogan olmaktan çıkarır. Önce yaşamı siyasetin temeli ve nesnesi yapan eski görüşleri ayırır; ardından Foucault, Agamben, Hardt–Negri, biyoteknoloji ve bioekonomi tartışmalarını karşılaştırır. Son bölümde her olay için üç soru önerir: hangi yaşam bilgisi doğru sayılıyor, kim bu bilgiyle yönetiyor, insanlar kendilerini nasıl yönetmeye başlıyor?",
@@ -46,11 +44,11 @@
       "section": "BÖLÜM 1 · TEMEL",
       "title": "Yaşam siyasetin temeli sayılabilir",
       "paragraphs": [
-        "Biyopolitikanın bir anlamı toplum ve devlet biçimini biyolojik yaşam yasalarından türetmeye çalışır. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Devlet canlı organizmaya benzetilir; yöneticiler beyin, yurttaşlar organ gibi sıralanır. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Doğa benzetmesi tarihsel kurumları değişmez büyüme ve hastalık diliyle açıklar. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Organizma benzetmesi bazı karşılıklı bağımlılıkları gösterebilir; siyasi eşitsizliği zorunlu doğa diye kapatmamalıdır. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Bir siyasi konuşmada beden ve hastalık benzetmesinin kimi normal, kimi tehdit yaptığını bulun. Organizma dili siyasi çatışmayı hastalık tedavisine çevirdiğinde muhalif yurttaş kolayca zararlı hücre yapılabilir. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Biyopolitikanın bir anlamı toplum ve devlet biçimini biyolojik yaşam yasalarından türetmeye çalışır.",
+        "Devlet canlı organizmaya benzetilir; yöneticiler beyin, yurttaşlar organ gibi sıralanır.",
+        "Doğa benzetmesi tarihsel kurumları değişmez büyüme ve hastalık diliyle açıklar.",
+        "Organizma benzetmesi bazı karşılıklı bağımlılıkları gösterebilir; siyasi eşitsizliği zorunlu doğa diye kapatmamalıdır.",
+        "Bir siyasi konuşmada beden ve hastalık benzetmesinin kimi normal, kimi tehdit yaptığını bulun. Organizma dili siyasi çatışmayı hastalık tedavisine çevirdiğinde muhalif yurttaş kolayca zararlı hücre yapılabilir."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "BÖLÜM 2 · NESNE",
       "title": "Yaşam siyasetin nesnesi haline gelir",
       "paragraphs": [
-        "İkinci anlam biyolojiden devlet çıkarmak yerine, siyasi ve ekonomik kurumların yaşam süreçlerini nasıl ölçüp düzenlediğini inceler. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Belediye doğum, ölüm, salgın ve ortalama ömür verisiyle mahalleler için karar alır. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Nüfus istatistiği tek tek kişileri toplu risk ve norm halinde yönetilebilir görünür kılar. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Ölçüm olmadan kamu sağlığı zorlaşır; sorun sayının amaç, erişim ve dağılımının sorgulanmamasıdır. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir sağlık göstergesinin kimi görünür, hangi hayat ayrıntısını görünmez yaptığını sorun. Nüfus bilgisi bireyi silmek zorunda değildir; verinin gerisindeki eşitsiz yaşam koşulu geri çağrılmalıdır. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "İkinci anlam biyolojiden devlet çıkarmak yerine, siyasi ve ekonomik kurumların yaşam süreçlerini nasıl ölçüp düzenlediğini inceler.",
+        "Belediye doğum, ölüm, salgın ve ortalama ömür verisiyle mahalleler için karar alır.",
+        "Nüfus istatistiği tek tek kişileri toplu risk ve norm halinde yönetilebilir görünür kılar.",
+        "Ölçüm olmadan kamu sağlığı zorlaşır; sorun sayının amaç, erişim ve dağılımının sorgulanmamasıdır.",
+        "Bir sağlık göstergesinin kimi görünür, hangi hayat ayrıntısını görünmez yaptığını sorun. Nüfus bilgisi bireyi silmek zorunda değildir; verinin gerisindeki eşitsiz yaşam koşulu geri çağrılmalıdır."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "TARİH · IRK",
       "title": "Irksal devlet yaşamı hiyerarşiye dizer",
       "paragraphs": [
-        "Yirminci yüzyılın ırk hijyeni ve öjeni politikaları biyolojik bilgi iddiasını vatandaşlık, üreme ve ölüm kararına bağladı. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Devlet bazı ailelere çocuk teşviki verirken bazı insanların üremesini hastalık ve yük diye engelleyebilir. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Kalıtım dili toplumsal eşitsizliği bedene sabitler; uzmanlık zorlayıcı hukuka meşruiyet sağlar. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Bu tarih her genetik çalışmayı öjeni yapmaz; amaç, yöntem, rıza ve ayrımcılık dikkatle ayrılmalıdır. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir biyolojik risk politikasında gönüllülük ve eşit hizmet yerine zorlayıcı seçim olup olmadığını kontrol edin. Öjeni geçmişi çağdaş genetiğe otomatik suç yüklemez, fakat rıza ve norm üretimi için güçlü bir uyarı sağlar. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Yirminci yüzyılın ırk hijyeni ve öjeni politikaları biyolojik bilgi iddiasını vatandaşlık, üreme ve ölüm kararına bağladı.",
+        "Devlet bazı ailelere çocuk teşviki verirken bazı insanların üremesini hastalık ve yük diye engelleyebilir.",
+        "Kalıtım dili toplumsal eşitsizliği bedene sabitler; uzmanlık zorlayıcı hukuka meşruiyet sağlar.",
+        "Bu tarih her genetik çalışmayı öjeni yapmaz; amaç, yöntem, rıza ve ayrımcılık dikkatle ayrılmalıdır.",
+        "Bir biyolojik risk politikasında gönüllülük ve eşit hizmet yerine zorlayıcı seçim olup olmadığını kontrol edin. Öjeni geçmişi çağdaş genetiğe otomatik suç yüklemez, fakat rıza ve norm üretimi için güçlü bir uyarı sağlar."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "BÖLÜM 3 · FOUCAULT",
       "title": "Foucault iktidarın yönünü değiştirir",
       "paragraphs": [
-        "Foucault eski egemenliğin öldürme veya yaşamasına izin verme hakkı yanında modern iktidarın yaşamı üretme, güçlendirme ve düzenleme işlevini gösterir. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Kral suçluyu meydanda cezalandırırken modern yönetim milyonların aşı, çalışma ve doğum oranını sessizce düzenler. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "İktidar yasak koymaktan öte norm, bilgi ve hizmet ağı kurarak davranış olasılıklarını şekillendirir. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Egemen şiddet ortadan kalkmaz; üretken yaşam yönetimiyle yan yana bulunabilir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir kurumda açık yasa kadar teşvik, ölçüm ve ortalama hedeflerinin ne yaptığını izleyin. Üretken iktidar insanların hayatını iyileştirirken aynı anda daha ayrıntılı izleme kapasitesi kurabilir. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Foucault eski egemenliğin öldürme veya yaşamasına izin verme hakkı yanında modern iktidarın yaşamı üretme, güçlendirme ve düzenleme işlevini gösterir.",
+        "Kral suçluyu meydanda cezalandırırken modern yönetim milyonların aşı, çalışma ve doğum oranını sessizce düzenler.",
+        "İktidar yasak koymaktan öte norm, bilgi ve hizmet ağı kurarak davranış olasılıklarını şekillendirir.",
+        "Egemen şiddet ortadan kalkmaz; üretken yaşam yönetimiyle yan yana bulunabilir.",
+        "Bir kurumda açık yasa kadar teşvik, ölçüm ve ortalama hedeflerinin ne yaptığını izleyin. Üretken iktidar insanların hayatını iyileştirirken aynı anda daha ayrıntılı izleme kapasitesi kurabilir."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "BÖLÜM 3 · İKİ KUTUP",
       "title": "Beden ve nüfus iki ayrı ölçekte yönetilir",
       "paragraphs": [
-        "Biyogüç bireysel bedeni disipline eden anatomo-politika ile tür bedenini nüfus olarak düzenleyen biyopolitikayı birleştirir. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Fabrika çalışanın dakikasını ölçer, devlet aynı anda işgücünün hastalık ve doğurganlık oranını hesaplar. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Bireysel alışkanlık toplu istatistiğe, toplu norm yeniden kişisel programa çevrilir. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "İki ölçek her zaman aynı kurumda bulunmaz; aralarındaki veri ve hedef bağlantısı gösterilmelidir. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Kendi hayatınızdaki bir puanın kişisel davranıştan nüfus ortalamasına nasıl bağlandığını araştırın. İki kutup birleştiğinde işyerindeki küçük ölçüm ulusal sağlık hedefinin kişisel taşıyıcısı olur. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Biyogüç bireysel bedeni disipline eden anatomo-politika ile tür bedenini nüfus olarak düzenleyen biyopolitikayı birleştirir.",
+        "Fabrika çalışanın dakikasını ölçer, devlet aynı anda işgücünün hastalık ve doğurganlık oranını hesaplar.",
+        "Bireysel alışkanlık toplu istatistiğe, toplu norm yeniden kişisel programa çevrilir.",
+        "İki ölçek her zaman aynı kurumda bulunmaz; aralarındaki veri ve hedef bağlantısı gösterilmelidir.",
+        "Kendi hayatınızdaki bir puanın kişisel davranıştan nüfus ortalamasına nasıl bağlandığını araştırın. İki kutup birleştiğinde işyerindeki küçük ölçüm ulusal sağlık hedefinin kişisel taşıyıcısı olur."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "BÖLÜM 3 · LİBERALİZM",
       "title": "Yönetimsellik özgür seçimle çalışabilir",
       "paragraphs": [
-        "Modern yönetim herkese sürekli emir vermek yerine kişilerin risk hesabı yapan özgür özneler gibi davranmasını teşvik eder. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Çalışana sağlıklı ol emri verilmez; prim, puan ve uygulama hedefiyle kendi bedenini denetlemesi beklenir. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Piyasa ve uzman bilgisi seçenek çevresini kurar; kişi özgürce seçerken hangi seçimin makbul olduğunu öğrenir. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Her öz bakım denetim değildir; kişinin amaçları ve veriye kimin sahip olduğu sonucu değiştirir. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir iyi yaşam tavsiyesinde sorumluluğun kurumdan bireye sessizce aktarılıp aktarılmadığını sorun. Özgürlük yönetimin yokluğu değil, bazı yönetim biçimlerinin kullandığı araç olabilir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Modern yönetim herkese sürekli emir vermek yerine kişilerin risk hesabı yapan özgür özneler gibi davranmasını teşvik eder.",
+        "Çalışana sağlıklı ol emri verilmez; prim, puan ve uygulama hedefiyle kendi bedenini denetlemesi beklenir.",
+        "Piyasa ve uzman bilgisi seçenek çevresini kurar; kişi özgürce seçerken hangi seçimin makbul olduğunu öğrenir.",
+        "Her öz bakım denetim değildir; kişinin amaçları ve veriye kimin sahip olduğu sonucu değiştirir.",
+        "Bir iyi yaşam tavsiyesinde sorumluluğun kurumdan bireye sessizce aktarılıp aktarılmadığını sorun. Özgürlük yönetimin yokluğu değil, bazı yönetim biçimlerinin kullandığı araç olabilir."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "BÖLÜM 4 · AGAMBEN",
       "title": "Agamben çıplak hayatı merkeze alır",
       "paragraphs": [
-        "Agamben egemen kararın insanı siyasi haklardan ayırıp yalnız korunacak veya ortadan kaldırılacak biyolojik hayata indirebildiğini savunur. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Sınır kampındaki kişi ülke hukukunun dışında görünür, fakat her hareketi idari kararla kontrol edilir. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Dışlama kişiyi tamamen dışarı bırakmaz; hukuk ona askıya alınma biçiminde bağlanır. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Çıplak hayat kavramı güçlüdür fakat tüm kamu yönetimini aynı istisna mantığına indirgerse farkları silebilir. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Bir acil durumda hakkın geçici olarak mı, belirsiz süresiz mi askıya alındığını sorun. İstisna kavramı hakkın askıya alınmasının nasıl hukuk içinde hukuk dışı alan kurduğunu gösterir. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Agamben egemen kararın insanı siyasi haklardan ayırıp yalnız korunacak veya ortadan kaldırılacak biyolojik hayata indirebildiğini savunur.",
+        "Sınır kampındaki kişi ülke hukukunun dışında görünür, fakat her hareketi idari kararla kontrol edilir.",
+        "Dışlama kişiyi tamamen dışarı bırakmaz; hukuk ona askıya alınma biçiminde bağlanır.",
+        "Çıplak hayat kavramı güçlüdür fakat tüm kamu yönetimini aynı istisna mantığına indirgerse farkları silebilir.",
+        "Bir acil durumda hakkın geçici olarak mı, belirsiz süresiz mi askıya alındığını sorun. İstisna kavramı hakkın askıya alınmasının nasıl hukuk içinde hukuk dışı alan kurduğunu gösterir."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "BÖLÜM 4 · ELEŞTİRİ",
       "title": "İstisna ile gündelik yönetim aynı değildir",
       "paragraphs": [
-        "Lemke Agamben'in biyopolitikayı egemenliğin çok eski ve tek mantığına bağlamasının Foucault'daki tarihsel çeşitliliği daralttığını belirtir. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Toplama kampı, hastane randevu sistemi ve fitness uygulaması yaşamla ilgilenir; ama araç, güç ve zarar düzeyi aynı değildir. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Aşırı geniş kavram bütün olayları çıplak hayata dönüştürürse somut mekanizma ve karşı koyma imkânı kaybolur. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Karşılaştırma yasak değildir; benzerlik kadar hukuk, rıza ve geri dönüş farkı da açık tutulmalıdır. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Biyopolitika dediğiniz iki örneğin güç derecesi ve itiraz yolunu yan yana yazın. Analitik ölçü kavramı zayıflatmaz; onu gerçek zarar farklarını görebilecek kadar kesinleştirir. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Lemke Agamben'in biyopolitikayı egemenliğin çok eski ve tek mantığına bağlamasının Foucault'daki tarihsel çeşitliliği daralttığını belirtir.",
+        "Toplama kampı, hastane randevu sistemi ve fitness uygulaması yaşamla ilgilenir; ama araç, güç ve zarar düzeyi aynı değildir.",
+        "Aşırı geniş kavram bütün olayları çıplak hayata dönüştürürse somut mekanizma ve karşı koyma imkânı kaybolur.",
+        "Karşılaştırma yasak değildir; benzerlik kadar hukuk, rıza ve geri dönüş farkı da açık tutulmalıdır.",
+        "Biyopolitika dediğiniz iki örneğin güç derecesi ve itiraz yolunu yan yana yazın. Analitik ölçü kavramı zayıflatmaz; onu gerçek zarar farklarını görebilecek kadar kesinleştirir."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "BÖLÜM 5 · ÇOKLUK",
       "title": "Hardt ve Negri yaşamı üretken güç görür",
       "paragraphs": [
-        "Hardt ve Negri için çağdaş kapitalizm yalnız fabrikadaki emek değil, iletişim, duygu, bilgi ve toplumsal ilişki üretimini de değer kaynağı yapar. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Kullanıcı arkadaşlarıyla konuşurken platform için veri ve dikkat değeri üretir. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Yaşamın bütünü ekonomik üretime katılır; aynı ağlar işbirliği ve siyasi çokluk imkânı da doğurur. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Her sosyal ilişki doğrudan sömürü veya direniş değildir; değerin nasıl çekildiği somut gösterilmelidir. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Ücretsiz dijital etkinliğinizden hangi ekonomik değerin, kime aktığını araştırın. Çokluk düşüncesi iktidarın ağını aynı zamanda alternatif ortak üretimin maddesi olarak görür. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Hardt ve Negri için çağdaş kapitalizm yalnız fabrikadaki emek değil, iletişim, duygu, bilgi ve toplumsal ilişki üretimini de değer kaynağı yapar.",
+        "Kullanıcı arkadaşlarıyla konuşurken platform için veri ve dikkat değeri üretir.",
+        "Yaşamın bütünü ekonomik üretime katılır; aynı ağlar işbirliği ve siyasi çokluk imkânı da doğurur.",
+        "Her sosyal ilişki doğrudan sömürü veya direniş değildir; değerin nasıl çekildiği somut gösterilmelidir.",
+        "Ücretsiz dijital etkinliğinizden hangi ekonomik değerin, kime aktığını araştırın. Çokluk düşüncesi iktidarın ağını aynı zamanda alternatif ortak üretimin maddesi olarak görür."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "BÖLÜM 5 · DİRENÇ",
       "title": "Olumlu biyopolitika kolay bir cevap değildir",
       "paragraphs": [
-        "Yaşam iktidarın yalnız kurbanı değil yeni işbirliği ve dayanışma biçimlerinin kaynağıysa biyopolitika olumlu siyaset ihtimali de taşır. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Hasta topluluğu kendi deneyim verisini birleştirip araştırma önceliğini şirket ve devletten bağımsız etkileyebilir. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Yönetilen bilgi ortak bilgiye çevrilir; insanlar uzmanlığa karşı değil onun yönüne müdahale ederek özne olur. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Yaşam sözcüğünü kendiliğinden iyi saymak yeni doğacılık yaratabilir; kimin yaşam anlayışı olduğu sorulmalıdır. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Bir yurttaş veri projesinde katılımcıların yalnız veri kaynağı mı karar ortağı mı olduğuna bakın. Olumlu siyaset yaşamı kutsallaştırmak değil, yaşam kararını demokratikleştirmek zorundadır. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Yaşam iktidarın yalnız kurbanı değil yeni işbirliği ve dayanışma biçimlerinin kaynağıysa biyopolitika olumlu siyaset ihtimali de taşır.",
+        "Hasta topluluğu kendi deneyim verisini birleştirip araştırma önceliğini şirket ve devletten bağımsız etkileyebilir.",
+        "Yönetilen bilgi ortak bilgiye çevrilir; insanlar uzmanlığa karşı değil onun yönüne müdahale ederek özne olur.",
+        "Yaşam sözcüğünü kendiliğinden iyi saymak yeni doğacılık yaratabilir; kimin yaşam anlayışı olduğu sorulmalıdır.",
+        "Bir yurttaş veri projesinde katılımcıların yalnız veri kaynağı mı karar ortağı mı olduğuna bakın. Olumlu siyaset yaşamı kutsallaştırmak değil, yaşam kararını demokratikleştirmek zorundadır."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "BÖLÜM 6 · KAYBOLUŞ",
       "title": "Siyaset biyolojiye indirgenebilir",
       "paragraphs": [
-        "Bazı yaklaşımlar oy, suç veya liderliği gen ve evrimle açıklayarak siyasi çatışmayı biyolojik farklılık sonucu gibi gösterebilir. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Yoksul mahallenin sağlık farkı konut ve iş koşulu yerine riskli genetik grup etiketiyle açıklanabilir. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "İstatistiksel ilişki neden ve kader gibi sunulur; değiştirilebilir kurumlar araştırma alanından çıkar. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Biyolojik etki araştırılabilir; belirleyici soru açıklamanın sosyal koşulu dışlayıp dışlamadığıdır. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir doğuştan açıklamasında karşılaştırılan çevre ve kaynakların gerçekten eşit olup olmadığını sorun. Biyolojik yatkınlık bulunduğunda bile siyasi kurum onun nasıl yaşanacağını güçlü biçimde etkiler. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Bazı yaklaşımlar oy, suç veya liderliği gen ve evrimle açıklayarak siyasi çatışmayı biyolojik farklılık sonucu gibi gösterebilir.",
+        "Yoksul mahallenin sağlık farkı konut ve iş koşulu yerine riskli genetik grup etiketiyle açıklanabilir.",
+        "İstatistiksel ilişki neden ve kader gibi sunulur; değiştirilebilir kurumlar araştırma alanından çıkar.",
+        "Biyolojik etki araştırılabilir; belirleyici soru açıklamanın sosyal koşulu dışlayıp dışlamadığıdır.",
+        "Bir doğuştan açıklamasında karşılaştırılan çevre ve kaynakların gerçekten eşit olup olmadığını sorun. Biyolojik yatkınlık bulunduğunda bile siyasi kurum onun nasıl yaşanacağını güçlü biçimde etkiler."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "BÖLÜM 7 · BİYOTEKNOLOJİ",
       "title": "Doğa teknolojiyle yeniden yapılır",
       "paragraphs": [
-        "Gen düzenleme, üreme teknolojisi ve sentetik biyoloji doğayı siyasetin dışındaki sabit zemin olmaktan çıkarır. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Aile embriyo seçimi yaparken tıp, piyasa, engellilik normu ve gelecek korkusu aynı karara girer. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Teknik müdahale yaşamın sınırını değiştirir; karar özel seçim görünse de altyapı ve fiyat toplumsal sonuç üretir. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Müdahaleyi yalnız doğaya karşı diye reddetmek kadar her yeniliği ilerleme saymak da yetersizdir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Yeni biyoteknolojide erişim, geri dönüş, gelecek kuşak ve alternatif destek sorularını sorun. Doğanın yeniden yapılması uzman kararının toplumsal tartışmadan muaf olamayacağını gösterir. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Gen düzenleme, üreme teknolojisi ve sentetik biyoloji doğayı siyasetin dışındaki sabit zemin olmaktan çıkarır.",
+        "Aile embriyo seçimi yaparken tıp, piyasa, engellilik normu ve gelecek korkusu aynı karara girer.",
+        "Teknik müdahale yaşamın sınırını değiştirir; karar özel seçim görünse de altyapı ve fiyat toplumsal sonuç üretir.",
+        "Müdahaleyi yalnız doğaya karşı diye reddetmek kadar her yeniliği ilerleme saymak da yetersizdir.",
+        "Yeni biyoteknolojide erişim, geri dönüş, gelecek kuşak ve alternatif destek sorularını sorun. Doğanın yeniden yapılması uzman kararının toplumsal tartışmadan muaf olamayacağını gösterir."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "BÖLÜM 8 · VATANDAŞLIK",
       "title": "Biyolojik vatandaşlık hak ve görev üretir",
       "paragraphs": [
-        "İnsanlar hastalık, genetik risk veya beden özelliği etrafında hak talep eden topluluklar kurarken yeni sorumluluklara da bağlanır. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "Nadir hastalık grubu araştırma bütçesi kazanır; üyelerinden sürekli veri paylaşması ve örnek hasta davranışı beklenebilir. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Biyolojik ad görünürlük ve kaynak sağlar, aynı anda kimliği dosya ve risk profiline sabitleyebilir. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Ortak tanı güçlü dayanışma yaratır; grup içi farklı belirtiler ve yaşam tercihleri açık kalmalıdır. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Bir hasta topluluğunda hak kazanımıyla artan veri ve davranış beklentisini birlikte görün. Tanı temelli yurttaşlık kaynak açarken tanısı olmayan acıyı görünmez bırakabilir. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "İnsanlar hastalık, genetik risk veya beden özelliği etrafında hak talep eden topluluklar kurarken yeni sorumluluklara da bağlanır.",
+        "Nadir hastalık grubu araştırma bütçesi kazanır; üyelerinden sürekli veri paylaşması ve örnek hasta davranışı beklenebilir.",
+        "Biyolojik ad görünürlük ve kaynak sağlar, aynı anda kimliği dosya ve risk profiline sabitleyebilir.",
+        "Ortak tanı güçlü dayanışma yaratır; grup içi farklı belirtiler ve yaşam tercihleri açık kalmalıdır.",
+        "Bir hasta topluluğunda hak kazanımıyla artan veri ve davranış beklentisini birlikte görün. Tanı temelli yurttaşlık kaynak açarken tanısı olmayan acıyı görünmez bırakabilir."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "BÖLÜM 8 · PİYASA",
       "title": "Bioekonomi yaşamı değere çevirir",
       "paragraphs": [
-        "Doku, gen dizisi, klinik veri ve üreme kapasitesi araştırma kadar patent ve yatırım nesnesine dönüşebilir. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Bir topluluktan alınan örnek şirket ilacına temel olur, fakat örneği verenler fiyat yüzünden tedaviye ulaşamaz. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Beden parçası laboratuvar, fikri mülkiyet ve sermaye ağında kaynağa dönüşür; mülkiyet ile yarar ayrılır. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Ticari yatırım her zaman kötü değildir; asıl soru rıza, pay, erişim ve kamusal denetimdir. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Biyolojik verinizden doğan ürünün sahiplik ve yarar zincirini takip edin. Bioekonomide rıza tek imza değil, gelecekteki kullanım ve adil yarar paylaşımı bilgisidir. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Doku, gen dizisi, klinik veri ve üreme kapasitesi araştırma kadar patent ve yatırım nesnesine dönüşebilir.",
+        "Bir topluluktan alınan örnek şirket ilacına temel olur, fakat örneği verenler fiyat yüzünden tedaviye ulaşamaz.",
+        "Beden parçası laboratuvar, fikri mülkiyet ve sermaye ağında kaynağa dönüşür; mülkiyet ile yarar ayrılır.",
+        "Ticari yatırım her zaman kötü değildir; asıl soru rıza, pay, erişim ve kamusal denetimdir.",
+        "Biyolojik verinizden doğan ürünün sahiplik ve yarar zincirini takip edin. Bioekonomide rıza tek imza değil, gelecekteki kullanım ve adil yarar paylaşımı bilgisidir."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "BÖLÜM 9 · YÖNTEM",
       "title": "Biyopolitika üç eksende analiz edilir",
       "paragraphs": [
-        "Lemke sağlam analizin yaşam hakkındaki hakikat rejimini, güç stratejisini ve kişinin kendini nasıl özne yaptığını birlikte incelemesini önerir. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Obezite kampanyasında beden ölçüsü bilimsel gerçek, sigorta teşviki güç aracı, kişinin kendini başarısız görmesi özneleşme boyutudur. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Bilgi neyin sorun olduğunu kurar, kurum seçenekleri düzenler, kişi normu kendi iç sesi halinde taşıyabilir. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Üç eksen her durumda eşit güçlü değildir; kanıt hangi bağlantının gerçekten çalıştığını göstermelidir. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Bir sağlık kampanyasını bilgi, kurum ve benlik başlıklı üç sütunda çözümleyin. Üç eksen eleştiriyi yalnız kötü niyet avından çıkarıp dolaşan bilgi ve alışkanlık düzeyine indirir. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Lemke sağlam analizin yaşam hakkındaki hakikat rejimini, güç stratejisini ve kişinin kendini nasıl özne yaptığını birlikte incelemesini önerir.",
+        "Obezite kampanyasında beden ölçüsü bilimsel gerçek, sigorta teşviki güç aracı, kişinin kendini başarısız görmesi özneleşme boyutudur.",
+        "Bilgi neyin sorun olduğunu kurar, kurum seçenekleri düzenler, kişi normu kendi iç sesi halinde taşıyabilir.",
+        "Üç eksen her durumda eşit güçlü değildir; kanıt hangi bağlantının gerçekten çalıştığını göstermelidir.",
+        "Bir sağlık kampanyasını bilgi, kurum ve benlik başlıklı üç sütunda çözümleyin. Üç eksen eleştiriyi yalnız kötü niyet avından çıkarıp dolaşan bilgi ve alışkanlık düzeyine indirir."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SONUÇ · ÖLÇÜ",
       "title": "Soru yaşamdan yana olmak değildir",
       "paragraphs": [
-        "Biyopolitik eleştiri hayatı savunan her uygulamayı iyi, ölümü içeren her kararı kötü sayan basit ahlak değil; yaşamın nasıl tanımlanıp dağıtıldığını araştırır. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Yoğun bakımda yaşamı uzatan teknoloji şefkat, meslek çıkarı, aile umudu ve kaynak adaleti arasında tartışılabilir. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Aynı yaşamı koruma sözü farklı bedenlere farklı hizmet ve yük verir; değer hükmü mekanizma incelemesinden sonra kurulmalıdır. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Karar verilemezlik eylemsizlik demek değildir; şeffaf ölçüt, itiraz hakkı ve eşit kaynak gerekir. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Bir yaşam politikası için kim karar veriyor, hangi bilgiyle, bedeli ve yararı kime dağıtıyor diye sorun. Yaşamı koruma politikasının değeri yalnız toplam ömürde değil, özgürlük ve adalet dağılımında ölçülmelidir. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Biyopolitik eleştiri hayatı savunan her uygulamayı iyi, ölümü içeren her kararı kötü sayan basit ahlak değil; yaşamın nasıl tanımlanıp dağıtıldığını araştırır.",
+        "Yoğun bakımda yaşamı uzatan teknoloji şefkat, meslek çıkarı, aile umudu ve kaynak adaleti arasında tartışılabilir.",
+        "Aynı yaşamı koruma sözü farklı bedenlere farklı hizmet ve yük verir; değer hükmü mekanizma incelemesinden sonra kurulmalıdır.",
+        "Karar verilemezlik eylemsizlik demek değildir; şeffaf ölçüt, itiraz hakkı ve eşit kaynak gerekir.",
+        "Bir yaşam politikası için kim karar veriyor, hangi bilgiyle, bedeli ve yararı kime dağıtıyor diye sorun. Yaşamı koruma politikasının değeri yalnız toplam ömürde değil, özgürlük ve adalet dağılımında ölçülmelidir."
       ]
     },
     {

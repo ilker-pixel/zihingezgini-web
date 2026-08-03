@@ -423,9 +423,9 @@ def render_about() -> str:
           <div class="divider"></div>
         </div>
         <div class="about-content">
-          <p>Zihin Gezgini benim kişisel dijital alanım; okuduklarımı, düşündüklerimi ve denediklerimi biriktirdiğim sade bir bilgi bankası. Bir vitrin kurmak için değil, zaman içinde oluşan düşüncelerin kaybolmasına izin vermemek için var.</p>
-          <p>Yapay zekâyı bilgiye ulaşmak, karşılaştırmak ve yeni kapılar açmak için kullanıyorum. Fakat burada asıl olan araç değil; o bilgiyi kendi hayatımdan geçirerek yazıya, fotoğrafa, sese ve mümkün olduğunca analog bir üretime dönüştürmek.</p>
-          <p>Okuma haritası ve araştırma arşivindeki yapay zekâ destekli çalışmalar benim özgün eserlerim değil; düşünmek ve üretmek için kullandığım çalışma masası. Kişisel yazılar, notlar, fotoğraflar, müzik denemeleri ve film analizleri ise bu masadan sonra geriye kalan insani izler.</p>
+          <p>Zihin Gezgini iki ayrı alandan oluşuyor. Kişisel yazılar, notlar, fotoğraflar, müzik denemeleri ve film analizleri bana ait; okuduklarımı, düşündüklerimi ve denediklerimi kaybetmemek için tuttuğum kişisel arşivi oluşturuyor.</p>
+          <p>Okuma Haritası'ndaki 300 ön okuma rehberi ise bütünüyle yapay zekâ tarafından oluşturuldu. Bu metinleri ben yazmadım; yapay zekâdan istediğim çıktıları koleksiyonun amacı ve yayın düzeni doğrultusunda yönettim.</p>
+          <p>Bu koleksiyonu kitapları okumadan önce temel fikirlerine hazırlanmak, hepsini okuyamadığımda da eser hakkında bir başlangıç fikri edinmek için tasarladım. Önce kendi okuma yolculuğum için kurdum; başkaları da yararlansın diye yayımladım.</p>
           <blockquote>“Biriktiriyorum, çünkü kaybolsun istemiyorum.”</blockquote>
           <div class="about-links">
             <a href="https://www.youtube.com/@Zihin_Gezgini" target="_blank" rel="noopener" class="about-link-btn youtube-btn">YouTube Monologları</a>
@@ -438,7 +438,7 @@ def render_about() -> str:
       </section>"""
     return page_shell(
         title="Zihin Odası | Zihin Gezgini",
-        description="Zihin Gezgini'nin neden var olduğu, yapay zekâyı nasıl kullandığı ve analog üretime neden önem verdiği üzerine.",
+        description="Zihin Gezgini'ndeki kişisel üretimler ile yapay zekâ tarafından oluşturulan 300 ön okuma rehberi arasındaki ayrım.",
         path="/zihin-odasi/",
         content=content,
         active="about",
@@ -455,7 +455,7 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
             summary_info = summary_meta.get(book.get("no"), {})
             summary_url = summary_info.get("url")
             if summary_url:
-                summary = f'<a class="book-summary-btn" href="{summary_url}">Özeti oku</a>'
+                summary = f'<a class="book-summary-btn" href="{summary_url}">Rehberi oku</a>'
             title_text = str(book.get("title", ""))
             title = html.escape(title_text)
             if summary_url:
@@ -508,9 +508,10 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
       <section class="roadmap-container static-roadmap" data-section-search-collection="roadmap">
         {breadcrumb([("Başlangıç", "/"), ("Okuma Haritası", "/okuma-haritasi/")])}
         <header class="roadmap-header">
-          <p class="section-kicker">300 eserlik araştırma rotası</p>
+          <p class="section-kicker">Yapay zekâ ile oluşturulan 300 ön okuma rehberi</p>
           <h1 class="roadmap-title">Okuma Serüveni</h1>
-          <p class="roadmap-subtitle">Bu bir başarı listesi değil; düşüncenin farklı alanları arasında ilerleyen kişisel bir araştırma rotasıdır. İşaretlerin yalnızca bu tarayıcıda saklanır.</p>
+          <p class="roadmap-method-note"><strong>Bu bölümün yöntemi:</strong> Bu bölüm, kitapları okumadan önce temel fikirlerine hazırlanmak için yapay zekâya hazırlattığım 300 ön okuma rehberinden oluşuyor. Önce kendi okuma yolculuğum için tasarladım; başkaları da yararlansın diye yayımladım. Rehberler kitapların yerini tutmaz, kitaba açılan bir başlangıç kapısı sunar.</p>
+          <p class="roadmap-subtitle">Bu bir başarı listesi değil; düşüncenin farklı alanları arasında ilerleyen kişisel bir araştırma rotasıdır. Okuma işaretlerin yalnızca bu tarayıcıda saklanır.</p>
           <nav class="static-phase-nav" aria-label="Okuma evreleri">{quick_nav}</nav>
           <div class="roadmap-stats">
             <div class="stats-text"><span>Toplam ilerleme</span><strong data-roadmap-count>0% (0 / 300)</strong></div>
@@ -545,7 +546,7 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
     schema = {
         "@context": "https://schema.org",
         "@type": "ItemList",
-        "name": "Zihin Gezgini 300 Eserlik Okuma Haritası",
+        "name": "Zihin Gezgini Yapay Zekâ Ön Okuma Haritası",
         "numberOfItems": len(books),
         "itemListElement": [
             {"@type": "ListItem", "position": item.get("no"), "name": item.get("title")}
@@ -553,8 +554,8 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
         ],
     }
     return page_shell(
-        title="300 Eserlik Okuma Haritası | Zihin Gezgini",
-        description="Bilim, felsefe, tarih, psikoloji, sanat ve teknoloji arasında ilerleyen 300 eserlik kişisel araştırma rotası.",
+        title="300 Yapay Zekâ Ön Okuma Rehberi | Zihin Gezgini",
+        description="Kitapların temel fikirlerine hazırlanmak için yapay zekâ ile oluşturulmuş 300 ön okuma rehberi ve kişisel okuma rotası.",
         path="/okuma-haritasi/",
         content=content,
         active="roadmap",
@@ -585,7 +586,7 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
         chapter_artwork = summary.get("chapterArtworks", {}).get(chapter.get("id", ""), {})
         chapter_image = chapter.get("image") or chapter_artwork.get("image")
         chapter_image_caption = chapter.get("imageCaption") or chapter_artwork.get("imageCaption", "")
-        chapter_paragraphs = chapter.get("paragraphs", []) + chapter.get("extraParagraphs", [])
+        chapter_paragraphs = chapter.get("paragraphs", [])
         paragraphs = "".join(
             f'<p class="reader-paragraph">{markdown_inline(paragraph)}</p>'
             for paragraph in chapter_paragraphs
@@ -655,7 +656,7 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
     description = excerpt(summary.get("intro", "")) or f"{summary['title']} kitabının kapsamlı Türkçe özeti."
     reading_text = " ".join(
         [strip_html(summary.get("intro", ""))]
-        + [strip_html(paragraph) for chapter in summary.get("chapters", []) for paragraph in chapter.get("paragraphs", []) + chapter.get("extraParagraphs", [])]
+        + [strip_html(paragraph) for chapter in summary.get("chapters", []) for paragraph in chapter.get("paragraphs", [])]
     )
     reading_minutes = max(1, math.ceil(len(reading_text.split()) / 220))
     cover_display = display_asset(summary.get("coverImage"))
@@ -692,11 +693,11 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
     schema = {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": f"{summary['title']} Özeti",
+        "headline": f"{summary['title']} Ön Okuma Rehberi",
         "description": description,
         "mainEntityOfPage": f"{SITE_URL}{path}",
         "image": absolute_asset(summary.get("coverImage")),
-        "author": {"@type": "Organization", "name": "Zihin Gezgini Araştırma Masası"},
+        "author": {"@type": "Organization", "name": "Zihin Gezgini · Yapay Zekâ Okuma Haritası"},
         "about": {
             "@type": "Book",
             "name": summary["title"],
@@ -704,7 +705,7 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
         },
     }
     return path, page_shell(
-        title=f"{summary['title']} Özeti | Zihin Gezgini",
+        title=f"{summary['title']} Ön Okuma Rehberi | Zihin Gezgini",
         description=description,
         path=path,
         content=body,
@@ -861,7 +862,7 @@ def render_global_search() -> str:
           <label for="global-search-input">Aranacak kelime</label>
           <div><input id="global-search-input" type="search" placeholder="Kitap, yazar, kavram veya konu" autocomplete="off" autofocus><button type="submit">Ara</button></div>
           <label for="global-search-type">İçerik türü</label>
-          <select id="global-search-type"><option value="all">Bütün arşiv</option><option value="summary">Kitap özetleri</option><option value="post">Yazılar</option><option value="research">Araştırmalar</option></select>
+          <select id="global-search-type"><option value="all">Bütün arşiv</option><option value="summary">Ön okuma rehberleri</option><option value="post">Yazılar</option><option value="research">Araştırmalar</option></select>
         </form>
         <p class="global-search-status" data-global-search-status aria-live="polite">Arama dizini hazırlanıyor…</p>
         <div class="global-search-results" data-global-search-results></div>
@@ -887,7 +888,7 @@ def build_search_index(posts: list[dict[str, Any]], summaries: list[dict[str, An
         })
     for summary in summaries:
         records.append({
-            "type": "summary", "label": "Kitap özeti", "title": summary["title"],
+            "type": "summary", "label": "Ön okuma rehberi", "title": summary["title"],
             "subtitle": summary.get("author", ""), "description": excerpt(summary.get("intro", ""), 220),
             "url": summary_path(summary),
         })

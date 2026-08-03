@@ -12,29 +12,22 @@
   "chapterArtColor": "#53645B",
   "meta": {
     "originalTitle": "Behave: The Biology of Humans at Our Best and Worst",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Bu çalışma, Robert Sapolsky tarafından yazılan Behave (Davranış) adlı eseri bir bakışta tüketmek yerine yirmi bir durakta yavaşça açar. Ana savı, gündelik örnekleri, tarihsel bağlamı ve güçlü itirazları birlikte izleyerek kitabın yalnız ne söylediğini değil, neden hâlâ konuşulduğunu gösterir.",
   "sources": [
     {
       "id": 1,
-      "title": "Robert Sapolsky - Behave",
-      "url": "https://www.robertsapolskyrocks.com/behave"
-    },
-    {
-      "id": 2,
       "title": "Penguin Random House - Behave",
       "url": "https://www.penguinrandomhouse.com/books/311787/behave-by-robert-m-sapolsky/"
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Stanford - Robert Sapolsky",
       "url": "https://profiles.stanford.edu/robert-sapolsky"
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Nature Reviews Neuroscience - Stress and the brain",
       "url": "https://www.nature.com/articles/nrn2639"
     }
@@ -57,10 +50,6 @@
         "Gece karanlığında çalıdan ses geldiğinde beyniniz daha ne olduğunu anlamadan bedeniniz gerilir. Bir saniye sonra bunun kedi olduğunu görüp rahatlarsınız. Davranış, bilinçli hikâyemizden önce başlayan hızlı değerlendirmeler taşır.",
         "Bu yaklaşım kişiyi robota çevirmez; tek açıklamalı ahlak masalını zorlar. Niyet önemlidir ama niyet de algı, hafıza, beden ve durum içinden oluşur.",
         "Bir tartışmada 'nasıl böyle yaptı?' demeden önce o saniyede ne gördüğünü, neyi tehdit saydığını ve hangi seçeneği fark edebildiğini sormak daha açıklayıcıdır."
-      ],
-      "extraParagraphs": [
-        "Davranışın görünen anından hemen önce beyin, çevreyi çoktan tehdit ya da fırsat olarak değerlendirmeye başlamıştır. Şimdi uykusuz bir gecenin ertesi sabahı verilen acele kararı düşünün. Sapolsky davranışın nedenini bir saniye öncesinden çocukluğa ve evrime kadar geriye sarar. Böylece “Bir saniye önce” uzak bir teori olmaktan çıkıp sonuç üreten bir ilişkiye dönüşür.",
-        "İki ihtimali yan yana koyalım. İlkinde aile tartışmasında bedenin sözlerden önce gerilmesini görürüz; ikincisinde ise koşullardan yalnız biri değişmiş olsun. Sonuç değişiyorsa “Bir saniye önce” bir etiket değil, ilişki tarifidir. Biz ve onlar sınırı şaşırtıcı hızla değişebilir; biyoloji bu toplumsal çizgiye göre çalışır. Biyolojik etki kader veya değişmez karakter anlamına gelmez. Kitabın düşüncesi tam bu karşılaştırmada akılda kalır: Tek örnekten yasa çıkarmadan, hangi ayrıntının sonucu çevirdiğini izlemek gerekir."
       ]
     },
     {
@@ -72,10 +61,6 @@
         "Kalabalıkta tanımadığınız birinin hızla yaklaşması aynı hareket olmasına rağmen karanlık sokakta tehdit, havaalanında kavuşma olabilir. Amigdala görüntüyü bağlamdan kopuk bir alarm gibi okumaz.",
         "Beyinde hiçbir bölge tek başına ahlak, şiddet ya da sevgi üretmez. Amigdala prefrontal korteks, hafıza ve beden sinyalleriyle konuşur. Bölge adını neden sanmak, orkestradaki tek çalgıyı besteci saymaktır.",
         "Güncel beyin haberlerinde 'şu bölge yandı, demek ki...' cümlesine temkinli yaklaşmak gerekir. Aktivite ilişki gösterir; tek başına niyet ve kader göstermez."
-      ],
-      "extraParagraphs": [
-        "Amigdala tek bir korku düğmesi değil, bağlama göre önem ve tehdit işaretlerini değerlendiren ağın parçasıdır. Buradaki mantığı gündelik hayatta kalabalık otobüste yanlış anlaşılan bir bakışı üzerinden de okuyabiliriz. Beyin bölgesi, hormon ve gen tek başına iyilik ya da şiddet düğmesi değildir. “Amigdala: korku düğmesi değil” başlığı tam bu nedenle tek bir tanımdan daha fazlasını taşır.",
-        "Bu bölümü bir sohbet sırasında anlattığınızı düşünün. Karşınızdaki kişi “Amigdala: korku düğmesi değil fikri iyi de, bunun sınırı nerede?” diye sorsun. En dürüst cevap şudur: Beyin araştırmalarındaki ilişki tek başına davranışın kesin nedeni değildir. Buna rağmen Sapolsky davranışın nedenini bir saniye öncesinden çocukluğa ve evrime kadar geriye sarar. Tanıdık bir odanın tek ayrıntı değişince yabancılaşmasını gibi sıradan bir olay, soyut görünen fikrin hayatın içinde nerede işe yaradığını ve nerede başka bir açıklamaya ihtiyaç bıraktığını gösterir."
       ]
     },
     {
@@ -87,9 +72,6 @@
         "Diyet yaptığınızı sabah hatırlamak kolaydır; gece uykusuz ve açken pastanın önünde aynı karar zorlaşır. Fren sistemi bozulmuş değildir, kaynakları ve rakip dürtüler değişmiştir.",
         "Prefrontal korteksi saf iyilik merkezi saymak da yanlıştır. Aynı planlama becerisi yardım kampanyası düzenlemek için de soğukkanlı dolandırıcılık yapmak için de kullanılabilir.",
         "İş yerinde hata yapan kişiye yalnız karakter dersi vermek yerine uyku, zaman baskısı ve karar ortamını düzeltmek davranışı daha kalıcı biçimde değiştirebilir."
-      ],
-      "extraParagraphs": [
-        "Prefrontal denetim güçlü bir fren olabilir ama yorgunluk, stres ve bağlama göre gücü değişir. Aynı fikri küçültüp aile tartışmasında bedenin sözlerden önce gerilmesini gözümüzün önüne getirelim. Stres tehdit algısını daraltıp kişinin görebildiği seçenekleri azaltabilir. Ayrıntılar yan yana gelince “Prefrontal korteksin zor freni” sözünün hangi soruna cevap verdiği belirginleşir."
       ]
     },
     {
@@ -101,9 +83,6 @@
         "Telefon bildirimi geldiğinde henüz iyi haber okumadan ekrana uzanırsınız. Heyecan ödülün kendisinden çok gelebilecek şeydedir. Belirsiz aralıklarla gelen küçük ödüller davranışı güçlü biçimde bağlayabilir.",
         "Dopamin kötü değildir; hedefe yönelme ve öğrenme için gereklidir. Sorun, sistemin kumar, sosyal medya ya da sürekli alışveriş gibi çevrelerce bitmeyen beklentiye kilitlenebilmesidir.",
         "Kendimizi 'iradesiz' diye suçlamak yerine hangi ipuçlarının beklenti döngüsü kurduğunu görmek, ortamı değiştirmek için somut başlangıç verir."
-      ],
-      "extraParagraphs": [
-        "Dopamin çoğu zaman ödülün tadından çok, birazdan gelebilecek ödülün beklentisini güçlendirir. Bu görüntünün yanına tanıdık bir odanın tek ayrıntı değişince yabancılaşmasını koyduğumuzda aradaki akrabalık şaşırtıcıdır. Biz ve onlar sınırı şaşırtıcı hızla değişebilir; biyoloji bu toplumsal çizgiye göre çalışır. “Dopamin: haz değil beklenti” böylece ezberlenecek söz değil, bakılacak bağlantı olur."
       ]
     },
     {
@@ -115,9 +94,6 @@
         "Bir spor takımında alkış sert müdahaleye gidiyorsa oyuncu sertleşir; aynı hormon düzeyi saygınlığın centilmenlikten geldiği ortamda farklı davranabilir. Hormon melodiyi tek başına yazmaz, sesini yükseltir.",
         "Oksitosin de evrensel sevgi sıvısı değildir. Yakın gruba güveni artırırken yabancıya kuşkuyu büyütebilir. Biyoloji 'biz' duygusunu güçlendirir ama o bizin sınırını kültür çizer.",
         "Hormon etiketleri cinsiyet ve şiddet hakkında kolay mazeret üretmemeli. Beden etkiler; sosyal kural, öğrenme ve hesap verebilirlik bu etkinin yönünü değiştirir."
-      ],
-      "extraParagraphs": [
-        "Hormonlar davranışın tek bestecisi değil, bağlamda çalan eğilimlerin sesini değiştiren düğmeler gibidir. Konuyu bir an için kitaptan çıkarıp uykusuz bir gecenin ertesi sabahı verilen acele kararı ele alalım. Sapolsky davranışın nedenini bir saniye öncesinden çocukluğa ve evrime kadar geriye sarar. Bu küçük karşılaştırma “Hormonlar davranışı emretmez” fikrinin gerçek hayatta nerede görünür olduğunu gösterir."
       ]
     },
     {
@@ -129,9 +105,6 @@
         "Yangın alarmı beş dakika çalarsa hayat kurtarır, aylarca susmazsa binada kimse düşünemez. Yoksulluk, ayrımcılık ve güvencesizlik bedeni böyle uzun bir alarmda tutabilir.",
         "Sapolsky stresi yalnız kişisel zayıflık saymaz. Denetim duygusu, öngörülebilirlik, sosyal destek ve hiyerarşideki yer biyolojik yükü değiştirir.",
         "Bu nedenle nefes egzersizi yararlı olsa da kötü çalışma koşullarının yerine geçmez. Sağlık, bireysel başa çıkma ile toplumsal düzenin birlikte ele alınmasını ister."
-      ],
-      "extraParagraphs": [
-        "Kısa alarm korur; hiç susmayan stres alarmı bedenin ve kararların ufkunu daraltır. İlk bakışta uzak duran kalabalık otobüste yanlış anlaşılan bir bakışı aslında aynı düzenin küçük bir örneğini verir. Beyin bölgesi, hormon ve gen tek başına iyilik ya da şiddet düğmesi değildir. Bu ayrıntı, “Stres altında daralan dünya” bölümünün ana hareketini akılda tutmayı kolaylaştırır."
       ]
     },
     {
@@ -143,9 +116,6 @@
         "Sürekli bağırılan evde çocuk en küçük yüz hareketini tehlike işareti olarak öğrenebilir. Yıllar sonra nötr bir bakışı küçümseme sanması mantıksız karakter değil, geçmişte işe yarayan hassas alarmın yeni yerde çalışması olabilir.",
         "Erken deneyim kader değildir. Beyin yaşam boyunca değişir; güvenli ilişkiler, eğitim ve tedavi yeni yollar kurabilir. Olasılık yükselir, sonuç mühürlenmez.",
         "Çocuk politikası bu yüzden yalnız ahlaki iyilik değil uzun dönemli halk sağlığıdır. Güvenli bakım gelecekteki karar sistemlerinin altyapısına yatırım yapar."
-      ],
-      "extraParagraphs": [
-        "Çocukluk deneyimleri beynin tehdit ve güven eşiğini ayarlar ama geleceği değişmez biçimde mühürlemez. Bunu anlatmanın en kısa yolu aile tartışmasında bedenin sözlerden önce gerilmesini zihinde canlandırmaktır. Stres tehdit algısını daraltıp kişinin görebildiği seçenekleri azaltabilir. O anda “Çocukluk beyne nasıl yazılır” kuru bir kavram olmaktan çıkar ve yaşanan bir durumun içine yerleşir."
       ]
     },
     {
@@ -157,9 +127,6 @@
         "Genç sürücü yalnızken sakin, arkadaşları arabadayken hızlı sürebilir. Motor aynı, yol aynı; fakat sosyal ödül hesabı değişir. Ergenlik davranışını yalnız bilgisizlik açıklamaz.",
         "Bu dönem aynı zamanda yaratıcılık, cesaret ve adalet duyarlılığı taşır. Risk alma yalnız sorun değil, eski düzeni sorgulama ve yeni bağlar kurma gücüdür.",
         "Yetişkinlerin görevi yalnız yasak koymak değil, güvenli risk alanları ve ait olunacak olumlu gruplar yaratmaktır. Çevre, gaz ile fren arasındaki dengeyi etkiler."
-      ],
-      "extraParagraphs": [
-        "Ergenlikte toplumsal ödülün gazı erken güçlenirken uzun vadeli denetimin freni daha yavaş olgunlaşır. Gündelik karşılığı arandığında tanıdık bir odanın tek ayrıntı değişince yabancılaşmasını iyi bir büyüteç olur. Biz ve onlar sınırı şaşırtıcı hızla değişebilir; biyoloji bu toplumsal çizgiye göre çalışır. “Ergen beyninin gazı ve freni” fikri bu büyüteç altında nedenleri ve sonuçlarıyla birlikte görünür."
       ]
     },
     {
@@ -171,9 +138,6 @@
         "Derbi günü farklı forma giyen komşu rakiptir; deprem olduğunda aynı enkazın gönüllüsüdür. Kategori değişince yüz aynı kalsa da duygu ve yardım davranışı değişir.",
         "Hızlı grupçuluk biyolojik yatkınlık taşısa da sınırları kültür ve siyaset çizer. Liderler tehdidi büyüterek kategoriyi sertleştirebilir, kurumlar ortak kimliği genişletebilir.",
         "Önyargıyla mücadele yalnız 'iyi insan ol' çağrısı değil, işbirliği gerektiren temas ve ortak hedef tasarımıdır. Biz sözcüğünün çapı büyütülebilir."
-      ],
-      "extraParagraphs": [
-        "Grup sınırı yüzlerden daha hızlı değişebilir; ortak amaç dünün yabancısını bugünün ortağı yapabilir. Şimdi ölçeği değiştirip uykusuz bir gecenin ertesi sabahı verilen acele kararı ele alalım. Sapolsky davranışın nedenini bir saniye öncesinden çocukluğa ve evrime kadar geriye sarar. Kitabın “Biz ve onlar bir anda değişebilir” derken işaret ettiği şey, bu sıradan ayrıntının içinde yeniden karşımıza çıkar."
       ]
     },
     {
@@ -185,9 +149,6 @@
         "Çürük kokusuna verdiğimiz yüz ifadesinin bir insan topluluğunu anlatan konuşmada tekrarlandığını düşünün. Dil, biyolojik kaçınma sistemini toplumsal nefrete bağlayabilir.",
         "Ahlaki yargı yalnız tiksinmeden oluşmaz; empati, zarar, adalet ve gelenek de rol oynar. Fakat tiksinme güçlü olduğunda kanıt ve bireysel farklılık görünmez hale gelebilir.",
         "Bir söylem insanları haşere, mikrop ya da pislik benzetmeleriyle anlatıyorsa bu yalnız kaba söz değildir; şiddetin duygusal zeminini hazırlayabilir."
-      ],
-      "extraParagraphs": [
-        "Bedensel tiksinme dili toplumsal gruplara yöneldiğinde dışlama ve şiddeti kolaylaştırabilir. Benzer bir ilişkiyi kalabalık otobüste yanlış anlaşılan bir bakışı izlerken de yakalayabiliriz. Beyin bölgesi, hormon ve gen tek başına iyilik ya da şiddet düğmesi değildir. Bu yüzden “Ahlaki tiksinmenin tehlikeli yolu” yalnız kitaba ait bir başlık değil, hayatı okurken kullanılabilecek bir dikkat biçimidir."
       ]
     },
     {
@@ -199,9 +160,6 @@
         "Haberlerde adı ve fotoğrafı olan bir çocuğa yardım etmek kolaydır; aynı bütçeyle yüzlerce görünmeyen çocuğun aşısını düşünmek daha soyuttur. Duygunun şiddeti her zaman toplam yararla aynı yönde değildir.",
         "Sapolsky empatiyi değersizleştirmez; merhameti ilke ve kurumlarla tamamlamayı ister. Yalnız hissettiğimiz kişiye değil, görmediğimiz kişiye de adil davranacak düzen gerekir.",
         "Bağış ve kamu politikalarında hikâye ile veri birlikte kullanılabilir. Kalp kapıyı açar, hesap yardımın nereye ulaşacağını düzeltir."
-      ],
-      "extraParagraphs": [
-        "Empati bir yüzü güçlü biçimde aydınlatırken istatistik içindeki görünmeyen kalabalığı karanlıkta bırakabilir. Bu sahneyi unutmamak için yanına aile tartışmasında bedenin sözlerden önce gerilmesini yerleştirin. Stres tehdit algısını daraltıp kişinin görebildiği seçenekleri azaltabilir. İki görüntü arasındaki bağ, “Empatinin spot ışığı” bölümünün neden önemli olduğunu uzun bir tanımdan daha iyi anlatır."
       ]
     },
     {
@@ -213,9 +171,6 @@
         "Aynı kırık cam bir hırsızın planı, çocuğun kazası ya da öfkeli kalabalığın eylemi olabilir. Camı görmek nedeni söylemez. Müdahale de nedene göre değişmelidir.",
         "'Şiddet geni' ya da 'kötü beyin' açıklaması bu çeşitliliği siler. Genetik, erken yaşam, hormon, anlık tehdit, propaganda ve cezasızlık birbirine eklenebilir.",
         "Önleme politikası yalnız cezayı artırmakla yetinemez; silaha erişim, çocukluk stresi, grup dili ve adil kurumlar gibi farklı zaman ölçeklerine dokunmalıdır."
-      ],
-      "extraParagraphs": [
-        "Aynı şiddet görüntüsüne korku, plan, statü ve grup sadakati gibi farklı yollar ulaşabilir. Meselenin gündelik yüzü tanıdık bir odanın tek ayrıntı değişince yabancılaşmasını fark ettiğimiz anda ortaya çıkar. Biz ve onlar sınırı şaşırtıcı hızla değişebilir; biyoloji bu toplumsal çizgiye göre çalışır. Böyle bakınca “Şiddet tek bir canavar değildir” büyük sözlerden değil, küçük koşulların birleşmesinden oluşur."
       ]
     },
     {
@@ -227,9 +182,6 @@
         "Aynı yoğun işi yapan iki kişiden biri vardiyasını seçebiliyor, diğeri her an çağrılmayı bekliyorsa beden yükü farklı olur. Kontrol duygusu stres tepkisini değiştirir.",
         "Primat türleri ve insan toplumları aynı değildir; Sapolsky hayvan bulgusunu doğrudan siyasi reçeteye çevirmemeye dikkat eder. Yine de toplumsal sıralamanın biyolojik iz bırakabildiği açıktır.",
         "İş sağlığı maaşın yanında öngörülebilir program, saygı ve karar payını da hesaba katmalıdır. Adalet hissi bedensel bir meseledir."
-      ],
-      "extraParagraphs": [
-        "Söz hakkı olmayan ve aşağılanmaya açık hiyerarşi, toplumsal konumu kronik bedensel strese çevirebilir. Bir arkadaşınıza anlatır gibi uykusuz bir gecenin ertesi sabahı verilen acele kararı örnek olarak verin. Sapolsky davranışın nedenini bir saniye öncesinden çocukluğa ve evrime kadar geriye sarar. Bu örnek “Hiyerarşinin bedene girişi” düşüncesinin neyi değiştirdiğini, soyut sözcüklerden daha hızlı gösterir."
       ]
     },
     {
@@ -241,9 +193,6 @@
         "Bir tohumun boyu genetik özellik taşır ama su, ışık ve toprak olmadan sonuç bilinmez. Davranış genetiği de tohum paketindeki etiketten ibaret değildir.",
         "Kalıtsallık bir toplumdaki farkların oranını anlatabilir; değiştirilemezlik söylemez. Göz bozukluğu yüksek ölçüde kalıtsal olsa da gözlük sonucu dramatik biçimde değiştirir.",
         "Gen haberi okurken 'hangi çevrede, ne kadar etki, hangi nüfusta?' sorularını sormak gerekir. Biyoloji kader cümlesinden daha koşulludur."
-      ],
-      "extraParagraphs": [
-        "Genetik eğilim, çevrenin ışığı ve suyu içinde büyüyen bir olasılıktır; değişmez emir değildir. Aynı soruyu kalabalık otobüste yanlış anlaşılan bir bakışı üzerinden sorduğumuzda cevap daha elle tutulur hale gelir. Beyin bölgesi, hormon ve gen tek başına iyilik ya da şiddet düğmesi değildir. “Genler olasılık yazar, emir değil” başlığının ağırlığı da tam burada, görünmeyen ilişkiyi açığa çıkarmasında yatar."
       ]
     },
     {
@@ -255,9 +204,6 @@
         "İnsanların tatlı sevmesini kıtlık geçmişiyle ilişkilendirmek makul olabilir; belirli bir ofis modasını aynı rahatlıkla atalara bağlamak zorlama olur. Güzel hikâye test yerine geçmez.",
         "Kültür evrimsel eğilimlerin üstüne yalnız boya sürmez; yeni seçenekler, kurumlar ve geri beslemeler kurar. İnsanlar biyolojik geçmişlerinden öğrenip ona karşı düzen tasarlayabilir.",
         "Sapolsky'nin güçlü yanı düzeyleri yan yana getirmesidir. Evrim uzak zemin, çocukluk ayar, hormon bağlam ve bir saniye önceki sinyal birlikte davranışa yaklaşır."
-      ],
-      "extraParagraphs": [
-        "Evrimsel açıklama çekici bir masal değil, alternatiflere karşı sınanması gereken uzak zamanlı bir hipotezdir. Bu görüntüden günlük hayata uzanan köprüyü aile tartışmasında bedenin sözlerden önce gerilmesini düşünerek kurabiliriz. Stres tehdit algısını daraltıp kişinin görebildiği seçenekleri azaltabilir. Köprünün öteki ucunda “Evrim her davranışa masal yazmaz” fikri, okurun kendi deneyimiyle sınanabilecek açıklığa kavuşur."
       ]
     },
     {
@@ -269,9 +215,6 @@
         "Freni arızalı araç kazaya neden olduğunda sürücüyü alkışlamayız ama çözüm yalnız öfke değildir; aracı durdurur ve sistemi onarırız. İnsan daha karmaşıktır, fakat güvenlik ile intikam ayrımı düşündürücüdür.",
         "Nedenleri anlamak tehlikeli kişiyi serbest bırakmayı gerektirmez. Toplum korunabilir; soru, acı çektirmeyi ahlaki amaç sayıp saymadığımızdır.",
         "Ceza tartışmasında 'hak etti' cümlesinin yanına 'hangi müdahale tekrarını azaltır?' sorusunu koymak kitabın en zor ama verimli mirasıdır."
-      ],
-      "extraParagraphs": [
-        "Nedenleri görmek güvenliği kaldırmaz; intikam yerine koruma, onarım ve tekrarın azaltılmasını öne çıkarır. Son bir yakın plan olarak tanıdık bir odanın tek ayrıntı değişince yabancılaşmasını düşünelim. Biz ve onlar sınırı şaşırtıcı hızla değişebilir; biyoloji bu toplumsal çizgiye göre çalışır. Böyle bir ayrıntı “Özgür irade ve sorumluluk düğümü” bölümünü yalnız anlamamızı değil, daha sonra doğru yerde hatırlamamızı da sağlar."
       ]
     },
     {

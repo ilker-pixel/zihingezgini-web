@@ -12,8 +12,6 @@
   "chapterArtColor": "#6A644D",
   "meta": {
     "originalTitle": "Second Treatise of Government",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Bir yönetici size 'Ben güçlüyüm, o halde yönetme hakkım var' dese ikna olur musunuz? Locke güç ile hakkı ayırır. İnsanların devleti kurmadan önce de yaşam, özgürlük ve mülkiyet hakları bulunduğunu; yönetimin bu hakları korumadığı anda meşruiyetini kaybettiğini savunur.",
@@ -46,10 +44,10 @@
       "section": "BİRİNCİ KISIM · TEMEL",
       "title": "Siyasi iktidar nedir?",
       "paragraphs": [
-        "Locke siyasi iktidarı mülkiyeti korumak için yasa yapma ve bu yasaları toplum yararına uygulama hakkı olarak tanımlar. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
-        "Apartman yöneticisinin ortak bütçeyi kullanma yetkisi kendi zenginliği için değil, binanın güvenlik ve bakım işi içindir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Amaç kamu yararı olsa da kimin 'yarar' tanımını yaptığı ayrı bir siyasi mücadeledir. Betimleme ile onay aynı şey değildir: Bir düzenin nasıl çalıştığını anlatmak onun doğru olduğunu söylemez.",
-        "Bir yetkiyi değerlendirirken kaynağını, sınırını, hangi amaçla verildiğini ve kötü kullanım halinde kime hesap verdiğini birlikte sormak gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+        "Locke siyasi iktidarı mülkiyeti korumak için yasa yapma ve bu yasaları toplum yararına uygulama hakkı olarak tanımlar.",
+        "Apartman yöneticisinin ortak bütçeyi kullanma yetkisi kendi zenginliği için değil, binanın güvenlik ve bakım işi içindir.",
+        "Amaç kamu yararı olsa da kimin 'yarar' tanımını yaptığı ayrı bir siyasi mücadeledir.",
+        "Bir yetkiyi değerlendirirken kaynağını, sınırını, hangi amaçla verildiğini ve kötü kullanım halinde kime hesap verdiğini birlikte sormak gerekir."
       ]
     },
     {
@@ -57,13 +55,10 @@
       "section": "BİRİNCİ KISIM · DOĞA DURUMU",
       "title": "Doğa durumu: Özgür ama kuralsız değil",
       "paragraphs": [
-        "Devlet öncesi insanlar özgür ve eşittir; fakat başkasının yaşamına, sağlığına, özgürlüğüne veya malına zarar vermeyi yasaklayan doğa yasasına bağlıdır. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
-        "Issız adada iki yabancı bulunması birinin ötekine efendi olduğu anlamına gelmez; ikisi de karşılıklı sınır taşır. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
-        "Locke'un evrensel insan dili kendi çağında kadın, hizmetçi, yoksul ve sömürgeleştirilmiş halklara eşit uygulanmamıştır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
-        "Resmî kural bulunmayan bir ortamda bile güçlü kişinin her istediğini hak saymamak, özgürlük ile keyfiliği ayırır. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Doğa durumu: Özgür ama kuralsız değil” ile Yönetim Üzerine İkinci İnceleme kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Devlet öncesi insanlar özgür ve eşittir; fakat başkasının yaşamına, sağlığına, özgürlüğüne veya malına zarar vermeyi yasaklayan doğa yasasına bağlıdır.",
+        "Issız adada iki yabancı bulunması birinin ötekine efendi olduğu anlamına gelmez; ikisi de karşılıklı sınır taşır.",
+        "Locke'un evrensel insan dili kendi çağında kadın, hizmetçi, yoksul ve sömürgeleştirilmiş halklara eşit uygulanmamıştır.",
+        "Resmî kural bulunmayan bir ortamda bile güçlü kişinin her istediğini hak saymamak, özgürlük ile keyfiliği ayırır."
       ]
     },
     {
@@ -71,10 +66,10 @@
       "section": "BİRİNCİ KISIM · DOĞA DURUMU",
       "title": "Cezalandırma hakkının çıkmazı",
       "paragraphs": [
-        "Doğa yasası herkesi bağladığı için onu çiğneyeni durdurma ve zararı giderme yetkisi başlangıçta herkese aittir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Komşunun mahsulünü yakan kişiyi ortak yargıç yokken mağdur ve yakınları durdurmaya çalışır. Örnek tek başına kanıt değildir; yine de iddianın hangi yönde sınanacağını gösteren sağlam bir büyüteçtir.",
-        "İnsan kendi davasında taraf olduğu için öfke, intikam ve ölçüsüz ceza doğa durumunu güvensiz kılar. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
-        "Bir anlaşmazlıkta tarafsız karar mekanizmasının neden gerekli olduğunu düşünmek devletin varlık gerekçesini somutlaştırır. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
+        "Doğa yasası herkesi bağladığı için onu çiğneyeni durdurma ve zararı giderme yetkisi başlangıçta herkese aittir.",
+        "Komşunun mahsulünü yakan kişiyi ortak yargıç yokken mağdur ve yakınları durdurmaya çalışır.",
+        "İnsan kendi davasında taraf olduğu için öfke, intikam ve ölçüsüz ceza doğa durumunu güvensiz kılar.",
+        "Bir anlaşmazlıkta tarafsız karar mekanizmasının neden gerekli olduğunu düşünmek devletin varlık gerekçesini somutlaştırır."
       ]
     },
     {
@@ -82,13 +77,10 @@
       "section": "BİRİNCİ KISIM · SAVAŞ",
       "title": "Savaş durumu ayrı bir şeydir",
       "paragraphs": [
-        "Doğa durumu zorunlu savaş değildir; birinin diğerinin yaşamı üzerinde keyfî güç kurmaya kalkması savaş durumunu başlatır. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "Silahlı hırsız cüzdandan fazlasını ister: Kişiyi kendi iradesine bağlayabilecek güç kullandığı için direniş hakkı doğar. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Tehdit tanımını genişletmek her çatışmayı savaşa çevirip aşırı şiddeti haklı gösterebilir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
-        "Bir müdahalede gerçek ve yakın tehditle yalnız hoşnutsuzluğu ayırmak, güç kullanımının sınırını korur. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Savaş durumu ayrı bir şeydir” ile Yönetim Üzerine İkinci İnceleme kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Doğa durumu zorunlu savaş değildir; birinin diğerinin yaşamı üzerinde keyfî güç kurmaya kalkması savaş durumunu başlatır.",
+        "Silahlı hırsız cüzdandan fazlasını ister: Kişiyi kendi iradesine bağlayabilecek güç kullandığı için direniş hakkı doğar.",
+        "Tehdit tanımını genişletmek her çatışmayı savaşa çevirip aşırı şiddeti haklı gösterebilir.",
+        "Bir müdahalede gerçek ve yakın tehditle yalnız hoşnutsuzluğu ayırmak, güç kullanımının sınırını korur."
       ]
     },
     {
@@ -96,10 +88,10 @@
       "section": "İKİNCİ KISIM · ÖZGÜRLÜK",
       "title": "Kölelik ve vazgeçilemeyen özgürlük",
       "paragraphs": [
-        "Locke insanın kendi yaşamı üzerinde mutlak sahibi olmadığı için kendini sınırsız ve keyfî egemenliğe satamayacağını savunur. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
-        "Borçlu kişi çalışma sözü verebilir; fakat alacaklıya istediği an öldürme hakkı veremez. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
-        "Locke savaş esirliği için açtığı istisna ve sömürge yatırımları nedeniyle ciddi bir tarihsel çelişki taşır. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Bir sözleşmede tarafların kâğıt üzerinde rıza göstermesi, koşulların insan onurunu yok saymasını otomatik olarak meşru kılmaz. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Locke insanın kendi yaşamı üzerinde mutlak sahibi olmadığı için kendini sınırsız ve keyfî egemenliğe satamayacağını savunur.",
+        "Borçlu kişi çalışma sözü verebilir; fakat alacaklıya istediği an öldürme hakkı veremez.",
+        "Locke savaş esirliği için açtığı istisna ve sömürge yatırımları nedeniyle ciddi bir tarihsel çelişki taşır.",
+        "Bir sözleşmede tarafların kâğıt üzerinde rıza göstermesi, koşulların insan onurunu yok saymasını otomatik olarak meşru kılmaz."
       ]
     },
     {
@@ -107,13 +99,10 @@
       "section": "İKİNCİ KISIM · MÜLKİYET",
       "title": "Mülkiyet emekle başlar",
       "paragraphs": [
-        "Ortak doğadan alınan şeye kişinin emeğini katması onu özel mülk haline getirebilir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
-        "Kimsenin toplamadığı elmayı dalından koparan kişi toplama emeğiyle onu ortak alandan kendi kullanımına geçirir. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
-        "Emek karışımı benzetmesi büyük toprak sahipliğinin, mirasın ve ücretli emeğin bütün sorunlarını tek başına çözmez. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Bir ürünün kime ait olduğunu tartışırken ham maddeyi, emeği, aracı, altyapıyı ve hukuki korumayı birlikte görmek gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Mülkiyet emekle başlar” ile Yönetim Üzerine İkinci İnceleme kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Ortak doğadan alınan şeye kişinin emeğini katması onu özel mülk haline getirebilir.",
+        "Kimsenin toplamadığı elmayı dalından koparan kişi toplama emeğiyle onu ortak alandan kendi kullanımına geçirir.",
+        "Emek karışımı benzetmesi büyük toprak sahipliğinin, mirasın ve ücretli emeğin bütün sorunlarını tek başına çözmez.",
+        "Bir ürünün kime ait olduğunu tartışırken ham maddeyi, emeği, aracı, altyapıyı ve hukuki korumayı birlikte görmek gerekir."
       ]
     },
     {
@@ -121,10 +110,10 @@
       "section": "İKİNCİ KISIM · MÜLKİYETİN SINIRI",
       "title": "Yeterince ve aynı iyilikte bırakmak",
       "paragraphs": [
-        "İlk edinme başkalarına yeterli ve benzer nitelikte kaynak bırakıldığı sürece haklı sayılır. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
-        "Nehirden bir testi su almak kimseyi susuz bırakmaz; bütün kaynağı çitle çevirmek aynı işlem değildir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Nüfus, kıtlık ve ekolojik sınırlar büyüdüğünde 'yeterince kaldı' koşulunun ne zaman bozulduğu tartışmalıdır. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
-        "Doğal kaynağı kullanan projenin yalnız yasal iznine değil, geride kalan ortak imkâna da bakmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+        "İlk edinme başkalarına yeterli ve benzer nitelikte kaynak bırakıldığı sürece haklı sayılır.",
+        "Nehirden bir testi su almak kimseyi susuz bırakmaz; bütün kaynağı çitle çevirmek aynı işlem değildir.",
+        "Nüfus, kıtlık ve ekolojik sınırlar büyüdüğünde 'yeterince kaldı' koşulunun ne zaman bozulduğu tartışmalıdır.",
+        "Doğal kaynağı kullanan projenin yalnız yasal iznine değil, geride kalan ortak imkâna da bakmak gerekir."
       ]
     },
     {
@@ -132,10 +121,10 @@
       "section": "İKİNCİ KISIM · BİRİKİM",
       "title": "Çürüme sınırı ve paranın gelişi",
       "paragraphs": [
-        "İnsan kullanabileceğinden fazlasını alıp çürütmemelidir; dayanıklı para üzerinde anlaşma bu doğal sınırı aşan birikime izin verir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
-        "Bir aile yüz elma toplayıp doksanını çürütürse ortak kaynağı boşuna azaltır; elmaları bozulmayan madeni parayla değiştirmek kaybı erteler. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
-        "Para için örtük rıza iddiası büyük servet eşitsizliklerinin gerçek rıza ve güç sorununu çözmez. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Biriktirmenin yalnız israfı önleyip önlemediğini değil, başkalarının erişimini ve pazarlık gücünü nasıl değiştirdiğini de sormak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+        "İnsan kullanabileceğinden fazlasını alıp çürütmemelidir; dayanıklı para üzerinde anlaşma bu doğal sınırı aşan birikime izin verir.",
+        "Bir aile yüz elma toplayıp doksanını çürütürse ortak kaynağı boşuna azaltır; elmaları bozulmayan madeni parayla değiştirmek kaybı erteler.",
+        "Para için örtük rıza iddiası büyük servet eşitsizliklerinin gerçek rıza ve güç sorununu çözmez.",
+        "Biriktirmenin yalnız israfı önleyip önlemediğini değil, başkalarının erişimini ve pazarlık gücünü nasıl değiştirdiğini de sormak gerekir."
       ]
     },
     {
@@ -143,10 +132,10 @@
       "section": "ÜÇÜNCÜ KISIM · AİLE",
       "title": "Baba iktidarı siyasi iktidar değildir",
       "paragraphs": [
-        "Çocuklar akıl ve bağımsızlık gelişene kadar bakım otoritesine bağlıdır; bu geçici görev hükümdarın yetişkinler üzerindeki mutlak hakkına benzemez. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
-        "Ebeveyn küçük çocuğun yol güvenliğine karar verir ama yetişkin çocuğun bütün hayatını sonsuza dek yönetme hakkı kazanmaz. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
-        "Locke aile içindeki cinsiyet eşitsizliğini bütünüyle aşmaz ve bakım emeğini dar ele alır. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Koruma gerekçesiyle verilen yetkinin ne zaman sona ereceğini açıkça belirlemek, bakımı vesayete dönüşmekten korur. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+        "Çocuklar akıl ve bağımsızlık gelişene kadar bakım otoritesine bağlıdır; bu geçici görev hükümdarın yetişkinler üzerindeki mutlak hakkına benzemez.",
+        "Ebeveyn küçük çocuğun yol güvenliğine karar verir ama yetişkin çocuğun bütün hayatını sonsuza dek yönetme hakkı kazanmaz.",
+        "Locke aile içindeki cinsiyet eşitsizliğini bütünüyle aşmaz ve bakım emeğini dar ele alır.",
+        "Koruma gerekçesiyle verilen yetkinin ne zaman sona ereceğini açıkça belirlemek, bakımı vesayete dönüşmekten korur."
       ]
     },
     {
@@ -154,10 +143,10 @@
       "section": "ÜÇÜNCÜ KISIM · TOPLUM",
       "title": "Siyasi toplum neden kurulur?",
       "paragraphs": [
-        "İnsanlar doğa durumundaki tarafsız yasa, yargıç ve uygulama eksikliğini gidermek için cezalandırma yetkilerini topluma devreder. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
-        "Mahallede herkes kendi park kavgasına ceza keserse çatışma büyür; ortak ve önceden bilinen kural güven sağlar. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
-        "Devlet sorunu çözmek için kurulur ama aynı gücü kötüye kullanabilecek yeni bir merkez de yaratır. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Bir kuruma yetki verirken çözmesini beklediğiniz sorunu ve yetkinin kendisinin doğuracağı yeni riski aynı anda yazmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+        "İnsanlar doğa durumundaki tarafsız yasa, yargıç ve uygulama eksikliğini gidermek için cezalandırma yetkilerini topluma devreder.",
+        "Mahallede herkes kendi park kavgasına ceza keserse çatışma büyür; ortak ve önceden bilinen kural güven sağlar.",
+        "Devlet sorunu çözmek için kurulur ama aynı gücü kötüye kullanabilecek yeni bir merkez de yaratır.",
+        "Bir kuruma yetki verirken çözmesini beklediğiniz sorunu ve yetkinin kendisinin doğuracağı yeni riski aynı anda yazmak gerekir."
       ]
     },
     {
@@ -165,13 +154,10 @@
       "section": "ÜÇÜNCÜ KISIM · MEŞRUİYET",
       "title": "Rıza: Sessiz mi açık mı?",
       "paragraphs": [
-        "Meşru yönetimin temeli yönetilenlerin rızasıdır; Locke açık söz vermeyle ülkenin imkânlarından yararlanırken verilen sessiz rızayı ayırır. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
-        "Yol kullanan yabancı geçici olarak trafik kuralına uyar, fakat bu her siyasi karara sonsuza dek bağlandığı anlamına gelmez. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
-        "Sessiz rıza ölçütü, ülkeyi terk etme gücü olmayan yoksul veya bağımlı insanlar için gerçek seçim sunmayabilir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Bir sözleşmede 'istemiyorsan git' seçeneğinin maliyetini hesaba katmadan rıza var dememek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Sahnedeki zamanı biraz yavaşlattığımızda, “Rıza: Sessiz mi açık mı?” ile Yönetim Üzerine İkinci İnceleme kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Meşru yönetimin temeli yönetilenlerin rızasıdır; Locke açık söz vermeyle ülkenin imkânlarından yararlanırken verilen sessiz rızayı ayırır.",
+        "Yol kullanan yabancı geçici olarak trafik kuralına uyar, fakat bu her siyasi karara sonsuza dek bağlandığı anlamına gelmez.",
+        "Sessiz rıza ölçütü, ülkeyi terk etme gücü olmayan yoksul veya bağımlı insanlar için gerçek seçim sunmayabilir.",
+        "Bir sözleşmede 'istemiyorsan git' seçeneğinin maliyetini hesaba katmadan rıza var dememek gerekir."
       ]
     },
     {
@@ -179,10 +165,10 @@
       "section": "ÜÇÜNCÜ KISIM · KARAR",
       "title": "Çoğunluk neden bağlar?",
       "paragraphs": [
-        "Toplum tek beden olarak hareket edecekse her kararda oybirliği mümkün olmadığından çoğunluk kararı gerekli hale gelir. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "On kişilik kooperatif her küçük konuda herkesin aynı fikirde olmasını beklerse tek bir itiraz bütün hareketi durdurabilir. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
-        "Çoğunluk yöntemi azınlığın temel haklarını çiğneme izni değildir; rıza yönetimin sınırlarını da içerir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
-        "Bir oylamada yalnız kazanan sayıyı değil, kaybedenlerin korunacak haklarını ve yeniden konuşma yolunu da tasarlamak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+        "Toplum tek beden olarak hareket edecekse her kararda oybirliği mümkün olmadığından çoğunluk kararı gerekli hale gelir.",
+        "On kişilik kooperatif her küçük konuda herkesin aynı fikirde olmasını beklerse tek bir itiraz bütün hareketi durdurabilir.",
+        "Çoğunluk yöntemi azınlığın temel haklarını çiğneme izni değildir; rıza yönetimin sınırlarını da içerir.",
+        "Bir oylamada yalnız kazanan sayıyı değil, kaybedenlerin korunacak haklarını ve yeniden konuşma yolunu da tasarlamak gerekir."
       ]
     },
     {
@@ -190,13 +176,10 @@
       "section": "DÖRDÜNCÜ KISIM · KURUMLAR",
       "title": "Yasama en üstün ama sınırsız değil",
       "paragraphs": [
-        "Yasama ortak ve bilinen yasalar yapmalı, keyfî emir vermemeli, mülkiyeti rızasız almamalı ve yasa yapma yetkisini başkasına devretmemelidir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
-        "Meclis bir kişiyi hedefleyen geriye dönük ceza çıkarırsa genel yasa yerine özel intikam aracı olur. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "Mülkiyet koruması vergi ve kamusal yatırımın tümünü yasadışı yapmaz; temsil ve rıza biçimi belirleyicidir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Yeni bir düzenlemenin herkese uygulanıp uygulanmadığını ve karar verenlerin de aynı kurala bağlı olup olmadığını kontrol etmek gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Yasama en üstün ama sınırsız değil” ile Yönetim Üzerine İkinci İnceleme kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Yasama ortak ve bilinen yasalar yapmalı, keyfî emir vermemeli, mülkiyeti rızasız almamalı ve yasa yapma yetkisini başkasına devretmemelidir.",
+        "Meclis bir kişiyi hedefleyen geriye dönük ceza çıkarırsa genel yasa yerine özel intikam aracı olur.",
+        "Mülkiyet koruması vergi ve kamusal yatırımın tümünü yasadışı yapmaz; temsil ve rıza biçimi belirleyicidir.",
+        "Yeni bir düzenlemenin herkese uygulanıp uygulanmadığını ve karar verenlerin de aynı kurala bağlı olup olmadığını kontrol etmek gerekir."
       ]
     },
     {
@@ -205,9 +188,9 @@
       "title": "Yürütme ve ayrıcalık yetkisi",
       "paragraphs": [
         "Yasa her beklenmedik durumu öngöremediği için yürütme bazen kamu yararı adına yazılı kuralın dışında hızlı karar almak zorunda kalabilir.",
-        "Sel sırasında kapalı depoyu açıp yiyecek dağıtmak normal prosedürü ihlal eder ama yaşamı koruyabilir. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "Acil durum dili denetimsiz kalırsa geçici istisna kalıcı keyfî yönetime dönüşebilir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Olağanüstü yetkinin amacı, süresi, kayıt biçimi ve sonradan hesap vermesi baştan belirlenmelidir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
+        "Sel sırasında kapalı depoyu açıp yiyecek dağıtmak normal prosedürü ihlal eder ama yaşamı koruyabilir.",
+        "Acil durum dili denetimsiz kalırsa geçici istisna kalıcı keyfî yönetime dönüşebilir.",
+        "Olağanüstü yetkinin amacı, süresi, kayıt biçimi ve sonradan hesap vermesi baştan belirlenmelidir."
       ]
     },
     {
@@ -216,12 +199,9 @@
       "title": "Fetih hak yaratmaz",
       "paragraphs": [
         "Haksız savaşta kazanan olmak yönetme hakkı vermez; haklı savaşın galibi bile yalnız saldırganlar üzerinde sınırlı tazmin yetkisi kazanır.",
-        "Silahla evi ele geçiren hırsız tapu sahibi olmaz; zafer güç dengesini değiştirir ama geçmiş haksızlığı hakka çeviremez. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
-        "Tarihte haklı savaşın kim tarafından belirlendiği ve sivillerin mülkiyeti ciddi belirsizlik taşır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
-        "Bir kurumun bugünkü yasallığını değerlendirirken kuruluşundaki zor kullanmayı ve mağdurların süren talebini de hesaba katmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Fetih hak yaratmaz” ile Yönetim Üzerine İkinci İnceleme kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Silahla evi ele geçiren hırsız tapu sahibi olmaz; zafer güç dengesini değiştirir ama geçmiş haksızlığı hakka çeviremez.",
+        "Tarihte haklı savaşın kim tarafından belirlendiği ve sivillerin mülkiyeti ciddi belirsizlik taşır.",
+        "Bir kurumun bugünkü yasallığını değerlendirirken kuruluşundaki zor kullanmayı ve mağdurların süren talebini de hesaba katmak gerekir."
       ]
     },
     {
@@ -230,9 +210,9 @@
       "title": "Tiranlık ve direnme hakkı",
       "paragraphs": [
         "Yönetici kendisine verilen gücü halkın haklarını korumak yerine kendi keyfi için kullandığında güveni bozar ve halkın direnme hakkı doğar.",
-        "Evin bekçisi anahtarı hırsızlara yardım etmek için kullanırsa görevinden çıkarılması evi dağıtmak değil, kurucu amacı korumaktır. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Direnme hakkı her hoşnutsuzlukta şiddete çağrı değildir; uzun kötüye kullanım, hukuk yolları ve ortak değerlendirme önemlidir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
-        "Bir yönetimin eleştiriyi bastırması, seçim ve yargı yollarını kapatması güven ilişkisinin ne ölçüde bozulduğunu gösteren temel işaretlerdir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+        "Evin bekçisi anahtarı hırsızlara yardım etmek için kullanırsa görevinden çıkarılması evi dağıtmak değil, kurucu amacı korumaktır.",
+        "Direnme hakkı her hoşnutsuzlukta şiddete çağrı değildir; uzun kötüye kullanım, hukuk yolları ve ortak değerlendirme önemlidir.",
+        "Bir yönetimin eleştiriyi bastırması, seçim ve yargı yollarını kapatması güven ilişkisinin ne ölçüde bozulduğunu gösteren temel işaretlerdir."
       ]
     },
     {
@@ -252,7 +232,7 @@
       "paragraphs": [
         "İkinci İnceleme liberal anayasa, doğal hak, rıza ve direnme düşüncesinin kurucu metinlerinden biri oldu; Amerikan ve Fransız devrimleri dâhil birçok siyasi harekete dil sağladı.",
         "Eleştiriler Locke'un mülkiyet kuramının çitleme ve sömürgeciliği meşrulaştırdığını, sessiz rızanın gerçek eşitsizlikleri örttüğünü ve evrensel hak dilinin tarihsel yaşamında dar uygulandığını vurgular.",
-        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Yönetim Üzerine İkinci İnceleme bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+        "Yönetim Üzerine İkinci İnceleme bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
       ]
     },
     {
@@ -262,7 +242,7 @@
       "paragraphs": [
         "Bu iktidarın kaynağı rıza mı yalnız güç mü? Verilen yetki hangi amacı koruyor? Sessiz rıza gerçek bir çıkış seçeneğine dayanıyor mu?",
         "Üyesi olduğunuz bir kurumun tek bir yetkisini seçin; bu yetkinin kimden geldiğini, sınırını, hesap verme yolunu ve güven bozulursa nasıl geri alınacağını yazın.",
-        "Yönetim Üzerine İkinci İnceleme bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+        "Yönetim Üzerine İkinci İnceleme bu soruların hemen cevaplanmasını beklemez."
       ]
     },
     {
@@ -271,8 +251,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "İnsanlar doğuştan özgür ve eşittir; siyasi iktidar onların haklarını korumak için verdikleri sınırlı güvenden doğar ve bu güven tiranlıkla bozulduğunda geri alınabilir.",
-        "Akılda tutulacak son görüntü, bir tarafta açık doğa ve emekle toplanan elma, diğer tarafta yasa kitabı ve oy sandığı; ortada anahtarı halka geri uzatan sınırlı bir yönetim kapısıdır. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
-        "Yönetim Üzerine İkinci İnceleme adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+        "Akılda tutulacak son görüntü, bir tarafta açık doğa ve emekle toplanan elma, diğer tarafta yasa kitabı ve oy sandığı; ortada anahtarı halka geri uzatan sınırlı bir yönetim kapısıdır.",
+        "Yönetim Üzerine İkinci İnceleme adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

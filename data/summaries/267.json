@@ -12,8 +12,6 @@
   "chapterArtColor": "#6A566E",
   "meta": {
     "originalTitle": "Jenseits von Gut und Böse",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Nietzsche'nin 1886 tarihli kitabı bir önsöz, dokuz ana bölüm ve şiirsel bir son parçadan oluşur. Metin sistemli ders kitabı gibi değil, kısa paragraflar, sorular, alaylar ve düşünce deneyleriyle ilerler. Rehber bu parçaları 'filozofların önyargıları', 'özgür tin', 'ahlakın doğal tarihi', 'bilginler', 'bizim erdemlerimiz', 'halklar ve vatanlar' ile 'soyluluk nedir?' başlıklarının gerçek sırasına bağlar.",
@@ -46,11 +44,11 @@
       "section": "ÖNSÖZ · DOGMA",
       "title": "Dogmatik felsefe kendi temelini saklar",
       "paragraphs": [
-        "Nietzsche büyük felsefe sistemlerinin çoğu kez tarafsız akıl değil, kurucusunun mizacı ve değer isteği tarafından yönlendirildiğini söyler. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "Filozof değişmez ruh kuramını kanıtlar ama kendi güvenlik ihtiyacını ve yaşadığı çağın düzenini kanıtın dışında tutar. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Seçilen ilk varsayım sonraki mantığı yönlendirir; kişisel değer evrensel gerçek görünümü kazanır. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Bir düşüncenin kaynağını açıklamak onun yanlış olduğunu tek başına kanıtlamaz. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir kuramın hangi insan tipini güvenli ve örnek kabul ettiğini sorun. Felsefecinin mizacı kanıtın yerine geçmez ama hangi kanıtı aradığını açıklayabilir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Nietzsche büyük felsefe sistemlerinin çoğu kez tarafsız akıl değil, kurucusunun mizacı ve değer isteği tarafından yönlendirildiğini söyler.",
+        "Filozof değişmez ruh kuramını kanıtlar ama kendi güvenlik ihtiyacını ve yaşadığı çağın düzenini kanıtın dışında tutar.",
+        "Seçilen ilk varsayım sonraki mantığı yönlendirir; kişisel değer evrensel gerçek görünümü kazanır.",
+        "Bir düşüncenin kaynağını açıklamak onun yanlış olduğunu tek başına kanıtlamaz.",
+        "Bir kuramın hangi insan tipini güvenli ve örnek kabul ettiğini sorun. Felsefecinin mizacı kanıtın yerine geçmez ama hangi kanıtı aradığını açıklayabilir."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "BÖLÜM 1 · HAKİKAT",
       "title": "Hakikat isteğinin kendisi sorgulanabilir",
       "paragraphs": [
-        "Felsefe neyin doğru olduğunu sorarken Nietzsche neden mutlaka hakikat istediğimizi ve bazı yararlı yanılsamaların yaşamla ilişkisini de sorar. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "Dostlukta her düşünceyi acımasızca söyleyen kişi doğruluk adına ilişkinin güvenini yok edebilir. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Hakikat bir değer olarak seçilir; seçimin bedeni, toplumu ve yaşamı nasıl etkilediği ayrıca incelenir. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Bu soru yalan ile gerçeğin farkı yoktur anlamına gelmez; hakikat arzusunun koşullarını görünür kılar. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "Doğru bir bilgiyi ne zaman, nasıl ve kime söylemenin etik farkını düşünün. Hakikat isteği kendi değerini sorguladığında daha dürüst ve daha az cezalandırıcı hale gelebilir. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Felsefe neyin doğru olduğunu sorarken Nietzsche neden mutlaka hakikat istediğimizi ve bazı yararlı yanılsamaların yaşamla ilişkisini de sorar.",
+        "Dostlukta her düşünceyi acımasızca söyleyen kişi doğruluk adına ilişkinin güvenini yok edebilir.",
+        "Hakikat bir değer olarak seçilir; seçimin bedeni, toplumu ve yaşamı nasıl etkilediği ayrıca incelenir.",
+        "Bu soru yalan ile gerçeğin farkı yoktur anlamına gelmez; hakikat arzusunun koşullarını görünür kılar.",
+        "Doğru bir bilgiyi ne zaman, nasıl ve kime söylemenin etik farkını düşünün. Hakikat isteği kendi değerini sorguladığında daha dürüst ve daha az cezalandırıcı hale gelebilir."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "BÖLÜM 1 · KARŞITLAR",
       "title": "Karşıtlıklar sandığımız kadar saf olmayabilir",
       "paragraphs": [
-        "Nietzsche doğru-yanlış, bencil-özgeci ve iyi-kötü gibi keskin karşıtların aynı kökten gelen derece ve yorum farklarını saklayabileceğini öne sürer. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Karşılıksız yardım eden kişi aynı anda başkasının takdirini ve kendi güçlü insan imgesini de besleyebilir. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Karışık güdüler temiz kutuları bozar; ahlaki değerlendirme tek nedene kapanmaz. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Her davranışı gizli bencillik diye açıklamak da sınanamaz bir şüpheciliğe dönüşür. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "İyi dediğiniz bir davranışta birden çok güdünün birlikte çalışıp çalışmadığını sorun. Karışık güdü, ahlaki sorumluluğu yok etmez; onu daha gerçekçi kılar. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Nietzsche doğru-yanlış, bencil-özgeci ve iyi-kötü gibi keskin karşıtların aynı kökten gelen derece ve yorum farklarını saklayabileceğini öne sürer.",
+        "Karşılıksız yardım eden kişi aynı anda başkasının takdirini ve kendi güçlü insan imgesini de besleyebilir.",
+        "Karışık güdüler temiz kutuları bozar; ahlaki değerlendirme tek nedene kapanmaz.",
+        "Her davranışı gizli bencillik diye açıklamak da sınanamaz bir şüpheciliğe dönüşür.",
+        "İyi dediğiniz bir davranışta birden çok güdünün birlikte çalışıp çalışmadığını sorun. Karışık güdü, ahlaki sorumluluğu yok etmez; onu daha gerçekçi kılar."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "BÖLÜM 2 · PERSPEKTİF",
       "title": "Perspektif bilgiye düşman değildir",
       "paragraphs": [
-        "Her bilme belirli beden, tarih ve ilgi açısından gerçekleşir; daha güçlü bilgi tek bakışı mutlaklaştırmak yerine çok sayıda perspektifi çalıştırabilir. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Şehir sürücüye yollar, çocuğa oyun alanları, tekerlekli sandalye kullanıcısına engeller halinde görünür. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Bakış açıları aynı gerçeğin farklı ilişkilerini açar; karşılaştırma kör noktaları azaltır. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Perspektifçilik bütün iddialar eşittir demek değildir; kanıt, açıklama gücü ve düzeltilebilirlik önemini korur. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "Bir sorunu en az üç farklı kişinin bedensel ve toplumsal konumundan yeniden tarif edin. Perspektifleri çoğaltmak karar vermeyi imkânsız değil, kanıtı daha dayanıklı yapar. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "Her bilme belirli beden, tarih ve ilgi açısından gerçekleşir; daha güçlü bilgi tek bakışı mutlaklaştırmak yerine çok sayıda perspektifi çalıştırabilir.",
+        "Şehir sürücüye yollar, çocuğa oyun alanları, tekerlekli sandalye kullanıcısına engeller halinde görünür.",
+        "Bakış açıları aynı gerçeğin farklı ilişkilerini açar; karşılaştırma kör noktaları azaltır.",
+        "Perspektifçilik bütün iddialar eşittir demek değildir; kanıt, açıklama gücü ve düzeltilebilirlik önemini korur.",
+        "Bir sorunu en az üç farklı kişinin bedensel ve toplumsal konumundan yeniden tarif edin. Perspektifleri çoğaltmak karar vermeyi imkânsız değil, kanıtı daha dayanıklı yapar."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "BÖLÜM 2 · ÖZGÜR TİN",
       "title": "Özgür tin ödünç kesinlikten uzaklaşır",
       "paragraphs": [
-        "Nietzsche'nin özgür tini moda fikri tekrarlayan kişi değil, kendi en sevdiği inancı da deneyebilen ve yalnızlığa dayanabilen araştırıcıdır. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Arkadaş çevresinin alkışladığı görüşü savunan kişi, güçlü karşı kanıtı görünce grup kaybı pahasına fikrini değiştirebilir. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Mesafe kimliği görüşten ayırır; düşünce sadakat sınavı olmaktan çıkar. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Yalnızlık kendiliğinden bilgelik değildir ve toplumsal sorumluluktan kaçışa dönüşebilir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Size ait sandığınız bir düşüncenin ilk kaynağını ve onu değiştirmenin sosyal bedelini araştırın. Özgür tin başkasının fikrine değil kendi rahat kesinliğine karşı da özgür olmalıdır. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Nietzsche'nin özgür tini moda fikri tekrarlayan kişi değil, kendi en sevdiği inancı da deneyebilen ve yalnızlığa dayanabilen araştırıcıdır.",
+        "Arkadaş çevresinin alkışladığı görüşü savunan kişi, güçlü karşı kanıtı görünce grup kaybı pahasına fikrini değiştirebilir.",
+        "Mesafe kimliği görüşten ayırır; düşünce sadakat sınavı olmaktan çıkar.",
+        "Yalnızlık kendiliğinden bilgelik değildir ve toplumsal sorumluluktan kaçışa dönüşebilir.",
+        "Size ait sandığınız bir düşüncenin ilk kaynağını ve onu değiştirmenin sosyal bedelini araştırın. Özgür tin başkasının fikrine değil kendi rahat kesinliğine karşı da özgür olmalıdır."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "BÖLÜM 3 · DİN",
       "title": "Din hem disiplin hem küçülme üretebilir",
       "paragraphs": [
-        "Nietzsche dinî uygulamaların insanı eğitebildiğini, acıya anlam ve özdenetim verebildiğini; aynı zamanda yaşamı suç ve itaat altında daraltabildiğini söyler. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Oruç kişiye arzusunu yönetme deneyimi verirken kurum aynı pratiği bedene karşı kalıcı utanca çevirebilir. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Aynı biçim farklı güç ilişkilerinde kendini aşma veya boyun eğme işlevi görebilir. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Dinlerin bütün tarihini tek yaşam düşmanlığına indirmek inananların çeşitliliğini ve dayanışma üretimini siler. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir dinî pratiğin kişide kapasite mi korku mu büyüttüğünü somut sonuçla inceleyin. Disiplinin değeri acıyı kutsamasında değil daha geniş yaşam kapasitesi açmasındadır. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Nietzsche dinî uygulamaların insanı eğitebildiğini, acıya anlam ve özdenetim verebildiğini; aynı zamanda yaşamı suç ve itaat altında daraltabildiğini söyler.",
+        "Oruç kişiye arzusunu yönetme deneyimi verirken kurum aynı pratiği bedene karşı kalıcı utanca çevirebilir.",
+        "Aynı biçim farklı güç ilişkilerinde kendini aşma veya boyun eğme işlevi görebilir.",
+        "Dinlerin bütün tarihini tek yaşam düşmanlığına indirmek inananların çeşitliliğini ve dayanışma üretimini siler.",
+        "Bir dinî pratiğin kişide kapasite mi korku mu büyüttüğünü somut sonuçla inceleyin. Disiplinin değeri acıyı kutsamasında değil daha geniş yaşam kapasitesi açmasındadır."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "BÖLÜM 5 · AHLAK",
       "title": "Ahlakın doğal tarihi gerekir",
       "paragraphs": [
-        "Ahlak kuralları gökten değişmeden inmiş gibi değil, farklı toplum ve insan tiplerinin uzun deneyleri olarak karşılaştırılmalıdır. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "Bir çağ itaatkâr çocuğu iyi sayarken başka çağ girişimci ve bağımsız çocuğu över. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Koşullar hangi davranışın güven, güç veya birlik sağladığını değiştirir; değerler bu seçimi kalıcı hakikat gibi taşır. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Tarihsel köken bir değeri otomatik olarak geçersiz yapmaz; bugünkü sonucu ayrıca ölçülmelidir. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Ailenizde iyi insan tanımının iki kuşak içinde nasıl değiştiğini sorun. Ahlak tarihi bugün vazgeçilmez görünen değerin hangi soruna cevap verdiğini gösterir. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Ahlak kuralları gökten değişmeden inmiş gibi değil, farklı toplum ve insan tiplerinin uzun deneyleri olarak karşılaştırılmalıdır.",
+        "Bir çağ itaatkâr çocuğu iyi sayarken başka çağ girişimci ve bağımsız çocuğu över.",
+        "Koşullar hangi davranışın güven, güç veya birlik sağladığını değiştirir; değerler bu seçimi kalıcı hakikat gibi taşır.",
+        "Tarihsel köken bir değeri otomatik olarak geçersiz yapmaz; bugünkü sonucu ayrıca ölçülmelidir.",
+        "Ailenizde iyi insan tanımının iki kuşak içinde nasıl değiştiğini sorun. Ahlak tarihi bugün vazgeçilmez görünen değerin hangi soruna cevap verdiğini gösterir."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "BÖLÜM 5 · SÜRÜ",
       "title": "Sürü ahlakı güvenliği erdem yapabilir",
       "paragraphs": [
-        "Nietzsche çoğunluğun düzen, eşitlik ve zararsızlığı tek ahlak ölçüsü yaparak sıra dışı güç ve deneyi tehlike sayabildiğini savunur. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "İşyerinde hiç hata yapmayan çalışan övülür, yeni yöntem deneyen kişi ilk aksaklıkta sorumsuz ilan edilir. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Topluluk riskten korunmak için uyumu ödüllendirir; koruma zamanla bütün farkı bastıran norma dönüşebilir. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Eşit hakları sürü küçüklüğü diye küçümsemek ayrıcalığı doğal gösterebilir; Nietzsche'nin dili burada ciddi eleştiri ister. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Bir kuralın zayıfı koruduğu yerle yalnız farklılığı bastırdığı yeri ayırın. Koruyucu eşitlik ile yaratıcılığı boğan uyum aynı sözcük altında karıştırılmamalıdır. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Nietzsche çoğunluğun düzen, eşitlik ve zararsızlığı tek ahlak ölçüsü yaparak sıra dışı güç ve deneyi tehlike sayabildiğini savunur.",
+        "İşyerinde hiç hata yapmayan çalışan övülür, yeni yöntem deneyen kişi ilk aksaklıkta sorumsuz ilan edilir.",
+        "Topluluk riskten korunmak için uyumu ödüllendirir; koruma zamanla bütün farkı bastıran norma dönüşebilir.",
+        "Eşit hakları sürü küçüklüğü diye küçümsemek ayrıcalığı doğal gösterebilir; Nietzsche'nin dili burada ciddi eleştiri ister.",
+        "Bir kuralın zayıfı koruduğu yerle yalnız farklılığı bastırdığı yeri ayırın. Koruyucu eşitlik ile yaratıcılığı boğan uyum aynı sözcük altında karıştırılmamalıdır."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "BÖLÜM 6 · BİLGİNLER",
       "title": "Bilgin uzmanlaştıkça bütünü kaybedebilir",
       "paragraphs": [
-        "Nietzsche titiz bilim insanının değerli araştırma yaptığı halde yöntemini yaşamın bütün amacı sanması riskini eleştirir. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Araştırmacı tek veri alanını kusursuz ölçer, fakat hangi sorunun insan için önemli olduğuna karar vermeyi başkasına bırakır. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Uzmanlık ayrıntıyı güçlendirir; değer kurma ve yön seçme görevi görünmez kalabilir. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Bu eleştiri bilimi küçümsemek değildir; kanıtsız büyük filozof da ayrıntı karşısında hesap vermelidir. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Bir uzman görüşünde veriyle değer kararının nerede ayrıldığını belirleyin. Uzman ile filozof arasındaki gerilim veri ve yön seçiminin birbirine hesap vermesini gerektirir. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Nietzsche titiz bilim insanının değerli araştırma yaptığı halde yöntemini yaşamın bütün amacı sanması riskini eleştirir.",
+        "Araştırmacı tek veri alanını kusursuz ölçer, fakat hangi sorunun insan için önemli olduğuna karar vermeyi başkasına bırakır.",
+        "Uzmanlık ayrıntıyı güçlendirir; değer kurma ve yön seçme görevi görünmez kalabilir.",
+        "Bu eleştiri bilimi küçümsemek değildir; kanıtsız büyük filozof da ayrıntı karşısında hesap vermelidir.",
+        "Bir uzman görüşünde veriyle değer kararının nerede ayrıldığını belirleyin. Uzman ile filozof arasındaki gerilim veri ve yön seçiminin birbirine hesap vermesini gerektirir."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "BÖLÜM 6 · FİLOZOF",
       "title": "Geleceğin filozofu yasa koyucu değil değer deneycisidir",
       "paragraphs": [
-        "Nietzsche geleceğin filozofunu yalnız bilgi toplayan değil, insanlığın hangi yönde gelişebileceğini deneyen değer yaratıcı olarak hayal eder. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Doktor hastalığı tanımlar; filozof sağlık dediğimiz hayatın hangi güç ve özgürlükleri içermesi gerektiğini sorar. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Bilgi malzeme sağlar, değer deneyi hedef seçer ve sonuç yeni insan imkânlarını açar. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Yasa koyucu dili otoriter ve seçkinci tehlike taşır; değer yaratımı başkalarının sesini susturmamalıdır. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Yeni bir değer önerisinin kimleri güçlendirdiğini ve kime söz hakkı vermediğini sorun. Değer deneycisi sonucunu başkalarının hayatında sınamadan kendisini yasa koyucu ilan edemez. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Nietzsche geleceğin filozofunu yalnız bilgi toplayan değil, insanlığın hangi yönde gelişebileceğini deneyen değer yaratıcı olarak hayal eder.",
+        "Doktor hastalığı tanımlar; filozof sağlık dediğimiz hayatın hangi güç ve özgürlükleri içermesi gerektiğini sorar.",
+        "Bilgi malzeme sağlar, değer deneyi hedef seçer ve sonuç yeni insan imkânlarını açar.",
+        "Yasa koyucu dili otoriter ve seçkinci tehlike taşır; değer yaratımı başkalarının sesini susturmamalıdır.",
+        "Yeni bir değer önerisinin kimleri güçlendirdiğini ve kime söz hakkı vermediğini sorun. Değer deneycisi sonucunu başkalarının hayatında sınamadan kendisini yasa koyucu ilan edemez."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "BÖLÜM 7 · ERDEMLER",
       "title": "Erdemlerimiz de tarihsel ihtiyaç taşır",
       "paragraphs": [
-        "Modern dürüstlük, çalışkanlık ve nesnellik gibi erdemler de belirli toplum yapılarının ürünüdür ve kendi gölgelerini yaratır. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Sürekli üretken olmak övülürken dinlenme tembellik, bakım emeği görünmez iş sayılabilir. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Erdem davranışı düzenler; aşırılaşınca hizmet ettiği yaşamın aleyhine dönebilir. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Bir değerin kötüye kullanılabilmesi onun tüm iyi etkisini silmez. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "En çok övülen kişisel özelliğinizin hangi durumda size veya başkasına zarar verdiğini düşünün. Erdemin gölgesi çoğu zaman başarı ölçüsünün görünmeyen maliyetinde belirir. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Modern dürüstlük, çalışkanlık ve nesnellik gibi erdemler de belirli toplum yapılarının ürünüdür ve kendi gölgelerini yaratır.",
+        "Sürekli üretken olmak övülürken dinlenme tembellik, bakım emeği görünmez iş sayılabilir.",
+        "Erdem davranışı düzenler; aşırılaşınca hizmet ettiği yaşamın aleyhine dönebilir.",
+        "Bir değerin kötüye kullanılabilmesi onun tüm iyi etkisini silmez.",
+        "En çok övülen kişisel özelliğinizin hangi durumda size veya başkasına zarar verdiğini düşünün. Erdemin gölgesi çoğu zaman başarı ölçüsünün görünmeyen maliyetinde belirir."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "BÖLÜM 4 · SÖZLER",
       "title": "Aforizma okuru ortak yazar yapar",
       "paragraphs": [
-        "Kitabın kısa sözleri tamamlanmış ders vermek yerine okurun bağlantı kurmasını, itiraz etmesini ve boşlukları doldurmasını ister. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "Tek cümle ilk okumada kibirli, yaşanmış bir olaydan sonra koruyucu uyarı gibi görünebilir. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Yoğun biçim çok anlam taşır ve okuyucunun deneyimi yorumun parçası olur. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Kısa ve çarpıcı oluş doğruluk garantisi değildir; bağlamdan kopan alıntı slogana dönüşür. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Bir aforizmayı önce destekleyen sonra çürüten birer örnekle okuyun. Aforizmanın boşluğu okurun sorumluluğudur; kolay sloganla doldurulmamalıdır. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Kitabın kısa sözleri tamamlanmış ders vermek yerine okurun bağlantı kurmasını, itiraz etmesini ve boşlukları doldurmasını ister.",
+        "Tek cümle ilk okumada kibirli, yaşanmış bir olaydan sonra koruyucu uyarı gibi görünebilir.",
+        "Yoğun biçim çok anlam taşır ve okuyucunun deneyimi yorumun parçası olur.",
+        "Kısa ve çarpıcı oluş doğruluk garantisi değildir; bağlamdan kopan alıntı slogana dönüşür.",
+        "Bir aforizmayı önce destekleyen sonra çürüten birer örnekle okuyun. Aforizmanın boşluğu okurun sorumluluğudur; kolay sloganla doldurulmamalıdır."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "BÖLÜM 8 · HALKLAR",
       "title": "Ulus kimliği düşünceyi kolayca daraltır",
       "paragraphs": [
-        "Nietzsche milliyetçi coşkunun kültürel karışımı sakladığını ve Avrupalının ortak geleceğini dar ulusal gururun önüne koyar. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Müzik ve dil sınırları aşarken siyasetçi saf kültür hikâyesiyle karma geçmişi tek renge boyar. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Ulus anlatısı seçilmiş ataları büyütür, alışveriş ve göç bağlarını görünmez kılar. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Nietzsche'nin halklar hakkındaki genellemeleri de kendi stereotiplerini üretir ve eleştirilmelidir. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Ailenizde doğal ulusal gelenek sayılan bir şeyin başka kültürlerle bağını araştırın. Karışık Avrupa fikri saf köken hayaline karşı tarihsel bir panzehirdir. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Nietzsche milliyetçi coşkunun kültürel karışımı sakladığını ve Avrupalının ortak geleceğini dar ulusal gururun önüne koyar.",
+        "Müzik ve dil sınırları aşarken siyasetçi saf kültür hikâyesiyle karma geçmişi tek renge boyar.",
+        "Ulus anlatısı seçilmiş ataları büyütür, alışveriş ve göç bağlarını görünmez kılar.",
+        "Nietzsche'nin halklar hakkındaki genellemeleri de kendi stereotiplerini üretir ve eleştirilmelidir.",
+        "Ailenizde doğal ulusal gelenek sayılan bir şeyin başka kültürlerle bağını araştırın. Karışık Avrupa fikri saf köken hayaline karşı tarihsel bir panzehirdir."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "BÖLÜM 9 · SOYLULUK",
       "title": "Soyluluk unvandan önce kendine ölçü koymaktır",
       "paragraphs": [
-        "Nietzsche soyluluğu yalnız doğum ayrıcalığı değil, kişinin rahat onay yerine zor bir kendini aşma ölçüsü taşıması olarak idealize eder. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Sanatçı kolay alkış alacak tekrar yerine yıllarca başarısız olma riskini taşıyan yeni biçimi dener. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "İç mesafe ve disiplin kısa kazançtan bağımsız değer yaratma gücü verir. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Aristokrat dil sınıf ayrıcalığını ve başkalarını araç görmeyi meşrulaştırabilir; mecaz ile siyaset ayrılmalıdır. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Kendi yüksek ölçünüzün başkasının eşit onurunu çiğnemeden nasıl uygulanacağını sorun. Kendine yüksek ölçü koymak başkasını aşağı ölçmek zorunda değildir. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Nietzsche soyluluğu yalnız doğum ayrıcalığı değil, kişinin rahat onay yerine zor bir kendini aşma ölçüsü taşıması olarak idealize eder.",
+        "Sanatçı kolay alkış alacak tekrar yerine yıllarca başarısız olma riskini taşıyan yeni biçimi dener.",
+        "İç mesafe ve disiplin kısa kazançtan bağımsız değer yaratma gücü verir.",
+        "Aristokrat dil sınıf ayrıcalığını ve başkalarını araç görmeyi meşrulaştırabilir; mecaz ile siyaset ayrılmalıdır.",
+        "Kendi yüksek ölçünüzün başkasının eşit onurunu çiğnemeden nasıl uygulanacağını sorun. Kendine yüksek ölçü koymak başkasını aşağı ölçmek zorunda değildir."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "KAVRAM · GÜÇ",
       "title": "Güç istemi tek başına zorbalık değildir",
       "paragraphs": [
-        "Nietzsche'nin güç istemi yaşamın yalnız hayatta kalmak değil, kapasitesini düzenleme, yorumlama ve aşma eğilimini anlatır. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Müzisyen rakibini ezmek yerine zor eseri çalabilecek yeni bir beden ve işitme gücü geliştirir. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Güç iç ve dış dirençle karşılaşınca biçim verir; yaratma, disiplin ve yorum da güç ilişkileridir. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Kavramı her davranışın gizli egemenlik isteği diye kullanmak sınanamaz ve zorbalığı romantikleştirir. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir güç artışının başkasının alanını azaltmadan kapasite büyütüp büyütmediğine bakın. Yaratıcı güç kapasite ekler; tahakküm başkasının kapasitesini kendi hesabına küçültür. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Nietzsche'nin güç istemi yaşamın yalnız hayatta kalmak değil, kapasitesini düzenleme, yorumlama ve aşma eğilimini anlatır.",
+        "Müzisyen rakibini ezmek yerine zor eseri çalabilecek yeni bir beden ve işitme gücü geliştirir.",
+        "Güç iç ve dış dirençle karşılaşınca biçim verir; yaratma, disiplin ve yorum da güç ilişkileridir.",
+        "Kavramı her davranışın gizli egemenlik isteği diye kullanmak sınanamaz ve zorbalığı romantikleştirir.",
+        "Bir güç artışının başkasının alanını azaltmadan kapasite büyütüp büyütmediğine bakın. Yaratıcı güç kapasite ekler; tahakküm başkasının kapasitesini kendi hesabına küçültür."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SINIR · CİNSİYET",
       "title": "Kadınlar hakkındaki sözler eleştiriden muaf değildir",
       "paragraphs": [
-        "Kitaptaki kadın genellemeleri yazarın perspektif eleştirisini kendi önyargılarına uygulamadığı yerleri gösterir. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "Bütün kadınları tek psikolojiyle anlatan cümle, farklı sınıf, tarih ve kişisel deneyimleri bir karakter tipine kapatır. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Stereotip gözlemi seçer ve karşı örneği görünmez yapar; yazarın otoritesi önyargıyı parlak söz haline getirebilir. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Tarihsel bağlam açıklama sağlar fakat aşağılayıcı genellemeyi doğru yapmaz. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Hayran olduğunuz bir düşünürde hangi cümleye açıkça hayır demeniz gerektiğini sorun. Eleştirel sadakat düşünürün yöntemini onun kör noktasına da uygulayabilmektir. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Kitaptaki kadın genellemeleri yazarın perspektif eleştirisini kendi önyargılarına uygulamadığı yerleri gösterir.",
+        "Bütün kadınları tek psikolojiyle anlatan cümle, farklı sınıf, tarih ve kişisel deneyimleri bir karakter tipine kapatır.",
+        "Stereotip gözlemi seçer ve karşı örneği görünmez yapar; yazarın otoritesi önyargıyı parlak söz haline getirebilir.",
+        "Tarihsel bağlam açıklama sağlar fakat aşağılayıcı genellemeyi doğru yapmaz.",
+        "Hayran olduğunuz bir düşünürde hangi cümleye açıkça hayır demeniz gerektiğini sorun. Eleştirel sadakat düşünürün yöntemini onun kör noktasına da uygulayabilmektir."
       ]
     },
     {

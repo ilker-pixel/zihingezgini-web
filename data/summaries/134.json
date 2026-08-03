@@ -12,8 +12,6 @@
   "chapterArtColor": "#4F6F66",
   "meta": {
     "originalTitle": "Die Grundlagen der Arithmetik",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Masada üç elma gördüğümüzde 'üç' nerede durur? Elmaların renginde değildir, her bir elmanın içinde de üçlük yoktur. Üç sayısı yalnız zihnimizde özel bir duyguysa başka insanların aynı hesabı nasıl doğru bulduğunu açıklamak zorlaşır. Frege en sıradan saymanın gerisindeki bu derin soruyu adım adım açar.",
@@ -46,11 +44,11 @@
       "section": "BAŞLANGIÇ · ŞAŞKINLIK",
       "title": "Sayı neden felsefi bir sorudur?",
       "paragraphs": [
-        "Aritmetik günlük hayatın en kesin bilgisi gibi görünür, fakat sayıların ne olduğu sorulduğunda eşya, düşünce ve işaret cevaplarının her biri eksik kalır. Burada tanımdan çok, tanımın görmemizi sağladığı ilişki önemlidir.",
-        "İki koyun gider ama iki sayısı gitmez; iki rakamını sileriz ama iki çift ayakkabının eşleşmesi değişmez. Bu olayın tersini düşünmek zorunlu olanla değişebilir olanı ayırmayı kolaylaştırır.",
-        "Frege hesabın kesinliğini taşıyacak nesnel anlamı arar ve sayı sözlerinin cümlede nasıl çalıştığına yönelir. Süreç, büyük değişimin gündelik tekrarlarla nasıl kurulduğunu gösterir.",
-        "Sayı ontolojisi günlük toplama yapabilmek için zorunlu olmayabilir; soru uygulamanın temelini açıklamakla ilgilidir. Bu uyarı kavramı reddetmez; doğru ölçüde kullanmayı sağlar.",
-        "Çok iyi kullandığınız bir kavramı tanımlamakta neden zorlandığınızı fark edip kullanım örneklerini inceleyin. Şaşkınlık, bildiğimiz işlemi bırakmak değil onun anlamını açık hale getirmek için başlangıçtır. Kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak bu merceği hayata geçirir."
+        "Aritmetik günlük hayatın en kesin bilgisi gibi görünür, fakat sayıların ne olduğu sorulduğunda eşya, düşünce ve işaret cevaplarının her biri eksik kalır.",
+        "İki koyun gider ama iki sayısı gitmez; iki rakamını sileriz ama iki çift ayakkabının eşleşmesi değişmez.",
+        "Frege hesabın kesinliğini taşıyacak nesnel anlamı arar ve sayı sözlerinin cümlede nasıl çalıştığına yönelir.",
+        "Sayı ontolojisi günlük toplama yapabilmek için zorunlu olmayabilir; soru uygulamanın temelini açıklamakla ilgilidir.",
+        "Çok iyi kullandığınız bir kavramı tanımlamakta neden zorlandığınızı fark edip kullanım örneklerini inceleyin. Şaşkınlık, bildiğimiz işlemi bırakmak değil onun anlamını açık hale getirmek için başlangıçtır."
       ]
     },
     {
@@ -58,11 +56,11 @@
       "section": "ELEŞTİRİ · DENEY",
       "title": "Aritmetik deneyden çıkmaz",
       "paragraphs": [
-        "Frege sayıları fiziksel nesnelerden veya duyusal izlenimlerden türetmeye karşı çıkar; gözlem bize kesin ve sınırsız aritmetik genelliği tek başına vermez. Bu başlangıç bir hüküm değil, sonraki örnekleri sınayacak mercektir.",
-        "Bin fasulyeyi görmeden iki torbanın toplamını hesaplayabilir, hiç karşılaşmadığımız büyüklükler hakkında da doğru işlem yapabiliriz. İnsan yüzü eklendiğinde tartışmanın kimin hayatına dokunduğu anlaşılır.",
-        "Deney saymayı öğretir ve uygulama sağlar, fakat bir artı birin zorunlu olarak iki oluşu belirli fasulyelerin davranışına bağlı değildir. Bir halkanın maliyeti başka bir gruba aktarılıyorsa açıklama ona da bakmalıdır.",
-        "Matematik öğreniminde parmak ve nesne kullanılması aritmetiğin mantıksal temelinin fiziksel olduğu anlamına gelmez. Bu sınır fikri zayıflatmaz; onu her kapıyı açtığı sanılan sahte anahtardan korur.",
-        "Bir kuralın örneklerle öğrenilmesiyle doğruluğunun yalnız örneklerden gelmesini birbirine karıştırmayın. Frege'nin anti-empirizmi uygulamadaki sayımı değil aritmetik doğruluğun kaynağını hedefler. Kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici olabilir."
+        "Frege sayıları fiziksel nesnelerden veya duyusal izlenimlerden türetmeye karşı çıkar; gözlem bize kesin ve sınırsız aritmetik genelliği tek başına vermez.",
+        "Bin fasulyeyi görmeden iki torbanın toplamını hesaplayabilir, hiç karşılaşmadığımız büyüklükler hakkında da doğru işlem yapabiliriz.",
+        "Deney saymayı öğretir ve uygulama sağlar, fakat bir artı birin zorunlu olarak iki oluşu belirli fasulyelerin davranışına bağlı değildir.",
+        "Matematik öğreniminde parmak ve nesne kullanılması aritmetiğin mantıksal temelinin fiziksel olduğu anlamına gelmez.",
+        "Bir kuralın örneklerle öğrenilmesiyle doğruluğunun yalnız örneklerden gelmesini birbirine karıştırmayın. Frege'nin anti-empirizmi uygulamadaki sayımı değil aritmetik doğruluğun kaynağını hedefler."
       ]
     },
     {
@@ -70,11 +68,11 @@
       "section": "ELEŞTİRİ · PSİKOLOJİ",
       "title": "Sayı zihinsel resim değildir",
       "paragraphs": [
-        "Sayı kişiden kişiye değişen bir tasarım olsaydı ortak doğruluk ve yanlışlık ölçüsü kaybolurdu. İlk bakışta küçük görünen ayrım, sorumluluğun yerini değiştirir.",
-        "Biri üç deyince üç nokta, diğeri üç ses hayal eder; farklı görüntülere rağmen ikisi de üç artı iki sonucunda anlaşabilir. Sahnedeki sonuç tek niyetten değil, küçük koşulların birleşmesinden doğar.",
-        "Öznel çağrışım sayıyı düşünmemize eşlik eder, fakat aritmetik önermenin nesnel içeriğini oluşturmaz. Bu bağlantı geçmişteki örneği bugüne birebir kopyalamadan karşılaştırma imkânı verir.",
-        "Nesnellik sayının insan dilinden ve etkinliğinden tamamen bağımsız gizemli yerde durduğu sonucunu otomatik vermez. Bir düzeni tarif etmek onu ahlaken onaylamak anlamına gelmez.",
-        "Bir kavramı anlamakla zihinde belirli görüntü canlanmasını aynı başarı ölçüsü saymayın. Psikolojik süreçler nasıl düşündüğümüzü, mantık ise düşüncenin ne zaman doğru olduğunu araştırır. Hazır reçete yerine kararın gizli varsayımını açığa çıkarmak gerekir."
+        "Sayı kişiden kişiye değişen bir tasarım olsaydı ortak doğruluk ve yanlışlık ölçüsü kaybolurdu.",
+        "Biri üç deyince üç nokta, diğeri üç ses hayal eder; farklı görüntülere rağmen ikisi de üç artı iki sonucunda anlaşabilir.",
+        "Öznel çağrışım sayıyı düşünmemize eşlik eder, fakat aritmetik önermenin nesnel içeriğini oluşturmaz.",
+        "Nesnellik sayının insan dilinden ve etkinliğinden tamamen bağımsız gizemli yerde durduğu sonucunu otomatik vermez.",
+        "Bir kavramı anlamakla zihinde belirli görüntü canlanmasını aynı başarı ölçüsü saymayın. Psikolojik süreçler nasıl düşündüğümüzü, mantık ise düşüncenin ne zaman doğru olduğunu araştırır."
       ]
     },
     {
@@ -82,11 +80,11 @@
       "section": "ELEŞTİRİ · ÖZELLİK",
       "title": "Sayı nesnelerin özelliği mi?",
       "paragraphs": [
-        "Sayı tek tek fiziksel nesnelerin renk ve ağırlık gibi doğrudan özelliği değildir; aynı nesne farklı kavramlar altında farklı sayılabilir. Bölüm böylece kişiyi suçlamadan önce koşulları incelemeyi önerir.",
-        "Masada bir deste, elli iki kart, dört takım ve on üç değer vardır; nesne grubu değişmeden sayı cevabı değişir. Büyük kelimelerin gerisindeki basit hareket burada açıkça görülür.",
-        "Sayma sorusu önce hangi kavramın örneklerini saydığımızı belirler; sayı kavramın kapsamına yüklenir. Mekanizmayı tersine çevirmek, fikrin karşı örnek karşısındaki dayanıklılığını gösterir.",
-        "Bu yaklaşım gerçek nesneleri önemsiz yapmaz; sayılacak örneklerin hangi kavrama girdiği yine dünyaya bağlıdır. Karşı örnek iddiayı yok etmekten çok hangi koşulda geçerli olduğunu gösterir.",
-        "Bir istatistikte sayıdan önce birim ve sınıflamanın nasıl tanımlandığını mutlaka sorun. Kart örneği sayı yargısının nesne grubundan çok onu kavrayan soruya bağlandığını gösterir. Geçmişteki sonucu değil, o sonucu doğuran soruyu bugünün araçları içinde sınamak gerekir."
+        "Sayı tek tek fiziksel nesnelerin renk ve ağırlık gibi doğrudan özelliği değildir; aynı nesne farklı kavramlar altında farklı sayılabilir.",
+        "Masada bir deste, elli iki kart, dört takım ve on üç değer vardır; nesne grubu değişmeden sayı cevabı değişir.",
+        "Sayma sorusu önce hangi kavramın örneklerini saydığımızı belirler; sayı kavramın kapsamına yüklenir.",
+        "Bu yaklaşım gerçek nesneleri önemsiz yapmaz; sayılacak örneklerin hangi kavrama girdiği yine dünyaya bağlıdır.",
+        "Bir istatistikte sayıdan önce birim ve sınıflamanın nasıl tanımlandığını mutlaka sorun. Kart örneği sayı yargısının nesne grubundan çok onu kavrayan soruya bağlandığını gösterir."
       ]
     },
     {
@@ -94,11 +92,11 @@
       "section": "YÖNTEM · CÜMLE",
       "title": "Bağlam ilkesi",
       "paragraphs": [
-        "Frege bir sözcüğün anlamını tek başına zihinsel nesne arayarak değil, anlamlı bir cümlede üstlendiği görev içinde araştırmayı önerir. İddia her şeyi açıklamaz; fakat doğru soruyu kurmak için sağlam bir başlangıç verir.",
-        "'Kök' sözcüğü bahçede, matematikte ve dilbilgisinde farklı cümle ilişkileri sayesinde anlaşılır. Bu an, kitabın genel savını tek bir hayatın ölçeğinde sınamamıza izin verir.",
-        "Sayı sözü 'masada kaç fincan var' gibi yargıda kavramla bağ kurar; cümlenin doğruluk koşulu anlamı aydınlatır. Bu zincirde hangi halka koparsa sonucun değişeceği ayrıca sorulmalıdır.",
-        "Bağlam ilkesi kelimelerin bağımsız hiçbir anlamı olmadığı biçiminde aşırı yorumlanmamalıdır. Benzetme akılda kalıcıdır ama dünyanın tamamı değildir.",
-        "Belirsiz bir kelime üzerinde kavga etmek yerine iki tarafın onu hangi tam cümlede kullandığını yazın. Bağlam ilkesi daha sonra analitik felsefenin dil üzerinden sorun çözme yöntemlerini derinden etkiler. Kesin hüküm karşısında eksik kanıtı sormak acele genellemeyi durdurabilir."
+        "Frege bir sözcüğün anlamını tek başına zihinsel nesne arayarak değil, anlamlı bir cümlede üstlendiği görev içinde araştırmayı önerir.",
+        "'Kök' sözcüğü bahçede, matematikte ve dilbilgisinde farklı cümle ilişkileri sayesinde anlaşılır.",
+        "Sayı sözü 'masada kaç fincan var' gibi yargıda kavramla bağ kurar; cümlenin doğruluk koşulu anlamı aydınlatır.",
+        "Bağlam ilkesi kelimelerin bağımsız hiçbir anlamı olmadığı biçiminde aşırı yorumlanmamalıdır.",
+        "Belirsiz bir kelime üzerinde kavga etmek yerine iki tarafın onu hangi tam cümlede kullandığını yazın. Bağlam ilkesi daha sonra analitik felsefenin dil üzerinden sorun çözme yöntemlerini derinden etkiler."
       ]
     },
     {
@@ -106,11 +104,11 @@
       "section": "YÖNTEM · DÜZEY",
       "title": "Kavram ile nesne ayrımı",
       "paragraphs": [
-        "Frege kavramı nesnelerin altına düştüğü tamamlanmamış bir işlev, nesneyi ise özel adla gösterilebilen tamamlanmış öğe olarak ayırır. Bu çerçeve kurulduğunda kitabın zor görünen sorusu gündelik hayata yaklaşır.",
-        "'… bir kedidir' boşluk isteyen kavramdır; Tekir bu boşluğu dolduran nesnedir ve cümle doğru ya da yanlış olur. Olayı yaşayan kişi tüm yapıyı görmese de yapı onun seçeneklerini etkiler.",
-        "Sayı ifadesi bir kavram hakkında söylenir ama Frege sonunda sayıların kendisini de nesne olarak ele almak ister. Mekanizma görüldüğünde benzer görünen iki olayın neden farklı sonuç verdiği anlaşılır.",
-        "Kavram-nesne ayrımı doğal dilde tuhaf sonuçlar yaratır; 'at kavramı bir kavram değildir' sorunu ünlüdür. Tek etkileyici olayın bütün toplumlar adına konuşmasına izin verilmemelidir.",
-        "Bir özelliği taşıyan kişiyle özelliğin kendisini aynı dil düzeyine koyup koymadığınızı kontrol edin. Tamamlanmamış kavram sözü eksiklik değil, bir argüman yeri taşıyan mantıksal işlev demektir. Kavramı önce kendi davranışımızda aramak onu kolay suçlama aracından kurtarır."
+        "Frege kavramı nesnelerin altına düştüğü tamamlanmamış bir işlev, nesneyi ise özel adla gösterilebilen tamamlanmış öğe olarak ayırır.",
+        "'… bir kedidir' boşluk isteyen kavramdır; Tekir bu boşluğu dolduran nesnedir ve cümle doğru ya da yanlış olur.",
+        "Sayı ifadesi bir kavram hakkında söylenir ama Frege sonunda sayıların kendisini de nesne olarak ele almak ister.",
+        "Kavram-nesne ayrımı doğal dilde tuhaf sonuçlar yaratır; 'at kavramı bir kavram değildir' sorunu ünlüdür.",
+        "Bir özelliği taşıyan kişiyle özelliğin kendisini aynı dil düzeyine koyup koymadığınızı kontrol edin. Tamamlanmamış kavram sözü eksiklik değil, bir argüman yeri taşıyan mantıksal işlev demektir."
       ]
     },
     {
@@ -118,11 +116,11 @@
       "section": "SAYI · SIFIR",
       "title": "Sıfır hangi kavrama aittir?",
       "paragraphs": [
-        "Bir kavramın altına hiçbir nesne düşmüyorsa o kavrama sıfır sayısı yüklenir. Yazar tekil olayı daha geniş bir yapının belirtisi olarak okumamızı ister.",
-        "'Bu odadaki tekboynuzlar' kavramı anlamlıdır ama odada ona uyan hiçbir şey olmadığı için sayısı sıfırdır. Örneği hatırlamak, kuru kavramı ezberlemekten daha kalıcı bir yol sunar.",
-        "Sıfır yokluk diye ele alınan fiziksel bir şey değil, belirli kavramın örnek içermemesi hakkında nesnel bir yargıdır. Neden ile sonuç arasındaki ara adımlar kitabın asıl açıklama gücünü taşır.",
-        "Kavram mantıksal olarak tutarsızsa örneksizlik farklı bir sebepten doğabilir; her boş sınıf aynı hikâyeyi taşımaz. İnsan niyeti ile kurumsal sonuç her zaman aynı yönde ilerlemez.",
-        "'Yok' dediğinizde dünyada hiçbir şey mi yok, yoksa seçtiğiniz ölçüte uyan örnek mi yok diye ayırın. Sıfır böylece hayali hiçliğe değil, doğrulanabilir bir örneksizlik koşuluna bağlanır. Ortalama sonuç kadar bedeli kimin ödediğini de görmek gerekir."
+        "Bir kavramın altına hiçbir nesne düşmüyorsa o kavrama sıfır sayısı yüklenir.",
+        "'Bu odadaki tekboynuzlar' kavramı anlamlıdır ama odada ona uyan hiçbir şey olmadığı için sayısı sıfırdır.",
+        "Sıfır yokluk diye ele alınan fiziksel bir şey değil, belirli kavramın örnek içermemesi hakkında nesnel bir yargıdır.",
+        "Kavram mantıksal olarak tutarsızsa örneksizlik farklı bir sebepten doğabilir; her boş sınıf aynı hikâyeyi taşımaz.",
+        "'Yok' dediğinizde dünyada hiçbir şey mi yok, yoksa seçtiğiniz ölçüte uyan örnek mi yok diye ayırın. Sıfır böylece hayali hiçliğe değil, doğrulanabilir bir örneksizlik koşuluna bağlanır."
       ]
     },
     {
@@ -130,11 +128,11 @@
       "section": "SAYI · BİR",
       "title": "Bir sayısı ve birim sorunu",
       "paragraphs": [
-        "Bir kavramın altına tam bir nesne düştüğünde sayı birdir; birim nesneyi parçalardan keyfî biçimde ayırma kararı değil, kavramın tanıdığı örnektir. Bu cümle sonuçtan önce hangi şartların oluştuğunu araştırmaya çağırır.",
-        "Bir orman, binlerce ağaç ve milyonlarca yaprak aynı alanda birlikte sayılabilir; 'bir' cevabı sorulan kavrama bağlıdır. Sahne, kavramı tanımdan çıkarıp insan yüzü ve gerçek bedelle buluşturur.",
-        "Kavram sayılabilir öğelerin eşitlik ölçütünü verir ve aynı şeyi iki kez saymayı önler. Bu bağlantı niyet ile sonuç arasındaki mesafeyi görünür tutar.",
-        "Kavramı istediğimiz gibi değiştirerek her cevabı üretebilmek istatistiğin nesnel olduğu anlamına gelmez; sınıflama gerekçelendirilmelidir. Açıklama olasılık gösterir; değişmez kader ilan etmez.",
-        "Bir raporda 'bir vaka' denirken vakanın nerede başlayıp bittiğini açıkça yazın. Sayma ancak neyin aynı birim sayılacağı açık olduğunda mekanik toplamadan bilgiye dönüşür. Görev tek doğruyu ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Bir kavramın altına tam bir nesne düştüğünde sayı birdir; birim nesneyi parçalardan keyfî biçimde ayırma kararı değil, kavramın tanıdığı örnektir.",
+        "Bir orman, binlerce ağaç ve milyonlarca yaprak aynı alanda birlikte sayılabilir; 'bir' cevabı sorulan kavrama bağlıdır.",
+        "Kavram sayılabilir öğelerin eşitlik ölçütünü verir ve aynı şeyi iki kez saymayı önler.",
+        "Kavramı istediğimiz gibi değiştirerek her cevabı üretebilmek istatistiğin nesnel olduğu anlamına gelmez; sınıflama gerekçelendirilmelidir.",
+        "Bir raporda 'bir vaka' denirken vakanın nerede başlayıp bittiğini açıkça yazın. Sayma ancak neyin aynı birim sayılacağı açık olduğunda mekanik toplamadan bilgiye dönüşür."
       ]
     },
     {
@@ -142,11 +140,11 @@
       "section": "SAYI · HUME İLKESİ",
       "title": "Eşit sayılılık: bire bir eşleme",
       "paragraphs": [
-        "İki kavramın örnekleri aralarında bire bir eşleme kurulabiliyorsa aynı sayıya sahiptir. Kavram, hazır cevap vermekten çok dikkatin yönünü değiştirir.",
-        "Her misafire bir sandalye düşüyor ve sandalye artmıyorsa insanları tek tek saymadan iki grubun eşit olduğunu biliriz. Bir ayrıntı değiştiğinde sonucun da değişmesi, kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Eşleme nesnelerin türünü ve görünüşünü önemsemeksizin çokluğu nesnel ilişkiyle karşılaştırır. Burada önemli olan adımları sırayla izlemek ve hiçbirini doğal kabul etmemektir.",
-        "Sonlu gündelik gruplarda kolay olan eşleme, sonsuz kümelerde sezgiye aykırı fakat güçlü sonuçlar üretir. Kitabın dönemi ve seçtiği örnekler hesaba katılmadan kavram kolayca dogmaya dönüşür.",
-        "İki iş yükünü yalnız toplam sayıyla değil her görevin karşılığını ve dışarıda kalan öğeyi eşleyerek kontrol edin. Eşleme çocukların saymadan önce bile 'herkese bir tane' kuralıyla kullandığı güçlü sezgidir. Dijital araç değişse bile güven, korku, itibar ve güç ilişkileri yeni biçimde sürebilir."
+        "İki kavramın örnekleri aralarında bire bir eşleme kurulabiliyorsa aynı sayıya sahiptir.",
+        "Her misafire bir sandalye düşüyor ve sandalye artmıyorsa insanları tek tek saymadan iki grubun eşit olduğunu biliriz.",
+        "Eşleme nesnelerin türünü ve görünüşünü önemsemeksizin çokluğu nesnel ilişkiyle karşılaştırır.",
+        "Sonlu gündelik gruplarda kolay olan eşleme, sonsuz kümelerde sezgiye aykırı fakat güçlü sonuçlar üretir.",
+        "İki iş yükünü yalnız toplam sayıyla değil her görevin karşılığını ve dışarıda kalan öğeyi eşleyerek kontrol edin. Eşleme çocukların saymadan önce bile 'herkese bir tane' kuralıyla kullandığı güçlü sezgidir."
       ]
     },
     {
@@ -154,11 +152,11 @@
       "section": "SAYI · AYNI SAYI",
       "title": "Sayıların özdeşliği",
       "paragraphs": [
-        "Bir kavrama ait sayı ile başka kavrama ait sayının aynı olması, o kavramların eşit sayılı olmasıyla açıklanır. Bundan sonraki tartışma bu temel bağlantının ne kadar taşınabileceğini sınar.",
-        "Dört mevsim ile arabanın dört tekeri hiçbir ortak madde taşımaz, fakat iki kavramın sayısı aynıdır. Örneğin gücü süslü olmasında değil, neden ile sonucu yan yana getirmesindedir.",
-        "Hume ilkesi sayı özdeşliğini eşleme koşuluna bağlayarak aritmetik konuşmayı nesnel hale getirir. İlişki tek yönlü değildir; sonuç da kendisini doğuran koşulları değiştirebilir.",
-        "Yalnız bu bağlamsal ilkenin sayı nesnelerinin tam doğasını verip vermediği yeni-Fregeci tartışmanın merkezidir. Kanıt, yorum ve değer yargısını ayrı tutmak burada özellikle önemlidir.",
-        "Aynı sonuç sayısına ulaşan iki grubun içerik ve maliyet bakımından da aynı olmadığını unutmayın. Eşit sayı, iki grubun aynı nesnelerden oluşmasını gerektirmez; yalnız yapısal karşılık ister. Başka türlü olsaydı ne değişirdi sorusu fikri gerçek bir olayda sınar."
+        "Bir kavrama ait sayı ile başka kavrama ait sayının aynı olması, o kavramların eşit sayılı olmasıyla açıklanır.",
+        "Dört mevsim ile arabanın dört tekeri hiçbir ortak madde taşımaz, fakat iki kavramın sayısı aynıdır.",
+        "Hume ilkesi sayı özdeşliğini eşleme koşuluna bağlayarak aritmetik konuşmayı nesnel hale getirir.",
+        "Yalnız bu bağlamsal ilkenin sayı nesnelerinin tam doğasını verip vermediği yeni-Fregeci tartışmanın merkezidir.",
+        "Aynı sonuç sayısına ulaşan iki grubun içerik ve maliyet bakımından da aynı olmadığını unutmayın. Eşit sayı, iki grubun aynı nesnelerden oluşmasını gerektirmez; yalnız yapısal karşılık ister."
       ]
     },
     {
@@ -166,11 +164,11 @@
       "section": "SAYI · SINIR",
       "title": "Julius Caesar sorunu",
       "paragraphs": [
-        "Eşit sayılılık sayıların birbirleriyle ne zaman aynı olduğunu söyler, fakat bir sayının Julius Caesar gibi sayı olmayan nesneyle aynı olup olmadığını doğrudan belirlemez. Bu ayrım kitabın geri kalanında izlenecek yolu açar.",
-        "Kimlik kartları yalnız çalışanları birbirinden ayırıyorsa, masanın çalışan olup olmadığı için ayrıca tür ölçütü gerekir. Aynı olayı başka kişinin gözünden görmek görünmeyen maliyeti açığa çıkarabilir.",
-        "Frege sayı ifadelerine tam nesne kimliği verecek açık tanım arar; bağlam içi ölçüt farklı nesne türleri arasındaki sınırı eksik bırakabilir. Kavram ancak bu ara hareketler açıkça görüldüğünde gerçek bir düşünme aracına dönüşür.",
-        "Bu sorun günlük hesapta Caesar'ın sayı sanılacağı anlamına gelmez; mantıksal tanımın eksiksizliğiyle ilgilidir. Kavram bazı olaylarda merkezde, bazılarında yalnız yardımcı etkendir.",
-        "Bir sistemin aynı tür içindeki karşılaştırmayı çözmesinin, neyin o türe girdiğini de çözdüğünü varsaymayın. Caesar sorusu, iyi görünen bir tanımın sessizce dışarıda bıraktığı kimlik alanını yakalar. Bir haftalık küçük gözlem, büyük iddianın gündelik karşılığını gösterebilir."
+        "Eşit sayılılık sayıların birbirleriyle ne zaman aynı olduğunu söyler, fakat bir sayının Julius Caesar gibi sayı olmayan nesneyle aynı olup olmadığını doğrudan belirlemez.",
+        "Kimlik kartları yalnız çalışanları birbirinden ayırıyorsa, masanın çalışan olup olmadığı için ayrıca tür ölçütü gerekir.",
+        "Frege sayı ifadelerine tam nesne kimliği verecek açık tanım arar; bağlam içi ölçüt farklı nesne türleri arasındaki sınırı eksik bırakabilir.",
+        "Bu sorun günlük hesapta Caesar'ın sayı sanılacağı anlamına gelmez; mantıksal tanımın eksiksizliğiyle ilgilidir.",
+        "Bir sistemin aynı tür içindeki karşılaştırmayı çözmesinin, neyin o türe girdiğini de çözdüğünü varsaymayın. Caesar sorusu, iyi görünen bir tanımın sessizce dışarıda bıraktığı kimlik alanını yakalar."
       ]
     },
     {
@@ -178,11 +176,11 @@
       "section": "SAYI · TANIM",
       "title": "Sayıyı bir uzantı olarak tanımlamak",
       "paragraphs": [
-        "Frege bir kavrama ait sayıyı, o kavramla eşit sayılı bütün kavramların oluşturduğu mantıksal uzantı olarak tanımlar. Böylece soyut kavram, gözlenebilir bir ilişkiye dönüşür.",
-        "'Dört' yalnız dört elma değil; dört köşe, dört mevsim ve dört örnekli bütün kavramların ortak eşitlik sınıfıdır. Bu küçük olay büyük haritanın neresine bakmamız gerektiğini gösteren bir işarettir.",
-        "Tanım sayı nesnesini belirli fiziksel gruptan kurtarır ve aynı sayılı bütün durumları tek nesnel birlik altında toplar. Açıklamanın sınanacağı yer, varsayılan halkanın gerçekten çalışıp çalışmadığıdır.",
-        "Uzantılara dayanan daha sonraki mantık sistemi Russell paradoksuyla tutarsız çıkmıştır; bu tarihsel sınır açıkça korunmalıdır. Yazarın dışarıda bıraktığı deneyimler kavramın sınırını görmek için dinlenmelidir.",
-        "Bir ortak ölçü kurarken örneklerin yüzey benzerliğine değil gerçekten korunan ilişkiye dayandığını kontrol edin. Uzantı hamlesi sayıları tek tek gruplardan bağımsızlaştırırken güçlü küme varsayımları getirir. Bugüne taşımak geçmişi kopyalamak değil, aynı mekanizmayı yeni koşullarda aramaktır."
+        "Frege bir kavrama ait sayıyı, o kavramla eşit sayılı bütün kavramların oluşturduğu mantıksal uzantı olarak tanımlar.",
+        "'Dört' yalnız dört elma değil; dört köşe, dört mevsim ve dört örnekli bütün kavramların ortak eşitlik sınıfıdır.",
+        "Tanım sayı nesnesini belirli fiziksel gruptan kurtarır ve aynı sayılı bütün durumları tek nesnel birlik altında toplar.",
+        "Uzantılara dayanan daha sonraki mantık sistemi Russell paradoksuyla tutarsız çıkmıştır; bu tarihsel sınır açıkça korunmalıdır.",
+        "Bir ortak ölçü kurarken örneklerin yüzey benzerliğine değil gerçekten korunan ilişkiye dayandığını kontrol edin. Uzantı hamlesi sayıları tek tek gruplardan bağımsızlaştırırken güçlü küme varsayımları getirir."
       ]
     },
     {
@@ -190,11 +188,11 @@
       "section": "DOĞAL SAYI · BAŞLANGIÇ",
       "title": "Sıfırı mantıksal kurmak",
       "paragraphs": [
-        "Frege sıfırı kendi kendisiyle özdeş olmayan nesne kavramına ait sayı olarak belirler; böyle bir nesne mantıken bulunamaz. Yazarın temel hamlesi tam olarak bu görünmeyen bağı açığa çıkarmaktır.",
-        "'Kendisiyle aynı olmayan kitap' şartını hiçbir kitap karşılamaz; bu kavramın örnek sayısı sıfırdır. Sahneyi yavaşlatınca tek karar sandığımız şeyin öncesindeki etkiler belirginleşir.",
-        "Mantıksal olarak boş kavram belirli bir fiziksel gözleme başvurmadan sıfırın nesnel başlangıcını sağlar. Bu süreç görünür olunca kişisel tercih ile yapısal baskı birbirinden ayrılabilir.",
-        "Modern sunumlar bu kurulumun teknik varsayımlarını farklı sistemlerle ifade eder; gündelik dil örneği tam formal kanıt değildir. Eleştirinin hedefi çoğu zaman soru değil, cevabın gereğinden fazla büyütülmesidir.",
-        "Sıfırı 'hiçbir şey' diye geçmek yerine hangi ölçüt altında örnek bulunmadığını belirtin. Kendisiyle özdeş olmama kavramı çelişkili olduğu için örneksizliği gözleme bağlı değildir. Karar öncesinde seçeneği olmayan kişiyi hesaba katmak tartışmayı dürüstleştirir."
+        "Frege sıfırı kendi kendisiyle özdeş olmayan nesne kavramına ait sayı olarak belirler; böyle bir nesne mantıken bulunamaz.",
+        "'Kendisiyle aynı olmayan kitap' şartını hiçbir kitap karşılamaz; bu kavramın örnek sayısı sıfırdır.",
+        "Mantıksal olarak boş kavram belirli bir fiziksel gözleme başvurmadan sıfırın nesnel başlangıcını sağlar.",
+        "Modern sunumlar bu kurulumun teknik varsayımlarını farklı sistemlerle ifade eder; gündelik dil örneği tam formal kanıt değildir.",
+        "Sıfırı 'hiçbir şey' diye geçmek yerine hangi ölçüt altında örnek bulunmadığını belirtin. Kendisiyle özdeş olmama kavramı çelişkili olduğu için örneksizliği gözleme bağlı değildir."
       ]
     },
     {
@@ -202,11 +200,11 @@
       "section": "DOĞAL SAYI · İLERLEME",
       "title": "Ardıl ve sayı dizisi",
       "paragraphs": [
-        "Bir kavramın altına düşen nesnelerden biri çıkarıldığında kalan kavramın sayısı n ise ilk kavramın sayısı n'nin ardılıdır. Bu nokta atlanırsa fikir kolayca yanlış bir slogana dönüşür.",
-        "Masadaki elmalardan birini sepete koyunca kalan dörtse ilk toplam beştir; tek çıkarma ardıl ilişkisini görünür kılar. Gündelik ayrıntı, soyut düşüncenin hayata değdiği noktayı görünür kılar.",
-        "Ardıl ilişkisi sıfırdan başlayarak doğal sayıların düzenini ve her adımın öncekine bağını kurar. Mekanizma aynı sonucu her yerde garanti etmez; bağlam onun gücünü artırır ya da azaltır.",
-        "Bu sezgisel anlatım Frege'nin ilişki ve atalar kuramındaki bütün biçimsel ayrıntıları içermez. Geçmişi bugünün kopyası saymak kadar aralarında bağ yokmuş gibi davranmak da yanıltır.",
-        "Bir büyüme grafiğinde yalnız son sayıya değil her yeni öğenin önceki toplamla nasıl bağlandığına bakın. Ardıl, sayı dizisini hazır liste olarak vermek yerine her yeni sayının nasıl üretildiğini açıklar. Bu soru, kitabın düşüncesini günlük bir alışkanlığa dönüştürebilir."
+        "Bir kavramın altına düşen nesnelerden biri çıkarıldığında kalan kavramın sayısı n ise ilk kavramın sayısı n'nin ardılıdır.",
+        "Masadaki elmalardan birini sepete koyunca kalan dörtse ilk toplam beştir; tek çıkarma ardıl ilişkisini görünür kılar.",
+        "Ardıl ilişkisi sıfırdan başlayarak doğal sayıların düzenini ve her adımın öncekine bağını kurar.",
+        "Bu sezgisel anlatım Frege'nin ilişki ve atalar kuramındaki bütün biçimsel ayrıntıları içermez.",
+        "Bir büyüme grafiğinde yalnız son sayıya değil her yeni öğenin önceki toplamla nasıl bağlandığına bakın. Ardıl, sayı dizisini hazır liste olarak vermek yerine her yeni sayının nasıl üretildiğini açıklar."
       ]
     },
     {
@@ -214,11 +212,11 @@
       "section": "DOĞAL SAYI · İNDÜKSİYON",
       "title": "Sonsuz doğal sayılar",
       "paragraphs": [
-        "Frege doğal sayıyı sıfırdan ardıl ilişkisiyle ulaşılabilen nesne olarak tanımlayıp matematiksel tümevarımın mantıksal temelini kurmaya çalışır. Mesele tek neden bulmak değil, sonucu üreten düzeni görebilmektir.",
-        "Domino taşlarının ilki düşer ve her taş sonrakini düşürürse sıradaki bütün taşların devrileceğini tek tek izlemeksizin biliriz. Örnek kanıtın tamamı değildir; yine de iddianın nerede sınanacağını açık eder.",
-        "Başlangıç durumu ile adım kuralı birlikte bütün doğal sayılara yayılan kanıt biçimini verir. Aradaki basamakları atlamak etkileyici fakat boş bir sonuca yol açabilir.",
-        "Fiziksel domino dizisi sonludur; sonsuz mantıksal genellik yalnız benzetmeyle değil formal tanımla sağlanır. Sonraki araştırmalar ayrıntıyı değiştirse bile iyi soru yaşamaya devam edebilir.",
-        "Genel kural savunurken hem ilk vakayı hem bir adımdan sonrakine geçişin gerçekten korunduğunu gösterin. Tümevarım sayısız örneği tek tek kontrol etmeden yapısal bir adımın genelliğini kullanır. Böyle bir gözlem kavramın açıklayıcı mı, yalnız etkileyici mi olduğunu gösterir."
+        "Frege doğal sayıyı sıfırdan ardıl ilişkisiyle ulaşılabilen nesne olarak tanımlayıp matematiksel tümevarımın mantıksal temelini kurmaya çalışır.",
+        "Domino taşlarının ilki düşer ve her taş sonrakini düşürürse sıradaki bütün taşların devrileceğini tek tek izlemeksizin biliriz.",
+        "Başlangıç durumu ile adım kuralı birlikte bütün doğal sayılara yayılan kanıt biçimini verir.",
+        "Fiziksel domino dizisi sonludur; sonsuz mantıksal genellik yalnız benzetmeyle değil formal tanımla sağlanır.",
+        "Genel kural savunurken hem ilk vakayı hem bir adımdan sonrakine geçişin gerçekten korunduğunu gösterin. Tümevarım sayısız örneği tek tek kontrol etmeden yapısal bir adımın genelliğini kullanır."
       ]
     },
     {
@@ -226,11 +224,11 @@
       "section": "SONUÇ · MİRAS",
       "title": "Lojisizmin başarısı ve kırığı",
       "paragraphs": [
-        "Frege aritmetiğin temelini psikoloji ve deneyden ayırıp mantıksal tanımlarla kurmak istedi; program büyük bir dönüşüm yarattı fakat kendi uzantı yasası paradoksa düştü. Kavramın değeri, daha önce kopuk duran ayrıntıları aynı haritada buluşturmasındadır.",
-        "Sağlam köprü tasarlayan mühendis yeni yapı tekniği keşfeder, sonra temel malzemede çatlak bulur; yöntem başka köprülerde yaşamayı sürdürür. Aynı kişiler başka kurallar içinde farklı davranınca açıklamanın yeri değişir.",
-        "Russell paradoksu Temel Yasa V'yi yıktı, ancak bağlam ilkesi, nicelik çözümlemesi ve mantıksal sayı araştırması analitik felsefeyi biçimlendirdi. Bu hareketin kim tarafından başlatıldığı kadar kim tarafından sürdürüldüğü de önemlidir.",
-        "Sistemin bir aksiyomunun çökmesi kitaptaki her ayrımın anlamsız olduğu sonucunu vermez. Güçlü ton, belirsizlik ve bağlam payını ortadan kaldırmaz.",
-        "Bir büyük teoriyi değerlendirirken işe yarayan kavramsal araçla çöken teknik temeli aynı hükme sıkıştırmayın. Frege Russell'ın mektubunu alınca hatayı kabul etmiş; bu dürüstlük düşünce tarihinin çarpıcı anlarından biri olmuştur. Amaç düşünceyi insanlara etiket yapmak değil, görünmeyen koşulu fark etmektir."
+        "Frege aritmetiğin temelini psikoloji ve deneyden ayırıp mantıksal tanımlarla kurmak istedi; program büyük bir dönüşüm yarattı fakat kendi uzantı yasası paradoksa düştü.",
+        "Sağlam köprü tasarlayan mühendis yeni yapı tekniği keşfeder, sonra temel malzemede çatlak bulur; yöntem başka köprülerde yaşamayı sürdürür.",
+        "Russell paradoksu Temel Yasa V'yi yıktı, ancak bağlam ilkesi, nicelik çözümlemesi ve mantıksal sayı araştırması analitik felsefeyi biçimlendirdi.",
+        "Sistemin bir aksiyomunun çökmesi kitaptaki her ayrımın anlamsız olduğu sonucunu vermez.",
+        "Bir büyük teoriyi değerlendirirken işe yarayan kavramsal araçla çöken teknik temeli aynı hükme sıkıştırmayın. Frege Russell'ın mektubunu alınca hatayı kabul etmiş; bu dürüstlük düşünce tarihinin çarpıcı anlarından biri olmuştur."
       ]
     },
     {

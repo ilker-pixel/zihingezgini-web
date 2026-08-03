@@ -12,8 +12,6 @@
   "chapterArtColor": "#3E6880",
   "meta": {
     "originalTitle": "Physics and Philosophy",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Elektron nerede diye sorduğunuzda doğa bazen size 'onu nasıl ölçmeye karar verdin?' diye karşılık verir. Heisenberg'in kitabı, bu cevabın bilgisizlik bahanesi değil, atom dünyasının yapısına ilişkin yeni bir düşünme biçimi olduğunu anlatır.",
@@ -46,13 +44,10 @@
       "section": "BİRİNCİ KISIM · ESKİ HARİTA",
       "title": "Klasik fiziğin sağlam dünyası",
       "paragraphs": [
-        "Newton fiziği nesnelerin belirli konum ve hızlarla gözlemciden bağımsız bir dünyada hareket ettiği güçlü bir model kurdu. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "Bilardo topunun yolunu başlangıç konumu ve vuruşla hesaplamak, gelecek çarpışmayı şaşırtıcı doğrulukla verir. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Klasik fizik kendi ölçeğinde yanlış değildir; atom ve ışık olaylarında sınırına ulaşır. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
-        "Bir model başarısız olduğunda onu her yerde çöpe atmak yerine hangi ölçekte güvenilir olduğunu belirlemek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Klasik fiziğin sağlam dünyası” ile Fizik ve Felsefe kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Newton fiziği nesnelerin belirli konum ve hızlarla gözlemciden bağımsız bir dünyada hareket ettiği güçlü bir model kurdu.",
+        "Bilardo topunun yolunu başlangıç konumu ve vuruşla hesaplamak, gelecek çarpışmayı şaşırtıcı doğrulukla verir.",
+        "Klasik fizik kendi ölçeğinde yanlış değildir; atom ve ışık olaylarında sınırına ulaşır.",
+        "Bir model başarısız olduğunda onu her yerde çöpe atmak yerine hangi ölçekte güvenilir olduğunu belirlemek gerekir."
       ]
     },
     {
@@ -60,10 +55,10 @@
       "section": "BİRİNCİ KISIM · KUANTUM",
       "title": "Enerjinin küçük paketleri",
       "paragraphs": [
-        "Planck'ın enerji alışverişinin kesintisiz değil belirli paketler halinde olduğunu bulması klasik süreklilik fikrini sarstı. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Rampadan akan su yerine basamaklı jeton makinesi düşünün; değer istediğiniz kadar küçük değil belirli birimlerle geçer. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
-        "Kuantum sözcüğü gündelik her belirsizlik ve gizem için kullanılmamalıdır. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Bilimsel terimin matematiksel anlamını kişisel gelişim benzetmesinden ayırmak gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+        "Planck'ın enerji alışverişinin kesintisiz değil belirli paketler halinde olduğunu bulması klasik süreklilik fikrini sarstı.",
+        "Rampadan akan su yerine basamaklı jeton makinesi düşünün; değer istediğiniz kadar küçük değil belirli birimlerle geçer.",
+        "Kuantum sözcüğü gündelik her belirsizlik ve gizem için kullanılmamalıdır.",
+        "Bilimsel terimin matematiksel anlamını kişisel gelişim benzetmesinden ayırmak gerekir."
       ]
     },
     {
@@ -71,13 +66,10 @@
       "section": "BİRİNCİ KISIM · ATOM",
       "title": "Bohr atomu ve sıçramalar",
       "paragraphs": [
-        "Bohr elektronların yalnız belirli enerji durumlarında bulunup ışık alarak veya vererek aralarında geçebildiğini önerdi. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
-        "Merdivende insan basamakta durur ama iki basamak arasındaki boşlukta dinlenemez; enerji düzeyleri de seçili değerler verir. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Merdiven resmi modern kuantum durumlarının tam görüntüsü değildir. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
-        "Akılda kalıcı modelin hangi sonucu doğru verdiğini ve nerede yalnız öğretici resim olduğunu belirtmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Bohr atomu ve sıçramalar” ile Fizik ve Felsefe kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Bohr elektronların yalnız belirli enerji durumlarında bulunup ışık alarak veya vererek aralarında geçebildiğini önerdi.",
+        "Merdivende insan basamakta durur ama iki basamak arasındaki boşlukta dinlenemez; enerji düzeyleri de seçili değerler verir.",
+        "Merdiven resmi modern kuantum durumlarının tam görüntüsü değildir.",
+        "Akılda kalıcı modelin hangi sonucu doğru verdiğini ve nerede yalnız öğretici resim olduğunu belirtmek gerekir."
       ]
     },
     {
@@ -85,10 +77,10 @@
       "section": "İKİNCİ KISIM · YENİ DİL",
       "title": "Matris mekaniği görünmeyeni bırakır",
       "paragraphs": [
-        "Heisenberg gözlenemeyen elektron yörüngelerini hayal etmek yerine ölçülebilen tayf geçişleri arasındaki matematiksel ilişkilerle başladı. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
-        "Kapalı odadaki makinenin iç çizimini uydurmak yerine gelen ışık ile çıkan ses arasındaki düzeni tabloya koyarız. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
-        "Gözlenemeyeni konuşmamak onun var olmadığını kanıtlamaz; yöntemsel bir seçimi ontolojiye çevirmemek gerekir. Burada kanıt, yorum ve değer yargısını birbirinden ayırmak özellikle önemlidir.",
-        "Bir kuramın doğrudan veri, hesap aracı ve gerçeklik iddiasını üç ayrı katmanda okumak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+        "Heisenberg gözlenemeyen elektron yörüngelerini hayal etmek yerine ölçülebilen tayf geçişleri arasındaki matematiksel ilişkilerle başladı.",
+        "Kapalı odadaki makinenin iç çizimini uydurmak yerine gelen ışık ile çıkan ses arasındaki düzeni tabloya koyarız.",
+        "Gözlenemeyeni konuşmamak onun var olmadığını kanıtlamaz; yöntemsel bir seçimi ontolojiye çevirmemek gerekir.",
+        "Bir kuramın doğrudan veri, hesap aracı ve gerçeklik iddiasını üç ayrı katmanda okumak gerekir."
       ]
     },
     {
@@ -96,10 +88,10 @@
       "section": "İKİNCİ KISIM · TAMAMLAYICILIK",
       "title": "Dalga mı parçacık mı?",
       "paragraphs": [
-        "Işık ve madde deney düzenine göre dalga veya parçacık özellikleri gösterir; tek gündelik resim bütün olguları kapsamaz. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
-        "Tek tek elektronlar ekranda nokta bırakırken çok sayıda atış girişim deseni kurar. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "Bu sonuç elektronun istediğimiz anda bilinçle biçim değiştirdiği anlamına gelmez. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Bir deney iddiasında kullanılan düzenek ile ortaya çıkan özelliği birlikte belirtmek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+        "Işık ve madde deney düzenine göre dalga veya parçacık özellikleri gösterir; tek gündelik resim bütün olguları kapsamaz.",
+        "Tek tek elektronlar ekranda nokta bırakırken çok sayıda atış girişim deseni kurar.",
+        "Bu sonuç elektronun istediğimiz anda bilinçle biçim değiştirdiği anlamına gelmez.",
+        "Bir deney iddiasında kullanılan düzenek ile ortaya çıkan özelliği birlikte belirtmek gerekir."
       ]
     },
     {
@@ -107,13 +99,10 @@
       "section": "İKİNCİ KISIM · İLKE",
       "title": "Belirsizlik ölçü aleti kusuru değildir",
       "paragraphs": [
-        "Konum ve momentum gibi eşlenik büyüklüklerin aynı durumda sınırsız kesinlikle belirlenememesi kuantum yapısının matematiksel sonucudur. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Elektronu daha kısa dalga boylu ışıkla yerelleştirmek momentum bilgisiyle ilgili dağılımı büyütür. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
-        "Belirsizliği yalnız ölçerken parçacığa çarpma hikâyesiyle açıklamak modern ilişkinin bütününü vermez. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Teknik bir sınırı insanın kararsızlığı veya her şeyin göreli olduğu sloganıyla karıştırmamak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Belirsizlik ölçü aleti kusuru değildir” ile Fizik ve Felsefe kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Konum ve momentum gibi eşlenik büyüklüklerin aynı durumda sınırsız kesinlikle belirlenememesi kuantum yapısının matematiksel sonucudur.",
+        "Elektronu daha kısa dalga boylu ışıkla yerelleştirmek momentum bilgisiyle ilgili dağılımı büyütür.",
+        "Belirsizliği yalnız ölçerken parçacığa çarpma hikâyesiyle açıklamak modern ilişkinin bütününü vermez.",
+        "Teknik bir sınırı insanın kararsızlığı veya her şeyin göreli olduğu sloganıyla karıştırmamak gerekir."
       ]
     },
     {
@@ -121,10 +110,10 @@
       "section": "İKİNCİ KISIM · POTANSİYEL",
       "title": "Olasılık dalgası ne anlatır?",
       "paragraphs": [
-        "Dalga fonksiyonu tek olayın kesin sonucunu değil, olası ölçüm sonuçlarının düzenini verir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
-        "Aynı hazırlanan atomlardan hangisinin ne zaman bozunacağını tek tek söyleyemeyiz ama büyük grubun dağılımını çok iyi hesaplarız. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Olasılık bilgisizlik mi gerçek eğilim mi sorusu farklı kuantum yorumlarında açık kalır. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Tahminin tek vaka mı topluluk dağılımı mı verdiğini bilmeden başarı veya hata hükmü vermemek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+        "Dalga fonksiyonu tek olayın kesin sonucunu değil, olası ölçüm sonuçlarının düzenini verir.",
+        "Aynı hazırlanan atomlardan hangisinin ne zaman bozunacağını tek tek söyleyemeyiz ama büyük grubun dağılımını çok iyi hesaplarız.",
+        "Olasılık bilgisizlik mi gerçek eğilim mi sorusu farklı kuantum yorumlarında açık kalır.",
+        "Tahminin tek vaka mı topluluk dağılımı mı verdiğini bilmeden başarı veya hata hükmü vermemek gerekir."
       ]
     },
     {
@@ -132,13 +121,10 @@
       "section": "ÜÇÜNCÜ KISIM · GÖZLEMCİ",
       "title": "Ölçüm olayın parçasıdır",
       "paragraphs": [
-        "Atom deneyinde ölçüm düzeni hangi sorunun anlamlı olduğunu ve hangi sonucun kaydedileceğini belirleyen fiziksel etkileşimdir. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
-        "Çift yarıkta yol bilgisi toplayan aygıt eklenince girişim düzeni değişir; yalnız insan gözüyle bakmak değil düzenek önemlidir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Kuantum ölçümü insan bilincinin evreni keyfine göre yarattığı anlamına gelmez. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
-        "'Gözlemci etkisi' denildiğinde insan psikolojisi mi, fiziksel aygıt etkileşimi mi kastedildiğini sormak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Ölçüm olayın parçasıdır” ile Fizik ve Felsefe kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Atom deneyinde ölçüm düzeni hangi sorunun anlamlı olduğunu ve hangi sonucun kaydedileceğini belirleyen fiziksel etkileşimdir.",
+        "Çift yarıkta yol bilgisi toplayan aygıt eklenince girişim düzeni değişir; yalnız insan gözüyle bakmak değil düzenek önemlidir.",
+        "Kuantum ölçümü insan bilincinin evreni keyfine göre yarattığı anlamına gelmez.",
+        "'Gözlemci etkisi' denildiğinde insan psikolojisi mi, fiziksel aygıt etkileşimi mi kastedildiğini sormak gerekir."
       ]
     },
     {
@@ -146,10 +132,10 @@
       "section": "ÜÇÜNCÜ KISIM · KOPENHAG YORUMU",
       "title": "Kesme çizgisi neden gereklidir?",
       "paragraphs": [
-        "Deneyi anlatmak için kuantum sistemiyle klasik dilde tarif edilen aygıt arasında pratik bir kesim yapılır. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Elektron olasılık diliyle, ekrandaki görünür nokta ise herkesin paylaşabileceği klasik olay diliyle kaydedilir. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
-        "Kesimin tam yerinin belirsizliği ölçüm problemini bütünüyle çözmediği için sonraki yorumlar ortaya çıkmıştır. İtirazın hedefi çoğu zaman ana soru değil, o soruya verilen cevabın gereğinden fazla genişletilmesidir.",
-        "Bir açıklamada nerede kuantum hesap, nerede gündelik kayıt dili kullanıldığını görünür kılmak gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+        "Deneyi anlatmak için kuantum sistemiyle klasik dilde tarif edilen aygıt arasında pratik bir kesim yapılır.",
+        "Elektron olasılık diliyle, ekrandaki görünür nokta ise herkesin paylaşabileceği klasik olay diliyle kaydedilir.",
+        "Kesimin tam yerinin belirsizliği ölçüm problemini bütünüyle çözmediği için sonraki yorumlar ortaya çıkmıştır.",
+        "Bir açıklamada nerede kuantum hesap, nerede gündelik kayıt dili kullanıldığını görünür kılmak gerekir."
       ]
     },
     {
@@ -157,13 +143,10 @@
       "section": "ÜÇÜNCÜ KISIM · DİL",
       "title": "Klasik kavramlar hem yetersiz hem zorunlu",
       "paragraphs": [
-        "Atom dünyası gündelik resimlere sığmaz ama deney sonucunu başkasına anlatmak için konum, zaman ve aygıt gibi klasik sözcüklere ihtiyaç duyarız. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
-        "Harita küre değildir ama yol tarifinde yine harita kullanırız; sorun işareti gerçek şeyle karıştırmamaktır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
-        "Dil sınırı doğa hakkında hiçbir gerçekçi söz söylenemeyeceği anlamına gelmez. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Bir benzetmenin hangi ölçümü taşıdığını ve hangi ayrıntıyı kaçırdığını açıkça söylemek gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Klasik kavramlar hem yetersiz hem zorunlu” ile Fizik ve Felsefe kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Atom dünyası gündelik resimlere sığmaz ama deney sonucunu başkasına anlatmak için konum, zaman ve aygıt gibi klasik sözcüklere ihtiyaç duyarız.",
+        "Harita küre değildir ama yol tarifinde yine harita kullanırız; sorun işareti gerçek şeyle karıştırmamaktır.",
+        "Dil sınırı doğa hakkında hiçbir gerçekçi söz söylenemeyeceği anlamına gelmez.",
+        "Bir benzetmenin hangi ölçümü taşıdığını ve hangi ayrıntıyı kaçırdığını açıkça söylemek gerekir."
       ]
     },
     {
@@ -171,10 +154,10 @@
       "section": "DÖRDÜNCÜ KISIM · GERÇEKLİK",
       "title": "Einstein'ın itirazı",
       "paragraphs": [
-        "Einstein kuantum kuramının başarılarını kabul ederken olasılıklı ve gözlem bağlamına bağlı anlatımın eksiksiz gerçeklik resmi olmadığını düşündü. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Kapalı kutudaki eldivenin biri sağ çıkınca diğerinin sol olduğunu öğreniriz; Einstein benzer belirlenmiş özelliklerin önceden var olmasını ister. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Kuantum dolaşıklığı basit eldiven benzetmesinden daha güçlü korelasyonlar üretir ve sonraki Bell deneyleri tartışmayı değiştirmiştir. Yazarın güçlü tonu, olasılık ve bağlam payını yok etmez; gerçek hayat iki uç arasında birçok ara renk taşır.",
-        "Tarihsel itirazı bugünkü deney sonuçlarıyla güncelleyerek okumak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "Einstein kuantum kuramının başarılarını kabul ederken olasılıklı ve gözlem bağlamına bağlı anlatımın eksiksiz gerçeklik resmi olmadığını düşündü.",
+        "Kapalı kutudaki eldivenin biri sağ çıkınca diğerinin sol olduğunu öğreniriz; Einstein benzer belirlenmiş özelliklerin önceden var olmasını ister.",
+        "Kuantum dolaşıklığı basit eldiven benzetmesinden daha güçlü korelasyonlar üretir ve sonraki Bell deneyleri tartışmayı değiştirmiştir.",
+        "Tarihsel itirazı bugünkü deney sonuçlarıyla güncelleyerek okumak gerekir."
       ]
     },
     {
@@ -182,10 +165,10 @@
       "section": "DÖRDÜNCÜ KISIM · NEDEN",
       "title": "Nedensellik yok mu oldu?",
       "paragraphs": [
-        "Kuantum kuramı tek olayın kesin öngörüsünü sınırlasa da matematiksel durumun ve olasılıkların düzenli evrimini korur. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
-        "Radyoaktif çekirdeğin tam bozunma anı bilinmez ama yarı ömür istatistiği güvenilir biçimde hesaplanır. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "Belirsizlik nedensiz mucize veya her açıklamanın eşit olduğu sonucunu vermez. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
-        "Bir olayda kesin tekil neden, istatistiksel düzen ve bilgisizlik payını ayrı değerlendirmek gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
+        "Kuantum kuramı tek olayın kesin öngörüsünü sınırlasa da matematiksel durumun ve olasılıkların düzenli evrimini korur.",
+        "Radyoaktif çekirdeğin tam bozunma anı bilinmez ama yarı ömür istatistiği güvenilir biçimde hesaplanır.",
+        "Belirsizlik nedensiz mucize veya her açıklamanın eşit olduğu sonucunu vermez.",
+        "Bir olayda kesin tekil neden, istatistiksel düzen ve bilgisizlik payını ayrı değerlendirmek gerekir."
       ]
     },
     {
@@ -193,13 +176,10 @@
       "section": "DÖRDÜNCÜ KISIM · MADDE",
       "title": "Kimya neden kuantumla değişti?",
       "paragraphs": [
-        "Elektron durumları ve dışlama ilkesi atomların bağlanma biçimini açıklayarak periyodik tablo ile kimyasal özelliklere temel sağladı. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Tuzun kristali ve karbonun bağları görünür biçimlerini atom düzeyindeki izinli durumlara borçludur. Bu küçük hikâye, büyük iddianın evde, sokakta ya da kurum içinde nasıl çalışabileceğini görünür kılar.",
-        "Temel fizik kimyanın bütün açıklama dilini gereksiz kılmaz; yeni düzeyde örüntüler doğar. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
-        "Bir olguyu alt parçalarına indirmekle üst düzey işleyişini açıklamanın farklı görevler olduğunu görmek gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
-      ],
-      "extraParagraphs": [
-        "İddianın sınırını denemek için, “Kimya neden kuantumla değişti?” ile Fizik ve Felsefe kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Elektron durumları ve dışlama ilkesi atomların bağlanma biçimini açıklayarak periyodik tablo ile kimyasal özelliklere temel sağladı.",
+        "Tuzun kristali ve karbonun bağları görünür biçimlerini atom düzeyindeki izinli durumlara borçludur.",
+        "Temel fizik kimyanın bütün açıklama dilini gereksiz kılmaz; yeni düzeyde örüntüler doğar.",
+        "Bir olguyu alt parçalarına indirmekle üst düzey işleyişini açıklamanın farklı görevler olduğunu görmek gerekir."
       ]
     },
     {
@@ -207,10 +187,10 @@
       "section": "BEŞİNCİ KISIM · CANLILIK",
       "title": "Biyoloji yalnız fizik midir?",
       "paragraphs": [
-        "Heisenberg canlılığın fizik yasalarına aykırı olmadığını, fakat organizmanın bütünlüğü için tamamlayıcı açıklama düzeyleri gerekebileceğini tartışır. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
-        "DNA molekülü kimyasal bağlarla çalışır ama bir hücrenin onarım düzeni yalnız tek bağın tarifiyle anlaşılmaz. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
-        "Yaşam için gizemli kuvvet eklemek kanıt gerektirir; bütünlük sözcüğü mekanizmanın yerini tutmamalıdır. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
-        "Biyolojik açıklamada molekül, hücre, çevre ve işlev düzeylerini birbirine rakip değil bağlı görmek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+        "Heisenberg canlılığın fizik yasalarına aykırı olmadığını, fakat organizmanın bütünlüğü için tamamlayıcı açıklama düzeyleri gerekebileceğini tartışır.",
+        "DNA molekülü kimyasal bağlarla çalışır ama bir hücrenin onarım düzeni yalnız tek bağın tarifiyle anlaşılmaz.",
+        "Yaşam için gizemli kuvvet eklemek kanıt gerektirir; bütünlük sözcüğü mekanizmanın yerini tutmamalıdır.",
+        "Biyolojik açıklamada molekül, hücre, çevre ve işlev düzeylerini birbirine rakip değil bağlı görmek gerekir."
       ]
     },
     {
@@ -218,13 +198,10 @@
       "section": "BEŞİNCİ KISIM · KARŞILAŞTIRMA",
       "title": "Eski felsefelerle yeni fizik",
       "paragraphs": [
-        "Platon, Aristoteles, Kant ve Doğu düşüncesindeki madde ve bilgi fikirlerini kuantum devrimiyle karşılaştırır. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
-        "Değişmez atom fikri parçacıkların dönüşebildiği yüksek enerji fiziğinde eski katı anlamını kaybeder. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
-        "Benzer sözcükler tarihsel düşüncelerin modern fiziği önceden bildiğini göstermez. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Felsefi benzetmeyi esin kaynağı olarak kullanırken deneysel eşdeğerlik iddiasından kaçınmak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
-      ],
-      "extraParagraphs": [
-        "Sahnedeki zamanı biraz yavaşlattığımızda, “Eski felsefelerle yeni fizik” ile Fizik ve Felsefe kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Platon, Aristoteles, Kant ve Doğu düşüncesindeki madde ve bilgi fikirlerini kuantum devrimiyle karşılaştırır.",
+        "Değişmez atom fikri parçacıkların dönüşebildiği yüksek enerji fiziğinde eski katı anlamını kaybeder.",
+        "Benzer sözcükler tarihsel düşüncelerin modern fiziği önceden bildiğini göstermez.",
+        "Felsefi benzetmeyi esin kaynağı olarak kullanırken deneysel eşdeğerlik iddiasından kaçınmak gerekir."
       ]
     },
     {
@@ -233,9 +210,9 @@
       "title": "Bilim insanının siyasi sorumluluğu",
       "paragraphs": [
         "Atom fiziğinin silaha dönüşmesi bilim insanının yalnız doğru hesap değil, bilgisinin toplumsal sonucu hakkında da sorumluluk taşıdığını gösterir.",
-        "Laboratuvarda nötron zincirini anlayan kişi, aynı bilginin şehirleri yok eden bombaya dönüşmesini artık dışarıdaki konu sayamaz. Aynı kişileri başka kuralların içine koyduğumuzda davranışın değişmesi, açıklamanın nerede aranacağını gösterir.",
-        "Bilim insanı siyasi kararın tek sahibi değildir; yurttaş, kurum ve devlet sorumluluğu paylaşır. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Bir teknolojide yapılabilirlik, yarar, kötüye kullanım ve demokratik denetimi aynı değerlendirme masasına koymak gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
+        "Laboratuvarda nötron zincirini anlayan kişi, aynı bilginin şehirleri yok eden bombaya dönüşmesini artık dışarıdaki konu sayamaz.",
+        "Bilim insanı siyasi kararın tek sahibi değildir; yurttaş, kurum ve devlet sorumluluğu paylaşır.",
+        "Bir teknolojide yapılabilirlik, yarar, kötüye kullanım ve demokratik denetimi aynı değerlendirme masasına koymak gerekir."
       ]
     },
     {
@@ -255,7 +232,7 @@
       "paragraphs": [
         "Gifford derslerinden doğan kitap kuantum devrimini geniş okura anlatan en etkili metinlerden biri oldu ve Kopenhag yorumunun tarihsel savunusu olarak okunmaya devam ediyor.",
         "Sonraki fizikçiler ölçüm problemi, belirsizlik ilişkisinin farklı türleri ve alternatif yorumlar konusunda Heisenberg'in anlatısını genişletti; felsefi karşılaştırmaları yer yer fazla genel bulundu.",
-        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Fizik ve Felsefe bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+        "Fizik ve Felsefe bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
       ]
     },
     {
@@ -265,7 +242,7 @@
       "paragraphs": [
         "Hangi kavram yalnız gündelik ölçekte çalışıyor? Ölçüm düzeneği soruyu nasıl değiştiriyor? Olasılık bilgisizlik mi, doğanın yapısı mı?",
         "Bir bilim haberi seçin; haberde ölçülen şey, kullanılan araç, tek olay için söylenen ve çok sayıda olay için söylenen sonucu dört satırda ayırın.",
-        "Fizik ve Felsefe bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+        "Fizik ve Felsefe bu soruların hemen cevaplanmasını beklemez."
       ]
     },
     {
@@ -274,8 +251,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Kuantum fiziği doğayı keyfî hale getirmez; klasik nesne ve neden resmimizin sınırını gösterip deney düzeni, olasılık ve dil arasındaki ilişkiyi daha dikkatli kurmamızı ister.",
-        "Akılda tutulacak son görüntü, kobalt mavisi bir laboratuvarda dalga halkaları ile parçacık izlerinin pirinç bir ölçüm aygıtında kesiştiği, arka planda klasik saat kadranının atom yıldızlarına dağıldığı ışıklı bir sahnedir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
-        "Fizik ve Felsefe adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+        "Akılda tutulacak son görüntü, kobalt mavisi bir laboratuvarda dalga halkaları ile parçacık izlerinin pirinç bir ölçüm aygıtında kesiştiği, arka planda klasik saat kadranının atom yıldızlarına dağıldığı ışıklı bir sahnedir.",
+        "Fizik ve Felsefe adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

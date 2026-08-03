@@ -12,8 +12,6 @@
   "chapterArtColor": "#5F7B55",
   "meta": {
     "originalTitle": "Capital in the Twenty-First Century",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Bir aile maaşından her ay biraz biriktirir; başka aile büyük bir apartman miras alır. Ekonomi yılda yüzde bir büyürken servet yüzde dört getiri sağlarsa aradaki fark çalışkanlık hikâyesinden daha hızlı açılabilir. Piketty bu basit gerilimi iki yüzyıllık veriye taşır.",
@@ -46,13 +44,10 @@
       "section": "BİRİNCİ KISIM · VERİ",
       "title": "Eşitsizliği ölçmek neden zor?",
       "paragraphs": [
-        "Hane anketleri en zenginleri kaçırabilir; uzun dönem vergi ve miras kayıtları tepedeki yoğunlaşmayı daha iyi gösterebilir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
-        "Bin kişilik ankette milyarder çıkmaz ama vergi tablosunun en üst diliminde görünür. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
-        "Vergi kaçırma ve değişen tanımlar veriyi kusursuz yapmaz. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Kaynak, kapsam ve ölçüm değişimini açıkça belirtmek gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Eşitsizliği ölçmek neden zor?” ile 21. Yüzyılda Sermaye kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Hane anketleri en zenginleri kaçırabilir; uzun dönem vergi ve miras kayıtları tepedeki yoğunlaşmayı daha iyi gösterebilir.",
+        "Bin kişilik ankette milyarder çıkmaz ama vergi tablosunun en üst diliminde görünür.",
+        "Vergi kaçırma ve değişen tanımlar veriyi kusursuz yapmaz.",
+        "Kaynak, kapsam ve ölçüm değişimini açıkça belirtmek gerekir."
       ]
     },
     {
@@ -60,10 +55,10 @@
       "section": "BİRİNCİ KISIM · AYRIM",
       "title": "Gelir ile servet aynı değildir",
       "paragraphs": [
-        "Gelir belirli dönemde akan maaş, kâr ve kiradır; servet geçmişten biriken varlıkların stokudur. Bu ayrım, sonraki örneklerin neden aynı başlık altında toplandığını gösteren ilk ipucudur.",
-        "Aylık maaş musluktan akan su, ev ve hisse depodaki su gibi düşünülebilir. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Borç ve kamu serveti hesaba katılmadan stok yanıltır. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
-        "Akışla birikimi ve brütle net serveti ayırmak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
+        "Gelir belirli dönemde akan maaş, kâr ve kiradır; servet geçmişten biriken varlıkların stokudur.",
+        "Aylık maaş musluktan akan su, ev ve hisse depodaki su gibi düşünülebilir.",
+        "Borç ve kamu serveti hesaba katılmadan stok yanıltır.",
+        "Akışla birikimi ve brütle net serveti ayırmak gerekir."
       ]
     },
     {
@@ -72,12 +67,9 @@
       "title": "Sermaye-gelir oranı",
       "paragraphs": [
         "Bir toplumun toplam özel servetinin yıllık gelire oranı ekonomik ağırlığın basit göstergesidir.",
-        "Servet altı yıllık milli gelire eşitse oran yüzde altı yüzdür. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
-        "Oran servetin kimde olduğunu tek başına söylemez. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
-        "Toplam büyüklüğü dağılım ve varlık türüyle birlikte okumak gerekir. Bugünkü karşılığı bulmanın en sade yolu, 'başka türlü olsaydı ne değişirdi?' sorusunu gerçek bir olaya uygulamaktır."
-      ],
-      "extraParagraphs": [
-        "İddianın sınırını denemek için, “Sermaye-gelir oranı” ile 21. Yüzyılda Sermaye kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Servet altı yıllık milli gelire eşitse oran yüzde altı yüzdür.",
+        "Oran servetin kimde olduğunu tek başına söylemez.",
+        "Toplam büyüklüğü dağılım ve varlık türüyle birlikte okumak gerekir."
       ]
     },
     {
@@ -85,10 +77,10 @@
       "section": "İKİNCİ KISIM · BAĞ",
       "title": "Birinci temel yasa: pay = getiri × stok",
       "paragraphs": [
-        "Sermayenin milli gelirden aldığı pay, sermaye-gelir oranıyla ortalama getiri oranının çarpımına eşit muhasebe ilişkisidir. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
-        "Servet beş yıllık gelir, getiri yüzde dörtse sermaye payı yaklaşık yüzde yirmi olur. Büyük sözcüklerin gerisindeki basit hareket görüldüğünde, bölümün iddiası hem daha anlaşılır hem de daha tartışılabilir olur.",
-        "Bu eşitlik davranışın nedeni değil tanımıdır. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
-        "Muhasebe bağını ekonomik açıklama diye sunmamak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
+        "Sermayenin milli gelirden aldığı pay, sermaye-gelir oranıyla ortalama getiri oranının çarpımına eşit muhasebe ilişkisidir.",
+        "Servet beş yıllık gelir, getiri yüzde dörtse sermaye payı yaklaşık yüzde yirmi olur.",
+        "Bu eşitlik davranışın nedeni değil tanımıdır.",
+        "Muhasebe bağını ekonomik açıklama diye sunmamak gerekir."
       ]
     },
     {
@@ -96,13 +88,10 @@
       "section": "İKİNCİ KISIM · BİRİKİM",
       "title": "Uzun dönemde beta = s/g",
       "paragraphs": [
-        "Tasarruf oranı yüksek, büyüme düşük olduğunda geçmiş servetin yıllık gelire oranı zamanla yükselme eğilimindedir. Bu yüzden iddia bir sonuç cümlesi değil, örnekleri dikkatle okumak için kullanılan bir mercek gibi çalışır.",
-        "Yüzde on tasarruf ve yüzde iki büyüme kabaca beş yıllık gelir büyüklüğünde stok doğurur. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
-        "Savaş, fiyat ve değerleme geçişi ilişkiyi bozabilir. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Uzun dönem eğilimini kısa yıl tahmini gibi kullanmamak gerekir. İşyerinde ya da evde kişiyi suçlamadan önce davranışı üreten koşulu değiştirmek daha öğretici bir deney olabilir."
-      ],
-      "extraParagraphs": [
-        "Sahnedeki zamanı biraz yavaşlattığımızda, “Uzun dönemde beta = s/g” ile 21. Yüzyılda Sermaye kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Tasarruf oranı yüksek, büyüme düşük olduğunda geçmiş servetin yıllık gelire oranı zamanla yükselme eğilimindedir.",
+        "Yüzde on tasarruf ve yüzde iki büyüme kabaca beş yıllık gelir büyüklüğünde stok doğurur.",
+        "Savaş, fiyat ve değerleme geçişi ilişkiyi bozabilir.",
+        "Uzun dönem eğilimini kısa yıl tahmini gibi kullanmamak gerekir."
       ]
     },
     {
@@ -110,10 +99,10 @@
       "section": "İKİNCİ KISIM · TARİH",
       "title": "U biçimli tarih",
       "paragraphs": [
-        "Avrupa'da servet-gelir oranları on dokuzuncu yüzyılda yüksek, savaşlar ortasında düşük, yirminci yüzyıl sonunda yeniden yükselen yol izledi. Bu cümle kitabın tamamını açıklamaz; fakat doğru kapıyı açan anahtarın dişlerini gösterir.",
-        "Savaş yıkımı, enflasyon ve vergi büyük servetleri küçültür; barışta stok yeniden birikir. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
-        "Her ülke aynı eğriyi yaşamaz. Kavram bazı olaylarda merkezde, bazılarında yalnız küçük bir etkendir; ölçüyü bağlam belirler.",
-        "Ulusal savaş, konut ve emeklilik yapısını ayrı incelemek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
+        "Avrupa'da servet-gelir oranları on dokuzuncu yüzyılda yüksek, savaşlar ortasında düşük, yirminci yüzyıl sonunda yeniden yükselen yol izledi.",
+        "Savaş yıkımı, enflasyon ve vergi büyük servetleri küçültür; barışta stok yeniden birikir.",
+        "Her ülke aynı eğriyi yaşamaz.",
+        "Ulusal savaş, konut ve emeklilik yapısını ayrı incelemek gerekir."
       ]
     },
     {
@@ -121,13 +110,10 @@
       "section": "İKİNCİ KISIM · ŞOK",
       "title": "Savaşlar eşitliği nasıl değiştirdi?",
       "paragraphs": [
-        "1914-1945 dönemi yalnız fiziksel yıkımla değil enflasyon, kamulaştırma, borç ve yüksek vergilerle eski servetleri sarstı. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
-        "Sabit gelirli tahvil enflasyonda erir, büyük miras yüksek vergiyle bölünür. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
-        "Felaket eşitlik politikası diye övülemez. Geçmişi bugünün birebir kopyası saymak kadar, aralarında hiçbir bağ yokmuş gibi davranmak da yanıltıcıdır.",
-        "Barışçıl kurumların aynı sonucu nasıl sağlayabileceğini düşünmek gerekir. Bu fikir hazır reçete sunmaz; fakat kararın gizli varsayımını görünür kılarak seçenekleri dürüstçe tartmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Savaşlar eşitliği nasıl değiştirdi?” ile 21. Yüzyılda Sermaye kitabının ana sorusu arasındaki bağ belirginleşir."
+        "1914-1945 dönemi yalnız fiziksel yıkımla değil enflasyon, kamulaştırma, borç ve yüksek vergilerle eski servetleri sarstı.",
+        "Sabit gelirli tahvil enflasyonda erir, büyük miras yüksek vergiyle bölünür.",
+        "Felaket eşitlik politikası diye övülemez.",
+        "Barışçıl kurumların aynı sonucu nasıl sağlayabileceğini düşünmek gerekir."
       ]
     },
     {
@@ -135,13 +121,10 @@
       "section": "ÜÇÜNCÜ KISIM · GERİLİM",
       "title": "r > g ne anlatır?",
       "paragraphs": [
-        "Servetin ortalama getirisi ekonominin büyüme hızından uzun süre yüksekse geçmiş birikim yeni gelirden daha hızlı büyüyebilir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Miras portföyü yüzde dört, maaş ekonomisi yüzde bir büyürse servet ağırlığı artar. İnsan yüzü eklenince tartışmanın bedeli de görünür olur; kavram yalnız kitap sayfasında kalmaz.",
-        "İfade kaçınılmaz yasa değildir; vergi, risk, tüketim ve siyaset etkiler. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
-        "Oranların hangi dönem ve dağılım için geçerli olduğunu sormak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “r > g ne anlatır?” ile 21. Yüzyılda Sermaye kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Servetin ortalama getirisi ekonominin büyüme hızından uzun süre yüksekse geçmiş birikim yeni gelirden daha hızlı büyüyebilir.",
+        "Miras portföyü yüzde dört, maaş ekonomisi yüzde bir büyürse servet ağırlığı artar.",
+        "İfade kaçınılmaz yasa değildir; vergi, risk, tüketim ve siyaset etkiler.",
+        "Oranların hangi dönem ve dağılım için geçerli olduğunu sormak gerekir."
       ]
     },
     {
@@ -149,13 +132,10 @@
       "section": "ÜÇÜNCÜ KISIM · KUŞAK",
       "title": "Mirasın geri dönüşü",
       "paragraphs": [
-        "Düşük büyüme ve büyük servet stoku, yaşam boyu çalışmadan çok doğumla gelen varlığın önemini artırabilir. İlk bakışta küçük görünen bu değişiklik, olayın nedenini ve sorumluluğunu başka bir yerde aramamızı sağlar.",
-        "İki eşit yetenekli gençten biri ev borcu, diğeri kiralık daire mirasıyla başlar. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
-        "Aile desteğinin tümü haksız veya parasal değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Fırsat eşitliğiyle kuşak dayanışmasını dengeli tasarlamak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Mirasın geri dönüşü” ile 21. Yüzyılda Sermaye kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Düşük büyüme ve büyük servet stoku, yaşam boyu çalışmadan çok doğumla gelen varlığın önemini artırabilir.",
+        "İki eşit yetenekli gençten biri ev borcu, diğeri kiralık daire mirasıyla başlar.",
+        "Aile desteğinin tümü haksız veya parasal değildir.",
+        "Fırsat eşitliğiyle kuşak dayanışmasını dengeli tasarlamak gerekir."
       ]
     },
     {
@@ -163,13 +143,10 @@
       "section": "ÜÇÜNCÜ KISIM · ROMAN",
       "title": "Balzac ve Rastignac'ın hesabı",
       "paragraphs": [
-        "Balzac'ın kahramanı küçük maaşlı kariyer ile zengin evlilik arasında seçim yaparken miras toplumunun matematiğini görünür kılar. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Yıllarca çalışmak tek evlilikle gelen gelirin yanına yaklaşmaz. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
-        "Roman istatistik örneklemi değildir. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
-        "Edebi sahneyi kayıtların gösterdiği yapıyla karşılaştırmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Büyük resmi yeniden kurduğumuzda, “Balzac ve Rastignac'ın hesabı” ile 21. Yüzyılda Sermaye kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Balzac'ın kahramanı küçük maaşlı kariyer ile zengin evlilik arasında seçim yaparken miras toplumunun matematiğini görünür kılar.",
+        "Yıllarca çalışmak tek evlilikle gelen gelirin yanına yaklaşmaz.",
+        "Roman istatistik örneklemi değildir.",
+        "Edebi sahneyi kayıtların gösterdiği yapıyla karşılaştırmak gerekir."
       ]
     },
     {
@@ -177,10 +154,10 @@
       "section": "DÖRDÜNCÜ KISIM · ÜCRET",
       "title": "ABD neden farklı göründü?",
       "paragraphs": [
-        "ABD'de yirminci yüzyıl sonu eşitsizliğinin önemli bölümü servetten önce en üst yönetici ücretlerinin sıçramasıyla büyüdü. Bölümün asıl sorusu, görünen sonuçtan önce hangi koşulların kurulmuş olduğudur.",
-        "Şirket yöneticisi ortalama çalışanın yüzlerce katı ücret alır. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Yetenek ve küresel piyasa etkisi tümüyle yok değildir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Ücret belirleme gücü, vergi ve performans bağını birlikte ölçmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
+        "ABD'de yirminci yüzyıl sonu eşitsizliğinin önemli bölümü servetten önce en üst yönetici ücretlerinin sıçramasıyla büyüdü.",
+        "Şirket yöneticisi ortalama çalışanın yüzlerce katı ücret alır.",
+        "Yetenek ve küresel piyasa etkisi tümüyle yok değildir.",
+        "Ücret belirleme gücü, vergi ve performans bağını birlikte ölçmek gerekir."
       ]
     },
     {
@@ -188,13 +165,10 @@
       "section": "DÖRDÜNCÜ KISIM · GÜÇ",
       "title": "Süper yöneticiler",
       "paragraphs": [
-        "Üst ücretler yalnız marjinal verimle değil yönetim kurulu, toplumsal norm ve pazarlık gücüyle belirlenebilir. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Yönetici kendi ücretini onaylayan çevre üzerinde etki taşır. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "Her yüksek ücret haksız değildir. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
-        "Benzer performanslı ülke ve şirketlerle karşılaştırmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Süper yöneticiler” ile 21. Yüzyılda Sermaye kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Üst ücretler yalnız marjinal verimle değil yönetim kurulu, toplumsal norm ve pazarlık gücüyle belirlenebilir.",
+        "Yönetici kendi ücretini onaylayan çevre üzerinde etki taşır.",
+        "Her yüksek ücret haksız değildir.",
+        "Benzer performanslı ülke ve şirketlerle karşılaştırmak gerekir."
       ]
     },
     {
@@ -202,10 +176,10 @@
       "section": "DÖRDÜNCÜ KISIM · İYİMSERLİK",
       "title": "Kuznets eğrisi neden yetmedi?",
       "paragraphs": [
-        "Eşitsizliğin kalkınmayla kendiliğinden yükselip sonra düşeceği görüşü savaş sonrası sınırlı dönemi evrenselleştirmiş olabilir. Bu başlangıç, bölümün sonunda varılacak hükmü değil, o hükmün hangi yoldan sınanacağını verir.",
-        "1950'lerin düşüşü kalıcı ekonomik yasa sanılır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
-        "Kuznets'in kendi ihtiyatı popüler slogandan daha geniştir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Dönem seçiminin sonucu nasıl değiştirdiğini incelemek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+        "Eşitsizliğin kalkınmayla kendiliğinden yükselip sonra düşeceği görüşü savaş sonrası sınırlı dönemi evrenselleştirmiş olabilir.",
+        "1950'lerin düşüşü kalıcı ekonomik yasa sanılır.",
+        "Kuznets'in kendi ihtiyatı popüler slogandan daha geniştir.",
+        "Dönem seçiminin sonucu nasıl değiştirdiğini incelemek gerekir."
       ]
     },
     {
@@ -213,13 +187,10 @@
       "section": "BEŞİNCİ KISIM · POLİTİKA",
       "title": "İlerici gelir ve miras vergisi",
       "paragraphs": [
-        "Yüksek ödeme gücüne daha yüksek oran uygulamak yoğunlaşmayı sınırlayıp kamusal yatırım finanse edebilir. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
-        "Büyük mirasın bir bölümü eğitim ve sağlık altyapısına döner. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Aşırı oran kaçınma ve yatırım etkisi yaratabilir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Oranı taban, denetim ve uluslararası uyumla birlikte tasarlamak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “İlerici gelir ve miras vergisi” ile 21. Yüzyılda Sermaye kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Yüksek ödeme gücüne daha yüksek oran uygulamak yoğunlaşmayı sınırlayıp kamusal yatırım finanse edebilir.",
+        "Büyük mirasın bir bölümü eğitim ve sağlık altyapısına döner.",
+        "Aşırı oran kaçınma ve yatırım etkisi yaratabilir.",
+        "Oranı taban, denetim ve uluslararası uyumla birlikte tasarlamak gerekir."
       ]
     },
     {
@@ -227,13 +198,10 @@
       "section": "BEŞİNCİ KISIM · ÖNERİ",
       "title": "Küresel servet vergisi",
       "paragraphs": [
-        "Servetin ülkeler arasında saklandığı dünyada yıllık artan oranlı vergi hem gelir hem şeffaflık aracı olabilir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Varlık kaydı daire, şirket ve fon mülkiyetini görünür kılar. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Küresel uygulama siyasi olarak çok zordur. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Bölgesel kayıt, bilgi paylaşımı ve kademeli hedefler düşünmek gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Küresel servet vergisi” ile 21. Yüzyılda Sermaye kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Servetin ülkeler arasında saklandığı dünyada yıllık artan oranlı vergi hem gelir hem şeffaflık aracı olabilir.",
+        "Varlık kaydı daire, şirket ve fon mülkiyetini görünür kılar.",
+        "Küresel uygulama siyasi olarak çok zordur.",
+        "Bölgesel kayıt, bilgi paylaşımı ve kademeli hedefler düşünmek gerekir."
       ]
     },
     {
@@ -242,12 +210,9 @@
       "title": "Veri devrimi ve açık tartışma",
       "paragraphs": [
         "Kitabın kalıcı katkısı tek formülden çok eşitsizliği tarihsel veriyle demokratik tartışmanın konusu yapmasıdır.",
-        "Vergi tabloları uzman çekmecesinden çıkıp herkesin görebileceği grafiklere dönüşür. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Veri değer yargısını kendisi vermez. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
-        "Ölçümün ardından hangi eşitlik anlayışını istediğimizi açıkça tartışmak gerekir. Bölümün bugüne bıraktığı görev, tek bir doğru cevap ezberlemek değil, yanlış kurulmuş soruyu fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Veri devrimi ve açık tartışma” ile 21. Yüzyılda Sermaye kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Vergi tabloları uzman çekmecesinden çıkıp herkesin görebileceği grafiklere dönüşür.",
+        "Veri değer yargısını kendisi vermez.",
+        "Ölçümün ardından hangi eşitlik anlayışını istediğimizi açıkça tartışmak gerekir."
       ]
     },
     {
@@ -267,7 +232,7 @@
       "paragraphs": [
         "Kitap eşitsizlik araştırmasını geniş kamuoyuna taşıdı, tarihsel veriyi büyüttü ve servet yoğunlaşmasını yirmi birinci yüzyıl siyasetinin merkezine yerleştirdi.",
         "Sermaye tanımına konutun dahil edilmesi, r>g'nin nedensel gücü, vergi verisindeki düzeltmeler, teknoloji ve kurumlara verilen ağırlık ile politika önerilerinin uygulanabilirliği yoğun biçimde eleştirildi.",
-        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. 21. Yüzyılda Sermaye bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+        "21. Yüzyılda Sermaye bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
       ]
     },
     {
@@ -277,7 +242,7 @@
       "paragraphs": [
         "Akış mı stok mu ölçüyorum? Getiri ve büyüme hangi dönem için karşılaştırılıyor? Dağılımın tepesini veri gerçekten görüyor mu?",
         "İki hayali ailenin on yıllık bütçesini kurun: biri yalnız maaş, diğeri maaş ve mirasla başlasın; büyüme ve getiriyi ayrı uygulayıp farkı izleyin.",
-        "21. Yüzyılda Sermaye bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+        "21. Yüzyılda Sermaye bu soruların hemen cevaplanmasını beklemez."
       ]
     },
     {
@@ -286,8 +251,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Büyüme yavaşken geçmiş servetin getirisi daha hızlı ilerlerse miras ve birikmiş varlıkların ağırlığı artabilir; bu eğilim doğa kaderi değil vergi ve kurumlarla biçimlenen siyasi tercihtir.",
-        "Akılda tutulacak son görüntü, orman yeşili, bakır ve gece mavisi tonlarında biri maaş merdiveni, diğeri miras asansörüyle yükselen iki ailenin ardında yüzyıllık servet nehrinin büyüyüp daraldığı tarih sahnesidir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
-        "21. Yüzyılda Sermaye adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+        "Akılda tutulacak son görüntü, orman yeşili, bakır ve gece mavisi tonlarında biri maaş merdiveni, diğeri miras asansörüyle yükselen iki ailenin ardında yüzyıllık servet nehrinin büyüyüp daraldığı tarih sahnesidir.",
+        "21. Yüzyılda Sermaye adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],

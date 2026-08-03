@@ -12,8 +12,6 @@
   "chapterArtColor": "#315E87",
   "meta": {
     "originalTitle": "The End of Certainty",
-    "compiler": "Zihin Gezgini · Yapay zeka destekli çalışma",
-    "date": "Ağustos 2026",
     "language": "Türkçe"
   },
   "intro": "Bir yumurtayı çırpılmış halinden kabuğuna geri döndüren film görsek hemen ters oynatıldığını anlarız. Oysa klasik hareket denklemleri çoğu kez ileri ve geri yönü ayırmaz. Prigogine'in büyük sorusu şudur: Yaşadığımız geri dönmez zaman fiziğin temelinde nerede?",
@@ -46,10 +44,10 @@
       "section": "BİRİNCİ KISIM · KESİNCİLİK",
       "title": "Laplace'ın kusursuz saati",
       "paragraphs": [
-        "Klasik idealde evrendeki her parçacığın konum ve hızı tam bilinse gelecek ile geçmiş tek denklemden hesaplanabilir. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
-        "Bilardo masasındaki tüm topların başlangıç durumunu bilen kusursuz gözlemci her çarpışmayı önceden söyler. Koşullardan yalnız biri değiştiğinde sonucun da değişebilmesi, burada kaderden değil ilişkiden söz edildiğini gösterir.",
-        "Gerçek ölçümün sınırlı oluşu ile doğanın gerçekten belirlenmiş olup olmaması farklı sorulardır. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Bir tahmin başarısız olduğunda veri eksikliği, model hassasiyeti ve gerçek rastlantı ihtimalini ayırmak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+        "Klasik idealde evrendeki her parçacığın konum ve hızı tam bilinse gelecek ile geçmiş tek denklemden hesaplanabilir.",
+        "Bilardo masasındaki tüm topların başlangıç durumunu bilen kusursuz gözlemci her çarpışmayı önceden söyler.",
+        "Gerçek ölçümün sınırlı oluşu ile doğanın gerçekten belirlenmiş olup olmaması farklı sorulardır.",
+        "Bir tahmin başarısız olduğunda veri eksikliği, model hassasiyeti ve gerçek rastlantı ihtimalini ayırmak gerekir."
       ]
     },
     {
@@ -57,13 +55,10 @@
       "section": "BİRİNCİ KISIM · TERSİNİRLİK",
       "title": "Zaman denklemlerde neden kaybolur?",
       "paragraphs": [
-        "Newton ve temel kuantum denklemlerinin çoğu zaman yönü ters çevrildiğinde de çalışır; fiziksel yasa geçmiş ile geleceği ayrıcalıklı kılmaz. Bu fikir, okuru hazır hüküm vermekten alıkoyup mekanizmanın adımlarını tek tek izlemeye çağırır.",
-        "Çarpışan iki ideal topun filmini ters oynatsanız hareket yine mümkün görünür. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
-        "Sürtünme ve çevre etkileşimi gerçek sistemlerde göz ardı edilemez. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Bir modelin hangi ayrıntıları ideal diye dışarıda bıraktığını kontrol etmek gerekir. Geçmişteki örneği bugüne kopyalamak yerine, örneğin açtığı soruyu yeni araçlar içinde yeniden sınamak gerekir."
-      ],
-      "extraParagraphs": [
-        "Örneği tersinden düşündüğümüzde, “Zaman denklemlerde neden kaybolur?” ile Kesinliğin Sonu kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Newton ve temel kuantum denklemlerinin çoğu zaman yönü ters çevrildiğinde de çalışır; fiziksel yasa geçmiş ile geleceği ayrıcalıklı kılmaz.",
+        "Çarpışan iki ideal topun filmini ters oynatsanız hareket yine mümkün görünür.",
+        "Sürtünme ve çevre etkileşimi gerçek sistemlerde göz ardı edilemez.",
+        "Bir modelin hangi ayrıntıları ideal diye dışarıda bıraktığını kontrol etmek gerekir."
       ]
     },
     {
@@ -71,10 +66,10 @@
       "section": "İKİNCİ KISIM · ENTROPİ",
       "title": "Termodinamiğin zaman oku",
       "paragraphs": [
-        "İkinci yasa kapalı bir sistemde olası düzensiz makro durumların baskınlaşmasını ve süreçlerin belirgin bir zaman yönü kazanmasını anlatır. Burada amaç tek bir neden ilan etmek değil, olayın hangi bağlantı üzerinden biçimlendiğini göstermektir.",
-        "Sıcak kahve soğuk odada ılıklaşıp dengeye gider; oda kendiliğinden soğurken kahve kaynamaz. Örneğin gücü süslü olmasından değil, kavramın hangi adımda gerçeğe dokunduğunu göstermesinden gelir.",
-        "Entropiyi yalnız gündelik dağınıklık veya ahlaki çöküş diye kullanmak yanlıştır. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Enerji haberlerinde miktar kadar kullanılabilirlik ve geri döndürülemez kaybı düşünmek gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
+        "İkinci yasa kapalı bir sistemde olası düzensiz makro durumların baskınlaşmasını ve süreçlerin belirgin bir zaman yönü kazanmasını anlatır.",
+        "Sıcak kahve soğuk odada ılıklaşıp dengeye gider; oda kendiliğinden soğurken kahve kaynamaz.",
+        "Entropiyi yalnız gündelik dağınıklık veya ahlaki çöküş diye kullanmak yanlıştır.",
+        "Enerji haberlerinde miktar kadar kullanılabilirlik ve geri döndürülemez kaybı düşünmek gerekir."
       ]
     },
     {
@@ -82,13 +77,10 @@
       "section": "İKİNCİ KISIM · MİKRODAN MAKROYA",
       "title": "Boltzmann'ın olasılık köprüsü",
       "paragraphs": [
-        "Boltzmann çok sayıdaki mikroskobik düzeni sayarak entropi ve olasılık arasında köprü kurdu. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Gaz moleküllerinin odanın tek köşesinde toplanmasının yolu az, her yere dağılmasının yolu sayısızdır. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Nadir ters dalgalanma mantıken imkânsız değil, büyük sistemde akıl almaz derecede olasılıksızdır. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
-        "Tek olay sezgisiyle büyük sayı davranışını karıştırmamak gerekir. Küçük bir haftalık gözlem, fikrin gerçekten açıklayıcı mı yoksa yalnız kulağa etkileyici mi geldiğini gösterebilir."
-      ],
-      "extraParagraphs": [
-        "Bu bağlantıyı bir adım daha izlediğimizde, “Boltzmann'ın olasılık köprüsü” ile Kesinliğin Sonu kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Boltzmann çok sayıdaki mikroskobik düzeni sayarak entropi ve olasılık arasında köprü kurdu.",
+        "Gaz moleküllerinin odanın tek köşesinde toplanmasının yolu az, her yere dağılmasının yolu sayısızdır.",
+        "Nadir ters dalgalanma mantıken imkânsız değil, büyük sistemde akıl almaz derecede olasılıksızdır.",
+        "Tek olay sezgisiyle büyük sayı davranışını karıştırmamak gerekir."
       ]
     },
     {
@@ -96,13 +88,10 @@
       "section": "İKİNCİ KISIM · PARADOKS",
       "title": "Loschmidt'in tersine çevirme itirazı",
       "paragraphs": [
-        "Mikroskobik hızlar tam ters çevrilirse gazın eski düzenine dönmesi gerektiği itirazı geri dönmezliğin nasıl türediğini zorlaştırır. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
-        "Dağılan mürekkebin her molekülüne kusursuz ters hız verilse damla yeniden toplanabilir gibi görünür. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
-        "Böyle bir hazırlık fiziksel olarak olağanüstü hassas ve çevre etkilerine açıktır. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
-        "Teorik mümkünlük ile doğal süreçte gerçekleşme olasılığını ayrı cümlelerle anlatmak gerekir. Kavramı önce kendi davranışımızdaki küçük örnekte aramak, onu başkalarına yöneltilen kolay suçlamadan kurtarır."
-      ],
-      "extraParagraphs": [
-        "Büyük resmi yeniden kurduğumuzda, “Loschmidt'in tersine çevirme itirazı” ile Kesinliğin Sonu kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Mikroskobik hızlar tam ters çevrilirse gazın eski düzenine dönmesi gerektiği itirazı geri dönmezliğin nasıl türediğini zorlaştırır.",
+        "Dağılan mürekkebin her molekülüne kusursuz ters hız verilse damla yeniden toplanabilir gibi görünür.",
+        "Böyle bir hazırlık fiziksel olarak olağanüstü hassas ve çevre etkilerine açıktır.",
+        "Teorik mümkünlük ile doğal süreçte gerçekleşme olasılığını ayrı cümlelerle anlatmak gerekir."
       ]
     },
     {
@@ -110,10 +99,10 @@
       "section": "İKİNCİ KISIM · UZUN ZAMAN",
       "title": "Poincaré ve geri dönüş",
       "paragraphs": [
-        "Sınırlı, yalıtılmış bazı mekanik sistemler yeterince uzun zamanda başlangıca çok yakın duruma dönebilir; bu sonuç zaman okunu yeniden sorgulatır. Yazarın temel hamlesi, alışılmış açıklamanın arkasında çalışan görünmez ilişkiyi ortaya çıkarmaktır.",
-        "Karıştırılan kart destesi sonsuz denemede eski sırasına yakın bir düzen görebilir. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
-        "Geri dönüş süreleri evren yaşını aşabilir ve gerçek sistemler kusursuz yalıtılmış değildir. Tek bir etkileyici örneğin bütün toplumlar ve dönemler adına konuşmasına izin vermemek gerekir.",
-        "Matematiksel teoremin günlük ölçekte ne öngördüğünü zaman ve koşul sınırıyla birlikte okumak gerekir. Bugün aynı ilişkiyi ararken önce görünen sonucu değil, sonucu normalleştiren kuralı ve teşviki bulmak gerekir."
+        "Sınırlı, yalıtılmış bazı mekanik sistemler yeterince uzun zamanda başlangıca çok yakın duruma dönebilir; bu sonuç zaman okunu yeniden sorgulatır.",
+        "Karıştırılan kart destesi sonsuz denemede eski sırasına yakın bir düzen görebilir.",
+        "Geri dönüş süreleri evren yaşını aşabilir ve gerçek sistemler kusursuz yalıtılmış değildir.",
+        "Matematiksel teoremin günlük ölçekte ne öngördüğünü zaman ve koşul sınırıyla birlikte okumak gerekir."
       ]
     },
     {
@@ -121,13 +110,10 @@
       "section": "ÜÇÜNCÜ KISIM · AKIŞ",
       "title": "Denge dışı dünya",
       "paragraphs": [
-        "Prigogine yaşam ve doğadaki birçok düzenin dengede değil, enerji ve madde akışının sürdüğü açık sistemlerde oluştuğunu gösterir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "Kaynar suda belirli sıcaklık farkında gelişen düzenli hücreler sürekli ısı akışıyla ayakta kalır. Bu sahne, yazarın soyut düşünceyi neden sonuçları hissedilebilen gerçek bir ana bağladığını açıklar.",
-        "Akış olan her yerde kendiliğinden karmaşık düzen doğmaz; eşik ve mekanizma gerekir. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Bir kurumun canlılığını yalnız stokuyla değil içinden geçen bilgi, enerji ve bakım akışıyla düşünmek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
-      ],
-      "extraParagraphs": [
-        "Aynı olaya başka bir kişinin gözünden bakıldığında, “Denge dışı dünya” ile Kesinliğin Sonu kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Prigogine yaşam ve doğadaki birçok düzenin dengede değil, enerji ve madde akışının sürdüğü açık sistemlerde oluştuğunu gösterir.",
+        "Kaynar suda belirli sıcaklık farkında gelişen düzenli hücreler sürekli ısı akışıyla ayakta kalır.",
+        "Akış olan her yerde kendiliğinden karmaşık düzen doğmaz; eşik ve mekanizma gerekir.",
+        "Bir kurumun canlılığını yalnız stokuyla değil içinden geçen bilgi, enerji ve bakım akışıyla düşünmek gerekir."
       ]
     },
     {
@@ -135,10 +121,10 @@
       "section": "ÜÇÜNCÜ KISIM · DÜZENİN DOĞUŞU",
       "title": "Dağıtıcı yapılar",
       "paragraphs": [
-        "Denge dışı sistemler enerjiyi dağıtırken girdap, kimyasal salınım veya canlı örgütlenme gibi yeni düzenler kurabilir. Bu çerçeve doğru kurulduğunda kitabın en çetin iddiası bile gündelik bir soruya dönüşür.",
-        "Lavabodaki su belirli akışta rastgele yayılmak yerine kararlı bir girdap oluşturur. Örneği akılda tutmak, kavramın kuru adını ezberlemekten daha değerlidir; çünkü neden ile sonucu yan yana gösterir.",
-        "Fiziksel öz örgütlenmeyi toplum için doğrudan ahlak reçetesine çevirmek hatalıdır. İnsan niyeti ile kurumsal sonuç aynı yönde olmayabilir; bölümün gerilimi çoğu zaman tam burada doğar.",
-        "Bir örüntünün görünmesiyle onu sürdüren kaynak ve atık akışını birlikte izlemek gerekir. Dijital araçlar sahneyi değiştirmiş olsa da güven, korku, itibar ve güç arayışı yeni biçimler altında sürer."
+        "Denge dışı sistemler enerjiyi dağıtırken girdap, kimyasal salınım veya canlı örgütlenme gibi yeni düzenler kurabilir.",
+        "Lavabodaki su belirli akışta rastgele yayılmak yerine kararlı bir girdap oluşturur.",
+        "Fiziksel öz örgütlenmeyi toplum için doğrudan ahlak reçetesine çevirmek hatalıdır.",
+        "Bir örüntünün görünmesiyle onu sürdüren kaynak ve atık akışını birlikte izlemek gerekir."
       ]
     },
     {
@@ -146,13 +132,10 @@
       "section": "ÜÇÜNCÜ KISIM · SEÇİM",
       "title": "Çatallanma noktasında gelecek",
       "paragraphs": [
-        "Kararsızlık eşiğinde küçük dalgalanmalar sistemi birden fazla mümkün yoldan birine taşıyabilir; gelecek tek çizgi olmaktan çıkar. Kavram böyle kurulunca tartışma soyut bir tanımdan çıkar ve gözlenebilir sonuçlara bağlanır.",
-        "Düz akan su hız artınca sağa ya da sola kıvrılan desenlerden birini seçer. Sahneyi yavaşlatarak baktığımızda karar sandığımız şeyin öncesinde biriken birçok küçük etki fark edilir.",
-        "Küçük etki her zaman büyük sonuç yaratmaz; sistemin çatallanma eşiğinde olması gerekir. Sonraki araştırmalar ayrıntıları değiştirebilir, fakat iyi soru yeni bilgilerle yeniden sınanabildiği için yaşamayı sürdürür.",
-        "Bir kriz anında koşulun gerçekten kararsız mı yoksa güçlü biçimde dayanıklı mı olduğunu araştırmak gerekir. Bir haber okurken amaç kavramı insanlara etiket yapmak değil, söylenmeyen koşulu ve bedeli fark etmektir."
-      ],
-      "extraParagraphs": [
-        "Kavramı gerçek bir karara uyguladığımızda, “Çatallanma noktasında gelecek” ile Kesinliğin Sonu kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Kararsızlık eşiğinde küçük dalgalanmalar sistemi birden fazla mümkün yoldan birine taşıyabilir; gelecek tek çizgi olmaktan çıkar.",
+        "Düz akan su hız artınca sağa ya da sola kıvrılan desenlerden birini seçer.",
+        "Küçük etki her zaman büyük sonuç yaratmaz; sistemin çatallanma eşiğinde olması gerekir.",
+        "Bir kriz anında koşulun gerçekten kararsız mı yoksa güçlü biçimde dayanıklı mı olduğunu araştırmak gerekir."
       ]
     },
     {
@@ -160,10 +143,10 @@
       "section": "DÖRDÜNCÜ KISIM · KAOS",
       "title": "Kaos: Yasasızlık değil hassasiyet",
       "paragraphs": [
-        "Deterministik kaotik sistemler başlangıç farklarını büyüttüğü için uzun vadeli öngörüyü pratik olarak sınırlar. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
-        "Hava modelindeki ölçülemeyecek küçük fark haftalar sonra yağmur çizgisini başka yere taşır. Aynı sahneye başka bir kişinin gözünden bakmak, açıklamanın sakladığı güç ve maliyet farkını ortaya çıkarabilir.",
-        "Kelebek etkisi her küçük hareketin tarih değiştireceği anlamına gelmez. Bu eleştiri kitabı reddetmek değil, güçlü tarafıyla aşırı iddiası arasına görünür bir çizgi çekmektir.",
-        "Tahminde tek sayı yerine güven aralığı, senaryo ve öngörü ufkunu belirtmek gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+        "Deterministik kaotik sistemler başlangıç farklarını büyüttüğü için uzun vadeli öngörüyü pratik olarak sınırlar.",
+        "Hava modelindeki ölçülemeyecek küçük fark haftalar sonra yağmur çizgisini başka yere taşır.",
+        "Kelebek etkisi her küçük hareketin tarih değiştireceği anlamına gelmez.",
+        "Tahminde tek sayı yerine güven aralığı, senaryo ve öngörü ufkunu belirtmek gerekir."
       ]
     },
     {
@@ -171,13 +154,10 @@
       "section": "DÖRDÜNCÜ KISIM · OLASILIK",
       "title": "Yörüngelerden dağılımlara",
       "paragraphs": [
-        "Prigogine kararsız sistemlerde tek parçacık yörüngesi yerine olasılık dağılımlarının fiziksel olarak temel bir anlatım olabileceğini savunur. Yazarın itirazı kişilere değil, kişilerin davranışını anlaşılır kılan yerleşmiş açıklama biçiminedir.",
-        "Kalabalık istasyonda tek kişinin tam yolunu değil akış yoğunluğu ve çıkış dağılımını güvenle öngörürüz. Olayı yaşayan kişi bütün düzeni görmese bile düzen onun seçeneklerini sessizce daraltır ya da genişletir.",
-        "İstatistiksel betimleme her durumda bireysel gerçekliğin olmadığı sonucunu vermez. Karşı örnekler iddiayı çöpe atmak yerine hangi koşullarda gerçekten işe yaradığını daha açık gösterir.",
-        "Bir modeli seçerken sorunun tekil yol mu toplu örüntü mü istediğini belirlemek gerekir. Gündelik hayata taşınacak soru şudur: Bu düzen değişse kimin seçeneği artar, kimin alışkanlığı bozulurdu?"
-      ],
-      "extraParagraphs": [
-        "Bölümün görünmeyen ikinci katında, “Yörüngelerden dağılımlara” ile Kesinliğin Sonu kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Prigogine kararsız sistemlerde tek parçacık yörüngesi yerine olasılık dağılımlarının fiziksel olarak temel bir anlatım olabileceğini savunur.",
+        "Kalabalık istasyonda tek kişinin tam yolunu değil akış yoğunluğu ve çıkış dağılımını güvenle öngörürüz.",
+        "İstatistiksel betimleme her durumda bireysel gerçekliğin olmadığı sonucunu vermez.",
+        "Bir modeli seçerken sorunun tekil yol mu toplu örüntü mü istediğini belirlemek gerekir."
       ]
     },
     {
@@ -185,10 +165,10 @@
       "section": "DÖRDÜNCÜ KISIM · ETKİLEŞİM",
       "title": "Poincaré rezonansları",
       "paragraphs": [
-        "Etkileşen sistemlerde frekansların rezonansı küçük etkileri biriktirip basit yörünge resmini bozabilir. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "Aynı ritimde itilen salıncak küçük dokunuşlarla yükselirken gelişigüzel itişler birbirini söndürür. Gündelik ayrıntı tam da bu nedenle önemlidir: soyut düşüncenin insana ve zamana değdiği yeri açık eder.",
-        "Teknik rezonans kavramını insanlar aynı fikirde diye gevşekçe kullanmak yanıltır. Bu sınırı korumak fikri zayıflatmaz; onu her kapıyı açan sahte bir anahtar olmaktan kurtarır.",
-        "Bir periyodik etkide zamanlama ve enerji aktarımını ölçmeden güçlü benzetmeye güvenmemek gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
+        "Etkileşen sistemlerde frekansların rezonansı küçük etkileri biriktirip basit yörünge resmini bozabilir.",
+        "Aynı ritimde itilen salıncak küçük dokunuşlarla yükselirken gelişigüzel itişler birbirini söndürür.",
+        "Teknik rezonans kavramını insanlar aynı fikirde diye gevşekçe kullanmak yanıltır.",
+        "Bir periyodik etkide zamanlama ve enerji aktarımını ölçmeden güçlü benzetmeye güvenmemek gerekir."
       ]
     },
     {
@@ -196,10 +176,10 @@
       "section": "BEŞİNCİ KISIM · KUANTUM",
       "title": "Kuantumda olasılık zaten var mıydı?",
       "paragraphs": [
-        "Kuantum kuramı ölçüm sonuçlarını olasılıkla verir; Prigogine bu belirsizliği zamanın geri dönmezliğiyle daha temel biçimde bağlamak ister. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
-        "Aynı hazırlanan atomlardan hangisinin ne zaman bozunacağı değil, çok sayıda atomun dağılımı hesaplanır. Bu küçük olay kitabın büyük haritasındaki bir iğnedir; çevresindeki ilişkiler görülünce yerinin neden önemli olduğu anlaşılır.",
-        "Kuantum yorumları çeşitlidir ve Prigogine'in yaklaşımı tek uzlaşılmış çözüm değildir. Açıklama olasılığı gösterir, kaçınılmaz kader ilan etmez; koşullar değişince sonuç da değişebilir.",
-        "Popüler anlatıda ölçüm sonucu, kuram yorumu ve deney kanıtını ayrı tutmak gerekir. Kamusal kararı değerlendirirken ortalama sonuç kadar bedeli kimin ödediğini ve kimin konuşamadığını da sormak gerekir."
+        "Kuantum kuramı ölçüm sonuçlarını olasılıkla verir; Prigogine bu belirsizliği zamanın geri dönmezliğiyle daha temel biçimde bağlamak ister.",
+        "Aynı hazırlanan atomlardan hangisinin ne zaman bozunacağı değil, çok sayıda atomun dağılımı hesaplanır.",
+        "Kuantum yorumları çeşitlidir ve Prigogine'in yaklaşımı tek uzlaşılmış çözüm değildir.",
+        "Popüler anlatıda ölçüm sonucu, kuram yorumu ve deney kanıtını ayrı tutmak gerekir."
       ]
     },
     {
@@ -207,13 +187,10 @@
       "section": "BEŞİNCİ KISIM · GERÇEKLİK",
       "title": "Olaylar ve oluş",
       "paragraphs": [
-        "Doğa yalnız değişmeyen varlıkların yasası değil, geri dönmez olayların ve yeni yapıların oluş tarihi olarak düşünülmelidir. Kavramın değeri, her şeyi açıklamasında değil, daha önce birbirinden kopuk görünen ayrıntıları bağlamasındadır.",
-        "Tohum ağaca dönüşünce yalnız atomlar yer değiştirmez; geçmişe bağlı yeni bir örgütlenme doğar. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Oluş dilinin şiirselliği kesin fiziksel mekanizmanın yerini tutmamalıdır. Benzetme akılda kalıcıdır fakat dünyanın tamamı değildir; nerede bittiğini bilmek dürüst okumanın parçasıdır.",
-        "Bir değişimde nesnelerin listesinin yanında süreç sırası ve kaybolan seçenekleri de yazmak gerekir. Bir iddia fazla rahatlatıcı geliyorsa onu yanlışlayabilecek sahneyi düşünmek, fikri daha sağlam kullanmayı sağlar."
-      ],
-      "extraParagraphs": [
-        "İddianın sınırını denemek için, “Olaylar ve oluş” ile Kesinliğin Sonu kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Doğa yalnız değişmeyen varlıkların yasası değil, geri dönmez olayların ve yeni yapıların oluş tarihi olarak düşünülmelidir.",
+        "Tohum ağaca dönüşünce yalnız atomlar yer değiştirmez; geçmişe bağlı yeni bir örgütlenme doğar.",
+        "Oluş dilinin şiirselliği kesin fiziksel mekanizmanın yerini tutmamalıdır.",
+        "Bir değişimde nesnelerin listesinin yanında süreç sırası ve kaybolan seçenekleri de yazmak gerekir."
       ]
     },
     {
@@ -221,10 +198,10 @@
       "section": "ALTINCI KISIM · BİLİMİN YERİ",
       "title": "İnsan doğaya geri dönüyor",
       "paragraphs": [
-        "Kesinci saat evreni insanı dışarıdan bakan yabancı yaparken zamanlı ve olasılıklı doğa gözlemciyi aynı oluş sürecinin parçası olarak görür. Bu nokta kaçırılırsa bölüm kolayca bir slogana dönüşür; görülürse kitabın geri kalanı yerine oturur.",
-        "Bilim insanının ölçüm aygıtı da laboratuvarın ısısı, zamanı ve geri dönmez kayıtları içinde çalışır. Bu olayın tersini hayal etmek, hangi ayrıntının zorunlu hangisinin değişebilir olduğunu anlamayı kolaylaştırır.",
-        "İnsanın parça olması nesnel denetim ve tekrarlanabilirlikten vazgeçmek değildir. Yazarın görmediği deneyimler ve dışarıda bıraktığı kişiler, kavramın sınırını anlamak için ayrıca dinlenmelidir.",
-        "Bilimsel kararda gözlemcinin etkisini kabul ederken ortak ölçüm kurallarını daha açık kurmak gerekir. Karar vermeden önce kısa vadeli kazanç ile uzun vadeli maliyeti ayırmak, bölümün merceğini hayata geçirir."
+        "Kesinci saat evreni insanı dışarıdan bakan yabancı yaparken zamanlı ve olasılıklı doğa gözlemciyi aynı oluş sürecinin parçası olarak görür.",
+        "Bilim insanının ölçüm aygıtı da laboratuvarın ısısı, zamanı ve geri dönmez kayıtları içinde çalışır.",
+        "İnsanın parça olması nesnel denetim ve tekrarlanabilirlikten vazgeçmek değildir.",
+        "Bilimsel kararda gözlemcinin etkisini kabul ederken ortak ölçüm kurallarını daha açık kurmak gerekir."
       ]
     },
     {
@@ -232,13 +209,10 @@
       "section": "ALTINCI KISIM · SONUÇ",
       "title": "Kesinliğin sonu bilginin sonu değildir",
       "paragraphs": [
-        "Olasılık ve zaman oku doğayı keyfî değil, farklı düzeylerde düzen ile yeniliğin birlikte bulunduğu açık bir tarih olarak gösterir. Yazar böylece tekil olayı daha geniş bir düzenin işareti olarak okumayı önerir.",
-        "Hava yarın için yüzde yetmiş yağmur der; kesin olmaması bilginin değersiz değil koşullu ve karar için kullanılabilir olduğunu gösterir. Sahnedeki şaşırtıcı sonuç tek bir kişinin niyetinden değil, küçük koşulların aynı yönde birleşmesinden doğar.",
-        "Belirsizlik kötü tahmini affeden genel bahane olmamalıdır. Kitabın yazıldığı dönem ve seçtiği dil hesaba katılmadan yapılan okuma, güçlü kavramı kolayca dogmaya çevirebilir.",
-        "Karar verirken olasılığı, hata payını, geri döndürülemez maliyeti ve yeni bilgi geldikçe güncelleme planını birlikte yazmak gerekir. Sosyal medyadaki kesin hüküm karşısında hangi kanıtın eksik olduğunu sormak, acele genellemeyi durdurabilir."
-      ],
-      "extraParagraphs": [
-        "Sahnedeki zamanı biraz yavaşlattığımızda, “Kesinliğin sonu bilginin sonu değildir” ile Kesinliğin Sonu kitabının ana sorusu arasındaki bağ belirginleşir."
+        "Olasılık ve zaman oku doğayı keyfî değil, farklı düzeylerde düzen ile yeniliğin birlikte bulunduğu açık bir tarih olarak gösterir.",
+        "Hava yarın için yüzde yetmiş yağmur der; kesin olmaması bilginin değersiz değil koşullu ve karar için kullanılabilir olduğunu gösterir.",
+        "Belirsizlik kötü tahmini affeden genel bahane olmamalıdır.",
+        "Karar verirken olasılığı, hata payını, geri döndürülemez maliyeti ve yeni bilgi geldikçe güncelleme planını birlikte yazmak gerekir."
       ]
     },
     {
@@ -258,7 +232,7 @@
       "paragraphs": [
         "Prigogine denge dışı termodinamik çalışmalarıyla Nobel Kimya Ödülü aldı; kitap zaman, karmaşıklık ve bilim felsefesi üzerine geniş kamu tartışmasını etkiledi.",
         "Fizikçiler onun olasılığı ontolojik temel sayan matematiksel programının genelliğini ve kuantum yorumunu tartıştı; toplumsal alanlara yapılan gevşek aktarımlar ayrıca eleştirildi.",
-        "Bir esere yöneltilen ciddi itiraz, onu otomatik olarak değersizleştirmez. Kesinliğin Sonu bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
+        "Kesinliğin Sonu bugün hâlâ okunuyorsa bunun nedeni yalnız verdiği cevaplar değil, itirazların bile çevresinde dönmeye devam ettiği güçlü sorulardır."
       ]
     },
     {
@@ -268,7 +242,7 @@
       "paragraphs": [
         "Model hangi zaman yönünü saklıyor? Sistem dengede mi akış altında mı? Olasılık bilgisizlikten mi, dinamiğin yapısından mı geliyor?",
         "Geri döndürülemeyen sıradan bir süreç seçin: soğuyan çay, dağılan koku veya yaşlanan meyve. Enerji akışını, olası yönü ve kaybolan seçeneği üç satırda yazın.",
-        "Kesinliğin Sonu bu soruların hemen cevaplanmasını beklemez. İyi kitap bazen yeni bir bilgi vermekten önce, doğal sandığımız bir duruma başka gözle bakmayı öğretir."
+        "Kesinliğin Sonu bu soruların hemen cevaplanmasını beklemez."
       ]
     },
     {
@@ -277,8 +251,8 @@
       "title": "Bir cümlede kitabın özü",
       "paragraphs": [
         "Doğa yalnız önceden yazılmış yörüngelerin saati değildir; geri dönmez zaman, kararsızlık ve olasılık yeni düzenlerin gerçekten ortaya çıkabildiği bir evren kurar.",
-        "Akılda tutulacak son görüntü, kobalt, altın ve elektrik moru tonlarında kırılmış bir saat kadranından yayılan olasılık nehirlerinin girdaplara, kristallere ve dallanan yıldız yollarına dönüştüğü dinamik bir evrendir. Bu görüntü ayrıntıların yerini tutmaz; ana soruya geri dönmek için bir işaret levhasıdır.",
-        "Kesinliğin Sonu adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur. Bu rehber kapıyı kapatmak için değil, ardındaki odanın neden ilginç olduğunu göstermek için hazırlandı."
+        "Akılda tutulacak son görüntü, kobalt, altın ve elektrik moru tonlarında kırılmış bir saat kadranından yayılan olasılık nehirlerinin girdaplara, kristallere ve dallanan yıldız yollarına dönüştüğü dinamik bir evrendir.",
+        "Kesinliğin Sonu adlı özgün eseri okumak, burada sadeleştirilen yolun ritmini, kanıtlarını ve yazarın kendi sesini görmenin tek yoludur."
       ]
     }
   ],
