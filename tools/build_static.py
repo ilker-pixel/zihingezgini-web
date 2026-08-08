@@ -35,16 +35,33 @@ GENERATED_DIRS = (
 )
 
 EVRE_TITLES = {
-    1: "Temeller: Evren, Doğa ve Canlılık",
-    2: "Zihin ve Benlik",
-    3: "Karakter ve İyi Yaşam",
-    4: "Toplum ve Sözleşme",
-    5: "Hakikat ve Yöntem",
-    6: "Ekonomi Politik ve Sınıf",
-    7: "Dil ve Anlamlandırma",
-    8: "Görsel Kültür, Estetik ve Kimlik",
-    9: "Geç Modernite ve Yapay Zekâ",
-    10: "Sentezler ve Bütünsel Felsefe",
+    1: "Düşünme Pusulası",
+    2: "Kozmos, Yaşam ve Ekoloji",
+    3: "Beyin, Beden ve Benlik",
+    4: "Kadim Yaşam, Din ve Etik",
+    5: "Metafizik, Epistemoloji ve Varoluş",
+    6: "Bilim, Dil ve Yorum",
+    7: "Antropoloji, Sosyoloji ve Modernlik",
+    8: "Siyaset, Devlet ve Kurumlar",
+    9: "Ekonomi, Sınıf ve Risk",
+    10: "Medya, Estetik ve Toplumsal Cinsiyet",
+    11: "Sömürgecilik, İktidar ve Kritik Teori",
+    12: "Eğitim, Teknoloji, Yapay Zekâ ve Sentez",
+}
+
+EVRE_SHORT_TITLES = {
+    1: "Pusula",
+    2: "Kozmos",
+    3: "Zihin",
+    4: "Bilgelik",
+    5: "Varlık",
+    6: "Bilim & Dil",
+    7: "Toplum",
+    8: "Siyaset",
+    9: "Ekonomi",
+    10: "Medya",
+    11: "İktidar",
+    12: "Gelecek",
 }
 
 MONTHS_TR = (
@@ -70,6 +87,38 @@ START_ROUTES = (
     ("Toplum ve iktidar", "Sözleşmeden modern devlete uzanan düşünce çizgisi.", (93, 100, 107, 108, 115)),
     ("Teknoloji ve gelecek", "Geç modernite ve yapay zekâ üzerine başlangıç rotası.", (243, 248, 253, 254, 259)),
 )
+
+
+def reading_order(book: dict[str, Any]) -> int:
+    """Return the pedagogical route position without changing the stable book id."""
+    return int(book.get("readingOrder", book.get("no", 0)))
+
+
+def validate_reading_route(books: list[dict[str, Any]]) -> None:
+    if len(books) != 300:
+        raise ValueError(f"Reading route must contain 300 records, got {len(books)}")
+    stable_ids = [int(book.get("no", 0)) for book in books]
+    positions = [reading_order(book) for book in books]
+    expected = list(range(1, 301))
+    if sorted(stable_ids) != expected:
+        raise ValueError("Stable book ids must be exactly 1..300")
+    if sorted(positions) != expected:
+        raise ValueError("readingOrder values must be unique and exactly 1..300")
+    phase_counts = {
+        phase: sum(int(book.get("routePhase", 0)) == phase for book in books)
+        for phase in EVRE_TITLES
+    }
+    unexpected_phases = sorted({int(book.get("routePhase", 0)) for book in books} - set(EVRE_TITLES))
+    misplaced_books = [
+        int(book["no"])
+        for book in books
+        if int(book.get("routePhase", 0)) != ((reading_order(book) - 1) // 25) + 1
+    ]
+    if unexpected_phases or any(count != 25 for count in phase_counts.values()) or misplaced_books:
+        raise ValueError(
+            f"Reading route must contain 25 records in each of 12 phases; "
+            f"counts={phase_counts}, unexpected={unexpected_phases}, misplaced={misplaced_books}"
+        )
 
 
 def load_json(relative_path: str) -> Any:
@@ -447,10 +496,16 @@ def render_about() -> str:
 
 
 def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str, Any]]) -> str:
+    books = sorted(books, key=reading_order)
     groups = []
-    for evre in range(1, 11):
+    for evre in EVRE_TITLES:
         rows = []
-        for book in [item for item in books if item.get("evre") == evre]:
+        phase_books = sorted(
+            (item for item in books if int(item.get("routePhase", 0)) == evre),
+            key=reading_order,
+        )
+        for book in phase_books:
+            route_position = reading_order(book)
             summary = ""
             summary_info = summary_meta.get(book.get("no"), {})
             summary_url = summary_info.get("url")
@@ -464,15 +519,19 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
                 title = f'<a href="{html.escape(book["link"], quote=True)}" rel="noopener">{title}</a>'
             row_classes = "book-item-row has-summary" if summary_url else "book-item-row"
             row_link_attrs = f' data-summary-href="{summary_url}"' if summary_url else ""
-            search_text = " ".join(str(book.get(key, "")) for key in ("no", "author", "title", "category", "pubDate", "description"))
+            search_text = " ".join(
+                [str(route_position)]
+                + [str(book.get(key, "")) for key in ("no", "author", "title", "category", "pubDate", "description")]
+            )
             rows.append(f"""
-            <article class="{row_classes}" id="kitap-{book.get('no')}"{row_link_attrs} data-section-search-item data-search-text="{html.escape(search_text, quote=True)}" data-book-no="{book.get('no')}" data-book-title="{html.escape(title_text, quote=True)}" data-book-author="{html.escape(str(book.get('author', '')), quote=True)}" data-book-category="{html.escape(str(book.get('category', '')), quote=True)}" data-book-phase="{evre}" data-book-pdf="{'yes' if summary_info.get('pdf') else 'no'}">
+            <article class="{row_classes}" id="kitap-{book.get('no')}"{row_link_attrs} data-section-search-item data-search-text="{html.escape(search_text, quote=True)}" data-book-no="{book.get('no')}" data-reading-order="{route_position}" data-book-title="{html.escape(title_text, quote=True)}" data-book-author="{html.escape(str(book.get('author', '')), quote=True)}" data-book-category="{html.escape(str(book.get('category', '')), quote=True)}" data-book-phase="{evre}" data-book-pdf="{'yes' if summary_info.get('pdf') else 'no'}">
               <div class="book-check-col">
                 <input type="checkbox" data-roadmap-book="{book.get('no')}" aria-label="{html.escape(title_text, quote=True)} okundu">
               </div>
               <div class="book-info-col">
                 <div class="book-title-row">
-                  <span class="book-no">#{book.get('no')}</span>
+                  <span class="book-no">Durak {route_position:03d}</span>
+                  <span class="book-stable-no">Koleksiyon #{int(book.get('no', 0)):03d}</span>
                   <strong class="book-author">{html.escape(str(book.get('author', '')))}</strong> — {title} {summary}
                 </div>
                 <details class="book-details-native">
@@ -491,12 +550,18 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
           <div class="roadmap-books-list">{''.join(rows)}</div>
         </section>""")
 
-    quick_nav = "".join(f'<a href="#evre-{i}" data-section-search-group-link="evre-{i}">{i:02d}</a>' for i in range(1, 11))
+    quick_nav = "".join(
+        f'<a href="#evre-{i}" data-section-search-group-link="evre-{i}" '
+        f'aria-label="Evre {i:02d}: {html.escape(EVRE_TITLES[i], quote=True)}" '
+        f'title="{html.escape(EVRE_TITLES[i], quote=True)}"><span>{i:02d}</span>'
+        f'<small>{html.escape(EVRE_SHORT_TITLES[i])}</small></a>'
+        for i in EVRE_TITLES
+    )
     book_by_no = {int(book["no"]): book for book in books}
     route_cards = []
     for route_title, route_description, route_numbers in START_ROUTES:
         route_links = "".join(
-            f'<a href="#kitap-{number}"><span>#{number}</span>{html.escape(book_by_no[number]["title"])}</a>'
+            f'<a href="#kitap-{number}"><span>Durak {reading_order(book_by_no[number]):03d}</span>{html.escape(book_by_no[number]["title"])}</a>'
             for number in route_numbers if number in book_by_no
         )
         route_cards.append(
@@ -526,11 +591,11 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
         <section class="roadmap-toolbox" data-roadmap-tools aria-label="Okuma haritası araçları">
           <div class="roadmap-filter-grid">
             <label>Kategori<select data-roadmap-filter="category"><option value="all">Tüm kategoriler</option>{category_options}</select></label>
-            <label>Evre<select data-roadmap-filter="phase"><option value="all">Tüm evreler</option>{''.join(f'<option value="{i}">Evre {i:02d}</option>' for i in range(1, 11))}</select></label>
+            <label>Evre<select data-roadmap-filter="phase"><option value="all">Tüm evreler</option>{''.join(f'<option value="{i}">Evre {i:02d} · {html.escape(EVRE_TITLES[i])}</option>' for i in EVRE_TITLES)}</select></label>
             <label>Okuma durumu<select data-roadmap-filter="status"><option value="all">Tümü</option><option value="unread">Yalnızca okunmamışlar</option><option value="read">Yalnızca okunanlar</option></select></label>
             <label>PDF<select data-roadmap-filter="pdf"><option value="all">Tümü</option><option value="yes">PDF olanlar</option><option value="no">PDF olmayanlar</option></select></label>
             <label>Sırala<select data-roadmap-sort><option value="number">Harita sırası</option><option value="title">Eser adına göre</option><option value="author">Yazara göre</option></select></label>
-            <form class="roadmap-number-jump" data-roadmap-jump><label for="roadmap-book-number">Kitap numarası</label><div><input id="roadmap-book-number" type="number" min="1" max="300" inputmode="numeric" placeholder="1–300"><button type="submit">Git</button></div></form>
+            <form class="roadmap-number-jump" data-roadmap-jump><label for="roadmap-book-number">Rota sırası</label><div><input id="roadmap-book-number" type="number" min="1" max="300" inputmode="numeric" placeholder="1–300"><button type="submit">Git</button></div></form>
           </div>
           <div class="roadmap-actions">
             <button type="button" data-random-book>Rastgele kitap seç</button>
@@ -549,8 +614,8 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
         "name": "Zihin Gezgini Yapay Zekâ Ön Okuma Haritası",
         "numberOfItems": len(books),
         "itemListElement": [
-            {"@type": "ListItem", "position": item.get("no"), "name": item.get("title")}
-            for item in books
+            {"@type": "ListItem", "position": reading_order(item), "name": item.get("title")}
+            for item in sorted(books, key=reading_order)
         ],
     }
     return page_shell(
@@ -560,8 +625,8 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
         content=content,
         active="roadmap",
         schema=schema,
-        static_css_version=6,
-        static_js_version=3,
+        static_css_version=8,
+        static_js_version=5,
         body_class="roadmap-page",
     )
 
@@ -572,8 +637,15 @@ def markdown_inline(value: str) -> str:
     return value.replace("\n", "<br>")
 
 
-def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
-    path = summary_path(summary)
+def render_summary(
+    summary: dict[str, Any],
+    route_book: dict[str, Any],
+    previous_book: dict[str, Any] | None,
+    next_book: dict[str, Any] | None,
+) -> tuple[str, str]:
+    path = str(route_book["summaryUrl"])
+    route_position = reading_order(route_book)
+    route_phase = int(route_book.get("routePhase", 0))
     is_cover_artwork = summary.get("coverStyle") == "artwork"
     has_chapter_artwork = summary.get("chapterArtStyle") == "monochrome-engraving"
     chapter_art_color = str(summary.get("chapterArtColor", "#8B5B38"))
@@ -661,13 +733,34 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
     reading_minutes = max(1, math.ceil(len(reading_text.split()) / 220))
     cover_display = display_asset(summary.get("coverImage"))
     original_title = html.escape(meta.get('originalTitle', ''))
+    previous_link = ""
+    if previous_book:
+        previous_link = (
+            f'<a class="summary-route-step is-previous" href="{html.escape(str(previous_book.get("summaryUrl", "")), quote=True)}">'
+            f'<span>← Önceki durak · {reading_order(previous_book):03d}</span>'
+            f'<strong>{html.escape(str(previous_book.get("title", "")))}</strong></a>'
+        )
+    next_link = ""
+    if next_book:
+        next_link = (
+            f'<a class="summary-route-step is-next" href="{html.escape(str(next_book.get("summaryUrl", "")), quote=True)}">'
+            f'<span>Sonraki durak · {reading_order(next_book):03d} →</span>'
+            f'<strong>{html.escape(str(next_book.get("title", "")))}</strong></a>'
+        )
+    route_navigation = f"""
+        <nav class="summary-route-navigation" aria-label="Okuma rotasında gezinme">
+          {previous_link or '<span class="summary-route-step is-empty" aria-hidden="true"></span>'}
+          <a class="summary-route-map-link" href="/okuma-haritasi/#kitap-{summary.get('bookNo')}">Haritaya dön</a>
+          {next_link or '<span class="summary-route-step is-empty" aria-hidden="true"></span>'}
+        </nav>"""
     body = f"""
       <div class="reading-progress" data-reading-progress aria-hidden="true"><span></span></div>
-      <article class="summary-reader-container static-summary{' is-long-form' if summary.get('longForm') else ''}{' has-chapter-artwork' if has_chapter_artwork else ''}" data-summary-book="{summary.get('bookNo')}"{' style="--chapter-art-ink: ' + chapter_art_color + ';"' if has_chapter_artwork else ''}>
-        {breadcrumb([("Başlangıç", "/"), ("Okuma Haritası", "/okuma-haritasi/"), (summary['title'], path)])}
+      <article class="summary-reader-container static-summary{' is-long-form' if summary.get('longForm') else ''}{' has-chapter-artwork' if has_chapter_artwork else ''}" data-summary-book="{summary.get('bookNo')}" data-summary-reading-order="{route_position}"{' style="--chapter-art-ink: ' + chapter_art_color + ';"' if has_chapter_artwork else ''}>
+        {breadcrumb([("Başlangıç", "/"), ("Okuma Haritası", f"/okuma-haritasi/#kitap-{summary.get('bookNo')}"), (summary['title'], path)])}
         <header class="summary-hero-split{hero_class}">
           <div class="summary-hero-left">
-            <span class="summary-meta-book-no">#{summary.get('bookNo')}</span>
+            <span class="summary-meta-book-no">Durak {route_position:03d} / 300 · Evre {route_phase:02d}</span>
+            <span class="summary-stable-book-no">Koleksiyon #{int(summary.get('bookNo', 0)):03d}</span>
             <h1 class="summary-book-title">{html.escape(summary['title'])}</h1>
             <p class="summary-book-author">{html.escape(summary.get('author', ''))}</p>
             <p class="summary-book-subtitle">{html.escape(summary.get('subtitle', ''))}</p>
@@ -687,7 +780,7 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
           <button type="button" data-reader-print>Yazdır / PDF</button>
         </nav>
         <div class="summary-intro-box"><h2>Giriş</h2><p>{summary.get('intro', '')}</p></div>{toc}
-        <div class="summary-chapters-list">{''.join(chapters)}</div>{sources}
+        <div class="summary-chapters-list">{''.join(chapters)}</div>{sources}{route_navigation}
         <footer class="summary-reader-footer"><p class="disclaimer-text"><strong>Telif ve sorumluluk notu:</strong> Bu bağımsız ve ticari olmayan okuma rehberi eğitim ve araştırma amacıyla hazırlanmıştır; özgün eserin yerini tutmaz ve yazar ya da yayınevi tarafından hazırlanmış veya onaylanmış değildir.</p></footer>
       </article>"""
     schema = {
@@ -714,7 +807,8 @@ def render_summary(summary: dict[str, Any]) -> tuple[str, str]:
         schema=schema,
         page_type="article",
         body_class="summary-page",
-        static_css_version=5 if has_chapter_artwork else (4 if is_cover_artwork else 3),
+        static_css_version=8,
+        static_js_version=5,
     )
 
 
@@ -878,7 +972,12 @@ def render_global_search() -> str:
     )
 
 
-def build_search_index(posts: list[dict[str, Any]], summaries: list[dict[str, Any]], research_index: list[dict[str, Any]]) -> None:
+def build_search_index(
+    posts: list[dict[str, Any]],
+    summaries: list[dict[str, Any]],
+    research_index: list[dict[str, Any]],
+    books_by_no: dict[int, dict[str, Any]],
+) -> None:
     records = []
     for post in posts:
         records.append({
@@ -886,11 +985,13 @@ def build_search_index(posts: list[dict[str, Any]], summaries: list[dict[str, An
             "subtitle": str(post.get("category", "Yazı")), "description": excerpt(post.get("content", ""), 220),
             "url": f"/yazilar/{post['slug']}/",
         })
-    for summary in summaries:
+    for summary in sorted(summaries, key=lambda item: reading_order(books_by_no[int(item["bookNo"])])):
+        route_book = books_by_no[int(summary["bookNo"])]
         records.append({
             "type": "summary", "label": "Ön okuma rehberi", "title": summary["title"],
             "subtitle": summary.get("author", ""), "description": excerpt(summary.get("intro", ""), 220),
-            "url": summary_path(summary),
+            "url": route_book["summaryUrl"], "bookNo": summary["bookNo"],
+            "readingOrder": reading_order(route_book), "routePhase": route_book["routePhase"],
         })
     for item in research_index:
         records.append({
@@ -977,8 +1078,11 @@ def build_rss(posts: list[dict[str, Any]]) -> None:
     write_file("feed.xml", feed)
 
 
-def build_legacy_routes(summaries: list[dict[str, Any]]) -> None:
-    summary_map = {str(item["bookNo"]): summary_path(item) for item in summaries}
+def build_legacy_routes(summaries: list[dict[str, Any]], books_by_no: dict[int, dict[str, Any]]) -> None:
+    summary_map = {
+        str(item["bookNo"]): books_by_no[int(item["bookNo"])]["summaryUrl"]
+        for item in summaries
+    }
     script = f"""(() => {{
   const hash = window.location.hash || "";
   const summaries = {json.dumps(summary_map, ensure_ascii=False, separators=(',', ':'))};
@@ -1009,9 +1113,18 @@ def build_static_site() -> None:
     summaries = [load_json(str(path.relative_to(ROOT))) for path in sorted((ROOT / "data/summaries").glob("*.json"), key=lambda p: int(p.stem))]
     books = load_json("data/books.json")
     research_index = load_json("data/kutuphane_index.json")
+    validate_reading_route(books)
+    route_books = sorted(books, key=reading_order)
+    books_by_no = {int(book["no"]): book for book in books}
+    summary_ids = {int(summary["bookNo"]) for summary in summaries}
+    if summary_ids != set(books_by_no):
+        raise ValueError("Summary bookNo values must match the 300 stable book ids")
 
     summary_meta = {
-        int(item["bookNo"]): {"url": summary_path(item), "pdf": bool(item.get("pdfUrl"))}
+        int(item["bookNo"]): {
+            "url": books_by_no[int(item["bookNo"])]["summaryUrl"],
+            "pdf": bool(item.get("pdfUrl")),
+        }
         for item in summaries
     }
     sitemap_entries: list[tuple[str, str | None, str, str]] = [
@@ -1032,14 +1145,22 @@ def build_static_site() -> None:
     write_file("zihin-odasi/index.html", render_about())
     write_file("okuma-haritasi/index.html", render_roadmap(books, summary_meta))
 
+    route_index_by_no = {int(book["no"]): index for index, book in enumerate(route_books)}
     for summary in summaries:
-        path, rendered = render_summary(summary)
+        stable_no = int(summary["bookNo"])
+        route_index = route_index_by_no[stable_no]
+        path, rendered = render_summary(
+            summary,
+            books_by_no[stable_no],
+            route_books[route_index - 1] if route_index > 0 else None,
+            route_books[route_index + 1] if route_index + 1 < len(route_books) else None,
+        )
         write_file(path.lstrip("/") + "index.html", rendered)
         sitemap_entries.append((path, None, "monthly", "0.7"))
 
     write_file("arastirma-arsivi/index.html", render_research_archive(research_index))
     write_file("arama/index.html", render_global_search())
-    build_search_index(posts, summaries, research_index)
+    build_search_index(posts, summaries, research_index, books_by_no)
     index_by_id = {item["id"]: item for item in research_index}
     for item in research_index:
         book = load_json(f"data/books/{item['id']}.json")
@@ -1051,7 +1172,7 @@ def build_static_site() -> None:
     write_file("404.html", render_404())
     build_sitemap(sitemap_entries)
     build_rss(posts)
-    build_legacy_routes(summaries)
+    build_legacy_routes(summaries, books_by_no)
     write_file("robots.txt", "User-agent: *\nAllow: /\nDisallow: /admin/\n\nSitemap: https://zihingezgini.net/sitemap.xml")
     write_file(".nojekyll", "")
     print(f"Generated {len(posts)} posts, {len(summaries)} summaries and {len(research_index)} research books.")

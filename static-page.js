@@ -176,7 +176,7 @@
         const sorted = Array.from(list.querySelectorAll("[data-book-no]")).sort((a, b) => {
           if (sortControl?.value === "title") return a.dataset.bookTitle.localeCompare(b.dataset.bookTitle, "tr");
           if (sortControl?.value === "author") return a.dataset.bookAuthor.localeCompare(b.dataset.bookAuthor, "tr");
-          return Number(a.dataset.bookNo) - Number(b.dataset.bookNo);
+          return Number(a.dataset.readingOrder) - Number(b.dataset.readingOrder);
         });
         sorted.forEach((item) => list.append(item));
       });
@@ -195,10 +195,11 @@
         checkbox.closest(".book-item-row")?.classList.toggle("is-read", checkbox.checked);
       });
       const count = readBooks.length;
-      const percentage = Math.round((count / 300) * 100);
+      const total = roadmapItems.length;
+      const percentage = total ? Math.round((count / total) * 100) : 0;
       const label = document.querySelector("[data-roadmap-count]");
       const fill = document.querySelector("[data-roadmap-fill]");
-      if (label) label.textContent = `${percentage}% (${count} / 300)`;
+      if (label) label.textContent = `${percentage}% (${count} / ${total})`;
       if (fill) fill.style.width = `${percentage}%`;
       refreshFilters();
     };
@@ -234,9 +235,9 @@
       event.preventDefault();
       const input = event.currentTarget.querySelector("input");
       const number = Number(input?.value);
-      const target = document.querySelector(`#kitap-${number}`);
+      const target = roadmapItems.find((item) => Number(item.dataset.readingOrder) === number);
       if (!target) {
-        if (filterStatus) filterStatus.textContent = "1 ile 300 arasında bir kitap numarası yaz.";
+        if (filterStatus) filterStatus.textContent = "1 ile 300 arasında bir rota sırası yaz.";
         input?.focus();
         return;
       }
