@@ -752,7 +752,7 @@ def render_research_book(book: dict[str, Any], index_item: dict[str, Any]) -> tu
             f'<li><a href="#{chapter_id}" data-research-chapter="{index}"><strong>{title}</strong>'
             f'{f"<span>{quote}</span>" if quote else ""}</a></li>'
         )
-    cover = index_item.get("cover", f"/covers/{book['id']}.png")
+    cover = index_item.get("cover", f"/covers/{book['id']}.webp")
     if not cover.startswith("/"):
         cover = "/" + cover
     description = excerpt(book.get("desc", ""))

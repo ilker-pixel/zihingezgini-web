@@ -7,7 +7,7 @@ def create_summary():
         "title": "Fizik Üzerine Yedi Kısa Ders",
         "author": "Carlo Rovelli",
         "subtitle": "Modern Fizik Şaheserinin Gençler İçin Eğlenceli ve Detaylı Özeti",
-        "coverImage": "/images/physics_seven_lessons_cover_sketch.png",
+        "coverImage": "/images/optimized/physics_seven_lessons_cover_sketch-960.webp",
         "meta": {
             "originalTitle": "Sette brevi lezioni di fisica",
             "compiler": "Yapay Zeka Asistanı",
@@ -19,7 +19,7 @@ def create_summary():
             {
                 "id": "intro_text",
                 "title": "GİRİŞ: Fiziğin Şiirsel Dünyası",
-                "image": "/images/physics_seven_lessons_cover_sketch.png",
+                "image": "/images/optimized/physics_seven_lessons_cover_sketch-960.webp",
                 "imageCaption": "Kozmos ve Fiziğin Büyüsü",
                 "takeaway": "Carlo Rovelli'nin en büyük dehası, evreni sadece formüllerle değil, hislerle ve estetik kavramlarla anlatmasıdır.",
                 "paragraphs": [
@@ -57,7 +57,7 @@ def create_summary():
             {
                 "id": "chapter3",
                 "title": "BÖLÜM 3: Evrenin Mimarisi (Kozmosun Düzeni)",
-                "image": "/images/physics_seven_lessons_cover_sketch.png",
+                "image": "/images/optimized/physics_seven_lessons_cover_sketch-960.webp",
                 "imageCaption": "Evrenin Yapısı",
                 "takeaway": "Evren, sabit ve hareketsiz değildir; milyarlarca yıldır her yöne doğru büyümeye devam eden dinamik bir yapıdır.",
                 "paragraphs": [

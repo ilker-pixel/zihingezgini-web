@@ -5,7 +5,7 @@
     "subtitle": "Saf Fizik ve Astrofiziğin 10 Ciltlik Evrensel Tarihi",
     "category": "Fizik & Kozmoloji",
     "desc": "Big Bang'den başlayıp yıldızların doğumuna, elementlerin nükleer sentezine ve evrenin ısı ölümüne uzanan, içinde Dünya'nın olmadığı saf fizik ve astrofizik tarihi.",
-    "cover": "covers/kozmosun_biyografisi.png",
+    "cover": "covers/kozmosun_biyografisi.webp",
     "chapterCount": 100
   },
   {
@@ -14,7 +14,7 @@
     "subtitle": "Cansızlıktan Canlılığa Geçişin Kozmik ve Biyolojik Biyografisi",
     "category": "Prebiyotik Kimya",
     "desc": "Elementlerin yıldızlardan gelip suyun polaritesinde kovalent bağlarla birleşmesinden, lipit membran veziküllerine ve ilk replikasyon yapan RNA/DNA yapılarına uzanan prebiyotik kimya rehberi.",
-    "cover": "covers/hayatin_kimyasi.png",
+    "cover": "covers/hayatin_kimyasi.webp",
     "chapterCount": 100
   },
   {
@@ -23,7 +23,7 @@
     "subtitle": "Jeolojik Zamanlar ve Biyoçeşitliliğin Tarihi",
     "category": "Biyoloji & Paleontoloji",
     "desc": "İlk atasal prokaryotlardan, Kambriyen patlamasına, karaya çıkışa, dev dinozorların hükümranlığına, göktaşı çarpması nükleer kışına ve insanın şafağına uzanan 3.8 milyar yıllık evrimsel süreç.",
-    "cover": "covers/evrimin_biyografisi.png",
+    "cover": "covers/evrimin_biyografisi.webp",
     "chapterCount": 100
   },
   {
@@ -32,7 +32,7 @@
     "subtitle": "İnsan Bilişinin ve Algısının 10 Ciltlik Evrimi",
     "category": "Bilişsel Tarih & Antropoloji",
     "desc": "İnsanın bilişsel gelişimini, dünyayı algılama biçimlerini, inançların ve kolektif zihniyet yapılarının çağlar boyunca değişimini ele alan kurucu eserimiz.",
-    "cover": "covers/zihniyetler_tarihi.png",
+    "cover": "covers/zihniyetler_tarihi.webp",
     "chapterCount": 100
   },
   {
@@ -41,7 +41,7 @@
     "subtitle": "Fikirlerin ve Teorilerin 10 Ciltlik Entelektüel Serüveni",
     "category": "Felsefe",
     "desc": "Thales'ten başlayıp Sokrates'e, Orta Çağ dogmalarına, Aydınlanma Çağı'na, varoluşçuluğa ve modern bilim felsefesine uzanan düşünce tarihinin 100 büyük durağı.",
-    "cover": "covers/felsefe_tarihi.png",
+    "cover": "covers/felsefe_tarihi.webp",
     "chapterCount": 100
   },
   {
@@ -50,7 +50,7 @@
     "subtitle": "İlk Anlatılardan Modern Romana Hikayelerin Evrimi",
     "category": "Edebiyat & Mitoloji",
     "desc": "İlk sözlü mitolojilerden Gılgamış'a, Homeros destanlarından Shakespeare'e, klasisizmden modern romana ve dijital anlatılara kadar uzanan insan hikayelerinin ve kurgunun evrimi.",
-    "cover": "covers/edebiyat_tarihi.png",
+    "cover": "covers/edebiyat_tarihi.webp",
     "chapterCount": 100
   },
   {
@@ -59,7 +59,7 @@
     "subtitle": "İnsanlığın Doğru Kabul Ettiği Büyük Yanlış Varsayımlar",
     "category": "Bilim Tarihi",
     "desc": "Simyadan düz dünya teorilerine, phlogiston kuramından öjenik teorilerine kadar insanlığın doğru kabul ettiği ama bilimin ilerlemesiyle yıkılan büyük entelektüel yanılgıları.",
-    "cover": "covers/bilimsel_yanilgilar.png",
+    "cover": "covers/bilimsel_yanilgilar.webp",
     "chapterCount": 100
   },
   {
@@ -68,7 +68,7 @@
     "subtitle": "İlk Taş Aletlerden Modern Teknolojik Nesnelere Aletlerin Evrimi",
     "category": "Maddi Kültür & Teknoloji",
     "desc": "İlk taş aletlerden tekerleğe, yazı tahtasından matbaaya, buhar makinesinden telgrafa kadar insan yapımı fiziksel objelerin maddi tarihi.",
-    "cover": "covers/maddi_kultur.png",
+    "cover": "covers/maddi_kultur.webp",
     "chapterCount": 100
   },
   {
@@ -77,7 +77,7 @@
     "subtitle": "Sıradan İnsanların Sosyal Mikrotarih Çalışması",
     "category": "Sosyal Tarih",
     "desc": "Büyük komutanlar yerine sıradan insanların çağlar boyunca nasıl beslendiğini, nasıl barındığını, temizlendiğini, giyindiğini ve uyuduğunu anlatan sosyal mikrotarih çalışması.",
-    "cover": "covers/gundelik_hayat.png",
+    "cover": "covers/gundelik_hayat.webp",
     "chapterCount": 100
   },
   {
@@ -86,7 +86,7 @@
     "subtitle": "Kanunların, Paranın ve İmparatorlukların Evrimi",
     "category": "Siyasi & Askeri Tarih",
     "desc": "Sümer yasalarından Roma lejyonlarına, Moğol istilalarından dünya savaşlarına, paranın icadından modern siber ve jeopolitik güç mücadelelerine uzanan devletlerin ve savaşların tarihi.",
-    "cover": "covers/iktidarin_tarihi.png",
+    "cover": "covers/iktidarin_tarihi.webp",
     "chapterCount": 100
   },
   {
@@ -95,7 +95,7 @@
     "subtitle": "Mikroçiplerden Yapay Zekaya Hesaplama Tarihi",
     "category": "Bilgisayar & Enformasyon",
     "desc": "Abaküsten ilk mekanik hesap makinelerine, vakum tüplerinden transistör ve mikroçiplere, internetten yapay zeka sinir ağlarına uzanan bilgisayar ve enformasyon tarihi.",
-    "cover": "covers/dijital_akil.png",
+    "cover": "covers/dijital_akil.webp",
     "chapterCount": 100
   },
   {
@@ -104,7 +104,7 @@
     "subtitle": "2026 Sonrası Yakın ve Uzak Gelecek Senaryoları",
     "category": "Fütürizm",
     "desc": "2026 sonrası yakın dönem transhümanist dönüşümlerden, Güneş Sistemi'nin kolonizasyonuna, galaktik medeniyetlerin doğuşuna ve milyarlarca yıl sonraki kozmik yalnızlık çağlarına uzanan fütüristik biyografi.",
-    "cover": "covers/gelecegin_tarihi.png",
+    "cover": "covers/gelecegin_tarihi.webp",
     "chapterCount": 100
   },
   {
@@ -113,7 +113,7 @@
     "subtitle": "Bilimin ve Tarihin Akıl Almaz 100 Gizemi",
     "category": "Bilim & Felsefe",
     "desc": "Kuantum tuhaflıklarından kayıp antik teknolojilere, insan zihninin karanlık labirentlerinden evrenin gözlemlenemeyen sınırlarına kadar bilimin ve tarihin yanıt aradığı 100 büyüleyici anomali.",
-    "cover": "covers/ilgincilikler.png",
+    "cover": "covers/ilgincilikler.webp",
     "chapterCount": 100
   },
   {
@@ -122,7 +122,7 @@
     "subtitle": "Sayıların Şafağından Kaos Teorisine Akıl Almaz Yolculuk",
     "category": "Mantık & Bilim",
     "desc": "Sümerlerin kil tabletlerindeki ilk hesaplardan antik Yunan geometrisine, cebirin keşfinden diferansiyel hesabın doğuşuna, Gödel'in eksiklik teorilerinden modern kaos ve fraktal geometrisine uzanan soyut düşüncenin 4500 yıllık görkemli tarihi.",
-    "cover": "covers/matematigin_tarihi.png",
+    "cover": "covers/matematigin_tarihi.webp",
     "chapterCount": 100
   },
   {
@@ -131,7 +131,7 @@
     "subtitle": "Göbeklitepe'den 1950'ye Toprağın ve Taşın Destansı Hikayesi",
     "category": "Tarih & Medeniyet",
     "desc": "Tarihin sıfır noktası Göbeklitepe'den Hitit imparatorluğuna, Ege kıyılarındaki İyonya aydınlanmasından Bizans ve Selçuklu mimarisine, Osmanlı saraylarından genç Türkiye Cumhuriyeti'nin 1950'deki çok partili dönemine uzanan 12.000 yıllık Anadolu ruhu.",
-    "cover": "covers/anadolu_medeniyetleri.png",
+    "cover": "covers/anadolu_medeniyetleri.webp",
     "chapterCount": 100
   },
   {
@@ -140,7 +140,7 @@
     "subtitle": "Mağara Resimlerinden Dijital Çağa İnsanlığın Estetik Serüveni",
     "category": "Sanat & Felsefe",
     "desc": "Altamira mağarasındaki ilk bizon çizimlerinden antik Yunan heykellerine, Rönesans'ın perspektif devriminden Caravaggio'nun ışık-gölge dramasına, izlenimcilerin renk patlamalarından modern sürrealist rüyalara ve günümüz dijital sanatının sınırlarına uzanan estetiğin 30.000 yıllık görkemli tarihi.",
-    "cover": "covers/sanat_tarihi.png",
+    "cover": "covers/sanat_tarihi.webp",
     "chapterCount": 100
   },
   {
@@ -149,7 +149,7 @@
     "subtitle": "Stoacılık, Zen ve Ölümün Bilgeliğiyle Anda Kalmak",
     "category": "Felsefe & Zihin",
     "desc": "Doğu'nun dingin Zen meditasyonlarından Epikür'ün Atina'daki bahçesine, Stoacı imparator Marcus Aurelius'un ölümlülük bilincinden (Memento Mori) varoluşçuların isyanına ve modern çağın bilinçli farkındalık (Mindfulness) pratiklerine uzanan sakin ve anlamlı bir ömür sürme kılavuzu.",
-    "cover": "covers/yasama_sanati.png",
+    "cover": "covers/yasama_sanati.webp",
     "chapterCount": 100
   },
   {
@@ -158,7 +158,7 @@
     "subtitle": "Don Kişot'tan Postmodernizme Kurmaca Dünyasının Serüveni",
     "category": "Edebiyat & Dil",
     "desc": "Cervantes'in şövalyelik hicvinden Mary Shelley'nin gotik dehşetine, Balzac ve Tolstoy'un gerçekçi panoramalarından Virginia Woolf'un bilinç akışına, Márquez'in büyülü gerçekçiliğinden Orwell'in distopyalarına uzanan kurmaca dünyaların 400 yıllık görkemli serüveni.",
-    "cover": "covers/romanin_tarihi.png",
+    "cover": "covers/romanin_tarihi.webp",
     "chapterCount": 100
   },
   {
@@ -167,7 +167,7 @@
     "subtitle": "Efsaneler, Canavarlar ve Kahramanların Antik Serüveni",
     "category": "Tarih & Mitoloji",
     "desc": "Sümerlerin tufan efsanelerinden Mısır'ın güneş tanrılarına, Olimpos'un zirvesindeki tanrılardan İskandinav karlarındaki Ragnarok kıyametine, Kelt ormanlarındaki doğa kültlerinden Aztek güneş piramitlerine uzanan insanlığın ebedi hayal gücü tarihi.",
-    "cover": "covers/mitoloji_tarihi.png",
+    "cover": "covers/mitoloji_tarihi.webp",
     "chapterCount": 100
   },
   {
@@ -176,7 +176,7 @@
     "subtitle": "Bilinmeyen Dünyalar: İnsanlığın Yeryüzünü ve Evreni Keşfetme Serüveni",
     "category": "Tarih & Coğrafya",
     "desc": "Anaksimandros'un ilk dünya çiziminden Batlamyus'un coğrafya kılavuzuna, İdrisi ve Piri Reis'in eşsiz haritalarından Kolomb, Macellan ve Cook'un okyanus seferlerine, kutup maceralarından uzay çağının kozmik haritalarına uzanan yeryüzünün keşif hikayesi.",
-    "cover": "covers/kesifler_ve_haritalar.png",
+    "cover": "covers/kesifler_ve_haritalar.webp",
     "chapterCount": 100
   },
   {
@@ -185,7 +185,7 @@
     "subtitle": "Kayıp Medeniyetler, Sıra Dışı Ritüeller ve Dünyanın Ucundaki Kabileler",
     "category": "Antropoloji & Kültür",
     "desc": "Sümerlerin bira ve ev yaşamından Viking gemi cenazelerine, Aborjinlerin düş zamanından Amazon'un zehirli ok kurbağası avcılarına, ölüleriyle yaşayan Torajalılardan çölün mavi peçeli göçebelerine uzanan insanlığın en sıra dışı kültür atlası.",
-    "cover": "covers/kulturer_atlasi.png",
+    "cover": "covers/kulturer_atlasi.webp",
     "chapterCount": 100
   }
 ]
