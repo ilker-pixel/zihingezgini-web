@@ -254,6 +254,9 @@ def main() -> int:
         ERRORS.append(f"index.html must contain exactly one h1; found {homepage.count('<h1')}")
     if "googletagmanager.com" in homepage or "fonts.googleapis.com" in homepage:
         ERRORS.append("index.html still contains a blocking analytics or remote-font request")
+    for marker in ("collection-entry-points", "Kişisel Yazılar", "300 Ön Okuma Rehberi", "data-mobile-menu-toggle"):
+        if marker not in homepage:
+            ERRORS.append(f"index.html is missing approved interface marker {marker}")
 
     roadmap = (ROOT / "okuma-haritasi/index.html").read_text(encoding="utf-8")
     methodology = (
@@ -265,6 +268,7 @@ def main() -> int:
     required_roadmap_features = (
         "data-roadmap-filter=", "data-random-book", "data-export-progress",
         "data-import-progress", "data-roadmap-jump", "start-routes-grid",
+        "data-roadmap-continue", "data-roadmap-advanced", "data-phase-progress",
     )
     for feature in required_roadmap_features:
         if feature not in roadmap:
@@ -282,6 +286,10 @@ def main() -> int:
         ERRORS.append("reading map DOM stable ids do not match the approved route")
     if roadmap.count('class="roadmap-phase"') != 12:
         ERRORS.append("reading map must render exactly 12 route phases")
+    if roadmap.count('class="book-check-col"') != 300:
+        ERRORS.append("reading map must render 300 label-sized read controls")
+    if roadmap.count('class="book-route-meta"') != 300:
+        ERRORS.append("reading map must render route and stable identity metadata for 300 books")
 
     for path in (ROOT / "kitap-ozetleri").glob("*/index.html"):
         source = path.read_text(encoding="utf-8")
@@ -302,6 +310,9 @@ def main() -> int:
         for marker in (
             "data-reading-progress", "data-reader-resume", "data-reader-print", "data-reader-width",
             "data-summary-reading-order", "summary-route-navigation", "Haritaya dön",
+            "Yapay zekâyla oluşturulmuş ön okuma rehberi", "data-summary-read-toggle",
+            "Kitabın yerini tutmaz", 'class="summary-reader-more" open',
+            "data-summary-reading-minutes", "data-summary-toc-status",
         ):
             if marker not in source:
                 ERRORS.append(f"{path.relative_to(ROOT)} is missing reader feature {marker}")
@@ -309,6 +320,14 @@ def main() -> int:
     about = (ROOT / "zihin-odasi/index.html").read_text(encoding="utf-8")
     if "Kişisel yazılar" not in about or "bütünüyle yapay zekâ tarafından oluşturuldu" not in about:
         ERRORS.append("about page does not clearly separate personal work from the AI reading collection")
+
+    grouped_toc = (ROOT / "kitap-ozetleri/13-buyuk-tarih/index.html").read_text(encoding="utf-8")
+    if grouped_toc.count('class="summary-toc-group"') < 5:
+        ERRORS.append("long guides must render a grouped, two-level table of contents")
+
+    search_page = (ROOT / "arama/index.html").read_text(encoding="utf-8")
+    if "300 ön okuma rehberini" not in search_page or search_page.count("data-global-search-type=") != 4:
+        ERRORS.append("global search is missing canonical guide terminology or collection shortcuts")
 
     admin_parser = DocumentParser()
     admin_parser.feed((ROOT / "admin/index.html").read_text(encoding="utf-8"))

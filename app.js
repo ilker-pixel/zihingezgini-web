@@ -967,7 +967,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (navLinks.roadmap) navLinks.roadmap.classList.add("active");
       updateMetaTags(
         "Zihin Gezgini | Entelektüel Yol Haritası",
-        "Zihin Gezgini: 10 Evre ve 300 seçkin eserden oluşan interaktif entelektüel okuma rehberi.",
+        "Zihin Gezgini: 12 evre ve yapay zekâyla oluşturulan 300 ön okuma rehberinden oluşan kişisel okuma rotası.",
         "https://zihingezgini.net/images/thinking_man_sketch.png"
       );
       setupRoadmap();
@@ -1041,16 +1041,22 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // Theme Toggle Logic
-  const themeToggleBtn = document.getElementById("theme-toggle");
+  const themeToggleButtons = Array.from(document.querySelectorAll("[data-theme-toggle]"));
   
   // Read saved theme or begin with the warm paper theme.
-  const savedTheme = localStorage.getItem("zg_theme") || "light";
+  let savedTheme = "light";
+  try {
+    savedTheme = localStorage.getItem("zg_theme") || "light";
+  } catch (_) {
+    // Keep the page usable when browser storage is unavailable.
+  }
   function updateThemeButton(isDark) {
-    if (!themeToggleBtn) return;
-    themeToggleBtn.textContent = isDark ? "☀" : "◐";
     const label = isDark ? "Gündüz moduna geç" : "Gece moduna geç";
-    themeToggleBtn.title = label;
-    themeToggleBtn.setAttribute("aria-label", label);
+    themeToggleButtons.forEach((button) => {
+      button.textContent = isDark ? "☀" : "◐";
+      button.title = label;
+      button.setAttribute("aria-label", label);
+    });
   }
 
   function applyTheme(isDark) {
@@ -1067,13 +1073,45 @@ document.addEventListener("DOMContentLoaded", () => {
     applyTheme(false);
   }
 
-  if (themeToggleBtn) {
-    themeToggleBtn.addEventListener("click", () => {
+  themeToggleButtons.forEach((button) => {
+    button.addEventListener("click", () => {
       const isDark = !document.body.classList.contains("dark-theme");
       applyTheme(isDark);
-      localStorage.setItem("zg_theme", isDark ? "dark" : "light");
+      try {
+        localStorage.setItem("zg_theme", isDark ? "dark" : "light");
+      } catch (_) {
+        // The selected theme still applies for the current page.
+      }
     });
-  }
+  });
+
+  document.querySelectorAll("[data-mobile-menu-toggle]").forEach((button) => {
+    const navigation = document.getElementById(button.getAttribute("aria-controls"));
+    const label = button.querySelector("[data-menu-label]");
+    if (!navigation) return;
+    const closeMenu = () => {
+      navigation.classList.remove("is-open");
+      button.setAttribute("aria-expanded", "false");
+      if (label) label.textContent = "Menü";
+    };
+    button.addEventListener("click", () => {
+      const open = !navigation.classList.contains("is-open");
+      navigation.classList.toggle("is-open", open);
+      button.setAttribute("aria-expanded", String(open));
+      if (label) label.textContent = open ? "Kapat" : "Menü";
+    });
+    navigation.querySelectorAll("a").forEach((link) => link.addEventListener("click", closeMenu));
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && navigation.classList.contains("is-open")) {
+        closeMenu();
+        button.focus();
+      }
+    });
+    window.matchMedia("(min-width: 761px)").addEventListener?.("change", (event) => {
+      if (event.matches) closeMenu();
+    });
+    document.documentElement.classList.add("menu-ready");
+  });
 
   // Zihin Kırıntıları Quote Shuffler
   function setupQuoteWidget() {

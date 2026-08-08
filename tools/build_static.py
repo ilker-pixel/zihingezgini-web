@@ -197,6 +197,7 @@ def write_file(relative_path: str | Path, content: str) -> None:
 def header(active: str = "") -> str:
     links = (
         ("home", "/", "Başlangıç"),
+        ("posts", "/yazilar/", "Yazılar"),
         ("roadmap", "/okuma-haritasi/", "Okuma Haritası"),
         ("library", "/arastirma-arsivi/", "Araştırma Arşivi"),
         ("about", "/zihin-odasi/", "Zihin Odası"),
@@ -216,10 +217,14 @@ def header(active: str = "") -> str:
             <span class="site-title">Zihin Gezgini</span>
           </span>
         </a>
-        <nav class="site-nav" aria-label="Ana menü">
+        <div class="mobile-header-actions">
+          <button type="button" class="mobile-menu-toggle" data-mobile-menu-toggle aria-expanded="false" aria-controls="site-navigation"><span data-menu-label>Menü</span></button>
+          <button type="button" class="theme-toggle-btn theme-toggle-mobile" data-theme-toggle title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
+        </div>
+        <nav class="site-nav" id="site-navigation" data-site-nav aria-label="Ana menü">
           {nav}
           <a href="/rastgele/" class="nav-link nav-link-random">Rastgele ↝</a>
-          <button type="button" class="theme-toggle-btn" data-theme-toggle title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
+          <button type="button" class="theme-toggle-btn theme-toggle-desktop" data-theme-toggle title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
         </nav>
       </div>
     </header>"""
@@ -289,9 +294,9 @@ def page_shell(
   <meta name="twitter:image" content="{image_url}">
   {schema_html}
   <link rel="stylesheet" href="/style.css?v=65">
-  <link rel="stylesheet" href="/zihin-v2.css?v=4">
-  <link rel="stylesheet" href="/static-pages.css?v={max(static_css_version, 7)}">
-  <script src="/static-page.js?v={max(static_js_version, 4)}" defer></script>
+  <link rel="stylesheet" href="/zihin-v2.css?v=5">
+  <link rel="stylesheet" href="/static-pages.css?v={max(static_css_version, 9)}">
+  <script src="/static-page.js?v={max(static_js_version, 6)}" defer></script>
 </head>
 <body class="static-page {html.escape(body_class)}">
   <a class="skip-link" href="#main-content">Ana içeriğe geç</a>
@@ -412,6 +417,7 @@ def render_post(post: dict[str, Any]) -> tuple[str, str, str]:
         schema=schema,
         page_type="article",
         body_class="post-page",
+        active="posts",
     ), date_iso(post.get("date", ""))
 
 
@@ -454,6 +460,7 @@ def render_post_archive(posts: list[dict[str, Any]]) -> str:
         description="İlker Manavoğlu'nun felsefe, bilim, psikoloji ve gündelik hayat üzerine kişisel yazıları.",
         path="/yazilar/",
         content=content,
+        active="posts",
         schema={"@context": "https://schema.org", "@type": "CollectionPage", "name": "Zihin Gezgini Yazıları"},
         static_css_version=6,
         static_js_version=3,
@@ -525,14 +532,17 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
             )
             rows.append(f"""
             <article class="{row_classes}" id="kitap-{book.get('no')}"{row_link_attrs} data-section-search-item data-search-text="{html.escape(search_text, quote=True)}" data-book-no="{book.get('no')}" data-reading-order="{route_position}" data-book-title="{html.escape(title_text, quote=True)}" data-book-author="{html.escape(str(book.get('author', '')), quote=True)}" data-book-category="{html.escape(str(book.get('category', '')), quote=True)}" data-book-phase="{evre}" data-book-pdf="{'yes' if summary_info.get('pdf') else 'no'}">
-              <div class="book-check-col">
+              <label class="book-check-col">
                 <input type="checkbox" data-roadmap-book="{book.get('no')}" aria-label="{html.escape(title_text, quote=True)} okundu">
-              </div>
+              </label>
               <div class="book-info-col">
-                <div class="book-title-row">
+                <div class="book-route-meta">
                   <span class="book-no">Durak {route_position:03d}</span>
                   <span class="book-stable-no">Koleksiyon #{int(book.get('no', 0)):03d}</span>
-                  <strong class="book-author">{html.escape(str(book.get('author', '')))}</strong> — {title} {summary}
+                </div>
+                <div class="book-title-row">
+                  <strong class="book-author">{html.escape(str(book.get('author', '')))}</strong>
+                  <span class="book-work-row"><span aria-hidden="true">—</span> {title} {summary}</span>
                 </div>
                 <details class="book-details-native">
                   <summary>Açıklama</summary>
@@ -545,10 +555,10 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
               </div>
             </article>""")
         groups.append(f"""
-        <section class="roadmap-phase" id="evre-{evre}" data-section-search-group>
-          <h2><span>{evre:02d}</span>{html.escape(EVRE_TITLES[evre])}</h2>
+        <details class="roadmap-phase" id="evre-{evre}" data-section-search-group open>
+          <summary><h2><span>{evre:02d}</span><strong>{html.escape(EVRE_TITLES[evre])}</strong><small data-phase-progress>0 / {len(phase_books)}</small></h2></summary>
           <div class="roadmap-books-list">{''.join(rows)}</div>
-        </section>""")
+        </details>""")
 
     quick_nav = "".join(
         f'<a href="#evre-{i}" data-section-search-group-link="evre-{i}" '
@@ -569,6 +579,8 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
         )
     categories = sorted({str(book.get("category", "")).strip() for book in books if book.get("category")})
     category_options = "".join(f'<option value="{html.escape(category, quote=True)}">{html.escape(category)}</option>' for category in categories)
+    first_book = books[0]
+    first_summary_url = str(summary_meta.get(int(first_book["no"]), {}).get("url") or f'#kitap-{first_book["no"]}')
     content = f"""
       <section class="roadmap-container static-roadmap" data-section-search-collection="roadmap">
         {breadcrumb([("Başlangıç", "/"), ("Okuma Haritası", "/okuma-haritasi/")])}
@@ -582,28 +594,38 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
             <div class="stats-text"><span>Toplam ilerleme</span><strong data-roadmap-count>0% (0 / 300)</strong></div>
             <div class="stats-progress-bar"><div class="stats-progress-fill" data-roadmap-fill style="width:0"></div></div>
           </div>
+          <a class="roadmap-continue-card" data-roadmap-continue href="{html.escape(first_summary_url, quote=True)}">
+            <span data-roadmap-continue-label>Rotaya başla</span>
+            <strong data-roadmap-continue-title>Durak {reading_order(first_book):03d} · {html.escape(str(first_book['title']))}</strong>
+            <small>Bir sonraki ön okuma rehberini aç <span aria-hidden="true">→</span></small>
+          </a>
         </header>
-        <section class="start-routes" aria-labelledby="start-routes-title">
-          <div class="start-routes-heading"><p class="section-kicker">Nereden başlamalı?</p><h2 id="start-routes-title">Beş kısa başlangıç rotası</h2></div>
+        <details class="start-routes" data-responsive-disclosure open>
+          <summary class="start-routes-heading"><span class="section-kicker">Nereden başlamalı?</span><strong id="start-routes-title">Beş kısa başlangıç rotası</strong><small>İsteğe bağlı rotaları göster</small></summary>
           <div class="start-routes-grid">{''.join(route_cards)}</div>
-        </section>
+        </details>
         {section_search(scope="roadmap", title="Okuma Haritası'nda ara", description="Bu arama yalnızca Okuma Haritası'ndaki 300 kitabı; yazar, eser adı, kategori ve açıklama bilgileriyle tarar.", placeholder="300 kitap içinde ara", total=len(books))}
         <section class="roadmap-toolbox" data-roadmap-tools aria-label="Okuma haritası araçları">
-          <div class="roadmap-filter-grid">
-            <label>Kategori<select data-roadmap-filter="category"><option value="all">Tüm kategoriler</option>{category_options}</select></label>
+          <div class="roadmap-primary-tools">
             <label>Evre<select data-roadmap-filter="phase"><option value="all">Tüm evreler</option>{''.join(f'<option value="{i}">Evre {i:02d} · {html.escape(EVRE_TITLES[i])}</option>' for i in EVRE_TITLES)}</select></label>
             <label>Okuma durumu<select data-roadmap-filter="status"><option value="all">Tümü</option><option value="unread">Yalnızca okunmamışlar</option><option value="read">Yalnızca okunanlar</option></select></label>
-            <label>PDF<select data-roadmap-filter="pdf"><option value="all">Tümü</option><option value="yes">PDF olanlar</option><option value="no">PDF olmayanlar</option></select></label>
-            <label>Sırala<select data-roadmap-sort><option value="number">Harita sırası</option><option value="title">Eser adına göre</option><option value="author">Yazara göre</option></select></label>
-            <form class="roadmap-number-jump" data-roadmap-jump><label for="roadmap-book-number">Rota sırası</label><div><input id="roadmap-book-number" type="number" min="1" max="300" inputmode="numeric" placeholder="1–300"><button type="submit">Git</button></div></form>
           </div>
-          <div class="roadmap-actions">
-            <button type="button" data-random-book>Rastgele kitap seç</button>
-            <button type="button" data-export-progress>İlerlemeyi yedekle</button>
-            <button type="button" data-import-progress>Yedeği geri yükle</button>
-            <input type="file" accept="application/json" data-import-progress-file hidden>
-            <button type="button" data-reset-filters>Filtreleri temizle</button>
-          </div>
+          <details class="roadmap-advanced-tools" data-roadmap-advanced data-responsive-disclosure open>
+            <summary><strong>Gelişmiş araçlar</strong><span>Kategori, PDF, sıralama ve yedekleme</span></summary>
+            <div class="roadmap-filter-grid">
+              <label>Kategori<select data-roadmap-filter="category"><option value="all">Tüm kategoriler</option>{category_options}</select></label>
+              <label>PDF<select data-roadmap-filter="pdf"><option value="all">Tümü</option><option value="yes">PDF olanlar</option><option value="no">PDF olmayanlar</option></select></label>
+              <label>Sırala<select data-roadmap-sort><option value="number">Harita sırası</option><option value="title">Eser adına göre</option><option value="author">Yazara göre</option></select></label>
+              <form class="roadmap-number-jump" data-roadmap-jump><label for="roadmap-book-number">Rota sırası</label><div><input id="roadmap-book-number" type="number" min="1" max="300" inputmode="numeric" placeholder="1–300"><button type="submit">Git</button></div></form>
+            </div>
+            <div class="roadmap-actions">
+              <button type="button" data-random-book>Rastgele kitap seç</button>
+              <button type="button" data-export-progress>İlerlemeyi yedekle</button>
+              <button type="button" data-import-progress>Yedeği geri yükle</button>
+              <input type="file" accept="application/json" data-import-progress-file hidden>
+              <button type="button" data-reset-filters>Filtreleri temizle</button>
+            </div>
+          </details>
           <p class="roadmap-filter-status" data-roadmap-filter-status aria-live="polite">300 kitap gösteriliyor.</p>
         </section>
         {''.join(groups)}
@@ -625,8 +647,8 @@ def render_roadmap(books: list[dict[str, Any]], summary_meta: dict[int, dict[str
         content=content,
         active="roadmap",
         schema=schema,
-        static_css_version=8,
-        static_js_version=5,
+        static_css_version=9,
+        static_js_version=6,
         body_class="roadmap-page",
     )
 
@@ -702,15 +724,43 @@ def render_summary(
         )
     toc = ""
     if summary.get("longForm"):
-        toc_items = "".join(
-            f'<li><a href="#{html.escape(str(chapter.get("id", "")), quote=True)}">'
-            f'<span>{index:02d}</span>{html.escape(chapter.get("title", ""))}</a></li>'
-            for index, chapter in enumerate(summary.get("chapters", []), 1)
-        )
+        summary_chapters = list(summary.get("chapters", []))
+        chapter_count = len(summary_chapters)
+
+        def toc_item(index: int, chapter: dict[str, Any]) -> str:
+            return (
+                f'<li><a href="#{html.escape(str(chapter.get("id", "")), quote=True)}">'
+                f'<span>{index:02d}</span>{html.escape(chapter.get("title", ""))}</a></li>'
+            )
+
+        if chapter_count >= 30:
+            toc_groups: list[tuple[str, list[tuple[int, dict[str, Any]]]]] = []
+            pending_route_chapters: list[tuple[int, dict[str, Any]]] = []
+            for index, chapter in enumerate(summary_chapters, 1):
+                section = str(chapter.get("section") or "").strip()
+                if not section:
+                    section = f"Bölüm grubu {((index - 1) // 8) + 1}"
+                if section == "YOL HARİTASI":
+                    pending_route_chapters.append((index, chapter))
+                elif toc_groups and toc_groups[-1][0] == section:
+                    toc_groups[-1][1].append((index, chapter))
+                else:
+                    toc_groups.append((section, [*pending_route_chapters, (index, chapter)]))
+                    pending_route_chapters = []
+            if pending_route_chapters and toc_groups:
+                toc_groups[-1][1].extend(pending_route_chapters)
+            toc_content = '<div class="summary-toc-groups">' + "".join(
+                f'<details class="summary-toc-group"{" open" if group_index == 0 else ""}>'
+                f'<summary><strong>{html.escape(section)}</strong><span>{len(group_chapters)} durak</span></summary>'
+                f'<ol>{"".join(toc_item(index, chapter) for index, chapter in group_chapters)}</ol></details>'
+                for group_index, (section, group_chapters) in enumerate(toc_groups)
+            ) + "</div>"
+        else:
+            toc_content = f'<ol>{"".join(toc_item(index, chapter) for index, chapter in enumerate(summary_chapters, 1))}</ol>'
         toc = f"""
         <details class="summary-toc" data-summary-toc>
-          <summary>{len(summary.get('chapters', []))} duraklık okuma rotasını aç</summary>
-          <ol>{toc_items}</ol>
+          <summary><strong>{chapter_count} duraklık okuma rotasını aç</strong><span data-summary-toc-status>Bölüm 1/{chapter_count}</span></summary>
+          {toc_content}
         </details>"""
     sources = ""
     if summary.get("sources"):
@@ -755,10 +805,11 @@ def render_summary(
         </nav>"""
     body = f"""
       <div class="reading-progress" data-reading-progress aria-hidden="true"><span></span></div>
-      <article class="summary-reader-container static-summary{' is-long-form' if summary.get('longForm') else ''}{' has-chapter-artwork' if has_chapter_artwork else ''}" data-summary-book="{summary.get('bookNo')}" data-summary-reading-order="{route_position}"{' style="--chapter-art-ink: ' + chapter_art_color + ';"' if has_chapter_artwork else ''}>
+      <article class="summary-reader-container static-summary{' is-long-form' if summary.get('longForm') else ''}{' has-chapter-artwork' if has_chapter_artwork else ''}" data-summary-book="{summary.get('bookNo')}" data-summary-reading-order="{route_position}" data-summary-reading-minutes="{reading_minutes}"{' style="--chapter-art-ink: ' + chapter_art_color + ';"' if has_chapter_artwork else ''}>
         {breadcrumb([("Başlangıç", "/"), ("Okuma Haritası", f"/okuma-haritasi/#kitap-{summary.get('bookNo')}"), (summary['title'], path)])}
         <header class="summary-hero-split{hero_class}">
           <div class="summary-hero-left">
+            <p class="summary-ai-label">Yapay zekâyla oluşturulmuş ön okuma rehberi <span>· Kitabın yerini tutmaz</span></p>
             <span class="summary-meta-book-no">Durak {route_position:03d} / 300 · Evre {route_phase:02d}</span>
             <span class="summary-stable-book-no">Koleksiyon #{int(summary.get('bookNo', 0)):03d}</span>
             <h1 class="summary-book-title">{html.escape(summary['title'])}</h1>
@@ -776,11 +827,21 @@ def render_summary(
           <button type="button" data-reader-resume hidden>Kaldığın yere dön</button>
           <button type="button" data-reader-font="decrease" aria-label="Yazıyı küçült">A−</button>
           <button type="button" data-reader-font="increase" aria-label="Yazıyı büyüt">A+</button>
-          <button type="button" data-reader-width>Satır genişliği</button>
-          <button type="button" data-reader-print>Yazdır / PDF</button>
+          <details class="summary-reader-more" open>
+            <summary aria-label="Diğer okuma araçları">•••</summary>
+            <div class="summary-reader-more-menu">
+              <button type="button" data-reader-width>Satır genişliği</button>
+              <button type="button" data-reader-print>Yazdır / PDF</button>
+            </div>
+          </details>
         </nav>
         <div class="summary-intro-box"><h2>Giriş</h2><p>{summary.get('intro', '')}</p></div>{toc}
-        <div class="summary-chapters-list">{''.join(chapters)}</div>{sources}{route_navigation}
+        <div class="summary-chapters-list">{''.join(chapters)}</div>{sources}
+        <section class="summary-completion" aria-labelledby="summary-completion-title">
+          <div><span>Okuma Haritası ilerlemesi</span><strong id="summary-completion-title">Bu rehberi bitirdin mi?</strong></div>
+          <button type="button" data-summary-read-toggle aria-pressed="false">Okundu olarak işaretle</button>
+        </section>
+        {route_navigation}
         <footer class="summary-reader-footer"><p class="disclaimer-text"><strong>Telif ve sorumluluk notu:</strong> Bu bağımsız ve ticari olmayan okuma rehberi eğitim ve araştırma amacıyla hazırlanmıştır; özgün eserin yerini tutmaz ve yazar ya da yayınevi tarafından hazırlanmış veya onaylanmış değildir.</p></footer>
       </article>"""
     schema = {
@@ -807,8 +868,8 @@ def render_summary(
         schema=schema,
         page_type="article",
         body_class="summary-page",
-        static_css_version=8,
-        static_js_version=5,
+        static_css_version=9,
+        static_js_version=6,
     )
 
 
@@ -950,7 +1011,7 @@ def render_global_search() -> str:
         <header class="static-page-heading">
           <p class="section-kicker">Bütün arşiv</p>
           <h1>Tek yerden ara</h1>
-          <p>Yazıları, 300 kitap özetini ve araştırma dosyalarını aynı anda tara.</p>
+          <p>Yazıları, 300 ön okuma rehberini ve araştırma dosyalarını aynı anda tara.</p>
         </header>
         <form class="global-search-form" role="search">
           <label for="global-search-input">Aranacak kelime</label>
@@ -958,12 +1019,18 @@ def render_global_search() -> str:
           <label for="global-search-type">İçerik türü</label>
           <select id="global-search-type"><option value="all">Bütün arşiv</option><option value="summary">Ön okuma rehberleri</option><option value="post">Yazılar</option><option value="research">Araştırmalar</option></select>
         </form>
+        <div class="global-search-type-tabs" role="group" aria-label="İçerik türüne göre hızlı filtre">
+          <button type="button" data-global-search-type="all" aria-pressed="true">Tümü</button>
+          <button type="button" data-global-search-type="summary" aria-pressed="false">300 Rehber</button>
+          <button type="button" data-global-search-type="post" aria-pressed="false">Yazılar</button>
+          <button type="button" data-global-search-type="research" aria-pressed="false">21 Araştırma</button>
+        </div>
         <p class="global-search-status" data-global-search-status aria-live="polite">Arama dizini hazırlanıyor…</p>
         <div class="global-search-results" data-global-search-results></div>
       </section>"""
     return page_shell(
         title="Arama | Zihin Gezgini",
-        description="Zihin Gezgini yazıları, 300 kitap özeti ve araştırma arşivinde tek yerden arama.",
+        description="Zihin Gezgini yazıları, 300 ön okuma rehberi ve araştırma arşivinde tek yerden arama.",
         path="/arama/",
         content=content,
         active="search",
