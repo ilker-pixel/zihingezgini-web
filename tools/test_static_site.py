@@ -263,6 +263,15 @@ def main() -> int:
     hero_position = homepage.find('class="home-hero"')
     if entry_position >= 0 and hero_position >= 0 and entry_position > hero_position:
         ERRORS.append("the three primary destinations must appear before the homepage manifesto")
+    interface_css = (ROOT / "zihin-v2.css").read_text(encoding="utf-8")
+    mobile_hierarchy_contracts = (
+        (r"\.site-title\s*\{[^}]*font-size:\s*1\.62rem", "mobile brand title must remain prominent"),
+        (r"\.mobile-section-nav a\s*\{[^}]*min-height:\s*78px", "mobile primary destinations must remain large"),
+        (r"\.home-entry-heading h1\s*\{[^}]*font-size:\s*clamp\(1\.75rem", "mobile entry question must remain secondary"),
+    )
+    for pattern, message in mobile_hierarchy_contracts:
+        if not re.search(pattern, interface_css, re.DOTALL):
+            ERRORS.append(message)
 
     roadmap = (ROOT / "okuma-haritasi/index.html").read_text(encoding="utf-8")
     if "mobile-section-nav" not in roadmap or "300 Rehber" not in roadmap:

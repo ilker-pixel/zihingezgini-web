@@ -307,7 +307,7 @@ def page_shell(
   <meta name="twitter:image" content="{image_url}">
   {schema_html}
   <link rel="stylesheet" href="/style.css?v=65">
-  <link rel="stylesheet" href="/zihin-v2.css?v=6">
+  <link rel="stylesheet" href="/zihin-v2.css?v=7">
   <link rel="stylesheet" href="/static-pages.css?v={max(static_css_version, 9)}">
   <script src="/static-page.js?v={max(static_js_version, 7)}" defer></script>
 </head>
