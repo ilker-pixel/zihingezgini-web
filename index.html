@@ -27,7 +27,7 @@
   <meta property="twitter:image" id="twitter-image" content="https://zihingezgini.net/images/thinking_man_sketch.png">
 
   <link rel="stylesheet" href="/style.css?v=66">
-  <link rel="stylesheet" href="/zihin-v2.css?v=5">
+  <link rel="stylesheet" href="/zihin-v2.css?v=6">
   <script src="/legacy-routes.js"></script>
 </head>
 <body>
@@ -53,14 +53,19 @@
         </a>
 
         <div class="mobile-header-actions">
-          <button type="button" class="mobile-menu-toggle" data-mobile-menu-toggle aria-expanded="false" aria-controls="site-navigation"><span data-menu-label>Menü</span></button>
+          <button type="button" class="mobile-menu-toggle" data-mobile-menu-toggle aria-expanded="false" aria-controls="site-navigation"><span data-menu-label>Diğer</span></button>
           <button type="button" class="theme-toggle-btn theme-toggle-mobile" data-theme-toggle title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
         </div>
+        <nav class="mobile-section-nav" aria-label="Ana bölümler">
+          <a href="/yazilar/">Kişisel<br>Yazılar</a>
+          <a href="/okuma-haritasi/">300<br>Rehber</a>
+          <a href="/arastirma-arsivi/">Araştırma<br>Arşivi</a>
+        </nav>
         <nav class="site-nav" id="site-navigation" data-site-nav aria-label="Ana menü">
-          <a href="/" class="nav-link active" id="nav-home">Başlangıç</a>
-          <a href="/yazilar/" class="nav-link">Yazılar</a>
-          <a href="/okuma-haritasi/" class="nav-link" id="nav-roadmap">Okuma Haritası</a>
-          <a href="/arastirma-arsivi/" class="nav-link" id="nav-library">Araştırma Arşivi</a>
+          <a href="/" class="nav-link active" id="nav-home">Ana Sayfa</a>
+          <a href="/yazilar/" class="nav-link nav-link-primary">Kişisel Yazılar</a>
+          <a href="/okuma-haritasi/" class="nav-link nav-link-primary" id="nav-roadmap">300 Rehber</a>
+          <a href="/arastirma-arsivi/" class="nav-link nav-link-primary" id="nav-library">Araştırma Arşivi</a>
           <a href="/zihin-odasi/" class="nav-link" id="nav-about">Zihin Odası</a>
           <a href="/arama/" class="nav-link">Arama</a>
           <a href="/rastgele/" class="nav-link nav-link-random" id="nav-random" title="Rastgele bir yazı">Rastgele ↝</a>
@@ -74,10 +79,35 @@
       
       <!-- Home View (Post List) -->
       <section id="view-home" class="content-view active">
+        <section class="home-entry" aria-labelledby="home-entry-title">
+          <header class="home-entry-heading">
+            <p class="section-kicker">Üç ana bölüm</p>
+            <h1 id="home-entry-title">Ne okumak istersin?</h1>
+            <p>Kişisel yazılarıma, 300 ön okuma rehberine veya Araştırma Arşivi’ne doğrudan gir.</p>
+          </header>
+          <nav class="home-entry-grid" aria-label="Zihin Gezgini ana bölümleri">
+            <a class="home-entry-card home-entry-card--personal" href="/yazilar/">
+              <span class="home-entry-index">01</span>
+              <span class="home-entry-copy"><strong>Kişisel Yazılar</strong><small>Bana ait denemeler, notlar, fotoğraflar ve film yazıları</small></span>
+              <span class="home-entry-action">Yazıları aç <span aria-hidden="true">→</span></span>
+            </a>
+            <a class="home-entry-card home-entry-card--guides" href="/okuma-haritasi/">
+              <span class="home-entry-index">02</span>
+              <span class="home-entry-copy"><strong>300 AI Ön Okuma Rehberi</strong><small>Bütünüyle yapay zekâ tarafından oluşturuldu</small></span>
+              <span class="home-entry-action">Rehberleri aç <span aria-hidden="true">→</span></span>
+            </a>
+            <a class="home-entry-card home-entry-card--research" href="/arastirma-arsivi/">
+              <span class="home-entry-index">03</span>
+              <span class="home-entry-copy"><strong>Araştırma Arşivi</strong><small>Bilim, felsefe, tarih, sanat ve kültür üzerine 21 dosya</small></span>
+              <span class="home-entry-action">Arşivi aç <span aria-hidden="true">→</span></span>
+            </a>
+          </nav>
+        </section>
+
         <section class="home-hero" aria-labelledby="home-hero-title">
           <div class="home-hero-copy">
             <p class="hero-kicker">İlker Manavoğlu'nun kişisel alanı</p>
-            <h1 id="home-hero-title">Yapay zekâ çağında<br><em>insan kalma</em> çabası.</h1>
+            <h2 id="home-hero-title">Yapay zekâ çağında<br><em>insan kalma</em> çabası.</h2>
             <p class="hero-lead">Okuduklarımı, düşündüklerimi ve denediklerimi biriktirdiğim sade bir zihin odası. Yapay zekâ burada araç; yaşanan, düşünülen ve analog kalan şey ise öz.</p>
             <div class="hero-actions">
               <a href="/zihin-odasi/" class="primary-link">Bu alanın hikâyesi <span>↗</span></a>
@@ -97,27 +127,6 @@
           <p>“Biriktiriyorum, çünkü kaybolsun istemiyorum.”</p>
           <span class="archive-note-line"></span>
         </aside>
-
-        <section class="collection-entry-points" aria-labelledby="collection-entry-title">
-          <div class="collection-entry-heading">
-            <p class="section-kicker">İki ayrı alan</p>
-            <h2 id="collection-entry-title">Nereden başlamak istersin?</h2>
-          </div>
-          <div class="collection-entry-grid">
-            <article class="collection-entry-card collection-entry-card--personal">
-              <span>İlker Manavoğlu · Kişisel üretimler</span>
-              <h3>Kişisel Yazılar</h3>
-              <p>Notlar, düşünceler, fotoğraflar, müzik denemeleri ve film analizleri.</p>
-              <a href="/yazilar/">Yazıları aç <span aria-hidden="true">→</span></a>
-            </article>
-            <article class="collection-entry-card collection-entry-card--reading">
-              <span>Okuma ve araştırma çalışma alanı</span>
-              <h3>300 Ön Okuma Rehberi</h3>
-              <p>Kitaplara hazırlanmak ve temel fikirler arasında bağ kurmak için oluşturulan okuma rotası.</p>
-              <div><a href="/okuma-haritasi/">Okuma Haritası <span aria-hidden="true">→</span></a><a href="/arastirma-arsivi/">Araştırma Arşivi</a></div>
-            </article>
-          </div>
-        </section>
 
         <section class="writing-index" aria-labelledby="writing-index-title">
           <div class="section-heading">
@@ -150,12 +159,11 @@
         <section class="research-door" aria-labelledby="research-title">
           <div class="research-index">02</div>
           <div class="research-copy">
-            <p class="section-kicker">Araştırma masası</p>
-            <h2 id="research-title">Bilgi, üretimin kendisi değil;<br>üretime açılan kapı.</h2>
-            <p>Okuma Haritası'ndaki 300 ön okuma rehberi bütünüyle yapay zekâ tarafından oluşturuldu; benim kişisel yazılarım değil. Kitaplara hazırlanmak ve temel fikirler arasında bağ kurmak için kullandığım çalışma alanı.</p>
+            <p class="section-kicker">300 rehberin yöntemi</p>
+            <h2 id="research-title">Kitabın yerini tutmaz;<br>kapıyı aralar.</h2>
+            <p>Okuma Haritası'ndaki 300 ön okuma rehberi bütünüyle yapay zekâ tarafından oluşturuldu; benim kişisel yazılarım değil. Kitaplara hazırlanmak ve temel fikirler arasında bağ kurmak için kullandığım ayrı çalışma alanı.</p>
             <div class="research-links">
               <a href="/okuma-haritasi/">300 ön okuma rehberi <span>↗</span></a>
-              <a href="/arastirma-arsivi/">Araştırma arşivini aç <span>↗</span></a>
             </div>
           </div>
           <div class="research-stamp" aria-hidden="true">
@@ -382,6 +390,6 @@
     </div>
   </div>
 
-  <script src="/app.js?v=56"></script>
+  <script src="/app.js?v=57"></script>
 </body>
 </html>

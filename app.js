@@ -1088,17 +1088,18 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelectorAll("[data-mobile-menu-toggle]").forEach((button) => {
     const navigation = document.getElementById(button.getAttribute("aria-controls"));
     const label = button.querySelector("[data-menu-label]");
+    const closedLabel = label?.textContent?.trim() || "Menü";
     if (!navigation) return;
     const closeMenu = () => {
       navigation.classList.remove("is-open");
       button.setAttribute("aria-expanded", "false");
-      if (label) label.textContent = "Menü";
+      if (label) label.textContent = closedLabel;
     };
     button.addEventListener("click", () => {
       const open = !navigation.classList.contains("is-open");
       navigation.classList.toggle("is-open", open);
       button.setAttribute("aria-expanded", String(open));
-      if (label) label.textContent = open ? "Kapat" : "Menü";
+      if (label) label.textContent = open ? "Kapat" : closedLabel;
     });
     navigation.querySelectorAll("a").forEach((link) => link.addEventListener("click", closeMenu));
     document.addEventListener("keydown", (event) => {

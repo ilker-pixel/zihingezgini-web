@@ -196,16 +196,28 @@ def write_file(relative_path: str | Path, content: str) -> None:
 
 def header(active: str = "") -> str:
     links = (
-        ("home", "/", "Başlangıç"),
-        ("posts", "/yazilar/", "Yazılar"),
-        ("roadmap", "/okuma-haritasi/", "Okuma Haritası"),
+        ("home", "/", "Ana Sayfa"),
+        ("posts", "/yazilar/", "Kişisel Yazılar"),
+        ("roadmap", "/okuma-haritasi/", "300 Rehber"),
         ("library", "/arastirma-arsivi/", "Araştırma Arşivi"),
         ("about", "/zihin-odasi/", "Zihin Odası"),
         ("search", "/arama/", "Arama"),
     )
     nav = "".join(
-        f'<a href="{href}" class="nav-link{" active" if key == active else ""}">{label}</a>'
+        f'<a href="{href}" class="nav-link{" nav-link-primary" if key in {"posts", "roadmap", "library"} else ""}{" active" if key == active else ""}">{label}</a>'
         for key, href, label in links
+    )
+    mobile_sections = "".join(
+        '<a href="{}"{}>{}</a>'.format(
+            href,
+            ' class="active" aria-current="page"' if key == active else "",
+            label,
+        )
+        for key, href, label in (
+            ("posts", "/yazilar/", "Kişisel Yazılar"),
+            ("roadmap", "/okuma-haritasi/", "300 Rehber"),
+            ("library", "/arastirma-arsivi/", "Araştırma Arşivi"),
+        )
     )
     return f"""
     <header class="site-header">
@@ -218,9 +230,10 @@ def header(active: str = "") -> str:
           </span>
         </a>
         <div class="mobile-header-actions">
-          <button type="button" class="mobile-menu-toggle" data-mobile-menu-toggle aria-expanded="false" aria-controls="site-navigation"><span data-menu-label>Menü</span></button>
+          <button type="button" class="mobile-menu-toggle" data-mobile-menu-toggle aria-expanded="false" aria-controls="site-navigation"><span data-menu-label>Diğer</span></button>
           <button type="button" class="theme-toggle-btn theme-toggle-mobile" data-theme-toggle title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
         </div>
+        <nav class="mobile-section-nav" aria-label="Ana bölümler">{mobile_sections}</nav>
         <nav class="site-nav" id="site-navigation" data-site-nav aria-label="Ana menü">
           {nav}
           <a href="/rastgele/" class="nav-link nav-link-random">Rastgele ↝</a>
@@ -294,9 +307,9 @@ def page_shell(
   <meta name="twitter:image" content="{image_url}">
   {schema_html}
   <link rel="stylesheet" href="/style.css?v=65">
-  <link rel="stylesheet" href="/zihin-v2.css?v=5">
+  <link rel="stylesheet" href="/zihin-v2.css?v=6">
   <link rel="stylesheet" href="/static-pages.css?v={max(static_css_version, 9)}">
-  <script src="/static-page.js?v={max(static_js_version, 6)}" defer></script>
+  <script src="/static-page.js?v={max(static_js_version, 7)}" defer></script>
 </head>
 <body class="static-page {html.escape(body_class)}">
   <a class="skip-link" href="#main-content">Ana içeriğe geç</a>
