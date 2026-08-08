@@ -37,7 +37,10 @@ class RepairedPdfBook(builder.PdfBook):
 
     @staticmethod
     def paragraphs(chapter: dict) -> list[str]:
-        return chapter.get("paragraphs", []) + chapter.get("extraParagraphs", [])
+        # The canonical web text lives only in ``paragraphs``. Historical
+        # ``extraParagraphs`` were removed editorially and must never leak back
+        # into regenerated PDFs.
+        return chapter.get("paragraphs", [])
 
     def note_height(self, chapter: dict) -> float:
         title_style = ParagraphStyle(
@@ -119,9 +122,13 @@ class RepairedPdfBook(builder.PdfBook):
                 else:
                     note_run.append(chapter)
             note_pages += len(self.note_groups(note_run))
-        # Three visual checkpoints connect each block of four illustrations.
-        # They are dense route maps, not generic text padding.
-        return 3 + artwork_pages + note_pages + 3 + 1
+        artwork_count = sum(
+            1
+            for chapter in self.summary.get("chapters", [])
+            if chapter.get("id") in self.chapter_art
+        )
+        checkpoint_pages = sum(1 for seen in (4, 8, 12) if seen < artwork_count)
+        return 3 + artwork_pages + note_pages + checkpoint_pages + 1
 
     def draw_checkpoint(self, stage: int, completed: list[dict], upcoming: list[dict]) -> None:
         self.begin_page()
@@ -311,7 +318,7 @@ class RepairedPdfBook(builder.PdfBook):
                         notes = []
                     self.draw_art_chapter(chapter, chapter_numbers[chapter["id"]])
                     art_seen += 1
-                    if art_seen in (4, 8, 12):
+                    if art_seen in (4, 8, 12) and art_seen < len(all_art_chapters):
                         self.draw_checkpoint(
                             art_seen // 4,
                             all_art_chapters[art_seen - 4:art_seen],

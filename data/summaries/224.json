@@ -3,7 +3,7 @@
   "title": "Oryantalizm",
   "author": "Edward Said",
   "subtitle": "Bir toplumu tek fotoğrafa sıkıştırmanın bilgiye, kültüre ve yönetme gücüne nasıl dönüştüğünü gündelik örneklerle anlatan sade rehber.",
-  "coverImage": "/images/summary-art-224-oryantalizm-v2.webp",
+  "coverImage": "/images/optimized/summary-art-224-oryantalizm-v2-960.webp",
   "coverStyle": "artwork",
   "chapterArtStyle": "monochrome-engraving",
   "chapterArtColor": "#315A66",
@@ -110,7 +110,7 @@
     }
   },
   "pdfUrl": "/data/pdfs/224-oryantalizm-ozeti.pdf",
-  "pdfLabel": "26 sayfalık PDF'yi indir",
+  "pdfLabel": "PDF okuma rehberini indir",
   "longForm": true,
   "meta": {
     "originalTitle": "Orientalism",

@@ -9,7 +9,7 @@ def create_hawking_summary():
         "title": "Zamanın Kısa Tarihi",
         "author": "Stephen Hawking",
         "subtitle": "Gençler ve Meraklı Zihinler İçin Popüler Bilim Kitapçığı",
-        "coverImage": "/images/hawking_space_time_sketch.png",
+        "coverImage": "/images/optimized/hawking_space_time_sketch-960.webp",
         "meta": {
             "originalTitle": "A Brief History of Time",
             "compiler": "Yapay Zeka Asistanı",

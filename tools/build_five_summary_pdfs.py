@@ -9,6 +9,7 @@ import math
 from collections import OrderedDict
 from pathlib import Path
 
+from reportlab import rl_config
 from pypdf import PdfReader
 from reportlab.lib import colors
 from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY, TA_LEFT
@@ -25,6 +26,7 @@ from PIL import Image as PILImage
 
 ROOT = Path(__file__).resolve().parents[1]
 PDF_DIR = ROOT / "data" / "pdfs"
+PDF_OUTPUT_ROOT = ROOT
 TMP = ROOT / "tmp" / "pdfs" / "five-new-summaries"
 BOOK_NUMBERS = (31, 88, 142, 213, 287)
 PAGE_W, PAGE_H = A4
@@ -32,6 +34,11 @@ PAPER = colors.HexColor("#F4F0E6")
 BODY = colors.HexColor("#26323B")
 MUTED = colors.HexColor("#69747A")
 RULE = colors.HexColor("#D4CEC0")
+
+# ReportLab wraps already-compressed image and page streams in ASCII85 by
+# default. Binary PDF streams are universally supported and avoid roughly 18%
+# of needless storage without changing a single pixel or glyph.
+rl_config.useA85 = 0
 
 
 def register_fonts() -> None:
@@ -56,6 +63,14 @@ def draw_rich(canvas: Canvas, text: str, style: ParagraphStyle, x: float, top: f
     return top - height
 
 
+def draw_markup(canvas: Canvas, markup: str, style: ParagraphStyle, x: float, top: float, width: float) -> float:
+    """Draw trusted ReportLab markup, including clickable source links."""
+    paragraph = Paragraph(markup, style)
+    _w, height = paragraph.wrap(width, PAGE_H)
+    paragraph.drawOn(canvas, x, top - height)
+    return top - height
+
+
 def paragraph_height(text: str, style: ParagraphStyle, width: float) -> float:
     paragraph = Paragraph(esc(text), style)
     return paragraph.wrap(width, PAGE_H)[1]
@@ -65,7 +80,7 @@ class PdfBook:
     def __init__(self, summary: dict):
         self.summary = summary
         self.ink = color(summary["chapterArtColor"])
-        self.pdf_path = ROOT / summary["pdfUrl"].lstrip("/")
+        self.pdf_path = PDF_OUTPUT_ROOT / summary["pdfUrl"].lstrip("/")
         self.pdf_path.parent.mkdir(parents=True, exist_ok=True)
         self.chapter_art = summary["chapterArtworks"]
         self.asset_cache_dir = TMP / str(summary["bookNo"])
@@ -82,6 +97,8 @@ class PdfBook:
         self.canvas.setTitle(f"{summary['author']} - {summary['title']} | Zihin Gezgini")
         self.canvas.setAuthor("Zihin Gezgini")
         self.canvas.setSubject("Sade, örnekli, eleştirel ve görselleştirilmiş uzun okuma rehberi")
+        if summary.get("_sourceHash"):
+            self.canvas.setKeywords(f"source-sha256:{summary['_sourceHash']}")
 
     def pdf_asset(self, path: Path, *, cover: bool = False) -> Path:
         suffix = "cover" if cover else "chapter"
@@ -436,11 +453,34 @@ class PdfBook:
             "Source", fontName="ZGArial", fontSize=10.8, leading=14.6,
             textColor=BODY, alignment=TA_LEFT,
         )
+        source_link_style = ParagraphStyle(
+            "SourceLink", fontName="ZGArial", fontSize=8.2, leading=10.4,
+            textColor=MUTED, alignment=TA_LEFT, splitLongWords=True,
+        )
         for source in self.summary.get("sources", []):
             c.setFillColor(self.ink)
             c.setFont("ZGArial-Bold", 8.8)
             c.drawString(23 * mm, y, f"[{source['id']}]")
-            y = draw_rich(c, source["title"], source_style, 34 * mm, y + 3, 153 * mm) - 7
+            y = draw_rich(c, source["title"], source_style, 34 * mm, y + 3, 153 * mm) - 2
+            url = source.get("url", "").strip()
+            if url:
+                safe_href = html.escape(url, quote=True)
+                safe_label = esc(url)
+                y = draw_markup(
+                    c,
+                    f'<link href="{safe_href}" color="#69747A">{safe_label}</link>',
+                    source_link_style,
+                    34 * mm,
+                    y,
+                    153 * mm,
+                ) - 6
+            else:
+                y -= 7
+
+        if y < 95 * mm:
+            raise RuntimeError(
+                f"Source page overflow in book {self.summary['bookNo']}; split sources before publishing"
+            )
 
         c.setFillColor(self.ink)
         c.setFont("ZGArial-Bold", 11)

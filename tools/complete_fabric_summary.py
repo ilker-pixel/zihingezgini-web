@@ -9,7 +9,7 @@ def create_fabric_summary():
         "title": "Evrenin Dokusu",
         "author": "Brian Greene",
         "subtitle": "Uzay, Zaman ve Gerçekliğin Dokusu (Gençler İçin Detaylı Özet)",
-        "coverImage": "/images/fabric_cover_sketch.png",
+        "coverImage": "/images/optimized/fabric_cover_sketch-960.webp",
         "meta": {
             "originalTitle": "The Fabric of the Cosmos",
             "compiler": "Yapay Zeka Asistanı",

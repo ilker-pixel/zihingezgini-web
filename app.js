@@ -826,7 +826,7 @@ document.addEventListener("DOMContentLoaded", () => {
       readerSubtitle.textContent = data.subtitle || "";
       
       if (readerCoverImg) {
-        readerCoverImg.src = data.coverImage || resolveAssetPath("/images/hawking_space_time_sketch.png");
+        readerCoverImg.src = data.coverImage || resolveAssetPath("/images/optimized/hawking_space_time_sketch-960.webp");
       }
       
       if (readerOriginal) readerOriginal.textContent = data.meta.originalTitle || "";
@@ -888,7 +888,7 @@ document.addEventListener("DOMContentLoaded", () => {
       updateMetaTags(
         `Zihin Gezgini | ${data.title} Özeti`,
         `${data.title} eserinin en anlaşılır felsefi ve bilimsel özeti.`,
-        "https://zihingezgini.net/images/hawking_space_time_sketch.png"
+        "https://zihingezgini.net/images/optimized/hawking_space_time_sketch-960.webp"
       );
       
     } catch (error) {
@@ -1323,7 +1323,7 @@ document.addEventListener("DOMContentLoaded", () => {
         <div class="reader-intro-page">
           <div class="reader-intro-grid">
             <div class="reader-intro-cover-container">
-              <img src="${resolveAssetPath('covers/' + currentBookData.id + '.png')}" class="reader-intro-cover" alt="${currentBookData.title} Kapağı">
+              <img src="${resolveAssetPath('covers/' + currentBookData.id + '.webp')}" class="reader-intro-cover" alt="${currentBookData.title} Kapağı">
             </div>
             <div class="reader-intro-details">
               <span class="reader-intro-category">${currentBookData.category}</span>

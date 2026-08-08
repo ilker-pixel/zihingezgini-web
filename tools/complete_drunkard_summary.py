@@ -9,7 +9,7 @@ def create_drunkard_summary():
         "title": "Sarhoş Yürüyüşü",
         "author": "Leonard Mlodinow",
         "subtitle": "Rastlantısallık Hayatımızı Nasıl Yönetir? (Detaylı Kitap Özeti)",
-        "coverImage": "/images/drunkards_walk_cover_sketch.png",
+        "coverImage": "/images/optimized/drunkards_walk_cover_sketch-960.webp",
         "meta": {
             "originalTitle": "The Drunkard's Walk: How Randomness Rules Our Lives",
             "compiler": "Yapay Zeka Asistanı",

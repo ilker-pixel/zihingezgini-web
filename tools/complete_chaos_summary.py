@@ -9,7 +9,7 @@ def create_chaos_summary():
         "title": "Kaos: Yeni Bir Bilim Teorisi",
         "author": "James Gleick",
         "subtitle": "Kelebek Etkisi ve Karmaşıklık Dünyası (Detaylı Kitap Özeti)",
-        "coverImage": "/images/chaos_cover_sketch.png",
+        "coverImage": "/images/optimized/chaos_cover_sketch-960.webp",
         "meta": {
             "originalTitle": "Chaos: Making a New Science",
             "compiler": "Yapay Zeka Asistanı",
