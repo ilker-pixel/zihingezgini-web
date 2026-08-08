@@ -52,6 +52,34 @@
     });
   });
 
+  document.querySelectorAll("[data-mobile-menu-toggle]").forEach((button) => {
+    const navigation = document.getElementById(button.getAttribute("aria-controls"));
+    const label = button.querySelector("[data-menu-label]");
+    if (!navigation) return;
+    const closeMenu = () => {
+      navigation.classList.remove("is-open");
+      button.setAttribute("aria-expanded", "false");
+      if (label) label.textContent = "Menü";
+    };
+    button.addEventListener("click", () => {
+      const open = !navigation.classList.contains("is-open");
+      navigation.classList.toggle("is-open", open);
+      button.setAttribute("aria-expanded", String(open));
+      if (label) label.textContent = open ? "Kapat" : "Menü";
+    });
+    navigation.querySelectorAll("a").forEach((link) => link.addEventListener("click", closeMenu));
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && navigation.classList.contains("is-open")) {
+        closeMenu();
+        button.focus();
+      }
+    });
+    window.matchMedia("(min-width: 761px)").addEventListener?.("change", (event) => {
+      if (event.matches) closeMenu();
+    });
+    document.documentElement.classList.add("menu-ready");
+  });
+
   document.querySelectorAll("[data-share]").forEach((button) => {
     button.addEventListener("click", async () => {
       const payload = { title: document.title, url: window.location.href };
@@ -156,6 +184,53 @@
     const filterControls = Array.from(roadmapTools?.querySelectorAll("[data-roadmap-filter]") || []);
     const sortControl = roadmapTools?.querySelector("[data-roadmap-sort]");
     const filterStatus = roadmapTools?.querySelector("[data-roadmap-filter-status]");
+    const continueLink = document.querySelector("[data-roadmap-continue]");
+    const phaseSections = Array.from(document.querySelectorAll(".roadmap-phase"));
+    const responsiveDisclosures = Array.from(document.querySelectorAll("[data-responsive-disclosure]"));
+    const mobileRoadmap = window.matchMedia("(max-width: 720px)");
+    const roadmapSearchInput = roadmapSearch?.querySelector("[data-section-search-input]");
+
+    const openTargetPhase = (target, exclusive = mobileRoadmap.matches) => {
+      const phase = target?.closest(".roadmap-phase");
+      if (!phase) return;
+      if (exclusive) phaseSections.forEach((item) => { item.open = item === phase; });
+      else phase.open = true;
+    };
+
+    const revealRoadmapItem = (target) => {
+      if (!target) return;
+      openTargetPhase(target);
+      window.requestAnimationFrame(() => {
+        target.scrollIntoView({ behavior: "smooth", block: "center" });
+        target.classList.add("is-highlighted");
+        window.setTimeout(() => target.classList.remove("is-highlighted"), 1800);
+      });
+    };
+
+    const syncRoadmapPhases = () => {
+      if (!mobileRoadmap.matches) {
+        phaseSections.forEach((phase) => { phase.open = true; });
+        return;
+      }
+      const hasActiveSearch = Boolean(roadmapSearchInput?.value.trim());
+      const hasActiveFilter = filterControls.some((control) => control.value !== "all");
+      if (hasActiveSearch || hasActiveFilter) {
+        phaseSections.forEach((phase) => {
+          phase.open = !phase.hidden && Array.from(phase.querySelectorAll("[data-book-no]")).some((item) => !item.hidden);
+        });
+        return;
+      }
+      const hashTarget = window.location.hash.startsWith("#kitap-")
+        ? document.getElementById(window.location.hash.slice(1))
+        : null;
+      const firstUnread = roadmapItems.find((item) => !readBooks.includes(Number(item.dataset.bookNo))) || roadmapItems[0];
+      openTargetPhase(hashTarget || firstUnread, true);
+    };
+
+    const syncResponsiveDisclosures = () => {
+      responsiveDisclosures.forEach((details) => { details.open = !mobileRoadmap.matches; });
+      syncRoadmapPhases();
+    };
 
     const refreshFilters = () => {
       const selected = Object.fromEntries(filterControls.map((control) => [control.dataset.roadmapFilter, control.value]));
@@ -184,6 +259,16 @@
       roadmapSearch?.dispatchEvent(new CustomEvent("zg:refilter"));
       const visible = roadmapItems.filter((item) => !item.hidden).length;
       if (filterStatus) filterStatus.textContent = `${visible} kitap gösteriliyor.`;
+      syncRoadmapPhases();
+    };
+
+    const resetRoadmapView = () => {
+      filterControls.forEach((control) => { control.value = "all"; });
+      if (roadmapSearchInput) {
+        roadmapSearchInput.value = "";
+        roadmapSearchInput.dispatchEvent(new Event("input", { bubbles: true }));
+      }
+      refreshFilters();
     };
 
     const refreshRoadmap = () => {
@@ -201,6 +286,24 @@
       const fill = document.querySelector("[data-roadmap-fill]");
       if (label) label.textContent = `${percentage}% (${count} / ${total})`;
       if (fill) fill.style.width = `${percentage}%`;
+
+      phaseSections.forEach((phase) => {
+        const phaseItems = Array.from(phase.querySelectorAll("[data-book-no]"));
+        const phaseRead = phaseItems.filter((item) => readBooks.includes(Number(item.dataset.bookNo))).length;
+        const phaseProgress = phase.querySelector("[data-phase-progress]");
+        if (phaseProgress) phaseProgress.textContent = `${phaseRead} / ${phaseItems.length}`;
+      });
+
+      const nextItem = roadmapItems.find((item) => !readBooks.includes(Number(item.dataset.bookNo)));
+      const target = nextItem || roadmapItems[0];
+      if (continueLink && target) {
+        const completed = !nextItem;
+        continueLink.href = target.dataset.summaryHref || `#${target.id}`;
+        const continueLabel = continueLink.querySelector("[data-roadmap-continue-label]");
+        const continueTitle = continueLink.querySelector("[data-roadmap-continue-title]");
+        if (continueLabel) continueLabel.textContent = completed ? "Rota tamamlandı" : (readBooks.length ? "Kaldığın yerden devam et" : "Rotaya başla");
+        if (continueTitle) continueTitle.textContent = `${completed ? "Yeniden gözden geçir" : `Durak ${String(target.dataset.readingOrder).padStart(3, "0")}`} · ${target.dataset.bookTitle}`;
+      }
       refreshFilters();
     };
 
@@ -226,9 +329,7 @@
     roadmapTools?.querySelector("[data-random-book]")?.addEventListener("click", () => {
       const candidates = roadmapItems.filter((item) => !item.hidden);
       const target = candidates[Math.floor(Math.random() * candidates.length)] || roadmapItems[0];
-      target?.scrollIntoView({ behavior: "smooth", block: "center" });
-      target?.classList.add("is-highlighted");
-      window.setTimeout(() => target?.classList.remove("is-highlighted"), 1800);
+      revealRoadmapItem(target);
     });
 
     roadmapTools?.querySelector("[data-roadmap-jump]")?.addEventListener("submit", (event) => {
@@ -241,11 +342,9 @@
         input?.focus();
         return;
       }
-      filterControls.forEach((control) => { control.value = "all"; });
-      refreshFilters();
-      target.scrollIntoView({ behavior: "smooth", block: "center" });
-      target.classList.add("is-highlighted");
-      window.setTimeout(() => target.classList.remove("is-highlighted"), 1800);
+      resetRoadmapView();
+      window.history.replaceState({}, "", `${window.location.pathname}#${target.id}`);
+      revealRoadmapItem(target);
     });
 
     roadmapTools?.querySelector("[data-export-progress]")?.addEventListener("click", () => {
@@ -275,7 +374,31 @@
         importInput.value = "";
       }
     });
+    document.querySelectorAll("[data-section-search-group-link]").forEach((link) => {
+      link.addEventListener("click", () => {
+        const phase = document.getElementById(link.dataset.sectionSearchGroupLink);
+        if (!phase) return;
+        if (mobileRoadmap.matches) phaseSections.forEach((item) => { item.open = item === phase; });
+        else phase.open = true;
+      });
+    });
+
+    roadmapSearchInput?.addEventListener("input", syncRoadmapPhases);
+
+    document.querySelectorAll('.start-route a[href^="#kitap-"]').forEach((link) => {
+      link.addEventListener("click", (event) => {
+        const target = document.getElementById(link.getAttribute("href").slice(1));
+        if (!target) return;
+        event.preventDefault();
+        resetRoadmapView();
+        window.history.replaceState({}, "", `${window.location.pathname}#${target.id}`);
+        revealRoadmapItem(target);
+      });
+    });
+
+    mobileRoadmap.addEventListener?.("change", syncResponsiveDisclosures);
     refreshRoadmap();
+    syncResponsiveDisclosures();
   }
 
   document.querySelectorAll("[data-summary-href]").forEach((row) => {
@@ -297,6 +420,7 @@
     const form = globalSearch.querySelector(".global-search-form");
     const input = globalSearch.querySelector("#global-search-input");
     const type = globalSearch.querySelector("#global-search-type");
+    const typeButtons = Array.from(globalSearch.querySelectorAll("[data-global-search-type]"));
     const status = globalSearch.querySelector("[data-global-search-status]");
     const results = globalSearch.querySelector("[data-global-search-results]");
     let index = [];
@@ -308,11 +432,15 @@
     const search = () => {
       const rawQuery = input.value.trim();
       const tokens = normalizeSearchText(rawQuery).split(" ").filter(Boolean);
-      const matches = index.filter((item) => {
+      const candidates = index.filter((item) => {
         if (type.value !== "all" && item.type !== type.value) return false;
         const haystack = normalizeSearchText(`${item.title} ${item.subtitle} ${item.description}`);
         return tokens.length === 0 || tokens.every((token) => haystack.includes(token));
-      }).slice(0, tokens.length ? 80 : 18);
+      });
+      const matches = (!tokens.length && type.value === "all")
+        ? ["post", "summary", "research"].flatMap((recordType) => candidates.filter((item) => item.type === recordType).slice(0, 6))
+        : candidates.slice(0, tokens.length ? 80 : 18);
+      typeButtons.forEach((button) => button.setAttribute("aria-pressed", String(button.dataset.globalSearchType === type.value)));
       results.innerHTML = matches.map((item) => `
         <a class="global-search-result" href="${escapeHtml(item.url)}">
           <span>${escapeHtml(item.label)}</span><h2>${escapeHtml(item.title)}</h2>
@@ -320,7 +448,9 @@
         </a>`).join("");
       status.textContent = tokens.length
         ? `${matches.length} sonuç gösteriliyor${matches.length === 80 ? " · aramanı daraltabilirsin" : ""}.`
-        : `Arşivde ${index.length} kayıt var; son eklenenlerden ${matches.length} tanesi gösteriliyor.`;
+        : (type.value === "all"
+          ? `Arşivde ${index.length} kayıt var; üç koleksiyondan ${matches.length} örnek gösteriliyor.`
+          : `${candidates.length} kayıttan ${matches.length} tanesi gösteriliyor.`);
       const url = new URL(window.location.href);
       if (rawQuery) url.searchParams.set("q", rawQuery); else url.searchParams.delete("q");
       if (type.value !== "all") url.searchParams.set("tur", type.value); else url.searchParams.delete("tur");
@@ -343,6 +473,10 @@
     form.addEventListener("submit", (event) => { event.preventDefault(); search(); });
     input.addEventListener("input", search);
     type.addEventListener("change", search);
+    typeButtons.forEach((button) => button.addEventListener("click", () => {
+      type.value = button.dataset.globalSearchType;
+      search();
+    }));
   }
 
   const summaryArticle = document.querySelector("[data-summary-book]");
@@ -358,6 +492,38 @@
 
     resumeButton?.addEventListener("click", () => document.getElementById(positions[bookNumber])?.scrollIntoView({ behavior: "smooth" }));
     summaryArticle.querySelector("[data-reader-print]")?.addEventListener("click", () => window.print());
+    const readerMore = summaryArticle.querySelector(".summary-reader-more");
+    const readerMoreMedia = window.matchMedia("(max-width: 760px)");
+    const syncReaderMore = () => readerMore?.toggleAttribute("open", !readerMoreMedia.matches);
+    syncReaderMore();
+    readerMoreMedia.addEventListener?.("change", syncReaderMore);
+    summaryArticle.querySelectorAll(".summary-reader-more-menu button").forEach((button) => {
+      button.addEventListener("click", () => {
+        if (readerMoreMedia.matches) readerMore?.removeAttribute("open");
+      });
+    });
+
+    const readToggle = summaryArticle.querySelector("[data-summary-read-toggle]");
+    let summaryReadBooks = storage.get("zg_read_books", []);
+    if (!Array.isArray(summaryReadBooks)) summaryReadBooks = [];
+    summaryReadBooks = [...new Set(summaryReadBooks.map(Number).filter(Number.isFinite))];
+    const updateReadToggle = () => {
+      if (!readToggle) return;
+      const isRead = summaryReadBooks.includes(Number(bookNumber));
+      readToggle.setAttribute("aria-pressed", String(isRead));
+      readToggle.setAttribute("aria-label", isRead ? "Okundu işaretini kaldır" : "Okundu olarak işaretle");
+      readToggle.textContent = isRead ? "Okundu ✓" : "Okundu olarak işaretle";
+      readToggle.closest(".summary-completion")?.classList.toggle("is-read", isRead);
+    };
+    readToggle?.addEventListener("click", () => {
+      const number = Number(bookNumber);
+      summaryReadBooks = summaryReadBooks.includes(number)
+        ? summaryReadBooks.filter((item) => item !== number)
+        : [...summaryReadBooks, number];
+      storage.set("zg_read_books", summaryReadBooks);
+      updateReadToggle();
+    });
+    updateReadToggle();
 
     let fontScale = Number(storage.get("zg_summary_font_scale", 1));
     if (!Number.isFinite(fontScale)) fontScale = 1;
@@ -375,7 +541,8 @@
     applyFontScale();
 
     const widthButton = summaryArticle.querySelector("[data-reader-width]");
-    const compact = storage.get("zg_summary_compact_width", false) === true;
+    const compactPreference = storage.get("zg_summary_compact_width", null);
+    const compact = compactPreference === null ? true : compactPreference === true;
     summaryArticle.classList.toggle("compact-reader", compact);
     widthButton?.setAttribute("aria-pressed", String(compact));
     widthButton?.addEventListener("click", () => {
@@ -400,8 +567,17 @@
       positions[bookNumber] = visible.target.id;
       storage.set("zg_summary_positions", positions);
       resumeButton.hidden = true;
+      const chapterIndex = chapters.indexOf(visible.target);
+      const totalMinutes = Number(summaryArticle.dataset.summaryReadingMinutes) || 0;
+      const remainingMinutes = Math.max(0, Math.ceil(totalMinutes * ((chapters.length - chapterIndex - 1) / Math.max(1, chapters.length))));
+      const tocStatus = summaryArticle.querySelector("[data-summary-toc-status]");
+      if (tocStatus && chapterIndex >= 0) {
+        tocStatus.textContent = `Bölüm ${chapterIndex + 1}/${chapters.length} · ${remainingMinutes ? `kalan ~${remainingMinutes} dk` : "son bölüm"}`;
+      }
       summaryArticle.querySelectorAll(".summary-toc a").forEach((link) => {
-        link.classList.toggle("is-current", link.getAttribute("href") === `#${visible.target.id}`);
+        const isCurrent = link.getAttribute("href") === `#${visible.target.id}`;
+        link.classList.toggle("is-current", isCurrent);
+        if (isCurrent) link.closest(".summary-toc-group")?.setAttribute("open", "");
       });
     }, { rootMargin: "-20% 0px -65%", threshold: [0, 0.25, 0.6] });
     chapters.forEach((chapter) => observer.observe(chapter));

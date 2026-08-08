@@ -26,8 +26,8 @@
   <meta property="twitter:description" id="twitter-description" content="Yapay zekâ çağında insan kalma çabası. İlker Manavoğlu'nun kişisel yazıları, okuma notları ve analog üretimleri.">
   <meta property="twitter:image" id="twitter-image" content="https://zihingezgini.net/images/thinking_man_sketch.png">
 
-  <link rel="stylesheet" href="/style.css?v=65">
-  <link rel="stylesheet" href="/zihin-v2.css?v=4">
+  <link rel="stylesheet" href="/style.css?v=66">
+  <link rel="stylesheet" href="/zihin-v2.css?v=5">
   <script src="/legacy-routes.js"></script>
 </head>
 <body>
@@ -52,14 +52,19 @@
           </span>
         </a>
 
-        <nav class="site-nav" aria-label="Ana menü">
+        <div class="mobile-header-actions">
+          <button type="button" class="mobile-menu-toggle" data-mobile-menu-toggle aria-expanded="false" aria-controls="site-navigation"><span data-menu-label>Menü</span></button>
+          <button type="button" class="theme-toggle-btn theme-toggle-mobile" data-theme-toggle title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
+        </div>
+        <nav class="site-nav" id="site-navigation" data-site-nav aria-label="Ana menü">
           <a href="/" class="nav-link active" id="nav-home">Başlangıç</a>
+          <a href="/yazilar/" class="nav-link">Yazılar</a>
           <a href="/okuma-haritasi/" class="nav-link" id="nav-roadmap">Okuma Haritası</a>
           <a href="/arastirma-arsivi/" class="nav-link" id="nav-library">Araştırma Arşivi</a>
           <a href="/zihin-odasi/" class="nav-link" id="nav-about">Zihin Odası</a>
           <a href="/arama/" class="nav-link">Arama</a>
           <a href="/rastgele/" class="nav-link nav-link-random" id="nav-random" title="Rastgele bir yazı">Rastgele ↝</a>
-          <button id="theme-toggle" class="theme-toggle-btn" title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
+          <button id="theme-toggle" class="theme-toggle-btn theme-toggle-desktop" data-theme-toggle title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
         </nav>
       </div>
     </header>
@@ -92,6 +97,27 @@
           <p>“Biriktiriyorum, çünkü kaybolsun istemiyorum.”</p>
           <span class="archive-note-line"></span>
         </aside>
+
+        <section class="collection-entry-points" aria-labelledby="collection-entry-title">
+          <div class="collection-entry-heading">
+            <p class="section-kicker">İki ayrı alan</p>
+            <h2 id="collection-entry-title">Nereden başlamak istersin?</h2>
+          </div>
+          <div class="collection-entry-grid">
+            <article class="collection-entry-card collection-entry-card--personal">
+              <span>İlker Manavoğlu · Kişisel üretimler</span>
+              <h3>Kişisel Yazılar</h3>
+              <p>Notlar, düşünceler, fotoğraflar, müzik denemeleri ve film analizleri.</p>
+              <a href="/yazilar/">Yazıları aç <span aria-hidden="true">→</span></a>
+            </article>
+            <article class="collection-entry-card collection-entry-card--reading">
+              <span>Okuma ve araştırma çalışma alanı</span>
+              <h3>300 Ön Okuma Rehberi</h3>
+              <p>Kitaplara hazırlanmak ve temel fikirler arasında bağ kurmak için oluşturulan okuma rotası.</p>
+              <div><a href="/okuma-haritasi/">Okuma Haritası <span aria-hidden="true">→</span></a><a href="/arastirma-arsivi/">Araştırma Arşivi</a></div>
+            </article>
+          </div>
+        </section>
 
         <section class="writing-index" aria-labelledby="writing-index-title">
           <div class="section-heading">
@@ -128,7 +154,7 @@
             <h2 id="research-title">Bilgi, üretimin kendisi değil;<br>üretime açılan kapı.</h2>
             <p>Okuma Haritası'ndaki 300 ön okuma rehberi bütünüyle yapay zekâ tarafından oluşturuldu; benim kişisel yazılarım değil. Kitaplara hazırlanmak ve temel fikirler arasında bağ kurmak için kullandığım çalışma alanı.</p>
             <div class="research-links">
-              <a href="/okuma-haritasi/">300 eserlik okuma haritası <span>↗</span></a>
+              <a href="/okuma-haritasi/">300 ön okuma rehberi <span>↗</span></a>
               <a href="/arastirma-arsivi/">Araştırma arşivini aç <span>↗</span></a>
             </div>
           </div>
@@ -356,6 +382,6 @@
     </div>
   </div>
 
-  <script src="/app.js?v=55"></script>
+  <script src="/app.js?v=56"></script>
 </body>
 </html>

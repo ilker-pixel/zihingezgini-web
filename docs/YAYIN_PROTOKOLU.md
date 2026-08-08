@@ -11,7 +11,7 @@ Bu protokol, 300 kitaplık arşivin içerik, hız, erişilebilirlik ve kullanım
 - Kaynak metin eksikse yeni bilgi uydurulmaz; tekrar kaldırılır ve özgün içerik korunur.
 - Rehber anlatıcısı nötrdür; yapay zekâ kendisinden birinci tekil kişiyle söz etmez.
 - Okuyucu arayüzünde derleyen, editoryal durum veya güncelleme tarihi gösterilmez; ham veride `meta.compiler` ve `meta.date` tutulmaz.
-- Yapay zekâ açıklaması tek tek kitaplarda statü etiketi olarak değil, 300 rehberlik koleksiyonun yöntem açıklamasında yer alır.
+- Yapay zekâ açıklaması editoryal durum veya insan onayı iddiasına dönüştürülmez; her rehberde yalnız koleksiyon kimliğini belirten “Yapay zekâyla oluşturulmuş ön okuma rehberi · Kitabın yerini tutmaz” etiketi kullanılabilir.
 - Kişisel yazılar ile yapay zekâ tarafından oluşturulan Okuma Haritası açık biçimde birbirinden ayrılır.
 
 ## 2. İçerik bütünlüğü kapısı

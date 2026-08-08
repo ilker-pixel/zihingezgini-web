@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Arama | Zihin Gezgini</title>
-  <meta name="description" content="Zihin Gezgini yazıları, 300 kitap özeti ve araştırma arşivinde tek yerden arama.">
+  <meta name="description" content="Zihin Gezgini yazıları, 300 ön okuma rehberi ve araştırma arşivinde tek yerden arama.">
   <meta name="author" content="İlker Manavoğlu">
 
   <link rel="canonical" href="https://zihingezgini.net/arama/">
@@ -15,17 +15,17 @@
   <meta property="og:site_name" content="Zihin Gezgini">
   <meta property="og:url" content="https://zihingezgini.net/arama/">
   <meta property="og:title" content="Arama | Zihin Gezgini">
-  <meta property="og:description" content="Zihin Gezgini yazıları, 300 kitap özeti ve araştırma arşivinde tek yerden arama.">
+  <meta property="og:description" content="Zihin Gezgini yazıları, 300 ön okuma rehberi ve araştırma arşivinde tek yerden arama.">
   <meta property="og:image" content="https://zihingezgini.net/images/thinking_man_sketch.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Arama | Zihin Gezgini">
-  <meta name="twitter:description" content="Zihin Gezgini yazıları, 300 kitap özeti ve araştırma arşivinde tek yerden arama.">
+  <meta name="twitter:description" content="Zihin Gezgini yazıları, 300 ön okuma rehberi ve araştırma arşivinde tek yerden arama.">
   <meta name="twitter:image" content="https://zihingezgini.net/images/thinking_man_sketch.png">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"SearchResultsPage","name":"Zihin Gezgini Arama"}</script>
   <link rel="stylesheet" href="/style.css?v=65">
-  <link rel="stylesheet" href="/zihin-v2.css?v=4">
-  <link rel="stylesheet" href="/static-pages.css?v=7">
-  <script src="/static-page.js?v=4" defer></script>
+  <link rel="stylesheet" href="/zihin-v2.css?v=5">
+  <link rel="stylesheet" href="/static-pages.css?v=9">
+  <script src="/static-page.js?v=6" defer></script>
 </head>
 <body class="static-page search-page">
   <a class="skip-link" href="#main-content">Ana içeriğe geç</a>
@@ -41,10 +41,14 @@
             <span class="site-title">Zihin Gezgini</span>
           </span>
         </a>
-        <nav class="site-nav" aria-label="Ana menü">
-          <a href="/" class="nav-link">Başlangıç</a><a href="/okuma-haritasi/" class="nav-link">Okuma Haritası</a><a href="/arastirma-arsivi/" class="nav-link">Araştırma Arşivi</a><a href="/zihin-odasi/" class="nav-link">Zihin Odası</a><a href="/arama/" class="nav-link active">Arama</a>
+        <div class="mobile-header-actions">
+          <button type="button" class="mobile-menu-toggle" data-mobile-menu-toggle aria-expanded="false" aria-controls="site-navigation"><span data-menu-label>Menü</span></button>
+          <button type="button" class="theme-toggle-btn theme-toggle-mobile" data-theme-toggle title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
+        </div>
+        <nav class="site-nav" id="site-navigation" data-site-nav aria-label="Ana menü">
+          <a href="/" class="nav-link">Başlangıç</a><a href="/yazilar/" class="nav-link">Yazılar</a><a href="/okuma-haritasi/" class="nav-link">Okuma Haritası</a><a href="/arastirma-arsivi/" class="nav-link">Araştırma Arşivi</a><a href="/zihin-odasi/" class="nav-link">Zihin Odası</a><a href="/arama/" class="nav-link active">Arama</a>
           <a href="/rastgele/" class="nav-link nav-link-random">Rastgele ↝</a>
-          <button type="button" class="theme-toggle-btn" data-theme-toggle title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
+          <button type="button" class="theme-toggle-btn theme-toggle-desktop" data-theme-toggle title="Temayı değiştir" aria-label="Temayı değiştir">◐</button>
         </nav>
       </div>
     </header>
@@ -55,7 +59,7 @@
         <header class="static-page-heading">
           <p class="section-kicker">Bütün arşiv</p>
           <h1>Tek yerden ara</h1>
-          <p>Yazıları, 300 kitap özetini ve araştırma dosyalarını aynı anda tara.</p>
+          <p>Yazıları, 300 ön okuma rehberini ve araştırma dosyalarını aynı anda tara.</p>
         </header>
         <form class="global-search-form" role="search">
           <label for="global-search-input">Aranacak kelime</label>
@@ -63,6 +67,12 @@
           <label for="global-search-type">İçerik türü</label>
           <select id="global-search-type"><option value="all">Bütün arşiv</option><option value="summary">Ön okuma rehberleri</option><option value="post">Yazılar</option><option value="research">Araştırmalar</option></select>
         </form>
+        <div class="global-search-type-tabs" role="group" aria-label="İçerik türüne göre hızlı filtre">
+          <button type="button" data-global-search-type="all" aria-pressed="true">Tümü</button>
+          <button type="button" data-global-search-type="summary" aria-pressed="false">300 Rehber</button>
+          <button type="button" data-global-search-type="post" aria-pressed="false">Yazılar</button>
+          <button type="button" data-global-search-type="research" aria-pressed="false">21 Araştırma</button>
+        </div>
         <p class="global-search-status" data-global-search-status aria-live="polite">Arama dizini hazırlanıyor…</p>
         <div class="global-search-results" data-global-search-results></div>
       </section>
