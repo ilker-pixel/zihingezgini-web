@@ -561,16 +561,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Setup Interactive Reading Roadmap
   const EVRE_TITLES = {
-    1: "Evre I: Temeller (Evren, Doğa ve Canlılık)",
-    2: "Evre II: Zihin ve Benlik (İnsan Nörobiyolojisi ve Biliş)",
-    3: "Evre III: Karakter ve İyi Yaşam (Klasik Felsefe ve Stoacılık)",
-    4: "Evre IV: Toplum ve Sözleşme (Devletin Kökenleri ve Siyaset Felsefesi)",
-    5: "Evre V: Hakikat ve Yöntem (Epistemoloji ve Bilim Felsefesi)",
-    6: "Evre VI: Ekonomi Politik ve Sınıf (Maddi Dünyanın İşleyişi)",
-    7: "Evre VII: Dil ve Anlamlandırma (Dilbilim, Semiyotik ve Medya Analizi)",
-    8: "Evre VIII: Görsel Kültür, Estetik ve Kimlik (Temsil Politikaları)",
-    9: "Evre IX: Geç Modernite ve Yapay Zeka (Teknolojik Gelecek)",
-    10: "Evre X: Sentezler ve Bütünsel Felsefe (Zihin Gezgini Manifestosu)"
+    1: "Düşünme Pusulası",
+    2: "Kozmos, Yaşam ve Ekoloji",
+    3: "Beyin, Beden ve Benlik",
+    4: "Kadim Yaşam, Din ve Etik",
+    5: "Metafizik, Epistemoloji ve Varoluş",
+    6: "Bilim, Dil ve Yorum",
+    7: "Antropoloji, Sosyoloji ve Modernlik",
+    8: "Siyaset, Devlet ve Kurumlar",
+    9: "Ekonomi, Sınıf ve Risk",
+    10: "Medya, Estetik ve Toplumsal Cinsiyet",
+    11: "Sömürgecilik, İktidar ve Kritik Teori",
+    12: "Eğitim, Teknoloji, Yapay Zekâ ve Sentez"
   };
 
   async function setupRoadmap() {
@@ -580,7 +582,9 @@ document.addEventListener("DOMContentLoaded", () => {
     try {
       const response = await fetch("/data/books.json");
       if (!response.ok) throw new Error("Books file not found");
-      const books = await response.json();
+      const books = (await response.json()).slice().sort((a, b) => (
+        Number(a.readingOrder ?? a.no) - Number(b.readingOrder ?? b.no)
+      ));
       
       // Render featured summaries at the top
       const featuredSection = document.getElementById("featured-summaries-section");
@@ -598,7 +602,7 @@ document.addEventListener("DOMContentLoaded", () => {
                   <div class="featured-summary-row">
                     <div class="featured-row-info">
                       <div class="featured-row-meta">
-                        <span class="featured-row-no">#${b.no}</span>
+                        <span class="featured-row-no">Durak ${String(b.readingOrder ?? b.no).padStart(3, "0")} · Koleksiyon #${String(b.no).padStart(3, "0")}</span>
                         <span class="featured-row-category-tag">${b.category}</span>
                         <a href="${summaryUrl(b)}" class="featured-row-read-btn">📖 Özet Oku</a>
                       </div>
@@ -643,29 +647,31 @@ document.addEventListener("DOMContentLoaded", () => {
         const quickNavContainer = document.getElementById("roadmap-quick-nav");
         if (quickNavContainer) {
           const EVRE_SHORT_TITLES = {
-            1: "Fizik",
-            2: "Biyoloji",
-            3: "Psikoloji",
-            4: "Sosyoloji",
-            5: "Tarih",
-            6: "Felsefe",
-            7: "Dilbilim",
-            8: "Sanat",
-            9: "Teknoloji",
-            10: "Sentez"
+            1: "Pusula",
+            2: "Kozmos",
+            3: "Zihin",
+            4: "Bilgelik",
+            5: "Varlık",
+            6: "Bilim & Dil",
+            7: "Toplum",
+            8: "Siyaset",
+            9: "Ekonomi",
+            10: "Medya",
+            11: "İktidar",
+            12: "Gelecek"
           };
           
           let navHtml = "";
-          for (let e = 1; e <= 10; e++) {
+          for (let e = 1; e <= 12; e++) {
             const phaseBooks = evreBooks[e] || [];
             const phaseReadCount = phaseBooks.filter(b => readBooks.includes(b.no)).length;
-            const isCompleted = phaseReadCount === 30;
+            const isCompleted = phaseBooks.length > 0 && phaseReadCount === phaseBooks.length;
             const hasStarted = phaseReadCount > 0;
             
             navHtml += `
               <button class="quick-nav-pill ${isCompleted ? 'is-completed' : ''} ${hasStarted ? 'has-started' : ''}" data-evre="${e}" title="${EVRE_TITLES[e] || ''}">
                 <span class="quick-nav-label">${EVRE_SHORT_TITLES[e]}</span>
-                <span class="quick-nav-count">${phaseReadCount}/30</span>
+                <span class="quick-nav-count">${phaseReadCount}/${phaseBooks.length}</span>
               </button>
             `;
           }
@@ -675,7 +681,7 @@ document.addEventListener("DOMContentLoaded", () => {
           quickNavContainer.querySelectorAll(".quick-nav-pill").forEach(btn => {
             btn.addEventListener("click", () => {
               const e = parseInt(btn.getAttribute("data-evre"));
-              const firstBookNo = (e - 1) * 30 + 1;
+              const firstBookNo = evreBooks[e]?.[0]?.no;
               const targetRow = document.getElementById(`book-row-${firstBookNo}`);
               if (targetRow) {
                 // Collapse all other book descriptions
@@ -704,11 +710,12 @@ document.addEventListener("DOMContentLoaded", () => {
       
       // Group books by evre
       const evreBooks = {};
-      for (let i = 1; i <= 10; i++) {
+      for (let i = 1; i <= 12; i++) {
         evreBooks[i] = [];
       }
       books.forEach(b => {
-        if (evreBooks[b.evre]) evreBooks[b.evre].push(b);
+        const phase = b.routePhase ?? b.evre;
+        if (evreBooks[phase]) evreBooks[phase].push(b);
       });
       
       const booksList = document.createElement("div");
@@ -733,7 +740,7 @@ document.addEventListener("DOMContentLoaded", () => {
           </div>
           <div class="book-info-col">
             <div class="book-title-row">
-              <span class="book-no">#${b.no}</span>
+              <span class="book-no">Durak ${String(b.readingOrder ?? b.no).padStart(3, "0")} · Koleksiyon #${String(b.no).padStart(3, "0")}</span>
               <strong class="book-author">${b.author}</strong> — ${titleHtml}
               ${summaryBtnHtml}
             </div>
@@ -822,7 +829,7 @@ document.addEventListener("DOMContentLoaded", () => {
       
       readerTitle.textContent = data.title;
       readerAuthor.textContent = data.author;
-      readerNo.textContent = `#${data.bookNo}`;
+      readerNo.textContent = `Koleksiyon #${String(data.bookNo).padStart(3, "0")}`;
       readerSubtitle.textContent = data.subtitle || "";
       
       if (readerCoverImg) {

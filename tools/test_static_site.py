@@ -3,17 +3,22 @@
 
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sys
+from collections import Counter
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlparse
 from xml.etree import ElementTree
 
+from apply_reading_route import PHASES
+
 
 ROOT = Path(__file__).resolve().parents[1]
 ERRORS: list[str] = []
+EXPECTED_SUMMARY_URL_SHA256 = "213f31e9da8e02cde99e9093ea3d80c211b2e7298e02de2a18bcfbb47c53ee1f"
 
 
 class DocumentParser(HTMLParser):
@@ -107,11 +112,13 @@ def check_html(path: Path) -> None:
 
 
 def main() -> int:
-    summary_files = sorted((ROOT / "data/summaries").glob("*.json"))
+    summary_files = sorted((ROOT / "data/summaries").glob("*.json"), key=lambda path: int(path.stem))
     summary_records = [json.loads(path.read_text(encoding="utf-8")) for path in summary_files]
     if len(summary_records) != 300:
         ERRORS.append(f"summary archive has {len(summary_records)} records; expected 300")
     for path, summary in zip(summary_files, summary_records):
+        if int(path.stem) != int(summary.get("bookNo", 0)):
+            ERRORS.append(f"{path.relative_to(ROOT)}: filename and stable bookNo do not match")
         sources = summary.get("sources") or []
         if len(sources) < 2:
             ERRORS.append(f"{path.relative_to(ROOT)}: has {len(sources)} sources; expected at least 2")
@@ -159,6 +166,38 @@ def main() -> int:
     if not any("noindex" in value for value in error_parser.robots):
         ERRORS.append("404.html must be marked noindex")
     books = json.loads((ROOT / "data/books.json").read_text(encoding="utf-8"))
+    stable_ids = [book.get("no") for book in books]
+    reading_orders = [book.get("readingOrder") for book in books]
+    route_phases = [book.get("routePhase") for book in books]
+    expected_positions = list(range(1, 301))
+    if stable_ids != expected_positions:
+        ERRORS.append("data/books.json must stay in stable book-id order 1..300")
+    if sorted(reading_orders) != expected_positions:
+        ERRORS.append("readingOrder must be a unique, complete permutation of 1..300")
+    expected_route_phases = [((int(order) - 1) // 25) + 1 for order in reading_orders]
+    if route_phases != expected_route_phases or Counter(route_phases) != Counter({phase: 25 for phase in range(1, 13)}):
+        ERRORS.append("routePhase must define 12 consecutive phases of 25 route positions")
+    summary_ids = [int(summary.get("bookNo", 0)) for summary in summary_records]
+    if summary_ids != expected_positions:
+        ERRORS.append("summary bookNo values must match stable ids 1..300")
+    books_in_route_order = sorted(books, key=lambda book: int(book["readingOrder"]))
+    approved_route = [book_no for phase in PHASES for book_no in phase]
+    if [book["no"] for book in books_in_route_order] != approved_route:
+        ERRORS.append("readingOrder does not match the approved pedagogical route manifest")
+    books_by_no = {int(book["no"]): book for book in books}
+    summary_urls = [str(book.get("summaryUrl", "")) for book in books]
+    if len(set(summary_urls)) != 300 or any(not url.startswith("/kitap-ozetleri/") for url in summary_urls):
+        ERRORS.append("book summaryUrl values must be 300 unique canonical guide paths")
+    sitemap_urls = set(locations)
+    if any(f"https://zihingezgini.net{url}" not in sitemap_urls for url in summary_urls):
+        ERRORS.append("one or more canonical summaryUrl values are absent from sitemap.xml")
+    url_contract = json.dumps(
+        [(book["no"], book["summaryUrl"]) for book in books],
+        ensure_ascii=False,
+        separators=(",", ":"),
+    )
+    if hashlib.sha256(url_contract.encode("utf-8")).hexdigest() != EXPECTED_SUMMARY_URL_SHA256:
+        ERRORS.append("the immutable bookNo-to-summaryUrl contract has changed")
     expected_titles = {
         244: "Sapiens: Hayvanlardan Tanrılara",
         248: "Yapay Zekâ: Düşünen İnsanlar İçin Bir Rehber",
@@ -182,6 +221,11 @@ def main() -> int:
         ERRORS.append(f"search index has {len(search_index)} records; expected {expected_search_count}")
     if {record.get("type") for record in search_index} != {"post", "summary", "research"}:
         ERRORS.append("search index does not contain all three content types")
+    search_summaries = [record for record in search_index if record.get("type") == "summary"]
+    if [record.get("readingOrder") for record in search_summaries] != expected_positions:
+        ERRORS.append("search-index summary records are not in reading-route order")
+    if [record.get("bookNo") for record in search_summaries] != [book["no"] for book in books_in_route_order]:
+        ERRORS.append("search-index summary book ids do not match the reading route")
 
     scoped_search_pages = {
         "yazilar/index.html": len(json.loads((ROOT / "data/posts.json").read_text(encoding="utf-8"))),
@@ -225,13 +269,40 @@ def main() -> int:
     for feature in required_roadmap_features:
         if feature not in roadmap:
             ERRORS.append(f"reading map is missing feature marker {feature}")
+    roadmap_rows = [
+        (int(book_no), int(position))
+        for book_no, position in re.findall(
+            r'data-book-no="(\d+)" data-reading-order="(\d+)"',
+            roadmap,
+        )
+    ]
+    if [position for _, position in roadmap_rows] != expected_positions:
+        ERRORS.append("reading map DOM is not in readingOrder 1..300")
+    if [book_no for book_no, _ in roadmap_rows] != [book["no"] for book in books_in_route_order]:
+        ERRORS.append("reading map DOM stable ids do not match the approved route")
+    if roadmap.count('class="roadmap-phase"') != 12:
+        ERRORS.append("reading map must render exactly 12 route phases")
 
     for path in (ROOT / "kitap-ozetleri").glob("*/index.html"):
         source = path.read_text(encoding="utf-8")
+        stable_id_match = re.search(r'data-summary-book="(\d+)"', source)
+        if not stable_id_match:
+            ERRORS.append(f"{path.relative_to(ROOT)} is missing its stable book id")
+        else:
+            stable_id = int(stable_id_match.group(1))
+            expected_path = Path(books_by_no[stable_id]["summaryUrl"].strip("/")) / "index.html"
+            if path.relative_to(ROOT) != expected_path:
+                ERRORS.append(f"{path.relative_to(ROOT)} does not match book #{stable_id} summaryUrl")
+            expected_canonical = f'<link rel="canonical" href="https://zihingezgini.net{books_by_no[stable_id]["summaryUrl"]}">'
+            if expected_canonical not in source:
+                ERRORS.append(f"{path.relative_to(ROOT)} does not use its stable summaryUrl as canonical")
         forbidden_status_copy = ("<strong>Derleyen:</strong>", "<strong>Tarih:</strong>", "Editoryal durum", "Bende kalan", "Bu kitap şuna bağlanıyor")
         if any(marker in source for marker in forbidden_status_copy):
             ERRORS.append(f"{path.relative_to(ROOT)} exposes disallowed per-book editorial status copy")
-        for marker in ("data-reading-progress", "data-reader-resume", "data-reader-print", "data-reader-width"):
+        for marker in (
+            "data-reading-progress", "data-reader-resume", "data-reader-print", "data-reader-width",
+            "data-summary-reading-order", "summary-route-navigation", "Haritaya dön",
+        ):
             if marker not in source:
                 ERRORS.append(f"{path.relative_to(ROOT)} is missing reader feature {marker}")
 
