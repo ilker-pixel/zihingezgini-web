@@ -254,11 +254,19 @@ def main() -> int:
         ERRORS.append(f"index.html must contain exactly one h1; found {homepage.count('<h1')}")
     if "googletagmanager.com" in homepage or "fonts.googleapis.com" in homepage:
         ERRORS.append("index.html still contains a blocking analytics or remote-font request")
-    for marker in ("collection-entry-points", "Kişisel Yazılar", "300 Ön Okuma Rehberi", "data-mobile-menu-toggle"):
+    for marker in ("home-entry", "Kişisel Yazılar", "300 AI Ön Okuma Rehberi", "Araştırma Arşivi", "mobile-section-nav", "data-mobile-menu-toggle"):
         if marker not in homepage:
             ERRORS.append(f"index.html is missing approved interface marker {marker}")
+    if homepage.count('class="home-entry-card ') != 3:
+        ERRORS.append("index.html must expose exactly three primary destination cards before the manifesto")
+    entry_position = homepage.find('class="home-entry"')
+    hero_position = homepage.find('class="home-hero"')
+    if entry_position >= 0 and hero_position >= 0 and entry_position > hero_position:
+        ERRORS.append("the three primary destinations must appear before the homepage manifesto")
 
     roadmap = (ROOT / "okuma-haritasi/index.html").read_text(encoding="utf-8")
+    if "mobile-section-nav" not in roadmap or "300 Rehber" not in roadmap:
+        ERRORS.append("static pages must expose the three primary mobile destinations")
     methodology = (
         "Bu bölüm, kitapları okumadan önce temel fikirlerine hazırlanmak için yapay zekâya hazırlattığım "
         "300 ön okuma rehberinden oluşuyor."
