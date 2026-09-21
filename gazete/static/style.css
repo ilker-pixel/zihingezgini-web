@@ -85,6 +85,7 @@ input,select { background:#fffdf7; display:block; margin-top:6px; width:100% }
 button { background:var(--ink); color:var(--paper); cursor:pointer; font-weight:bold }
 .check { display:flex; gap:9px; align-items:center }
 .check input { display:inline; width:auto; margin:0 }
+.setting-help { color:var(--muted); font:14px/1.55 Arial,sans-serif; margin:-5px 0 20px 26px }
 .inline { display:grid; grid-template-columns:1fr auto; gap:8px }
 .status { border-top:1px solid #aaa293; font:13px Arial,sans-serif; margin-top:22px; padding-top:15px }
 footer { border-top:4px double var(--line); display:flex; gap:12px; justify-content:center; margin-top:30px; padding:25px }
