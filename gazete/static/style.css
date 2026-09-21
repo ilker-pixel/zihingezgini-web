@@ -36,7 +36,6 @@ main { max-width:1280px; margin:auto; padding:22px 28px }
 .story h2 a,.archive a,.pulse a { color:var(--ink); text-decoration:none }
 .story h2 a:hover,.archive a:hover,.pulse a:hover { text-decoration:underline; text-decoration-color:var(--accent) }
 .story p { margin:0 0 10px }
-.story .why { font-size:14px }
 .kicker { color:var(--accent); font-weight:700 }
 .meta { color:var(--muted); font-size:10px }
 .rule-title { border-top:4px double var(--line); border-bottom:1px solid var(--line); font:800 13px Arial,sans-serif; letter-spacing:.12em; margin-top:28px; padding:8px 0; text-transform:uppercase }
