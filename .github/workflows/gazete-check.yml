@@ -1,0 +1,23 @@
+name: Validate newspaper
+
+on:
+  pull_request:
+    paths: ['gazete/**', 'tools/build_gazete.py', 'tools/test_gazete.py', 'tools/gazete/**', '.github/workflows/gazete-check.yml']
+  push:
+    paths: ['gazete/**', 'tools/build_gazete.py', 'tools/test_gazete.py', 'tools/gazete/**', '.github/workflows/gazete-check.yml']
+
+permissions:
+  contents: read
+
+jobs:
+  newspaper:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate importer, replacement, recovery and links
+        run: python3 tools/test_gazete.py
+      - name: Validate checked-in newspaper data and pages
+        run: python3 tools/gazete/check_site.py

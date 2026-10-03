@@ -1,0 +1,11 @@
+--- publisher.py
++++ publisher.py
+@@ -106,4 +106,8 @@
+ def export_site(output=DEFAULT_OUTPUT):
++    if (APP_HOME / ".gazete-cloud-managed").exists():
++        raise RuntimeError(
++            "Gazete internet yayını bulut yönetiminde; yerel dışa aktarım durduruldu."
++        )
+     database.init_db()
+     latest = database.latest_edition()
+     if not latest:

@@ -1,0 +1,222 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://zihingezgini.net/gazete/bundle.schema.json",
+  "title": "Gündem Gazetesi tamamlanmış bülten paketi v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "bulletins"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1,
+      "type": "integer"
+    },
+    "bulletins": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 4,
+      "items": {
+        "$ref": "#/$defs/bulletin"
+      }
+    }
+  },
+  "$defs": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9][a-zA-Z0-9_-]{0,95}$"
+    },
+    "time": {
+      "type": "string",
+      "format": "date-time",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T.+(?:Z|[+-]\\d{2}:\\d{2})$"
+    },
+    "bulletin": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "feed_id",
+        "bulletin_id",
+        "scheduled_for",
+        "completed_at",
+        "coverage_start",
+        "coverage_end",
+        "topics"
+      ],
+      "properties": {
+        "feed_id": {
+          "enum": [
+            "morning",
+            "ai",
+            "youtube_am",
+            "youtube_pm"
+          ]
+        },
+        "bulletin_id": {
+          "$ref": "#/$defs/id"
+        },
+        "scheduled_for": {
+          "$ref": "#/$defs/time"
+        },
+        "completed_at": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/time"
+            }
+          ]
+        },
+        "coverage_start": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/time"
+            }
+          ]
+        },
+        "coverage_end": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "$ref": "#/$defs/time"
+            }
+          ]
+        },
+        "topics": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 30,
+          "items": {
+            "$ref": "#/$defs/topic"
+          }
+        },
+        "prepared_at": {
+          "$ref": "#/$defs/time"
+        },
+        "metadata": {
+          "type": "object"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "completed_at": {
+                "type": "null"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "prepared_at"
+            ]
+          }
+        }
+      ]
+    },
+    "topic": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "category",
+        "title",
+        "summary",
+        "what_happened",
+        "sources"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id"
+        },
+        "category": {
+          "enum": [
+            "bilim",
+            "teknoloji",
+            "ekonomi",
+            "dunya",
+            "turkiye",
+            "kultur",
+            "saglik",
+            "cevre",
+            "spor",
+            "felsefe",
+            "hava"
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "summary": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 500,
+          "description": "Tek cümle"
+        },
+        "what_happened": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 50000,
+          "description": "Tam metin; boş satırlarla ayrılan paragraflar, kaynak çekinceleri burada"
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 32,
+          "items": {
+            "$ref": "#/$defs/source"
+          }
+        },
+        "metadata": {
+          "type": "object"
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "url",
+        "published_at"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 160
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://",
+          "maxLength": 2048
+        },
+        "published_at": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "string",
+              "format": "date",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+            },
+            {
+              "$ref": "#/$defs/time"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

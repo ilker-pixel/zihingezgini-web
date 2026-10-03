@@ -1,0 +1,264 @@
+#!/usr/bin/env python3
+"""Gazete contract, replacement, recovery and output tests; never reads live data."""
+import copy
+import datetime as dt
+from html.parser import HTMLParser
+import json
+from pathlib import Path
+import tempfile
+import unittest
+from unittest.mock import patch
+from urllib.parse import urlsplit
+
+import build_gazete as g
+
+NOW = dt.datetime.fromisoformat("2026-10-03T23:59:00+03:00")
+
+
+def bulletin(feed="morning", day="2026-10-03", topics=None):
+    hour = g.FEEDS[feed][1]
+    return {
+        "feed_id": feed, "bulletin_id": f"{feed}-{day}",
+        "scheduled_for": f"{day}T{hour:02}:00:00+03:00",
+        "completed_at": f"{day}T{hour:02}:05:00+03:00",
+        "coverage_start": f"{day}T00:00:00+03:00",
+        "coverage_end": f"{day}T{hour:02}:00:00+03:00",
+        "topics": topics or [{
+            "id": f"test-{feed}", "category": "bilim" if feed == "morning" else "teknoloji",
+            "title": "Test yazısı: araştırma sonucu", "summary": "Bu cümle yalnız otomatik test içindir.",
+            "what_happened": "Bu paragraf yalnız yazılım testi içindir. Kaynak sonucu henüz bağımsız doğrulamamıştır.\n\n" + "Tam metin korunur. " * 150,
+            "sources": [{"name": "Test kaynağı", "url": "https://example.com/source", "published_at": "2026-10-02"}]
+        }]
+    }
+
+
+def bundle(*bs):
+    return {"schema_version": 1, "bulletins": list(bs)}
+
+
+def files(root):
+    return {str(p.relative_to(root)): p.read_bytes() for p in root.rglob('*') if p.is_file()}
+
+
+class Links(HTMLParser):
+    def __init__(self):
+        super().__init__(); self.urls = []; self.ids = set()
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        self.urls += [attrs[k] for k in ('href','src') if k in attrs]
+        if 'id' in attrs: self.ids.add(attrs['id'])
+
+
+class GazeteTest(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.root = Path(self.tmp.name)
+        (self.root/'unrelated').mkdir()
+        (self.root/'unrelated/site.html').write_text('DO NOT CHANGE')
+        (self.root/'gazete/baski/old').mkdir(parents=True)
+        (self.root/'gazete/baski/old/index.html').write_text('obsolete')
+        (self.root/'gazete/eksi.html').write_text('obsolete')
+    def tearDown(self):
+        self.tmp.cleanup()
+    def import_(self, *bs):
+        return g.import_bundle(self.root, bundle(*bs), NOW)
+    def state(self):
+        return g.load_current(self.root, NOW)
+    def test_topics_in_categories_and_old_newspaper_removed(self):
+        self.import_(*(bulletin(f) for f in g.FEEDS))
+        self.assertFalse((self.root/'gazete/baski').exists())
+        self.assertFalse((self.root/'gazete/eksi.html').exists())
+        self.assertEqual((self.root/'unrelated/site.html').read_text(), 'DO NOT CHANGE')
+        self.assertTrue((self.root/'gazete/konu/bilim/index.html').exists())
+        self.assertTrue((self.root/'gazete/konu/teknoloji/index.html').exists())
+        self.assertFalse((self.root/'gazete/konu/youtube_am').exists())
+        article=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
+        self.assertIn('02.10.2026',article)
+        self.assertIn('03.10.2026 08.00',article)
+        self.assertIn('Kaynak sonucu henüz bağımsız doğrulamamıştır.',article)
+        self.assertEqual(article.count('Tam metin korunur.'),150)
+        self.assertNotIn('Neden önemli?',article)
+        self.assertNotIn('Dikkat',article)
+    def test_replay_is_noop(self):
+        self.import_(bulletin())
+        before=files(self.root)
+        result=self.import_(bulletin())
+        self.assertEqual(result,{'changed':[],'duplicate':['morning'],'stale':[]})
+        self.assertEqual(before,files(self.root))
+    def test_one_feed_replaces_only_its_articles(self):
+        self.import_(bulletin('morning','2026-10-02'),bulletin('ai'))
+        old_ai=copy.deepcopy(self.state()['bulletins'][1])
+        b=bulletin(); b['topics'][0]['id']='replacement'
+        self.import_(b)
+        self.assertEqual(self.state()['bulletins'][1],old_ai)
+        self.assertFalse((self.root/'gazete/yazi/morning/test-morning').exists())
+        self.assertTrue((self.root/'gazete/yazi/morning/replacement/index.html').exists())
+    def test_late_missing_source_keeps_previous(self):
+        self.import_(bulletin('youtube_pm','2026-10-02'),bulletin('ai'))
+        old=copy.deepcopy(self.state()['bulletins'][1])
+        self.import_(bulletin())
+        self.assertEqual(self.state()['bulletins'][2],old)
+        home=(self.root/'gazete/index.html').read_text()
+        self.assertIn('Yeni bülten bekleniyor',home)
+        self.assertIn('02.10.2026 22.00',home)
+        self.assertTrue((self.root/'gazete/yazi/youtube_pm/test-youtube_pm/index.html').exists())
+    def test_out_of_order_ignored(self):
+        self.import_(bulletin())
+        before=files(self.root)
+        r=self.import_(bulletin(day='2026-10-02'))
+        self.assertEqual(r['stale'],['morning'])
+        self.assertEqual(before,files(self.root))
+    def test_corrected_slot_requires_new_id_and_later_completion(self):
+        self.import_(bulletin())
+        b=bulletin();b['bulletin_id']='morning-correction';b['completed_at']='2026-10-03T08:15:00+03:00'
+        b['topics'][0]['summary']='Düzeltilmiş test cümlesi.'
+        self.assertEqual(self.import_(b)['changed'],['morning'])
+    def test_conflicting_id_rejected_whole_bundle(self):
+        self.import_(bulletin())
+        before=files(self.root)
+        b=bulletin();b['topics'][0]['title']='Changed'
+        with self.assertRaises(g.InvalidBulletin):self.import_(bulletin('ai'),b)
+        self.assertEqual(before,files(self.root))
+    def test_invalid_data_preserves_entire_site(self):
+        variants=[]
+        for path,value in [('feed_id','eksi'),('feed_id',[]),('scheduled_for','2026-10-03T09:00:00+03:00'),('completed_at','2026-10-04T08:00:00+03:00'),('coverage_start','2026-10-03T09:00:00+03:00'),('topics',[])]:
+            b=bulletin();b[path]=value;variants.append(b)
+        for path,value in [('id','../../bad'),('category','ai_haberleri'),('category',[]),('summary',''),('summary','two\nlines'),('what_happened','')]:
+            b=bulletin();b['topics'][0][path]=value;variants.append(b)
+        for url in ['javascript:alert(1)','file:///etc/passwd','https://user:secret@example.com','https://example.com/bad path']:
+            b=bulletin();b['topics'][0]['sources'][0]['url']=url;variants.append(b)
+        b=bulletin();b['topics'][0]['sources'][0]['published_at']='2026-02-30';variants.append(b)
+        b=bulletin();b['audio']='unrequested.mp3';variants.append(b)
+        before=files(self.root)
+        for b in variants:
+            with self.subTest(b=b):
+                with self.assertRaises(g.InvalidBulletin):self.import_(bulletin('ai'),b)
+                self.assertEqual(before,files(self.root))
+    def test_duplicates_inside_bundle_rejected(self):
+        for bs in [(bulletin(),bulletin()),]:
+            with self.assertRaises(g.InvalidBulletin):self.import_(*bs)
+        b=bulletin();b['topics']*=2
+        with self.assertRaises(g.InvalidBulletin):self.import_(b)
+    def test_html_escaped_and_unknown_dates_preserved(self):
+        b=bulletin();b['topics'][0]['title']='<script>alert(1)</script>'
+        b['topics'][0]['what_happened']='<img src=x onerror=alert(1)>'
+        b['topics'][0]['sources'][0]['published_at']=None
+        self.import_(b)
+        page=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
+        self.assertNotIn('<img src=x',page)
+        self.assertIn('&lt;img',page)
+        self.assertIn('Yayın tarihi kaynakta belirtilmemiş',page)
+    def test_all_local_links_resolve(self):
+        self.import_(*(bulletin(f) for f in g.FEEDS))
+        for page in (self.root/'gazete').rglob('*.html'):
+            parser=Links();parser.feed(page.read_text())
+            for url in parser.urls:
+                parsed=urlsplit(url)
+                if parsed.scheme:continue
+                if parsed.path:
+                    self.assertTrue(parsed.path.startswith('/gazete/'),url)
+                    target=self.root/parsed.path.lstrip('/')
+                    if parsed.path.endswith('/'):target/='index.html'
+                    self.assertTrue(target.is_file(),f'{page}: {url}')
+                elif parsed.fragment:self.assertIn(parsed.fragment,parser.ids)
+    def test_sitemap_matches_generated_pages(self):
+        import xml.etree.ElementTree as ET
+        self.import_(bulletin())
+        tree=ET.parse(self.root/'gazete/sitemap.xml')
+        for loc in tree.findall('.//{*}loc'):
+            target=self.root/urlsplit(loc.text).path.lstrip('/')/'index.html'
+            self.assertTrue(target.is_file(),loc.text)
+    def test_render_failure_preserves_site(self):
+        self.import_(bulletin())
+        before=files(self.root)
+        with patch.object(g,'render',side_effect=OSError('test failure')):
+            with self.assertRaises(OSError):self.import_(bulletin('ai'))
+        self.assertEqual(before,files(self.root))
+        self.assertFalse(list(self.root.glob('.gazete-stage-*')))
+    def test_commit_failure_restores_previous(self):
+        self.import_(bulletin())
+        before=files(self.root)
+        original=Path.rename
+        def rename(p,target):
+            if '.gazete-stage-' in str(p):raise OSError('test rename failure')
+            return original(p,target)
+        with patch.object(Path,'rename',rename):
+            with self.assertRaises(OSError):self.import_(bulletin('ai'))
+        self.assertEqual(before,files(self.root))
+    def test_crash_recovery_before_loading_state(self):
+        self.import_(bulletin())
+        (self.root/'gazete').rename(self.root/'.gazete-previous')
+        self.import_(bulletin('ai'))
+        self.assertEqual(len(self.state()['bulletins']),2)
+        self.assertFalse((self.root/'.gazete-previous').exists())
+    def test_repeated_updates_do_not_accumulate_editions(self):
+        for day in ['2026-10-01','2026-10-02','2026-10-03']:self.import_(bulletin(day=day))
+        self.assertEqual(len(self.state()['bulletins']),1)
+        self.assertEqual(len(list((self.root/'gazete/yazi').rglob('index.html'))),1)
+        self.assertFalse((self.root/'gazete/baski').exists())
+        self.assertFalse(list((self.root/'gazete').rglob('*.mp3')))
+        self.assertFalse(list((self.root/'gazete').rglob('*.pdf')))
+    def test_duplicate_json_keys_rejected(self):
+        p=self.root/'bad.json';p.write_text('{"schema_version":1,"schema_version":2}')
+        with self.assertRaises(g.InvalidBulletin):g.read_json(p)
+    def test_blank_current_can_render(self):
+        g.replace_site(self.root,{'schema_version':1,'bulletins':[]},NOW)
+        self.assertIn('İlk tamamlanmış bülten', (self.root/'gazete/index.html').read_text())
+        self.assertEqual(self.state()['bulletins'],[])
+    def test_unknown_completion_does_not_become_schedule_time(self):
+        b=bulletin();b['completed_at']=None;b['prepared_at']='2026-10-03T20:52:00Z'
+        b['coverage_start']=None;b['coverage_end']=None
+        self.import_(b)
+        stored=self.state()['bulletins'][0]
+        self.assertIsNone(stored['completed_at'])
+        page=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
+        self.assertIn('Bülten tamamlandı: Kaynakta belirtilmemiş',page)
+        self.assertIn('Paket hazırlandı: 03.10.2026 23.52',page)
+        self.assertIn('Kesin kapsam başlangıcı ve sonu kaynakta belirtilmemiş',page)
+    def test_repackaging_is_idempotent(self):
+        b=bulletin();b['prepared_at']='2026-10-03T20:45:00Z';self.import_(b)
+        before=files(self.root)
+        b['prepared_at']='2026-10-03T20:52:00Z'
+        self.assertEqual(self.import_(b)['duplicate'],['morning'])
+        self.assertEqual(before,files(self.root))
+    def test_concurrent_different_feeds_do_not_lose_updates(self):
+        from concurrent.futures import ThreadPoolExecutor
+        with ThreadPoolExecutor(2) as pool:
+            results=list(pool.map(lambda b:self.import_(b),[bulletin(),bulletin('ai')]))
+        self.assertEqual(len(self.state()['bulletins']),2)
+        self.assertTrue(all(r['changed'] for r in results))
+    def test_same_topic_id_in_different_feeds_keeps_distinct_urls(self):
+        a,b=bulletin(),bulletin('ai');b['topics'][0]['id']=a['topics'][0]['id']
+        self.import_(a,b)
+        self.assertTrue((self.root/'gazete/yazi/morning/test-morning/index.html').exists())
+        self.assertTrue((self.root/'gazete/yazi/ai/test-morning/index.html').exists())
+    def test_changed_category_removes_old_category_and_topic(self):
+        self.import_(bulletin(day='2026-10-02'))
+        b=bulletin();b['topics'][0]['category']='felsefe';self.import_(b)
+        self.assertFalse((self.root/'gazete/konu/bilim').exists())
+        self.assertTrue((self.root/'gazete/konu/felsefe/index.html').exists())
+    def test_source_publication_and_event_dates_stay_separate(self):
+        b=bulletin();b['topics'][0]['metadata']={'publication':{'at':None,'date':'2026-10-01','note':'Tarihin saati bilinmiyor.'},'event_time':{'start':'2026-09-30','end':None,'note':'Olay tarihi ayrı.'}}
+        self.import_(b)
+        page=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
+        self.assertIn('Yayın/kayıt tarihi: 01.10.2026',page)
+        self.assertIn('Olay başlangıcı: 30.09.2026',page)
+        self.assertIn('Tarihin saati bilinmiyor.',page)
+    def test_source_adapter_preserves_all_text_and_times(self):
+        import sys
+        sys.path.insert(0,str(Path(__file__).parent/'gazete'))
+        from adapt_source_bundle import adapt
+        source={'schema_version':'gundemgazetesi-source-bundle/1','timezone':'Europe/Istanbul','assembled_at':'2026-10-03T20:52:00Z',
+                'feeds':[{'id':'general_morning_08','edition_date':'2026-10-03','scheduled_time_local':'08:00','generation_completed_at':None,'window':None,'research_cutoff':{'at':'2026-10-03T06:15:00Z','precision':'approximate'}}],
+                'articles':[{'id':'test-source','feed_id':'general_morning_08','topic_id':'hava','title':'Test başlığı','summary':'Tek test cümlesi.','what_happened':['Birinci paragraf.','İkinci paragraf, kaynak çekincesi.'],'sources':[{'label':'Test','url':'https://example.com'}],'publication':{'at':None,'date':'2026-10-02'}}]}
+        normalized=adapt(source);g.validate_bundle(normalized,NOW)
+        b=normalized['bulletins'][0];self.assertIsNone(b['completed_at']);self.assertIsNone(b['coverage_start'])
+        self.assertEqual(b['metadata']['research_cutoff']['precision'],'approximate')
+        self.assertEqual(b['topics'][0]['what_happened'],'Birinci paragraf.\n\nİkinci paragraf, kaynak çekincesi.')
+        self.assertIsNone(b['topics'][0]['sources'][0]['published_at'])
+        self.assertEqual(b['topics'][0]['metadata']['publication']['date'],'2026-10-02')
+        b2=copy.deepcopy(source);b2['assembled_at']='2026-10-03T20:59:00Z'
+        self.assertEqual(adapt(b2)['bulletins'][0]['bulletin_id'],b['bulletin_id'])
+
+
+if __name__=='__main__':unittest.main(verbosity=2)
