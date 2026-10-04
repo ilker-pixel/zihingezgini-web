@@ -3,19 +3,84 @@
   "bulletins": [
     {
       "feed_id": "morning",
-      "bulletin_id": "morning-20261004-0800",
+      "bulletin_id": "morning-20261004-0800-test-expanded-v2",
       "scheduled_for": "2026-10-04T08:00:00+03:00",
-      "completed_at": "2026-10-04T04:32:21+00:00",
-      "prepared_at": "2026-10-04T04:32:21+00:00",
+      "completed_at": "2026-10-04T05:42:20+00:00",
+      "prepared_at": "2026-10-04T05:42:20+00:00",
       "coverage_start": null,
       "coverage_end": null,
       "topics": [
         {
-          "id": "morning-20261004-fon-kurulu",
+          "id": "morning-20261004-test-sanliurfa-hastane",
+          "category": "saglik",
+          "title": "Şanlıurfa Şehir Hastanesi hizmete açıldı",
+          "summary": "Şanlıurfa’da iki bin yataklı şehir hastanesi, bağlantı yolu ve köprüsüyle birlikte 3 Ekim’de açıldı.",
+          "what_happened": "Şanlıurfa’da iki bin yataklı şehir hastanesi, bağlantı yolu ve köprüsüyle birlikte 3 Ekim’de açıldı.",
+          "sources": [
+            {
+              "name": "Cumhurbaşkanlığı İletişim Başkanlığı",
+              "url": "https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-sanliurfa-sehir-hastanesinin-acilisinda-konustu",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text": "Şanlıurfa'da iki bin yatak kapasiteli Şehir Hastanesi, 3 Ekim'de hizmete açıldı. Cumhurbaşkanı Recep Tayyip Erdoğan'ın açılış töreninde verdiği bilgilere göre hastanede 545 yoğun bakım yatağı ve 451 poliklinik odası bulunuyor. Yaklaşık 500 bin metrekare kapalı alana sahip yatırımın tutarı 39 milyar lira olarak açıklandı. Hastaneye ulaşımı sağlayan 1,7 kilometrelik bağlantı yolu ile 191 metrelik köprü de açıldı. Kentte Harran Devlet Hastanesi ve Viranşehir Devlet Hastanesinin ek binası dahil 16 sağlık tesisinin yapımının sürdüğü bildirildi.",
+          "full_text_sources": [
+            {
+              "name": "Cumhurbaşkanlığı İletişim Başkanlığı",
+              "url": "https://www.iletisim.gov.tr/turkce/haberler/detay/cumhurbaskani-erdogan-sanliurfa-sehir-hastanesinin-acilisinda-konustu",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Şanlıurfa Şehir Hastanesi hizmete açıldı",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
+          },
+          "metadata": {
+            "event_date": "2026-10-03",
+            "new_in_test": true,
+            "kind": "main"
+          }
+        },
+        {
+          "id": "morning-20261004-test-fransa-savunma",
+          "category": "turkiye",
+          "title": "Türkiye ile Fransa savunma iş birliği yol haritası imzaladı",
+          "summary": "Milli Savunma Bakanlığı, Türkiye ile Fransa arasında savunma iş birliğini geliştirecek yol haritasının imzalandığını duyurdu.",
+          "what_happened": "Milli Savunma Bakanlığı, Türkiye ile Fransa arasında savunma iş birliğini geliştirecek yol haritasının imzalandığını duyurdu.",
+          "sources": [
+            {
+              "name": "Anadolu Ajansı — Milli Savunma Bakanlığı açıklaması",
+              "url": "https://www.aa.com.tr/tr/gundem/turkiye-ile-fransa-arasinda-savunma-is-birligi-yol-haritasi-imzalandi/4076878",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text": "Türkiye ile Fransa, savunma iş birliği için yeni bir yol haritası imzaladı. Milli Savunma Bakanlığının 3 Ekim'deki duyurusuna göre, Savunma ve Güvenlik Genel Müdürü Korgeneral İlkay Altındağ, Fransız savunma yetkilileriyle görüştü. Temaslarda askeri ilişkiler, stratejik diyalog ve mevcut iş birliğinin geliştirilmesi ele alındı. Yol haritası, düzenli ve sonuç odaklı görüşmelerin sürdürülmesini amaçlıyor. Bakanlık, iki ülke liderlerinin son dönemdeki olumlu mesajlarının somut bir iş birliği adımına dönüştüğünü belirtti.",
+          "full_text_sources": [
+            {
+              "name": "Anadolu Ajansı — Milli Savunma Bakanlığı açıklaması",
+              "url": "https://www.aa.com.tr/tr/gundem/turkiye-ile-fransa-arasinda-savunma-is-birligi-yol-haritasi-imzalandi/4076878",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Türkiye ile Fransa savunma iş birliği yol haritası imzaladı",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
+          },
+          "metadata": {
+            "announcement_date": "2026-10-03",
+            "event_date": null,
+            "new_in_test": true,
+            "kind": "main"
+          }
+        },
+        {
+          "id": "morning-20261004-test-fon-kurulu",
           "category": "ekonomi",
-          "title": "Fon Kurulunda ödeme takvimi ve düzenlemeler görüşüldü",
-          "summary": "İkinci Fon Kurulu toplantısında hesaplama yöntemi ve ödeme takvimi ele alındı; somut ödeme günü açıklanmadı.",
-          "what_happened": "Türkiye'de, fon piyasasının belirli bir bölümünde yaşanan sorunlara ilişkin düzenleme çalışmaları sürüyor. Cumhurbaşkanlığı İletişim Başkanlığının 2 Ekim tarihli açıklamasına göre, Cevdet Yılmaz başkanlığındaki İkinci Fon Kurulu Toplantısı'nda net yatırım tutarının hesaplanma yöntemi, ödemelere ilişkin ikincil düzenlemeler ve ödeme takvimi görüşüldü. Çalışmalar, Sermaye Piyasası Kurulunun 30 Eylül kararları çerçevesinde yürütülüyor. Sermaye Piyasası Kanunu'nda değişiklik öngören taslağa son şeklinin verilmesi için ilgili kurumlara talimat verildi. Açıklamada vatandaşlara ek yük getirilmemesi yaklaşımı vurgulandı. Bununla birlikte, yayımlanan metinde yatırımcılar için somut bir ödeme günü açıklanmadı. Takvimin görüşülmesi, kesin ödeme tarihinin ilan edildiği anlamına gelmiyor.",
+          "title": "Fon Kurulunda düzenleme ve ödeme takvimi görüşüldü",
+          "summary": "Fon Kurulu, net yatırım tutarının hesaplanma yöntemini, ikincil düzenlemeleri ve ödeme takvimini görüştü.",
+          "what_happened": "Fon Kurulu, net yatırım tutarının hesaplanma yöntemini, ikincil düzenlemeleri ve ödeme takvimini görüştü.",
           "sources": [
             {
               "name": "Cumhurbaşkanlığı İletişim Başkanlığı",
@@ -23,17 +88,30 @@
               "published_at": "2026-10-02"
             }
           ],
-          "metadata": {
-            "event_date": "2026-10-02"
+          "full_text": "Fon piyasasındaki sorunlara ilişkin çalışmalar da sürüyor. Cevdet Yılmaz başkanlığındaki İkinci Fon Kurulu Toplantısı'nda net yatırım tutarının hesaplanma yöntemi, ikincil düzenlemeler ve ödeme takvimi görüşüldü. İletişim Başkanlığının 2 Ekim açıklamasına göre çalışmalar, Sermaye Piyasası Kurulunun 30 Eylül kararları çerçevesinde yürütülüyor. Sermaye Piyasası Kanunu'nda değişiklik öngören taslağın tamamlanması için ilgili kurumlara talimat verildi. Düzenlemelerde vatandaşlara ek yük getirilmemesi yaklaşımı vurgulandı.",
+          "full_text_sources": [
+            {
+              "name": "Cumhurbaşkanlığı İletişim Başkanlığı",
+              "url": "https://www.iletisim.gov.tr/turkce/haberler/detay/ikincil-duzenlemeler-ve-odeme-takviminin-ele-alindigi-ikinci-fon-kurulu-toplantisina-iliskin-aciklama",
+              "published_at": "2026-10-02"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Fon Kurulunda düzenleme ve ödeme takvimi görüşüldü",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
           },
-          "full_text": "Türkiye'de, fon piyasasının belirli bir bölümünde yaşanan sorunlara ilişkin düzenleme çalışmaları sürüyor. Cumhurbaşkanlığı İletişim Başkanlığının 2 Ekim tarihli açıklamasına göre, Cevdet Yılmaz başkanlığındaki İkinci Fon Kurulu Toplantısı'nda net yatırım tutarının hesaplanma yöntemi, ödemelere ilişkin ikincil düzenlemeler ve ödeme takvimi görüşüldü. Çalışmalar, Sermaye Piyasası Kurulunun 30 Eylül kararları çerçevesinde yürütülüyor. Sermaye Piyasası Kanunu'nda değişiklik öngören taslağa son şeklinin verilmesi için ilgili kurumlara talimat verildi. Açıklamada vatandaşlara ek yük getirilmemesi yaklaşımı vurgulandı. Bununla birlikte, yayımlanan metinde yatırımcılar için somut bir ödeme günü açıklanmadı. Takvimin görüşülmesi, kesin ödeme tarihinin ilan edildiği anlamına gelmiyor."
+          "metadata": {
+            "event_date": "2026-10-02",
+            "kind": "main"
+          }
         },
         {
-          "id": "morning-20261004-eylul-ihracat",
+          "id": "morning-20261004-test-eylul-ihracat",
           "category": "ekonomi",
-          "title": "Eylül ihracatında otomotiv ilk sırada",
-          "summary": "Otomotiv endüstrisi eylülde 3,94 milyar dolarlık ihracatla sektörler arasında ilk sırayı aldı.",
-          "what_happened": "İhracatta eylül ayının sektör lideri otomotiv oldu. Anadolu Ajansının 3 Ekim'de Türkiye İhracatçılar Meclisi verilerinden aktardığına göre, otomotiv endüstrisinin aylık ihracatı 3 milyar 940 milyon dolara ulaştı. Kimyevi maddeler ve mamulleri yaklaşık 3 milyar 68 milyon dolarla ikinci, elektrik ve elektronik yaklaşık 2 milyar 63 milyon dolarla üçüncü sırada. Sanayi grubunun ihracatı, geçen yılın aynı ayına göre yüzde 16,8 artarak 18,8 milyar doları geçti. En çok ihracat yapılan ülkeler Almanya, Amerika Birleşik Devletleri ve Birleşik Krallık olarak sıralandı. En çok ihracat yapan iller ise İstanbul, Kocaeli ve Ankara oldu. Bu veriler tamamlanan eylül ayının dış satım tablosunu gösteriyor.",
+          "title": "Eylülde ihracatın lideri otomotiv oldu",
+          "summary": "Otomotiv sektörü eylülde 3,94 milyar dolarlık ihracatla ilk sırada yer aldı.",
+          "what_happened": "Otomotiv sektörü eylülde 3,94 milyar dolarlık ihracatla ilk sırada yer aldı.",
           "sources": [
             {
               "name": "Anadolu Ajansı — TİM verileri",
@@ -41,17 +119,62 @@
               "published_at": "2026-10-03"
             }
           ],
-          "metadata": {
-            "data_period": "2026-09-01 / 2026-09-30"
+          "full_text": "Eylül ihracatında otomotiv ilk sırada. Anadolu Ajansının Türkiye İhracatçılar Meclisi verilerinden aktardığına göre sektörün ihracatı 3 milyar 940 milyon dolara ulaştı. Kimyevi maddeler ve mamulleri yaklaşık 3 milyar 68 milyon dolarla ikinci, elektrik ve elektronik 2 milyar 63 milyon dolarla üçüncü oldu. Sanayi grubunun dış satımı geçen yılın aynı ayına göre yüzde 16,8 artarak 18,8 milyar doları geçti. En çok ihracat yapılan ülkeler Almanya, Amerika Birleşik Devletleri ve Birleşik Krallık; en çok ihracat yapan iller İstanbul, Kocaeli ve Ankara oldu.",
+          "full_text_sources": [
+            {
+              "name": "Anadolu Ajansı — TİM verileri",
+              "url": "https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisi-eylulde-yaklasik-4-milyar-dolarlik-ihracatla-ilk-sirada-yer-aldi/4076904",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Eylülde ihracatın lideri otomotiv oldu",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
           },
-          "full_text": "İhracatta eylül ayının sektör lideri otomotiv oldu. Anadolu Ajansının 3 Ekim'de Türkiye İhracatçılar Meclisi verilerinden aktardığına göre, otomotiv endüstrisinin aylık ihracatı 3 milyar 940 milyon dolara ulaştı. Kimyevi maddeler ve mamulleri yaklaşık 3 milyar 68 milyon dolarla ikinci, elektrik ve elektronik yaklaşık 2 milyar 63 milyon dolarla üçüncü sırada. Sanayi grubunun ihracatı, geçen yılın aynı ayına göre yüzde 16,8 artarak 18,8 milyar doları geçti. En çok ihracat yapılan ülkeler Almanya, Amerika Birleşik Devletleri ve Birleşik Krallık olarak sıralandı. En çok ihracat yapan iller ise İstanbul, Kocaeli ve Ankara oldu. Bu veriler tamamlanan eylül ayının dış satım tablosunu gösteriyor."
+          "metadata": {
+            "data_period": "Eylül 2026",
+            "kind": "main"
+          }
         },
         {
-          "id": "morning-20261004-trump-iran",
+          "id": "morning-20261004-test-fao-gida",
+          "category": "ekonomi",
+          "title": "FAO gıda fiyat endeksi eylülde yükseldi",
+          "summary": "FAO’nun uluslararası gıda fiyat endeksi eylülde aylık yüzde 1,5 artışla 136 puana yükseldi.",
+          "what_happened": "FAO’nun uluslararası gıda fiyat endeksi eylülde aylık yüzde 1,5 artışla 136 puana yükseldi.",
+          "sources": [
+            {
+              "name": "FAO — Food Price Index",
+              "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+              "published_at": "2026-10-02"
+            }
+          ],
+          "full_text": "Küresel gıda fiyatlarında ise yükseliş var. Birleşmiş Milletler Gıda ve Tarım Örgütünün 2 Ekim'de yayımladığı endeks, eylülde aylık yüzde 1,5 artarak 136 puana çıktı. Yıllık artış yüzde 5,8. Tahıl, bitkisel yağ ve şeker fiyatları yükselirken et fiyatları geriledi; süt ürünleri genel olarak yatay kaldı. Tahıl grubundaki aylık artış yüzde 5,1'i buldu. FAO, Karadeniz'deki lojistik kısıtları ve bazı üretim bölgelerindeki kuraklığı öne çıkarıyor. Hürmüz üzerinden taşımacılıktaki belirsizlik de yakıt, gübre ve navlun maliyetlerine ilişkin kaygıları canlı tutuyor.",
+          "full_text_sources": [
+            {
+              "name": "FAO — Food Price Index",
+              "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+              "published_at": "2026-10-02"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "FAO gıda fiyat endeksi eylülde yükseldi",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
+          },
+          "metadata": {
+            "data_period": "Eylül 2026",
+            "new_in_test": true,
+            "kind": "main"
+          }
+        },
+        {
+          "id": "morning-20261004-test-trump-iran",
           "category": "dunya",
-          "title": "Trump, İran konusunda karar aşamasında olduğunu söyledi",
-          "summary": "Trump, İran konusunda karar aşamasında olduğunu belirtirken yeni bir kararın ayrıntılarını açıklamadı.",
-          "what_happened": "Dünya gündeminde Amerika Birleşik Devletleri Başkanı Donald Trump'ın İran açıklaması var. Anadolu Ajansının 4 Ekim tarihli haberine göre Trump, Ohio'daki mitingine gitmeden önce Beyaz Saray'da gazetecilerin sorularını yanıtladı. İran konusunda karar verme aşamasında olduğunu söyledi; sürecin kolay ya da zor bir yolla ilerleyebileceği mesajını verdi. İran'ın nükleer silah edinme planlarından fiilen vazgeçtiği yönünde de bir değerlendirme yaptı. Bu son ifade Trump'ın açıklaması; bağımsız biçimde doğrulanmış bir sonuç olarak aktarılmıyor. Haberde yeni bir anlaşmanın imzalandığına veya yeni bir askerî operasyonun başladığına dair bilgi yer almıyor.",
+          "title": "Trump, İran konusunda karar aşamasında",
+          "summary": "Trump, İran konusunda karar verme aşamasında olduğunu söyledi.",
+          "what_happened": "Trump, İran konusunda karar verme aşamasında olduğunu söyledi.",
           "sources": [
             {
               "name": "Anadolu Ajansı",
@@ -59,18 +182,62 @@
               "published_at": "2026-10-04"
             }
           ],
+          "full_text": "Dünya gündeminde Donald Trump'ın İran açıklaması var. Anadolu Ajansının 4 Ekim tarihli haberine göre Amerika Birleşik Devletleri Başkanı, Ohio'daki mitingine gitmeden önce Beyaz Saray'da soruları yanıtladı. İran konusunda karar aşamasında olduğunu, sürecin kolay ya da zor bir yolla ilerleyebileceğini söyledi. İran'ın nükleer silah edinme planlarından fiilen vazgeçtiği yönündeki kendi değerlendirmesini de paylaştı.",
+          "full_text_sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-ilgili-karar-asamasinda-oldugunu-belirtti/4077325",
+              "published_at": "2026-10-04"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Trump, İran konusunda karar aşamasında",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
+          },
           "metadata": {
             "event_date": null,
-            "source_caveat": "Nükleer silah planlarına ilişkin ifade Trump’ın değerlendirmesidir; bağımsız doğrulanmış sonuç değildir."
-          },
-          "full_text": "Dünya gündeminde Amerika Birleşik Devletleri Başkanı Donald Trump'ın İran açıklaması var. Anadolu Ajansının 4 Ekim tarihli haberine göre Trump, Ohio'daki mitingine gitmeden önce Beyaz Saray'da gazetecilerin sorularını yanıtladı. İran konusunda karar verme aşamasında olduğunu söyledi; sürecin kolay ya da zor bir yolla ilerleyebileceği mesajını verdi. İran'ın nükleer silah edinme planlarından fiilen vazgeçtiği yönünde de bir değerlendirme yaptı. Bu son ifade Trump'ın açıklaması; bağımsız biçimde doğrulanmış bir sonuç olarak aktarılmıyor. Haberde yeni bir anlaşmanın imzalandığına veya yeni bir askerî operasyonun başladığına dair bilgi yer almıyor."
+            "kind": "main"
+          }
         },
         {
-          "id": "morning-20261004-gazze-saglik",
+          "id": "morning-20261004-test-mekelle-havalimani",
+          "category": "dunya",
+          "title": "Mekelle Havalimanı’nın kontrolü değişti",
+          "summary": "AA, Etiyopya’da hükümet yanlısı güçlerin Mekelle Havalimanı’nı yeniden kontrol altına aldığını bildirdi.",
+          "what_happened": "AA, Etiyopya’da hükümet yanlısı güçlerin Mekelle Havalimanı’nı yeniden kontrol altına aldığını bildirdi.",
+          "sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/dunya/etiyopyada-hukumet-yanlisi-gucler-mekelle-havalimanini-ele-gecirdi/4077314",
+              "published_at": "2026-10-04"
+            }
+          ],
+          "full_text": "Etiyopya'nın kuzeyindeki Tigray bölgesinde, Mekelle Havalimanı'nın kontrolü değişti. Anadolu Ajansının 4 Ekim haberine göre hükümet yanlısı güçler, Alula Aba Nega Havalimanı'nı yeniden ele geçirdiklerini açıkladı; ajansın görüştüğü kaynaklar da gelişmeyi doğruladı. Havalimanı, çatışmaların şiddetlendiği 23 Eylül'den beri Tigray Halk Kurtuluş Cephesi öncülüğündeki güçlerdeydi. O dönemde Ethiopian Airlines bölgedeki üç noktaya uçuşları durdurmuştu. Çatışmalar, 2022 Pretoria Barış Anlaşması'nın geleceğine ilişkin kaygıları artırıyor.",
+          "full_text_sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/dunya/etiyopyada-hukumet-yanlisi-gucler-mekelle-havalimanini-ele-gecirdi/4077314",
+              "published_at": "2026-10-04"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Mekelle Havalimanı’nın kontrolü değişti",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
+          },
+          "metadata": {
+            "event_date": null,
+            "new_in_test": true,
+            "kind": "main"
+          }
+        },
+        {
+          "id": "morning-20261004-test-gazze-saglik",
           "category": "saglik",
-          "title": "DSÖ, Gazze’de sağlık malzemelerinin geciktiğini bildirdi",
-          "summary": "DSÖ, Gazze’de tam işlevsel hastane bulunmadığını ve tıbbi malzemelerin onayında ortanca bekleme süresinin 74 gün olduğunu açıkladı.",
-          "what_happened": "Gazze'de ise sağlık yardımlarının ulaştırılmasındaki sorunlar devam ediyor. Dünya Sağlık Örgütünün işgal altındaki Filistin toprakları temsilcisi, 2 Ekim'deki Birleşmiş Milletler Cenevre brifinginde, Gazze'de tam kapasite çalışan hiçbir hastane bulunmadığını açıkladı. Bunun başlıca nedenleri arasında ilaç ve tıbbi malzeme eksikliği gösteriliyor. Örgütün incelemesine göre, İsrail makamlarının onayını bekleyen tıbbi malzemeler için ortanca bekleme süresi 74 gün. Laboratuvar ve tanı ekipmanlarının yüzde 40'ı hâlâ onay bekliyor. Röntgen cihazları, sterilizasyon ekipmanları ve bilgisayarlı tomografi cihazlarının yedek parçaları geciken veya reddedilen malzemeler arasında. Örgüt, sağlık malzemelerinin düzenli, öngörülebilir ve ihtiyaçları karşılayacak ölçekte girişine izin verilmesini istedi. Malzeme onay alsa bile sonraki kontroller ve gecikmelerin sevkiyatı aksatabildiğini de belirtti.",
+          "title": "Gazze’de sağlık malzemeleri onay bekliyor",
+          "summary": "DSÖ, tıbbi malzemeler için ortanca onay bekleme süresini 74 gün olarak açıkladı.",
+          "what_happened": "DSÖ, tıbbi malzemeler için ortanca onay bekleme süresini 74 gün olarak açıkladı.",
           "sources": [
             {
               "name": "BM Cenevre — 2 Ekim 2026 DSÖ brifingi",
@@ -78,64 +245,157 @@
               "published_at": "2026-10-02"
             }
           ],
-          "metadata": {
-            "event_date": "2026-10-02"
-          },
-          "full_text": "Gazze'de ise sağlık yardımlarının ulaştırılmasındaki sorunlar devam ediyor. Dünya Sağlık Örgütünün işgal altındaki Filistin toprakları temsilcisi, 2 Ekim'deki Birleşmiş Milletler Cenevre brifinginde, Gazze'de tam kapasite çalışan hiçbir hastane bulunmadığını açıkladı. Bunun başlıca nedenleri arasında ilaç ve tıbbi malzeme eksikliği gösteriliyor. Örgütün incelemesine göre, İsrail makamlarının onayını bekleyen tıbbi malzemeler için ortanca bekleme süresi 74 gün. Laboratuvar ve tanı ekipmanlarının yüzde 40'ı hâlâ onay bekliyor. Röntgen cihazları, sterilizasyon ekipmanları ve bilgisayarlı tomografi cihazlarının yedek parçaları geciken veya reddedilen malzemeler arasında. Örgüt, sağlık malzemelerinin düzenli, öngörülebilir ve ihtiyaçları karşılayacak ölçekte girişine izin verilmesini istedi. Malzeme onay alsa bile sonraki kontroller ve gecikmelerin sevkiyatı aksatabildiğini de belirtti."
-        },
-        {
-          "id": "morning-20261004-doviz",
-          "category": "ekonomi",
-          "title": "Pazar için son TCMB döviz referansı cuma gününden",
-          "summary": "2 Ekim TCMB gösterge döviz satış kuru dolarda 49,0582 TL, euroda 55,1819 TL oldu.",
-          "what_happened": "Piyasalarda pazar sabahının referans rakamlarına bakalım. Merkez Bankasının 2 Ekim Cuma günü için ilan ettiği gösterge kurlarında doların döviz alış fiyatı yaklaşık 48 lira 97 kuruş, satış fiyatı 49 lira 6 kuruş. Euroda alış yaklaşık 55 lira 8 kuruş, satış ise 55 lira 18 kuruş. Bunlar cuma gününe ait resmî gösterge kurları. Pazar sabahında bir bankada veya döviz bürosunda uygulanacak işlem fiyatları farklı olabilir. Nakit işlemlerde kullanılan efektif kurlar da döviz kurlarından ayrı yayımlanıyor.",
-          "sources": [
+          "full_text": "Gazze'de sağlık malzemelerine erişim sorunu sürüyor. Dünya Sağlık Örgütü, 2 Ekim'deki Birleşmiş Milletler Cenevre brifinginde, ilaç ve malzeme eksikliği nedeniyle tam kapasite çalışan hiçbir hastane bulunmadığını açıkladı. İsrail makamlarının onayını bekleyen tıbbi malzemelerde ortanca bekleme süresi 74 gün. Laboratuvar ve tanı ekipmanlarının yüzde 40'ı hâlâ onay bekliyor. Röntgen cihazları, sterilizasyon ekipmanları ve tomografi cihazlarının yedek parçaları geciken malzemeler arasında. Örgüt, düzenli ve ihtiyaçları karşılayacak ölçekte malzeme girişine izin verilmesini istedi.",
+          "full_text_sources": [
             {
-              "name": "TCMB — e-Devlet günlük döviz kurları",
-              "url": "https://www.turkiye.gov.tr/doviz-kurlari",
+              "name": "BM Cenevre — 2 Ekim 2026 DSÖ brifingi",
+              "url": "https://www.unognewsroom.org/teleprompter/en/3283/un-geneva-press-briefing-02-october2026/9734",
               "published_at": "2026-10-02"
             }
           ],
-          "metadata": {
-            "data_date": "2026-10-02",
-            "usd_buy_try": 48.9699,
-            "usd_sell_try": 49.0582,
-            "eur_buy_try": 55.0826,
-            "eur_sell_try": 55.1819,
-            "quote_type": "TCMB gösterge döviz kuru; canlı piyasa veya kapanış değildir",
-            "narration_rounding": "Kuruş düzeyine yuvarlandı"
+          "full_text_metadata": {
+            "original_title": "Gazze’de sağlık malzemeleri onay bekliyor",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
           },
-          "full_text": "Piyasalarda pazar sabahının referans rakamlarına bakalım. Merkez Bankasının 2 Ekim Cuma günü için ilan ettiği gösterge kurlarında doların döviz alış fiyatı yaklaşık 48 lira 97 kuruş, satış fiyatı 49 lira 6 kuruş. Euroda alış yaklaşık 55 lira 8 kuruş, satış ise 55 lira 18 kuruş. Bunlar cuma gününe ait resmî gösterge kurları. Pazar sabahında bir bankada veya döviz bürosunda uygulanacak işlem fiyatları farklı olabilir. Nakit işlemlerde kullanılan efektif kurlar da döviz kurlarından ayrı yayımlanıyor."
+          "metadata": {
+            "event_date": "2026-10-02",
+            "kind": "main"
+          }
         },
         {
-          "id": "morning-20261004-gram-altin",
-          "category": "ekonomi",
-          "title": "Gram altının cuma gecesi referans kotasyonu",
-          "summary": "Midas/Foreks’in 2 Ekim 23.59 kaydında gram altın alış 6.541,91 TL, satış 6.542,72 TL göründü.",
-          "what_happened": "Altında, Midas'ın Foreks verileriyle yayımladığı ekranın 2 Ekim, saat 23.59 zaman damgalı kaydında gram altın alış fiyatı 6 bin 541 lira 91 kuruş, satış fiyatı 6 bin 542 lira 72 kuruş görünüyor. Bu, gecikmeli bir piyasa kotasyonu. Borsa İstanbul'un resmî kapanış fiyatı veya bugün bir kuyumcuda uygulanacak kesin satış fiyatı değil. Döviz ve altında rakamları karşılaştırırken veri tarihiyle birlikte alış ve satış ayrımını da dikkate almak gerekiyor.",
+          "id": "morning-20261004-test-multeci-egitim",
+          "category": "dunya",
+          "title": "5,8 milyon mülteci çocuk eğitim dışında kaldı",
+          "summary": "UNHCR’nin 2025 verileri, okul çağındaki mülteci çocukların yüzde 44’ünün okula gidemediğini gösterdi.",
+          "what_happened": "UNHCR’nin 2025 verileri, okul çağındaki mülteci çocukların yüzde 44’ünün okula gidemediğini gösterdi.",
           "sources": [
             {
-              "name": "Midas — Foreks serbest piyasa altın verileri",
-              "url": "https://www.getmidas.com/altin/kapali-carsi-altin/",
+              "name": "BM Cenevre — UNHCR eğitim raporu sunumu",
+              "url": "https://www.unognewsroom.org/teleprompter/en/3283/un-geneva-press-briefing-02-october2026/9734",
+              "published_at": "2026-10-02"
+            },
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/ayrimcilikhatti/ayrimcilik/bm-2025te-dunya-genelinde-yaklasik-6-milyon-multeci-cocuk-okula-gidemedi/1832720",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text": "Birleşmiş Milletlerin yeni mülteci eğitimi raporu da önemli bir açığı ortaya koyuyor. 2 Ekim'de Cenevre'de açıklanan 2025 verilerine göre, 5,8 milyon mülteci çocuk okula gidemedi. Bu, okul çağındaki mülteci çocukların yüzde 44'ü demek. İlköğretimde kayıt oranı yüzde 65, ortaöğretimde yüzde 32. Yükseköğretimde ise oran yüzde 11'e çıktı ve kayıtlı mülteci sayısı 450 bini aştı. Birleşmiş Milletler Mülteciler Yüksek Komiserliği, insani yardım ve kalkınma bütçelerindeki kesintilerin eğitimde elde edilen kazanımları tehlikeye attığını vurguluyor.",
+          "full_text_sources": [
+            {
+              "name": "BM Cenevre — UNHCR eğitim raporu sunumu",
+              "url": "https://www.unognewsroom.org/teleprompter/en/3283/un-geneva-press-briefing-02-october2026/9734",
+              "published_at": "2026-10-02"
+            },
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/ayrimcilikhatti/ayrimcilik/bm-2025te-dunya-genelinde-yaklasik-6-milyon-multeci-cocuk-okula-gidemedi/1832720",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "5,8 milyon mülteci çocuk eğitim dışında kaldı",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
+          },
+          "metadata": {
+            "data_period": "2025",
+            "announcement_date": "2026-10-02",
+            "new_in_test": true,
+            "kind": "main"
+          }
+        },
+        {
+          "id": "morning-20261004-test-piyasa",
+          "category": "ekonomi",
+          "title": "Dolar, gram altın ve BIST 100 kısa görünüm",
+          "summary": "Dolar 49,09/49,18 TL, gram altın yuvarlanmış 6.542/6.543 TL; BIST 100 son kapanışı 12.270,18 puan.",
+          "what_happened": "Dolar 49,09/49,18 TL, gram altın yuvarlanmış 6.542/6.543 TL; BIST 100 son kapanışı 12.270,18 puan.",
+          "sources": [
+            {
+              "name": "Bloomberg HT — Foreks USD/TRY",
+              "url": "https://www.bloomberght.com/doviz/dolar",
+              "published_at": null
+            },
+            {
+              "name": "Bloomberg HT — Foreks gram altın XGLD",
+              "url": "https://www.bloomberght.com/altin/gram-altin",
+              "published_at": null
+            },
+            {
+              "name": "Bloomberg HT — BIST 100",
+              "url": "https://www.bloomberght.com/borsa/endeks/bist-100",
+              "published_at": null
+            },
+            {
+              "name": "Bloomberg HT — 2 Ekim kapanış özeti",
+              "url": "https://www.bloomberght.com/piyasa-ozeti-2-ekim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3790224",
+              "published_at": "2026-10-02"
+            },
+            {
+              "name": "Midas — Foreks gram altın",
+              "url": "https://www.getmidas.com/altin/gram-altin/",
               "published_at": null
             }
           ],
-          "metadata": {
-            "data_date": "2026-10-02",
-            "displayed_data_time": "23:59",
-            "data_timezone": null,
-            "buy_try": 6541.91,
-            "sell_try": 6542.72,
-            "source_caveat": "En az 15 dakika gecikmeli kotasyon; Borsa İstanbul resmî kapanışı veya bugünkü kuyumcu fiyatı değildir."
+          "full_text": "Hafta sonu ekranında dolar alış 49 lira 9 kuruş, satış 49 lira 18 kuruş. Gram altın alış 6 bin 542, satış 6 bin 543 lira. BİST yüzün 2 Ekim Cuma kapanışı 12 bin 270 virgül 18 puan.",
+          "full_text_sources": [
+            {
+              "name": "Bloomberg HT — Foreks USD/TRY",
+              "url": "https://www.bloomberght.com/doviz/dolar",
+              "published_at": null
+            },
+            {
+              "name": "Bloomberg HT — Foreks gram altın XGLD",
+              "url": "https://www.bloomberght.com/altin/gram-altin",
+              "published_at": null
+            },
+            {
+              "name": "Bloomberg HT — BIST 100",
+              "url": "https://www.bloomberght.com/borsa/endeks/bist-100",
+              "published_at": null
+            },
+            {
+              "name": "Bloomberg HT — 2 Ekim kapanış özeti",
+              "url": "https://www.bloomberght.com/piyasa-ozeti-2-ekim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3790224",
+              "published_at": "2026-10-02"
+            },
+            {
+              "name": "Midas — Foreks gram altın",
+              "url": "https://www.getmidas.com/altin/gram-altin/",
+              "published_at": null
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Dolar, gram altın ve BIST 100 kısa görünüm",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
           },
-          "full_text": "Altında, Midas'ın Foreks verileriyle yayımladığı ekranın 2 Ekim, saat 23.59 zaman damgalı kaydında gram altın alış fiyatı 6 bin 541 lira 91 kuruş, satış fiyatı 6 bin 542 lira 72 kuruş görünüyor. Bu, gecikmeli bir piyasa kotasyonu. Borsa İstanbul'un resmî kapanış fiyatı veya bugün bir kuyumcuda uygulanacak kesin satış fiyatı değil. Döviz ve altında rakamları karşılaştırırken veri tarihiyle birlikte alış ve satış ayrımını da dikkate almak gerekiyor."
+          "metadata": {
+            "usd_buy": 49.09,
+            "usd_sell": 49.18,
+            "usd_displayed_updated_at": "2026-10-04 07:51:40",
+            "gold_buy_unrounded": 6541.91,
+            "gold_sell_unrounded": 6542.72,
+            "gold_buy_rounded": 6542,
+            "gold_sell_rounded": 6543,
+            "gold_displayed_updated_at": "2026-10-04 07:58:02",
+            "displayed_timestamp_timezone": null,
+            "midas_gold_quote_at": "2026-10-02 23:59",
+            "bist100_close": 12270.18,
+            "bist100_session_date": "2026-10-02",
+            "quote_class": "Foreks piyasa ekranı; TCMB gösterge kuru değildir",
+            "source_caveat": "Hafta sonu ekran güncellemesi yeni işlem gerçekleştiğini göstermez. Midas altın kaydı en az 15 dakika gecikmelidir; fiyatların uygulanabilirliği garanti edilmez.",
+            "kind": "extra"
+          }
         },
         {
-          "id": "morning-20261004-tokat-hava",
+          "id": "morning-20261004-test-tokat-hava",
           "category": "hava",
-          "title": "Tokat’ta serin sabah, öğleden sonra 20 derece",
-          "summary": "MGM, 4 Ekim’de Tokat merkez için az bulutlu hava ve öğleden sonra 20 derece tahmin ediyor.",
-          "what_happened": "Tokat'ta güne serin başlayıp öğleden sonra belirgin biçimde ısınıyoruz. Meteoroloji Genel Müdürlüğünün 4 Ekim Pazar gününe ait saatlik tahmininde, sabah dokuzda 10 derece, öğlen 16 derece, saat üçte 20 derece bekleniyor. Akşam altıda sıcaklığın 15, gece dokuzda 11 dereceye inmesi öngörülüyor. Gündüz az bulutlu bir hava tahmin ediliyor. Ortalama rüzgâr saatte 4 ile 10 kilometre arasında; bazı saatlerde hamleler 30 kilometreye ulaşabilir. Bunlar Tokat merkez için tahmin değerleri. Sabah erken çıkıp akşam dönecekler için çıkarılıp giyilebilen bir üst katman pratik olabilir.",
+          "title": "Tokat’ta az bulutlu ve öğleden sonra 20 derece",
+          "summary": "MGM, Tokat merkezde 4 Ekim günü az bulutlu hava ve öğleden sonra 20 derece tahmin ediyor.",
+          "what_happened": "MGM, Tokat merkezde 4 Ekim günü az bulutlu hava ve öğleden sonra 20 derece tahmin ediyor.",
           "sources": [
             {
               "name": "Meteoroloji Genel Müdürlüğü — Tokat saatlik tahmin",
@@ -148,20 +408,37 @@
               "published_at": null
             }
           ],
+          "full_text": "Tokat'ta bugün az bulutlu bir hava bekleniyor. Meteoroloji Genel Müdürlüğünün saatlik tahmininde sabah dokuzda 10, öğlen 16, öğleden sonra üçte 20 derece var. Akşam altıda 15, gece dokuzda 11 dereceye düşmesi bekleniyor. Ortalama rüzgâr saatte 4 ile 10 kilometre; bazı saatlerde hamleler 30 kilometreye ulaşabilir.",
+          "full_text_sources": [
+            {
+              "name": "Meteoroloji Genel Müdürlüğü — Tokat saatlik tahmin",
+              "url": "https://www.mgm.gov.tr/tahmin/saatlik.aspx?m=TOKAT",
+              "published_at": null
+            },
+            {
+              "name": "Meteoroloji Genel Müdürlüğü — Hava simgeleri",
+              "url": "https://www.mgm.gov.tr/site/yardim1.aspx?=Simgeler",
+              "published_at": null
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Tokat’ta az bulutlu ve öğleden sonra 20 derece",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
+          },
           "metadata": {
             "forecast_date": "2026-10-04",
             "forecast_timezone": "Europe/Istanbul",
-            "forecast_is_observed_weather": false,
-            "source_updated_at": null
-          },
-          "full_text": "Tokat'ta güne serin başlayıp öğleden sonra belirgin biçimde ısınıyoruz. Meteoroloji Genel Müdürlüğünün 4 Ekim Pazar gününe ait saatlik tahmininde, sabah dokuzda 10 derece, öğlen 16 derece, saat üçte 20 derece bekleniyor. Akşam altıda sıcaklığın 15, gece dokuzda 11 dereceye inmesi öngörülüyor. Gündüz az bulutlu bir hava tahmin ediliyor. Ortalama rüzgâr saatte 4 ile 10 kilometre arasında; bazı saatlerde hamleler 30 kilometreye ulaşabilir. Bunlar Tokat merkez için tahmin değerleri. Sabah erken çıkıp akşam dönecekler için çıkarılıp giyilebilen bir üst katman pratik olabilir."
+            "source_updated_at": null,
+            "kind": "extra"
+          }
         },
         {
-          "id": "morning-20261004-yangin-bulutlari",
+          "id": "morning-20261004-test-yangin-bulutlari",
           "category": "bilim",
-          "title": "NASA, yangınların ürettiği bulutları araştırıyor",
-          "summary": "NASA’nın INSPYRE çalışması, yangın kaynaklı bulutların dumanı yüksek atmosfere taşımasını ve tehlikeli rüzgârlar üretmesini inceliyor.",
-          "what_happened": "Bilimden son notumuz, yangınların kendi hava olaylarını oluşturabilmesi üzerine. NASA'nın 2 Ekim'de yayımladığı habere göre, INSPYRE araştırma ekibi bu yaz Kuzey Amerika'da yangınların ürettiği büyük bulutları uçaklar ve yer sensörleriyle inceledi. Pirokümülonimbüs adı verilen bu bulutlar, dumanı 10 ila 15 kilometre yüksekliğe, hatta stratosfere taşıyabiliyor. Yıldırım ve yağmur oluşturabildikleri gibi, yangını şiddetlendirebilen güçlü rüzgârlar da üretebiliyorlar. Duman atmosferin bu üst katmanına ulaştığında, yangının çıktığı bölgeden çok uzaklara yayılabiliyor ve alt atmosferdekinden daha uzun süre kalabiliyor.\n\nAraştırmacılar uçuşlarda duman parçacıkları ve gazlardan örnek aldı; buz kristallerini görüntüledi ve bulutlardan geçen ışınımı ölçtü. Bu ölçümler şimdi uydu ve yer gözlemleriyle bir araya getirilerek bilgisayar modelleriyle karşılaştırılacak. Amaç, hangi koşullarda bu bulutların oluştuğunu daha iyi anlamak. İleride geliştirilebilecek uyarılar, tehlikeli rüzgâr değişimlerinden önce itfaiye ekiplerinin güvenli bölgeye çekilmesine yardımcı olabilir. Henüz kullanıma hazır yeni bir erken uyarı sisteminin ilan edildiği söylenmiyor. Buradaki güncel haber, 2 Ekim'de yayımlanan araştırma anlatımı; saha çalışmaları 2026 yazında yapıldı.",
+          "title": "NASA, yangınların ürettiği bulutları inceliyor",
+          "summary": "INSPYRE çalışması, yangın bulutlarının dumanı yüksek atmosfere taşımasını ve tehlikeli rüzgârlar üretmesini araştırıyor.",
+          "what_happened": "INSPYRE çalışması, yangın bulutlarının dumanı yüksek atmosfere taşımasını ve tehlikeli rüzgârlar üretmesini araştırıyor.",
           "sources": [
             {
               "name": "NASA Science — Yangınların ürettiği bulutları inceleyen INSPYRE araştırması",
@@ -169,19 +446,31 @@
               "published_at": "2026-10-02"
             }
           ],
-          "metadata": {
-            "publication_date": "2026-10-02",
-            "fieldwork_period": "2026 yazı",
-            "operational_warning_system_announced": false
+          "full_text": "Bilim notumuz, yangınların oluşturduğu büyük bulutlar üzerine. NASA'nın INSPYRE ekibi, Kuzey Amerika'da yangın kaynaklı pirokümülonimbüs bulutlarını uçaklar ve yer sensörleriyle inceledi. Bu bulutlar dumanı 10 ila 15 kilometre yüksekliğe, hatta stratosfere taşıyabiliyor. Yıldırım, yağmur ve yangını şiddetlendiren rüzgârlar da oluşturabiliyorlar. Araştırmacılar duman parçacıkları, gazlar, buz kristalleri ve ışınım hakkında ölçümler topladı. Şimdi bunlar uydu gözlemleri ve bilgisayar modelleriyle karşılaştırılacak. Hedef, bu olayları daha iyi öngörerek itfaiye ekiplerine tehlikeli rüzgâr değişimlerinden önce uyarı verebilmek.",
+          "full_text_sources": [
+            {
+              "name": "NASA Science — Yangınların ürettiği bulutları inceleyen INSPYRE araştırması",
+              "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
+              "published_at": "2026-10-02"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "NASA, yangınların ürettiği bulutları inceliyor",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
           },
-          "full_text": "Bilimden son notumuz, yangınların kendi hava olaylarını oluşturabilmesi üzerine. NASA'nın 2 Ekim'de yayımladığı habere göre, INSPYRE araştırma ekibi bu yaz Kuzey Amerika'da yangınların ürettiği büyük bulutları uçaklar ve yer sensörleriyle inceledi. Pirokümülonimbüs adı verilen bu bulutlar, dumanı 10 ila 15 kilometre yüksekliğe, hatta stratosfere taşıyabiliyor. Yıldırım ve yağmur oluşturabildikleri gibi, yangını şiddetlendirebilen güçlü rüzgârlar da üretebiliyorlar. Duman atmosferin bu üst katmanına ulaştığında, yangının çıktığı bölgeden çok uzaklara yayılabiliyor ve alt atmosferdekinden daha uzun süre kalabiliyor.\n\nAraştırmacılar uçuşlarda duman parçacıkları ve gazlardan örnek aldı; buz kristallerini görüntüledi ve bulutlardan geçen ışınımı ölçtü. Bu ölçümler şimdi uydu ve yer gözlemleriyle bir araya getirilerek bilgisayar modelleriyle karşılaştırılacak. Amaç, hangi koşullarda bu bulutların oluştuğunu daha iyi anlamak. İleride geliştirilebilecek uyarılar, tehlikeli rüzgâr değişimlerinden önce itfaiye ekiplerinin güvenli bölgeye çekilmesine yardımcı olabilir. Henüz kullanıma hazır yeni bir erken uyarı sisteminin ilan edildiği söylenmiyor. Buradaki güncel haber, 2 Ekim'de yayımlanan araştırma anlatımı; saha çalışmaları 2026 yazında yapıldı."
+          "metadata": {
+            "fieldwork_period": "2026 yazı",
+            "publication_date": "2026-10-02",
+            "kind": "main"
+          }
         },
         {
-          "id": "morning-20261004-gozlem-yorum",
+          "id": "morning-20261004-test-gozlem-yorum",
           "category": "felsefe",
-          "title": "Gözlem, yorum ve beklentiyi ayırmak",
-          "summary": "Yangın bulutları araştırması, haberleri değerlendirirken ne bildiğimiz kadar bunu nasıl bildiğimize de bakmak için bir düşünce fırsatı sunuyor.",
-          "what_happened": "Bu çalışmadan sabaha küçük bir düşünce payı da kalıyor: Bir olayı açıklarken yalnızca ne olduğuna değil, onu nasıl bildiğimize de bakmak. Gözlem, yorum ve beklenti aynı şey değil. Aralarındaki farkı korumak, hem bilim haberlerini hem gündelik haber akışını daha sakin değerlendirmeyi kolaylaştırabilir.",
+          "title": "Bilgiyi nasıl bildiğimize bakmak",
+          "summary": "Gözlemle yorumu ayırmak, haberleri değerlendirirken kullanılabilecek kısa bir düşünce notu sunuyor.",
+          "what_happened": "Gözlemle yorumu ayırmak, haberleri değerlendirirken kullanılabilecek kısa bir düşünce notu sunuyor.",
           "sources": [
             {
               "name": "NASA Science — Yangınların ürettiği bulutları inceleyen INSPYRE araştırması",
@@ -189,27 +478,214 @@
               "published_at": "2026-10-02"
             }
           ],
-          "metadata": {
-            "content_type": "Editoryal düşünce notu",
-            "source_caveat": "Araştırmadan hareketle yazılmış yorumdur; alıntı veya ayrı bilimsel bulgu değildir."
+          "full_text": "Sabaha küçük bir düşünce: Bir iddiayı değerlendirirken, ne söylendiği kadar bunun hangi gözleme dayandığını da soralım. Gözlemle yorumu ayırmak, bilgiyi tartmanın ilk adımı olabilir.",
+          "full_text_sources": [
+            {
+              "name": "NASA Science — Yangınların ürettiği bulutları inceleyen INSPYRE araştırması",
+              "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
+              "published_at": "2026-10-02"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Bilgiyi nasıl bildiğimize bakmak",
+            "provenance": "4 Ekim 2026 genişletilmiş test bülteninin özgün haber anlatımı",
+            "note": "Kaynaklara dayanılarak yeniden yazılmıştır; kaynak makalelerin tam kopyası değildir."
           },
-          "full_text": "Bu çalışmadan sabaha küçük bir düşünce payı da kalıyor: Bir olayı açıklarken yalnızca ne olduğuna değil, onu nasıl bildiğimize de bakmak. Gözlem, yorum ve beklenti aynı şey değil. Aralarındaki farkı korumak, hem bilim haberlerini hem gündelik haber akışını daha sakin değerlendirmeyi kolaylaştırabilir."
+          "metadata": {
+            "content_type": "Editoryal düşünce notu; ayrı bilimsel sonuç değildir",
+            "kind": "extra"
+          }
+        },
+        {
+          "id": "morning-20261004-test-brief-1",
+          "category": "turkiye",
+          "title": "16 ilde DEAŞ operasyonu",
+          "summary": "İçişleri Bakanlığı, DEAŞ'a üyelik, finansman ve propaganda iddiaları kapsamında jandarmanın 16 ilde düzenlediği operasyonlarda toplam 51 şüphelinin gözaltına alındığını kamuoyuna duyurdu.",
+          "what_happened": "İçişleri Bakanlığı, DEAŞ'a üyelik, finansman ve propaganda iddiaları kapsamında jandarmanın 16 ilde düzenlediği operasyonlarda toplam 51 şüphelinin gözaltına alındığını kamuoyuna duyurdu.",
+          "sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/gundem/teror-orgutu-deasa-yonelik-16-ilde-duzenlenen-operasyonlarda-51-supheli-yakalandi/4076950",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text": "İçişleri Bakanlığı, DEAŞ'a üyelik, finansman ve propaganda iddiaları kapsamında jandarmanın 16 ilde düzenlediği operasyonlarda toplam 51 şüphelinin gözaltına alındığını kamuoyuna duyurdu.",
+          "full_text_sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/gundem/teror-orgutu-deasa-yonelik-16-ilde-duzenlenen-operasyonlarda-51-supheli-yakalandi/4076950",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "16 ilde DEAŞ operasyonu",
+            "provenance": "4 Ekim 2026 ek test bülteninin özgün tek cümlelik kısa haberi",
+            "note": "Kısa haberin tamamı tek cümledir; ayrı uzun anlatım eklenmemiştir."
+          },
+          "metadata": {
+            "event_date": null,
+            "event_date_note": "Operasyonların kesin günleri kaynakta belirtilmedi; açıklama 3 Ekim tarihli haberde yer alıyor.",
+            "kind": "brief",
+            "new_in_test": true
+          }
+        },
+        {
+          "id": "morning-20261004-test-brief-2",
+          "category": "ekonomi",
+          "title": "Ukrayna'ya enerji ve maden yatırımı",
+          "summary": "ABD Hazine Bakanlığı, ortak yeniden yapılandırma fonunun Ukrayna'da kritik maden projeleri, yerel enerji merkezleri ve batarya depolama sistemleri için yeni yatırımları onayladığını açıkladı.",
+          "what_happened": "ABD Hazine Bakanlığı, ortak yeniden yapılandırma fonunun Ukrayna'da kritik maden projeleri, yerel enerji merkezleri ve batarya depolama sistemleri için yeni yatırımları onayladığını açıkladı.",
+          "sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://h.aa.com.tr/tr/ekonomi/abd-ve-ukrayna-enerji-ve-kritik-mineraller-icin-yeni-yatirimlari-onayladi/4076646",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text": "ABD Hazine Bakanlığı, ortak yeniden yapılandırma fonunun Ukrayna'da kritik maden projeleri, yerel enerji merkezleri ve batarya depolama sistemleri için yeni yatırımları onayladığını açıkladı.",
+          "full_text_sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://h.aa.com.tr/tr/ekonomi/abd-ve-ukrayna-enerji-ve-kritik-mineraller-icin-yeni-yatirimlari-onayladi/4076646",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Ukrayna'ya enerji ve maden yatırımı",
+            "provenance": "4 Ekim 2026 ek test bülteninin özgün tek cümlelik kısa haberi",
+            "note": "Kısa haberin tamamı tek cümledir; ayrı uzun anlatım eklenmemiştir."
+          },
+          "metadata": {
+            "event_date": null,
+            "event_date_note": "Yatırım kararlarının kesin günü belirtilmedi; 3 Ekim tarihli haberde ABD Hazine Bakanlığı açıklaması aktarılıyor.",
+            "kind": "brief",
+            "new_in_test": true
+          }
+        },
+        {
+          "id": "morning-20261004-test-brief-3",
+          "category": "dunya",
+          "title": "Yemen'de çatışmalar yoğunlaştı",
+          "summary": "Yemen'de hükümet güçleriyle Husiler arasındaki çatışmalar Taiz, Cevf ve Sana çevresinde yoğunlaşırken, Yemen ordusu başkentteki askeri hedeflere de hava saldırıları düzenlediğini duyurdu.",
+          "what_happened": "Yemen'de hükümet güçleriyle Husiler arasındaki çatışmalar Taiz, Cevf ve Sana çevresinde yoğunlaşırken, Yemen ordusu başkentteki askeri hedeflere de hava saldırıları düzenlediğini duyurdu.",
+          "sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/dunya/yemende-hukumet-gucleri-ile-husiler-arasinda-catismalar-yogunlasti-/4077319",
+              "published_at": "2026-10-04"
+            }
+          ],
+          "full_text": "Yemen'de hükümet güçleriyle Husiler arasındaki çatışmalar Taiz, Cevf ve Sana çevresinde yoğunlaşırken, Yemen ordusu başkentteki askeri hedeflere de hava saldırıları düzenlediğini duyurdu.",
+          "full_text_sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/dunya/yemende-hukumet-gucleri-ile-husiler-arasinda-catismalar-yogunlasti-/4077319",
+              "published_at": "2026-10-04"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Yemen'de çatışmalar yoğunlaştı",
+            "provenance": "4 Ekim 2026 ek test bülteninin özgün tek cümlelik kısa haberi",
+            "note": "Kısa haberin tamamı tek cümledir; ayrı uzun anlatım eklenmemiştir."
+          },
+          "metadata": {
+            "event_date": "2026-10-03",
+            "event_date_note": "4 Ekim tarihli haber, önceki gün yaşanan çatışmaları aktarıyor; askeri iddialar kaynağına atfedildi.",
+            "kind": "brief",
+            "new_in_test": true
+          }
+        },
+        {
+          "id": "morning-20261004-test-brief-4",
+          "category": "dunya",
+          "title": "İspanya'da ölümcül sel",
+          "summary": "İspanya'nın doğusundaki sellerde bir kişi yaşamını yitirirken 90 kişi kurtarıldı; Valensiya'da eğitime ara verilmesi, 400 binden fazla öğrencinin okula gidememesine yol açtı.",
+          "what_happened": "İspanya'nın doğusundaki sellerde bir kişi yaşamını yitirirken 90 kişi kurtarıldı; Valensiya'da eğitime ara verilmesi, 400 binden fazla öğrencinin okula gidememesine yol açtı.",
+          "sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/dunya/ispanyada-siddetli-yagislarin-neden-oldugu-selde-1-kisi-oldu-90-kisi-kurtarildi/4076676",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text": "İspanya'nın doğusundaki sellerde bir kişi yaşamını yitirirken 90 kişi kurtarıldı; Valensiya'da eğitime ara verilmesi, 400 binden fazla öğrencinin okula gidememesine yol açtı.",
+          "full_text_sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/dunya/ispanyada-siddetli-yagislarin-neden-oldugu-selde-1-kisi-oldu-90-kisi-kurtarildi/4076676",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "İspanya'da ölümcül sel",
+            "provenance": "4 Ekim 2026 ek test bülteninin özgün tek cümlelik kısa haberi",
+            "note": "Kısa haberin tamamı tek cümledir; ayrı uzun anlatım eklenmemiştir."
+          },
+          "metadata": {
+            "event_date": null,
+            "event_date_range": {
+              "start": "2026-10-02",
+              "end": "2026-10-03"
+            },
+            "event_date_note": "3 Ekim tarihli kaynak yağışların iki gündür sürdüğünü belirtiyor; ölüm ve kurtarma işlemlerinin kesin gününü vermiyor.",
+            "kind": "brief",
+            "new_in_test": true
+          }
+        },
+        {
+          "id": "morning-20261004-test-brief-5",
+          "category": "kultur",
+          "title": "Üç TRT ortak yapımı Oscar yolunda",
+          "summary": "TRT ortak yapımları Kesilmiş Bir Ağaç Gibi, Minotaur ve Birdenbire, 2027 Oscar yarışında En İyi Uluslararası Film kategorisi için Türkiye, Fransa ve Japonya'nın aday adayları seçildi.",
+          "what_happened": "TRT ortak yapımları Kesilmiş Bir Ağaç Gibi, Minotaur ve Birdenbire, 2027 Oscar yarışında En İyi Uluslararası Film kategorisi için Türkiye, Fransa ve Japonya'nın aday adayları seçildi.",
+          "sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/kultur/trt-ortak-yapimi-uc-film-turkiye-fransa-ve-japonyanin-oscar-adayi-oldu/4077076",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text": "TRT ortak yapımları Kesilmiş Bir Ağaç Gibi, Minotaur ve Birdenbire, 2027 Oscar yarışında En İyi Uluslararası Film kategorisi için Türkiye, Fransa ve Japonya'nın aday adayları seçildi.",
+          "full_text_sources": [
+            {
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/kultur/trt-ortak-yapimi-uc-film-turkiye-fransa-ve-japonyanin-oscar-adayi-oldu/4077076",
+              "published_at": "2026-10-03"
+            }
+          ],
+          "full_text_metadata": {
+            "original_title": "Üç TRT ortak yapımı Oscar yolunda",
+            "provenance": "4 Ekim 2026 ek test bülteninin özgün tek cümlelik kısa haberi",
+            "note": "Kısa haberin tamamı tek cümledir; ayrı uzun anlatım eklenmemiştir."
+          },
+          "metadata": {
+            "event_date": null,
+            "event_date_note": "Ülke seçimlerinin kesin günleri verilmedi; 3 Ekim tarihli TRT açıklaması aktarılıyor, resmi Oscar adaylarıyla karıştırılmamalı.",
+            "future_event_dates": {
+              "oscar_shortlist": "2026-12-15",
+              "oscar_nominations": "2027-01-21",
+              "oscar_ceremony": "2027-03-14"
+            },
+            "kind": "brief",
+            "new_in_test": true
+          }
         }
       ],
       "metadata": {
+        "edition": "Genişletilmiş ek test",
         "research_cutoff": {
-          "at": "2026-10-04T07:25:00+03:00"
+          "at": "2026-10-04T05:29:29+00:00"
         },
-        "narration_intro": "Günaydın. Bugün 4 Ekim 2026 Pazar. Türkiye ve dünyadan öne çıkan gelişmelerle başlayıp döviz ve altına, Tokat'ın hava durumuna ve kısa bir bilim notuna geçiyoruz.",
-        "narration_outro": "Bu sabahlık bültenimiz bu kadar. Haberlerin bağlantıları ve piyasa verilerinin tarihleri ayrı kaynak metninde bulunuyor. İyi pazarlar.",
-        "narration_text_sha256": "a17dfef52349d9e1c5e7a82da447a8ba43e932ba69ec526835621fb9f33782eb",
-        "topic_text_is_full_narration": true,
-        "source_gaps": [
-          {
-            "source": "Borsa İstanbul resmî kıymetli madenler günlük bülteni",
-            "note": "2 Ekim bülteni doğrulanamadı; resmî altın kapanışı verilmedi. Alternatif Midas/Foreks kotasyonu açıkça etiketlendi."
-          }
-        ]
+        "revision_of": "morning-20261004-0800",
+        "new_distinct_news_count": 10,
+        "narration_intro": "Günaydın. Bugün 4 Ekim 2026 Pazar. Türkiye ve dünyadan haberlerle başlayalım.",
+        "narration_outro": "Bültenimiz burada tamamlanıyor. İyi pazarlar.",
+        "narration_text_sha256": "1f62d74025cee3877728e3b431c474c86f9be4aaffbc61649a5fa99ca8d4b4f3",
+        "source_gaps": [],
+        "structure": "10 ana haber + 5 yeni tek cümlelik kısa haber",
+        "main_news_count": 10,
+        "brief_news_count": 5,
+        "narration_brief_intro": "Şimdi beş kısa haber."
       }
     },
     {
