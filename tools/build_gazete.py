@@ -391,8 +391,8 @@ def shell(title, body, categories, route="", active=""):
 <title>{esc(title)} · Gündem Gazetesi</title><meta name="description" content="Tamamlanmış bültenlerden, konuya göre düzenlenen günlük gazete.">
 <link rel="canonical" href="{ORIGIN}/gazete/{route}"><link rel="stylesheet" href="/gazete/static/style.css"></head>
 <body><a class="skip" href="#icerik">İçeriğe geç</a><header class="masthead"><a class="brand" href="/gazete/">Gündem Gazetesi</a>
-<nav aria-label="Gazete konuları"><a href="/gazete/kaynaklar/"{(' aria-current="page"' if active == 'kaynaklar' else '')}>Kaynaklar</a>{nav}</nav></header><main id="icerik">{body}</main>
-<footer>Gündem Gazetesi · Saatler Türkiye saatidir. Kaynaklar ve yayın/kayıt bilgileri Kaynaklar bölümünde yer alır.</footer><script src="/gazete/static/freshness.js" defer></script></body></html>'''
+<nav aria-label="Gazete konuları">{nav}</nav></header><main id="icerik">{body}</main>
+<footer><span>Gündem Gazetesi · Saatler Türkiye saatidir. Kaynaklar ve yayın/kayıt bilgileri Kaynaklar bölümünde yer alır.</span><a class="footer-sources" href="/gazete/kaynaklar/"{(' aria-current="page"' if active == 'kaynaklar' else '')}>Kaynaklar</a></footer><script src="/gazete/static/freshness.js" defer></script></body></html>'''
 
 
 def card(b, t):

@@ -11,3 +11,4 @@ summary{cursor:pointer;min-height:44px;padding:10px 0;font:600 .85rem/1.65 Arial
 .brand{display:inline-flex;align-items:center;min-height:44px}.masthead nav a{min-width:44px;justify-content:center}
 .masthead .brand{margin-bottom:12px}
 .prose p a{display:inline-block;min-height:44px;min-width:44px;line-height:31px;padding:6px 2px}.intro a{display:inline-block;min-height:44px;min-width:44px}
+footer{display:flex;flex-wrap:wrap;align-items:flex-end;gap:8px 20px}footer>span{flex:1 1 260px}.footer-sources{display:inline-flex;align-items:center;justify-content:center;min-width:44px;min-height:44px;margin-left:auto;padding:8px 12px;border:1px solid var(--line);border-radius:3px;color:var(--muted);font:.75rem/1.5 Arial,sans-serif;text-decoration:none}.footer-sources:hover{color:var(--ink);border-color:var(--muted)}

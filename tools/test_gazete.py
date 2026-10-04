@@ -164,6 +164,19 @@ class GazeteTest(unittest.TestCase):
                         target_parser=Links();target_parser.feed(target.read_text())
                         self.assertIn(parsed.fragment,target_parser.ids)
                 elif parsed.fragment:self.assertIn(parsed.fragment,parser.ids)
+    def test_sources_navigation_is_in_footer_on_every_page(self):
+        self.import_(*(bulletin(f) for f in g.FEEDS))
+        for path in (self.root/'gazete').rglob('*.html'):
+            page=path.read_text()
+            header=page.split('<header',1)[1].split('</header>',1)[0]
+            footer=page.split('<footer>',1)[1].split('</footer>',1)[0]
+            self.assertNotIn('/gazete/kaynaklar/',header,str(path))
+            self.assertIn('class="footer-sources" href="/gazete/kaynaklar/"',footer,str(path))
+            self.assertEqual(footer.count('class="footer-sources"'),1)
+            self.assertEqual('aria-current="page"' in footer,path==self.root/'gazete/kaynaklar/index.html')
+        short=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
+        detail=(self.root/'gazete/yazi/morning/test-morning/detay/index.html').read_text()
+        for page in (short,detail):self.assertIn('/gazete/kaynaklar/#kaynak-morning-test-morning',page)
     def test_sitemap_matches_generated_pages(self):
         import xml.etree.ElementTree as ET
         self.import_(bulletin())
