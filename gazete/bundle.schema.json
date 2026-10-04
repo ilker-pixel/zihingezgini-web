@@ -166,7 +166,7 @@
           "type": "string",
           "minLength": 1,
           "maxLength": 50000,
-          "description": "Tam metin; boş satırlarla ayrılan paragraflar, kaynak çekinceleri burada"
+          "description": "Mevcut kısa yazı metni; paragraflar ve kaynak çekinceleri aynen korunur"
         },
         "sources": {
           "type": "array",
@@ -178,7 +178,45 @@
         },
         "metadata": {
           "type": "object"
+        },
+        "full_text": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200000,
+          "description": "Özgün kaynak anlatımı, düz UTF-8; paragraflar boş satırlarla. Daha kısa veya aynıysa uzatılmaz; kaynakta yoksa alan eklenmez."
+        },
+        "full_text_sources": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 32,
+          "items": {
+            "$ref": "#/$defs/source"
+          },
+          "description": "Uzun anlatımın ek kaynakları; mevcut sources detay sayfasında da korunur."
+        },
+        "full_text_metadata": {
+          "type": "object",
+          "description": "Özgün başlık, kaynak zamanları, çekinceler, genel bakış, Bir çırpıda sayfaları ve halka açık kaynak kökeni."
+        },
+        "full_text_sections": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 60,
+          "items": {
+            "$ref": "#/$defs/detail_section"
+          }
         }
+      },
+      "dependentRequired": {
+        "full_text_sources": [
+          "full_text"
+        ],
+        "full_text_sections": [
+          "full_text"
+        ],
+        "full_text_metadata": [
+          "full_text"
+        ]
       }
     },
     "source": {
@@ -215,6 +253,54 @@
               "$ref": "#/$defs/time"
             }
           ]
+        }
+      }
+    },
+    "detail_section": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "heading",
+        "timestamp",
+        "url",
+        "paragraphs"
+      ],
+      "properties": {
+        "heading": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1,
+          "maxLength": 500
+        },
+        "timestamp": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^(?:\\d{1,3}:)?\\d{1,3}:[0-5]\\d$"
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^https?://",
+          "maxLength": 2048
+        },
+        "paragraphs": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 100,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 50000
+          }
+        },
+        "warning": {
+          "type": "boolean"
         }
       }
     }

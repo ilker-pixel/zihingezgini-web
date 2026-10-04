@@ -25,7 +25,7 @@ ayrı `sources[].published_at` alanındadır: saat dilimli datetime, gerçek tar
 biliniyorsa YYYY-MM-DD, kaynak belirtmiyorsa null. Bilinmeyen saat/tarih uydurulmaz.
 
 Her konu: güvenli/stabil `id`, doğal konu `category`, kısa `title`, tek cümle `summary`,
-tam `what_happened`, `sources`. Kategoriler: bilim, teknoloji, ekonomi, dunya, turkiye,
+mevcut kısa yazı `what_happened`, `sources`. Kategoriler: bilim, teknoloji, ekonomi, dunya, turkiye,
 kultur, saglik, cevre, spor, felsefe, hava. Kategori üreticinin tamamlanmış paketinde verilmelidir;
 bu araç haber veya kategori için AI çağırmaz. Yeni kategori sözleşme güncellemesi gerektirir.
 Kaynak çekinceleri `what_happened` içinde korunur. Metin düz UTF-8, paragraflar boş satırla.
@@ -132,3 +132,62 @@ vardır; ham paket, Library kimlikleri ve PDF/audio dosyaları kopyalanmaz.
 İsteğe bağlı tarayıcı QA: mevcut Playwright ve Chrome ile
 `python3 tools/gazete/browser_qa.py --artifacts /tmp/gazete-qa`.
 Bu test yerel loopback HTTP önizlemesi kullanır; deployment veya Mac kapalı test değildir.
+
+## Detaylı oku ve Kaynaklar
+
+Mevcut `id`, `category`, `title`, `summary`, `what_happened`, `sources` ve konu
+metaverisi değiştirilmeden korunur. İsteğe bağlı `full_text` özgün kaynak anlatımını
+ayrı tutar (en çok 200.000 karakter). `full_text_sources` ek kaynak listesi,
+`full_text_sections` zaman kodu/başlık/URL/paragraflar ve varsa özgün warning işareti,
+`full_text_metadata` özgün başlık, kaynak yayın/olay bilgisi, genel bakış,
+Bir çırpıda sayfaları ve halka açık provenance taşır. Bu ek alanlar `full_text`
+gerektirir; toplam 4 MB sınırı devam eder. Kaynak anlatımı kısa yazıyla eşit veya
+daha kısa olabilir: sırf uzun görünmesi için içerik üretilmez. Daha kısa/eşit
+anlatımda bu durum açıkça belirtilir. Kaynak anlatımı hiç yoksa en kapsamlı mevcut
+metin, ayrı uzun anlatım bulunmadığı notuyla sunulur.
+
+Her kartta ve kısa yazıda Detaylı oku bağlantısı vardır. Adres:
+`/gazete/yazi/<feed_id>/<id>/detay/`. Detay sayfasında kısa yazıya ve gazete ana
+sayfasına dönüş, özgün zaman kodlu video bölümleri ve varsa Bir çırpıda bölümü
+bulunur. Eski kısa metnin çekinceleri ek açılır alanda korunur. Kaynak metnindeki
+güvenli Markdown bağlantıları tıklanabilir; HTML çalıştırılmaz. Video zaman kodu
+yayın/olay tarihi değildir. Bir bölümün URL'si kaynakta yoksa gerçek kaynak video
+URL'si ve mevcut zaman kodundan yalnız gezinme bağlantısı oluşturulur.
+
+Kaynak URL listeleri yazıların altına konmaz. Genel navigasyondaki
+`/gazete/kaynaklar/` sayfasında güncel yazı başlığı/kimliğiyle ilişkili gruplar
+bulunur; yazılar bu grubun sabit anchor'ına bağlanır. Tarih, kapsam ve kaynak kaydı
+açılır alandadır. Bir kaynağın kendi yayın tarihi bilinmiyorsa ona yazının veya
+paketin tarihi atanmaz. Yazı ve kaynak sayfası aynı atomik render/import işleminde
+yenilenir; eski yazı kaldırılınca kaynak grubu da kaldırılır.
+
+Ana sayfa konu gruplarına ayrılır: her grupta en çok üç yazı ve Tümünü gör,
+kategori sayfasında tüm yazılar. Telefon tek sütundur; başlık/giriş küçültülmüş,
+bülten durumları tek Güncelleme bilgisi açılır alanında toplanmıştır. Kontroller
+en az 44 px, okuma metni 17,4 px / 31 px'tir. Diğer site bölümleri değişmez.
+
+Özgün kaynak eşlemesini hazırlama (yayın yapmaz):
+
+```sh
+python3 tools/gazete/add_full_details.py ORIGINAL_MAPPING.json COMPLETED.json --sha256 EXPECTED_SHA256
+python3 tools/build_gazete.py --import-bundle COMPLETED.json
+python3 tools/test_gazete.py
+python3 tools/gazete/check_site.py
+python3 tools/gazete/verify_details.py --baseline BEFORE_CURRENT.json --source ORIGINAL_MAPPING.json
+python3 tools/gazete/browser_qa.py --artifacts /tmp/gazete-qa --browser /usr/bin/chromium
+```
+
+Adaptör yalnız `gundemgazetesi-full-details/1` içindeki `details_by_article_id`
+eşlemesini kabul eder. Güncel tüm yazı kimlikleri ve feed'ler eşleşmelidir; girdi
+SHA256 ve varsa özgün haber metni SHA256 kontrol edilir. Kısa alanları yazmaz.
+Detay eklenmesi düzeltilmiş bülten kabul edilir; yeni deterministik bulletin_id
+ve kaynağın gerçek assembled_at değeri prepared_at olur. Planlanan/tamamlanma
+ve kapsam zamanları değiştirilmez. Aynı girdi tekrarında aynı kimlik oluşur.
+Eski kaynağın düzeltmesi daha yeni bir bülteni ezmez. Library kimlikleri üretime
+kopyalanmaz; yalnız halka açık kaynak kökeni korunur.
+
+3 Ekim özgün detay eşlemesi SHA256:
+`3abd27bc323909b0716399210dbded0ef7bd62e97abf374605369eca61f844fe`.
+41 yazı, 13 YouTube yazısında 145 zaman kodlu bölüm ve 21 Bir çırpıda sayfası.
+Bu feature çalışması push/merge/deploy yapmaz; teslim patch'i güncel main ile
+karşılaştırılarak parent tarafından incelenir ve buluttan yayımlanır.

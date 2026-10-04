@@ -140,7 +140,8 @@ def validate_bulletin(b, now):
         fail("bülten 1–30 tamamlanmış konu içermeli")
     seen = set()
     for t in topics:
-        fields(t, ("id", "category", "title", "summary", "what_happened", "sources"), ("metadata",), label="konu")
+        fields(t, ("id", "category", "title", "summary", "what_happened", "sources"),
+               ("metadata", "full_text", "full_text_sources", "full_text_sections", "full_text_metadata"), label="konu")
         identifier(t["id"], "konu kimliği")
         if t["id"] in seen:
             fail("yinelenen konu kimliği")
@@ -150,6 +151,34 @@ def validate_bulletin(b, now):
         text(t["title"], "başlık", 160, True)
         text(t["summary"], "tek cümle özet", 500, True)
         text(t["what_happened"], "Ne oldu?", 50_000)
+        if "full_text" in t:
+            text(t["full_text"], "Kaynak anlatımı", 200_000)
+        if any(k in t for k in ("full_text_sources", "full_text_sections", "full_text_metadata")) and "full_text" not in t:
+            fail("full_text ek alanları için full_text gerekli")
+        if "full_text_metadata" in t:
+            metadata(t["full_text_metadata"], "kaynak anlatımı metaverisi")
+            if t["full_text_metadata"].get('source_url'): validate_url(t["full_text_metadata"]['source_url'])
+            for key in ("publication", "event_time"):
+                value = t["full_text_metadata"].get(key)
+                if value is not None:
+                    if not isinstance(value, dict): fail(f"full_text_metadata.{key}: nesne gerekli")
+                    for name in ("at", "date") if key == "publication" else ("start", "end"):
+                        source_date(value.get(name))
+        if "full_text_sections" in t:
+            sections = t["full_text_sections"]
+            if not isinstance(sections, list) or not 1 <= len(sections) <= 60:
+                fail("full_text_sections: 1–60 bölüm gerekli")
+            for section in sections:
+                fields(section, ("heading", "timestamp", "url", "paragraphs"), ("warning",), label="kaynak bölümü")
+                if "warning" in section and type(section["warning"]) is not bool: fail("bölüm warning: boolean gerekli")
+                if section["heading"] is not None: text(section["heading"], "bölüm başlığı", 500, True)
+                if section["timestamp"] is not None:
+                    if not isinstance(section["timestamp"], str) or not re.fullmatch(r"(?:\d{1,3}:)?\d{1,3}:[0-5]\d", section["timestamp"]):
+                        fail("bölüm zaman kodu geçersiz")
+                if section["url"] is not None: validate_url(section["url"])
+                if not isinstance(section["paragraphs"], list) or not 1 <= len(section["paragraphs"]) <= 100:
+                    fail("bölüm paragraf listesi gerekli")
+                for paragraph in section["paragraphs"]: text(paragraph, "bölüm paragrafı", 50_000)
         if "metadata" in t:
             metadata(t["metadata"], "konu metaverisi")
             if "publication" in t["metadata"]:
@@ -162,21 +191,31 @@ def validate_bulletin(b, now):
                 if not isinstance(event,dict):fail('event_time: nesne gerekli')
                 source_date(event.get('start'))
                 source_date(event.get('end'))
-        if not isinstance(t["sources"], list) or not 1 <= len(t["sources"]) <= 32:
-            fail("konu 1–32 kaynak içermeli")
-        for s in t["sources"]:
-            fields(s, ("name", "url", "published_at"), label="kaynak")
-            text(s["name"], "kaynak adı", 160, True)
-            url = text(s["url"], "kaynak URL", 2048, True)
-            try:
-                u = urlsplit(url)
-                good = u.scheme in ("http", "https") and u.hostname and not u.username and not u.password
-            except ValueError:
-                good = False
-            if not good or any(c.isspace() for c in url):
-                fail("kaynak URL: kimlik bilgisi içermeyen HTTP(S) adresi gerekli")
-            source_date(s["published_at"])
+        validate_sources(t["sources"])
+        if "full_text_sources" in t:
+            validate_sources(t["full_text_sources"])
     return b
+
+
+def validate_sources(sources):
+    if not isinstance(sources, list) or not 1 <= len(sources) <= 32:
+        fail("konu 1–32 kaynak içermeli")
+    for s in sources:
+        fields(s, ("name", "url", "published_at"), label="kaynak")
+        text(s["name"], "kaynak adı", 160, True)
+        validate_url(s["url"])
+        source_date(s["published_at"])
+
+
+def validate_url(value):
+    url = text(value, "kaynak URL", 2048, True)
+    try:
+        u = urlsplit(url)
+        good = u.scheme in ("http", "https") and u.hostname and not u.username and not u.password
+    except ValueError:
+        good = False
+    if not good or any(c.isspace() for c in value):
+        fail("kaynak URL: kimlik bilgisi içermeyen HTTP(S) adresi gerekli")
 
 
 def canonical(value):
@@ -270,22 +309,98 @@ def article_path(b, topic):
     return f"yazi/{b['feed_id']}/{topic['id']}/"
 
 
+def detail_path(b, topic):
+    return article_path(b, topic) + "detay/"
+
+
+def prose(value):
+    return ''.join(f'<p>{esc(p.strip())}</p>' for p in re.split(r"\n\s*\n", value) if p.strip())
+
+
+def detail_sources(topic):
+    # Keep every original source; additional provenance belongs to the detail only.
+    sources = list(topic["sources"])
+    for source in topic.get("full_text_sources", []):
+        if source not in sources:
+            sources.append(source)
+    return sources
+
+
+def source_anchor(b, t):
+    return f"kaynak-{b['feed_id']}-{t['id']}"
+
+
+def narrative(t):
+    # Transform only known section headings and safe Markdown links; all source
+    # paragraphs remain visible without truncation or generated expansion.
+    headings = {}
+    for s in t.get("full_text_sections", []):
+        if s["heading"]:
+            label = (s["timestamp"] + " · " if s["timestamp"] else "") + s["heading"]
+            headings[label] = s
+    def inline(value):
+        result, start = [], 0
+        for match in re.finditer(r"\[([^\]\n]+)\]\((https?://[^\s)]+)\)", value):
+            try: validate_url(match[2])
+            except InvalidBulletin: continue
+            result += [esc(value[start:match.start()]), f'<a href="{esc(match[2])}" rel="noopener noreferrer">{esc(match[1])}</a>']
+            start = match.end()
+        return ''.join(result) + esc(value[start:])
+    parts = []
+    for paragraph in re.split(r"\n\s*\n", t.get("full_text", t["what_happened"])):
+        paragraph = paragraph.strip()
+        if not paragraph: continue
+        section = headings.get(paragraph)
+        if section:
+            label = esc(paragraph)
+            url = section["url"]
+            video = t.get('full_text_metadata', {}).get('source_url')
+            if not url and video and section['timestamp'] and urlsplit(video).hostname in ('www.youtube.com', 'youtube.com', 'youtu.be'):
+                seconds = 0
+                for part in section['timestamp'].split(':'): seconds = seconds * 60 + int(part)
+                url = video + ('&' if '?' in video else '?') + f't={seconds}s'
+            if url: label = f'<a href="{esc(url)}" rel="noopener noreferrer">{label}</a>'
+            parts.append(f'<h3{(" class=\"source-warning\"" if section.get("warning") else "")}>{label}</h3>')
+        else: parts.append(f'<p>{inline(paragraph)}</p>')
+    return ''.join(parts)
+
+
+def quick_read(t):
+    pages = t.get('full_text_metadata', {}).get('quick_read_pages', [])
+    result = []
+    for page in pages:
+        body = f'<h3>{esc(page["title"])}</h3>' + prose(page['about'])
+        for key in ('main', 'example', 'importance'):
+            part = page.get(key)
+            if part: body += f'<h4>{esc(part["heading"])}</h4>' + prose(part['text'])
+        for key in ('takeaway', 'caveat'):
+            if page.get(key): body += prose(page[key])
+        diagram = page.get('diagram')
+        if diagram:
+            body += f'<h4>{esc(diagram["title"])}</h4><ol>'
+            body += ''.join(f'<li><strong>{esc(step["label"])}</strong> {esc(step["text"])}</li>' for step in diagram['steps'])
+            body += '</ol>' + prose(diagram.get('caption', ''))
+        result.append('<section class="quick-page">' + body + '</section>')
+    return '<section class="prose quick-reading"><h2>Bir çırpıda</h2>' + ''.join(result) + '</section>' if result else ''
+
+
 def shell(title, body, categories, route="", active=""):
     nav = ''.join(f'<a href="/gazete/konu/{c}/"{chr(32)+"aria-current=\"page\"" if c == active else ""}>{esc(CATEGORIES[c])}</a>' for c in categories)
     return f'''<!doctype html>
 <html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)} · Gündem Gazetesi</title><meta name="description" content="Tamamlanmış bültenlerden, konuya göre düzenlenen günlük gazete.">
 <link rel="canonical" href="{ORIGIN}/gazete/{route}"><link rel="stylesheet" href="/gazete/static/style.css"></head>
-<body><a class="skip" href="#icerik">İçeriğe geç</a><header class="masthead"><a class="brand" href="/gazete/">Gündem Gazetesi</a><p>Dünyadan gelişmeler, açık bir dille.</p>
-<nav aria-label="Gazete konuları">{nav}</nav></header><main id="icerik">{body}</main>
-<footer>Gündem Gazetesi · Saatler Türkiye saatidir. Kaynakların yayın tarihleri yazıların içinde yer alır.</footer><script src="/gazete/static/freshness.js" defer></script></body></html>'''
+<body><a class="skip" href="#icerik">İçeriğe geç</a><header class="masthead"><a class="brand" href="/gazete/">Gündem Gazetesi</a>
+<nav aria-label="Gazete konuları"><a href="/gazete/kaynaklar/"{(' aria-current="page"' if active == 'kaynaklar' else '')}>Kaynaklar</a>{nav}</nav></header><main id="icerik">{body}</main>
+<footer>Gündem Gazetesi · Saatler Türkiye saatidir. Kaynaklar ve yayın/kayıt bilgileri Kaynaklar bölümünde yer alır.</footer><script src="/gazete/static/freshness.js" defer></script></body></html>'''
 
 
 def card(b, t):
     label = FEEDS[b["feed_id"]][0]
     return f'''<article class="story"><p class="eyebrow">{esc(CATEGORIES[t['category']])} <span>· {esc(label)}</span></p>
 <h2><a href="/gazete/{article_path(b,t)}">{esc(t['title'])}</a></h2><p>{esc(t['summary'])}</p>
-<a class="read" href="/gazete/{article_path(b,t)}">Yazıyı oku <span aria-hidden="true">→</span></a></article>'''
+<div class="story-actions"><a class="read" href="/gazete/{article_path(b,t)}">Yazıyı oku <span aria-hidden="true">→</span></a>
+<a class="detail-read" href="/gazete/{detail_path(b,t)}">Detaylı oku <span aria-hidden="true">→</span></a></div></article>'''
 
 
 def freshness(current, now):
@@ -303,7 +418,7 @@ def freshness(current, now):
         if b: content += f'<small>Bülten saati: {date_label(b["scheduled_for"])}</small>'
         slot = b["scheduled_for"] if b else ""
         rows.append(f'<li data-hour="{hour}" data-slot="{esc(slot)}"><strong>{label}</strong><span class="status" aria-live="polite">{status}</span>{content}</li>')
-    return '<aside class="freshness" aria-label="Bülten güncelliği"><h2>Son bültenler</h2><ul>' + ''.join(rows) + '</ul><p>Yeni bülten geldiğinde yalnız o kaynağın yazıları yenilenir. Bekleyen bültenlerde son yazılar okunmaya devam eder.</p></aside>'
+    return '<details class="freshness"><summary>Güncelleme bilgisi <span>· ' + str(len(by_feed)) + ' kaynak</span></summary><div><ul>' + ''.join(rows) + '</ul><p>Yeni bülten geldiğinde o kaynağın yazıları ve kaynakları birlikte yenilenir. Bekleyen bültenlerde son yazılar okunmaya devam eder. Bülten saati planlanan saattir; bilinmeyen tamamlanma zamanı yerine kullanılmaz.</p></div></details>'
 
 
 def render(current, output, now):
@@ -324,14 +439,22 @@ def render(current, output, now):
         dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(shell(title, body, categories, route, active), encoding="utf-8")
         routes.append(route)
-    lead = '<section class="intro"><p class="eyebrow">GÜNLÜK GAZETE</p><h1>Bugün ne oldu?</h1><p>Bilimden ekonomiye, günün gelişmeleri ve onları anlatan yazılar.</p></section>'
-    stories = ''.join(card(b,t) for b,t in pairs) or '<p class="empty">İlk tamamlanmış bülten geldiğinde yazılar burada yer alacak.</p>'
-    write("", "Bugün ne oldu?", lead + freshness(current, now) + '<section class="stories" aria-label="Son yazılar">' + stories + '</section>')
+    lead = '<section class="intro"><h1>Bugün ne oldu?</h1><p>Bilimden ekonomiye, günün gelişmeleri ve onları anlatan yazılar.</p></section>'
+    groups = []
+    for c in categories:
+        selected = [(b,t) for b,t in pairs if t["category"] == c]
+        header = f'<div class="group-heading"><h2>{CATEGORIES[c]}</h2><a href="/gazete/konu/{c}/">Tümünü gör <span class="count">({len(selected)})</span></a></div>'
+        groups.append(f'<section class="topic-group" aria-label="{CATEGORIES[c]}">{header}<div class="stories">' + ''.join(card(b,t) for b,t in selected[:3]) + '</div></section>')
+    stories = ''.join(groups) or '<p class="empty">İlk tamamlanmış bülten geldiğinde yazılar burada yer alacak.</p>'
+    write("", "Bugün ne oldu?", lead + freshness(current, now) + stories)
     for c in categories:
         write(f"konu/{c}/", CATEGORIES[c], f'<section class="intro"><p class="eyebrow">KONU</p><h1>{CATEGORIES[c]}</h1></section><section class="stories">' + ''.join(card(b,t) for b,t in pairs if t["category"] == c) + '</section>', c)
+    source_groups = []
     for b,t in pairs:
-        paragraphs = ''.join(f'<p>{esc(p.strip())}</p>' for p in re.split(r"\n\s*\n", t["what_happened"]) if p.strip())
-        sources = ''.join(f'<li><a href="{esc(s["url"])}" rel="noopener noreferrer">{esc(s["name"])}</a><span>{date_label(s["published_at"])}</span></li>' for s in t["sources"])
+        paragraphs = prose(t["what_happened"])
+        def source_list(items):
+            rows = ''.join(f'<li><a href="{esc(s["url"])}" rel="noopener noreferrer">{esc(s["name"])}</a>' + (f'<span>{date_label(s["published_at"])}</span>' if s['published_at'] else '') + '</li>' for s in items)
+            return rows
         tm, bm = t.get('metadata', {}), b.get('metadata', {})
         pub = tm.get('publication', {})
         source_time = pub.get('at') or pub.get('date')
@@ -359,9 +482,38 @@ def render(current, output, now):
         timing_html = '<br>'.join(timing)
         body = f'''<article class="article"><a class="back" href="/gazete/konu/{t['category']}/">← {CATEGORIES[t['category']]}</a>
 <p class="eyebrow">{FEEDS[b['feed_id']][0]} · Bülten: {date_label(b['scheduled_for'])}</p><h1>{esc(t['title'])}</h1><p class="dek">{esc(t['summary'])}</p>
-<section class="prose"><h2>Ne oldu?</h2>{paragraphs}</section><section class="sources"><h2>Kaynaklar</h2><ul>{sources}</ul>{source_notes}</section>
-<p class="coverage">{timing_html}</p></article>'''
+<section class="prose"><h2>Ne oldu?</h2>{paragraphs}</section>
+<p><a class="detail-read" href="/gazete/{detail_path(b,t)}">Detaylı oku <span aria-hidden="true">→</span></a></p>
+<p class="source-link"><a href="/gazete/kaynaklar/#{source_anchor(b,t)}">Kaynaklar ve kayıt bilgisi</a></p>
+<nav class="article-return" aria-label="Okumaya devam"><a href="/gazete/konu/{t['category']}/">{CATEGORIES[t['category']]} yazıları</a><a href="/gazete/">Gazete ana sayfası</a></nav></article>'''
         write(article_path(b,t), t["title"], body, t["category"])
+        availability = '' if "full_text" in t else '<p class="detail-note">Bu konu için ayrı bir uzun kaynak anlatımı bulunmuyor. Kaynakta mevcut en kapsamlı metin aşağıda.</p>'
+        if "full_text" in t and len(t["full_text"].split()) <= len(t["what_happened"].split()):
+            availability = '<p class="detail-note">Özgün kaynak anlatımı aşağıda. Bu konunun kaynak metni kısa yazıdan daha uzun değildir; kaynakta olduğu biçimiyle sunulur.</p>'
+        # A source narrative supplements the short article. Keep its original
+        # caveats visible as well, even if a supplied narrative omits them.
+        short_context = '' if "full_text" not in t else f'<details class="short-context"><summary>Kısa yazı ve çekinceleri</summary><section class="prose">{paragraphs}</section></details>'
+        back_links = f'<nav class="detail-back" aria-label="Yazıya dönüş"><a href="/gazete/{article_path(b,t)}">← Kısa yazıya dön</a><a href="/gazete/">Gazete ana sayfası</a></nav>'
+        detail_body = f'''<article class="article detail-article">{back_links}
+<p class="eyebrow">{FEEDS[b['feed_id']][0]} · Bülten: {date_label(b['scheduled_for'])}</p><h1>{esc(t['title'])}</h1>
+{availability}<section class="prose source-narrative"><h2>Kaynak anlatımı</h2>{narrative(t)}</section>{quick_read(t)}{short_context}
+<p class="source-link"><a href="/gazete/kaynaklar/#{source_anchor(b,t)}">Kaynaklar ve kayıt bilgisi</a></p>{back_links}</article>'''
+        write(detail_path(b,t), t["title"] + " · Kaynak anlatımı", detail_body, t["category"])
+        fm = t.get('full_text_metadata', {})
+        detail_notes = []
+        for label,key in [('Kaynak yayını', 'publication'), ('Olay bilgisi', 'event_time')]:
+            value = fm.get(key) or {}
+            at = value.get('at') or value.get('date') if key == 'publication' else None
+            if at: detail_notes.append(f'<p>{label}: {date_label(at)}</p>')
+            if value.get('note'): detail_notes.append(f'<p>{esc(value["note"])}</p>')
+        provenance = fm.get('provenance')
+        provenance_html = '<pre>' + esc(json.dumps(provenance, ensure_ascii=False, indent=2)) + '</pre>' if provenance else ''
+        originals = f'<p>Özgün başlık: {esc(fm["original_title"])}</p>' if fm.get('original_title') else ''
+        unknown_date = '<p>Yayın tarihi kaynakta belirtilmemiş bağlantılara tarih atanmamıştır. Yazının yayın/kayıt ve kapsam bilgileri aşağıdadır.</p>' if any(s['published_at'] is None for s in detail_sources(t)) else ''
+        source_groups.append(f'''<section class="source-group" id="{source_anchor(b,t)}"><h2><a href="/gazete/{article_path(b,t)}">{esc(t['title'])}</a></h2><p class="eyebrow">{FEEDS[b['feed_id']][0]} · {CATEGORIES[t['category']]}</p>
+<ul class="source-list">{source_list(detail_sources(t))}</ul>
+<details class="records"><summary>Tarih, kapsam ve kaynak kaydı</summary>{unknown_date}{originals}{source_notes}{''.join(detail_notes)}<p class="coverage">{timing_html}</p>{provenance_html}</details></section>''')
+    write('kaynaklar/', 'Kaynaklar', '<section class="intro"><h1>Kaynaklar</h1><p>Güncel gazetede yer alan yazıların kaynakları. Yeni bültenlerle birlikte yenilenir.</p></section>' + ''.join(source_groups), 'kaynaklar')
     # Old newspaper URLs terminate here rather than retaining obsolete topics/editions.
     (output / "404.html").write_text(shell("Yazı bulunamadı", '<section class="intro"><h1>Bu yazı artık güncel gazetede yok.</h1><p><a href="/gazete/">Son yazılara dön</a></p></section>', categories), encoding="utf-8")
     sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + ''.join(f'<url><loc>{ORIGIN}/gazete/{r}</loc></url>\n' for r in routes) + '</urlset>\n'

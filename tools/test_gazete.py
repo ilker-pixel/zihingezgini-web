@@ -73,7 +73,7 @@ class GazeteTest(unittest.TestCase):
         self.assertTrue((self.root/'gazete/konu/teknoloji/index.html').exists())
         self.assertFalse((self.root/'gazete/konu/youtube_am').exists())
         article=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
-        self.assertIn('02.10.2026',article)
+        self.assertIn('02.10.2026',(self.root/'gazete/kaynaklar/index.html').read_text())
         self.assertIn('03.10.2026 08.00',article)
         self.assertIn('Kaynak sonucu henüz bağımsız doğrulamamıştır.',article)
         self.assertEqual(article.count('Tam metin korunur.'),150)
@@ -147,7 +147,7 @@ class GazeteTest(unittest.TestCase):
         page=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
         self.assertNotIn('<img src=x',page)
         self.assertIn('&lt;img',page)
-        self.assertIn('Yayın tarihi kaynakta belirtilmemiş',page)
+        self.assertIn('Yayın tarihi kaynakta belirtilmemiş',(self.root/'gazete/kaynaklar/index.html').read_text())
     def test_all_local_links_resolve(self):
         self.import_(*(bulletin(f) for f in g.FEEDS))
         for page in (self.root/'gazete').rglob('*.html'):
@@ -160,6 +160,9 @@ class GazeteTest(unittest.TestCase):
                     target=self.root/parsed.path.lstrip('/')
                     if parsed.path.endswith('/'):target/='index.html'
                     self.assertTrue(target.is_file(),f'{page}: {url}')
+                    if parsed.fragment:
+                        target_parser=Links();target_parser.feed(target.read_text())
+                        self.assertIn(parsed.fragment,target_parser.ids)
                 elif parsed.fragment:self.assertIn(parsed.fragment,parser.ids)
     def test_sitemap_matches_generated_pages(self):
         import xml.etree.ElementTree as ET
@@ -194,7 +197,7 @@ class GazeteTest(unittest.TestCase):
     def test_repeated_updates_do_not_accumulate_editions(self):
         for day in ['2026-10-01','2026-10-02','2026-10-03']:self.import_(bulletin(day=day))
         self.assertEqual(len(self.state()['bulletins']),1)
-        self.assertEqual(len(list((self.root/'gazete/yazi').rglob('index.html'))),1)
+        self.assertEqual(len(list((self.root/'gazete/yazi').rglob('index.html'))),2)
         self.assertFalse((self.root/'gazete/baski').exists())
         self.assertFalse(list((self.root/'gazete').rglob('*.mp3')))
         self.assertFalse(list((self.root/'gazete').rglob('*.pdf')))
@@ -212,9 +215,10 @@ class GazeteTest(unittest.TestCase):
         stored=self.state()['bulletins'][0]
         self.assertIsNone(stored['completed_at'])
         page=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
-        self.assertIn('Bülten tamamlandı: Kaynakta belirtilmemiş',page)
-        self.assertIn('Paket hazırlandı: 03.10.2026 23.52',page)
-        self.assertIn('Kesin kapsam başlangıcı ve sonu kaynakta belirtilmemiş',page)
+        records=(self.root/'gazete/kaynaklar/index.html').read_text()
+        self.assertIn('Bülten tamamlandı: Kaynakta belirtilmemiş',records)
+        self.assertIn('Paket hazırlandı: 03.10.2026 23.52',records)
+        self.assertIn('Kesin kapsam başlangıcı ve sonu kaynakta belirtilmemiş',records)
     def test_repackaging_is_idempotent(self):
         b=bulletin();b['prepared_at']='2026-10-03T20:45:00Z';self.import_(b)
         before=files(self.root)
@@ -240,7 +244,7 @@ class GazeteTest(unittest.TestCase):
     def test_source_publication_and_event_dates_stay_separate(self):
         b=bulletin();b['topics'][0]['metadata']={'publication':{'at':None,'date':'2026-10-01','note':'Tarihin saati bilinmiyor.'},'event_time':{'start':'2026-09-30','end':None,'note':'Olay tarihi ayrı.'}}
         self.import_(b)
-        page=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
+        page=(self.root/'gazete/kaynaklar/index.html').read_text()
         self.assertIn('Yayın/kayıt tarihi: 01.10.2026',page)
         self.assertIn('Olay başlangıcı: 30.09.2026',page)
         self.assertIn('Tarihin saati bilinmiyor.',page)
@@ -259,6 +263,118 @@ class GazeteTest(unittest.TestCase):
         self.assertEqual(b['topics'][0]['metadata']['publication']['date'],'2026-10-02')
         b2=copy.deepcopy(source);b2['assembled_at']='2026-10-03T20:59:00Z'
         self.assertEqual(adapt(b2)['bulletins'][0]['bulletin_id'],b['bulletin_id'])
+
+    def test_long_source_is_separate_and_short_copy_unchanged(self):
+        b=bulletin(); original=copy.deepcopy(b['topics'][0])
+        t=b['topics'][0]
+        t['full_text']='Özgün uzun kaynak anlatımı.\n\nKişisel tedavi önerisi değildir.\n\n'+'Kaynak ayrıntısı. '*400
+        t['full_text_sources']=[{'name':'Uzun metnin kaynağı','url':'https://example.com/detail','published_at':None}]
+        self.import_(b)
+        stored=self.state()['bulletins'][0]['topics'][0]
+        for key in original:self.assertEqual(stored[key],original[key])
+        short=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
+        detail=(self.root/'gazete/yazi/morning/test-morning/detay/index.html').read_text()
+        self.assertNotIn('Kaynak ayrıntısı.',short)
+        self.assertEqual(detail.count('Kaynak ayrıntısı.'),400)
+        self.assertIn('Kişisel tedavi önerisi değildir.',detail)
+        self.assertIn('Detaylı oku',short)
+        self.assertIn('Kısa yazıya dön',detail)
+        self.assertIn('Gazete ana sayfası',detail)
+        self.assertNotIn('https://example.com/source',short)
+        self.assertNotIn('https://example.com/detail',detail)
+        sources=(self.root/'gazete/kaynaklar/index.html').read_text()
+        self.assertIn('https://example.com/source',sources)
+        self.assertIn('https://example.com/detail',sources)
+
+    def test_original_equal_or_shorter_is_not_expanded(self):
+        for full_text in ['Gerçek kısa kaynak.',bulletin()['topics'][0]['what_happened']]:
+            b=bulletin();b['topics'][0]['full_text']=full_text
+            g.validate_bundle(bundle(b),NOW)
+            g.replace_site(self.root,bundle(b),NOW)
+            page=(self.root/'gazete/yazi/morning/test-morning/detay/index.html').read_text()
+            self.assertIn('kaynak metni kısa yazıdan daha uzun değildir',page)
+            self.assertNotIn('Daha fazla bilgi',page)
+
+    def test_missing_long_source_has_honest_fallback(self):
+        self.import_(bulletin())
+        page=(self.root/'gazete/yazi/morning/test-morning/detay/index.html').read_text()
+        self.assertIn('ayrı bir uzun kaynak anlatımı bulunmuyor',page)
+        self.assertEqual(page.count('Tam metin korunur.'),150)
+        self.assertNotIn('full_text',self.state()['bulletins'][0]['topics'][0])
+
+    def test_detail_html_and_markdown_links_are_safe(self):
+        b=bulletin();b['topics'][0]['full_text']='<script>alert(1)</script>\n\n[Kaynak](https://example.com/ok)\n\n[Kötü](javascript:alert(1))'
+        self.import_(b)
+        page=(self.root/'gazete/yazi/morning/test-morning/detay/index.html').read_text()
+        self.assertNotIn('<script>alert(1)',page)
+        self.assertIn('&lt;script&gt;',page)
+        self.assertIn('href="https://example.com/ok"',page)
+        self.assertNotIn('href="javascript:',page)
+
+    def test_invalid_details_fail_before_any_write(self):
+        variants=[]
+        for key,value in [('full_text',''),('full_text',None),('full_text','x'*200001),('full_text_sources',[]),('full_text_sources',[{'name':'Bad','url':'javascript:alert(1)','published_at':None}]),('full_text_sections',[{'heading':'H','timestamp':'99:99','url':None,'paragraphs':['Test']}])]:
+            b=bulletin();b['topics'][0]['full_text']='Kaynak anlatımı.';b['topics'][0][key]=value;variants.append(b)
+        b=bulletin();b['topics'][0]['full_text_sources']=b['topics'][0]['sources'];variants.append(b)
+        before=files(self.root)
+        for b in variants:
+            with self.subTest(b=b):
+                with self.assertRaises(g.InvalidBulletin):self.import_(b)
+                self.assertEqual(before,files(self.root))
+
+    def test_timestamp_sections_keep_video_links(self):
+        b=bulletin();t=b['topics'][0]
+        t['full_text']='Giriş.\n\n00:53 · Bölüm başlığı\n\nKaynak çekincesi.'
+        t['full_text_sections']=[{'heading':'Bölüm başlığı','timestamp':'00:53','url':'https://www.youtube.com/watch?v=test&t=53s','paragraphs':['Kaynak çekincesi.'],'warning':True}]
+        self.import_(b)
+        page=(self.root/'gazete/yazi/morning/test-morning/detay/index.html').read_text()
+        self.assertIn('00:53 · Bölüm başlığı',page)
+        self.assertIn('href="https://www.youtube.com/watch?v=test&amp;t=53s"',page)
+        self.assertIn('source-warning',page)
+
+    def test_sources_replace_with_feed_and_other_sources_stay(self):
+        self.import_(bulletin('morning','2026-10-02'),bulletin('ai'))
+        b=bulletin();b['topics'][0]['id']='replacement';b['topics'][0]['sources'][0]['url']='https://example.com/new'
+        self.import_(b)
+        page=(self.root/'gazete/kaynaklar/index.html').read_text()
+        self.assertNotIn('id="kaynak-morning-test-morning"',page)
+        self.assertIn('id="kaynak-morning-replacement"',page)
+        self.assertIn('id="kaynak-ai-test-ai"',page)
+        self.assertFalse((self.root/'gazete/yazi/morning/test-morning/detay').exists())
+
+    def test_home_groups_cap_at_three_and_category_keeps_all(self):
+        b=bulletin();b['topics']=[dict(copy.deepcopy(b['topics'][0]),id=f'topic-{i}') for i in range(5)]
+        self.import_(b)
+        home=(self.root/'gazete/index.html').read_text()
+        category=(self.root/'gazete/konu/bilim/index.html').read_text()
+        self.assertEqual(home.count('<article class="story">'),3)
+        self.assertEqual(home.count('Detaylı oku'),3)
+        self.assertEqual(category.count('<article class="story">'),5)
+        self.assertIn('Tümünü gör',home)
+        self.assertIn('<details class="freshness">',home)
+
+    def test_details_adapter_preserves_short_fields_and_rejects_mismatches(self):
+        import sys
+        sys.path.insert(0,str(Path(__file__).parent/'gazete'))
+        from add_full_details import attach
+        current=bundle(bulletin())
+        source={'schema_version':'gundemgazetesi-full-details/1','assembled_at':'2026-10-03T10:00:00+03:00','details_by_article_id':{'test-morning':{
+            'article_id':'test-morning','feed_id':'general_morning_08','full_text':'Özgün metin.',
+            'sections':[{'heading':None,'timestamp':None,'paragraphs':['Özgün metin.']}],
+            'sources':[{'label':'Özgün kaynak','url':'https://example.com/original'}],
+            'provenance':[{'source_id':'original','library_file_id':'private-id'}]}}}
+        original=copy.deepcopy(current)
+        result=attach(current,source);g.validate_bundle(result,NOW)
+        self.assertEqual(current,original)
+        old=original['bulletins'][0]['topics'][0];new=result['bulletins'][0]['topics'][0]
+        for key in old:self.assertEqual(old[key],new[key])
+        self.assertNotEqual(result['bulletins'][0]['bulletin_id'],original['bulletins'][0]['bulletin_id'])
+        self.assertNotIn('private-id',json.dumps(result))
+        self.assertEqual(attach(result,source),result)
+        bad=copy.deepcopy(source);bad['details_by_article_id']['test-morning']['feed_id']='ai_21'
+        with self.assertRaises(g.InvalidBulletin):attach(current,bad)
+        bad=copy.deepcopy(source);bad['details_by_article_id']['extra']=bad['details_by_article_id']['test-morning']
+        with self.assertRaises(g.InvalidBulletin):attach(current,bad)
 
 
 if __name__=='__main__':unittest.main(verbosity=2)

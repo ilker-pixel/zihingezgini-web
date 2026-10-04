@@ -33,10 +33,21 @@ def adapt(source):
             if not isinstance(paragraphs, list) or any(not isinstance(p,str) or not p.strip() for p in paragraphs):
                 g.fail('kaynak Ne oldu? boş olmayan paragraf listesi olmalı')
             metadata = {k:a[k] for k in ('publication','event_time','channel','original_title','duration_label','source_broadcast','carried_over_from') if k in a}
-            items.append({'id':a['id'], 'category':a['topic_id'], 'title':a['title'], 'summary':a['summary'],
+            item = {'id':a['id'], 'category':a['topic_id'], 'title':a['title'], 'summary':a['summary'],
                           'what_happened':'\n\n'.join(paragraphs),
                           'sources':[{'name':s['label'],'url':s['url'],'published_at':None} for s in a['sources']],
-                          'metadata':metadata})
+                          'metadata':metadata}
+            if 'full_text' in a:
+                full_text = a['full_text']
+                if not isinstance(full_text, list) or not full_text or any(not isinstance(p,str) or not p.strip() for p in full_text):
+                    g.fail('kaynak full_text boş olmayan paragraf listesi olmalı')
+                item['full_text'] = '\n\n'.join(full_text)
+            if 'full_text_sources' in a:
+                g.validate_sources(a['full_text_sources'])
+                item['full_text_sources'] = a['full_text_sources']
+            for key in ('full_text_sections', 'full_text_metadata'):
+                if key in a: item[key] = a[key]
+            items.append(item)
         window = f.get('window') or {}
         metadata = {k:f[k] for k in ('delivered_at','research_cutoff','coverage_note','source_gaps') if k in f}
         if window: metadata['window_semantics'] = {k:v for k,v in window.items() if k not in ('start','end')}
