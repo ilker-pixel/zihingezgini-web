@@ -278,15 +278,15 @@ class GazeteTest(unittest.TestCase):
         self.assertEqual(adapt(b2)['bulletins'][0]['bulletin_id'],b['bulletin_id'])
 
     def test_long_source_is_separate_and_short_copy_unchanged(self):
-        b=bulletin(); original=copy.deepcopy(b['topics'][0])
+        b=bulletin('ai'); original=copy.deepcopy(b['topics'][0])
         t=b['topics'][0]
         t['full_text']='Özgün uzun kaynak anlatımı.\n\nKişisel tedavi önerisi değildir.\n\n'+'Kaynak ayrıntısı. '*400
         t['full_text_sources']=[{'name':'Uzun metnin kaynağı','url':'https://example.com/detail','published_at':None}]
         self.import_(b)
         stored=self.state()['bulletins'][0]['topics'][0]
         for key in original:self.assertEqual(stored[key],original[key])
-        short=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
-        detail=(self.root/'gazete/yazi/morning/test-morning/detay/index.html').read_text()
+        short=(self.root/'gazete/yazi/ai/test-ai/index.html').read_text()
+        detail=(self.root/'gazete/yazi/ai/test-ai/detay/index.html').read_text()
         self.assertNotIn('Kaynak ayrıntısı.',short)
         self.assertEqual(detail.count('Kaynak ayrıntısı.'),400)
         self.assertIn('Kişisel tedavi önerisi değildir.',detail)
@@ -361,10 +361,47 @@ class GazeteTest(unittest.TestCase):
         home=(self.root/'gazete/index.html').read_text()
         category=(self.root/'gazete/konu/bilim/index.html').read_text()
         self.assertEqual(home.count('<article class="story">'),3)
-        self.assertEqual(home.count('Detaylı oku'),3)
+        self.assertEqual(home.count('Detaylı oku'),0)
         self.assertEqual(category.count('<article class="story">'),5)
         self.assertIn('Tümünü gör',home)
         self.assertIn('<details class="freshness">',home)
+
+    def test_morning_uses_full_original_body_without_detail_buttons(self):
+        b=bulletin();t=b['topics'][0]
+        t['what_happened']='Daha önce kısaltılmış metin.'
+        t['full_text']='Özgün kaynak paragrafı.\n\nKaynak çekincesi korunur.\n\n'+'Eksiksiz haber. '*40
+        original=copy.deepcopy(t)
+        self.import_(b)
+        self.assertEqual(self.state()['bulletins'][0]['topics'][0],original)
+        article=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
+        self.assertIn(g.prose(t['full_text']),article)
+        self.assertNotIn('Daha önce kısaltılmış metin.',article)
+        for path in ('gazete/index.html','gazete/konu/bilim/index.html','gazete/yazi/morning/test-morning/index.html'):
+            page=(self.root/path).read_text()
+            self.assertNotIn('Detaylı oku',page)
+            self.assertNotIn('/test-morning/detay/',page)
+        self.assertTrue((self.root/'gazete/yazi/morning/test-morning/detay/index.html').is_file())
+
+    def test_morning_single_sentence_and_missing_full_text_stay_exact(self):
+        for include_full in (False,True):
+            b=bulletin();t=b['topics'][0]
+            t['what_happened']='Bu kısa haberin özgün tek cümlesi aynen kalır.'
+            if include_full:t['full_text']=t['what_happened']
+            g.replace_site(self.root,bundle(b),NOW)
+            page=(self.root/'gazete/yazi/morning/test-morning/index.html').read_text()
+            self.assertIn(g.prose(t['what_happened']),page)
+            self.assertEqual(page.count(t['what_happened']),1)
+            self.assertNotIn('Detaylı oku',page)
+
+    def test_other_feeds_keep_short_body_and_detail_buttons(self):
+        for feed in ('ai','youtube_am','youtube_pm'):
+            b=bulletin(feed);t=b['topics'][0];t['full_text']='Yalnız detay sayfasına ait kaynak anlatımı.'
+            g.replace_site(self.root,bundle(b),NOW)
+            page=(self.root/'gazete'/g.article_path(b,t)/'index.html').read_text()
+            self.assertIn(g.prose(t['what_happened']),page)
+            self.assertNotIn(t['full_text'],page)
+            self.assertIn('Detaylı oku',page)
+            self.assertIn('Detaylı oku',g.card(b,t))
 
     def test_details_adapter_preserves_short_fields_and_rejects_mismatches(self):
         import sys

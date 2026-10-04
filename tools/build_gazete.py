@@ -397,10 +397,11 @@ def shell(title, body, categories, route="", active=""):
 
 def card(b, t):
     label = FEEDS[b["feed_id"]][0]
+    detail_cta = '' if b['feed_id'] == 'morning' else f'<a class="detail-read" href="/gazete/{detail_path(b,t)}">Detaylı oku <span aria-hidden="true">→</span></a>'
     return f'''<article class="story"><p class="eyebrow">{esc(CATEGORIES[t['category']])} <span>· {esc(label)}</span></p>
 <h2><a href="/gazete/{article_path(b,t)}">{esc(t['title'])}</a></h2><p>{esc(t['summary'])}</p>
 <div class="story-actions"><a class="read" href="/gazete/{article_path(b,t)}">Yazıyı oku <span aria-hidden="true">→</span></a>
-<a class="detail-read" href="/gazete/{detail_path(b,t)}">Detaylı oku <span aria-hidden="true">→</span></a></div></article>'''
+{detail_cta}</div></article>'''
 
 
 def freshness(current, now):
@@ -452,6 +453,8 @@ def render(current, output, now):
     source_groups = []
     for b,t in pairs:
         paragraphs = prose(t["what_happened"])
+        article_paragraphs = prose(t.get('full_text', t['what_happened'])) if b['feed_id'] == 'morning' else paragraphs
+        detail_cta = '' if b['feed_id'] == 'morning' else f'<p><a class="detail-read" href="/gazete/{detail_path(b,t)}">Detaylı oku <span aria-hidden="true">→</span></a></p>'
         def source_list(items):
             rows = ''.join(f'<li><a href="{esc(s["url"])}" rel="noopener noreferrer">{esc(s["name"])}</a>' + (f'<span>{date_label(s["published_at"])}</span>' if s['published_at'] else '') + '</li>' for s in items)
             return rows
@@ -482,8 +485,8 @@ def render(current, output, now):
         timing_html = '<br>'.join(timing)
         body = f'''<article class="article"><a class="back" href="/gazete/konu/{t['category']}/">← {CATEGORIES[t['category']]}</a>
 <p class="eyebrow">{FEEDS[b['feed_id']][0]} · Bülten: {date_label(b['scheduled_for'])}</p><h1>{esc(t['title'])}</h1><p class="dek">{esc(t['summary'])}</p>
-<section class="prose"><h2>Ne oldu?</h2>{paragraphs}</section>
-<p><a class="detail-read" href="/gazete/{detail_path(b,t)}">Detaylı oku <span aria-hidden="true">→</span></a></p>
+<section class="prose"><h2>Ne oldu?</h2>{article_paragraphs}</section>
+{detail_cta}
 <p class="source-link"><a href="/gazete/kaynaklar/#{source_anchor(b,t)}">Kaynaklar ve kayıt bilgisi</a></p>
 <nav class="article-return" aria-label="Okumaya devam"><a href="/gazete/konu/{t['category']}/">{CATEGORIES[t['category']]} yazıları</a><a href="/gazete/">Gazete ana sayfası</a></nav></article>'''
         write(article_path(b,t), t["title"], body, t["category"])
