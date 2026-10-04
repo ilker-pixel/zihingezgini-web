@@ -3,742 +3,214 @@
   "bulletins": [
     {
       "feed_id": "morning",
-      "scheduled_for": "2026-10-03T08:00:00+03:00",
-      "completed_at": null,
-      "prepared_at": "2026-10-03T22:17:09.510840Z",
+      "bulletin_id": "morning-20261004-0800",
+      "scheduled_for": "2026-10-04T08:00:00+03:00",
+      "completed_at": "2026-10-04T04:32:21+00:00",
+      "prepared_at": "2026-10-04T04:32:21+00:00",
       "coverage_start": null,
       "coverage_end": null,
       "topics": [
         {
-          "id": "general_morning_08-2026-10-03-01",
-          "category": "turkiye",
-          "title": "Soma’da maden göçüğü",
-          "summary": "TMMOB, Soma’daki kömür ocağı göçüğünde 5 işçinin yaşamını yitirdiğini, 2 işçinin yaralandığını açıkladı.",
-          "what_happened": "Manisa'nın Soma ilçesindeki yeraltı kömür ocağında meydana gelen göçükte beş işçi yaşamını yitirdi, iki işçi yaralandı. Türk Mühendis ve Mimar Odaları Birliği, iki Ekim tarihli açıklamasında bu bilgileri paylaştı. Birlik, göçüğün nedenlerinin ve işletme ile denetim süreçlerindeki olası ihmallerin araştırılmasını istedi. Bilimsel ve teknik önlemlerle kamusal denetimin önemine dikkat çekti. Açıklamadaki değerlendirmeler kurumun görüşü; göçüğün kesin nedenine ilişkin tamamlanmış bir inceleme sonucu olarak sunulmuyor.",
-          "sources": [
-            {
-              "name": "SOMA MADEN GÖÇÜĞÜ",
-              "url": "https://www.tmmob.org.tr/icerik/somada-bir-kez-daha-madencilerimizi-kaybettik",
-              "published_at": null
-            }
-          ],
-          "metadata": {
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "TMMOB, 2 Ekim 2026 tarihli açıklama: 5 işçi hayatını kaybetti, 2 işçi yaralandı. Olası ihmallerin araştırılması yönündeki çağrı kurum görüşü olarak aktarıldı; kesinleşmiş soruşturma bulgusu olarak sunulmadı.\nhttps://www.tmmob.org.tr/icerik/somada-bir-kez-daha-madencilerimizi-kaybettik",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            }
-          },
-          "full_text": "Türkiye gündemine Soma'yla başlıyoruz. Manisa'nın Soma ilçesindeki yeraltı kömür ocağında meydana gelen göçükte beş işçi yaşamını yitirdi, iki işçi yaralandı. Türk Mühendis ve Mimar Odaları Birliği, iki Ekim tarihli açıklamasında bu bilgileri paylaştı. Birlik, göçüğün nedenlerinin ve işletme ile denetim süreçlerindeki olası ihmallerin araştırılmasını istedi. Bilimsel ve teknik önlemlerle kamusal denetimin önemine dikkat çekti. Açıklamadaki değerlendirmeler kurumun görüşü; göçüğün kesin nedenine ilişkin tamamlanmış bir inceleme sonucu olarak sunulmuyor.",
-          "full_text_sections": [
-            {
-              "heading": null,
-              "timestamp": null,
-              "url": null,
-              "paragraphs": [
-                "Türkiye gündemine Soma'yla başlıyoruz. Manisa'nın Soma ilçesindeki yeraltı kömür ocağında meydana gelen göçükte beş işçi yaşamını yitirdi, iki işçi yaralandı. Türk Mühendis ve Mimar Odaları Birliği, iki Ekim tarihli açıklamasında bu bilgileri paylaştı. Birlik, göçüğün nedenlerinin ve işletme ile denetim süreçlerindeki olası ihmallerin araştırılmasını istedi. Bilimsel ve teknik önlemlerle kamusal denetimin önemine dikkat çekti. Açıklamadaki değerlendirmeler kurumun görüşü; göçüğün kesin nedenine ilişkin tamamlanmış bir inceleme sonucu olarak sunulmuyor."
-              ]
-            }
-          ],
-          "full_text_sources": [
-            {
-              "name": "SOMA MADEN GÖÇÜĞÜ",
-              "url": "https://www.tmmob.org.tr/icerik/somada-bir-kez-daha-madencilerimizi-kaybettik",
-              "published_at": null
-            }
-          ],
-          "full_text_metadata": {
-            "original_title": "SOMA MADEN GÖÇÜĞÜ",
-            "detail_kind": "original_bulletin_story",
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "TMMOB, 2 Ekim 2026 tarihli açıklama: 5 işçi hayatını kaybetti, 2 işçi yaralandı. Olası ihmallerin araştırılması yönündeki çağrı kurum görüşü olarak aktarıldı; kesinleşmiş soruşturma bulgusu olarak sunulmadı.\nhttps://www.tmmob.org.tr/icerik/somada-bir-kez-daha-madencilerimizi-kaybettik",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            },
-            "length_note": "Özgün bültendeki ilgili haber bölümü aynen alınmıştır; sırf daha uzun olması için ek içerik yazılmamıştır.",
-            "provenance": [
-              {
-                "source_id": "general_original_text",
-                "paragraph_index_zero_based": 1,
-                "verbatim": true,
-                "body_sha256": "a63075d116f32eebb6b4054b76e37b9c8045974400153971fd9df65e380d84de"
-              }
-            ]
-          }
-        },
-        {
-          "id": "general_morning_08-2026-10-03-02",
+          "id": "morning-20261004-fon-kurulu",
           "category": "ekonomi",
-          "title": "Fon tasfiyesinde sıra belirlendi",
-          "summary": "SPK, tasfiyeye para piyasası fonlarından başlanacağını ve yatırımcı sayısına göre ilerlenmesini açıkladı.",
-          "what_happened": "Sermaye Piyasası Kurulunun bir Ekim tarihli duyurusuna göre, A bir Capital, Bulls ve Pardus Portföyün tasfiye listesindeki fonlarında işleme para piyasası fonlarından başlanacak. Sıralamada yatırımcı sayısı en yüksek fondan en düşüğe gidilecek. Kurul, tasfiye dışında kaldığı halde işlemleri durdurulan fonların yeniden açılmasına ilişkin esasları da belirledi. Yeniden işlem tarihi, fonun likiditesi, portföy yapısı ve piyasa koşulları dikkate alınarak ilgili şirket tarafından belirlenecek. Dolayısıyla bu açıklama, kapalı bütün fonlar için tek bir açılış tarihi ilan etmiyor.",
+          "title": "Fon Kurulunda ödeme takvimi ve düzenlemeler görüşüldü",
+          "summary": "İkinci Fon Kurulu toplantısında hesaplama yöntemi ve ödeme takvimi ele alındı; somut ödeme günü açıklanmadı.",
+          "what_happened": "Türkiye'de, fon piyasasının belirli bir bölümünde yaşanan sorunlara ilişkin düzenleme çalışmaları sürüyor. Cumhurbaşkanlığı İletişim Başkanlığının 2 Ekim tarihli açıklamasına göre, Cevdet Yılmaz başkanlığındaki İkinci Fon Kurulu Toplantısı'nda net yatırım tutarının hesaplanma yöntemi, ödemelere ilişkin ikincil düzenlemeler ve ödeme takvimi görüşüldü. Çalışmalar, Sermaye Piyasası Kurulunun 30 Eylül kararları çerçevesinde yürütülüyor. Sermaye Piyasası Kanunu'nda değişiklik öngören taslağa son şeklinin verilmesi için ilgili kurumlara talimat verildi. Açıklamada vatandaşlara ek yük getirilmemesi yaklaşımı vurgulandı. Bununla birlikte, yayımlanan metinde yatırımcılar için somut bir ödeme günü açıklanmadı. Takvimin görüşülmesi, kesin ödeme tarihinin ilan edildiği anlamına gelmiyor.",
           "sources": [
             {
-              "name": "SPK — FON TASFİYE SÜRECİ",
-              "url": "https://www.spk.gov.tr/duyurular/basin-duyurulari/2026/a1-capital-portfoy-yonetimi-a-s-bulls-portfoy-yonetimi-a-s-ve-pardus-portfoy-yonetimi-a-s-nin-kurucusu-oldugu-fonlara-iliskin-tasfiye-sureci-hakkinda-duyuru",
-              "published_at": null
+              "name": "Cumhurbaşkanlığı İletişim Başkanlığı",
+              "url": "https://www.iletisim.gov.tr/turkce/haberler/detay/ikincil-duzenlemeler-ve-odeme-takviminin-ele-alindigi-ikinci-fon-kurulu-toplantisina-iliskin-aciklama",
+              "published_at": "2026-10-02"
             }
           ],
           "metadata": {
-            "publication": {
-              "at": null,
-              "date": "2026-10-01",
-              "kind": "source_publication_or_dated_record",
-              "note": "Birincil kaynak, 1 Ekim 2026 duyurusu. Para piyasası fonlarından başlanarak yatırımcı sayısına göre sıralama; tasfiye dışı kapalı fonların yeniden açılmasına ilişkin esaslar. Metin bütün fonlara ortak kesin açılış tarihi vermez.\nhttps://www.spk.gov.tr/duyurular/basin-duyurulari/2026/a1-capital-portfoy-yonetimi-a-s-bulls-portfoy-yonetimi-a-s-ve-pardus-portfoy-yonetimi-a-s-nin-kurucusu-oldugu-fonlara-iliskin-tasfiye-sureci-hakkinda-duyuru",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            }
+            "event_date": "2026-10-02"
           },
-          "full_text": "Ekonomide, yatırım fonlarının tasfiye süreci gündemde. Sermaye Piyasası Kurulunun bir Ekim tarihli duyurusuna göre, A bir Capital, Bulls ve Pardus Portföyün tasfiye listesindeki fonlarında işleme para piyasası fonlarından başlanacak. Sıralamada yatırımcı sayısı en yüksek fondan en düşüğe gidilecek. Kurul, tasfiye dışında kaldığı halde işlemleri durdurulan fonların yeniden açılmasına ilişkin esasları da belirledi. Yeniden işlem tarihi, fonun likiditesi, portföy yapısı ve piyasa koşulları dikkate alınarak ilgili şirket tarafından belirlenecek. Dolayısıyla bu açıklama, kapalı bütün fonlar için tek bir açılış tarihi ilan etmiyor.",
-          "full_text_sections": [
-            {
-              "heading": null,
-              "timestamp": null,
-              "url": null,
-              "paragraphs": [
-                "Ekonomide, yatırım fonlarının tasfiye süreci gündemde. Sermaye Piyasası Kurulunun bir Ekim tarihli duyurusuna göre, A bir Capital, Bulls ve Pardus Portföyün tasfiye listesindeki fonlarında işleme para piyasası fonlarından başlanacak. Sıralamada yatırımcı sayısı en yüksek fondan en düşüğe gidilecek. Kurul, tasfiye dışında kaldığı halde işlemleri durdurulan fonların yeniden açılmasına ilişkin esasları da belirledi. Yeniden işlem tarihi, fonun likiditesi, portföy yapısı ve piyasa koşulları dikkate alınarak ilgili şirket tarafından belirlenecek. Dolayısıyla bu açıklama, kapalı bütün fonlar için tek bir açılış tarihi ilan etmiyor."
-              ]
-            }
-          ],
-          "full_text_sources": [
-            {
-              "name": "SPK — FON TASFİYE SÜRECİ",
-              "url": "https://www.spk.gov.tr/duyurular/basin-duyurulari/2026/a1-capital-portfoy-yonetimi-a-s-bulls-portfoy-yonetimi-a-s-ve-pardus-portfoy-yonetimi-a-s-nin-kurucusu-oldugu-fonlara-iliskin-tasfiye-sureci-hakkinda-duyuru",
-              "published_at": null
-            }
-          ],
-          "full_text_metadata": {
-            "original_title": "SPK — FON TASFİYE SÜRECİ",
-            "detail_kind": "original_bulletin_story",
-            "publication": {
-              "at": null,
-              "date": "2026-10-01",
-              "kind": "source_publication_or_dated_record",
-              "note": "Birincil kaynak, 1 Ekim 2026 duyurusu. Para piyasası fonlarından başlanarak yatırımcı sayısına göre sıralama; tasfiye dışı kapalı fonların yeniden açılmasına ilişkin esaslar. Metin bütün fonlara ortak kesin açılış tarihi vermez.\nhttps://www.spk.gov.tr/duyurular/basin-duyurulari/2026/a1-capital-portfoy-yonetimi-a-s-bulls-portfoy-yonetimi-a-s-ve-pardus-portfoy-yonetimi-a-s-nin-kurucusu-oldugu-fonlara-iliskin-tasfiye-sureci-hakkinda-duyuru",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            },
-            "length_note": "Özgün bültendeki ilgili haber bölümü aynen alınmıştır; sırf daha uzun olması için ek içerik yazılmamıştır.",
-            "provenance": [
-              {
-                "source_id": "general_original_text",
-                "paragraph_index_zero_based": 2,
-                "verbatim": true,
-                "body_sha256": "57fe87ec29e346e737042837441f154ec8e98c15ae23d7e94506a5f562e8eda5"
-              }
-            ]
-          }
+          "full_text": "Türkiye'de, fon piyasasının belirli bir bölümünde yaşanan sorunlara ilişkin düzenleme çalışmaları sürüyor. Cumhurbaşkanlığı İletişim Başkanlığının 2 Ekim tarihli açıklamasına göre, Cevdet Yılmaz başkanlığındaki İkinci Fon Kurulu Toplantısı'nda net yatırım tutarının hesaplanma yöntemi, ödemelere ilişkin ikincil düzenlemeler ve ödeme takvimi görüşüldü. Çalışmalar, Sermaye Piyasası Kurulunun 30 Eylül kararları çerçevesinde yürütülüyor. Sermaye Piyasası Kanunu'nda değişiklik öngören taslağa son şeklinin verilmesi için ilgili kurumlara talimat verildi. Açıklamada vatandaşlara ek yük getirilmemesi yaklaşımı vurgulandı. Bununla birlikte, yayımlanan metinde yatırımcılar için somut bir ödeme günü açıklanmadı. Takvimin görüşülmesi, kesin ödeme tarihinin ilan edildiği anlamına gelmiyor."
         },
         {
-          "id": "general_morning_08-2026-10-03-03",
+          "id": "morning-20261004-eylul-ihracat",
           "category": "ekonomi",
-          "title": "TMO’dan buğday satışı",
-          "summary": "TMO, 5 Ekim’den itibaren 5,5 milyon ton buğdayı satışa sunacağını bildirdi.",
-          "what_happened": "Anadolu Ajansının aktardığı yazılı açıklamaya göre, beş Ekim Pazartesiden itibaren toplam beş buçuk milyon ton ekmeklik ve makarnalık buğday satışa sunulacak. Lisanslı depolardaki stokların Türkiye Ürün İhtisas Borsası üzerinden satışına devam edilirken, Ofis depolarındaki stoklar da kullanıcılara açılacak. Kurum, hasat döneminde ilan edilen satış fiyatlarını artırmadığını belirtiyor. Bu kararın tüketici fiyatlarına ne ölçüde yansıyacağına ilişkin açıklanmış kesin bir sonuç bulunmuyor.",
+          "title": "Eylül ihracatında otomotiv ilk sırada",
+          "summary": "Otomotiv endüstrisi eylülde 3,94 milyar dolarlık ihracatla sektörler arasında ilk sırayı aldı.",
+          "what_happened": "İhracatta eylül ayının sektör lideri otomotiv oldu. Anadolu Ajansının 3 Ekim'de Türkiye İhracatçılar Meclisi verilerinden aktardığına göre, otomotiv endüstrisinin aylık ihracatı 3 milyar 940 milyon dolara ulaştı. Kimyevi maddeler ve mamulleri yaklaşık 3 milyar 68 milyon dolarla ikinci, elektrik ve elektronik yaklaşık 2 milyar 63 milyon dolarla üçüncü sırada. Sanayi grubunun ihracatı, geçen yılın aynı ayına göre yüzde 16,8 artarak 18,8 milyar doları geçti. En çok ihracat yapılan ülkeler Almanya, Amerika Birleşik Devletleri ve Birleşik Krallık olarak sıralandı. En çok ihracat yapan iller ise İstanbul, Kocaeli ve Ankara oldu. Bu veriler tamamlanan eylül ayının dış satım tablosunu gösteriyor.",
           "sources": [
             {
-              "name": "TMO — BUĞDAY ARZI",
-              "url": "https://www.aa.com.tr/tr/ekonomi/tmo-bu-ay-piyasaya-5-5-milyon-ton-bugday-arz-edecek/4076378",
-              "published_at": null
+              "name": "Anadolu Ajansı — TİM verileri",
+              "url": "https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisi-eylulde-yaklasik-4-milyar-dolarlik-ihracatla-ilk-sirada-yer-aldi/4076904",
+              "published_at": "2026-10-03"
             }
           ],
           "metadata": {
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "TMO'nun yazılı açıklamasını aktaran Anadolu Ajansı, 2 Ekim 2026. 5 Ekim'den itibaren 5,5 milyon ton buğday; hasat dönemindeki ilan edilmiş satış fiyatlarında artış olmadığı açıklaması.\nhttps://www.aa.com.tr/tr/ekonomi/tmo-bu-ay-piyasaya-5-5-milyon-ton-bugday-arz-edecek/4076378",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            }
+            "data_period": "2026-09-01 / 2026-09-30"
           },
-          "full_text": "Gıda arzına ilişkin yeni bir açıklama da Toprak Mahsulleri Ofisinden geldi. Anadolu Ajansının aktardığı yazılı açıklamaya göre, beş Ekim Pazartesiden itibaren toplam beş buçuk milyon ton ekmeklik ve makarnalık buğday satışa sunulacak. Lisanslı depolardaki stokların Türkiye Ürün İhtisas Borsası üzerinden satışına devam edilirken, Ofis depolarındaki stoklar da kullanıcılara açılacak. Kurum, hasat döneminde ilan edilen satış fiyatlarını artırmadığını belirtiyor. Bu kararın tüketici fiyatlarına ne ölçüde yansıyacağına ilişkin açıklanmış kesin bir sonuç bulunmuyor.",
-          "full_text_sections": [
-            {
-              "heading": null,
-              "timestamp": null,
-              "url": null,
-              "paragraphs": [
-                "Gıda arzına ilişkin yeni bir açıklama da Toprak Mahsulleri Ofisinden geldi. Anadolu Ajansının aktardığı yazılı açıklamaya göre, beş Ekim Pazartesiden itibaren toplam beş buçuk milyon ton ekmeklik ve makarnalık buğday satışa sunulacak. Lisanslı depolardaki stokların Türkiye Ürün İhtisas Borsası üzerinden satışına devam edilirken, Ofis depolarındaki stoklar da kullanıcılara açılacak. Kurum, hasat döneminde ilan edilen satış fiyatlarını artırmadığını belirtiyor. Bu kararın tüketici fiyatlarına ne ölçüde yansıyacağına ilişkin açıklanmış kesin bir sonuç bulunmuyor."
-              ]
-            }
-          ],
-          "full_text_sources": [
-            {
-              "name": "TMO — BUĞDAY ARZI",
-              "url": "https://www.aa.com.tr/tr/ekonomi/tmo-bu-ay-piyasaya-5-5-milyon-ton-bugday-arz-edecek/4076378",
-              "published_at": null
-            }
-          ],
-          "full_text_metadata": {
-            "original_title": "TMO — BUĞDAY ARZI",
-            "detail_kind": "original_bulletin_story",
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "TMO'nun yazılı açıklamasını aktaran Anadolu Ajansı, 2 Ekim 2026. 5 Ekim'den itibaren 5,5 milyon ton buğday; hasat dönemindeki ilan edilmiş satış fiyatlarında artış olmadığı açıklaması.\nhttps://www.aa.com.tr/tr/ekonomi/tmo-bu-ay-piyasaya-5-5-milyon-ton-bugday-arz-edecek/4076378",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            },
-            "length_note": "Özgün bültendeki ilgili haber bölümü aynen alınmıştır; sırf daha uzun olması için ek içerik yazılmamıştır.",
-            "provenance": [
-              {
-                "source_id": "general_original_text",
-                "paragraph_index_zero_based": 3,
-                "verbatim": true,
-                "body_sha256": "f37542fd2abdef88681474fbde8b5dd573436cfc58fddf2e19e79755cfe5451f"
-              }
-            ]
-          }
+          "full_text": "İhracatta eylül ayının sektör lideri otomotiv oldu. Anadolu Ajansının 3 Ekim'de Türkiye İhracatçılar Meclisi verilerinden aktardığına göre, otomotiv endüstrisinin aylık ihracatı 3 milyar 940 milyon dolara ulaştı. Kimyevi maddeler ve mamulleri yaklaşık 3 milyar 68 milyon dolarla ikinci, elektrik ve elektronik yaklaşık 2 milyar 63 milyon dolarla üçüncü sırada. Sanayi grubunun ihracatı, geçen yılın aynı ayına göre yüzde 16,8 artarak 18,8 milyar doları geçti. En çok ihracat yapılan ülkeler Almanya, Amerika Birleşik Devletleri ve Birleşik Krallık olarak sıralandı. En çok ihracat yapan iller ise İstanbul, Kocaeli ve Ankara oldu. Bu veriler tamamlanan eylül ayının dış satım tablosunu gösteriyor."
         },
         {
-          "id": "general_morning_08-2026-10-03-04",
+          "id": "morning-20261004-trump-iran",
           "category": "dunya",
-          "title": "G7 petrol stoklarını açıyor",
-          "summary": "G7 liderleri, dört ay içinde stratejik stoklardan 100 milyon varile kadar petrol ve dizelin piyasaya verilmesini kararlaştırdı.",
-          "what_happened": "G yedi liderleri, iki Ekimdeki çevrim içi toplantılarının ardından stratejik petrol ve dizel stoklarından dört ay içinde yüz milyon varile kadar ürünün piyasaya verilmesini kararlaştırdı. Fransa Cumhurbaşkanlığının yayımladığı açıklamaya göre, süreci Uluslararası Enerji Ajansı koordine edecek. Rafinerilerin bakım takvimleri eş zamanlı kapasite kaybını azaltacak biçimde düzenlenecek; uygun tesislerde üretim geçici olarak artırılacak. Üyeler, kendi aralarında enerji ihracatına yeni kısıtlamalar getirmekten kaçınacaklarını da açıkladı. Hedef, arz üzerindeki baskıyı hafifletmek. Karar, akaryakıt fiyatlarında belirli büyüklükte bir düşüşü garanti etmiyor.",
+          "title": "Trump, İran konusunda karar aşamasında olduğunu söyledi",
+          "summary": "Trump, İran konusunda karar aşamasında olduğunu belirtirken yeni bir kararın ayrıntılarını açıklamadı.",
+          "what_happened": "Dünya gündeminde Amerika Birleşik Devletleri Başkanı Donald Trump'ın İran açıklaması var. Anadolu Ajansının 4 Ekim tarihli haberine göre Trump, Ohio'daki mitingine gitmeden önce Beyaz Saray'da gazetecilerin sorularını yanıtladı. İran konusunda karar verme aşamasında olduğunu söyledi; sürecin kolay ya da zor bir yolla ilerleyebileceği mesajını verdi. İran'ın nükleer silah edinme planlarından fiilen vazgeçtiği yönünde de bir değerlendirme yaptı. Bu son ifade Trump'ın açıklaması; bağımsız biçimde doğrulanmış bir sonuç olarak aktarılmıyor. Haberde yeni bir anlaşmanın imzalandığına veya yeni bir askerî operasyonun başladığına dair bilgi yer almıyor.",
           "sources": [
             {
-              "name": "G7 — ENERJİ STOKLARI",
-              "url": "https://www.elysee.fr/G7evian/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability-1",
-              "published_at": null
-            },
-            {
-              "name": "G7 — ENERJİ STOKLARI",
-              "url": "https://www.elysee.fr/emmanuel-macron/2026/10/02/visioconference-des-dirigeants-du-g7-sur-la-situation-energetique-mondiale",
-              "published_at": null
+              "name": "Anadolu Ajansı",
+              "url": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-ilgili-karar-asamasinda-oldugunu-belirtti/4077325",
+              "published_at": "2026-10-04"
             }
           ],
           "metadata": {
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "Birincil kaynak: Fransa Cumhurbaşkanlığı/G7, 2 Ekim 2026 liderler açıklaması. IEA koordinasyonunda dört aylık dönemde 100 milyon varil; rafineri bakım koordinasyonu ve üyeler arası ihracat kısıtlamalarından kaçınma.\nhttps://www.elysee.fr/G7evian/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability-1\nFransa Cumhurbaşkanlığının Fransızca özeti 100 milyon varile kadar ifadesini kullanır:\nhttps://www.elysee.fr/emmanuel-macron/2026/10/02/visioconference-des-dirigeants-du-g7-sur-la-situation-energetique-mondiale",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            }
+            "event_date": null,
+            "source_caveat": "Nükleer silah planlarına ilişkin ifade Trump’ın değerlendirmesidir; bağımsız doğrulanmış sonuç değildir."
           },
-          "full_text": "Dünya gündeminde enerji öne çıkıyor. G yedi liderleri, iki Ekimdeki çevrim içi toplantılarının ardından stratejik petrol ve dizel stoklarından dört ay içinde yüz milyon varile kadar ürünün piyasaya verilmesini kararlaştırdı. Fransa Cumhurbaşkanlığının yayımladığı açıklamaya göre, süreci Uluslararası Enerji Ajansı koordine edecek. Rafinerilerin bakım takvimleri eş zamanlı kapasite kaybını azaltacak biçimde düzenlenecek; uygun tesislerde üretim geçici olarak artırılacak. Üyeler, kendi aralarında enerji ihracatına yeni kısıtlamalar getirmekten kaçınacaklarını da açıkladı. Hedef, arz üzerindeki baskıyı hafifletmek. Karar, akaryakıt fiyatlarında belirli büyüklükte bir düşüşü garanti etmiyor.",
-          "full_text_sections": [
-            {
-              "heading": null,
-              "timestamp": null,
-              "url": null,
-              "paragraphs": [
-                "Dünya gündeminde enerji öne çıkıyor. G yedi liderleri, iki Ekimdeki çevrim içi toplantılarının ardından stratejik petrol ve dizel stoklarından dört ay içinde yüz milyon varile kadar ürünün piyasaya verilmesini kararlaştırdı. Fransa Cumhurbaşkanlığının yayımladığı açıklamaya göre, süreci Uluslararası Enerji Ajansı koordine edecek. Rafinerilerin bakım takvimleri eş zamanlı kapasite kaybını azaltacak biçimde düzenlenecek; uygun tesislerde üretim geçici olarak artırılacak. Üyeler, kendi aralarında enerji ihracatına yeni kısıtlamalar getirmekten kaçınacaklarını da açıkladı. Hedef, arz üzerindeki baskıyı hafifletmek. Karar, akaryakıt fiyatlarında belirli büyüklükte bir düşüşü garanti etmiyor."
-              ]
-            }
-          ],
-          "full_text_sources": [
-            {
-              "name": "G7 — ENERJİ STOKLARI",
-              "url": "https://www.elysee.fr/G7evian/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability-1",
-              "published_at": null
-            },
-            {
-              "name": "G7 — ENERJİ STOKLARI",
-              "url": "https://www.elysee.fr/emmanuel-macron/2026/10/02/visioconference-des-dirigeants-du-g7-sur-la-situation-energetique-mondiale",
-              "published_at": null
-            }
-          ],
-          "full_text_metadata": {
-            "original_title": "G7 — ENERJİ STOKLARI",
-            "detail_kind": "original_bulletin_story",
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "Birincil kaynak: Fransa Cumhurbaşkanlığı/G7, 2 Ekim 2026 liderler açıklaması. IEA koordinasyonunda dört aylık dönemde 100 milyon varil; rafineri bakım koordinasyonu ve üyeler arası ihracat kısıtlamalarından kaçınma.\nhttps://www.elysee.fr/G7evian/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability-1\nFransa Cumhurbaşkanlığının Fransızca özeti 100 milyon varile kadar ifadesini kullanır:\nhttps://www.elysee.fr/emmanuel-macron/2026/10/02/visioconference-des-dirigeants-du-g7-sur-la-situation-energetique-mondiale",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            },
-            "length_note": "Özgün bültendeki ilgili haber bölümü aynen alınmıştır; sırf daha uzun olması için ek içerik yazılmamıştır.",
-            "provenance": [
-              {
-                "source_id": "general_original_text",
-                "paragraph_index_zero_based": 4,
-                "verbatim": true,
-                "body_sha256": "0df02441ad09d189bcca3075cc03f06a34509887df0bedf06e35fa337503c59c"
-              }
-            ]
-          }
+          "full_text": "Dünya gündeminde Amerika Birleşik Devletleri Başkanı Donald Trump'ın İran açıklaması var. Anadolu Ajansının 4 Ekim tarihli haberine göre Trump, Ohio'daki mitingine gitmeden önce Beyaz Saray'da gazetecilerin sorularını yanıtladı. İran konusunda karar verme aşamasında olduğunu söyledi; sürecin kolay ya da zor bir yolla ilerleyebileceği mesajını verdi. İran'ın nükleer silah edinme planlarından fiilen vazgeçtiği yönünde de bir değerlendirme yaptı. Bu son ifade Trump'ın açıklaması; bağımsız biçimde doğrulanmış bir sonuç olarak aktarılmıyor. Haberde yeni bir anlaşmanın imzalandığına veya yeni bir askerî operasyonun başladığına dair bilgi yer almıyor."
         },
         {
-          "id": "general_morning_08-2026-10-03-05",
-          "category": "dunya",
-          "title": "Gazze’de kış öncesi yardım çağrısı",
-          "summary": "DSÖ, Gazze’ye sağlık malzemesi girişinin artırılmasını ve yaklaşan kış için barınma ihtiyacının karşılanmasını istiyor.",
-          "what_happened": "Gazze'de ise yaklaşan kış öncesinde sağlık malzemesi ve barınma ihtiyacı öne çıkıyor. Birleşmiş Milletlerin iki Ekim tarihli haberinde Dünya Sağlık Örgütü, ilaç, protez ve yardımcı cihazların girişindeki gecikmelere dikkat çekti. Örgüt, sağlık ve insani yardım malzemelerinin daha büyük ölçekte, düzenli ve öngörülebilir biçimde bölgeye ulaştırılmasını istiyor. Aynı açıklamada, yaklaşık iki milyon kişinin soğuk ve sel riskine karşı barınmaya ihtiyaç duyduğu belirtildi. Temiz su ve güvenli barınma eksikliği, önlenebilir hastalıklar açısından riski artırıyor. Burada aktarılan ihtiyaç değerlendirmeleri Dünya Sağlık Örgütüne ait.",
+          "id": "morning-20261004-gazze-saglik",
+          "category": "saglik",
+          "title": "DSÖ, Gazze’de sağlık malzemelerinin geciktiğini bildirdi",
+          "summary": "DSÖ, Gazze’de tam işlevsel hastane bulunmadığını ve tıbbi malzemelerin onayında ortanca bekleme süresinin 74 gün olduğunu açıkladı.",
+          "what_happened": "Gazze'de ise sağlık yardımlarının ulaştırılmasındaki sorunlar devam ediyor. Dünya Sağlık Örgütünün işgal altındaki Filistin toprakları temsilcisi, 2 Ekim'deki Birleşmiş Milletler Cenevre brifinginde, Gazze'de tam kapasite çalışan hiçbir hastane bulunmadığını açıkladı. Bunun başlıca nedenleri arasında ilaç ve tıbbi malzeme eksikliği gösteriliyor. Örgütün incelemesine göre, İsrail makamlarının onayını bekleyen tıbbi malzemeler için ortanca bekleme süresi 74 gün. Laboratuvar ve tanı ekipmanlarının yüzde 40'ı hâlâ onay bekliyor. Röntgen cihazları, sterilizasyon ekipmanları ve bilgisayarlı tomografi cihazlarının yedek parçaları geciken veya reddedilen malzemeler arasında. Örgüt, sağlık malzemelerinin düzenli, öngörülebilir ve ihtiyaçları karşılayacak ölçekte girişine izin verilmesini istedi. Malzeme onay alsa bile sonraki kontroller ve gecikmelerin sevkiyatı aksatabildiğini de belirtti.",
           "sources": [
             {
-              "name": "GAZZE — DSÖ AÇIKLAMASI",
-              "url": "https://news.un.org/en/story/2026/10/1168508",
-              "published_at": null
-            },
-            {
-              "name": "GAZZE — DSÖ AÇIKLAMASI",
-              "url": "https://www.un.org/en/gaza-who-appeals-massive-aid-influx-ahead-winter",
-              "published_at": null
-            },
-            {
-              "name": "GAZZE — DSÖ AÇIKLAMASI",
-              "url": "https://www.globalissues.org/news/2026/10/02/44244",
-              "published_at": null
+              "name": "BM Cenevre — 2 Ekim 2026 DSÖ brifingi",
+              "url": "https://www.unognewsroom.org/teleprompter/en/3283/un-geneva-press-briefing-02-october2026/9734",
+              "published_at": "2026-10-02"
             }
           ],
           "metadata": {
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "UN News, 2 Ekim 2026; DSÖ temsilcisinin tıbbi malzeme, barınma ve kış koşulları açıklaması. Birleşmiş Milletlerin ana sayfasındaki tarihli özet doğrulandı. Haber alt sayfasına doğrudan erişim başarısız olduğundan detaylar UN News imzasıyla yayımlanan Global Issues kopyasından okundu. Özgün kaynak ve erişilen kopya:\nhttps://news.un.org/en/story/2026/10/1168508\nhttps://www.un.org/en/gaza-who-appeals-massive-aid-influx-ahead-winter\nhttps://www.globalissues.org/news/2026/10/02/44244",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            }
+            "event_date": "2026-10-02"
           },
-          "full_text": "Gazze'de ise yaklaşan kış öncesinde sağlık malzemesi ve barınma ihtiyacı öne çıkıyor. Birleşmiş Milletlerin iki Ekim tarihli haberinde Dünya Sağlık Örgütü, ilaç, protez ve yardımcı cihazların girişindeki gecikmelere dikkat çekti. Örgüt, sağlık ve insani yardım malzemelerinin daha büyük ölçekte, düzenli ve öngörülebilir biçimde bölgeye ulaştırılmasını istiyor. Aynı açıklamada, yaklaşık iki milyon kişinin soğuk ve sel riskine karşı barınmaya ihtiyaç duyduğu belirtildi. Temiz su ve güvenli barınma eksikliği, önlenebilir hastalıklar açısından riski artırıyor. Burada aktarılan ihtiyaç değerlendirmeleri Dünya Sağlık Örgütüne ait.",
-          "full_text_sections": [
-            {
-              "heading": null,
-              "timestamp": null,
-              "url": null,
-              "paragraphs": [
-                "Gazze'de ise yaklaşan kış öncesinde sağlık malzemesi ve barınma ihtiyacı öne çıkıyor. Birleşmiş Milletlerin iki Ekim tarihli haberinde Dünya Sağlık Örgütü, ilaç, protez ve yardımcı cihazların girişindeki gecikmelere dikkat çekti. Örgüt, sağlık ve insani yardım malzemelerinin daha büyük ölçekte, düzenli ve öngörülebilir biçimde bölgeye ulaştırılmasını istiyor. Aynı açıklamada, yaklaşık iki milyon kişinin soğuk ve sel riskine karşı barınmaya ihtiyaç duyduğu belirtildi. Temiz su ve güvenli barınma eksikliği, önlenebilir hastalıklar açısından riski artırıyor. Burada aktarılan ihtiyaç değerlendirmeleri Dünya Sağlık Örgütüne ait."
-              ]
-            }
-          ],
-          "full_text_sources": [
-            {
-              "name": "GAZZE — DSÖ AÇIKLAMASI",
-              "url": "https://news.un.org/en/story/2026/10/1168508",
-              "published_at": null
-            },
-            {
-              "name": "GAZZE — DSÖ AÇIKLAMASI",
-              "url": "https://www.un.org/en/gaza-who-appeals-massive-aid-influx-ahead-winter",
-              "published_at": null
-            },
-            {
-              "name": "GAZZE — DSÖ AÇIKLAMASI",
-              "url": "https://www.globalissues.org/news/2026/10/02/44244",
-              "published_at": null
-            }
-          ],
-          "full_text_metadata": {
-            "original_title": "GAZZE — DSÖ AÇIKLAMASI",
-            "detail_kind": "original_bulletin_story",
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "UN News, 2 Ekim 2026; DSÖ temsilcisinin tıbbi malzeme, barınma ve kış koşulları açıklaması. Birleşmiş Milletlerin ana sayfasındaki tarihli özet doğrulandı. Haber alt sayfasına doğrudan erişim başarısız olduğundan detaylar UN News imzasıyla yayımlanan Global Issues kopyasından okundu. Özgün kaynak ve erişilen kopya:\nhttps://news.un.org/en/story/2026/10/1168508\nhttps://www.un.org/en/gaza-who-appeals-massive-aid-influx-ahead-winter\nhttps://www.globalissues.org/news/2026/10/02/44244",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            },
-            "length_note": "Özgün bültendeki ilgili haber bölümü aynen alınmıştır; sırf daha uzun olması için ek içerik yazılmamıştır.",
-            "provenance": [
-              {
-                "source_id": "general_original_text",
-                "paragraph_index_zero_based": 5,
-                "verbatim": true,
-                "body_sha256": "c2a39355e59de60dacffe769aaf8243e4e0501a807afb8b2d63768a81f9bfd91"
-              }
-            ]
-          }
+          "full_text": "Gazze'de ise sağlık yardımlarının ulaştırılmasındaki sorunlar devam ediyor. Dünya Sağlık Örgütünün işgal altındaki Filistin toprakları temsilcisi, 2 Ekim'deki Birleşmiş Milletler Cenevre brifinginde, Gazze'de tam kapasite çalışan hiçbir hastane bulunmadığını açıkladı. Bunun başlıca nedenleri arasında ilaç ve tıbbi malzeme eksikliği gösteriliyor. Örgütün incelemesine göre, İsrail makamlarının onayını bekleyen tıbbi malzemeler için ortanca bekleme süresi 74 gün. Laboratuvar ve tanı ekipmanlarının yüzde 40'ı hâlâ onay bekliyor. Röntgen cihazları, sterilizasyon ekipmanları ve bilgisayarlı tomografi cihazlarının yedek parçaları geciken veya reddedilen malzemeler arasında. Örgüt, sağlık malzemelerinin düzenli, öngörülebilir ve ihtiyaçları karşılayacak ölçekte girişine izin verilmesini istedi. Malzeme onay alsa bile sonraki kontroller ve gecikmelerin sevkiyatı aksatabildiğini de belirtti."
         },
         {
-          "id": "general_morning_08-2026-10-03-06",
-          "category": "dunya",
-          "title": "Yemen’de açlık ağırlaşıyor",
-          "summary": "Dünya Gıda Programı, yeniden yoğunlaşan çatışmaların yerinden edilmeyi ve gıda güvensizliğini artırdığını bildiriyor.",
-          "what_happened": "Yemen'de Dünya Gıda Programı, yeniden yoğunlaşan çatışmaların açlığı derinleştirdiğini bildiriyor. Birleşmiş Milletlerin iki Ekim tarihli haberine göre, güneybatı kıyısındaki çatışmalar yaklaşık yüz elli bin kişiyi evinden etti. Ülke genelinde on sekiz milyondan fazla kişi akut gıda güvensizliğiyle karşı karşıya. Program, gıda taşımacılığındaki aksaklıklar ve yükselen fiyatların yardıma erişimi zorlaştırdığını söylüyor. Babülmendep Boğazındaki istikrarsızlığın, gıda ve yakıt taşımacılığı üzerinden Yemen dışındaki ülkeleri de etkileyebileceği uyarısı yapılıyor. Bu, kurumun risk değerlendirmesi; gelecekteki fiyat artışına ilişkin kesin bir tahmin değil.",
-          "sources": [
-            {
-              "name": "YEMEN — DÜNYA GIDA PROGRAMI",
-              "url": "https://news.un.org/en/story/2026/10/1168509",
-              "published_at": null
-            },
-            {
-              "name": "YEMEN — DÜNYA GIDA PROGRAMI",
-              "url": "https://www.un.org/en/escalating-fighting-yemen-deepens-food-security-crisis",
-              "published_at": null
-            },
-            {
-              "name": "YEMEN — DÜNYA GIDA PROGRAMI",
-              "url": "https://www.globalissues.org/news/2026/10/02/44245",
-              "published_at": null
-            }
-          ],
-          "metadata": {
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "UN News, 2 Ekim 2026. Yaklaşık 150 bin yerinden edilen kişi, 18 milyondan fazla akut gıda güvensizliği yaşayan kişi ve ulaşım/fiyat riskleri kurum açıklaması olarak aktarıldı. Ana BM özeti doğrulandı; tam metin UN News imzalı Global Issues kopyasından okundu.\nhttps://news.un.org/en/story/2026/10/1168509\nhttps://www.un.org/en/escalating-fighting-yemen-deepens-food-security-crisis\nhttps://www.globalissues.org/news/2026/10/02/44245",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            }
-          },
-          "full_text": "Yemen'de Dünya Gıda Programı, yeniden yoğunlaşan çatışmaların açlığı derinleştirdiğini bildiriyor. Birleşmiş Milletlerin iki Ekim tarihli haberine göre, güneybatı kıyısındaki çatışmalar yaklaşık yüz elli bin kişiyi evinden etti. Ülke genelinde on sekiz milyondan fazla kişi akut gıda güvensizliğiyle karşı karşıya. Program, gıda taşımacılığındaki aksaklıklar ve yükselen fiyatların yardıma erişimi zorlaştırdığını söylüyor. Babülmendep Boğazındaki istikrarsızlığın, gıda ve yakıt taşımacılığı üzerinden Yemen dışındaki ülkeleri de etkileyebileceği uyarısı yapılıyor. Bu, kurumun risk değerlendirmesi; gelecekteki fiyat artışına ilişkin kesin bir tahmin değil.",
-          "full_text_sections": [
-            {
-              "heading": null,
-              "timestamp": null,
-              "url": null,
-              "paragraphs": [
-                "Yemen'de Dünya Gıda Programı, yeniden yoğunlaşan çatışmaların açlığı derinleştirdiğini bildiriyor. Birleşmiş Milletlerin iki Ekim tarihli haberine göre, güneybatı kıyısındaki çatışmalar yaklaşık yüz elli bin kişiyi evinden etti. Ülke genelinde on sekiz milyondan fazla kişi akut gıda güvensizliğiyle karşı karşıya. Program, gıda taşımacılığındaki aksaklıklar ve yükselen fiyatların yardıma erişimi zorlaştırdığını söylüyor. Babülmendep Boğazındaki istikrarsızlığın, gıda ve yakıt taşımacılığı üzerinden Yemen dışındaki ülkeleri de etkileyebileceği uyarısı yapılıyor. Bu, kurumun risk değerlendirmesi; gelecekteki fiyat artışına ilişkin kesin bir tahmin değil."
-              ]
-            }
-          ],
-          "full_text_sources": [
-            {
-              "name": "YEMEN — DÜNYA GIDA PROGRAMI",
-              "url": "https://news.un.org/en/story/2026/10/1168509",
-              "published_at": null
-            },
-            {
-              "name": "YEMEN — DÜNYA GIDA PROGRAMI",
-              "url": "https://www.un.org/en/escalating-fighting-yemen-deepens-food-security-crisis",
-              "published_at": null
-            },
-            {
-              "name": "YEMEN — DÜNYA GIDA PROGRAMI",
-              "url": "https://www.globalissues.org/news/2026/10/02/44245",
-              "published_at": null
-            }
-          ],
-          "full_text_metadata": {
-            "original_title": "YEMEN — DÜNYA GIDA PROGRAMI",
-            "detail_kind": "original_bulletin_story",
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "UN News, 2 Ekim 2026. Yaklaşık 150 bin yerinden edilen kişi, 18 milyondan fazla akut gıda güvensizliği yaşayan kişi ve ulaşım/fiyat riskleri kurum açıklaması olarak aktarıldı. Ana BM özeti doğrulandı; tam metin UN News imzalı Global Issues kopyasından okundu.\nhttps://news.un.org/en/story/2026/10/1168509\nhttps://www.un.org/en/escalating-fighting-yemen-deepens-food-security-crisis\nhttps://www.globalissues.org/news/2026/10/02/44245",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Olayın zamanı kaynak yayınıyla aynı varsayılmaz; tarihler anlatımda korunmuştur."
-            },
-            "length_note": "Özgün bültendeki ilgili haber bölümü aynen alınmıştır; sırf daha uzun olması için ek içerik yazılmamıştır.",
-            "provenance": [
-              {
-                "source_id": "general_original_text",
-                "paragraph_index_zero_based": 6,
-                "verbatim": true,
-                "body_sha256": "317598ac61f5d73b4846ab55da274f37164e167c1fe39d0c5913eee62f3cd05a"
-              }
-            ]
-          }
-        },
-        {
-          "id": "general_morning_08-2026-10-03-07",
+          "id": "morning-20261004-doviz",
           "category": "ekonomi",
-          "title": "Piyasalarda cuma görünümü",
-          "summary": "BIST 100, 2 Ekim’i yüzde 0,17 yükselişle 12.270,18 puanda tamamladı; döviz ve altın değerleri de tarihli kayıtlara dayanıyor.",
-          "what_happened": "Hafta sonu olduğu için Borsa İstanbulda bugün olağan seans yok; aktardığımız borsa verisi iki Ekim Cuma kapanışına ait. BİST yüz endeksi günü yüzde sıfır virgül on yedi yükselişle, on iki bin iki yüz yetmiş virgül on sekiz puanda bitirdi. Dövizde, Merkez Bankasının iki Ekimde belirlediği gösterge satış kurları dolar için yaklaşık kırk dokuz lira altı kuruş, avro için elli beş lira on sekiz kuruş. Bunlar bankanızın veya döviz bürosunun anlık işlem fiyatları değil. Altında, Bloomberg HT'nin Cuma günü saat on sekiz otuz tarihli piyasa özetinde Kapalıçarşı gram altın fiyatı yaklaşık altı bin beş yüz elli bir lira. Altın rakamı bu saatli kayda ait; hafta sonu canlı fiyatı veya kesin gün sonu kapanışı olarak değerlendirilmemeli. Alış ve satış fiyatları işlem yerine göre değişebilir.",
+          "title": "Pazar için son TCMB döviz referansı cuma gününden",
+          "summary": "2 Ekim TCMB gösterge döviz satış kuru dolarda 49,0582 TL, euroda 55,1819 TL oldu.",
+          "what_happened": "Piyasalarda pazar sabahının referans rakamlarına bakalım. Merkez Bankasının 2 Ekim Cuma günü için ilan ettiği gösterge kurlarında doların döviz alış fiyatı yaklaşık 48 lira 97 kuruş, satış fiyatı 49 lira 6 kuruş. Euroda alış yaklaşık 55 lira 8 kuruş, satış ise 55 lira 18 kuruş. Bunlar cuma gününe ait resmî gösterge kurları. Pazar sabahında bir bankada veya döviz bürosunda uygulanacak işlem fiyatları farklı olabilir. Nakit işlemlerde kullanılan efektif kurlar da döviz kurlarından ayrı yayımlanıyor.",
           "sources": [
             {
-              "name": "PİYASALAR",
-              "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4076372",
-              "published_at": null
-            },
+              "name": "TCMB — e-Devlet günlük döviz kurları",
+              "url": "https://www.turkiye.gov.tr/doviz-kurlari",
+              "published_at": "2026-10-02"
+            }
+          ],
+          "metadata": {
+            "data_date": "2026-10-02",
+            "usd_buy_try": 48.9699,
+            "usd_sell_try": 49.0582,
+            "eur_buy_try": 55.0826,
+            "eur_sell_try": 55.1819,
+            "quote_type": "TCMB gösterge döviz kuru; canlı piyasa veya kapanış değildir",
+            "narration_rounding": "Kuruş düzeyine yuvarlandı"
+          },
+          "full_text": "Piyasalarda pazar sabahının referans rakamlarına bakalım. Merkez Bankasının 2 Ekim Cuma günü için ilan ettiği gösterge kurlarında doların döviz alış fiyatı yaklaşık 48 lira 97 kuruş, satış fiyatı 49 lira 6 kuruş. Euroda alış yaklaşık 55 lira 8 kuruş, satış ise 55 lira 18 kuruş. Bunlar cuma gününe ait resmî gösterge kurları. Pazar sabahında bir bankada veya döviz bürosunda uygulanacak işlem fiyatları farklı olabilir. Nakit işlemlerde kullanılan efektif kurlar da döviz kurlarından ayrı yayımlanıyor."
+        },
+        {
+          "id": "morning-20261004-gram-altin",
+          "category": "ekonomi",
+          "title": "Gram altının cuma gecesi referans kotasyonu",
+          "summary": "Midas/Foreks’in 2 Ekim 23.59 kaydında gram altın alış 6.541,91 TL, satış 6.542,72 TL göründü.",
+          "what_happened": "Altında, Midas'ın Foreks verileriyle yayımladığı ekranın 2 Ekim, saat 23.59 zaman damgalı kaydında gram altın alış fiyatı 6 bin 541 lira 91 kuruş, satış fiyatı 6 bin 542 lira 72 kuruş görünüyor. Bu, gecikmeli bir piyasa kotasyonu. Borsa İstanbul'un resmî kapanış fiyatı veya bugün bir kuyumcuda uygulanacak kesin satış fiyatı değil. Döviz ve altında rakamları karşılaştırırken veri tarihiyle birlikte alış ve satış ayrımını da dikkate almak gerekiyor.",
+          "sources": [
             {
-              "name": "PİYASALAR",
-              "url": "https://www.turkiye.gov.tr/doviz-kurlari?theme=default",
-              "published_at": null
-            },
-            {
-              "name": "PİYASALAR",
-              "url": "https://www.bloomberght.com/piyasa-ozeti-2-ekim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3790224",
+              "name": "Midas — Foreks serbest piyasa altın verileri",
+              "url": "https://www.getmidas.com/altin/kapali-carsi-altin/",
               "published_at": null
             }
           ],
           "metadata": {
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "BIST 100: 2 Ekim 2026 Cuma kapanışı 12.270,18; günlük +%0,17. Anadolu Ajansı ve Bloomberg HT aynı kapanışı veriyor.\nhttps://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4076372\nTCMB/e-Devlet birincil kur tablosu: 2 Ekim 2026 gösterge döviz satış kurları USD/TRY 49,0582; EUR/TRY 55,1819. Gösterge kurlar iş günlerinde 15.30 sonrasında yayımlanır. Banka/serbest piyasa canlı işlem fiyatı değildir.\nhttps://www.turkiye.gov.tr/doviz-kurlari?theme=default\nGram altın: Bloomberg HT, 2 Ekim 2026 saat 18.30 piyasa özeti, Kapalıçarşı gram 6.550,69 TL. Konuşmada yaklaşık 6.551 TL. Bu zaman damgalı piyasa kaydıdır; kesin gün sonu altın kapanışı veya 3 Ekim canlı fiyatı olarak sunulmadı. Sayfa ons altının düzyazı ve tablo değerleri arasında küçük fark içerdiğinden ons rakamı kullanılmadı.\nhttps://www.bloomberght.com/piyasa-ozeti-2-ekim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3790224",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Borsa 2 Ekim Cuma kapanışı; TCMB 2 Ekim gösterge satış kurları; altın 2 Ekim 18.30 TSİ piyasa kaydı. Canlı fiyat değildir."
-            }
+            "data_date": "2026-10-02",
+            "displayed_data_time": "23:59",
+            "data_timezone": null,
+            "buy_try": 6541.91,
+            "sell_try": 6542.72,
+            "source_caveat": "En az 15 dakika gecikmeli kotasyon; Borsa İstanbul resmî kapanışı veya bugünkü kuyumcu fiyatı değildir."
           },
-          "full_text": "Şimdi piyasalara bakalım. Hafta sonu olduğu için Borsa İstanbulda bugün olağan seans yok; aktardığımız borsa verisi iki Ekim Cuma kapanışına ait. BİST yüz endeksi günü yüzde sıfır virgül on yedi yükselişle, on iki bin iki yüz yetmiş virgül on sekiz puanda bitirdi. Dövizde, Merkez Bankasının iki Ekimde belirlediği gösterge satış kurları dolar için yaklaşık kırk dokuz lira altı kuruş, avro için elli beş lira on sekiz kuruş. Bunlar bankanızın veya döviz bürosunun anlık işlem fiyatları değil. Altında, Bloomberg HT'nin Cuma günü saat on sekiz otuz tarihli piyasa özetinde Kapalıçarşı gram altın fiyatı yaklaşık altı bin beş yüz elli bir lira. Altın rakamı bu saatli kayda ait; hafta sonu canlı fiyatı veya kesin gün sonu kapanışı olarak değerlendirilmemeli. Alış ve satış fiyatları işlem yerine göre değişebilir.",
-          "full_text_sections": [
-            {
-              "heading": null,
-              "timestamp": null,
-              "url": null,
-              "paragraphs": [
-                "Şimdi piyasalara bakalım. Hafta sonu olduğu için Borsa İstanbulda bugün olağan seans yok; aktardığımız borsa verisi iki Ekim Cuma kapanışına ait. BİST yüz endeksi günü yüzde sıfır virgül on yedi yükselişle, on iki bin iki yüz yetmiş virgül on sekiz puanda bitirdi. Dövizde, Merkez Bankasının iki Ekimde belirlediği gösterge satış kurları dolar için yaklaşık kırk dokuz lira altı kuruş, avro için elli beş lira on sekiz kuruş. Bunlar bankanızın veya döviz bürosunun anlık işlem fiyatları değil. Altında, Bloomberg HT'nin Cuma günü saat on sekiz otuz tarihli piyasa özetinde Kapalıçarşı gram altın fiyatı yaklaşık altı bin beş yüz elli bir lira. Altın rakamı bu saatli kayda ait; hafta sonu canlı fiyatı veya kesin gün sonu kapanışı olarak değerlendirilmemeli. Alış ve satış fiyatları işlem yerine göre değişebilir."
-              ]
-            }
-          ],
-          "full_text_sources": [
-            {
-              "name": "PİYASALAR",
-              "url": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4076372",
-              "published_at": null
-            },
-            {
-              "name": "PİYASALAR",
-              "url": "https://www.turkiye.gov.tr/doviz-kurlari?theme=default",
-              "published_at": null
-            },
-            {
-              "name": "PİYASALAR",
-              "url": "https://www.bloomberght.com/piyasa-ozeti-2-ekim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3790224",
-              "published_at": null
-            }
-          ],
-          "full_text_metadata": {
-            "original_title": "PİYASALAR",
-            "detail_kind": "original_bulletin_story",
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "BIST 100: 2 Ekim 2026 Cuma kapanışı 12.270,18; günlük +%0,17. Anadolu Ajansı ve Bloomberg HT aynı kapanışı veriyor.\nhttps://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4076372\nTCMB/e-Devlet birincil kur tablosu: 2 Ekim 2026 gösterge döviz satış kurları USD/TRY 49,0582; EUR/TRY 55,1819. Gösterge kurlar iş günlerinde 15.30 sonrasında yayımlanır. Banka/serbest piyasa canlı işlem fiyatı değildir.\nhttps://www.turkiye.gov.tr/doviz-kurlari?theme=default\nGram altın: Bloomberg HT, 2 Ekim 2026 saat 18.30 piyasa özeti, Kapalıçarşı gram 6.550,69 TL. Konuşmada yaklaşık 6.551 TL. Bu zaman damgalı piyasa kaydıdır; kesin gün sonu altın kapanışı veya 3 Ekim canlı fiyatı olarak sunulmadı. Sayfa ons altının düzyazı ve tablo değerleri arasında küçük fark içerdiğinden ons rakamı kullanılmadı.\nhttps://www.bloomberght.com/piyasa-ozeti-2-ekim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3790224",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Borsa 2 Ekim Cuma kapanışı; TCMB 2 Ekim gösterge satış kurları; altın 2 Ekim 18.30 TSİ piyasa kaydı. Canlı fiyat değildir."
-            },
-            "length_note": "Özgün bültendeki ilgili haber bölümü aynen alınmıştır; sırf daha uzun olması için ek içerik yazılmamıştır.",
-            "provenance": [
-              {
-                "source_id": "general_original_text",
-                "paragraph_index_zero_based": 7,
-                "verbatim": true,
-                "body_sha256": "5b7f0609e836d7e0445e83fc1feb4fe1927332c218224ce44168659c07bfd3b7"
-              }
-            ]
-          }
+          "full_text": "Altında, Midas'ın Foreks verileriyle yayımladığı ekranın 2 Ekim, saat 23.59 zaman damgalı kaydında gram altın alış fiyatı 6 bin 541 lira 91 kuruş, satış fiyatı 6 bin 542 lira 72 kuruş görünüyor. Bu, gecikmeli bir piyasa kotasyonu. Borsa İstanbul'un resmî kapanış fiyatı veya bugün bir kuyumcuda uygulanacak kesin satış fiyatı değil. Döviz ve altında rakamları karşılaştırırken veri tarihiyle birlikte alış ve satış ayrımını da dikkate almak gerekiyor."
         },
         {
-          "id": "general_morning_08-2026-10-03-08",
+          "id": "morning-20261004-tokat-hava",
           "category": "hava",
-          "title": "Tokat’ta sağanak bekleniyor",
-          "summary": "MGM, Tokat merkezde 3 Ekim için 11–17°C ve sağanak öngörüyor; batı illerindeki fırtına uyarısı 4 Ekim sabahına kadar sürüyor.",
-          "what_happened": "Tokat'ta bugün sağanak yağış bekleniyor. Meteoroloji Genel Müdürlüğünün üç Ekim tarihli tahmininde kent merkezi için en düşük sıcaklık on bir, en yüksek sıcaklık on yedi derece. Yarın, dört Ekim Pazar günü parçalı bulutlu bir hava, beş ile yirmi derece arasında sıcaklık öngörülüyor. Bunlar il merkezi tahminleri; ilçeler ve yüksek kesimler farklılaşabilir. Türkiye genelinden bir uyarı da var: Meteoroloji, Çanakkale ve Balıkesir çevreleriyle Manisa ve İzmir'in kuzey ve batı kesimlerinde kuvvetli rüzgâr ve fırtına beklendiğini açıkladı. Uyarı, dört Ekim sabahı saat altıya kadar geçerli. Ulaşımda aksama, çatı uçması ve ağaç devrilmesi riskine dikkat çekiliyor.",
+          "title": "Tokat’ta serin sabah, öğleden sonra 20 derece",
+          "summary": "MGM, 4 Ekim’de Tokat merkez için az bulutlu hava ve öğleden sonra 20 derece tahmin ediyor.",
+          "what_happened": "Tokat'ta güne serin başlayıp öğleden sonra belirgin biçimde ısınıyoruz. Meteoroloji Genel Müdürlüğünün 4 Ekim Pazar gününe ait saatlik tahmininde, sabah dokuzda 10 derece, öğlen 16 derece, saat üçte 20 derece bekleniyor. Akşam altıda sıcaklığın 15, gece dokuzda 11 dereceye inmesi öngörülüyor. Gündüz az bulutlu bir hava tahmin ediliyor. Ortalama rüzgâr saatte 4 ile 10 kilometre arasında; bazı saatlerde hamleler 30 kilometreye ulaşabilir. Bunlar Tokat merkez için tahmin değerleri. Sabah erken çıkıp akşam dönecekler için çıkarılıp giyilebilen bir üst katman pratik olabilir.",
           "sources": [
             {
-              "name": "TOKAT HAVA DURUMU VE FIRTINA UYARISI",
-              "url": "https://mgm.gov.tr/kurumici/5gunalfabetik.aspx",
+              "name": "Meteoroloji Genel Müdürlüğü — Tokat saatlik tahmin",
+              "url": "https://www.mgm.gov.tr/tahmin/saatlik.aspx?m=TOKAT",
               "published_at": null
             },
             {
-              "name": "TOKAT HAVA DURUMU VE FIRTINA UYARISI",
-              "url": "https://www.mgm.gov.tr/tahmin/uyari-goster.aspx?sN=26010496y",
+              "name": "Meteoroloji Genel Müdürlüğü — Hava simgeleri",
+              "url": "https://www.mgm.gov.tr/site/yardim1.aspx?=Simgeler",
               "published_at": null
             }
           ],
           "metadata": {
-            "publication": {
-              "at": null,
-              "date": "2026-10-03",
-              "kind": "source_publication_or_dated_record",
-              "note": "MGM birincil 5 günlük tahmin tablosu, tarih başlığı 3–7 Ekim 2026. TOKAT (mrk) satırı: 3 Ekim sağanak, min11/max17°C; 4 Ekim parçalı bulutlu, min5/max20°C. Saatlik kesin yağış zamanı çıkarımı yapılmadı.\nhttps://mgm.gov.tr/kurumici/5gunalfabetik.aspx\nMGM uyarı496, yayımlanma2 Ekim12.10, geçerlilik2 Ekim13.00–4 Ekim06.00. Çanakkale/Balıkesir ile Manisa/İzmir kuzey-batı kesimlerinde kuvvetli rüzgâr ve fırtına.\nhttps://www.mgm.gov.tr/tahmin/uyari-goster.aspx?sN=26010496y",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Tokat tahmini 3–4 Ekim 2026. Fırtına uyarısı 2 Ekim 13.00–4 Ekim 06.00 Türkiye saati; yayımlanma 2 Ekim 12.10."
-            }
+            "forecast_date": "2026-10-04",
+            "forecast_timezone": "Europe/Istanbul",
+            "forecast_is_observed_weather": false,
+            "source_updated_at": null
           },
-          "full_text": "Tokat'ta bugün sağanak yağış bekleniyor. Meteoroloji Genel Müdürlüğünün üç Ekim tarihli tahmininde kent merkezi için en düşük sıcaklık on bir, en yüksek sıcaklık on yedi derece. Yarın, dört Ekim Pazar günü parçalı bulutlu bir hava, beş ile yirmi derece arasında sıcaklık öngörülüyor. Bunlar il merkezi tahminleri; ilçeler ve yüksek kesimler farklılaşabilir. Türkiye genelinden bir uyarı da var: Meteoroloji, Çanakkale ve Balıkesir çevreleriyle Manisa ve İzmir'in kuzey ve batı kesimlerinde kuvvetli rüzgâr ve fırtına beklendiğini açıkladı. Uyarı, dört Ekim sabahı saat altıya kadar geçerli. Ulaşımda aksama, çatı uçması ve ağaç devrilmesi riskine dikkat çekiliyor.",
-          "full_text_sections": [
-            {
-              "heading": null,
-              "timestamp": null,
-              "url": null,
-              "paragraphs": [
-                "Tokat'ta bugün sağanak yağış bekleniyor. Meteoroloji Genel Müdürlüğünün üç Ekim tarihli tahmininde kent merkezi için en düşük sıcaklık on bir, en yüksek sıcaklık on yedi derece. Yarın, dört Ekim Pazar günü parçalı bulutlu bir hava, beş ile yirmi derece arasında sıcaklık öngörülüyor. Bunlar il merkezi tahminleri; ilçeler ve yüksek kesimler farklılaşabilir. Türkiye genelinden bir uyarı da var: Meteoroloji, Çanakkale ve Balıkesir çevreleriyle Manisa ve İzmir'in kuzey ve batı kesimlerinde kuvvetli rüzgâr ve fırtına beklendiğini açıkladı. Uyarı, dört Ekim sabahı saat altıya kadar geçerli. Ulaşımda aksama, çatı uçması ve ağaç devrilmesi riskine dikkat çekiliyor."
-              ]
-            }
-          ],
-          "full_text_sources": [
-            {
-              "name": "TOKAT HAVA DURUMU VE FIRTINA UYARISI",
-              "url": "https://mgm.gov.tr/kurumici/5gunalfabetik.aspx",
-              "published_at": null
-            },
-            {
-              "name": "TOKAT HAVA DURUMU VE FIRTINA UYARISI",
-              "url": "https://www.mgm.gov.tr/tahmin/uyari-goster.aspx?sN=26010496y",
-              "published_at": null
-            }
-          ],
-          "full_text_metadata": {
-            "original_title": "TOKAT HAVA DURUMU VE FIRTINA UYARISI",
-            "detail_kind": "original_bulletin_story",
-            "publication": {
-              "at": null,
-              "date": "2026-10-03",
-              "kind": "source_publication_or_dated_record",
-              "note": "MGM birincil 5 günlük tahmin tablosu, tarih başlığı 3–7 Ekim 2026. TOKAT (mrk) satırı: 3 Ekim sağanak, min11/max17°C; 4 Ekim parçalı bulutlu, min5/max20°C. Saatlik kesin yağış zamanı çıkarımı yapılmadı.\nhttps://mgm.gov.tr/kurumici/5gunalfabetik.aspx\nMGM uyarı496, yayımlanma2 Ekim12.10, geçerlilik2 Ekim13.00–4 Ekim06.00. Çanakkale/Balıkesir ile Manisa/İzmir kuzey-batı kesimlerinde kuvvetli rüzgâr ve fırtına.\nhttps://www.mgm.gov.tr/tahmin/uyari-goster.aspx?sN=26010496y",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": null,
-              "end": null,
-              "note": "Tokat tahmini 3–4 Ekim 2026. Fırtına uyarısı 2 Ekim 13.00–4 Ekim 06.00 Türkiye saati; yayımlanma 2 Ekim 12.10."
-            },
-            "length_note": "Özgün bültendeki ilgili haber bölümü aynen alınmıştır; sırf daha uzun olması için ek içerik yazılmamıştır.",
-            "provenance": [
-              {
-                "source_id": "general_original_text",
-                "paragraph_index_zero_based": 8,
-                "verbatim": true,
-                "body_sha256": "7a5a32f448768720d74729927a70e5ceacd0e9e0be05f98c7b1d368cd196fcc1"
-              }
-            ]
-          }
+          "full_text": "Tokat'ta güne serin başlayıp öğleden sonra belirgin biçimde ısınıyoruz. Meteoroloji Genel Müdürlüğünün 4 Ekim Pazar gününe ait saatlik tahmininde, sabah dokuzda 10 derece, öğlen 16 derece, saat üçte 20 derece bekleniyor. Akşam altıda sıcaklığın 15, gece dokuzda 11 dereceye inmesi öngörülüyor. Gündüz az bulutlu bir hava tahmin ediliyor. Ortalama rüzgâr saatte 4 ile 10 kilometre arasında; bazı saatlerde hamleler 30 kilometreye ulaşabilir. Bunlar Tokat merkez için tahmin değerleri. Sabah erken çıkıp akşam dönecekler için çıkarılıp giyilebilen bir üst katman pratik olabilir."
         },
         {
-          "id": "general_morning_08-2026-10-03-09",
+          "id": "morning-20261004-yangin-bulutlari",
           "category": "bilim",
-          "title": "DAVINCI ısı testini geçti",
-          "summary": "NASA, Venüs sondasının mühendislik modelinin Dünya’da yapılan yüksek sıcaklık testini geçtiğini duyurdu.",
-          "what_happened": "NASA, iki Ekimde yayımladığı açıklamada, Venüs'e yönelik DAVİNCİ sondasının mühendislik modelinin önemli bir ısı testini geçtiğini duyurdu. Yirmi sekiz Ağustos ile on Eylül arasında yürütülen testte, deneme kabının sıcaklığı yaklaşık bir saat içinde dört yüz altmış beş santigrat dereceye çıkarıldı. Bu ısınma, sondanın Venüs atmosferinde aşağı inerken karşılaşması beklenen koşulları taklit ediyor. Görevin amacı, gezegenin geçmişini ve atmosferini inceleyerek Venüs'ün bir zamanlar suya ve yaşama elverişli koşullara sahip olup olmadığını daha iyi anlamak. Haber, tamamlanmış bir Venüs inişi değil, Dünya'da yürütülen bir mühendislik testiyle ilgili.",
+          "title": "NASA, yangınların ürettiği bulutları araştırıyor",
+          "summary": "NASA’nın INSPYRE çalışması, yangın kaynaklı bulutların dumanı yüksek atmosfere taşımasını ve tehlikeli rüzgârlar üretmesini inceliyor.",
+          "what_happened": "Bilimden son notumuz, yangınların kendi hava olaylarını oluşturabilmesi üzerine. NASA'nın 2 Ekim'de yayımladığı habere göre, INSPYRE araştırma ekibi bu yaz Kuzey Amerika'da yangınların ürettiği büyük bulutları uçaklar ve yer sensörleriyle inceledi. Pirokümülonimbüs adı verilen bu bulutlar, dumanı 10 ila 15 kilometre yüksekliğe, hatta stratosfere taşıyabiliyor. Yıldırım ve yağmur oluşturabildikleri gibi, yangını şiddetlendirebilen güçlü rüzgârlar da üretebiliyorlar. Duman atmosferin bu üst katmanına ulaştığında, yangının çıktığı bölgeden çok uzaklara yayılabiliyor ve alt atmosferdekinden daha uzun süre kalabiliyor.\n\nAraştırmacılar uçuşlarda duman parçacıkları ve gazlardan örnek aldı; buz kristallerini görüntüledi ve bulutlardan geçen ışınımı ölçtü. Bu ölçümler şimdi uydu ve yer gözlemleriyle bir araya getirilerek bilgisayar modelleriyle karşılaştırılacak. Amaç, hangi koşullarda bu bulutların oluştuğunu daha iyi anlamak. İleride geliştirilebilecek uyarılar, tehlikeli rüzgâr değişimlerinden önce itfaiye ekiplerinin güvenli bölgeye çekilmesine yardımcı olabilir. Henüz kullanıma hazır yeni bir erken uyarı sisteminin ilan edildiği söylenmiyor. Buradaki güncel haber, 2 Ekim'de yayımlanan araştırma anlatımı; saha çalışmaları 2026 yazında yapıldı.",
           "sources": [
             {
-              "name": "BİLİM — DAVINCI ISI TESTİ",
-              "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
-              "published_at": null
+              "name": "NASA Science — Yangınların ürettiği bulutları inceleyen INSPYRE araştırması",
+              "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
+              "published_at": "2026-10-02"
             }
           ],
           "metadata": {
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "NASA birincil açıklaması, yayımlanma2 Ekim2026. Mühendislik modeli testinin olay tarihi28 Ağustos–10 Eylül; sıcaklık yaklaşık bir saatte465°C'ye çıkarıldı. Venüs'e yapılmış iniş olarak sunulmadı.\nhttps://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": "2026-08-28",
-              "end": "2026-09-10",
-              "note": "Dünya’da mühendislik modelinin ısı testi; haberin yayını 2 Ekim."
-            }
+            "publication_date": "2026-10-02",
+            "fieldwork_period": "2026 yazı",
+            "operational_warning_system_announced": false
           },
-          "full_text": "Bülteni bilimden bir haberle bitirelim. NASA, iki Ekimde yayımladığı açıklamada, Venüs'e yönelik DAVİNCİ sondasının mühendislik modelinin önemli bir ısı testini geçtiğini duyurdu. Yirmi sekiz Ağustos ile on Eylül arasında yürütülen testte, deneme kabının sıcaklığı yaklaşık bir saat içinde dört yüz altmış beş santigrat dereceye çıkarıldı. Bu ısınma, sondanın Venüs atmosferinde aşağı inerken karşılaşması beklenen koşulları taklit ediyor. Görevin amacı, gezegenin geçmişini ve atmosferini inceleyerek Venüs'ün bir zamanlar suya ve yaşama elverişli koşullara sahip olup olmadığını daha iyi anlamak. Haber, tamamlanmış bir Venüs inişi değil, Dünya'da yürütülen bir mühendislik testiyle ilgili.",
-          "full_text_sections": [
+          "full_text": "Bilimden son notumuz, yangınların kendi hava olaylarını oluşturabilmesi üzerine. NASA'nın 2 Ekim'de yayımladığı habere göre, INSPYRE araştırma ekibi bu yaz Kuzey Amerika'da yangınların ürettiği büyük bulutları uçaklar ve yer sensörleriyle inceledi. Pirokümülonimbüs adı verilen bu bulutlar, dumanı 10 ila 15 kilometre yüksekliğe, hatta stratosfere taşıyabiliyor. Yıldırım ve yağmur oluşturabildikleri gibi, yangını şiddetlendirebilen güçlü rüzgârlar da üretebiliyorlar. Duman atmosferin bu üst katmanına ulaştığında, yangının çıktığı bölgeden çok uzaklara yayılabiliyor ve alt atmosferdekinden daha uzun süre kalabiliyor.\n\nAraştırmacılar uçuşlarda duman parçacıkları ve gazlardan örnek aldı; buz kristallerini görüntüledi ve bulutlardan geçen ışınımı ölçtü. Bu ölçümler şimdi uydu ve yer gözlemleriyle bir araya getirilerek bilgisayar modelleriyle karşılaştırılacak. Amaç, hangi koşullarda bu bulutların oluştuğunu daha iyi anlamak. İleride geliştirilebilecek uyarılar, tehlikeli rüzgâr değişimlerinden önce itfaiye ekiplerinin güvenli bölgeye çekilmesine yardımcı olabilir. Henüz kullanıma hazır yeni bir erken uyarı sisteminin ilan edildiği söylenmiyor. Buradaki güncel haber, 2 Ekim'de yayımlanan araştırma anlatımı; saha çalışmaları 2026 yazında yapıldı."
+        },
+        {
+          "id": "morning-20261004-gozlem-yorum",
+          "category": "felsefe",
+          "title": "Gözlem, yorum ve beklentiyi ayırmak",
+          "summary": "Yangın bulutları araştırması, haberleri değerlendirirken ne bildiğimiz kadar bunu nasıl bildiğimize de bakmak için bir düşünce fırsatı sunuyor.",
+          "what_happened": "Bu çalışmadan sabaha küçük bir düşünce payı da kalıyor: Bir olayı açıklarken yalnızca ne olduğuna değil, onu nasıl bildiğimize de bakmak. Gözlem, yorum ve beklenti aynı şey değil. Aralarındaki farkı korumak, hem bilim haberlerini hem gündelik haber akışını daha sakin değerlendirmeyi kolaylaştırabilir.",
+          "sources": [
             {
-              "heading": null,
-              "timestamp": null,
-              "url": null,
-              "paragraphs": [
-                "Bülteni bilimden bir haberle bitirelim. NASA, iki Ekimde yayımladığı açıklamada, Venüs'e yönelik DAVİNCİ sondasının mühendislik modelinin önemli bir ısı testini geçtiğini duyurdu. Yirmi sekiz Ağustos ile on Eylül arasında yürütülen testte, deneme kabının sıcaklığı yaklaşık bir saat içinde dört yüz altmış beş santigrat dereceye çıkarıldı. Bu ısınma, sondanın Venüs atmosferinde aşağı inerken karşılaşması beklenen koşulları taklit ediyor. Görevin amacı, gezegenin geçmişini ve atmosferini inceleyerek Venüs'ün bir zamanlar suya ve yaşama elverişli koşullara sahip olup olmadığını daha iyi anlamak. Haber, tamamlanmış bir Venüs inişi değil, Dünya'da yürütülen bir mühendislik testiyle ilgili."
-              ]
+              "name": "NASA Science — Yangınların ürettiği bulutları inceleyen INSPYRE araştırması",
+              "url": "https://science.nasa.gov/earth/natural-disasters/wildfires/nasa-campaign-explores-clouds-spawned-by-wildfires/",
+              "published_at": "2026-10-02"
             }
           ],
-          "full_text_sources": [
-            {
-              "name": "BİLİM — DAVINCI ISI TESTİ",
-              "url": "https://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
-              "published_at": null
-            }
-          ],
-          "full_text_metadata": {
-            "original_title": "BİLİM — DAVINCI ISI TESTİ",
-            "detail_kind": "original_bulletin_story",
-            "publication": {
-              "at": null,
-              "date": "2026-10-02",
-              "kind": "source_publication_or_dated_record",
-              "note": "NASA birincil açıklaması, yayımlanma2 Ekim2026. Mühendislik modeli testinin olay tarihi28 Ağustos–10 Eylül; sıcaklık yaklaşık bir saatte465°C'ye çıkarıldı. Venüs'e yapılmış iniş olarak sunulmadı.\nhttps://www.nasa.gov/image-article/nasas-davinci-probe-can-stand-the-heat/",
-              "date_timezone": null
-            },
-            "event_time": {
-              "start": "2026-08-28",
-              "end": "2026-09-10",
-              "note": "Dünya’da mühendislik modelinin ısı testi; haberin yayını 2 Ekim."
-            },
-            "length_note": "Özgün bültendeki ilgili haber bölümü aynen alınmıştır; sırf daha uzun olması için ek içerik yazılmamıştır.",
-            "provenance": [
-              {
-                "source_id": "general_original_text",
-                "paragraph_index_zero_based": 9,
-                "verbatim": true,
-                "body_sha256": "8d289469f0b563ad6defb5a5e96a040a5b7599462fa85c421ac1d8301b716295"
-              }
-            ]
-          }
+          "metadata": {
+            "content_type": "Editoryal düşünce notu",
+            "source_caveat": "Araştırmadan hareketle yazılmış yorumdur; alıntı veya ayrı bilimsel bulgu değildir."
+          },
+          "full_text": "Bu çalışmadan sabaha küçük bir düşünce payı da kalıyor: Bir olayı açıklarken yalnızca ne olduğuna değil, onu nasıl bildiğimize de bakmak. Gözlem, yorum ve beklenti aynı şey değil. Aralarındaki farkı korumak, hem bilim haberlerini hem gündelik haber akışını daha sakin değerlendirmeyi kolaylaştırabilir."
         }
       ],
       "metadata": {
-        "delivered_at": null,
         "research_cutoff": {
-          "at": "2026-10-03T06:15:00Z",
-          "precision": "approximate",
-          "note": "Kaynak dosyası: yaklaşık 09.15 Türkiye saati. Planlanan 08.00 saatiyle aynı değildir."
+          "at": "2026-10-04T07:25:00+03:00"
         },
-        "coverage_note": "Tamamlanmış genel sabah bülteninin 9 başlığı. Kaynakta kesin başlangıç-bitişli haber penceresi belirtilmediğinden window null. Piyasa değerleri canlı değildir."
-      },
-      "bulletin_id": "detail-7eb6524256a44efc8ebe8eb2"
+        "narration_intro": "Günaydın. Bugün 4 Ekim 2026 Pazar. Türkiye ve dünyadan öne çıkan gelişmelerle başlayıp döviz ve altına, Tokat'ın hava durumuna ve kısa bir bilim notuna geçiyoruz.",
+        "narration_outro": "Bu sabahlık bültenimiz bu kadar. Haberlerin bağlantıları ve piyasa verilerinin tarihleri ayrı kaynak metninde bulunuyor. İyi pazarlar.",
+        "narration_text_sha256": "a17dfef52349d9e1c5e7a82da447a8ba43e932ba69ec526835621fb9f33782eb",
+        "topic_text_is_full_narration": true,
+        "source_gaps": [
+          {
+            "source": "Borsa İstanbul resmî kıymetli madenler günlük bülteni",
+            "note": "2 Ekim bülteni doğrulanamadı; resmî altın kapanışı verilmedi. Alternatif Midas/Foreks kotasyonu açıkça etiketlendi."
+          }
+        ]
+      }
     },
     {
       "feed_id": "ai",
