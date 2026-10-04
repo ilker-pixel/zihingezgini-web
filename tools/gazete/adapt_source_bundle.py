@@ -9,7 +9,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import build_gazete as g
 
-FEED_MAP = {'general_morning_08':'morning', 'ai_21':'ai', 'youtube_am_10':'youtube_am', 'youtube_pm_22':'youtube_pm'}
+FEED_MAP = {'general_morning_08':'morning', 'ai_21':'ai', 'youtube_am_10':'youtube_am', 'youtube_pm_22':'youtube_pm', 'eksi_20':'eksi'}
 
 
 def adapt(source):

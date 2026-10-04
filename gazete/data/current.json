@@ -3117,6 +3117,675 @@
         }
       ],
       "prepared_at": "2026-10-04T18:20:07.280919+00:00"
+    },
+    {
+      "feed_id": "eksi",
+      "bulletin_id": "eksi-2026-10-04-2000",
+      "scheduled_for": "2026-10-04T20:00:00+03:00",
+      "completed_at": "2026-10-04T16:41:01.869758+00:00",
+      "coverage_start": null,
+      "coverage_end": null,
+      "topics": [
+        {
+          "id": "eksi-8143486",
+          "category": "ekonomi",
+          "title": "Ana paramızı geri istiyoruz",
+          "summary": "Fon yatırımcılarının anapara talebi, zararın nasıl karşılanacağı tartışmasını büyüttü.",
+          "what_happened": "Fonlardaki birikimlerine ulaşamadıklarını belirten yatırımcılar, sosyal medyada anaparalarının geri verilmesini istedi. Birikimini konut almak veya başka zorunlu harcamalar için ayırdığını anlatanlar, beklemenin gündelik hayatlarını doğrudan etkilediğini söyledi. Özellikle para piyasası fonu kullananlar, kendilerini yüksek riskli kazanç arayan yatırımcılarla aynı grupta görmediklerini vurguladı. Tartışmanın bu tarafında, ürünün nasıl tanıtıldığı ve kurumsal denetime duyulan güven öne çıktı.\n\nİade talebine itiraz edenler ise özel yatırım zararının bütün vergi mükelleflerine yüklenmesine karşı çıktı. Bu görüşü savunanlar, varsa haksız kazancın sorumlulardan geri alınmasıyla kamu bütçesinden ödeme yapılmasını birbirinden ayırdı. Yatırımcıları savunanlar da piyasa riski üstlenmenin, denetim ve kuralların işlememesini kabul etmek anlamına gelmediğini belirtti.\n\nSermaye Piyasası Kurulunun bir ekim tarihli açıklaması, tasfiye sürecindeki ilgili fonlarda ara ödeme yapılmasını düzenliyor. Bu ödeme nihai hesaplaşmanın yerine geçmiyor; sonradan belirlenecek tutardan düşülecek. Dolayısıyla anaparanın tamamının bütün yatırımcılara koşulsuz ödeneceği yönünde genel bir garanti açıklanmış değil. Tartışmanın merkezindeki ayrım, yatırım kaybı ile usulsüzlük iddiasından doğan zararın nasıl ele alınacağı.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — ana paramizi geri istiyoruz",
+              "url": "https://eksisozluk.com/ana-paramizi-geri-istiyoruz--8143486?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "SPK — Tasfiyedeki fonlara ilişkin ara ödeme duyurusu",
+              "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/tasfiyedeki-fonlara-iliskin-ara-odeme-duyurusu",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885896",
+              "published_at": "2026-10-04T19:11:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885919",
+              "published_at": "2026-10-04T19:12:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Ekonomi ve denetim",
+            "source_pdf_page": 2
+          }
+        },
+        {
+          "id": "eksi-8138736",
+          "category": "ekonomi",
+          "title": "Fon tasfiyelerinde ödeme beklentisi",
+          "summary": "Tasfiye sürecinde bekleyen yatırımcılar açık bir ödeme takvimi istiyor.",
+          "what_happened": "On yedi eylülde başlayan fon tasfiyelerine ilişkin tartışmada, birikimlere erişim ve sürecin açıklığı öne çıktı. Yatırımcılar, farklı açıklamaların ne anlama geldiğini çözmeye çalışırken kendilerine uygulanacak işlemlerin anlaşılır biçimde anlatılmasını istedi. Bazıları, ödemelerin gecikmesinin ev ve geçim planlarını bozduğunu ifade etti. Piyasalara zamanında müdahale edilmediğini savunanlar, düşen hisse fiyatlarının zararı büyüttüğünü ileri sürdü.\n\nSermaye Piyasası Kurulu, bir ekim duyurusunda Tera, Pusula, Atlas ve Hedef bünyesindeki tasfiyeye konu fonlar için ara ödeme çerçevesini açıkladı. Açıklamada belirtilen koşullar kapsamında yatırımcı başına, her bir fon için en fazla bir milyon liralık ara ödeme öngörülüyor. Para piyasası fonlarına öncelik veriliyor. Bu sınır, her yatırımcıya mutlaka bir milyon lira ödeneceği veya toplam kaybın tamamının karşılanacağı anlamına gelmiyor; hak sahipliği ve hesaplanan tutar belirleyici.\n\nEkşi Sözlük'te dile getirilen alternatif müdahale senaryoları ise yatırımcı yorumları. Fiyat sınırlarının farklı uygulanması halinde kayıpların ne kadar azalacağına ilişkin hesaplar, gerçekleşmiş sonuçlar değil. Benzer biçimde, fon değerindeki düşüşün tamamını aynı tutarda paranın bir kişinin hesabına aktarılması olarak açıklayan yorumlar da resmi bir para akışı tespiti yerine geçmiyor.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — 17 eylül 2026 fon tasfiyeleri",
+              "url": "https://eksisozluk.com/17-eylul-2026-fon-tasfiyeleri--8138736?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "SPK — Tasfiyedeki fonlara ilişkin ara ödeme duyurusu",
+              "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/tasfiyedeki-fonlara-iliskin-ara-odeme-duyurusu",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885903",
+              "published_at": "2026-10-04T19:11:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885942",
+              "published_at": "2026-10-04T19:14:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Ekonomi ve denetim",
+            "source_pdf_page": 3
+          }
+        },
+        {
+          "id": "eksi-8143613",
+          "category": "ekonomi",
+          "title": "Eski SPK başkanı hakkında izin süreci",
+          "summary": "İbrahim Ömer Gönül hakkında soruşturma izni talebi için ön inceleme başlatıldı.",
+          "what_happened": "Fon soruşturması kapsamında eski Sermaye Piyasası Kurulu Başkanı İbrahim Ömer Gönül hakkında soruşturma izni istenmesi gündeme geldi. Dört ekimde haberleştirilen bilgiye göre İstanbul Cumhuriyet Başsavcılığının talebi otuz eylülde Hazine ve Maliye Bakanlığına iletildi. Bakan Mehmet Şimşek de iki ekim cuma günü Teftiş Kurulunu ön incelemeyle görevlendirdi. Bugün haberleşen gelişme bu idari inceleme aşaması.\n\nSavcılığın değerlendirmesi, yatırım fonlarının denetimindeki görev ve sorumlulukların yerine getirilip getirilmediğine ilişkin. İzin talebi ve ön inceleme, suçun kesinleştiği ya da mahkemenin hüküm verdiği bir aşama değil. Ayrıca başlıkta yalnızca SPK başkanı denilse de haberlerde Gönül eski başkan olarak tanımlanıyor.\n\nTartışmada bir taraf, denetim makamlarının sorumluluğunun araştırılmasını gerekli ve olumlu bir adım olarak görüyor. Diğer taraf ise incelemenin kapsamının dar tutulmasından ve sorumluluğun tek kişiye yüklenmesinden kaygılanıyor. Yatırımcı olduğunu belirten bazı katılımcılar, siyasi konumuna bakılmadan bütün sorumlulara ulaşılmasını istiyor. Bu beklentiler, ön incelemenin sonucuna ilişkin kesin bilgi sunmuyor; şeffaf ve kapsamlı bir hesap verme talebini yansıtıyor.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — 4 ekim 2026 spk başkanı soruşturması",
+              "url": "https://eksisozluk.com/4-ekim-2026-spk-baskani-sorusturmasi--8143613?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "TRT Haber — Eski SPK başkanı için ön inceleme",
+              "url": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-eski-spk-baskani-gonul-icin-teftis-kurulu-gorevlendirildi-959066.html",
+              "published_at": null
+            },
+            {
+              "name": "Anadolu Ajansı — Teftiş Kuruluna görev",
+              "url": "https://m.aa.com.tr/tr/ekonomi/bakan-simsekten-fon-sorusturmasi-kapsaminda-teftis-kuruluna-gorev/4077628",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885598",
+              "published_at": "2026-10-04T18:53:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885673",
+              "published_at": "2026-10-04T18:58:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Ekonomi ve denetim",
+            "source_pdf_page": 4
+          }
+        },
+        {
+          "id": "eksi-5474134",
+          "category": "turkiye",
+          "title": "Fatma Betül Sayan Kaya hakkındaki iddialar",
+          "summary": "Fon işlemleri ve para iadesine ilişkin haberler kamuoyunda tartışılıyor.",
+          "what_happened": "Fatma Betül Sayan Kaya ve ailesine ilişkin fon işlemleri iddiaları, kamuoyu önünde açıklama ve denetim taleplerini artırdı. Zeynel Emre'ye atfedilen iddiada yaklaşık yüz altmış üç milyon liralık yatırım ile iki milyar yüz yetmiş milyon liralık hisse satışından söz ediliyor. Satıştan çekildiği ileri sürülen tutarla net kazanç aynı kavram değil. Bu rakamlar iddiaların konusu; kesinleşmiş bir mahkeme kararı olarak aktarılmıyor.\n\nParanın iade edilip edilmediği konusunda da birbiriyle çelişen haber ve açıklamalar var. Ekonomim, yirmi dokuz eylülde yaklaşık iki milyar iki yüz milyon liranın Hazine tarafından belirtilen hesaba aktarıldığını yazdı. Ardından Nagehan Alçı, kendisine bunun aksinin söylendiğini aktardı; ancak kesin biçimde iade edilmediğini söyleyecek durumda olmadığını da belirtti. Bu nedenle iade tartışması açık bir resmi belgeyle sonuçlanmış kabul edilemiyor.\n\nEleştiriler, işlemlerin kaynağı, kamusal görev ile mali ilişkiler ve yetkililerin açıklama sorumluluğu üzerinde yoğunlaşıyor. Bazı katılımcılar, Kaya'nın iddialara kamuoyu önünde yanıt vermesini istiyor. Savunma ve açıklama talebiyle suçluluğun peşinen ilan edilmesi farklı tutumlar; hakaret içeren yorumlar somut delil yerine geçmiyor.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — fatma betül sayan kaya",
+              "url": "https://eksisozluk.com/fatma-betul-sayan-kaya--5474134?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Mynet — Kaya hakkındaki işlem iddiaları",
+              "url": "https://www.mynet.com/amp/fatma-betul-sayan-kaya-ile-anilan-2-17-milyar-tl-neler-aliyor-neler-konuttan-maasa-carpici-hesap-finans-577684",
+              "published_at": null
+            },
+            {
+              "name": "Ekonomim — Para iadesi haberi",
+              "url": "https://www.ekonomim.com/amp/gundem/fatma-betul-sayan-kaya-22-milyar-lirayi-iade-etti-haberi-921396",
+              "published_at": null
+            },
+            {
+              "name": "Halk TV — İade haberine ilişkin ihtilaf",
+              "url": "https://halktv.com.tr/turkiye/nagehan-alcidan-fatma-betul-sayan-kaya-iddiasi-parayi-iade-etmedigi-soylendi-1058600h",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885497",
+              "published_at": "2026-10-04T18:47:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885650",
+              "published_at": "2026-10-04T18:56:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Siyaset ve kamuoyu",
+            "source_pdf_page": 5
+          }
+        },
+        {
+          "id": "eksi-8143553",
+          "category": "turkiye",
+          "title": "Hadi Özışık’ın görüşme anlatımı",
+          "summary": "Kaya’nın ağladığına ilişkin anlatım, mali iddiaların nasıl haberleştirildiği tartışmasını doğurdu.",
+          "what_happened": "Hadi Özışık'ın Fatma Betül Sayan Kaya ile yaptığı görüşmeye ilişkin anlatımı ayrı bir tartışma başlığına dönüştü. Özışık'a atfedilen ifadelerde Kaya'nın yaşananlardan olumsuz etkilendiği ve görüşme sırasında ağladığı anlatılıyor. Buradaki kaynak, görüşmeyi aktaran kişinin beyanı. Ağlamanın nedeni veya konuşmanın bütün ayrıntıları bu aktarımın ötesinde kesinleştirilmiş değil.\n\nEleştirenler, büyük tutarlı mali iddiaların kişisel üzüntü üzerinden ele alınmasının asıl soruları geri plana ittiğini savundu. Bu yaklaşımda, para hareketlerinin açıklanması ile kişinin duygusal tepkisi birbirinden ayrılıyor. Haberin nasıl sunulduğuna itiraz edenler de özel bir görüşmenin kamuoyuna hangi amaçla aktarıldığını sorguladı.\n\nBazı yorumlar görüşmeyi başlı başına suçun kabulü gibi ele aldı. Oysa duygusal bir tepki, mali bir işlemin hukuka uygunluğu veya aykırılığı konusunda kanıt oluşturmuyor. Tartışmanın somut tarafı, iddialara verilecek açık yanıtlar ve işlemlere ilişkin doğrulanabilir bilgiler olarak kalıyor.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — fatma betül hanım'ın demoralize olup ağlaması",
+              "url": "https://eksisozluk.com/fatma-betul-hanimin-demoralize-olup-aglamasi--8143553?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Notbir — Hadi Özışık’ın görüşme anlatımı",
+              "url": "https://notbir.com.tr/gundem/hadi-ozisik-anlatti-fatma-betul-sayan-kaya-cokmus-durumda-agliyor",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885844",
+              "published_at": "2026-10-04T19:07:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885868",
+              "published_at": "2026-10-04T19:09:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Siyaset ve kamuoyu",
+            "source_pdf_page": 6
+          }
+        },
+        {
+          "id": "eksi-5771405",
+          "category": "turkiye",
+          "title": "İzmir’de parti değişikliği tartışması",
+          "summary": "Cemil Tugay’ın AK Parti’ye geçeceği iddiaları yeniden konuşuluyor.",
+          "what_happened": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AK Parti'ye geçeceğine ilişkin iddialar, belediye hizmetleri ve seçmen iradesi üzerinden tartışıldı. Belediyenin kendi açıklamasına göre Tugay, on sekiz haziranda CHP'den ayrıldı ve görevini bağımsız olarak sürdürüyor. Otuz eylülde Cumhurbaşkanı Erdoğan ile görüşmesi de haberleştirildi. Ancak görüşmenin yapılması, AK Parti'ye katılımın gerçekleştiği anlamına gelmiyor.\n\nDeğişikliği olumlu gören bazı yorumcular, belediyedeki hizmet sorunları ve personel düzeni üzerinden yeni bir yönetim anlayışı beklentisi dile getirdi. Grevler, kent hizmetlerinin kalitesi ve belediye içindeki ilişkiler bu eleştirilerde öne çıktı. Başka katılımcılar ise seçimden sonra parti değişmesinin seçmenin tercihiyle bağını sorguladı; kültür ve sosyal hizmetlerin geleceğine ilişkin endişelerini anlattı.\n\nBir siyasi geçiş olasılığına sevinmek veya bundan kaygılanmak, geçişin doğrulandığı anlamına gelmiyor. Bugünkü tartışmanın önemli kısmı beklenti ve tahminlerden oluşuyor. Bazı katılımcılar belediye yönetiminin değişmesini hizmet açısından değerlendirirken, diğerleri meseleyi temsil ve siyasi güven açısından ele alıyor. İddianın kesinleşmiş bir belediye devri gibi sunulması, eldeki açıklamaların ötesine geçiyor.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — izmir belediyesini akp'nin alması",
+              "url": "https://eksisozluk.com/izmir-belediyesini-akpnin-almasi--5771405?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "İzmir Büyükşehir Belediyesi — Başkan bilgileri",
+              "url": "https://izmir.bel.tr/",
+              "published_at": null
+            },
+            {
+              "name": "İzmir Büyükşehir Belediyesi — 18 Haziran açıklaması",
+              "url": "https://basinhaberleri.izmir.bel.tr/tr/Haberler/1/63951",
+              "published_at": null
+            },
+            {
+              "name": "Ekonomim — Erdoğan ile görüşme",
+              "url": "https://www.ekonomim.com/gundem/ak-partiye-gececek-deniliyordu-erdogan-izmir-buyuksehir-belediye-baskani-tugayi-kabul-etti-haberi-921764",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885781",
+              "published_at": "2026-10-04T19:03:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885845",
+              "published_at": "2026-10-04T19:07:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Siyaset ve kamuoyu",
+            "source_pdf_page": 7
+          }
+        },
+        {
+          "id": "eksi-8143471",
+          "category": "turkiye",
+          "title": "Cansu Badur için güvenlik kaygısı",
+          "summary": "Afganistan’dan gönderilen yardım videosu, vatandaşın korunması çağrılarını artırdı.",
+          "what_happened": "Afganistan'da bulunan Cansu Badur'un yardım videosu yeniden gündemde. Gazeteci Sinem Nazlı Demir'in yirmi altı eylül tarihli haberinde, Badur'un kendisini tuvalete kapatarak yardım istediği aktarılıyor. Şiddet gördüğü ve ülkeden ayrılamadığı yönündeki anlatımlar, Badur'un durumu hakkında ciddi kaygı doğurdu. Bir ekim tarihli devam haberinde, konunun Dilan Kunt Ayan'ın soru önergesiyle Meclis gündemine taşındığı ve yirmi altı eylülden sonra haber alınamadığının belirtildiği yazıyor.\n\nEkşi Sözlük'teki tartışmada, Badur'un Afganistan'a gitme kararını eleştirenler ile bu kararın acil yardım ihtiyacını ortadan kaldırmadığını savunanlar karşı karşıya geldi. Devletin vatandaşını koruması gerektiğini vurgulayanlar, kişinin geçmiş tercihleri üzerinden yardım hakkının tartışılamayacağını söyledi. Konsolosluk desteği ve güvenli biçimde Türkiye'ye dönüş sağlanması talepleri öne çıktı.\n\nŞiddet ve alıkonulma ayrıntıları haberlerde aktarılan beyanlar çerçevesinde ele alınmalı. Badur'un kurtarıldığına dair doğrulanmış güncel bir açıklama bulunmadan kurtulduğu söylenemez; haber alınamaması da ölümünün doğrulandığı anlamına gelmez. Somut ihtiyaç, güvenliğinin ve bulunduğu koşulların yetkili makamlarca açıklığa kavuşturulması.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — cansu badur'un kilitli tuvaletteki son videosu",
+              "url": "https://eksisozluk.com/cansu-badurun-kilitli-tuvaletteki-son-videosu--8143471?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "12punto — Cansu Badur’un yardım çağrısı",
+              "url": "https://12punto.com.tr/amp/gundem/turk-vatandasi-cansu-afganistanda-olum-riskiyle-karsi-karsiya-tuvaletten-gonderdigi-videoyla-yardim-istedi-153523",
+              "published_at": null
+            },
+            {
+              "name": "12punto — Meclis soru önergesi",
+              "url": "https://12punto.com.tr/gundem/12punto-afganistanda-alikonulan-cansuyu-turkiyeye-duyurmustu-haberimiz-tbmm-gundemine-tasinarak-bakanliga-soruldu-154047",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885722",
+              "published_at": "2026-10-04T19:01:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Siyaset ve kamuoyu",
+            "source_pdf_page": 8
+          }
+        },
+        {
+          "id": "eksi-7658663",
+          "category": "turkiye",
+          "title": "Müfredata hangi dersler eklenmeli?",
+          "summary": "Gündelik yaşam becerileri ve eleştirel düşünme dersleri önerildi.",
+          "what_happened": "Okul müfredatının gündelik hayata ne kadar hazırladığı, farklı ders önerileri üzerinden tartışıldı. İşaret dili, ilk yardım, afet anında doğru davranış, temel tamir ve yemek hazırlama gibi beceriler öne çıktı. Bu önerileri savunanlar, çocuğun yalnızca bilgi ezberlemesini değil, karşılaştığı bir sorunda ne yapabileceğini düşünmesini istiyor. Küçük yaşlardan başlayacak uygulamalı çalışmaların bu alışkanlığı destekleyebileceğini düşünüyorlar.\n\nİkinci bir grup öneri, birlikte yaşama kurallarına odaklanıyor. Sıra beklemek, toplu taşımada başkalarının alanına saygı duymak, çevreyi temiz tutmak ve gürültüden kaçınmak örnek olarak verildi. Bu konuların yalnızca aileye bırakılmaması ve yaşa uygun biçimde okulda da işlenmesi savunuldu.\n\nFelsefe, mantık, medya okuryazarlığı, bireysel ekonomi ve teknoloji okuryazarlığı da öneriler arasında. Katılımcılar, haberleri sorgulama ve para kararlarını anlama becerilerinin önemini vurguladı. Ders adlarını artırmanın tek başına yeterli olmayacağını düşünenler ise öğretmenlerin hazırlığına dikkat çekti. Bunlar açıklanmış yeni bir müfredatın maddeleri değil, eğitim sistemine yönelik farklı beklentiler.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — müfredata konulması gereken ders",
+              "url": "https://eksisozluk.com/mufredata-konulmasi-gereken-ders--7658663?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885820",
+              "published_at": "2026-10-04T19:06:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885877",
+              "published_at": "2026-10-04T19:10:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Eğitim ve toplum",
+            "source_pdf_page": 9
+          }
+        },
+        {
+          "id": "eksi-8143380",
+          "category": "turkiye",
+          "title": "Doğurganlıkta düşüş ve aile kurma koşulları",
+          "summary": "Bir virgül otuz sekiz iddiası, ekonomik koşullar ve bakım yükünü gündeme taşıdı.",
+          "what_happened": "Türkiye'nin doğurganlık hızının iki bin yirmi altıda bir virgül otuz sekiz olduğu iddiası, çocuk sahibi olmanın koşulları üzerinden tartışılıyor. TÜİK'in doğrulanabilen son yıllık verisi, iki bin yirmi beş için kadın başına bir virgül kırk iki çocuk. Başlıktaki bir virgül otuz sekiz değeri, iki bin yirmi altının tamamlanmış resmi sonucu olarak doğrulanmış değil. Ayrıca bu ölçü bir yüzde değil; kadın başına çocuk sayısını ifade ediyor.\n\nEkonomik koşulları öne çıkaranlar, kira, iş güvencesi ve çocuk bakımına erişimin aile kurma kararını zorlaştırdığını savunuyor. Kreş, güvenli oyun alanı ve makul çalışma saatleri talepleri dile getiriliyor. Kadının çocuk sahibi olduktan sonra çalışma hayatından kopması ve bakım yükünün eşit paylaşılmaması da eleştiriler arasında.\n\nDiğer yorumlar, kişisel özgürlük, yaşam tercihi ve ilişkilerdeki değişimi vurguluyor. Bazı katılımcılar düşük doğurganlığın ileride iş gücü ve emeklilik düzeni üzerindeki etkilerinden kaygılanıyor. Buna karşılık nüfusun büyüklüğünden önce eğitim ve yaşam koşullarına odaklanılması gerektiğini düşünenler var. Tartışma, insanlara çocuk sahibi olmaları için baskı yapmak ile bunu isteyenlerin önündeki güçlükleri azaltmak arasındaki farkı görünür kılıyor.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — doğum oranının 2026'da 1.38 olması",
+              "url": "https://eksisozluk.com/dogum-oraninin-2026da-1-38-olmasi--8143380?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "TÜİK — Dünya Nüfus Günü 2026",
+              "url": "https://veriportali.tuik.gov.tr/tr/press/58197",
+              "published_at": null
+            },
+            {
+              "name": "TRT Haber — 2025 doğurganlık verisi",
+              "url": "https://www.trthaber.com/haber/turkiye/turkiyede-dogurganlik-hizi-142ye-dustu-945832.html",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885532",
+              "published_at": "2026-10-04T18:49:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885656",
+              "published_at": "2026-10-04T18:57:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Eğitim ve toplum",
+            "source_pdf_page": 10
+          }
+        },
+        {
+          "id": "eksi-1098809",
+          "category": "felsefe",
+          "title": "Zeki kadınlardan korkulduğu iddiası",
+          "summary": "İlişkilerde zekâ, özgüven ve güç dengesi farklı görüşlerle ele alındı.",
+          "what_happened": "Erkeklerin zeki kadınlardan korktuğu iddiası, ilişkilerde özgüven ve eşitlik tartışmasına dönüştü. İddiayı savunanlar, karşısındaki kişinin daha çok bilmesinden veya sorgulamasından rahatsız olan davranışları örnek gösterdi. Onlara göre mesele zekânın kendisi değil, ilişkide üstün konumda olma beklentisinin sarsılması. Kadınların başarı ve bağımsızlıklarının kimi zaman olumsuz sıfatlarla tanımlandığı eleştirisi de bu görüşe eşlik etti.\n\nKarşı çıkanlar ise zeki bir partnerin iletişimi ve ortak yaşamı güçlendirebileceğini belirtti. Bir insanın bilgi sahibi olması ile küçümseyici davranması arasında ayrım yapılmasını istedi. Başkaları da zekâ ile kurnazlığı birbirine karıştırmanın tartışmayı yanlış yere götürdüğünü savundu.\n\nTartışmanın bir bölümünde kadınların eğitim ve kamusal yaşamdaki deneyimleri hatırlatıldı; bir bölümünde kişisel ilişki tercihleri anlatıldı. Bu iki düzey aynı değil. Kişinin kendi deneyimi, bütün erkeklerin veya bütün kadınların aynı biçimde davrandığını göstermiyor. Ortaya çıkan temel görüş ayrılığı, sorunun toplumsal güç ilişkilerinden mi yoksa bireysel karakter ve uyumdan mı kaynaklandığı üzerinde.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — erkekler zeki kadından korkar",
+              "url": "https://eksisozluk.com/erkekler-zeki-kadindan-korkar--1098809?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885512",
+              "published_at": "2026-10-04T18:48:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885524",
+              "published_at": "2026-10-04T18:49:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "İlişkiler ve yaşam",
+            "source_pdf_page": 11
+          }
+        },
+        {
+          "id": "eksi-7178589",
+          "category": "felsefe",
+          "title": "Donanımlı partner arayışı",
+          "summary": "Partnerden beklenen özelliklerin ne olduğu ve karşılıklılığı tartışıldı.",
+          "what_happened": "Donanımlı erkek bulmanın zor olduğu iddiasında önce donanım sözcüğünün anlamı sorgulandı. Bazıları bu sözcükle ekonomik gücün kastedildiğini düşündü. Diğerleri için ise bilgi birikimi, gündelik sorun çözme becerisi, duygusal destek ve sorumluluk alma daha önemli. Böylece aynı sözcüğün çok farklı beklentileri bir araya getirdiği görüldü.\n\nBir grup katılımcı, partner arayışında yüksek beklentiler kadar karşılıklılığın da konuşulması gerektiğini savundu. Başkasından birçok özellik bekleyen kişinin kendi ilişki kurma biçimini de değerlendirmesi istendi. Buna karşılık standart sahibi olmanın tek başına haksızlık olmadığını düşünenler, kişiyi yıpratan davranışların sırf yalnız kalmamak için kabul edilmemesi gerektiğini belirtti.\n\nKültürlü, güvenilir veya becerikli insan bulmanın yalnızca bir cinsiyete özgü sorun olmadığı görüşü de dile getirildi. Kimi yorumların alaycı dili ve kişileri eşya gibi değerlendirmesi tepki topladı. Başlığın bütününe uygulanabilecek ölçülmüş bir imkânsızlık sonucu yok; daha çok, ilişki kurarken hangi niteliklerin öncelikli sayıldığına dair bir anlaşmazlık var.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — donanımlı erkek bulmanın imkansız olması",
+              "url": "https://eksisozluk.com/donanimli-erkek-bulmanin-imkansiz-olmasi--7178589?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885465",
+              "published_at": "2026-10-04T18:45:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885931",
+              "published_at": "2026-10-04T19:13:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "İlişkiler ve yaşam",
+            "source_pdf_page": 12
+          }
+        },
+        {
+          "id": "eksi-7755152",
+          "category": "felsefe",
+          "title": "İlişki hayal kırıklığını genellemek",
+          "summary": "Erkeklere yönelik aşağılayıcı genelleme, kişisel deneyimlerin sınırı üzerinden eleştirildi.",
+          "what_happened": "Erkekleri topluca aşağılayan başlık, ilişki deneyimlerinin nasıl anlatılması gerektiği üzerinden sert bir tartışma yarattı. Başlığı destekleyenler, tutulmayan sözler, duygusal emek karşılığında ilgisizlik ve yalnızca cinsel yakınlık arayan davranışlardan şikâyet etti. Bazıları kendi arkadaş çevresindeki deneyimleri de anlatarak bunun tekrar eden bir sorun olduğunu savundu.\n\nİtiraz edenler, belirli kişilerin davranışlarının bütün bir cinsiyete yüklenmesini haksız buldu. Ailesiyle veya gündelik işleriyle ilgilenen insanların da aynı suçlamanın içine çekilmesi, mizahla karşılandı. Kendi ilişkilerinde dürüst ve destekleyici davrandığını söyleyenler, genellemenin onları da hedef aldığını belirtti.\n\nBu tartışmada iki ayrı mesele iç içe geçiyor: yaşanan hayal kırıklığını ciddiye almak ve bunu herkesi kapsayan bir hükme dönüştürmemek. Bir kişinin kötü davranışı açıkça eleştirilebilir; ancak bütün erkeklere ilişkin aynı sonucu çıkarmak için kişisel anlatılar yeterli değil. Benzer biçimde, şikâyet eden kişiyi küçümsemek de anlattığı davranış sorununu açıklamıyor. Başlık, güven ve karşılıklı saygı beklentisinin ne kadar kolay cinsiyet kavgasına dönüşebildiğini gösteriyor.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — erkeklerin cok serefsiz olmasi",
+              "url": "https://eksisozluk.com/erkeklerin-cok-serefsiz-olmasi--7755152?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885583",
+              "published_at": "2026-10-04T18:52:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885669",
+              "published_at": "2026-10-04T18:57:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "İlişkiler ve yaşam",
+            "source_pdf_page": 13
+          }
+        },
+        {
+          "id": "eksi-2780588",
+          "category": "felsefe",
+          "title": "Zor günlerde birlikte kalmak",
+          "summary": "Sadakat ile insanı sürekli mutsuz eden bir ilişkiye katlanmak ayrıştırıldı.",
+          "what_happened": "Ben seninle mutsuzluğa da varım sözü, bağlılığın anlamı üzerine farklı yorumlar doğurdu. Sözü olumlu bulanlar, bunun hastalık, işsizlik veya hayatın başka zorlukları karşısında birlikte kalma isteğini anlattığını söyledi. Bu görüşe göre bir ilişki, yalnızca şartlar iyiyken sürdürülen bir beraberlik olmamalı. Sözcüğün içindeki birlikte olma vurgusu, koşullar zorlaştığında dayanışma anlamına geliyor.\n\nKarşı çıkanlar ise mutsuzluğu romantikleştiren ifadelerin kişiyi kendinden vazgeçmeye itebileceğini düşünüyor. Sürekli incinmenin, ilgisizliğin veya huzursuzluğun sevginin doğal bedeli gibi sunulmasını eleştiriyorlar. Bazı katılımcılar, bu sözün kendi geçmiş ilişkilerinde sorunları çözmek yerine geçiştirmek için kullanıldığını anlattı.\n\nİki yaklaşımı ayıran önemli nokta, mutsuzluğun kaynağı. Hayatın getirdiği bir güçlüğü beraber karşılamak ile partnerin sürekli zarar veren davranışlarına katlanmak aynı şey değil. Destekleyici bir beraberlikten söz edenler de yalnızca kalmayı değil, koşulları iyileştirmek için çaba göstermeyi önemsiyor. Böylece tartışma, tek bir romantik cümlenin ötesinde, bağlılığın gündelik davranışlarla nasıl gösterileceğine uzanıyor.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — ben seninle mutsuzluğa da varım",
+              "url": "https://eksisozluk.com/ben-seninle-mutsuzluga-da-varim--2780588?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885829",
+              "published_at": "2026-10-04T19:06:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885917",
+              "published_at": "2026-10-04T19:12:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "İlişkiler ve yaşam",
+            "source_pdf_page": 14
+          }
+        },
+        {
+          "id": "eksi-8022544",
+          "category": "felsefe",
+          "title": "İnsanı yaşlandırdığı düşünülen deneyimler",
+          "summary": "Stres, kayıp ve bakım sorumluluğu yıpranma hissi üzerinden tartışıldı.",
+          "what_happened": "İnsanı kısa sürede yaşlandırdığı düşünülen olaylar arasında yakın kaybı, sorunlu ilişkiler, maddi sıkıntı ve çocuk bakımının getirdiği yorgunluk sayıldı. Bazı katılımcılar yoğun trafik ve sürekli haksızlığa uğrama hissini de ekledi. Bu anlatımlarda yaşlanmak çoğunlukla takvim yaşından ziyade, daha yorgun ve güçsüz hissetmek anlamında kullanılıyor.\n\nÇocuk sahibi olan bazı katılımcılar uykusuzluk, sürekli sorumluluk ve kendine zaman ayıramama üzerinde durdu. Yakınını kaybedenler ise aynı dönemin kişiyi duygusal olarak ne kadar değiştirebildiğini anlattı. Başka yorumlar, insanın yaş alma konusundaki bakış açısının da kendisini nasıl hissettiğini etkilediğini savundu.\n\nTartışmada hücreler, hormonlar ve yaşam süresi hakkında kesin sayılar içeren açıklamalar da yer aldı. Ancak kişisel gözlemden herkes için geçerli bir biyolojik sonuç çıkarılamaz. Bir olayın herkesi belirli sayıda yıl yaşlandıracağı şeklinde bir garanti yok. Bu başlığın daha sağlam zemini, insanların hangi koşullarda yıprandığını düşündüğü ve gündelik yüklerini nasıl tarif ettiği. Anlatılan deneyimlerle tıbbi ölçümler birbirine karıştırılmamalı.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — yaşlanma garantili olaylar",
+              "url": "https://eksisozluk.com/yaslanma-garantili-olaylar--8022544?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885575",
+              "published_at": "2026-10-04T18:52:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885632",
+              "published_at": "2026-10-04T18:55:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "İlişkiler ve yaşam",
+            "source_pdf_page": 15
+          }
+        },
+        {
+          "id": "eksi-7109526",
+          "category": "felsefe",
+          "title": "Topuklu ayakkabı yerine rahatlık",
+          "summary": "Ayakkabı tercihleri görünüşten çok gündelik koşullar üzerinden konuşuldu.",
+          "what_happened": "Kadınların topuklu ayakkabıyı daha az tercih ettiği gözlemi, şehir hayatının koşullarıyla birlikte ele alındı. Bazı kadınlar uzun yürüyüş, toplu taşıma, bozuk kaldırımlar ve saatlerce ayakta kalma nedeniyle daha rahat ayakkabılara yöneldiklerini söyledi. Özel günlerde kısa topuk tercih edenler olduğu gibi, topuklu ayakkabıyı hâlâ severek kullananlar da var.\n\nBir başka görüş, giyim tercihinin ulaşım ve çalışma koşullarından bağımsız olmadığını savunuyor. Kapıdan kapıya araçla ulaşan birinin gündeliği ile uzun süre yürüyen birinin gündeliği karşılaştırıldı. Boy, alışkanlık ve kişisel zevk de tercihin nedenleri arasında anlatıldı. Böylece tek bir moda değişimi gibi görünen konu, farklı günlük ihtiyaçlara ayrılıyor.\n\nTopuklu ayakkabıyı kadınlık veya şıklığın zorunlu ölçüsü sayan yorumlara itirazlar da geldi. Rahatlığı öncelemenin bakımsızlık anlamına gelmediği, kişinin kendisini iyi hissettiği biçimde giyinebileceği savunuldu. Ülke çapında kullanımın ne kadar azaldığını gösteren bir veri sunulmuş değil. Başlık, kişisel gözlemler ve giyim tercihleri etrafında gelişen bir tartışma.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — kadınların artık topuklu ayakkabı giymemesi",
+              "url": "https://eksisozluk.com/kadinlarin-artik-topuklu-ayakkabi-giymemesi--7109526?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186884859",
+              "published_at": "2026-10-04T18:09:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885088",
+              "published_at": "2026-10-04T18:23:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "İlişkiler ve yaşam",
+            "source_pdf_page": 16
+          }
+        },
+        {
+          "id": "eksi-5847755",
+          "category": "felsefe",
+          "title": "Ölüm korkusuyla nasıl yaşanır?",
+          "summary": "Kabullenme, inanç ve hayata anlam verme farklı yaklaşımlar olarak öne çıktı.",
+          "what_happened": "Ölüm korkusuyla baş etme konusunda tek bir yanıt yerine birbirinden farklı yaşam anlayışları dile getirildi. Bazıları sonluluğu kabul etmeyi ve sürekli ertelenen deneyimlere yer açmayı savundu. Sevdiklerine zaman ayırmak ve gündelik yaşamı anlamlı bulmak, bu yaklaşımın merkezinde. Başka katılımcılar, bilimsel dünya görüşünün veya insanlığın geleceğine katkıda bulunma düşüncesinin kendilerine iyi geldiğini anlattı.\n\nDini inancı öne çıkaranlar ise ölümü hayatın mutlak sonu olarak görmedikleri için farklı bir anlamlandırma biçimine sahip olduklarını söyledi. Felsefi görüşlere başvuranlar arasında Epikür'ün ölüm üzerine düşüncelerini hatırlatanlar da vardı. Bunlar aynı soruya verilen farklı kişisel cevaplar; herkes için geçerli ve kanıtlanmış bir yöntem olarak sunulmuyor.\n\nHastalık veya ölüm tehlikesi yaşadığını anlatan bazı kişiler, böyle bir deneyimin korkuyu mutlaka azaltmadığını, bazen artırdığını ifade etti. Bu anlatımlar, korkuyu yenmenin bir irade sınavı gibi görülmesine itiraz oluşturuyor. Tartışmanın ortak sorusu, ölümü hiç düşünmemekten çok, bu düşüncenin yaşamın tamamını kaplamadan nasıl taşınabileceği.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — ölüm korkusunu yenmenin yegane yolu",
+              "url": "https://eksisozluk.com/olum-korkusunu-yenmenin-yegane-yolu--5847755?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885859",
+              "published_at": "2026-10-04T19:08:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885861",
+              "published_at": "2026-10-04T19:08:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "İlişkiler ve yaşam",
+            "source_pdf_page": 17
+          }
+        },
+        {
+          "id": "eksi-3834989",
+          "category": "kultur",
+          "title": "Türkiye’de zombi dizisi tartışması",
+          "summary": "Tür çeşitliliği, yapım bütçeleri ve izleyici beklentileri konuşuldu.",
+          "what_happened": "Türkiye'de zombi dizisi çekilmediği iddiası, televizyon ve dijital platformlarda tür çeşitliliği tartışmasına dönüştü. Bazı izleyiciler, yapımcıların tanıdık aile, suç ve aşk hikâyelerinden uzaklaşmak istemediğini düşünüyor. Fantastik ya da bilim kurgu projelerinin ekonomik riskleri ve izleyici bulma kaygısı, bu görüşte öne çıkan nedenler.\n\nDiğer katılımcılar, yerel mizah ve gündelik hayatla birleşen bir zombi hikâyesinin ilgi çekebileceğini savundu. Sıcak Kafa gibi farklı türlerdeki yapımlar da tartışmaya örnek olarak getirildi. Ancak bir salgın veya fantastik unsur içeren her yapım doğrudan zombi dizisi sayılmıyor; türler birbirinden ayrılmalı.\n\nKendisini senarist olarak tanıtan bir katılımcı, yazdığı zombi komedisinin çekildiğini fakat henüz platforma satılmadığını anlattı. Bu, kendi deneyimine ilişkin bir beyan; yapımın güncel yayın durumu ayrıca doğrulanmış değil. Başlıkta asıl ayrışma, sorunun yaratıcı fikir eksikliğinden mi yoksa üretim ve dağıtım koşullarından mı kaynaklandığı üzerinde. İzleyicilerin farklı hikâye isteği ile yapımcıların ticari tercihleri birlikte tartışılıyor.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — türkiye'de zombi dizisi çekilmemesi",
+              "url": "https://eksisozluk.com/turkiyede-zombi-dizisi-cekilmemesi--3834989?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885618",
+              "published_at": "2026-10-04T18:54:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885718",
+              "published_at": "2026-10-04T19:00:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Kültür ve medya",
+            "source_pdf_page": 18
+          }
+        },
+        {
+          "id": "eksi-4785270",
+          "category": "kultur",
+          "title": "Çocuklukta korkutan film ve diziler",
+          "summary": "İzleyiciler çocukken gördükleri sahnelerin bıraktığı izleri anlattı.",
+          "what_happened": "Çocuklukta izlenen film ve dizilerin rahatsız edici sahneleri, kişisel anılar üzerinden konuşuldu. Ziyaretçiler, Hayvan Mezarlığı, Elm Sokağında Kâbus ve Halka gibi yapımların yanında, çizgi filmler ve aile dizileri de anıldı. Bazı izleyiciler, yıllar sonra bile belirli bir görüntüyü hatırladıklarını ve benzer yapımlardan uzak durduklarını söyledi.\n\nBurada yalnızca korku türünün etkisi anlatılmıyor. Bir karakterin ölümü, aşağılanması veya çaresiz bırakılması gibi sahneler de güçlü bir iz bırakmış. Çizgi film olarak sunulan bir yapımın bütün sahnelerinin her yaş için kolay anlaşılır ya da rahatlatıcı olmayabileceği görüşü öne çıktı. Başkaları ise aynı görüntüleri arkadaşlarıyla taklit ederek korkuyu oyuna çevirdiklerini anlattı.\n\nBu deneyimler herkes için aynı sonucu göstermiyor. Bir izleyiciyi derinden etkileyen sahne, bir başkasının yalnızca eski bir televizyon hatırası olabilir. Başlıktaki travma sözcüğü de katılımcıların yaşadıkları etkiyi anlatma biçimi; bu anlatımlardan klinik bir tanı çıkarılamaz. Ortak konu, çocukken anlamlandırılması zor olan görüntülerin yetişkinlikte de hatırlanabilmesi.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — çocuk yaşta izlenmiş travmatik diziler ve filmler",
+              "url": "https://eksisozluk.com/cocuk-yasta-izlenmis-travmatik-diziler-ve-filmler--4785270?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885657",
+              "published_at": "2026-10-04T18:57:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885775",
+              "published_at": "2026-10-04T19:03:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Kültür ve medya",
+            "source_pdf_page": 19
+          }
+        },
+        {
+          "id": "eksi-8143366",
+          "category": "spor",
+          "title": "Futbolda yapılanma suçlamaları",
+          "summary": "Resmî gelişmeler ile taraftarların kulüpler hakkındaki yorumları ayrılmalı.",
+          "what_happened": "Galatasaray'ın Fenerbahçe lehine bir yapılanmaya rağmen başarılı olduğu iddiası, rakip taraftarların sert karşılıklarıyla tartışıldı. Galatasaraylı yorumcular, saha içi başarıların kurumlara yönelik eleştirilerden bağımsız değerlendirilmesini istedi. Fenerbahçeli katılımcılar ise uzun süredir şampiyon olunmamasını bu iddiaya karşı bir gerekçe olarak gösterdi. Kulüplerin farklı spor dallarındaki başarıları da tartışmaya dahil edildi.\n\nGüncel resmî gelişme, Merkez Hakem Kurulu Başkanı Ferhat Gündoğdu'nun istifası. Türkiye Futbol Federasyonu dört ekimde istifayı duyurdu. Federasyon, üç ekimdeki açıklamasında Gündoğdu'nun tutuklandığını ve yeni kurulun oluşturulması için çalışma yürütüldüğünü bildirmişti. Bu açıklamalar, bir kulübün lehine örgütlü yapı bulunduğuna dair kesinleşmiş bir bulgu açıklamıyor.\n\nFederasyon ayrıca otuz eylülde video yardımcı hakem odasında inceleme yapıldığını doğrulamış, dijital materyallerin silinip geri getirildiğine ilişkin iddiayı reddetmişti. Taraftarların buradan kendi takımları lehine veya rakipleri aleyhine çıkardığı sonuçlar yorum niteliğinde. Kurum açıklaması, iddia ve adli sonuç arasındaki fark korunmadan, sportif rekabet kolayca birbirini doğrulamayan suçlamalara dönüşüyor.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — galatasaray'ın fenerbahçe yapılanmasını yenmesi",
+              "url": "https://eksisozluk.com/galatasarayin-fenerbahce-yapilanmasini-yenmesi--8143366?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "TFF — Ferhat Gündoğdu’nun istifası",
+              "url": "https://www.tff.org/default.aspx?ftxtID=51549&pageID=687",
+              "published_at": null
+            },
+            {
+              "name": "TFF — 3 Ekim açıklaması",
+              "url": "https://www.tff.org/default.aspx?ftxtID=51543&pageID=687",
+              "published_at": null
+            },
+            {
+              "name": "TFF — VAR odası incelemesi açıklaması",
+              "url": "https://www.tff.org/default.aspx?ftxtID=51490&pageID=687",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885515",
+              "published_at": "2026-10-04T18:48:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885927",
+              "published_at": "2026-10-04T19:13:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Spor",
+            "source_pdf_page": 20
+          }
+        },
+        {
+          "id": "eksi-8143644",
+          "category": "turkiye",
+          "title": "Adana ve Osmaniye’de peş peşe depremler",
+          "summary": "Saimbeyli’deki iki depremi Sumbas’taki beş virgül ikilik sarsıntı izledi.",
+          "what_happened": "Dört ekim öğleden sonra Adana'nın Saimbeyli ilçesinde peş peşe iki deprem meydana geldi. AFAD kayıtlarına göre ilk deprem saat on dört on dokuzda dört virgül sekiz, ikinci deprem on dört otuz altıda dört virgül dokuz büyüklüğündeydi. Ardından saat on dört kırk üçte Osmaniye'nin Sumbas ilçesinde beş virgül iki büyüklüğünde bir deprem kaydedildi. Dolayısıyla gündemdeki olay tek bir dört virgül sekizlik sarsıntıyla sınırlı değil.\n\nAdana'dan yazan bazı kişiler sarsıntıyı uzun veya güçlü hissettiklerini söyledi; bazıları ise bulunduğu yerde hissetmediğini belirtti. Altı şubat depremlerini yaşayanlar, yeni sarsıntıların o günlerdeki kaygıyı tekrar hatırlattığını anlattı. Bunlar farklı yerlerdeki bireysel deneyimler; aynı deprem herkes tarafından aynı biçimde hissedilmiyor.\n\nYorumlarda yer alan kokudan, gündelik işaretlerden veya daha önce paylaşılmış videolardan kesin deprem tahmini çıkarma iddiaları, bu olayların önceden bilindiğini kanıtlamıyor. Ayrıca birkaç sarsıntının olması, bölgede artık büyük deprem olmayacağı sonucunu vermiyor. Resmî deprem kaydıyla doğrulanan büyüklük ve saatler aktarılabilir; hasarın boyutu ve sonraki gelişmeler ise ilgili makamların değerlendirmelerini gerektiriyor.",
+          "sources": [
+            {
+              "name": "Ekşi Sözlük — 4 ekim 2026 adana depremi",
+              "url": "https://eksisozluk.com/4-ekim-2026-adana-depremi--8143644?a=popular",
+              "published_at": null
+            },
+            {
+              "name": "AFAD — Son depremler",
+              "url": "https://deprem.afad.gov.tr/last-earthquakes.html?ftag=YHF4eb9d17KAYNAK",
+              "published_at": null
+            },
+            {
+              "name": "Anadolu Ajansı — Adana depremleri",
+              "url": "https://www.aa.com.tr/tr/gundem/adanada-4-8-ve-4-9-buyuklugunde-iki-deprem-meydana-geldi/4077567",
+              "published_at": null
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885793",
+              "published_at": "2026-10-04T19:04:00+03:00"
+            },
+            {
+              "name": "Ekşi Sözlük — Tarihli görüş",
+              "url": "https://eksisozluk.com/entry/186885832",
+              "published_at": "2026-10-04T19:07:00+03:00"
+            }
+          ],
+          "metadata": {
+            "original_category": "Afet ve güvenlik",
+            "source_pdf_page": 21
+          }
+        }
+      ],
+      "prepared_at": "2026-10-04T18:57:48.109247+00:00",
+      "metadata": {
+        "coverage_note": "4 Ekim 2026 yaklaşık 18.56 Türkiye saati gündem kesiti; kesin saniye kaydı yoktur. Her 20 başlıkta 4 Ekim tarihli entry doğrulandı. İlk ve son sayfalardan örnekleme; bütün entryler taranmış değildir. Bu bilgi içerik kapsamı notudur, konu gövdelerine eklenmemiştir.\n\nKaynak yayın saati kesin bilinmiyorsa published_at null. Bülten tarihi kaynak yayın tarihi yerine yazılmadı. Tarihli entrylerde görüntülenen dakika kullanıldı."
+      }
     }
   ]
 }

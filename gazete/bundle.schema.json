@@ -16,7 +16,7 @@
     "bulletins": {
       "type": "array",
       "minItems": 1,
-      "maxItems": 4,
+      "maxItems": 5,
       "items": {
         "$ref": "#/$defs/bulletin"
       }
@@ -50,7 +50,8 @@
             "morning",
             "ai",
             "youtube_am",
-            "youtube_pm"
+            "youtube_pm",
+            "eksi"
           ]
         },
         "bulletin_id": {

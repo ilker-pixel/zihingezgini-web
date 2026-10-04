@@ -25,6 +25,7 @@ FEEDS = {
     "ai": ("AI gündemi", 21),
     "youtube_am": ("YouTube sabah", 10),
     "youtube_pm": ("YouTube akşam", 22),
+    "eksi": ("Ekşi gündem", 20),
 }
 CATEGORIES = {
     "bilim": "Bilim", "teknoloji": "Teknoloji", "ekonomi": "Ekonomi",
@@ -243,8 +244,8 @@ def validate_bundle(bundle, now):
     fields(bundle, ("schema_version", "bulletins"), label="paket")
     if type(bundle["schema_version"]) is not int or bundle["schema_version"] != 1:
         fail("schema_version=1 gerekli")
-    if not isinstance(bundle["bulletins"], list) or not 1 <= len(bundle["bulletins"]) <= 4:
-        fail("paket 1–4 bülten içermeli")
+    if not isinstance(bundle["bulletins"], list) or not 1 <= len(bundle["bulletins"]) <= len(FEEDS):
+        fail(f"paket 1–{len(FEEDS)} bülten içermeli")
     seen = set()
     for b in bundle["bulletins"]:
         validate_bulletin(b, now)
@@ -395,9 +396,19 @@ def shell(title, body, categories, route="", active=""):
 <footer><span>Gündem Gazetesi · Saatler Türkiye saatidir. Kaynaklar ve yayın/kayıt bilgileri Kaynaklar bölümünde yer alır.</span><a class="footer-sources" href="/gazete/kaynaklar/"{(' aria-current="page"' if active == 'kaynaklar' else '')}>Kaynaklar</a></footer><script src="/gazete/static/freshness.js" defer></script></body></html>'''
 
 
+def has_detail(b, t):
+    if b['feed_id'] == 'morning':
+        return False
+    if b['feed_id'] == 'eksi':
+        short = len(t['what_happened'].split())
+        full = len(t.get('full_text', '').split())
+        return full >= short + 20 and full * 5 >= short * 6
+    return True
+
+
 def card(b, t):
     label = FEEDS[b["feed_id"]][0]
-    detail_cta = '' if b['feed_id'] == 'morning' else f'<a class="detail-read" href="/gazete/{detail_path(b,t)}">Detaylı oku <span aria-hidden="true">→</span></a>'
+    detail_cta = f'<a class="detail-read" href="/gazete/{detail_path(b,t)}">Detaylı oku <span aria-hidden="true">→</span></a>' if has_detail(b,t) else ''
     return f'''<article class="story"><p class="eyebrow">{esc(CATEGORIES[t['category']])} <span>· {esc(label)}</span></p>
 <h2><a href="/gazete/{article_path(b,t)}">{esc(t['title'])}</a></h2><p>{esc(t['summary'])}</p>
 <div class="story-actions"><a class="read" href="/gazete/{article_path(b,t)}">Yazıyı oku <span aria-hidden="true">→</span></a>
@@ -454,7 +465,7 @@ def render(current, output, now):
     for b,t in pairs:
         paragraphs = prose(t["what_happened"])
         article_paragraphs = prose(t.get('full_text', t['what_happened'])) if b['feed_id'] == 'morning' else paragraphs
-        detail_cta = '' if b['feed_id'] == 'morning' else f'<p><a class="detail-read" href="/gazete/{detail_path(b,t)}">Detaylı oku <span aria-hidden="true">→</span></a></p>'
+        detail_cta = f'<p><a class="detail-read" href="/gazete/{detail_path(b,t)}">Detaylı oku <span aria-hidden="true">→</span></a></p>' if has_detail(b,t) else ''
         def source_list(items):
             rows = ''.join(f'<li><a href="{esc(s["url"])}" rel="noopener noreferrer">{esc(s["name"])}</a>' + (f'<span>{date_label(s["published_at"])}</span>' if s['published_at'] else '') + '</li>' for s in items)
             return rows

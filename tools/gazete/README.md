@@ -7,7 +7,7 @@ Geliştirme dalı: `codex/gazete-four-feeds-sanitized`. Bu çalışma yayın vey
 
 `bundle.schema.json` resmi alan sözleşmesidir. Python importer ek olarak zaman sırasını,
 Türkiye yayın slotunu, kimlikleri, tekrarları ve URL'leri denetler. JSON şeması tek başına
-iş kurallarının yerine geçmez. Paket 1–4 tamamlanmış bülten içerebilir:
+iş kurallarının yerine geçmez. Paket 1–5 tamamlanmış bülten içerebilir:
 
 | feed_id | Türkiye saati | Anlam |
 |---|---|---|
@@ -15,6 +15,7 @@ iş kurallarının yerine geçmez. Paket 1–4 tamamlanmış bülten içerebilir
 | ai | 21.00 | AI gündemi |
 | youtube_am | 10.00 | YouTube sabah |
 | youtube_pm | 22.00 | YouTube akşam |
+| eksi | 20.00 | Ekşi gündem |
 
 `scheduled_for`: bültenin ait olduğu tarih/slot; `completed_at`: gerçekten tamamlandığı an.
 `prepared_at`: veri paketinin hazırlanması; tamamlanma saati değildir. Tamamlanma saati bilinmiyorsa
@@ -30,8 +31,9 @@ kultur, saglik, cevre, spor, felsefe, hava. Kategori üreticinin tamamlanmış p
 bu araç haber veya kategori için AI çağırmaz. Yeni kategori sözleşme güncellemesi gerektirir.
 Kaynak çekinceleri `what_happened` içinde korunur. Metin düz UTF-8, paragraflar boş satırla.
 HTML metin olarak kaçırılır. Kaynaklar gerçek HTTP(S) URL, ad ve gerçek tarih taşır.
-PDF, MP3, Ekşi ve ekonomi uygulamasının eski bağımsız bülteni bu sözleşmede yoktur.
-Ekonomi konuları bu dört kaynağın içinden gelebilir.
+PDF/MP3 dosyaları ve ekonomi uygulamasının eski bağımsız bülteni bu sözleşmede yoktur.
+Ekşi için tamamlanmış PDF içeriğinin metin ve kaynak alanları aktarılır; PDF dosyası üretime kopyalanmaz.
+Ekonomi konuları bu beş kaynağın içinden gelebilir.
 
 ## Yerel / bulut komutları
 
@@ -56,7 +58,7 @@ Aynı içeriğin yeniden paketlenmesi prepared_at değişse de etkisizdir. Eksik
 Yeni kaynak bülteni kendi eski yazılarının tamamını değiştirir; konu kategorisi değişen
 yazı eski kategorisinden çıkar. Başka kaynaklar dokunulmadan korunur.
 
-Depodaki tek durum `gazete/data/current.json`: en çok dört son bülten, bülten başına
+Depodaki tek durum `gazete/data/current.json`: en çok beş son bülten, bülten başına
 30 konu, tüm paket en çok 4 MB. Önceki gazete baskıları/PDF/MP3 kopyaları üretime eklenmez.
 Ayrı bekleme havuzu bu sürümde kullanılmaz; böylece bir aylık üst sınır da aşılmaz.
 Git'in mevcut metin geçmişi korunur; force push/purge yapılmaz. Büyük dosya veya
@@ -146,7 +148,9 @@ daha kısa olabilir: sırf uzun görünmesi için içerik üretilmez. Daha kısa
 anlatımda bu durum açıkça belirtilir. Kaynak anlatımı hiç yoksa en kapsamlı mevcut
 metin, ayrı uzun anlatım bulunmadığı notuyla sunulur.
 
-Her kartta ve kısa yazıda Detaylı oku bağlantısı vardır. Adres:
+AI ve YouTube kartlarında/yazılarında Detaylı oku bağlantısı vardır. Morning
+yazılarında özgün metin doğrudan gösterilir ve bu bağlantı yoktur. Ekşi için
+aşağıdaki ayrı kaynak anlatımı koşulu geçerlidir. Detay adresi:
 `/gazete/yazi/<feed_id>/<id>/detay/`. Detay sayfasında kısa yazıya ve gazete ana
 sayfasına dönüş, özgün zaman kodlu video bölümleri ve varsa Bir çırpıda bölümü
 bulunur. Eski kısa metnin çekinceleri ek açılır alanda korunur. Kaynak metnindeki
@@ -191,3 +195,43 @@ kopyalanmaz; yalnız halka açık kaynak kökeni korunur.
 41 yazı, 13 YouTube yazısında 145 zaman kodlu bölüm ve 21 Bir çırpıda sayfası.
 Bu feature çalışması push/merge/deploy yapmaz; teslim patch'i güncel main ile
 karşılaştırılarak parent tarafından incelenir ve buluttan yayımlanır.
+
+## Ekşi gündem — beşinci kaynak
+
+`feed_id=eksi`, planlanan yayın slotu Türkiye saati 20.00. Mevcut paket v1
+1–5 tamamlanmış bülten kabul eder; 4 MB, kaynak başına 30 konu sınırı değişmez.
+Kaynak adaptöründe `eksi_20` bu feed'e karşılık gelir. Bu genişleme mevcut dört
+kaynağın yazı/özet/detay davranışını değiştirmez. Morning özgün gövdesi ve
+detaysız kartları, AI/YouTube detay bağlantıları ve Kaynaklar footer'ı korunur.
+
+Ekşi PDF'sindeki Ne oldu? bölümü `what_happened` olarak aynen aktarılır. Konu
+kategorisi doğrulanmış kaynak paketinde açıkça verilir; araç haber, kategori,
+polemik veya siyasi iddia üretmez. Görüşler, atıflar, belirsizlikler ve çekinceler
+metinde korunur. Kaynak yayın tarihi ile tartışmanın/olayın tarihi birleştirilmez.
+Bilinmeyen tamamlanma/kapsam zamanları null kalır; gerçek prepared_at sağlanır.
+Kaynak link listeleri yazı altına konmaz, yazıyla ilişkili Kaynaklar grubundadır.
+
+Ayrı özgün anlatım varsa `full_text` verilebilir. Ekşi'de Detaylı oku yalnız
+full_text, Ne oldu? metninden en az 20 kelime ve en az yüzde 20 uzunsa gösterilir.
+Bu eşik yeni içerik yazma talimatı değildir; kısa/eşit kaynağı uzatmayın. Eksik
+veya kısa full_text nedeniyle haber saklanmaz: mevcut Ne oldu? metni okunur.
+Üretici yalnız kaynakta bulunan anlatımı sağlar; eski detay URL'leri desteklenir.
+
+Yeni Ekşi bülteni yalnız önceki Ekşi yazılarını ve kaynak gruplarını atomik olarak
+değiştirir. Diğer dört kaynak, tamamlanmış yeni kendi bültenleri gelene kadar
+korunur; günlük veya 24 saatlik genel silme yoktur. Replay idempotent, eski
+slot etkisiz, aynı kimlik/farklı içerik hatadır; paralel importlar aynı kilitle
+sıraya alınır. Güncel main/veri önce okunmalı ve YouTube akşam yayıncısı
+tamamlandıktan sonra parent tek atomik gazete yayını yapmalıdır.
+
+Bugünkü doğrulanmış PDF metin paketi için `adapt_eksi_bundle.py SOURCE EVIDENCE OUTPUT
+--source-sha256 EXPECTED --evidence-sha256 EXPECTED` kullanılır. Üst düzeydeki gerçek
+prepared_at bültene taşınır; metin, başlık, özet, kaynak URL/tarihleri ve PDF sırası
+aynen kalır. Özgün Türkçe kategori `metadata.original_category`, PDF sayfası
+`metadata.source_pdf_page` olarak korunur. Eşleme: Ekonomi ve denetim → ekonomi;
+Siyaset ve kamuoyu / Eğitim ve toplum / Afet ve güvenlik → turkiye;
+İlişkiler ve yaşam → felsefe; Kültür ve medya → kultur; Spor → spor. Tanımsız
+kategori reddedilir. Kanıt konu sayısı/sırası/kimlikleri, özgün konu URL'si ve gerçek
+zamanlar eşleşmelidir. Örnekleme/kapsam çekinceleri bülten metaverisinde korunur.
+Sonra standart --check-bundle ve --import-bundle kullanılır; PDF veya ham kanıt
+üretime eklenmez. 4 Ekim paketi 20 konu ve 79 kaynak taşır; hiçbir kaynak kesilmez.

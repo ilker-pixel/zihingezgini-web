@@ -121,7 +121,7 @@ class GazeteTest(unittest.TestCase):
         self.assertEqual(before,files(self.root))
     def test_invalid_data_preserves_entire_site(self):
         variants=[]
-        for path,value in [('feed_id','eksi'),('feed_id',[]),('scheduled_for','2026-10-03T09:00:00+03:00'),('completed_at','2026-10-04T08:00:00+03:00'),('coverage_start','2026-10-03T09:00:00+03:00'),('topics',[])]:
+        for path,value in [('feed_id','podcast'),('feed_id',[]),('scheduled_for','2026-10-03T09:00:00+03:00'),('completed_at','2026-10-04T08:00:00+03:00'),('coverage_start','2026-10-03T09:00:00+03:00'),('topics',[])]:
             b=bulletin();b[path]=value;variants.append(b)
         for path,value in [('id','../../bad'),('category','ai_haberleri'),('category',[]),('summary',''),('summary','two\nlines'),('what_happened','')]:
             b=bulletin();b['topics'][0][path]=value;variants.append(b)
@@ -402,6 +402,120 @@ class GazeteTest(unittest.TestCase):
             self.assertNotIn(t['full_text'],page)
             self.assertIn('Detaylı oku',page)
             self.assertIn('Detaylı oku',g.card(b,t))
+
+    def test_five_feed_contract_and_schema_match(self):
+        bs=[bulletin(f) for f in g.FEEDS]
+        g.validate_bundle(bundle(*bs),NOW)
+        self.assertEqual(len(bs),5)
+        schema=json.loads((g.ROOT/'tools/gazete/bundle.schema.json').read_text())
+        self.assertEqual(schema['properties']['bulletins']['maxItems'],5)
+        self.assertEqual(set(schema['$defs']['bulletin']['properties']['feed_id']['enum']),set(g.FEEDS))
+        with self.assertRaises(g.InvalidBulletin):g.validate_bundle(bundle(*bs,bulletin('eksi')),NOW)
+        wrong=bulletin('eksi');wrong['scheduled_for']='2026-10-03T19:00:00+03:00'
+        with self.assertRaises(g.InvalidBulletin):g.validate_bundle(bundle(wrong),NOW)
+
+    def test_eksi_twenty_topics_keep_original_text_sources_and_uncertainty(self):
+        b=bulletin('eksi');prototype=b['topics'][0]
+        b['topics']=[dict(copy.deepcopy(prototype),id=f'eksi-test-{i}',category='turkiye' if i%2 else 'kultur',
+                          what_happened=f'{i}. yazı yalnız yazılım testi. Görüş kaynağa aittir; kesinleşmiş bulgu değildir.') for i in range(20)]
+        original=copy.deepcopy(b)
+        self.import_(b)
+        self.assertEqual(self.state()['bulletins'][0],original)
+        for t in b['topics']:
+            page=(self.root/'gazete'/g.article_path(b,t)/'index.html').read_text()
+            self.assertIn(g.prose(t['what_happened']),page)
+            self.assertNotIn('https://example.com/source',page)
+            self.assertNotIn('Detaylı oku',page)
+        self.assertIn('https://example.com/source',(self.root/'gazete/kaynaklar/index.html').read_text())
+        self.assertIn('Ekşi gündem',(self.root/'gazete/index.html').read_text())
+
+    def test_eksi_replay_and_stale_import_are_noops(self):
+        self.import_(*(bulletin(f) for f in g.FEEDS));before=files(self.root)
+        self.assertEqual(self.import_(bulletin('eksi'))['duplicate'],['eksi'])
+        self.assertEqual(before,files(self.root))
+        self.assertEqual(self.import_(bulletin('eksi','2026-10-02'))['stale'],['eksi'])
+        self.assertEqual(before,files(self.root))
+
+    def test_eksi_replacement_preserves_other_four_feeds_and_clears_own_sources(self):
+        self.import_(*(bulletin(f,'2026-10-02') for f in g.FEEDS))
+        old={b['feed_id']:copy.deepcopy(b) for b in self.state()['bulletins'] if b['feed_id']!='eksi'}
+        b=bulletin('eksi');b['topics'][0]['id']='eksi-replacement';b['topics'][0]['sources'][0]['url']='https://example.com/eksi-new'
+        self.import_(b)
+        self.assertEqual({x['feed_id']:x for x in self.state()['bulletins'] if x['feed_id']!='eksi'},old)
+        self.assertFalse((self.root/'gazete/yazi/eksi/test-eksi').exists())
+        source_page=(self.root/'gazete/kaynaklar/index.html').read_text()
+        self.assertNotIn('id="kaynak-eksi-test-eksi"',source_page)
+        self.assertIn('id="kaynak-eksi-eksi-replacement"',source_page)
+        self.assertEqual(len(self.state()['bulletins']),5)
+
+    def test_concurrent_eksi_and_youtube_pm_keep_both_updates(self):
+        from concurrent.futures import ThreadPoolExecutor
+        self.import_(*(bulletin(f,'2026-10-02') for f in g.FEEDS))
+        with ThreadPoolExecutor(2) as pool:
+            results=list(pool.map(lambda b:self.import_(b),[bulletin('eksi'),bulletin('youtube_pm')]))
+        latest={b['feed_id']:b for b in self.state()['bulletins']}
+        self.assertEqual(len(latest),5)
+        self.assertEqual(latest['eksi']['bulletin_id'],'eksi-2026-10-03')
+        self.assertEqual(latest['youtube_pm']['bulletin_id'],'youtube_pm-2026-10-03')
+        self.assertTrue(all(r['changed'] for r in results))
+
+    def test_eksi_detail_cta_requires_meaningfully_longer_original(self):
+        for count in (0,10,110,120,150):
+            b=bulletin('eksi');t=b['topics'][0];t['what_happened']='Kısa kaynak. '*50
+            if count:t['full_text']='Özgün ' * count
+            g.replace_site(self.root,bundle(b),NOW)
+            page=(self.root/'gazete'/g.article_path(b,t)/'index.html').read_text()
+            self.assertIn(g.prose(t['what_happened']),page)
+            expected=count>=120
+            self.assertEqual('Detaylı oku' in page,expected)
+            self.assertEqual('Detaylı oku' in g.card(b,t),expected)
+            if expected:self.assertIn(g.prose(t['full_text']),(self.root/'gazete'/g.detail_path(b,t)/'index.html').read_text())
+
+    def test_eksi_invalid_conflict_preserves_all_five_feeds(self):
+        self.import_(*(bulletin(f) for f in g.FEEDS));before=files(self.root)
+        b=bulletin('eksi');b['topics'][0]['what_happened']='Çelişkili test değişikliği.'
+        with self.assertRaises(g.InvalidBulletin):self.import_(b)
+        self.assertEqual(before,files(self.root))
+
+    def test_source_adapter_accepts_eksi_without_rewriting_story(self):
+        import sys
+        sys.path.insert(0,str(Path(__file__).parent/'gazete'))
+        from adapt_source_bundle import adapt
+        source={'schema_version':'gundemgazetesi-source-bundle/1','timezone':'Europe/Istanbul','assembled_at':'2026-10-03T20:52:00Z',
+                'feeds':[{'id':'eksi_20','edition_date':'2026-10-03','scheduled_time_local':'20:00','generation_completed_at':None,'window':None}],
+                'articles':[{'id':'test-eksi-source','feed_id':'eksi_20','topic_id':'turkiye','title':'Test başlığı','summary':'Test özeti.',
+                             'what_happened':['Özgün kaynak paragrafı.','Belirsizlik ve atıf korunur.'],'sources':[{'label':'Test','url':'https://example.com'}]}]}
+        normalized=adapt(source);g.validate_bundle(normalized,NOW)
+        b=normalized['bulletins'][0]
+        self.assertEqual(b['feed_id'],'eksi')
+        self.assertEqual(b['topics'][0]['what_happened'],'Özgün kaynak paragrafı.\n\nBelirsizlik ve atıf korunur.')
+        self.assertIsNone(b['completed_at']);self.assertIsNone(b['coverage_start'])
+
+    def test_verified_eksi_adapter_preserves_story_sources_order_and_times(self):
+        import sys
+        sys.path.insert(0,str(Path(__file__).parent/'gazete'))
+        from adapt_eksi_bundle import adapt
+        b=bulletin('eksi');t=b['topics'][0];t['category']='Ekonomi ve denetim'
+        source=dict(bundle(b),prepared_at='2026-10-03T20:52:00Z')
+        evidence={'prepared_at':source['prepared_at'],'original_completed_at':b['completed_at'],'total_topics':1,
+                  'selection_cutoff_note':'Görüşlerin bir örneklemi; bütün kayıtlar taranmadı.',
+                  'source_date_note':'Bilinmeyen tarih uydurulmadı.',
+                  'topics':[{'id':t['id'],'pdf_page':2,'original_topic_url':t['sources'][0]['url']}]}
+        original=copy.deepcopy(source);result=adapt(source,evidence);g.validate_bundle(result,NOW)
+        self.assertEqual(source,original)
+        topic=result['bulletins'][0]['topics'][0]
+        for name in ('id','title','summary','what_happened','sources'):self.assertEqual(topic[name],t[name])
+        self.assertEqual(topic['category'],'ekonomi')
+        self.assertEqual(topic['metadata']['original_category'],'Ekonomi ve denetim')
+        self.assertEqual(result['bulletins'][0]['prepared_at'],source['prepared_at'])
+        self.assertIn('bütün kayıtlar taranmadı',result['bulletins'][0]['metadata']['coverage_note'])
+        self.assertEqual(adapt(result,evidence),result)
+        bad=copy.deepcopy(evidence);bad['total_topics']=2
+        with self.assertRaises(g.InvalidBulletin):adapt(source,bad)
+        bad=copy.deepcopy(evidence);bad['prepared_at']='2026-10-03T20:51:00Z'
+        with self.assertRaises(g.InvalidBulletin):adapt(source,bad)
+        bad_source=copy.deepcopy(source);bad_source['bulletins'][0]['topics'][0]['category']='Tanımsız kategori'
+        with self.assertRaises(g.InvalidBulletin):adapt(bad_source,evidence)
 
     def test_details_adapter_preserves_short_fields_and_rejects_mismatches(self):
         import sys

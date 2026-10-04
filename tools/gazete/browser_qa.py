@@ -6,11 +6,14 @@ from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 import json
 from pathlib import Path
 import shutil
+import sys
 import threading
 
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT/'tools'))
+import build_gazete as g
 
 
 def main():
@@ -63,21 +66,32 @@ def main():
                 if width in (1440,390):
                     page.screenshot(path=str(args.artifacts/f'gazete-home-{width}.png'),full_page=True)
                     page.screenshot(path=str(args.artifacts/f'gazete-home-{width}-preview.png'))
-                article=next((ROOT/'gazete/yazi').rglob('index.html'))
+                article_pair=next(((b,t) for b in state['bulletins'] for t in b['topics'] if g.has_detail(b,t)),None)
+                if article_pair is None:article_pair=next((b,t) for b in state['bulletins'] for t in b['topics'])
+                article=ROOT/'gazete'/g.article_path(*article_pair)/'index.html'
                 page.goto(origin+'/'+str(article.relative_to(ROOT)),wait_until='networkidle')
                 if width==390:
                     page.screenshot(path=str(args.artifacts/'gazete-article-mobile.png'),full_page=True)
                     page.screenshot(path=str(args.artifacts/'gazete-article-mobile-preview.png'))
-                    page.locator('.detail-read').click()
-                    if page.locator('.source-narrative').count()!=1:raise AssertionError('Detail navigation')
-                    page.screenshot(path=str(args.artifacts/'gazete-detail-mobile-preview.png'))
+                    if g.has_detail(*article_pair):
+                        page.locator('.detail-read').click()
+                        if page.locator('.source-narrative').count()!=1:raise AssertionError('Detail navigation')
+                        page.screenshot(path=str(args.artifacts/'gazete-detail-mobile-preview.png'))
                     page.goto(origin+'/gazete/kaynaklar/',wait_until='networkidle')
                     page.screenshot(path=str(args.artifacts/'gazete-sources-mobile-preview.png'))
-            page.clock.install(time=dt.datetime.fromisoformat('2026-10-04T08:01:00+03:00'))
+            clock=max(g.timestamp(b['scheduled_for'],'slot') for b in state['bulletins'])+dt.timedelta(days=1,minutes=1)
+            page.clock.install(time=clock)
             page.goto(origin+'/gazete/',wait_until='networkidle')
             page.locator('.freshness summary').click()
             statuses=page.locator('.freshness .status').all_inner_texts()
-            if statuses!=['Yeni bülten bekleniyor','Son bülten hazır','Son bülten hazır','Son bülten hazır']:
+            by_feed={b['feed_id']:b for b in state['bulletins']}
+            expected_statuses=[]
+            for feed,(_,hour) in g.FEEDS.items():
+                expected=clock.astimezone(g.TR).replace(hour=hour,minute=0,second=0,microsecond=0)
+                if expected>clock:expected-=dt.timedelta(days=1)
+                b=by_feed.get(feed)
+                expected_statuses.append('Son bülten hazır' if b and g.timestamp(b['scheduled_for'],'slot')>=expected else 'Yeni bülten bekleniyor')
+            if statuses!=expected_statuses:
                 raise AssertionError(f'Client freshness clock: {statuses}')
             if page.locator('.story').count()!=home_count:raise AssertionError('Freshness must not remove stories')
             if not page.locator('.freshness ul').is_visible():raise AssertionError('Update accordion')
