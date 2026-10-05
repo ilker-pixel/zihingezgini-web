@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Import completed bulletins and render only /gazete/. No network/model calls."""
+"""Legacy Gazete preview tools; publication in this public repository is retired."""
 from __future__ import annotations
 
 import argparse
@@ -43,6 +43,14 @@ class InvalidBulletin(ValueError):
 
 def fail(message):
     raise InvalidBulletin(message)
+
+
+def require_preview_destination(path):
+    """Never recreate newspaper content anywhere in this public checkout."""
+    destination = Path(path).resolve()
+    public_root = ROOT.resolve()
+    if destination == public_root or public_root in destination.parents:
+        fail("Bu herkese açık depoda Gazete yayını kaldırıldı; yalnız depo dışındaki önizleme dizinleri kullanılabilir.")
 
 
 def fields(obj, required, optional=(), label="nesne"):
@@ -434,6 +442,7 @@ def freshness(current, now):
 
 
 def render(current, output, now):
+    require_preview_destination(output)
     output.mkdir(parents=True)
     (output / "data").mkdir()
     (output / "data/current.json").write_text(json.dumps(current, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -546,6 +555,7 @@ def locked(root):
 
 
 def replace_site(root, current, now):
+    require_preview_destination(root)
     target = root / "gazete"
     recovery = root / ".gazete-previous"
     if recovery.exists():
@@ -572,6 +582,7 @@ def replace_site(root, current, now):
 
 
 def import_bundle(root, bundle, now):
+    require_preview_destination(root)
     validate_bundle(bundle, now)  # Validate all feeds before changing any feed.
     with locked(root):
         recovery = root / ".gazete-previous"
@@ -598,6 +609,8 @@ def main(argv=None):
     if not root.is_dir() or root == Path('/') or root == Path.home():
         p.error("mevcut depo/önizleme kök dizini gerekli")
     try:
+        if not args.check_bundle:
+            require_preview_destination(root)
         if args.check_bundle:
             validate_bundle(read_json(args.check_bundle), now)
             result = {"valid": True}

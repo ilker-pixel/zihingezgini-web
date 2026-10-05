@@ -1,5 +1,19 @@
 # Gazete entegrasyonu
 
+## Herkese açık yayın kaldırıldı — 5 Ekim 2026
+
+Bu depodaki `/gazete/` yayını tamamen kaldırıldı. Aşağıdaki eski yayın ve Mac
+entegrasyonu yönergeleri yalnız tarihsel teknik referanstır; bu depoya yeniden
+gazete verisi, HTML veya başka bir gazete çıktısı eklemek için kullanılmamalıdır.
+Yeni yayınlar ayrı, özel Gazete hizmetine aittir. Eski adres için yönlendirme veya
+yer tutucu sayfa tutulmaz; Git geçmişi değiştirilmez.
+
+`tools/gazete/check_site.py`, `gazete/` dizininin (boş dizin veya sembolik bağlantı
+dahil) bulunmadığını doğrular. `tools/build_gazete.py` bu depo köküne ve altına
+yazmayı reddeder; paket doğrulaması ve depo dışındaki geçici önizlemeler çalışır.
+`python3 tools/test_gazete.py` yalnız geçici dizinlerde test üretir. İş akışları ve
+ana Zihin Gezgini sitesinin üretim, kontrol ve yayın ayarları değiştirilmez.
+
 Yalnız `/gazete/` ve ona özel üretim/test dosyaları. Ana Zihin Gezgini sitesi değişmez.
 Geliştirme dalı: `codex/gazete-four-feeds-sanitized`. Bu çalışma yayın veya push yapmaz.
 

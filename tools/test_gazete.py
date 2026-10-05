@@ -2,7 +2,10 @@
 """Gazete contract, replacement, recovery and output tests; never reads live data."""
 import copy
 import datetime as dt
+import contextlib
 from html.parser import HTMLParser
+import importlib.util
+import io
 import json
 from pathlib import Path
 import tempfile
@@ -539,6 +542,103 @@ class GazeteTest(unittest.TestCase):
         with self.assertRaises(g.InvalidBulletin):attach(current,bad)
         bad=copy.deepcopy(source);bad['details_by_article_id']['extra']=bad['details_by_article_id']['test-morning']
         with self.assertRaises(g.InvalidBulletin):attach(current,bad)
+
+
+class PublicRetirementTest(unittest.TestCase):
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.base = Path(self.tmp.name)
+        self.public = self.base / 'public-repository'
+        self.public.mkdir()
+        (self.public / 'unrelated.html').write_text('DO NOT CHANGE')
+        checker_path = g.ROOT / 'tools/gazete/check_site.py'
+        spec = importlib.util.spec_from_file_location('gazete_retirement_check', checker_path)
+        self.checker = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(self.checker)
+
+    def tearDown(self):
+        self.tmp.cleanup()
+
+    def test_absence_check_passes_without_writing(self):
+        before = files(self.public)
+        with contextlib.redirect_stdout(io.StringIO()):
+            self.checker.check(self.public)
+        self.assertEqual(before, files(self.public))
+
+    def test_absence_check_rejects_empty_directory_and_content(self):
+        site = self.public / 'gazete'
+        site.mkdir()
+        with self.assertRaises(ValueError):
+            self.checker.check(self.public)
+        (site / 'current.json').write_text('{}')
+        with self.assertRaises(ValueError):
+            self.checker.check(self.public)
+
+    def test_absence_check_rejects_broken_symlink(self):
+        (self.public / 'gazete').symlink_to(self.base / 'missing')
+        with self.assertRaises(ValueError):
+            self.checker.check(self.public)
+
+    def test_import_guard_runs_before_lock_or_recovery(self):
+        recovery = self.public / '.gazete-previous'
+        recovery.mkdir()
+        (recovery / 'index.html').write_text('OLD CONTENT')
+        before = files(self.public)
+        with patch.object(g, 'ROOT', self.public), patch.object(g, 'locked') as locked:
+            with self.assertRaises(g.InvalidBulletin):
+                g.import_bundle(self.public, bundle(bulletin()), NOW)
+            locked.assert_not_called()
+        self.assertEqual(before, files(self.public))
+        self.assertFalse((self.public / 'gazete').exists())
+
+    def test_replace_guard_preserves_existing_and_recovery_content(self):
+        for directory in ('gazete', '.gazete-previous'):
+            (self.public / directory).mkdir()
+            (self.public / directory / 'index.html').write_text(directory)
+        before = files(self.public)
+        with patch.object(g, 'ROOT', self.public):
+            with self.assertRaises(g.InvalidBulletin):
+                g.replace_site(self.public, bundle(bulletin()), NOW)
+        self.assertEqual(before, files(self.public))
+        self.assertFalse(list(self.public.glob('.gazete-stage-*')))
+
+    def test_direct_renderer_cannot_write_public_content(self):
+        before = files(self.public)
+        with patch.object(g, 'ROOT', self.public):
+            with self.assertRaises(g.InvalidBulletin):
+                g.render(bundle(bulletin()), self.public / 'gazete', NOW)
+        self.assertEqual(before, files(self.public))
+        self.assertFalse((self.public / 'gazete').exists())
+
+    def test_guard_resolves_aliases_and_rejects_public_subdirectories(self):
+        alias = self.base / 'alias'
+        alias.symlink_to(self.public, target_is_directory=True)
+        with patch.object(g, 'ROOT', self.public):
+            for destination in (self.public, self.public / 'preview', alias, alias / 'preview'):
+                with self.subTest(destination=destination), self.assertRaises(g.InvalidBulletin):
+                    g.require_preview_destination(destination)
+            g.require_preview_destination(self.base / 'private-preview')
+
+    def test_cli_render_and_import_refuse_public_root_before_lock(self):
+        package = self.base / 'bundle.json'
+        package.write_text(json.dumps(bundle(bulletin())))
+        before = files(self.public)
+        with patch.object(g, 'ROOT', self.public), patch.object(g, 'locked') as locked:
+            for arguments in (['--render'], ['--import-bundle', str(package)]):
+                with self.subTest(arguments=arguments), contextlib.redirect_stderr(io.StringIO()):
+                    self.assertEqual(g.main(arguments + ['--now', NOW.isoformat()]), 2)
+            locked.assert_not_called()
+        self.assertEqual(before, files(self.public))
+
+    def test_read_only_bundle_validation_remains_available(self):
+        package = self.base / 'bundle.json'
+        package.write_text(json.dumps(bundle(bulletin())))
+        before = files(self.public)
+        with patch.object(g, 'ROOT', self.public), contextlib.redirect_stdout(io.StringIO()) as output:
+            result = g.main(['--check-bundle', str(package), '--now', NOW.isoformat()])
+        self.assertEqual(result, 0)
+        self.assertEqual(json.loads(output.getvalue()), {'valid': True})
+        self.assertEqual(before, files(self.public))
 
 
 if __name__=='__main__':unittest.main(verbosity=2)
